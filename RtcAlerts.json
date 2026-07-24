@@ -1,17 +1,5 @@
 [
   {
-    "UniqueId": 51090,
-    "Timestamp": "2026-07-23 15:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:01 PM, Jul 23 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723782/attachment_0.png"
-  },
-  {
     "UniqueId": 51092,
     "Timestamp": "2026-07-23 15:25",
     "IncidentType": "Stalled vehicle",
@@ -1054,5 +1042,17 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "2:54 PM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at Mile 8. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724941/attachment_0.png"
+  },
+  {
+    "UniqueId": 51180,
+    "Timestamp": "2026-07-24 15:01",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:01 PM, Jul 24 2026 Crash on WB Tropicana Ave\u00A0before I-11. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724985/attachment_0.png"
   }
 ]
