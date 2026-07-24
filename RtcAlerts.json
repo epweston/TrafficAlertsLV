@@ -1,65 +1,5 @@
 [
   {
-    "UniqueId": 51085,
-    "Timestamp": "2026-07-23 14:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd off ramp",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:38 PM, Jul 23 2026 Crash on SB I-11\u00A0at Charleston Blvd off ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723765/attachment_0.png"
-  },
-  {
-    "UniqueId": 51086,
-    "Timestamp": "2026-07-23 14:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:45 PM, Jul 23 2026 Stalled vehicle on SB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723773/attachment_0.png"
-  },
-  {
-    "UniqueId": 51087,
-    "Timestamp": "2026-07-23 14:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:47 PM, Jul 23 2026 Crash on NB Rainbow Blvd\u00A0at Warm Springs Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723774/attachment_0.png"
-  },
-  {
-    "UniqueId": 51088,
-    "Timestamp": "2026-07-23 14:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:49 PM, Jul 23 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0before Dean Martin Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723788/attachment_0.png"
-  },
-  {
-    "UniqueId": 51089,
-    "Timestamp": "2026-07-23 14:52",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:52 PM, Jul 23 2026 Vehicle on fire on SB I-11\u00A0to Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723779/attachment_0.png"
-  },
-  {
     "UniqueId": 51090,
     "Timestamp": "2026-07-23 15:01",
     "IncidentType": "Stalled vehicle",
@@ -1090,5 +1030,17 @@
     "Impact": "Left lane partially blocked.",
     "Notes": "2:33 PM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Left lane partially blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724947/attachment_0.png"
+  },
+  {
+    "UniqueId": 51178,
+    "Timestamp": "2026-07-24 14:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Skye Canyon Park Dr",
+    "Relationship": "after",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:48 PM, Jul 24 2026 Crash on EB Skye Canyon Park Dr\u00A0after Grand Canyon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724937/attachment_0.png"
   }
 ]
