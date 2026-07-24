@@ -1,17 +1,5 @@
 [
   {
-    "UniqueId": 51099,
-    "Timestamp": "2026-07-23 16:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd North",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:04 PM, Jul 23 2026 Crash on NB Lamb Blvd\u00A0before Las Vegas Blvd North. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723863/attachment_0.png"
-  },
-  {
     "UniqueId": 51100,
     "Timestamp": "2026-07-23 16:09",
     "IncidentType": "Crash",
@@ -1006,5 +994,17 @@
     "Impact": "Center lane blocked.",
     "Notes": "3:54 PM, Jul 24 2026 Crash on SB I-11\u00A0at Rainbow Blvd. Center lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725008/attachment_0.png"
+  },
+  {
+    "UniqueId": 51184,
+    "Timestamp": "2026-07-24 16:00",
+    "IncidentType": "Update: Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd moved to right shoulder",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:00 PM, Jul 24 2026 Update: Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd moved to right shoulder. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725010/attachment_0.png"
   }
 ]
