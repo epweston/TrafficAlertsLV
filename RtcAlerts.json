@@ -1,29 +1,5 @@
 [
   {
-    "UniqueId": 51102,
-    "Timestamp": "2026-07-23 16:24",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Vegas Valley Dr",
-    "Relationship": "at",
-    "CrossStreet": "Juniper Hills Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:24 PM, Jul 23 2026 Crash on EB Vegas Valley Dr\u00A0at Juniper Hills Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723890/attachment_0.png"
-  },
-  {
-    "UniqueId": 51103,
-    "Timestamp": "2026-07-23 16:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:26 PM, Jul 23 2026 Crash on SB Jones Blvd\u00A0after Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723892/attachment_0.png"
-  },
-  {
     "UniqueId": 51104,
     "Timestamp": "2026-07-23 16:28",
     "IncidentType": "Crash",
@@ -1054,5 +1030,17 @@
     "Impact": "Right lane blocked.",
     "Notes": "4:16 PM, Jul 24 2026 Crash on EB Sahara Ave\u00A0after I-15. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725033/attachment_0.png"
+  },
+  {
+    "UniqueId": 51191,
+    "Timestamp": "2026-07-24 16:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right shoulder.",
+    "Notes": "4:23 PM, Jul 24 2026 Stalled vehicle on NB I-11\u00A0before Wagon Wheel Dr. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725043/attachment_0.png"
   }
 ]
