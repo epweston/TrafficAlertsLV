@@ -1,17 +1,5 @@
 [
   {
-    "UniqueId": 51039,
-    "Timestamp": "2026-07-23 04:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "* attachment_0.png [ https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3722840/attachment_0.png ]",
-    "ImagePath": "attachment_0.png"
-  },
-  {
     "UniqueId": 51040,
     "Timestamp": "2026-07-23 04:50",
     "IncidentType": "Crash",
@@ -1138,5 +1126,17 @@
     "Impact": "Left lane blocked.",
     "Notes": "4:02 AM, Jul 24 2026 Police activity on NB Eastern Ave\u00A0at I-11. Left lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724017/attachment_0.png"
+  },
+  {
+    "UniqueId": 51134,
+    "Timestamp": "2026-07-24 04:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:12 AM, Jul 24 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "attachment_0.png"
   }
 ]
