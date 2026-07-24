@@ -1,17 +1,5 @@
 [
   {
-    "UniqueId": 51100,
-    "Timestamp": "2026-07-23 16:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Raiders Way",
-    "Relationship": "after",
-    "CrossStreet": "Sunridge Heights Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:09 PM, Jul 23 2026 Crash on SB Raiders Way\u00A0after Sunridge Heights Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723885/attachment_0.jpg"
-  },
-  {
     "UniqueId": 51101,
     "Timestamp": "2026-07-23 16:15",
     "IncidentType": "Crash",
@@ -1006,5 +994,53 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "4:00 PM, Jul 24 2026 Update: Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd moved to right shoulder. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725010/attachment_0.png"
+  },
+  {
+    "UniqueId": 51185,
+    "Timestamp": "2026-07-24 16:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "4:05 PM, Jul 24 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Lake Mead Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725012/attachment_0.png"
+  },
+  {
+    "UniqueId": 51186,
+    "Timestamp": "2026-07-24 16:06",
+    "IncidentType": "Two stalled vehicles",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:06 PM, Jul 24 2026 Two stalled vehicles on SB 215 Western Beltway\u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725031/attachment_0.png"
+  },
+  {
+    "UniqueId": 51187,
+    "Timestamp": "2026-07-24 16:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sky Pointe Dr off-ramp",
+    "Impact": "Right shoulder.",
+    "Notes": "4:09 PM, Jul 24 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Sky Pointe Dr off-ramp. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725013/attachment_0.png"
+  },
+  {
+    "UniqueId": 51188,
+    "Timestamp": "2026-07-24 16:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:09 PM, Jul 24 2026 Crash on NB 215 Western Beltway\u00A0at Lake Mead Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725015/attachment_0.png"
   }
 ]
