@@ -1,41 +1,5 @@
 [
   {
-    "UniqueId": 51104,
-    "Timestamp": "2026-07-23 16:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:28 PM, Jul 23 2026 Crash on SB I-11\u00A0at Rancho Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723870/attachment_0.png"
-  },
-  {
-    "UniqueId": 51105,
-    "Timestamp": "2026-07-23 16:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:29 PM, Jul 23 2026 Crash on EB Tropicana Ave\u00A0at Grand Canyon Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723871/attachment_0.png"
-  },
-  {
-    "UniqueId": 51106,
-    "Timestamp": "2026-07-23 16:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:31 PM, Jul 23 2026 Crash on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723873/attachment_0.png"
-  },
-  {
     "UniqueId": 51107,
     "Timestamp": "2026-07-23 16:33",
     "IncidentType": "Stalled vehicle",
@@ -1042,5 +1006,17 @@
     "Impact": "Right shoulder.",
     "Notes": "4:23 PM, Jul 24 2026 Stalled vehicle on NB I-11\u00A0before Wagon Wheel Dr. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725043/attachment_0.png"
+  },
+  {
+    "UniqueId": 51192,
+    "Timestamp": "2026-07-24 16:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Harris Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:30 PM, Jul 24 2026 Crash on SB Nellis Blvd\u00A0before Harris Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725035/attachment_0.png"
   }
 ]
