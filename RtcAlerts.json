@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51129,
-    "Timestamp": "2026-07-24 03:17",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:17 AM, Jul 24 2026 Police activity on SB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724006/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51130,
-    "Timestamp": "2026-07-24 03:18",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:18 AM, Jul 24 2026 Police activity on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724007/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51131,
     "Timestamp": "2026-07-24 03:47",
     "IncidentType": "Crash",
@@ -1524,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725122/attachment_0.png",
     "Latitude": 36.181234000000003,
     "Longitude": -115.187972
+  },
+  {
+    "UniqueId": 51238,
+    "Timestamp": "2026-07-25 03:40",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:40 AM, Jul 25 2026 Police activity on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725163/attachment_0.png",
+    "Latitude": 36.144399,
+    "Longitude": -115.31997699999999
+  },
+  {
+    "UniqueId": 51239,
+    "Timestamp": "2026-07-25 03:44",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:44 AM, Jul 25 2026 Police activity on WB Sahara Ave\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725147/attachment_0.png",
+    "Latitude": 36.144332499999997,
+    "Longitude": -115.3005604
   }
 ]
