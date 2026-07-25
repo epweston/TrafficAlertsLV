@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51182,
-    "Timestamp": "2026-07-24 15:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:49 PM, Jul 24 2026 Crash on NB I-11\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725023/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51183,
-    "Timestamp": "2026-07-24 15:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:54 PM, Jul 24 2026 Crash on SB I-11\u00A0at Rainbow Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725008/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51184,
     "Timestamp": "2026-07-24 16:00",
     "IncidentType": "Update: Stalled vehicle",
@@ -1440,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725343/attachment_0.jpg",
     "Latitude": 36.125931000000001,
     "Longitude": -115.28346500000001
+  },
+  {
+    "UniqueId": 51285,
+    "Timestamp": "2026-07-25 15:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:55 PM, Jul 25 2026 Crash on SB Las Vegas Blvd\u00A0before Warm Springs Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725345/attachment_0.png",
+    "Latitude": 36.056922999999998,
+    "Longitude": -115.11193900000001
   }
 ]
