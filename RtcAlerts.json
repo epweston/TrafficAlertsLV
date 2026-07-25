@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51176,
-    "Timestamp": "2026-07-24 14:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Right shoulder.",
-    "Notes": "2:15 PM, Jul 24 2026 Stalled vehicle on SB I-11\u00A0before S Rancho Dr. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724919/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51177,
     "Timestamp": "2026-07-24 14:33",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725323/attachment_0.png",
     "Latitude": 36.130620999999998,
     "Longitude": -115.146289
+  },
+  {
+    "UniqueId": 51277,
+    "Timestamp": "2026-07-25 14:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Gore blocked.",
+    "Notes": "2:15 PM, Jul 25 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725324/attachment_0.png",
+    "Latitude": 36.316881000000002,
+    "Longitude": -115.20717000000001
   }
 ]
