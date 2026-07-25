@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51178,
-    "Timestamp": "2026-07-24 14:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Skye Canyon Park Dr",
-    "Relationship": "after",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:48 PM, Jul 24 2026 Crash on EB Skye Canyon Park Dr\u00A0after Grand Canyon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724937/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51179,
-    "Timestamp": "2026-07-24 14:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 8",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:54 PM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at Mile 8. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724941/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51180,
-    "Timestamp": "2026-07-24 15:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:01 PM, Jul 24 2026 Crash on WB Tropicana Ave\u00A0before I-11. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724985/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51181,
     "Timestamp": "2026-07-24 15:23",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725313/attachment_0.png",
     "Latitude": 36.066265000000001,
     "Longitude": -115.141154
+  },
+  {
+    "UniqueId": 51281,
+    "Timestamp": "2026-07-25 15:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "3:01 PM, Jul 25 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Decatur Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725331/attachment_0.png",
+    "Latitude": 36.175437000000002,
+    "Longitude": -115.206047
   }
 ]
