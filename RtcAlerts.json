@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51147,
-    "Timestamp": "2026-07-24 09:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Meadows Ln",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "9:48 AM, Jul 24 2026 Crash on NB Decatur Blvd\u00A0at Meadows Ln. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724482/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51148,
     "Timestamp": "2026-07-24 09:57",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725228/attachment_0.png",
     "Latitude": 36.166567999999998,
     "Longitude": -115.115779
+  },
+  {
+    "UniqueId": 51258,
+    "Timestamp": "2026-07-25 09:49",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "9:49 AM, Jul 25 2026 Crash on EB Charleston Blvd\u00A0at Decatur Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725231/attachment_0.png",
+    "Latitude": 36.093592999999998,
+    "Longitude": -115.207944
   }
 ]
