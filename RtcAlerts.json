@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51111,
-    "Timestamp": "2026-07-23 17:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:37 PM, Jul 23 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723910/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51112,
-    "Timestamp": "2026-07-23 17:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:39 PM, Jul 23 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723912/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51113,
-    "Timestamp": "2026-07-23 17:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:49 PM, Jul 23 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723924/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51114,
     "Timestamp": "2026-07-23 17:52",
     "IncidentType": "Crash",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725070/attachment_0.jpg",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 51204,
+    "Timestamp": "2026-07-24 17:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15 CD road",
+    "Relationship": "under",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "5:41 PM, Jul 24 2026 Crash on NB I-15 CD road under Russell Rd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725072/attachment_0.png",
+    "Latitude": 36.084921000000001,
+    "Longitude": -115.263243
   }
 ]
