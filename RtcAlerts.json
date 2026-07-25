@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51148,
-    "Timestamp": "2026-07-24 09:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Hotel Rio Dr",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "9:57 AM, Jul 24 2026 Crash on WB Flamingo Rd\u00A0at Hotel Rio Dr. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724459/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51149,
     "Timestamp": "2026-07-24 10:01",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725231/attachment_0.png",
     "Latitude": 36.093592999999998,
     "Longitude": -115.207944
+  },
+  {
+    "UniqueId": 51259,
+    "Timestamp": "2026-07-25 09:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:53 AM, Jul 25 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725220/attachment_0.png",
+    "Latitude": 36.166567999999998,
+    "Longitude": -115.115779
   }
 ]
