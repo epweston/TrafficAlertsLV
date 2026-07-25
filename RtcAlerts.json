@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51115,
-    "Timestamp": "2026-07-23 17:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:58 PM, Jul 23 2026 Crash on WB Blue Diamond Rd\u00A0before Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723914/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51116,
-    "Timestamp": "2026-07-23 18:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "6:07 PM, Jul 23 2026 Crash on NB Nellis Blvd\u00A0before Stewart Ave. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723917/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51117,
     "Timestamp": "2026-07-23 18:27",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725089/attachment_0.png",
     "Latitude": 36.071066000000002,
     "Longitude": -115.180071
+  },
+  {
+    "UniqueId": 51206,
+    "Timestamp": "2026-07-24 18:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "Scott Robinson Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:19 PM, Jul 24 2026 Crash on EB Craig Rd\u00A0after Scott Robinson Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725091/attachment_0.png",
+    "Latitude": 36.171793000000001,
+    "Longitude": -115.26813199999999
   }
 ]
