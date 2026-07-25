@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51144,
-    "Timestamp": "2026-07-24 09:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:20 AM, Jul 24 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724429/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51145,
     "Timestamp": "2026-07-24 09:23",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725216/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51256,
+    "Timestamp": "2026-07-25 09:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Mountain Vista St",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "9:17 AM, Jul 25 2026 Crash on SB Mountain Vista St\u00A0at Harmon Ave. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725226/attachment_0.png",
+    "Latitude": 36.074539000000001,
+    "Longitude": -115.07310800000001
   }
 ]
