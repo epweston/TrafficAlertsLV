@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51177,
-    "Timestamp": "2026-07-24 14:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Left lane partially blocked.",
-    "Notes": "2:33 PM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Left lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724947/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51178,
     "Timestamp": "2026-07-24 14:48",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725326/attachment_0.jpg",
     "Latitude": 36.166567999999998,
     "Longitude": -115.115779
+  },
+  {
+    "UniqueId": 51279,
+    "Timestamp": "2026-07-25 14:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Badura Ave",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "2:31 PM, Jul 25 2026 Crash on EB Badura Ave\u00A0before Rainbow Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725310/attachment_0.jpg",
+    "Latitude": 36.297826000000001,
+    "Longitude": -115.24224100000001
   }
 ]
