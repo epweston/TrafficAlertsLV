@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51128,
-    "Timestamp": "2026-07-24 02:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Spencer St",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:21 AM, Jul 24 2026 Crash on SB Spencer St\u00A0after Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3723976/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51129,
     "Timestamp": "2026-07-24 03:17",
     "IncidentType": "Police activity",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725144/attachment_0.jpg",
     "Latitude": 36.149129000000002,
     "Longitude": -115.065454
+  },
+  {
+    "UniqueId": 51236,
+    "Timestamp": "2026-07-25 03:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:05 AM, Jul 25 2026 Crash on NB Rainbow Blvd\u00A0at Summerlin Pkwy. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725145/attachment_0.png",
+    "Latitude": 36.178328,
+    "Longitude": -115.250739
   }
 ]
