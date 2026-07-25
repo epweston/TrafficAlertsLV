@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51181,
-    "Timestamp": "2026-07-24 15:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:23 PM, Jul 24 2026 Stalled vehicle on SB I-11\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724991/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51182,
     "Timestamp": "2026-07-24 15:49",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725317/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51283,
+    "Timestamp": "2026-07-25 15:40",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Raiders Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:40 PM, Jul 25 2026 Crash on WB St Rose Pkwy\u00A0before Raiders Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725321/attachment_0.jpg",
+    "Latitude": 36.154389000000002,
+    "Longitude": -115.32266799999999
   }
 ]
