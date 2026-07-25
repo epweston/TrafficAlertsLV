@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51166,
-    "Timestamp": "2026-07-24 12:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:02 PM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724719/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51167,
-    "Timestamp": "2026-07-24 12:07",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "before",
-    "CrossStreet": "Mel Torme Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:07 PM, Jul 24 2026 Crash on WB Spring Mountain Rd\u00A0before Mel Torme Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724744/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51168,
     "Timestamp": "2026-07-24 12:17",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725261/attachment_0.png",
     "Latitude": 36.217286000000001,
     "Longitude": -115.20746
+  },
+  {
+    "UniqueId": 51267,
+    "Timestamp": "2026-07-25 12:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 104",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:07 PM, Jul 25 2026 Crash on NB I-15\u00A0at Mile 104. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725276/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 51268,
+    "Timestamp": "2026-07-25 12:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:09 PM, Jul 25 2026 Crash on EB Tropicana Ave\u00A0before Paradise Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725278/attachment_0.png",
+    "Latitude": 36.066265000000001,
+    "Longitude": -115.141154
   }
 ]
