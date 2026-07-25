@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51143,
-    "Timestamp": "2026-07-24 09:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:06 AM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724380/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51144,
     "Timestamp": "2026-07-24 09:20",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725223/attachment_0.png",
     "Latitude": 36.173909999999999,
     "Longitude": -115.268908
+  },
+  {
+    "UniqueId": 51254,
+    "Timestamp": "2026-07-25 09:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:02 AM, Jul 25 2026 Crash on EB Spring Mountain Rd\u00A0before Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725225/attachment_0.jpg",
+    "Latitude": 36.125931000000001,
+    "Longitude": -115.28346500000001
   }
 ]
