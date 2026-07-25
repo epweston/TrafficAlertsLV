@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51118,
-    "Timestamp": "2026-07-23 19:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:05 PM, Jul 23 2026 Crash on NB I-11\u00A0to Ann Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723935/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51119,
     "Timestamp": "2026-07-23 19:51",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725076/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51209,
+    "Timestamp": "2026-07-24 19:23",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "All WB lanes are blocked. Use other routes",
+    "Notes": "7:23 PM, Jul 24 2026 Crash on WB Washington Ave\u00A0at Rancho Dr. All WB lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725077/attachment_0.png",
+    "Latitude": 36.092086000000002,
+    "Longitude": -115.026466
   }
 ]
