@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51142,
-    "Timestamp": "2026-07-24 08:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pioneer Way",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:39 AM, Jul 24 2026 Crash on EB Craig Rd\u00A0at Pioneer Way. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724352/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51143,
     "Timestamp": "2026-07-24 09:06",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725201/attachment_0.png",
     "Latitude": 36.297826000000001,
     "Longitude": -115.24224100000001
+  },
+  {
+    "UniqueId": 51252,
+    "Timestamp": "2026-07-25 08:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:43 AM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725214/attachment_0.png",
+    "Latitude": 36.195726000000001,
+    "Longitude": -115.093818
   }
 ]
