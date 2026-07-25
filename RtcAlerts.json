@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51145,
-    "Timestamp": "2026-07-24 09:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:23 AM, Jul 24 2026 Stalled vehicle on SB I-11\u00A0after Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724415/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51146,
-    "Timestamp": "2026-07-24 09:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Horizon Dr",
-    "Relationship": "after",
-    "CrossStreet": "Greenway Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:36 AM, Jul 24 2026 Crash on EB Horizon Dr\u00A0after Greenway Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724453/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51147,
     "Timestamp": "2026-07-24 09:48",
     "IncidentType": "Crash",
@@ -1566,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725226/attachment_0.png",
     "Latitude": 36.074539000000001,
     "Longitude": -115.07310800000001
+  },
+  {
+    "UniqueId": 51257,
+    "Timestamp": "2026-07-25 09:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "9:37 AM, Jul 25 2026 Crash on EB Tropicana Ave\u00A0at Eastern Ave. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725228/attachment_0.png",
+    "Latitude": 36.166567999999998,
+    "Longitude": -115.115779
   }
 ]
