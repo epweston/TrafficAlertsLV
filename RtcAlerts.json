@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51172,
-    "Timestamp": "2026-07-24 12:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Intersection is closed. Use other routes",
-    "Notes": "12:45 PM, Jul 24 2026 Crash on SB Decatur Blvd\u00A0after Cheyenne Ave. Intersection is closed. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724815/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51173,
-    "Timestamp": "2026-07-24 13:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "over",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:30 PM, Jul 24 2026 Stalled vehicle on NB I-11\u00A0over Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724854/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51174,
     "Timestamp": "2026-07-24 13:40",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725290/attachment_0.png",
     "Latitude": 36.158819999999999,
     "Longitude": -115.11654900000001
+  },
+  {
+    "UniqueId": 51272,
+    "Timestamp": "2026-07-25 13:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:29 PM, Jul 25 2026 Crash on EB Centennial Pkwy\u00A0after Lamb Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725282/attachment_0.jpg",
+    "Latitude": 36.267136000000001,
+    "Longitude": -115.26070300000001
   }
 ]
