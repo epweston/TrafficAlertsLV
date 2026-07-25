@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51119,
-    "Timestamp": "2026-07-23 19:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:51 PM, Jul 23 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723922/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51120,
-    "Timestamp": "2026-07-23 19:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:56 PM, Jul 23 2026 Stalled vehicle on NB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723943/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51121,
-    "Timestamp": "2026-07-23 20:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Range Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:40 PM, Jul 23 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Range Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51122,
     "Timestamp": "2026-07-23 20:53",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725098/attachment_0.png",
     "Latitude": 36.181234000000003,
     "Longitude": -115.187972
+  },
+  {
+    "UniqueId": 51212,
+    "Timestamp": "2026-07-24 20:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Update: All WB lanes are Open!",
+    "Notes": "8:43 PM, Jul 24 2026 Crash on WB Washington Ave\u00A0at Rancho Dr. Update: All WB lanes are Open!",
+    "ImagePath": "",
+    "Latitude": 36.092086000000002,
+    "Longitude": -115.026466
   }
 ]
