@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51159,
-    "Timestamp": "2026-07-24 11:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 22",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:22 AM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at Mile 22. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724669/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51160,
-    "Timestamp": "2026-07-24 11:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:24 AM, Jul 24 2026 Crash on SB Decatur Blvd\u00A0after Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724687/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51161,
     "Timestamp": "2026-07-24 11:34",
     "IncidentType": "Crash",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725271/attachment_0.jpg",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 51265,
+    "Timestamp": "2026-07-25 11:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "11:28 AM, Jul 25 2026 Stalled vehicle on SB I-11\u00A0before Russell Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725259/attachment_0.jpg",
+    "Latitude": 36.084921000000001,
+    "Longitude": -115.263243
   }
 ]
