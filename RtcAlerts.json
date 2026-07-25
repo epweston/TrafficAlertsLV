@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51139,
-    "Timestamp": "2026-07-24 07:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:53 AM, Jul 24 2026 Crash on SB I-15\u00A0before Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724284/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51140,
-    "Timestamp": "2026-07-24 08:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:19 AM, Jul 24 2026 Crash on SB Jones Blvd\u00A0at Blue Diamond Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724321/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51141,
     "Timestamp": "2026-07-24 08:32",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725199/attachment_0.png",
     "Latitude": 36.100861999999999,
     "Longitude": -115.16987
+  },
+  {
+    "UniqueId": 51250,
+    "Timestamp": "2026-07-25 08:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Gore blocked.",
+    "Notes": "8:26 AM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725212/attachment_0.png",
+    "Latitude": 36.144399,
+    "Longitude": -115.31997699999999
   }
 ]
