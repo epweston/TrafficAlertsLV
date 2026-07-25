@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51156,
-    "Timestamp": "2026-07-24 11:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:00 AM, Jul 24 2026 Stalled vehicle on SB I-11\u00A0after Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724614/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51157,
-    "Timestamp": "2026-07-24 11:08",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pioneer Way",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:08 AM, Jul 24 2026 Update Crash on EB Craig Rd\u00A0at Pioneer Way. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724621/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51158,
     "Timestamp": "2026-07-24 11:15",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725251/attachment_0.png",
     "Latitude": 36.217286000000001,
     "Longitude": -115.20746
+  },
+  {
+    "UniqueId": 51262,
+    "Timestamp": "2026-07-25 11:05",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:05 AM, Jul 25 2026 Crash on WB Craig Rd\u00A0before Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725256/attachment_0.png",
+    "Latitude": 36.053469,
+    "Longitude": -115.10030399999999
   }
 ]
