@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51117,
-    "Timestamp": "2026-07-23 18:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:27 PM, Jul 23 2026 Stalled vehicle on SB I-15\u00A0at Main St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723931/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51118,
     "Timestamp": "2026-07-23 19:05",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725091/attachment_0.png",
     "Latitude": 36.171793000000001,
     "Longitude": -115.26813199999999
+  },
+  {
+    "UniqueId": 51207,
+    "Timestamp": "2026-07-24 18:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left shoulder.",
+    "Notes": "6:43 PM, Jul 24 2026 Stalled vehicle on SB I-15\u00A0before Flamingo Rd. Left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725074/attachment_0.png",
+    "Latitude": 36.114491000000001,
+    "Longitude": -115.163997
   }
 ]
