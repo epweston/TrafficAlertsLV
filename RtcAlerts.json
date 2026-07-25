@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51126,
-    "Timestamp": "2026-07-23 22:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:48 PM, Jul 23 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723966/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51127,
     "Timestamp": "2026-07-23 23:25",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725110/attachment_0.jpg",
     "Latitude": 36.159106000000001,
     "Longitude": -115.25087600000001
+  },
+  {
+    "UniqueId": 51225,
+    "Timestamp": "2026-07-24 22:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Wyoming Ave",
+    "Relationship": "before",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:57 PM, Jul 24 2026 Crash on WB Wyoming Ave\u00A0before Casino Center Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725112/attachment_0.png",
+    "Latitude": 36.174745000000001,
+    "Longitude": -115.141436
   }
 ]
