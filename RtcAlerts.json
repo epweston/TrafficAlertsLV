@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51123,
-    "Timestamp": "2026-07-23 22:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:04 PM, Jul 23 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/23/file_attachments/3723949/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51125,
     "Timestamp": "2026-07-23 22:39",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725125/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51220,
+    "Timestamp": "2026-07-24 22:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Cambridge St",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:11 PM, Jul 24 2026 Crash on NB Cambridge St\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725127/attachment_0.png",
+    "Latitude": 36.114491000000001,
+    "Longitude": -115.163997
   }
 ]
