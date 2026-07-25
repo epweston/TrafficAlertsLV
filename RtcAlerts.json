@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51158,
-    "Timestamp": "2026-07-24 11:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:15 AM, Jul 24 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3724663/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51159,
     "Timestamp": "2026-07-24 11:22",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725258/attachment_0.png",
     "Latitude": 36.100861999999999,
     "Longitude": -115.16987
+  },
+  {
+    "UniqueId": 51264,
+    "Timestamp": "2026-07-25 11:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 120 (before Mesquite)",
+    "Impact": "Right shoulder.",
+    "Notes": "11:14 AM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0before Mile 120 (before Mesquite). Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725271/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
