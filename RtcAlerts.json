@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51287,
-    "Timestamp": "2026-07-25 16:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:13 PM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725335/attachment_0.png",
-    "Latitude": 36.195726000000001,
-    "Longitude": -115.093818
-  },
-  {
     "UniqueId": 51288,
     "Timestamp": "2026-07-25 16:50",
     "IncidentType": "Crash",
@@ -1258,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725611/attachment_0.jpg",
     "Latitude": 36.237287000000002,
     "Longitude": -115.29754200000001
+  },
+  {
+    "UniqueId": 51377,
+    "Timestamp": "2026-07-26 16:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "4:09 PM, Jul 26 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Sunset Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725613/attachment_0.png",
+    "Latitude": 36.071145999999999,
+    "Longitude": -115.16289399999999
+  },
+  {
+    "UniqueId": 51378,
+    "Timestamp": "2026-07-26 16:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 103",
+    "Impact": "Right shoulder",
+    "Notes": "4:11 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Mile 103. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725581/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
