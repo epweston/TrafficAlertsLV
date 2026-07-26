@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 51274,
-    "Timestamp": "2026-07-25 13:51",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "1:51 PM, Jul 25 2026 Police activity on WB 215 Southern Beltway\u00A0before Rainbow Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725301/attachment_0.png",
-    "Latitude": 36.17727,
-    "Longitude": -115.24317499999999
-  },
-  {
-    "UniqueId": 51275,
-    "Timestamp": "2026-07-25 14:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:05 PM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725307/attachment_0.png",
-    "Latitude": 36.008389000000001,
-    "Longitude": -115.15156500000001
-  },
-  {
-    "UniqueId": 51276,
-    "Timestamp": "2026-07-25 14:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Joe W Brown Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:09 PM, Jul 25 2026 Stalled vehicle on EB Desert Inn Rd\u00A0before Joe W Brown Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725323/attachment_0.png",
-    "Latitude": 36.130620999999998,
-    "Longitude": -115.146289
-  },
-  {
-    "UniqueId": 51277,
-    "Timestamp": "2026-07-25 14:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Gore blocked.",
-    "Notes": "2:15 PM, Jul 25 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725324/attachment_0.png",
-    "Latitude": 36.316881000000002,
-    "Longitude": -115.20717000000001
-  },
-  {
-    "UniqueId": 51278,
-    "Timestamp": "2026-07-25 14:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:26 PM, Jul 25 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725326/attachment_0.jpg",
-    "Latitude": 36.166567999999998,
-    "Longitude": -115.115779
-  },
-  {
     "UniqueId": 51279,
     "Timestamp": "2026-07-25 14:31",
     "IncidentType": "Crash",
@@ -1328,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725594/attachment_0.jpg",
     "Latitude": 36.239536000000001,
     "Longitude": -115.23252600000001
+  },
+  {
+    "UniqueId": 51369,
+    "Timestamp": "2026-07-26 14:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:22 PM, Jul 26 2026 Crash on WB 215 Southern Beltway\u00A0at Pecos Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725599/attachment_0.jpg",
+    "Latitude": 36.165149999999997,
+    "Longitude": -115.09824999999999
   }
 ]
