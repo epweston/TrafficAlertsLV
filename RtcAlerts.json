@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51280,
-    "Timestamp": "2026-07-25 14:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:43 PM, Jul 25 2026 Crash on EB Tropicana Ave\u00A0before Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725313/attachment_0.png",
-    "Latitude": 36.066265000000001,
-    "Longitude": -115.141154
-  },
-  {
-    "UniqueId": 51281,
-    "Timestamp": "2026-07-25 15:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:01 PM, Jul 25 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Decatur Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725331/attachment_0.png",
-    "Latitude": 36.175437000000002,
-    "Longitude": -115.206047
-  },
-  {
     "UniqueId": 51282,
     "Timestamp": "2026-07-25 15:09",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725572/attachment_0.jpg",
     "Latitude": 36.159151000000001,
     "Longitude": -115.01907300000001
+  },
+  {
+    "UniqueId": 51371,
+    "Timestamp": "2026-07-26 14:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Multiple directions blocked.",
+    "Notes": "2:58 PM, Jul 26 2026 Crash on EB Flamingo Rd\u00A0at University Center Dr. Multiple directions blocked.",
+    "ImagePath": "",
+    "Latitude": 36.112468,
+    "Longitude": -115.115611
+  },
+  {
+    "UniqueId": 51372,
+    "Timestamp": "2026-07-26 14:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Multiple directions blocked.",
+    "Notes": "2:58 PM, Jul 26 2026 Crash on EB Flamingo Rd\u00A0at University Center Dr. Multiple directions blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725603/attachment_0.png",
+    "Latitude": 36.112468,
+    "Longitude": -115.115611
   }
 ]
