@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51217,
-    "Timestamp": "2026-07-24 21:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:19 PM, Jul 24 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725104/attachment_0.png",
-    "Latitude": 36.100861999999999,
-    "Longitude": -115.16987
-  },
-  {
     "UniqueId": 51218,
     "Timestamp": "2026-07-24 21:36",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725404/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51315,
+    "Timestamp": "2026-07-25 21:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:25 PM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725406/attachment_0.png",
+    "Latitude": 36.130535999999999,
+    "Longitude": -115.180294
   }
 ]
