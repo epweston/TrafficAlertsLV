@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51282,
-    "Timestamp": "2026-07-25 15:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:09 PM, Jul 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725317/attachment_0.png",
-    "Latitude": 36.191499999999998,
-    "Longitude": -115.04078199999999
-  },
-  {
     "UniqueId": 51283,
     "Timestamp": "2026-07-25 15:40",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725603/attachment_0.png",
     "Latitude": 36.112468,
     "Longitude": -115.115611
+  },
+  {
+    "UniqueId": 51373,
+    "Timestamp": "2026-07-26 15:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:24 PM, Jul 26 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725574/attachment_0.png",
+    "Latitude": 36.092562999999998,
+    "Longitude": -115.147239
   }
 ]
