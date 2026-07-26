@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51265,
-    "Timestamp": "2026-07-25 11:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "11:28 AM, Jul 25 2026 Stalled vehicle on SB I-11\u00A0before Russell Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725259/attachment_0.jpg",
-    "Latitude": 36.084921000000001,
-    "Longitude": -115.263243
-  },
-  {
-    "UniqueId": 51266,
-    "Timestamp": "2026-07-25 11:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "11:51 AM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725261/attachment_0.png",
-    "Latitude": 36.217286000000001,
-    "Longitude": -115.20746
-  },
-  {
     "UniqueId": 51267,
     "Timestamp": "2026-07-25 12:07",
     "IncidentType": "Crash",
@@ -1300,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725532/attachment_0.jpg",
     "Latitude": 36.077398000000002,
     "Longitude": -115.312477
+  },
+  {
+    "UniqueId": 51358,
+    "Timestamp": "2026-07-26 12:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sandhill Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:00 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sandhill Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725553/attachment_0.png",
+    "Latitude": 36.187072000000001,
+    "Longitude": -115.089161
   }
 ]
