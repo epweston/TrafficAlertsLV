@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51237,
-    "Timestamp": "2026-07-25 03:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:12 AM, Jul 25 2026 Crash on SB Lamb Blvd\u00A0before Washington Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725122/attachment_0.png",
-    "Latitude": 36.181234000000003,
-    "Longitude": -115.187972
-  },
-  {
     "UniqueId": 51238,
     "Timestamp": "2026-07-25 03:40",
     "IncidentType": "Police activity",
@@ -1272,5 +1258,33 @@
     "ImagePath": "",
     "Latitude": 36.184992000000001,
     "Longitude": -115.08686400000001
+  },
+  {
+    "UniqueId": 51328,
+    "Timestamp": "2026-07-26 03:06",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "4 Left lanes blocked. Expect Delays",
+    "Notes": "3:06 AM, Jul 26 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. 4 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725430/attachment_0.png",
+    "Latitude": 36.042380000000001,
+    "Longitude": -115.172353
+  },
+  {
+    "UniqueId": 51329,
+    "Timestamp": "2026-07-26 03:07",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:07 AM, Jul 26 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725422/attachment_0.png",
+    "Latitude": 36.042380000000001,
+    "Longitude": -115.172353
   }
 ]
