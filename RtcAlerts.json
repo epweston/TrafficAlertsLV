@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51204,
-    "Timestamp": "2026-07-24 17:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15 CD road",
-    "Relationship": "under",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:41 PM, Jul 24 2026 Crash on NB I-15 CD road under Russell Rd. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725072/attachment_0.png",
-    "Latitude": 36.084921000000001,
-    "Longitude": -115.263243
-  },
-  {
-    "UniqueId": 51205,
-    "Timestamp": "2026-07-24 17:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:50 PM, Jul 24 2026 Crash on SB Rainbow Blvd\u00A0at Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725089/attachment_0.png",
-    "Latitude": 36.071066000000002,
-    "Longitude": -115.180071
-  },
-  {
     "UniqueId": 51206,
     "Timestamp": "2026-07-24 18:19",
     "IncidentType": "Crash",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725359/attachment_0.jpg",
     "Latitude": 36.159033000000001,
     "Longitude": -115.062275
+  },
+  {
+    "UniqueId": 51300,
+    "Timestamp": "2026-07-25 17:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "5:58 PM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725360/attachment_0.png",
+    "Latitude": 36.020302999999998,
+    "Longitude": -115.28140999999999
   }
 ]
