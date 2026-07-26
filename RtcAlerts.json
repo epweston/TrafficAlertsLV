@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51210,
-    "Timestamp": "2026-07-24 19:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:28 PM, Jul 24 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725097/attachment_0.png",
-    "Latitude": 36.100833000000002,
-    "Longitude": -115.16289999999999
-  },
-  {
     "UniqueId": 51211,
     "Timestamp": "2026-07-24 19:39",
     "IncidentType": "Stalled vehicle",
@@ -1368,6 +1354,34 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "7:25 PM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725380/attachment_0.png",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51308,
+    "Timestamp": "2026-07-25 19:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:28 PM, Jul 25 2026 Crash on EB Washington Ave\u00A0after I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725388/attachment_0.png",
+    "Latitude": 36.092086000000002,
+    "Longitude": -115.026466
+  },
+  {
+    "UniqueId": 51309,
+    "Timestamp": "2026-07-25 19:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "7:29 PM, Jul 25 2026 Crash on SB 215 Southern Beltway\u00A0at I-15. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725389/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
   }
