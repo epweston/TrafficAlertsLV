@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51279,
-    "Timestamp": "2026-07-25 14:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:31 PM, Jul 25 2026 Crash on EB Badura Ave\u00A0before Rainbow Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725310/attachment_0.jpg",
-    "Latitude": 36.297826000000001,
-    "Longitude": -115.24224100000001
-  },
-  {
     "UniqueId": 51280,
     "Timestamp": "2026-07-25 14:43",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725599/attachment_0.jpg",
     "Latitude": 36.165149999999997,
     "Longitude": -115.09824999999999
+  },
+  {
+    "UniqueId": 51370,
+    "Timestamp": "2026-07-26 14:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Park Paseo (after Charleston Blvd)",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:29 PM, Jul 26 2026 Crash on SB Las Vegas Blvd\u00A0after Park Paseo (after Charleston Blvd). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725572/attachment_0.jpg",
+    "Latitude": 36.159151000000001,
+    "Longitude": -115.01907300000001
   }
 ]
