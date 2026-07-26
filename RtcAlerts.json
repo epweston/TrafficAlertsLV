@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51270,
-    "Timestamp": "2026-07-25 12:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "NB I-15 ramp Right shoulder",
-    "Impact": "",
-    "Notes": "12:37 PM, Jul 25 2026 Stalled vehicle on NB I-11\u00A0to NB I-15 ramp Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725280/attachment_0.png",
-    "Latitude": 36.191499999999998,
-    "Longitude": -115.04078199999999
-  },
-  {
-    "UniqueId": 51271,
-    "Timestamp": "2026-07-25 12:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:39 PM, Jul 25 2026 Stalled vehicle on SB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725290/attachment_0.png",
-    "Latitude": 36.158819999999999,
-    "Longitude": -115.11654900000001
-  },
-  {
     "UniqueId": 51272,
     "Timestamp": "2026-07-25 13:29",
     "IncidentType": "Crash",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725540/attachment_0.jpg",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51364,
+    "Timestamp": "2026-07-26 12:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:43 PM, Jul 26 2026 Crash on EB Tropicana Ave\u00A0at Koval Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725541/attachment_0.jpg",
+    "Latitude": 36.100861999999999,
+    "Longitude": -115.16987
   }
 ]
