@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51225,
-    "Timestamp": "2026-07-24 22:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Wyoming Ave",
-    "Relationship": "before",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:57 PM, Jul 24 2026 Crash on WB Wyoming Ave\u00A0before Casino Center Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725112/attachment_0.png",
-    "Latitude": 36.174745000000001,
-    "Longitude": -115.141436
-  },
-  {
     "UniqueId": 51226,
     "Timestamp": "2026-07-24 23:39",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725408/attachment_0.png",
     "Latitude": 36.217286000000001,
     "Longitude": -115.20746
+  },
+  {
+    "UniqueId": 51319,
+    "Timestamp": "2026-07-25 23:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:16 PM, Jul 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725410/attachment_0.png",
+    "Latitude": 36.056859000000003,
+    "Longitude": -115.16306
   }
 ]
