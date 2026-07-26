@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51209,
-    "Timestamp": "2026-07-24 19:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "All WB lanes are blocked. Use other routes",
-    "Notes": "7:23 PM, Jul 24 2026 Crash on WB Washington Ave\u00A0at Rancho Dr. All WB lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725077/attachment_0.png",
-    "Latitude": 36.092086000000002,
-    "Longitude": -115.026466
-  },
-  {
     "UniqueId": 51210,
     "Timestamp": "2026-07-24 19:28",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725385/attachment_0.png",
     "Latitude": 36.144922000000001,
     "Longitude": -115.170312
+  },
+  {
+    "UniqueId": 51306,
+    "Timestamp": "2026-07-25 19:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Thomas and Mack Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:24 PM, Jul 25 2026 Crash on NB University Center Dr\u00A0at Thomas and Mack Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725387/attachment_0.png",
+    "Latitude": 36.108758000000002,
+    "Longitude": -115.12531300000001
+  },
+  {
+    "UniqueId": 51307,
+    "Timestamp": "2026-07-25 19:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:25 PM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725380/attachment_0.png",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
   }
 ]
