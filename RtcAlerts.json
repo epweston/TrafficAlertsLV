@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51243,
-    "Timestamp": "2026-07-25 05:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:30 AM, Jul 25 2026 Crash on SB I-15\u00A0at Flamingo Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725188/attachment_0.png",
-    "Latitude": 36.114491000000001,
-    "Longitude": -115.163997
-  },
-  {
     "UniqueId": 51244,
     "Timestamp": "2026-07-25 05:35",
     "IncidentType": "Crash",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725456/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51343,
+    "Timestamp": "2026-07-26 05:26",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": ". Right shoulder blocked",
+    "Impact": "",
+    "Notes": "5:26 AM, Jul 26 2026 Abandoned vehicle on SB I-11\u00A0after . Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51344,
+    "Timestamp": "2026-07-26 05:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:27 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.144399,
+    "Longitude": -115.31997699999999
   }
 ]
