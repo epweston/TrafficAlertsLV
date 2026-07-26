@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51246,
-    "Timestamp": "2026-07-25 06:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 22",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:36 AM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0at Mile 22. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725195/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51247,
     "Timestamp": "2026-07-25 06:49",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725458/attachment_0.jpg",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51346,
+    "Timestamp": "2026-07-26 06:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:39 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725484/attachment_0.jpg",
+    "Latitude": 36.084921000000001,
+    "Longitude": -115.263243
   }
 ]
