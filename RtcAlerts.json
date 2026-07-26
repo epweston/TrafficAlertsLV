@@ -1342,5 +1342,33 @@
     "ImagePath": "",
     "Latitude": 36.184992000000001,
     "Longitude": -115.08686400000001
+  },
+  {
+    "UniqueId": 51338,
+    "Timestamp": "2026-07-26 04:26",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": ". Right shoulder blocked",
+    "Impact": "",
+    "Notes": "4:26 AM, Jul 26 2026 Abandoned vehicle on SB I-11\u00A0after . Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51339,
+    "Timestamp": "2026-07-26 04:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:26 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.144399,
+    "Longitude": -115.31997699999999
   }
 ]
