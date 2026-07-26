@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51206,
-    "Timestamp": "2026-07-24 18:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Scott Robinson Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:19 PM, Jul 24 2026 Crash on EB Craig Rd\u00A0after Scott Robinson Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725091/attachment_0.png",
-    "Latitude": 36.171793000000001,
-    "Longitude": -115.26813199999999
-  },
-  {
-    "UniqueId": 51207,
-    "Timestamp": "2026-07-24 18:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder.",
-    "Notes": "6:43 PM, Jul 24 2026 Stalled vehicle on SB I-15\u00A0before Flamingo Rd. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725074/attachment_0.png",
-    "Latitude": 36.114491000000001,
-    "Longitude": -115.163997
-  },
-  {
-    "UniqueId": 51208,
-    "Timestamp": "2026-07-24 18:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "SR-163",
-    "Relationship": "after",
-    "CrossStreet": "Casino Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:49 PM, Jul 24 2026 Crash on WB SR-163\u00A0after Casino Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725076/attachment_0.png",
-    "Latitude": 36.191499999999998,
-    "Longitude": -115.04078199999999
-  },
-  {
     "UniqueId": 51209,
     "Timestamp": "2026-07-24 19:23",
     "IncidentType": "Crash",
@@ -1342,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725374/attachment_0.jpg",
     "Latitude": 36.146839,
     "Longitude": -115.18545399999999
+  },
+  {
+    "UniqueId": 51302,
+    "Timestamp": "2026-07-25 18:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder.",
+    "Notes": "6:45 PM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725376/attachment_0.png",
+    "Latitude": 36.100861999999999,
+    "Longitude": -115.16987
   }
 ]
