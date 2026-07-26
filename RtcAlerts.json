@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51211,
-    "Timestamp": "2026-07-24 19:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:39 PM, Jul 24 2026 Stalled vehicle on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725098/attachment_0.png",
-    "Latitude": 36.181234000000003,
-    "Longitude": -115.187972
-  },
-  {
     "UniqueId": 51212,
     "Timestamp": "2026-07-24 20:43",
     "IncidentType": "Crash",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725389/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51310,
+    "Timestamp": "2026-07-25 19:38",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "All lanes are blocked.",
+    "Notes": "7:38 PM, Jul 25 2026 Update Crash on EB Washington Ave\u00A0after I-15. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725391/attachment_0.png",
+    "Latitude": 36.092086000000002,
+    "Longitude": -115.026466
+  },
+  {
+    "UniqueId": 51311,
+    "Timestamp": "2026-07-25 19:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:40 PM, Jul 25 2026 Crash on EB Flamingo Rd\u00A0after Cimarron Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725403/attachment_0.png",
+    "Latitude": 36.173909999999999,
+    "Longitude": -115.268908
   }
 ]
