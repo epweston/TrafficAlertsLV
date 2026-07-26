@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51283,
-    "Timestamp": "2026-07-25 15:40",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Raiders Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:40 PM, Jul 25 2026 Crash on WB St Rose Pkwy\u00A0before Raiders Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725321/attachment_0.jpg",
-    "Latitude": 36.154389000000002,
-    "Longitude": -115.32266799999999
-  },
-  {
-    "UniqueId": 51284,
-    "Timestamp": "2026-07-25 15:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Left shoulder.",
-    "Notes": "3:43 PM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725343/attachment_0.jpg",
-    "Latitude": 36.125931000000001,
-    "Longitude": -115.28346500000001
-  },
-  {
-    "UniqueId": 51285,
-    "Timestamp": "2026-07-25 15:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "3:55 PM, Jul 25 2026 Crash on SB Las Vegas Blvd\u00A0before Warm Springs Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725345/attachment_0.png",
-    "Latitude": 36.056922999999998,
-    "Longitude": -115.11193900000001
-  },
-  {
     "UniqueId": 51286,
     "Timestamp": "2026-07-25 16:05",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725605/attachment_0.png",
     "Latitude": 36.305250000000001,
     "Longitude": -115.248926
+  },
+  {
+    "UniqueId": 51375,
+    "Timestamp": "2026-07-26 15:55",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Valle Verde Dr on right shoulder",
+    "Impact": "",
+    "Notes": "3:55 PM, Jul 26 2026 Crash on WB 215 Southern Beltway\u00A0after Valle Verde Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725580/attachment_0.png",
+    "Latitude": 36.102114999999998,
+    "Longitude": -115.040364
   }
 ]
