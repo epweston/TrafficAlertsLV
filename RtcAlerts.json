@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51267,
-    "Timestamp": "2026-07-25 12:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 104",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:07 PM, Jul 25 2026 Crash on NB I-15\u00A0at Mile 104. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725276/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51268,
-    "Timestamp": "2026-07-25 12:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:09 PM, Jul 25 2026 Crash on EB Tropicana Ave\u00A0before Paradise Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725278/attachment_0.png",
-    "Latitude": 36.066265000000001,
-    "Longitude": -115.141154
-  },
-  {
     "UniqueId": 51269,
     "Timestamp": "2026-07-25 12:29",
     "IncidentType": "Crash",
@@ -1286,5 +1258,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725553/attachment_0.png",
     "Latitude": 36.187072000000001,
     "Longitude": -115.089161
+  },
+  {
+    "UniqueId": 51359,
+    "Timestamp": "2026-07-26 12:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:18 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.144399,
+    "Longitude": -115.31997699999999
+  },
+  {
+    "UniqueId": 51360,
+    "Timestamp": "2026-07-26 12:17",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:17 PM, Jul 26 2026 Abandoned vehicle on SB I-11\u00A0after Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.071100000000001,
+    "Longitude": -115.172349
+  },
+  {
+    "UniqueId": 51361,
+    "Timestamp": "2026-07-26 12:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "12:19 PM, Jul 26 2026 Crash on SB Durango Dr\u00A0at Summerlin Pkwy. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.178328,
+    "Longitude": -115.250739
+  },
+  {
+    "UniqueId": 51362,
+    "Timestamp": "2026-07-26 12:21",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "12:21 PM, Jul 26 2026 Crash on SB I-15\u00A0at 215 Southern Beltway. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725539/attachment_0.png",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
   }
 ]
