@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 51212,
-    "Timestamp": "2026-07-24 20:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Update: All WB lanes are Open!",
-    "Notes": "8:43 PM, Jul 24 2026 Crash on WB Washington Ave\u00A0at Rancho Dr. Update: All WB lanes are Open!",
-    "ImagePath": "",
-    "Latitude": 36.092086000000002,
-    "Longitude": -115.026466
-  },
-  {
-    "UniqueId": 51213,
-    "Timestamp": "2026-07-24 20:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "North Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:53 PM, Jul 24 2026 Stalled vehicle on SB I-11\u00A0at North Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725099/attachment_0.png",
-    "Latitude": 36.239536000000001,
-    "Longitude": -115.23252600000001
-  },
-  {
-    "UniqueId": 51214,
-    "Timestamp": "2026-07-24 20:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:59 PM, Jul 24 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725081/attachment_0.png",
-    "Latitude": 35.987980999999998,
-    "Longitude": -115.141037
-  },
-  {
-    "UniqueId": 51215,
-    "Timestamp": "2026-07-24 21:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:05 PM, Jul 24 2026 Stalled vehicle on NB I-11\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725100/attachment_0.png",
-    "Latitude": 36.084921000000001,
-    "Longitude": -115.263243
-  },
-  {
-    "UniqueId": 51216,
-    "Timestamp": "2026-07-24 21:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:08 PM, Jul 24 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/24/file_attachments/3725102/attachment_0.png",
-    "Latitude": 36.191499999999998,
-    "Longitude": -115.04078199999999
-  },
-  {
     "UniqueId": 51217,
     "Timestamp": "2026-07-24 21:19",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725396/attachment_0.png",
     "Latitude": 36.144590999999998,
     "Longitude": -115.042817
+  },
+  {
+    "UniqueId": 51314,
+    "Timestamp": "2026-07-25 21:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:11 PM, Jul 25 2026 Crash on WB 215 Southern Beltway\u00A0after I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725404/attachment_0.png",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
   }
 ]
