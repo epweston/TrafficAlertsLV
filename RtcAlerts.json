@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51286,
-    "Timestamp": "2026-07-25 16:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:05 PM, Jul 25 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725347/attachment_0.png",
-    "Latitude": 36.175158000000003,
-    "Longitude": -115.22415599999999
-  },
-  {
     "UniqueId": 51287,
     "Timestamp": "2026-07-25 16:13",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725580/attachment_0.png",
     "Latitude": 36.102114999999998,
     "Longitude": -115.040364
+  },
+  {
+    "UniqueId": 51376,
+    "Timestamp": "2026-07-26 16:01",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:01 PM, Jul 26 2026 Vehicle on fire on WB Tropicana Ave\u00A0after Fort Apache Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725611/attachment_0.jpg",
+    "Latitude": 36.237287000000002,
+    "Longitude": -115.29754200000001
   }
 ]
