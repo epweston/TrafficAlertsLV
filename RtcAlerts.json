@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51239,
-    "Timestamp": "2026-07-25 03:44",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:44 AM, Jul 25 2026 Police activity on WB Sahara Ave\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725147/attachment_0.png",
-    "Latitude": 36.144332499999997,
-    "Longitude": -115.3005604
-  },
-  {
-    "UniqueId": 51240,
-    "Timestamp": "2026-07-25 03:49",
-    "IncidentType": "Fire Activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:49 AM, Jul 25 2026 Fire Activity on WB Charleston Blvd\u00A0after Mojave Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725166/attachment_0.png",
-    "Latitude": 36.159106000000001,
-    "Longitude": -115.25087600000001
-  },
-  {
     "UniqueId": 51241,
     "Timestamp": "2026-07-25 03:55",
     "IncidentType": "Crash",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725445/attachment_0.png",
     "Latitude": 36.191499999999998,
     "Longitude": -115.04078199999999
+  },
+  {
+    "UniqueId": 51335,
+    "Timestamp": "2026-07-26 03:49",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:49 AM, Jul 26 2026 Crash on SB I-15\u00A0at Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725435/attachment_0.jpg",
+    "Latitude": 36.100861999999999,
+    "Longitude": -115.16987
   }
 ]
