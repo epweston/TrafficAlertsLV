@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51238,
-    "Timestamp": "2026-07-25 03:40",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:40 AM, Jul 25 2026 Police activity on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725163/attachment_0.png",
-    "Latitude": 36.144399,
-    "Longitude": -115.31997699999999
-  },
-  {
     "UniqueId": 51239,
     "Timestamp": "2026-07-25 03:44",
     "IncidentType": "Police activity",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725444/attachment_0.png",
     "Latitude": 36.144399,
     "Longitude": -115.31997699999999
+  },
+  {
+    "UniqueId": 51334,
+    "Timestamp": "2026-07-26 03:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "3:37 AM, Jul 26 2026 Crash on SB I-15\u00A0at 215 Southern Beltway. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725445/attachment_0.png",
+    "Latitude": 36.191499999999998,
+    "Longitude": -115.04078199999999
   }
 ]
