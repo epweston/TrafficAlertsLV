@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51250,
-    "Timestamp": "2026-07-25 08:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Gore blocked.",
-    "Notes": "8:26 AM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725212/attachment_0.png",
-    "Latitude": 36.144399,
-    "Longitude": -115.31997699999999
-  },
-  {
     "UniqueId": 51251,
     "Timestamp": "2026-07-25 08:31",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,33 @@
     "ImagePath": "",
     "Latitude": 36.144399,
     "Longitude": -115.31997699999999
+  },
+  {
+    "UniqueId": 51350,
+    "Timestamp": "2026-07-26 08:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:21 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.084921000000001,
+    "Longitude": -115.263243
+  },
+  {
+    "UniqueId": 51351,
+    "Timestamp": "2026-07-26 08:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:24 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725507/attachment_0.jpg",
+    "Latitude": 36.125931000000001,
+    "Longitude": -115.28346500000001
   }
 ]
