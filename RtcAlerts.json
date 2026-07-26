@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51241,
-    "Timestamp": "2026-07-25 03:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:55 AM, Jul 25 2026 Crash on SB I-15\u00A0at Harmon Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725167/attachment_0.png",
-    "Latitude": 36.108103,
-    "Longitude": -115.1794
-  },
-  {
     "UniqueId": 51242,
     "Timestamp": "2026-07-25 04:58",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725435/attachment_0.jpg",
     "Latitude": 36.100861999999999,
     "Longitude": -115.16987
+  },
+  {
+    "UniqueId": 51336,
+    "Timestamp": "2026-07-26 03:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Center lane blocked Right lane blocked. Expect Delays",
+    "Notes": "3:53 AM, Jul 26 2026 Crash on SB I-15\u00A0at Tropicana Ave. Center lane blocked Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725448/attachment_0.jpg",
+    "Latitude": 36.100861999999999,
+    "Longitude": -115.16987
+  },
+  {
+    "UniqueId": 51337,
+    "Timestamp": "2026-07-26 03:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Neon Gateway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "3:56 AM, Jul 26 2026 Crash on WB Neon Gateway\u00A0at I-15. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.184992000000001,
+    "Longitude": -115.08686400000001
   }
 ]
