@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51347,
-    "Timestamp": "2026-07-26 07:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:42 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Main St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725488/attachment_0.png",
-    "Latitude": 36.174064000000001,
-    "Longitude": -115.14567150000001
-  },
-  {
     "UniqueId": 51348,
     "Timestamp": "2026-07-26 08:19",
     "IncidentType": "Abandoned vehicle",
@@ -964,5 +950,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726041/attachment_0.jpg",
     "Latitude": 36.292740999999999,
     "Longitude": -115.247497
+  },
+  {
+    "UniqueId": 51417,
+    "Timestamp": "2026-07-27 07:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:46 AM, Jul 27 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before 215 Western Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726083/attachment_0.jpg",
+    "Latitude": 36.182645000000001,
+    "Longitude": -115.301148
+  },
+  {
+    "UniqueId": 51418,
+    "Timestamp": "2026-07-27 07:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:48 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Silverado Ranch Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726085/attachment_0.png",
+    "Latitude": 36.036797499999999,
+    "Longitude": -115.1336591
   }
 ]
