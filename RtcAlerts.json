@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51346,
-    "Timestamp": "2026-07-26 06:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:39 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725484/attachment_0.jpg",
-    "Latitude": 36.156991400000003,
-    "Longitude": -115.11590150000001
-  },
-  {
     "UniqueId": 51347,
     "Timestamp": "2026-07-26 07:42",
     "IncidentType": "Stalled vehicle",
@@ -922,5 +908,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725946/attachment_0.png",
     "Latitude": 36.156991400000003,
     "Longitude": -115.11590150000001
+  },
+  {
+    "UniqueId": 51412,
+    "Timestamp": "2026-07-27 06:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:51 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726000/attachment_0.png",
+    "Latitude": 35.6070791,
+    "Longitude": -115.3909781
   }
 ]
