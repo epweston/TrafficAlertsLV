@@ -1,117 +1,5 @@
 [
   {
-    "UniqueId": 51348,
-    "Timestamp": "2026-07-26 08:19",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:19 AM, Jul 26 2026 Abandoned vehicle on SB I-11\u00A0after Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.070573899999999,
-    "Longitude": -115.1103002
-  },
-  {
-    "UniqueId": 51349,
-    "Timestamp": "2026-07-26 08:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:20 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.146996100000003,
-    "Longitude": -115.2061363
-  },
-  {
-    "UniqueId": 51350,
-    "Timestamp": "2026-07-26 08:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:21 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.156991400000003,
-    "Longitude": -115.11590150000001
-  },
-  {
-    "UniqueId": 51351,
-    "Timestamp": "2026-07-26 08:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:24 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725507/attachment_0.jpg",
-    "Latitude": 36.315409099999997,
-    "Longitude": -115.2914474
-  },
-  {
-    "UniqueId": 51352,
-    "Timestamp": "2026-07-26 08:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:34 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725490/attachment_0.png",
-    "Latitude": 36.251680399999998,
-    "Longitude": -115.04325249999999
-  },
-  {
-    "UniqueId": 51353,
-    "Timestamp": "2026-07-26 10:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:24 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725525/attachment_0.jpg",
-    "Latitude": 36.034919700000003,
-    "Longitude": -115.2063284
-  },
-  {
-    "UniqueId": 51354,
-    "Timestamp": "2026-07-26 10:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:27 AM, Jul 26 2026 Crash on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725522/attachment_0.jpg",
-    "Latitude": 36.181244599999999,
-    "Longitude": -115.13463849999999
-  },
-  {
-    "UniqueId": 51355,
-    "Timestamp": "2026-07-26 10:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:29 AM, Jul 26 2026 Stalled vehicle on SB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725527/attachment_0.png",
-    "Latitude": 36.156991400000003,
-    "Longitude": -115.11590150000001
-  },
-  {
     "UniqueId": 51356,
     "Timestamp": "2026-07-26 11:17",
     "IncidentType": "Crash",
@@ -123,7 +11,8 @@
     "Notes": "11:17 AM, Jul 26 2026 Crash on SB Durango Dr\u00A0at Summerlin Pkwy. 2 Left lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725550/attachment_0.jpg",
     "Latitude": 36.166433300000001,
-    "Longitude": -115.27866690000001
+    "Longitude": -115.27866690000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51357,
@@ -137,7 +26,8 @@
     "Notes": "11:19 AM, Jul 26 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725532/attachment_0.jpg",
     "Latitude": 36.166274000000001,
-    "Longitude": -115.16771300000001
+    "Longitude": -115.16771300000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51358,
@@ -151,7 +41,8 @@
     "Notes": "12:00 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sandhill Blvd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725553/attachment_0.png",
     "Latitude": 36.161063599999999,
-    "Longitude": -115.0903392
+    "Longitude": -115.0903392,
+    "IsValididated": null
   },
   {
     "UniqueId": 51359,
@@ -165,7 +56,8 @@
     "Notes": "12:18 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
     "ImagePath": "",
     "Latitude": 36.146996100000003,
-    "Longitude": -115.2061363
+    "Longitude": -115.2061363,
+    "IsValididated": null
   },
   {
     "UniqueId": 51360,
@@ -179,7 +71,8 @@
     "Notes": "12:17 PM, Jul 26 2026 Abandoned vehicle on SB I-11\u00A0after Sunset Rd. Right shoulder blocked.",
     "ImagePath": "",
     "Latitude": 36.070573899999999,
-    "Longitude": -115.1103002
+    "Longitude": -115.1103002,
+    "IsValididated": null
   },
   {
     "UniqueId": 51361,
@@ -193,7 +86,8 @@
     "Notes": "12:19 PM, Jul 26 2026 Crash on SB Durango Dr\u00A0at Summerlin Pkwy. 2 Left lanes blocked.",
     "ImagePath": "",
     "Latitude": 36.166433300000001,
-    "Longitude": -115.27866690000001
+    "Longitude": -115.27866690000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51362,
@@ -207,7 +101,8 @@
     "Notes": "12:21 PM, Jul 26 2026 Crash on SB I-15\u00A0at 215 Southern Beltway. Left shoulder blocked Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725539/attachment_0.png",
     "Latitude": 36.144922000000001,
-    "Longitude": -115.170312
+    "Longitude": -115.170312,
+    "IsValididated": null
   },
   {
     "UniqueId": 51363,
@@ -221,7 +116,8 @@
     "Notes": "12:31 PM, Jul 26 2026 Crash on SB I-11\u00A0under I-15. 2 Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725540/attachment_0.jpg",
     "Latitude": 36.298364599999999,
-    "Longitude": -115.28556949999999
+    "Longitude": -115.28556949999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51364,
@@ -235,7 +131,8 @@
     "Notes": "12:43 PM, Jul 26 2026 Crash on EB Tropicana Ave\u00A0at Koval Ln. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725541/attachment_0.jpg",
     "Latitude": 36.102314300000003,
-    "Longitude": -115.1637958
+    "Longitude": -115.1637958,
+    "IsValididated": null
   },
   {
     "UniqueId": 51365,
@@ -249,7 +146,8 @@
     "Notes": "12:49 PM, Jul 26 2026 Crash on NB I-11\u00A0before I-15. Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725583/attachment_0.jpg",
     "Latitude": 36.298364599999999,
-    "Longitude": -115.28556949999999
+    "Longitude": -115.28556949999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51366,
@@ -263,7 +161,8 @@
     "Notes": "1:13 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725587/attachment_0.png",
     "Latitude": 36.141760499999997,
-    "Longitude": -115.1734852
+    "Longitude": -115.1734852,
+    "IsValididated": null
   },
   {
     "UniqueId": 51367,
@@ -277,7 +176,8 @@
     "Notes": "1:20 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Sloan . Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725589/attachment_0.jpg",
     "Latitude": 36.251680399999998,
-    "Longitude": -115.04325249999999
+    "Longitude": -115.04325249999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51368,
@@ -291,7 +191,8 @@
     "Notes": "1:48 PM, Jul 26 2026 Crash on SB I-11\u00A0at Rancho Dr. 2 Center lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725594/attachment_0.jpg",
     "Latitude": 36.175537300000002,
-    "Longitude": -115.1950564
+    "Longitude": -115.1950564,
+    "IsValididated": null
   },
   {
     "UniqueId": 51369,
@@ -305,7 +206,8 @@
     "Notes": "2:22 PM, Jul 26 2026 Crash on WB 215 Southern Beltway\u00A0at Pecos Rd. Left lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725599/attachment_0.jpg",
     "Latitude": 36.163449999999997,
-    "Longitude": -115.098135
+    "Longitude": -115.098135,
+    "IsValididated": null
   },
   {
     "UniqueId": 51370,
@@ -319,7 +221,8 @@
     "Notes": "2:29 PM, Jul 26 2026 Crash on SB Las Vegas Blvd\u00A0after Park Paseo (after Charleston Blvd). Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725572/attachment_0.jpg",
     "Latitude": 36.156956000000001,
-    "Longitude": -115.147012
+    "Longitude": -115.147012,
+    "IsValididated": null
   },
   {
     "UniqueId": 51371,
@@ -333,7 +236,8 @@
     "Notes": "2:58 PM, Jul 26 2026 Crash on EB Flamingo Rd\u00A0at University Center Dr. Multiple directions blocked.",
     "ImagePath": "",
     "Latitude": 36.111075300000003,
-    "Longitude": -115.15039179999999
+    "Longitude": -115.15039179999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51372,
@@ -347,7 +251,8 @@
     "Notes": "2:58 PM, Jul 26 2026 Crash on EB Flamingo Rd\u00A0at University Center Dr. Multiple directions blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725603/attachment_0.png",
     "Latitude": 36.111075300000003,
-    "Longitude": -115.15039179999999
+    "Longitude": -115.15039179999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51373,
@@ -361,7 +266,8 @@
     "Notes": "3:24 PM, Jul 26 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725574/attachment_0.png",
     "Latitude": 36.166252,
-    "Longitude": -115.18521200000001
+    "Longitude": -115.18521200000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51374,
@@ -375,7 +281,8 @@
     "Notes": "3:29 PM, Jul 26 2026 Crash on SB Cimarron Rd\u00A0after Grand Teton Dr. Left shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725605/attachment_0.png",
     "Latitude": 36.246015999999997,
-    "Longitude": -115.26977599999999
+    "Longitude": -115.26977599999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51375,
@@ -389,7 +296,8 @@
     "Notes": "3:55 PM, Jul 26 2026 Crash on WB 215 Southern Beltway\u00A0after Valle Verde Dr on right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725580/attachment_0.png",
     "Latitude": 36.098444000000001,
-    "Longitude": -115.10102999999999
+    "Longitude": -115.10102999999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51376,
@@ -403,7 +311,8 @@
     "Notes": "4:01 PM, Jul 26 2026 Vehicle on fire on WB Tropicana Ave\u00A0after Fort Apache Rd. Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725611/attachment_0.jpg",
     "Latitude": 36.101021299999999,
-    "Longitude": -115.2970545
+    "Longitude": -115.2970545,
+    "IsValididated": null
   },
   {
     "UniqueId": 51377,
@@ -417,7 +326,8 @@
     "Notes": "4:09 PM, Jul 26 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Sunset Rd. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725613/attachment_0.png",
     "Latitude": 36.189329000000001,
-    "Longitude": -115.189334
+    "Longitude": -115.189334,
+    "IsValididated": null
   },
   {
     "UniqueId": 51378,
@@ -431,7 +341,8 @@
     "Notes": "4:11 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Mile 103. Right shoulder",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725581/attachment_0.png",
     "Latitude": null,
-    "Longitude": null
+    "Longitude": null,
+    "IsValididated": null
   },
   {
     "UniqueId": 51379,
@@ -445,7 +356,8 @@
     "Notes": "4:15 PM, Jul 26 2026 Crash on SB I-11\u00A0before Valley View Blvd on right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725616/attachment_0.png",
     "Latitude": 36.171132,
-    "Longitude": -115.131441
+    "Longitude": -115.131441,
+    "IsValididated": null
   },
   {
     "UniqueId": 51380,
@@ -459,7 +371,8 @@
     "Notes": "4:16 PM, Jul 26 2026 Fire on SB Losee Rd\u00A0at Gowan Rd. Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725582/attachment_0.png",
     "Latitude": 36.124389000000001,
-    "Longitude": -115.07134499999999
+    "Longitude": -115.07134499999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51381,
@@ -473,7 +386,8 @@
     "Notes": "4:21 PM, Jul 26 2026 Crash on EB Desert Inn Rd\u00A0after Eastern Ave. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725623/attachment_0.png",
     "Latitude": 36.129205300000002,
-    "Longitude": -115.1187248
+    "Longitude": -115.1187248,
+    "IsValididated": null
   },
   {
     "UniqueId": 51382,
@@ -487,7 +401,8 @@
     "Notes": "4:25 PM, Jul 26 2026 Crash on NB Hualapai Way\u00A0at Crestdale Lane. Left lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725626/attachment_0.jpg",
     "Latitude": 36.100223,
-    "Longitude": -115.31523900000001
+    "Longitude": -115.31523900000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51383,
@@ -501,7 +416,8 @@
     "Notes": "4:50 PM, Jul 26 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725643/attachment_0.png",
     "Latitude": 36.146996100000003,
-    "Longitude": -115.2061363
+    "Longitude": -115.2061363,
+    "IsValididated": null
   },
   {
     "UniqueId": 51384,
@@ -515,7 +431,8 @@
     "Notes": "5:36 PM, Jul 26 2026 Crash on SB I-11\u00A0after 215 Southern Beltway. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725647/attachment_0.png",
     "Latitude": 36.171132,
-    "Longitude": -115.131441
+    "Longitude": -115.131441,
+    "IsValididated": null
   },
   {
     "UniqueId": 51385,
@@ -529,7 +446,8 @@
     "Notes": "5:46 PM, Jul 26 2026 Crash on EB Sahara Ave\u00A0after Eastern Ave. Left lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725648/attachment_0.png",
     "Latitude": 36.1453183,
-    "Longitude": -115.1186598
+    "Longitude": -115.1186598,
+    "IsValididated": null
   },
   {
     "UniqueId": 51386,
@@ -543,7 +461,8 @@
     "Notes": "6:35 PM, Jul 26 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725649/attachment_0.png",
     "Latitude": 36.246419099999997,
-    "Longitude": -115.22557500000001
+    "Longitude": -115.22557500000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51387,
@@ -557,7 +476,8 @@
     "Notes": "6:59 PM, Jul 26 2026 Crash on WB 215 Northern Beltway\u00A0at Jones Blvd. Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725651/attachment_0.png",
     "Latitude": 36.253717999999999,
-    "Longitude": -115.225523
+    "Longitude": -115.225523,
+    "IsValididated": null
   },
   {
     "UniqueId": 51388,
@@ -571,7 +491,8 @@
     "Notes": "7:10 PM, Jul 26 2026 Crash on NB Nellis Blvd\u00A0after Desert Inn Rd. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725652/attachment_0.jpg",
     "Latitude": 36.092427000000001,
-    "Longitude": -115.064443
+    "Longitude": -115.064443,
+    "IsValididated": null
   },
   {
     "UniqueId": 51389,
@@ -585,7 +506,8 @@
     "Notes": "7:14 PM, Jul 26 2026 Stalled vehicle on NB I-15\u00A0after Mile 8. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725654/attachment_0.png",
     "Latitude": null,
-    "Longitude": null
+    "Longitude": null,
+    "IsValididated": null
   },
   {
     "UniqueId": 51390,
@@ -599,7 +521,8 @@
     "Notes": "7:30 PM, Jul 26 2026 Stalled vehicle on NB I-15\u00A0after Jean. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725655/attachment_0.png",
     "Latitude": 36.288565699999999,
-    "Longitude": -115.29081600000001
+    "Longitude": -115.29081600000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51391,
@@ -613,7 +536,8 @@
     "Notes": "7:34 PM, Jul 26 2026 Crash on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725657/attachment_0.png",
     "Latitude": 36.114984300000003,
-    "Longitude": -115.2164835
+    "Longitude": -115.2164835,
+    "IsValididated": null
   },
   {
     "UniqueId": 51392,
@@ -627,7 +551,8 @@
     "Notes": "7:37 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Mile 56 (before Speedway Blvd). Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725632/attachment_0.png",
     "Latitude": null,
-    "Longitude": null
+    "Longitude": null,
+    "IsValididated": null
   },
   {
     "UniqueId": 51393,
@@ -641,7 +566,8 @@
     "Notes": "7:55 PM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0after Flamingo Rd. Left shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725633/attachment_0.png",
     "Latitude": 36.114984300000003,
-    "Longitude": -115.2164835
+    "Longitude": -115.2164835,
+    "IsValididated": null
   },
   {
     "UniqueId": 51394,
@@ -655,7 +581,8 @@
     "Notes": "7:58 PM, Jul 26 2026 Stalled vehicle on EB Blue Diamond Rd\u00A0after Durango Dr. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725635/attachment_0.png",
     "Latitude": 36.022194599999999,
-    "Longitude": -115.2808498
+    "Longitude": -115.2808498,
+    "IsValididated": null
   },
   {
     "UniqueId": 51395,
@@ -669,7 +596,8 @@
     "Notes": "8:02 PM, Jul 26 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. EB Spring Mountain, Right lane blocked. SB I-15/Spring Mountain on ramp partially blocked",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725636/attachment_0.png",
     "Latitude": 36.315409099999997,
-    "Longitude": -115.2914474
+    "Longitude": -115.2914474,
+    "IsValididated": null
   },
   {
     "UniqueId": 51396,
@@ -683,7 +611,8 @@
     "Notes": "8:49 PM, Jul 26 2026 Crash on EB Craig Rd\u00A0after Losee Rd. Multiple lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725660/attachment_0.jpg",
     "Latitude": 36.240749299999997,
-    "Longitude": -115.1166338
+    "Longitude": -115.1166338,
+    "IsValididated": null
   },
   {
     "UniqueId": 51397,
@@ -697,7 +626,8 @@
     "Notes": "9:24 PM, Jul 26 2026 Crash on SB Nellis Blvd\u00A0after Vegas Valley Dr. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725639/attachment_0.png",
     "Latitude": 36.092427000000001,
-    "Longitude": -115.064443
+    "Longitude": -115.064443,
+    "IsValididated": null
   },
   {
     "UniqueId": 51398,
@@ -711,7 +641,8 @@
     "Notes": "9:42 PM, Jul 26 2026 Crash on NB I-15\u00A0at Mile 9. Left lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725641/attachment_0.png",
     "Latitude": null,
-    "Longitude": null
+    "Longitude": null,
+    "IsValididated": null
   },
   {
     "UniqueId": 51399,
@@ -725,7 +656,8 @@
     "Notes": "9:57 PM, Jul 26 2026 Stalled vehicle on SB I-11\u00A0after I-15. Right shoulder.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725663/attachment_0.png",
     "Latitude": 36.298364599999999,
-    "Longitude": -115.28556949999999
+    "Longitude": -115.28556949999999,
+    "IsValididated": null
   },
   {
     "UniqueId": 51400,
@@ -739,7 +671,8 @@
     "Notes": "10:00 PM, Jul 26 2026 Crash on EB Lake Mead Pkwy\u00A0after I-11. Right lane partially blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725665/attachment_0.png",
     "Latitude": 36.195334500000001,
-    "Longitude": -115.2414982
+    "Longitude": -115.2414982,
+    "IsValididated": null
   },
   {
     "UniqueId": 51401,
@@ -753,7 +686,8 @@
     "Notes": "11:38 PM, Jul 26 2026 Crash on NB I-15\u00A0at Charleston Blvd. Multiple lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725688/attachment_0.png",
     "Latitude": 36.141760499999997,
-    "Longitude": -115.1734852
+    "Longitude": -115.1734852,
+    "IsValididated": null
   },
   {
     "UniqueId": 51402,
@@ -767,7 +701,8 @@
     "Notes": "12:36 AM, Jul 27 2026 Crash on NB Eastern Ave\u00A0at Rochelle Ave. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725681/attachment_0.jpg",
     "Latitude": 36.111441300000003,
-    "Longitude": -115.1189962
+    "Longitude": -115.1189962,
+    "IsValididated": null
   },
   {
     "UniqueId": 51403,
@@ -781,7 +716,8 @@
     "Notes": "12:50 AM, Jul 27 2026 Crash on WB Lake Mead Blvd\u00A0at Pecos Rd. WB Lake Mead Blvd is closed at Pecos Rd",
     "ImagePath": "",
     "Latitude": 36.1951453,
-    "Longitude": -115.0985208
+    "Longitude": -115.0985208,
+    "IsValididated": null
   },
   {
     "UniqueId": 51404,
@@ -795,7 +731,8 @@
     "Notes": "12:50 AM, Jul 27 2026 Crash on WB Lake Mead Blvd\u00A0at Pecos Rd. WB Lake Mead Blvd is closed at Pecos Rd",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725692/attachment_0.jpg",
     "Latitude": 36.1951453,
-    "Longitude": -115.0985208
+    "Longitude": -115.0985208,
+    "IsValididated": null
   },
   {
     "UniqueId": 51405,
@@ -809,7 +746,8 @@
     "Notes": "2:45 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725723/attachment_0.png",
     "Latitude": 36.114984300000003,
-    "Longitude": -115.2164835
+    "Longitude": -115.2164835,
+    "IsValididated": null
   },
   {
     "UniqueId": 51406,
@@ -823,7 +761,8 @@
     "Notes": "4:29 AM, Jul 27 2026 Crash on NB I-11 On ramp\u00A0at Flamingo Rd. Left shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725822/attachment_0.png",
     "Latitude": 36.114491000000001,
-    "Longitude": -115.163997
+    "Longitude": -115.163997,
+    "IsValididated": null
   },
   {
     "UniqueId": 51407,
@@ -837,7 +776,8 @@
     "Notes": "4:58 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725856/attachment_0.png",
     "Latitude": 36.146996100000003,
-    "Longitude": -115.2061363
+    "Longitude": -115.2061363,
+    "IsValididated": null
   },
   {
     "UniqueId": 51408,
@@ -851,7 +791,8 @@
     "Notes": "5:12 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Center lane blocked. Expect Delays",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725863/attachment_0.png",
     "Latitude": 36.146996100000003,
-    "Longitude": -115.2061363
+    "Longitude": -115.2061363,
+    "IsValididated": null
   },
   {
     "UniqueId": 51409,
@@ -865,7 +806,8 @@
     "Notes": "5:59 AM, Jul 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725910/attachment_0.png",
     "Latitude": 36.211753000000002,
-    "Longitude": -115.096243
+    "Longitude": -115.096243,
+    "IsValididated": null
   },
   {
     "UniqueId": 51410,
@@ -879,7 +821,8 @@
     "Notes": "6:04 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725918/attachment_0.png",
     "Latitude": 36.144922000000001,
-    "Longitude": -115.170312
+    "Longitude": -115.170312,
+    "IsValididated": null
   },
   {
     "UniqueId": 51411,
@@ -893,7 +836,8 @@
     "Notes": "6:21 AM, Jul 27 2026 Crash on SB I-15\u00A0at Russell Rd. Left shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725946/attachment_0.png",
     "Latitude": 36.156991400000003,
-    "Longitude": -115.11590150000001
+    "Longitude": -115.11590150000001,
+    "IsValididated": null
   },
   {
     "UniqueId": 51412,
@@ -907,7 +851,8 @@
     "Notes": "6:51 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726000/attachment_0.png",
     "Latitude": 35.6070791,
-    "Longitude": -115.3909781
+    "Longitude": -115.3909781,
+    "IsValididated": null
   },
   {
     "UniqueId": 51413,
@@ -921,7 +866,8 @@
     "Notes": "7:07 AM, Jul 27 2026 Stalled vehicle on SB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726009/attachment_0.jpg",
     "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
+    "Longitude": -115.08282365906119,
+    "IsValididated": null
   },
   {
     "UniqueId": 51414,
@@ -935,7 +881,8 @@
     "Notes": "7:17 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726018/attachment_0.png",
     "Latitude": 36.197680599999998,
-    "Longitude": -115.3091483
+    "Longitude": -115.3091483,
+    "IsValididated": null
   },
   {
     "UniqueId": 51415,
@@ -949,7 +896,8 @@
     "Notes": "7:22 AM, Jul 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726041/attachment_0.jpg",
     "Latitude": 36.292740999999999,
-    "Longitude": -115.247497
+    "Longitude": -115.247497,
+    "IsValididated": null
   },
   {
     "UniqueId": 51417,
@@ -963,7 +911,8 @@
     "Notes": "7:46 AM, Jul 27 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before 215 Western Beltway. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726083/attachment_0.jpg",
     "Latitude": 36.182645000000001,
-    "Longitude": -115.301148
+    "Longitude": -115.301148,
+    "IsValididated": null
   },
   {
     "UniqueId": 51418,
@@ -977,6 +926,262 @@
     "Notes": "7:48 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Silverado Ranch Blvd. Left shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726085/attachment_0.png",
     "Latitude": 36.036797499999999,
-    "Longitude": -115.1336591
+    "Longitude": -115.1336591,
+    "IsValididated": null
+  },
+  {
+    "UniqueId": 51419,
+    "Timestamp": "2026-07-27 08:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:11 AM, Jul 27 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726123/attachment_0.png",
+    "Latitude": 36.171132,
+    "Longitude": -115.131441,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51420,
+    "Timestamp": "2026-07-27 08:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "South Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:17 AM, Jul 27 2026 Crash on SB South Rancho Dr\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726128/attachment_0.png",
+    "Latitude": 36.172182599999999,
+    "Longitude": -115.1727188,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51421,
+    "Timestamp": "2026-07-27 08:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sobb Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:29 AM, Jul 27 2026 Stalled vehicle on NB I-11\u00A0at Sobb Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726156/attachment_0.png",
+    "Latitude": 36.076667,
+    "Longitude": -115.21839230000001,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51422,
+    "Timestamp": "2026-07-27 08:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:31 AM, Jul 27 2026 Crash on SB I-11\u00A0at Cheyenne Ave. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51423,
+    "Timestamp": "2026-07-27 08:57",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:57 AM, Jul 27 2026 Crash on EB 215 Southern Beltway\u00A0at Eastern Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726172/attachment_0.png",
+    "Latitude": 36.038698599999996,
+    "Longitude": -115.1346946,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51424,
+    "Timestamp": "2026-07-27 09:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:04 AM, Jul 27 2026 Crash on EB 215 Southern Beltway\u00A0at Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726199/attachment_0.png",
+    "Latitude": 36.038698599999996,
+    "Longitude": -115.1346946,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51425,
+    "Timestamp": "2026-07-27 09:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:16 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726223/attachment_0.png",
+    "Latitude": 36.169645099999997,
+    "Longitude": -115.1582756,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51426,
+    "Timestamp": "2026-07-27 09:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:29 AM, Jul 27 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.171132,
+    "Longitude": -115.131441,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51427,
+    "Timestamp": "2026-07-27 09:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "9:37 AM, Jul 27 2026 Crash on SB I-11\u00A0after Sunset Rd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726250/attachment_0.jpg",
+    "Latitude": 36.070573899999999,
+    "Longitude": -115.1103002,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51428,
+    "Timestamp": "2026-07-27 09:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:39 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0at Charleston Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726263/attachment_0.png",
+    "Latitude": 36.141760499999997,
+    "Longitude": -115.1734852,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51429,
+    "Timestamp": "2026-07-27 09:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:48 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726265/attachment_0.png",
+    "Latitude": 36.156991400000003,
+    "Longitude": -115.11590150000001,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51430,
+    "Timestamp": "2026-07-27 09:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:53 AM, Jul 27 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Flamingo Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726269/attachment_0.jpg",
+    "Latitude": 36.108257000000002,
+    "Longitude": -115.28151200000001,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51431,
+    "Timestamp": "2026-07-27 10:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lower Flat Top Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:01 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Lower Flat Top Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726289/attachment_0.png",
+    "Latitude": 36.144922000000001,
+    "Longitude": -115.170312,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51432,
+    "Timestamp": "2026-07-27 10:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Cimarron Rd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "10:06 AM, Jul 27 2026 Crash on NB Cimarron Rd\u00A0at Charleston Blvd. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726303/attachment_0.jpg",
+    "Latitude": 36.159222700000001,
+    "Longitude": -115.27252970000001,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51433,
+    "Timestamp": "2026-07-27 10:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "10:13 AM, Jul 27 2026 Crash on NB 215 Western Beltway\u00A0at Flamingo Rd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726325/attachment_0.jpg",
+    "Latitude": 36.108257000000002,
+    "Longitude": -115.28151200000001,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51434,
+    "Timestamp": "2026-07-27 10:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:24 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726333/attachment_0.png",
+    "Latitude": 36.315409099999997,
+    "Longitude": -115.2914474,
+    "IsValididated": false
+  },
+  {
+    "UniqueId": 51435,
+    "Timestamp": "2026-07-27 10:36",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Cimarron Rd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:36 AM, Jul 27 2026 Crash on NB Cimarron Rd\u00A0at Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726369/attachment_0.jpg",
+    "Latitude": 36.159222700000001,
+    "Longitude": -115.27252970000001,
+    "IsValididated": false
   }
 ]
