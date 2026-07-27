@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51302,
-    "Timestamp": "2026-07-25 18:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "6:45 PM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725376/attachment_0.png",
-    "Latitude": 36.100861999999999,
-    "Longitude": -115.16987
-  },
-  {
     "UniqueId": 51303,
     "Timestamp": "2026-07-25 19:06",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725649/attachment_0.png",
     "Latitude": 36.217286000000001,
     "Longitude": -115.20746
+  },
+  {
+    "UniqueId": 51387,
+    "Timestamp": "2026-07-26 18:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:59 PM, Jul 26 2026 Crash on WB 215 Northern Beltway\u00A0at Jones Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725651/attachment_0.png",
+    "Latitude": 36.175158000000003,
+    "Longitude": -115.22415599999999
   }
 ]
