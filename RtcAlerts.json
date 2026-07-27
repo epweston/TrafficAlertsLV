@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 51321,
-    "Timestamp": "2026-07-26 01:07",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Neon Gateway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "All lanes are blocked.",
-    "Notes": "1:07 AM, Jul 26 2026 Crash on WB Neon Gateway\u00A0at I-15. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725413/attachment_0.png",
-    "Latitude": 36.154772299999998,
-    "Longitude": -115.1608591
-  },
-  {
-    "UniqueId": 51322,
-    "Timestamp": "2026-07-26 01:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:33 AM, Jul 26 2026 Crash on SB I-15\u00A0after Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725425/attachment_0.png",
-    "Latitude": 36.195334500000001,
-    "Longitude": -115.2414982
-  },
-  {
-    "UniqueId": 51323,
-    "Timestamp": "2026-07-26 01:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "1:36 AM, Jul 26 2026 Crash on EB Blue Diamond Rd\u00A0after Jones Blvd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725416/attachment_0.png",
-    "Latitude": 36.255558999999998,
-    "Longitude": -115.225495
-  },
-  {
-    "UniqueId": 51324,
-    "Timestamp": "2026-07-26 02:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "2:18 AM, Jul 26 2026 Crash on EB Tropicana Ave\u00A0at Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725427/attachment_0.png",
-    "Latitude": 36.099360300000001,
-    "Longitude": -115.1705078
-  },
-  {
-    "UniqueId": 51325,
-    "Timestamp": "2026-07-26 02:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Sammy Davis Junior Dr",
-    "Relationship": "at",
-    "CrossStreet": "Genting Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:40 AM, Jul 26 2026 Crash on NB Sammy Davis Junior Dr\u00A0at Genting Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725429/attachment_0.png",
-    "Latitude": 36.1346743,
-    "Longitude": -115.1712618
-  },
-  {
     "UniqueId": 51326,
     "Timestamp": "2026-07-26 02:50",
     "IncidentType": "Police activity",
@@ -1174,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725692/attachment_0.jpg",
     "Latitude": 36.1951453,
     "Longitude": -115.0985208
+  },
+  {
+    "UniqueId": 51405,
+    "Timestamp": "2026-07-27 02:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:45 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725723/attachment_0.png",
+    "Latitude": 36.114984300000003,
+    "Longitude": -115.2164835
   }
 ]
