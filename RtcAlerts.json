@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51303,
-    "Timestamp": "2026-07-25 19:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:06 PM, Jul 25 2026 Stalled vehicle on NB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725383/attachment_0.jpg",
-    "Latitude": 36.261803999999998,
-    "Longitude": -115.073131
-  },
-  {
     "UniqueId": 51304,
     "Timestamp": "2026-07-25 19:16",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725651/attachment_0.png",
     "Latitude": 36.175158000000003,
     "Longitude": -115.22415599999999
+  },
+  {
+    "UniqueId": 51388,
+    "Timestamp": "2026-07-26 19:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:10 PM, Jul 26 2026 Crash on NB Nellis Blvd\u00A0after Desert Inn Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725652/attachment_0.jpg",
+    "Latitude": 36.129787,
+    "Longitude": -115.13448200000001
   }
 ]
