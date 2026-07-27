@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51315,
-    "Timestamp": "2026-07-25 21:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:25 PM, Jul 25 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725406/attachment_0.png",
-    "Latitude": 36.036797499999999,
-    "Longitude": -115.1336591
-  },
-  {
     "UniqueId": 51316,
     "Timestamp": "2026-07-25 21:54",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725660/attachment_0.jpg",
     "Latitude": 36.240749299999997,
     "Longitude": -115.1166338
+  },
+  {
+    "UniqueId": 51397,
+    "Timestamp": "2026-07-26 21:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Vegas Valley Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:24 PM, Jul 26 2026 Crash on SB Nellis Blvd\u00A0after Vegas Valley Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725639/attachment_0.png",
+    "Latitude": 36.092427000000001,
+    "Longitude": -115.064443
   }
 ]
