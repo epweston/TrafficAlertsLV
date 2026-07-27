@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51343,
-    "Timestamp": "2026-07-26 05:26",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": ". Right shoulder blocked",
-    "Impact": "",
-    "Notes": "5:26 AM, Jul 26 2026 Abandoned vehicle on SB I-11\u00A0after . Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.171132,
-    "Longitude": -115.131441
-  },
-  {
-    "UniqueId": 51344,
-    "Timestamp": "2026-07-26 05:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:27 AM, Jul 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.146996100000003,
-    "Longitude": -115.2061363
-  },
-  {
-    "UniqueId": 51345,
-    "Timestamp": "2026-07-26 06:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:02 AM, Jul 26 2026 Stalled vehicle on NB I-15\u00A0before I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725458/attachment_0.jpg",
-    "Latitude": 36.298364599999999,
-    "Longitude": -115.28556949999999
-  },
-  {
     "UniqueId": 51346,
     "Timestamp": "2026-07-26 06:39",
     "IncidentType": "Stalled vehicle",
@@ -922,5 +880,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725863/attachment_0.png",
     "Latitude": 36.146996100000003,
     "Longitude": -115.2061363
+  },
+  {
+    "UniqueId": 51409,
+    "Timestamp": "2026-07-27 05:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:59 AM, Jul 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725910/attachment_0.png",
+    "Latitude": 36.211753000000002,
+    "Longitude": -115.096243
   }
 ]
