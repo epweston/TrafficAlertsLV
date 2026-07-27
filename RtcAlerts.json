@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51316,
-    "Timestamp": "2026-07-25 21:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "at",
-    "CrossStreet": "Saint Louis Ave",
-    "Impact": "NB - SB Left lane blocked.",
-    "Notes": "9:54 PM, Jul 25 2026 Crash on NB Fremont St\u00A0at Saint Louis Ave. NB - SB Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725398/attachment_0.png",
-    "Latitude": 36.1481663,
-    "Longitude": -115.1055928
-  },
-  {
     "UniqueId": 51317,
     "Timestamp": "2026-07-25 22:30",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725641/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 51399,
+    "Timestamp": "2026-07-26 21:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder.",
+    "Notes": "9:57 PM, Jul 26 2026 Stalled vehicle on SB I-11\u00A0after I-15. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725663/attachment_0.png",
+    "Latitude": 36.298364599999999,
+    "Longitude": -115.28556949999999
   }
 ]
