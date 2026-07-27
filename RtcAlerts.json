@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51314,
-    "Timestamp": "2026-07-25 21:11",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:11 PM, Jul 25 2026 Crash on WB 215 Southern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725404/attachment_0.png",
-    "Latitude": 36.174227000000002,
-    "Longitude": -115.154821
-  },
-  {
     "UniqueId": 51315,
     "Timestamp": "2026-07-25 21:25",
     "IncidentType": "Stalled vehicle",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725636/attachment_0.png",
     "Latitude": 36.315409099999997,
     "Longitude": -115.2914474
+  },
+  {
+    "UniqueId": 51396,
+    "Timestamp": "2026-07-26 20:49",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "8:49 PM, Jul 26 2026 Crash on EB Craig Rd\u00A0after Losee Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725660/attachment_0.jpg",
+    "Latitude": 36.240749299999997,
+    "Longitude": -115.1166338
   }
 ]
