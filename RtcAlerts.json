@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51304,
-    "Timestamp": "2026-07-25 19:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "7:16 PM, Jul 25 2026 Crash on NB Las Vegas Blvd\u00A0at 215 Southern Beltway. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725377/attachment_0.jpg",
-    "Latitude": 36.172001999999999,
-    "Longitude": -115.138847
-  },
-  {
-    "UniqueId": 51305,
-    "Timestamp": "2026-07-25 19:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:18 PM, Jul 25 2026 Stalled vehicle on NB I-15 Collector Distributor\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725385/attachment_0.png",
-    "Latitude": 36.144922000000001,
-    "Longitude": -115.170312
-  },
-  {
     "UniqueId": 51306,
     "Timestamp": "2026-07-25 19:24",
     "IncidentType": "Crash",
@@ -1188,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725652/attachment_0.jpg",
     "Latitude": 36.129787,
     "Longitude": -115.13448200000001
+  },
+  {
+    "UniqueId": 51389,
+    "Timestamp": "2026-07-26 19:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 8",
+    "Impact": "Right shoulder.",
+    "Notes": "7:14 PM, Jul 26 2026 Stalled vehicle on NB I-15\u00A0after Mile 8. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725654/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
