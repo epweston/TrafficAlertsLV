@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51317,
-    "Timestamp": "2026-07-25 22:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:30 PM, Jul 25 2026 Crash on NB Decatur Blvd\u00A0at Russell Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725401/attachment_0.png",
-    "Latitude": 36.087365300000002,
-    "Longitude": -115.20772479999999
-  },
-  {
-    "UniqueId": 51318,
-    "Timestamp": "2026-07-25 22:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:35 PM, Jul 25 2026 Stalled vehicle on SB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725408/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 51319,
-    "Timestamp": "2026-07-25 23:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:16 PM, Jul 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725410/attachment_0.png",
-    "Latitude": 36.292740999999999,
-    "Longitude": -115.247497
-  },
-  {
-    "UniqueId": 51320,
-    "Timestamp": "2026-07-25 23:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:19 PM, Jul 25 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/25/file_attachments/3725424/attachment_0.png",
-    "Latitude": 36.036797499999999,
-    "Longitude": -115.1336591
-  },
-  {
     "UniqueId": 51321,
     "Timestamp": "2026-07-26 01:07",
     "IncidentType": "Crash",
@@ -1174,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725665/attachment_0.png",
     "Latitude": 36.195334500000001,
     "Longitude": -115.2414982
+  },
+  {
+    "UniqueId": 51401,
+    "Timestamp": "2026-07-26 23:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "11:38 PM, Jul 26 2026 Crash on NB I-15\u00A0at Charleston Blvd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725688/attachment_0.png",
+    "Latitude": 36.141760499999997,
+    "Longitude": -115.1734852
   }
 ]
