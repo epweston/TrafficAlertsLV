@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51341,
-    "Timestamp": "2026-07-26 04:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:38 AM, Jul 26 2026 Crash on SB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.099972999999999,
-    "Longitude": -115.1304698
-  },
-  {
-    "UniqueId": 51342,
-    "Timestamp": "2026-07-26 04:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:53 AM, Jul 26 2026 Crash on SB I-15\u00A0at 215 Southern Beltway. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725456/attachment_0.png",
-    "Latitude": 36.144922000000001,
-    "Longitude": -115.170312
-  },
-  {
     "UniqueId": 51343,
     "Timestamp": "2026-07-26 05:26",
     "IncidentType": "Abandoned vehicle",
@@ -922,5 +894,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725822/attachment_0.png",
     "Latitude": 36.114491000000001,
     "Longitude": -115.163997
+  },
+  {
+    "UniqueId": 51407,
+    "Timestamp": "2026-07-27 04:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:58 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725856/attachment_0.png",
+    "Latitude": 36.146996100000003,
+    "Longitude": -115.2061363
   }
 ]
