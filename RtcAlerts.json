@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51397,
-    "Timestamp": "2026-07-26 21:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Vegas Valley Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:24 PM, Jul 26 2026 Crash on SB Nellis Blvd\u00A0after Vegas Valley Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725639/attachment_0.png",
-    "Latitude": 36.092427000000001,
-    "Longitude": -115.064443
-  },
-  {
     "UniqueId": 51398,
     "Timestamp": "2026-07-26 21:42",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726962/attachment_0.jpg",
     "Latitude": 36.147829999999999,
     "Longitude": -115.15294900000001
+  },
+  {
+    "UniqueId": 51501,
+    "Timestamp": "2026-07-27 21:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd off-ramp",
+    "Impact": "Right shoulder.",
+    "Notes": "9:22 PM, Jul 27 2026 Crash on SB I-11\u00A0at Valley View Blvd off-ramp. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726985/attachment_0.png",
+    "Latitude": 36.171132,
+    "Longitude": -115.131441
   }
 ]
