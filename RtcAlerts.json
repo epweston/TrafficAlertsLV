@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51459,
-    "Timestamp": "2026-07-27 14:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:07 PM, Jul 27 2026 Stalled vehicle on NB Jones Blvd\u00A0after Hacienda Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726743/attachment_0.jpg",
-    "Latitude": 36.093151300000002,
-    "Longitude": -115.22494279999999
-  },
-  {
     "UniqueId": 51460,
     "Timestamp": "2026-07-27 14:21",
     "IncidentType": "Crash",
@@ -1552,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728021/attachment_0.png",
     "Latitude": 36.094701999999998,
     "Longitude": -115.220798
+  },
+  {
+    "UniqueId": 51570,
+    "Timestamp": "2026-07-28 14:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:08 PM, Jul 28 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728049/attachment_0.png",
+    "Latitude": 36.043056999999997,
+    "Longitude": -115.24333900000001
+  },
+  {
+    "UniqueId": 51571,
+    "Timestamp": "2026-07-28 14:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:10 PM, Jul 28 2026 Stalled vehicle on NB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728050/attachment_0.png",
+    "Latitude": 36.100743899999998,
+    "Longitude": -115.291538
   }
 ]
