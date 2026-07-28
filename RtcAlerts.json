@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51422,
-    "Timestamp": "2026-07-27 08:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:31 AM, Jul 27 2026 Crash on SB I-11\u00A0at Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 51423,
     "Timestamp": "2026-07-27 08:57",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727378/attachment_0.jpg",
     "Latitude": 36.144922000000001,
     "Longitude": -115.170312
+  },
+  {
+    "UniqueId": 51538,
+    "Timestamp": "2026-07-28 08:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "8:28 AM, Jul 28 2026 Crash on NB Decatur Blvd\u00A0after Tropicana Ave. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727380/attachment_0.jpg",
+    "Latitude": 36.1009843,
+    "Longitude": -115.20887879999999
   }
 ]
