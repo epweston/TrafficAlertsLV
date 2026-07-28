@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51460,
-    "Timestamp": "2026-07-27 14:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:21 PM, Jul 27 2026 Crash on SB Eastern Ave\u00A0after Stewart Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726749/attachment_0.jpg",
-    "Latitude": 36.166668600000001,
-    "Longitude": -115.1162472
-  },
-  {
     "UniqueId": 51461,
     "Timestamp": "2026-07-27 14:26",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728050/attachment_0.png",
     "Latitude": 36.100743899999998,
     "Longitude": -115.291538
+  },
+  {
+    "UniqueId": 51572,
+    "Timestamp": "2026-07-28 14:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:24 PM, Jul 28 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728072/attachment_0.png",
+    "Latitude": 36.034919700000003,
+    "Longitude": -115.2063284
   }
 ]
