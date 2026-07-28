@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51421,
-    "Timestamp": "2026-07-27 08:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sobb Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:29 AM, Jul 27 2026 Stalled vehicle on NB I-11\u00A0at Sobb Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726156/attachment_0.png",
-    "Latitude": 36.076667,
-    "Longitude": -115.21839230000001
-  },
-  {
     "UniqueId": 51422,
     "Timestamp": "2026-07-27 08:31",
     "IncidentType": "Crash",
@@ -1594,5 +1580,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727360/attachment_0.jpg",
     "Latitude": 36.307794000000001,
     "Longitude": -115.2792911
+  },
+  {
+    "UniqueId": 51535,
+    "Timestamp": "2026-07-28 08:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Diablo Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:24 AM, Jul 28 2026 Crash on NB Rainbow Blvd\u00A0at Diablo Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727371/attachment_0.png",
+    "Latitude": 36.088867,
+    "Longitude": -115.30803400000001
+  },
+  {
+    "UniqueId": 51536,
+    "Timestamp": "2026-07-28 08:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Diablo Dr",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "8:26 AM, Jul 28 2026 Crash on NB Rainbow Blvd\u00A0at Diablo Dr. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727375/attachment_0.jpg",
+    "Latitude": 36.088867,
+    "Longitude": -115.30803400000001
+  },
+  {
+    "UniqueId": 51537,
+    "Timestamp": "2026-07-28 08:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 (CD Rd)",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "8:27 AM, Jul 28 2026 Crash on SB I-15 (CD Rd)\u00A0before 215 Southern Beltway. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727378/attachment_0.jpg",
+    "Latitude": 36.144922000000001,
+    "Longitude": -115.170312
   }
 ]
