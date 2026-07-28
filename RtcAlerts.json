@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51473,
-    "Timestamp": "2026-07-27 15:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:54 PM, Jul 27 2026 Crash on SB Decatur Blvd\u00A0after 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726857/attachment_0.png",
-    "Latitude": 36.093592999999998,
-    "Longitude": -115.207944
-  },
-  {
     "UniqueId": 51474,
     "Timestamp": "2026-07-27 15:58",
     "IncidentType": "Crash",
@@ -1496,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728135/attachment_0.png",
     "Latitude": 36.271231299999997,
     "Longitude": -115.0565106
+  },
+  {
+    "UniqueId": 51580,
+    "Timestamp": "2026-07-28 15:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:50 PM, Jul 28 2026 Crash on NB Valley View Blvd\u00A0after Blue Diamond Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728138/attachment_0.png",
+    "Latitude": 36.198276999999997,
+    "Longitude": -115.303252
+  },
+  {
+    "UniqueId": 51581,
+    "Timestamp": "2026-07-28 15:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:52 PM, Jul 28 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728148/attachment_0.jpg",
+    "Latitude": 36.141760499999997,
+    "Longitude": -115.1734852
   }
 ]
