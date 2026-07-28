@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51385,
-    "Timestamp": "2026-07-26 17:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:46 PM, Jul 26 2026 Crash on EB Sahara Ave\u00A0after Eastern Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725648/attachment_0.png",
-    "Latitude": 36.1453183,
-    "Longitude": -115.1186598
-  },
-  {
     "UniqueId": 51386,
     "Timestamp": "2026-07-26 18:35",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726920/attachment_0.jpg",
     "Latitude": 36.0276225,
     "Longitude": -115.0620284
+  },
+  {
+    "UniqueId": 51491,
+    "Timestamp": "2026-07-27 17:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "S Rancho Dr",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:45 PM, Jul 27 2026 Stalled vehicle on NB I-11\u00A0at S Rancho Dr. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726933/attachment_0.png",
+    "Latitude": 36.175537300000002,
+    "Longitude": -115.1950564
   }
 ]
