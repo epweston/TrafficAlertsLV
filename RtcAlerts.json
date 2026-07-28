@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51420,
-    "Timestamp": "2026-07-27 08:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "South Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:17 AM, Jul 27 2026 Crash on SB South Rancho Dr\u00A0at Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726128/attachment_0.png",
-    "Latitude": 36.172182599999999,
-    "Longitude": -115.1727188
-  },
-  {
     "UniqueId": 51421,
     "Timestamp": "2026-07-27 08:29",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727355/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 51534,
+    "Timestamp": "2026-07-28 08:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:15 AM, Jul 28 2026 Stalled vehicle on SB I-11\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727360/attachment_0.jpg",
+    "Latitude": 36.307794000000001,
+    "Longitude": -115.2792911
   }
 ]
