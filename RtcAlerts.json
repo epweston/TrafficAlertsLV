@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51406,
-    "Timestamp": "2026-07-27 04:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11 On ramp",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:29 AM, Jul 27 2026 Crash on NB I-11 On ramp\u00A0at Flamingo Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725822/attachment_0.png",
-    "Latitude": 36.114491000000001,
-    "Longitude": -115.163997
-  },
-  {
     "UniqueId": 51407,
     "Timestamp": "2026-07-27 04:58",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "",
     "Latitude": 36.144922000000001,
     "Longitude": -115.170312
+  },
+  {
+    "UniqueId": 51510,
+    "Timestamp": "2026-07-28 04:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:28 AM, Jul 28 2026 Crash on NB Pecos Rd\u00A0at Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727047/attachment_0.png",
+    "Latitude": 36.085610299999999,
+    "Longitude": -115.1011218
   }
 ]
