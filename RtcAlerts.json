@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51480,
-    "Timestamp": "2026-07-27 16:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "SB I-11 ramps",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:14 PM, Jul 27 2026 Crash on NB Eastern Ave\u00A0at SB I-11 ramps. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726881/attachment_0.jpg",
-    "Latitude": 36.009616000000001,
-    "Longitude": -115.11708400000001
-  },
-  {
     "UniqueId": 51481,
     "Timestamp": "2026-07-27 16:38",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "",
     "Latitude": 36.153942499999999,
     "Longitude": -115.0946033
+  },
+  {
+    "UniqueId": 51584,
+    "Timestamp": "2026-07-28 16:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:12 PM, Jul 28 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0after Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728160/attachment_0.png",
+    "Latitude": 36.144922000000001,
+    "Longitude": -115.170312
   }
 ]
