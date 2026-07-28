@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51482,
-    "Timestamp": "2026-07-27 16:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sky Pointe Dr",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:49 PM, Jul 27 2026 Crash on SB Sky Pointe Dr\u00A0at 215 Northern Beltway. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726895/attachment_0.jpg",
-    "Latitude": 36.308287,
-    "Longitude": -115.294224
-  },
-  {
     "UniqueId": 51483,
     "Timestamp": "2026-07-27 16:53",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728179/attachment_0.png",
     "Latitude": 36.179603,
     "Longitude": -115.05986300000001
+  },
+  {
+    "UniqueId": 51587,
+    "Timestamp": "2026-07-28 16:48",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:48 PM, Jul 28 2026 Crash on NB Rancho Dr\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728181/attachment_0.jpg",
+    "Latitude": 36.199915300000001,
+    "Longitude": -115.1980638
   }
 ]
