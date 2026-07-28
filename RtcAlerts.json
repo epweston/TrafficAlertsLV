@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51401,
-    "Timestamp": "2026-07-26 23:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "11:38 PM, Jul 26 2026 Crash on NB I-15\u00A0at Charleston Blvd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/26/file_attachments/3725688/attachment_0.png",
-    "Latitude": 36.141760499999997,
-    "Longitude": -115.1734852
-  },
-  {
     "UniqueId": 51402,
     "Timestamp": "2026-07-27 00:36",
     "IncidentType": "Crash",
@@ -1412,5 +1398,19 @@
     "ImagePath": "",
     "Latitude": 36.056135699999999,
     "Longitude": -115.246584
+  },
+  {
+    "UniqueId": 51503,
+    "Timestamp": "2026-07-28 00:17",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Left lanes blocked.",
+    "Notes": "12:17 AM, Jul 28 2026 Crash on WB Tropicana Ave\u00A0at Hualapai Way. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3726989/attachment_0.jpg",
+    "Latitude": 36.100223,
+    "Longitude": -115.31523900000001
   }
 ]
