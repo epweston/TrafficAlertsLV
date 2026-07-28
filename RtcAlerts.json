@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51402,
-    "Timestamp": "2026-07-27 00:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rochelle Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:36 AM, Jul 27 2026 Crash on NB Eastern Ave\u00A0at Rochelle Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725681/attachment_0.jpg",
-    "Latitude": 36.111441300000003,
-    "Longitude": -115.1189962
-  },
-  {
-    "UniqueId": 51403,
-    "Timestamp": "2026-07-27 00:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "WB Lake Mead Blvd is closed at Pecos Rd",
-    "Notes": "12:50 AM, Jul 27 2026 Crash on WB Lake Mead Blvd\u00A0at Pecos Rd. WB Lake Mead Blvd is closed at Pecos Rd",
-    "ImagePath": "",
-    "Latitude": 36.1951453,
-    "Longitude": -115.0985208
-  },
-  {
-    "UniqueId": 51404,
-    "Timestamp": "2026-07-27 00:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "WB Lake Mead Blvd is closed at Pecos Rd",
-    "Notes": "12:50 AM, Jul 27 2026 Crash on WB Lake Mead Blvd\u00A0at Pecos Rd. WB Lake Mead Blvd is closed at Pecos Rd",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725692/attachment_0.jpg",
-    "Latitude": 36.1951453,
-    "Longitude": -115.0985208
-  },
-  {
-    "UniqueId": 51405,
-    "Timestamp": "2026-07-27 02:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:45 AM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725723/attachment_0.png",
-    "Latitude": 36.114984300000003,
-    "Longitude": -115.2164835
-  },
-  {
     "UniqueId": 51406,
     "Timestamp": "2026-07-27 04:29",
     "IncidentType": "Crash",
@@ -1412,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3726989/attachment_0.jpg",
     "Latitude": 36.100223,
     "Longitude": -115.31523900000001
+  },
+  {
+    "UniqueId": 51504,
+    "Timestamp": "2026-07-28 02:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:58 AM, Jul 28 2026 Stalled vehicle on NB I-15\u00A0at Starr Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727005/attachment_0.png",
+    "Latitude": 36.144922000000001,
+    "Longitude": -115.170312
   }
 ]
