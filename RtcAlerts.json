@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51455,
-    "Timestamp": "2026-07-27 12:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:58 PM, Jul 27 2026 Stalled vehicle on EB Tropicana Ave\u00A0before Maryland Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726649/attachment_0.jpg",
-    "Latitude": 36.099944299999997,
-    "Longitude": -115.1371134
-  },
-  {
-    "UniqueId": 51456,
-    "Timestamp": "2026-07-27 13:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "1:05 PM, Jul 27 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Flamingo Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726661/attachment_0.jpg",
-    "Latitude": 36.108257000000002,
-    "Longitude": -115.28151200000001
-  },
-  {
-    "UniqueId": 51457,
-    "Timestamp": "2026-07-27 13:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Simmons St",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:07 PM, Jul 27 2026 Crash on SB Simmons St\u00A0after Craig Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726664/attachment_0.jpg",
-    "Latitude": 36.238634300000001,
-    "Longitude": -115.1803188
-  },
-  {
     "UniqueId": 51458,
     "Timestamp": "2026-07-27 13:51",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727943/attachment_0.jpg",
     "Latitude": 36.110975158692483,
     "Longitude": -115.11916632954413
+  },
+  {
+    "UniqueId": 51565,
+    "Timestamp": "2026-07-28 13:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:30 PM, Jul 28 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727996/attachment_0.jpg",
+    "Latitude": 36.038698599999996,
+    "Longitude": -115.1346946
   }
 ]
