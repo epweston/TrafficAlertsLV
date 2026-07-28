@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51453,
-    "Timestamp": "2026-07-27 12:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder.",
-    "Notes": "12:38 PM, Jul 27 2026 Stalled vehicle on NB I-15\u00A0before Flamingo Rd. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726611/attachment_0.png",
-    "Latitude": 36.114984300000003,
-    "Longitude": -115.2164835
-  },
-  {
-    "UniqueId": 51454,
-    "Timestamp": "2026-07-27 12:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder.",
-    "Notes": "12:40 PM, Jul 27 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Durango Dr. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726617/attachment_0.png",
-    "Latitude": 36.179603,
-    "Longitude": -115.05986300000001
-  },
-  {
     "UniqueId": 51455,
     "Timestamp": "2026-07-27 12:58",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727911/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 51564,
+    "Timestamp": "2026-07-28 12:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rochelle Ave",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "12:54 PM, Jul 28 2026 Crash on SB Eastern Ave\u00A0at Rochelle Ave. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727943/attachment_0.jpg",
+    "Latitude": 36.110975158692483,
+    "Longitude": -115.11916632954413
   }
 ]
