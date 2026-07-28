@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51409,
-    "Timestamp": "2026-07-27 05:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:59 AM, Jul 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725910/attachment_0.png",
-    "Latitude": 36.211753000000002,
-    "Longitude": -115.096243
-  },
-  {
-    "UniqueId": 51410,
-    "Timestamp": "2026-07-27 06:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:04 AM, Jul 27 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3725918/attachment_0.png",
-    "Latitude": 36.144922000000001,
-    "Longitude": -115.170312
-  },
-  {
     "UniqueId": 51411,
     "Timestamp": "2026-07-27 06:21",
     "IncidentType": "Crash",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727122/attachment_0.png",
     "Latitude": 36.141760499999997,
     "Longitude": -115.1734852
+  },
+  {
+    "UniqueId": 51516,
+    "Timestamp": "2026-07-28 06:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:03 AM, Jul 28 2026 Stalled vehicle on NB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727168/attachment_0.png",
+    "Latitude": 36.298364599999999,
+    "Longitude": -115.28556949999999
   }
 ]
