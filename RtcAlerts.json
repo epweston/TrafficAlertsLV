@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51585,
-    "Timestamp": "2026-07-28 16:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:31 PM, Jul 28 2026 Crash on SB Jones Blvd\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728185/attachment_0.jpg",
-    "Latitude": 36.145285000000001,
-    "Longitude": -115.2247157
-  },
-  {
-    "UniqueId": 51586,
-    "Timestamp": "2026-07-28 16:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:41 PM, Jul 28 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728179/attachment_0.png",
-    "Latitude": 36.179603,
-    "Longitude": -115.05986300000001
-  },
-  {
     "UniqueId": 51587,
     "Timestamp": "2026-07-28 16:48",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729534/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 51694,
+    "Timestamp": "2026-07-29 16:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "4:40 PM, Jul 29 2026 Crash on SB Eastern Ave\u00A0after Charleston Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729549/attachment_0.jpg",
+    "Latitude": 36.1589229,
+    "Longitude": -115.1189426
   }
 ]
