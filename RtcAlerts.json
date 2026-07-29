@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51579,
-    "Timestamp": "2026-07-28 15:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropical Parkway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:46 PM, Jul 28 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Tropical Parkway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728135/attachment_0.png",
-    "Latitude": 36.271231299999997,
-    "Longitude": -115.0565106
-  },
-  {
-    "UniqueId": 51580,
-    "Timestamp": "2026-07-28 15:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:50 PM, Jul 28 2026 Crash on NB Valley View Blvd\u00A0after Blue Diamond Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728138/attachment_0.png",
-    "Latitude": 36.198276999999997,
-    "Longitude": -115.303252
-  },
-  {
-    "UniqueId": 51581,
-    "Timestamp": "2026-07-28 15:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:52 PM, Jul 28 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728148/attachment_0.jpg",
-    "Latitude": 36.141760499999997,
-    "Longitude": -115.1734852
-  },
-  {
     "UniqueId": 51582,
     "Timestamp": "2026-07-28 16:04",
     "IncidentType": "Crash",
@@ -1480,6 +1438,20 @@
     "Impact": "Gore blocked.",
     "Notes": "3:34 PM, Jul 29 2026 Crash on WB 215 Northern Beltway\u00A0before I-11. Gore blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729503/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 51685,
+    "Timestamp": "2026-07-29 15:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:57 PM, Jul 29 2026 Stalled vehicle on SB Rainbow Blvd\u00A0after I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729511/attachment_0.jpg",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
   }
