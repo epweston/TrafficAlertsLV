@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51491,
-    "Timestamp": "2026-07-27 17:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:45 PM, Jul 27 2026 Stalled vehicle on NB I-11\u00A0at S Rancho Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726933/attachment_0.png",
-    "Latitude": 36.175537300000002,
-    "Longitude": -115.1950564
-  },
-  {
-    "UniqueId": 51492,
-    "Timestamp": "2026-07-27 17:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln off-ramp Left lane partially blocked",
-    "Impact": "",
-    "Notes": "5:48 PM, Jul 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln off-ramp Left lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726935/attachment_0.jpg",
-    "Latitude": 36.221102999999999,
-    "Longitude": -115.302336
-  },
-  {
-    "UniqueId": 51493,
-    "Timestamp": "2026-07-27 17:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:51 PM, Jul 27 2026 Crash on NB 215 Western Beltway\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/27/file_attachments/3726943/attachment_0.jpg",
-    "Latitude": 36.158864999999999,
-    "Longitude": -115.123419
-  },
-  {
     "UniqueId": 51494,
     "Timestamp": "2026-07-27 17:54",
     "IncidentType": "Crash",
@@ -1468,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728227/attachment_0.jpg",
     "Latitude": 36.091448300000003,
     "Longitude": -115.2077828
+  },
+  {
+    "UniqueId": 51596,
+    "Timestamp": "2026-07-28 17:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:47 PM, Jul 28 2026 Stalled vehicle on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728222/attachment_0.jpg",
+    "Latitude": 36.171132,
+    "Longitude": -115.131441
   }
 ]
