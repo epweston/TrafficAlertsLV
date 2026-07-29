@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51584,
-    "Timestamp": "2026-07-28 16:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:12 PM, Jul 28 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0after Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728160/attachment_0.png",
-    "Latitude": 36.144922000000001,
-    "Longitude": -115.170312
-  },
-  {
     "UniqueId": 51585,
     "Timestamp": "2026-07-28 16:31",
     "IncidentType": "Crash",
@@ -1454,5 +1440,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729527/attachment_0.png",
     "Latitude": 36.126708600000001,
     "Longitude": -115.1763402
+  },
+  {
+    "UniqueId": 51688,
+    "Timestamp": "2026-07-29 16:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lone Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:18 PM, Jul 29 2026 Crash on WB Lone Mountain Rd\u00A0at Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729520/attachment_0.png",
+    "Latitude": 36.247911100000003,
+    "Longitude": -115.2421914
+  },
+  {
+    "UniqueId": 51689,
+    "Timestamp": "2026-07-29 16:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Sky Pointe Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:20 PM, Jul 29 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Sky Pointe Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729531/attachment_0.png",
+    "Latitude": 36.279313100000003,
+    "Longitude": -115.2648477
+  },
+  {
+    "UniqueId": 51690,
+    "Timestamp": "2026-07-29 16:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Grand Canyon Dr",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:21 PM, Jul 29 2026 Crash on NB Grand Canyon Dr\u00A0at Flamingo Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729543/attachment_0.png",
+    "Latitude": 36.115191799999998,
+    "Longitude": -115.30705279999999
   }
 ]
