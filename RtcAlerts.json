@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51544,
-    "Timestamp": "2026-07-28 09:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:07 AM, Jul 28 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727458/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 51545,
-    "Timestamp": "2026-07-28 09:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "2 Left lanes blocked. Expect Delays",
-    "Notes": "9:16 AM, Jul 28 2026 Crash on NB I-11\u00A0at Auto Show Dr. 2 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3727489/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 51546,
     "Timestamp": "2026-07-28 09:25",
     "IncidentType": "Crash",
@@ -1426,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728786/attachment_0.png",
     "Latitude": 35.984338999999999,
     "Longitude": -115.17150820000001
+  },
+  {
+    "UniqueId": 51646,
+    "Timestamp": "2026-07-29 09:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "over",
+    "CrossStreet": "I-11",
+    "Impact": "Center lane blocked.",
+    "Notes": "9:06 AM, Jul 29 2026 Stalled vehicle on SB Durango Dr\u00A0over I-11. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728790/attachment_0.png",
+    "Latitude": 36.173893800000002,
+    "Longitude": -115.27806150000001
+  },
+  {
+    "UniqueId": 51647,
+    "Timestamp": "2026-07-29 09:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:09 AM, Jul 29 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728777/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
