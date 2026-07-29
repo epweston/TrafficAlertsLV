@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51578,
-    "Timestamp": "2026-07-28 15:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:04 PM, Jul 28 2026 Crash on NB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728118/attachment_0.jpg",
-    "Latitude": 36.195334500000001,
-    "Longitude": -115.2414982
-  },
-  {
     "UniqueId": 51579,
     "Timestamp": "2026-07-28 15:46",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729488/attachment_0.png",
     "Latitude": 36.114693462474712,
     "Longitude": -115.14635429434829
+  },
+  {
+    "UniqueId": 51681,
+    "Timestamp": "2026-07-29 15:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:13 PM, Jul 29 2026 Stalled vehicle on NB I-15\u00A0after 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729495/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
