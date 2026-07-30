@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51597,
-    "Timestamp": "2026-07-28 17:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "5:59 PM, Jul 28 2026 Crash on NB Jones Blvd\u00A0before Oakey Blvd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728245/attachment_0.png",
-    "Latitude": 36.151479299999998,
-    "Longitude": -115.2257278
-  },
-  {
     "UniqueId": 51598,
     "Timestamp": "2026-07-28 18:06",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729582/attachment_0.png",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 51707,
+    "Timestamp": "2026-07-29 18:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:02 PM, Jul 29 2026 Crash on NB Eastern Ave\u00A0before Desert Inn Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729608/attachment_0.png",
+    "Latitude": 36.129897799999988,
+    "Longitude": -115.1186276
   }
 ]
