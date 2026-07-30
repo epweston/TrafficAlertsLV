@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51629,
-    "Timestamp": "2026-07-29 06:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:43 AM, Jul 29 2026 Stalled vehicle on SB I-11\u00A0before Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728507/attachment_0.png",
-    "Latitude": 36.1603025,
-    "Longitude": -115.17237249999999
-  },
-  {
-    "UniqueId": 51630,
-    "Timestamp": "2026-07-29 06:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:55 AM, Jul 29 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Sahara Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728544/attachment_0.png",
-    "Latitude": 36.144160499999998,
-    "Longitude": -115.2362969
-  },
-  {
-    "UniqueId": 51631,
-    "Timestamp": "2026-07-29 07:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:12 AM, Jul 29 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Rampart Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728561/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51632,
-    "Timestamp": "2026-07-29 07:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:20 AM, Jul 29 2026 Crash on SB Nellis Blvd\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728542/attachment_0.jpg",
-    "Latitude": 36.158926896541821,
-    "Longitude": -115.06236791610719
-  },
-  {
     "UniqueId": 51633,
     "Timestamp": "2026-07-29 08:06",
     "IncidentType": "Crash",
@@ -1748,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3729959/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 51754,
+    "Timestamp": "2026-07-30 07:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "over",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:20 AM, Jul 30 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0over Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730053/attachment_0.jpg",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
   }
 ]
