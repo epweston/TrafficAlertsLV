@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51666,
-    "Timestamp": "2026-07-29 13:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:29 PM, Jul 29 2026 Crash on SB I-15\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729336/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 51667,
-    "Timestamp": "2026-07-29 13:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:35 PM, Jul 29 2026 Crash on NB 215 Western Beltway\u00A0before Lake Mead Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729339/attachment_0.jpg",
-    "Latitude": 36.196169400000002,
-    "Longitude": -115.2555826
-  },
-  {
     "UniqueId": 51668,
     "Timestamp": "2026-07-29 13:45",
     "IncidentType": "Crash",
@@ -1860,5 +1832,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731079/attachment_0.png",
     "Latitude": 36.195577399999998,
     "Longitude": -115.0800359
+  },
+  {
+    "UniqueId": 51799,
+    "Timestamp": "2026-07-30 13:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:29 PM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731117/attachment_0.jpg",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 51800,
+    "Timestamp": "2026-07-30 13:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:32 PM, Jul 30 2026 Stalled vehicle on SB I-11\u00A0after Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731120/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
