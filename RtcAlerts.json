@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51608,
-    "Timestamp": "2026-07-28 19:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:04 PM, Jul 28 2026 Crash on WB Spring Mountain Rd\u00A0after Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.145972399999998,
-    "Longitude": -115.21579010000001
-  },
-  {
     "UniqueId": 51609,
     "Timestamp": "2026-07-28 19:40",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729631/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 51713,
+    "Timestamp": "2026-07-29 19:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Windmill Ln",
+    "Relationship": "at",
+    "CrossStreet": "Carob Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:02 PM, Jul 29 2026 Crash on WB Windmill Ln\u00A0at Carob Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729644/attachment_0.png",
+    "Latitude": 36.042624400000001,
+    "Longitude": -115.1397125
   }
 ]
