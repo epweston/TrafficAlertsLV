@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51595,
-    "Timestamp": "2026-07-28 17:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:38 PM, Jul 28 2026 Crash on NB Decatur Blvd\u00A0at Hacienda Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728227/attachment_0.jpg",
-    "Latitude": 36.091448300000003,
-    "Longitude": -115.2077828
-  },
-  {
     "UniqueId": 51596,
     "Timestamp": "2026-07-28 17:47",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729575/attachment_0.png",
     "Latitude": 36.331026399999999,
     "Longitude": -115.2787051
+  },
+  {
+    "UniqueId": 51703,
+    "Timestamp": "2026-07-29 17:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:40 PM, Jul 29 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729577/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
