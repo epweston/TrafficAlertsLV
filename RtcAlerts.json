@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51662,
-    "Timestamp": "2026-07-29 12:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:26 PM, Jul 29 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729236/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 51663,
     "Timestamp": "2026-07-29 12:42",
     "IncidentType": "Stalled vehicle",
@@ -1790,5 +1776,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730955/attachment_0.jpg",
     "Latitude": 36.292168599999997,
     "Longitude": -115.31499359999999
+  },
+  {
+    "UniqueId": 51790,
+    "Timestamp": "2026-07-30 12:25",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:25 PM, Jul 30 2026 Crash on EB Summerlin Pkwy\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730974/attachment_0.jpg",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 51791,
+    "Timestamp": "2026-07-30 12:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:27 PM, Jul 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730976/attachment_0.png",
+    "Latitude": 36.243957700000003,
+    "Longitude": -115.2422224
   }
 ]
