@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51596,
-    "Timestamp": "2026-07-28 17:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:47 PM, Jul 28 2026 Stalled vehicle on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728222/attachment_0.jpg",
-    "Latitude": 36.171132,
-    "Longitude": -115.131441
-  },
-  {
     "UniqueId": 51597,
     "Timestamp": "2026-07-28 17:59",
     "IncidentType": "Crash",
@@ -1510,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729577/attachment_0.png",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 51704,
+    "Timestamp": "2026-07-29 17:45",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:45 PM, Jul 29 2026 Crash on WB Craig Rd\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729580/attachment_0.jpg",
+    "Latitude": 36.238928299999998,
+    "Longitude": -115.2256034
+  },
+  {
+    "UniqueId": 51705,
+    "Timestamp": "2026-07-29 17:45",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:45 PM, Jul 29 2026 Crash on WB Craig Rd\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.238928299999998,
+    "Longitude": -115.2256034
   }
 ]
