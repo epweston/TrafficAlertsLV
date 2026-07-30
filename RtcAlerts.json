@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51598,
-    "Timestamp": "2026-07-28 18:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:06 PM, Jul 28 2026 Crash on WB Washington Ave\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728247/attachment_0.png",
-    "Latitude": 36.181409500000001,
-    "Longitude": -115.20590590000001
-  },
-  {
     "UniqueId": 51599,
     "Timestamp": "2026-07-28 18:14",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729608/attachment_0.png",
     "Latitude": 36.129897799999988,
     "Longitude": -115.1186276
+  },
+  {
+    "UniqueId": 51708,
+    "Timestamp": "2026-07-29 18:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left and Right lanes blocked.",
+    "Notes": "6:06 PM, Jul 29 2026 Crash on SB St Rose Pkwy\u00A0at 215 Southern Beltway. Left and Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729624/attachment_0.png",
+    "Latitude": 35.971125299999997,
+    "Longitude": -115.1648194
   }
 ]
