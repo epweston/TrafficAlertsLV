@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51633,
-    "Timestamp": "2026-07-29 08:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:06 AM, Jul 29 2026 Crash on EB Russell Rd\u00A0at Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728665/attachment_0.png",
-    "Latitude": 36.085185000000003,
-    "Longitude": -115.24271880000001
-  },
-  {
-    "UniqueId": 51634,
-    "Timestamp": "2026-07-29 08:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:08 AM, Jul 29 2026 Crash on WB Russell Rd\u00A0at Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728667/attachment_0.jpg",
-    "Latitude": 36.085185000000003,
-    "Longitude": -115.24271880000001
-  },
-  {
     "UniqueId": 51635,
     "Timestamp": "2026-07-29 08:13",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730117/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 51760,
+    "Timestamp": "2026-07-30 08:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:10 AM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0before Spring Mountain. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730150/attachment_0.jpg",
+    "Latitude": 36.125444299999998,
+    "Longitude": -115.1701368
   }
 ]
