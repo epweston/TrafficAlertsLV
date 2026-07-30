@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51655,
-    "Timestamp": "2026-07-29 11:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:05 AM, Jul 29 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729108/attachment_0.png",
-    "Latitude": 48.9952313,
-    "Longitude": -111.95998659999999
-  },
-  {
     "UniqueId": 51656,
     "Timestamp": "2026-07-29 11:26",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730793/attachment_0.png",
     "Latitude": 36.171573500000001,
     "Longitude": -115.139121
+  },
+  {
+    "UniqueId": 51779,
+    "Timestamp": "2026-07-30 10:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Badura Ave",
+    "Relationship": "at",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:59 AM, Jul 30 2026 Crash on WB Badura Ave\u00A0at Cimarron Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730781/attachment_0.jpg",
+    "Latitude": 36.061117099999997,
+    "Longitude": -115.2700859
+  },
+  {
+    "UniqueId": 51780,
+    "Timestamp": "2026-07-30 11:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:03 AM, Jul 30 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730804/attachment_0.png",
+    "Latitude": 36.159271400000002,
+    "Longitude": -115.2240053
   }
 ]
