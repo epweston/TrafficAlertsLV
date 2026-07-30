@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51668,
-    "Timestamp": "2026-07-29 13:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Center lane blocked. Left shoulder blocked Expect Delays",
-    "Notes": "1:45 PM, Jul 29 2026 Crash on SB I-11\u00A0at Rancho Dr. Center lane blocked. Left shoulder blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729352/attachment_0.jpg",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 51669,
     "Timestamp": "2026-07-29 13:47",
     "IncidentType": "Stalled vehicle",
@@ -1860,5 +1846,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731120/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 51801,
+    "Timestamp": "2026-07-30 13:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:44 PM, Jul 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731138/attachment_0.jpg",
+    "Latitude": 36.053602499999997,
+    "Longitude": -115.02873080000001
+  },
+  {
+    "UniqueId": 51802,
+    "Timestamp": "2026-07-30 13:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:44 PM, Jul 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.053602499999997,
+    "Longitude": -115.02873080000001
   }
 ]
