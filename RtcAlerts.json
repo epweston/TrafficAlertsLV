@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51642,
-    "Timestamp": "2026-07-29 08:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:56 AM, Jul 29 2026 Stalled vehicle on SB I-11\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728741/attachment_0.png",
-    "Latitude": 36.239482700000003,
-    "Longitude": -115.1392391
-  },
-  {
-    "UniqueId": 51643,
-    "Timestamp": "2026-07-29 08:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:58 AM, Jul 29 2026 Crash on EB Sunset Rd\u00A0before Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728767/attachment_0.jpg",
-    "Latitude": 36.071651799999998,
-    "Longitude": -115.1187552
-  },
-  {
-    "UniqueId": 51644,
-    "Timestamp": "2026-07-29 09:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 AM, Jul 29 2026 Stalled vehicle on SB I-15\u00A0after Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728785/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 51645,
-    "Timestamp": "2026-07-29 09:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "under",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 AM, Jul 29 2026 Crash on EB Starr Ave\u00A0under I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728786/attachment_0.png",
-    "Latitude": 35.984338999999999,
-    "Longitude": -115.17150820000001
-  },
-  {
     "UniqueId": 51646,
     "Timestamp": "2026-07-29 09:06",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730284/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 51764,
+    "Timestamp": "2026-07-30 08:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Stephanie St",
+    "Relationship": "after",
+    "CrossStreet": "Paseo Verde Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:57 AM, Jul 30 2026 Crash on SB Stephanie St\u00A0after Paseo Verde Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730287/attachment_0.jpg",
+    "Latitude": 36.026428699999997,
+    "Longitude": -115.0471579
   }
 ]
