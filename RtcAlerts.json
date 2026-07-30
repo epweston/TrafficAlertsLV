@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51649,
-    "Timestamp": "2026-07-29 09:38",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Mcleod Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:38 AM, Jul 29 2026 Crash on EB Sahara Ave\u00A0after McLeod Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3728880/attachment_0.png",
-    "Latitude": 36.144393399999998,
-    "Longitude": -115.1099043
-  },
-  {
     "UniqueId": 51650,
     "Timestamp": "2026-07-29 10:17",
     "IncidentType": "Crash",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730662/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 51769,
+    "Timestamp": "2026-07-30 09:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:42 AM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0before Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730667/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
