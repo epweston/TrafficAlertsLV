@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51661,
-    "Timestamp": "2026-07-29 12:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Coronado Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:22 PM, Jul 29 2026 Crash on NB Saint Rose Pkwy\u00A0at Coronado Center Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.015730400000002,
-    "Longitude": -115.1020003
-  },
-  {
     "UniqueId": 51662,
     "Timestamp": "2026-07-29 12:26",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1762,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730917/attachment_0.png",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 51788,
+    "Timestamp": "2026-07-30 12:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Racetrack Rd",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right lanes blocked.",
+    "Notes": "12:21 PM, Jul 30 2026 Crash on WB Racetrack Rd\u00A0before Boulder Hwy. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730966/attachment_0.png",
+    "Latitude": 36.014086499999998,
+    "Longitude": -114.9536061
+  },
+  {
+    "UniqueId": 51789,
+    "Timestamp": "2026-07-30 12:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "after",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:22 PM, Jul 30 2026 Crash on NB Hualapai Way\u00A0after Elkhorn Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730955/attachment_0.jpg",
+    "Latitude": 36.292168599999997,
+    "Longitude": -115.31499359999999
   }
 ]
