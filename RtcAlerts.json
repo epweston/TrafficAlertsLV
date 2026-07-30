@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51665,
-    "Timestamp": "2026-07-29 13:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:12 PM, Jul 29 2026 Crash on SB Las Vegas Blvd\u00A0after Harmon Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729308/attachment_0.jpg",
-    "Latitude": 36.109056600000002,
-    "Longitude": -115.1731435
-  },
-  {
     "UniqueId": 51666,
     "Timestamp": "2026-07-29 13:29",
     "IncidentType": "Crash",
@@ -1860,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731048/attachment_0.png",
     "Latitude": 36.186849129215581,
     "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 51798,
+    "Timestamp": "2026-07-30 13:16",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:16 PM, Jul 30 2026 Crash on WB Lake Mead Blvd\u00A0at Lamb Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731079/attachment_0.png",
+    "Latitude": 36.195577399999998,
+    "Longitude": -115.0800359
   }
 ]
