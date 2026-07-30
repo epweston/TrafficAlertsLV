@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51607,
-    "Timestamp": "2026-07-28 18:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:45 PM, Jul 28 2026 Crash on WB 215 Southern Beltway\u00A0before Durango. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/28/file_attachments/3728260/attachment_0.png",
-    "Latitude": 36.179603,
-    "Longitude": -115.05986300000001
-  },
-  {
     "UniqueId": 51608,
     "Timestamp": "2026-07-28 19:04",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729629/attachment_0.jpg",
     "Latitude": 36.13697359374855,
     "Longitude": -115.06562949343491
+  },
+  {
+    "UniqueId": 51712,
+    "Timestamp": "2026-07-29 18:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:48 PM, Jul 29 2026 Stalled vehicle on NB I-11\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729631/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
