@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51674,
-    "Timestamp": "2026-07-29 14:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:23 PM, Jul 29 2026 Stalled vehicle on NB I-15\u00A0after Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729400/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 51675,
     "Timestamp": "2026-07-29 14:25",
     "IncidentType": "Stalled vehicle",
@@ -1916,5 +1902,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731203/attachment_0.png",
     "Latitude": 36.022550799999998,
     "Longitude": -115.2434145
+  },
+  {
+    "UniqueId": 51811,
+    "Timestamp": "2026-07-30 14:21",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "2:21 PM, Jul 30 2026 Crash on SB I-11\u00A0at Jones Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731201/attachment_0.jpg",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
