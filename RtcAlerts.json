@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51663,
-    "Timestamp": "2026-07-29 12:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:42 PM, Jul 29 2026 Stalled vehicle on SB I-11\u00A0after Ann Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729289/attachment_0.png",
-    "Latitude": 36.261357500000003,
-    "Longitude": -115.1395211
-  },
-  {
-    "UniqueId": 51664,
-    "Timestamp": "2026-07-29 12:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:50 PM, Jul 29 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729275/attachment_0.png",
-    "Latitude": 36.144160499999998,
-    "Longitude": -115.2362969
-  },
-  {
     "UniqueId": 51665,
     "Timestamp": "2026-07-29 13:12",
     "IncidentType": "Crash",
@@ -1818,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730992/attachment_0.png",
     "Latitude": 36.270162900000003,
     "Longitude": -115.2811351
+  },
+  {
+    "UniqueId": 51793,
+    "Timestamp": "2026-07-30 12:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:54 PM, Jul 30 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731016/attachment_0.png",
+    "Latitude": 36.159271400000002,
+    "Longitude": -115.2240053
   }
 ]
