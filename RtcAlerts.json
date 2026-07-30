@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51669,
-    "Timestamp": "2026-07-29 13:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 PM, Jul 29 2026 Stalled vehicle on NB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729355/attachment_0.jpg",
-    "Latitude": 35.984338999999999,
-    "Longitude": -115.17150820000001
-  },
-  {
-    "UniqueId": 51670,
-    "Timestamp": "2026-07-29 13:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Gore blocked",
-    "Notes": "1:50 PM, Jul 29 2026 Crash on EB Flamingo Rd\u00A0at I-11. Gore blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729377/attachment_0.png",
-    "Latitude": 36.1145833,
-    "Longitude": -115.17213219999999
-  },
-  {
     "UniqueId": 51671,
     "Timestamp": "2026-07-29 13:54",
     "IncidentType": "Crash",
@@ -1874,5 +1846,33 @@
     "ImagePath": "",
     "Latitude": 36.053602499999997,
     "Longitude": -115.02873080000001
+  },
+  {
+    "UniqueId": 51803,
+    "Timestamp": "2026-07-30 13:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:46 PM, Jul 30 2026 Stalled vehicle on NB I-11\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731157/attachment_0.png",
+    "Latitude": 36.173549299999998,
+    "Longitude": -115.27846870000001
+  },
+  {
+    "UniqueId": 51804,
+    "Timestamp": "2026-07-30 13:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:48 PM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731140/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
