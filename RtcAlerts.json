@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51778,
-    "Timestamp": "2026-07-30 10:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valle Verde Dr",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:54 AM, Jul 30 2026 Crash on NB Valle Verde Dr\u00A0at 215 Southern Beltway. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730793/attachment_0.png",
-    "Latitude": 36.171573500000001,
-    "Longitude": -115.139121
-  },
-  {
-    "UniqueId": 51779,
-    "Timestamp": "2026-07-30 10:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:59 AM, Jul 30 2026 Crash on WB Badura Ave\u00A0at Cimarron Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730781/attachment_0.jpg",
-    "Latitude": 36.061117099999997,
-    "Longitude": -115.2700859
-  },
-  {
-    "UniqueId": 51780,
-    "Timestamp": "2026-07-30 11:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:03 AM, Jul 30 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730804/attachment_0.png",
-    "Latitude": 36.159271400000002,
-    "Longitude": -115.2240053
-  },
-  {
-    "UniqueId": 51781,
-    "Timestamp": "2026-07-30 11:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:05 AM, Jul 30 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730830/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 51782,
     "Timestamp": "2026-07-30 11:37",
     "IncidentType": "Stalled vehicle",
@@ -1846,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732268/attachment_0.jpg",
     "Latitude": 35.986071699999997,
     "Longitude": -115.12174160000001
+  },
+  {
+    "UniqueId": 51912,
+    "Timestamp": "2026-07-31 11:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Sky Pointe Dr",
+    "Relationship": "at",
+    "CrossStreet": "Azure Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:13 AM, Jul 31 2026 Crash on SB Sky Pointe Dr\u00A0at Azure Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732293/attachment_0.png",
+    "Latitude": 36.273859600000002,
+    "Longitude": -115.2614423
   }
 ]
