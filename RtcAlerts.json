@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51712,
-    "Timestamp": "2026-07-29 18:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:48 PM, Jul 29 2026 Stalled vehicle on NB I-11\u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729631/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 51713,
     "Timestamp": "2026-07-29 19:02",
     "IncidentType": "Crash",
@@ -1944,5 +1930,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731425/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 51853,
+    "Timestamp": "2026-07-30 18:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:42 PM, Jul 30 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731427/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 51854,
+    "Timestamp": "2026-07-30 18:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:44 PM, Jul 30 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731446/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
