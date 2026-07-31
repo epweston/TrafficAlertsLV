@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51788,
-    "Timestamp": "2026-07-30 12:21",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Racetrack Rd",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:21 PM, Jul 30 2026 Crash on WB Racetrack Rd\u00A0before Boulder Hwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730966/attachment_0.png",
-    "Latitude": 36.014086499999998,
-    "Longitude": -114.9536061
-  },
-  {
-    "UniqueId": 51789,
-    "Timestamp": "2026-07-30 12:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "after",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:22 PM, Jul 30 2026 Crash on NB Hualapai Way\u00A0after Elkhorn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730955/attachment_0.jpg",
-    "Latitude": 36.292168599999997,
-    "Longitude": -115.31499359999999
-  },
-  {
-    "UniqueId": 51790,
-    "Timestamp": "2026-07-30 12:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:25 PM, Jul 30 2026 Crash on EB Summerlin Pkwy\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730974/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 51791,
     "Timestamp": "2026-07-30 12:27",
     "IncidentType": "Stalled vehicle",
@@ -1874,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732434/attachment_0.png",
     "Latitude": 36.027718200000002,
     "Longitude": -115.1185313
+  },
+  {
+    "UniqueId": 51924,
+    "Timestamp": "2026-07-31 12:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "12:20 PM, Jul 31 2026 Crash on SB I-11\u00A0before Horizon Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732448/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
