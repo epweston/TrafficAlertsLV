@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51810,
-    "Timestamp": "2026-07-30 14:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:14 PM, Jul 30 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731203/attachment_0.png",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
     "UniqueId": 51811,
     "Timestamp": "2026-07-30 14:21",
     "IncidentType": "Crash",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732619/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 51935,
+    "Timestamp": "2026-07-31 14:13",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "2:13 PM, Jul 31 2026 Crash on EB Tropicana Ave\u00A0after University Center Dr. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732663/attachment_0.png",
+    "Latitude": 36.101074300000001,
+    "Longitude": -115.1459157
   }
 ]
