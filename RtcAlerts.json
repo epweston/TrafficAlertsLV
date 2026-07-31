@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51786,
-    "Timestamp": "2026-07-30 12:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:08 PM, Jul 30 2026 Crash on SB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730934/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 51787,
-    "Timestamp": "2026-07-30 12:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:11 PM, Jul 30 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730917/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 51788,
     "Timestamp": "2026-07-30 12:21",
     "IncidentType": "Crash",
@@ -1846,5 +1818,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732406/attachment_0.png",
     "Latitude": 36.057628800000003,
     "Longitude": -115.1276196
+  },
+  {
+    "UniqueId": 51920,
+    "Timestamp": "2026-07-31 12:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:06 PM, Jul 31 2026 Stalled vehicle on WB Craig Rd\u00A0before Pecos Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732411/attachment_0.png",
+    "Latitude": 36.240223548101632,
+    "Longitude": -115.09733314258013
+  },
+  {
+    "UniqueId": 51921,
+    "Timestamp": "2026-07-31 12:08",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "at",
+    "CrossStreet": "Ali Baba Lane",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:08 PM, Jul 31 2026 Crash on NB Dean Martin Dr\u00A0at Ali Baba Lane. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732416/attachment_0.png",
+    "Latitude": 36.095721786220494,
+    "Longitude": -115.18140911991193
   }
 ]
