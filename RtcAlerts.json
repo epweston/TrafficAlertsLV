@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51710,
-    "Timestamp": "2026-07-29 18:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd North",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:30 PM, Jul 29 2026 Crash on NB Nellis Blvd\u00A0at Las Vegas Blvd North. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729617/attachment_0.jpg",
-    "Latitude": 36.235863999999999,
-    "Longitude": -115.0622212
-  },
-  {
-    "UniqueId": 51711,
-    "Timestamp": "2026-07-29 18:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Vegas Valley Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:33 PM, Jul 29 2026 Crash on SB Nellis Blvd\u00A0after Vegas Valley Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729629/attachment_0.jpg",
-    "Latitude": 36.13697359374855,
-    "Longitude": -115.06562949343491
-  },
-  {
     "UniqueId": 51712,
     "Timestamp": "2026-07-29 18:48",
     "IncidentType": "Stalled vehicle",
@@ -1958,5 +1930,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731402/attachment_0.jpg",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 51852,
+    "Timestamp": "2026-07-30 18:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:31 PM, Jul 30 2026 Crash on EB Sahara Ave\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731425/attachment_0.png",
+    "Latitude": 36.144043678496175,
+    "Longitude": -115.17114596721193
   }
 ]
