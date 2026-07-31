@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51718,
-    "Timestamp": "2026-07-29 21:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:15 PM, Jul 29 2026 Crash on NB Decatur Blvd\u00A0before Sahara Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729641/attachment_0.png",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
     "UniqueId": 51719,
     "Timestamp": "2026-07-29 21:26",
     "IncidentType": "UPDATE: Crash",
@@ -1958,5 +1944,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731436/attachment_0.png",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 51860,
+    "Timestamp": "2026-07-30 21:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "before",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:14 PM, Jul 30 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0before Torrey Pines Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731456/attachment_0.png",
+    "Latitude": 36.02411,
+    "Longitude": -115.23455079999999
   }
 ]
