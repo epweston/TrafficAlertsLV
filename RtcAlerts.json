@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51785,
-    "Timestamp": "2026-07-30 12:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:02 PM, Jul 30 2026 Crash on EB Summerlin Pkwy\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730927/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 51786,
     "Timestamp": "2026-07-30 12:08",
     "IncidentType": "Crash",
@@ -1832,5 +1818,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732380/attachment_0.png",
     "Latitude": 36.314156599999997,
     "Longitude": -115.30604580000001
+  },
+  {
+    "UniqueId": 51918,
+    "Timestamp": "2026-07-31 11:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "at",
+    "CrossStreet": "28Th St",
+    "Impact": "Right lanes blocked.",
+    "Notes": "11:59 AM, Jul 31 2026 Crash on EB Stewart Ave\u00A0at 28th St. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732403/attachment_0.png",
+    "Latitude": 36.166436737983844,
+    "Longitude": -115.11168837547304
+  },
+  {
+    "UniqueId": 51919,
+    "Timestamp": "2026-07-31 12:01",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Spencer St",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Multiple directions blocked.",
+    "Notes": "12:01 PM, Jul 31 2026 Crash on SB Spencer St\u00A0at Warm Springs Rd. Multiple directions blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732406/attachment_0.png",
+    "Latitude": 36.057628800000003,
+    "Longitude": -115.1276196
   }
 ]
