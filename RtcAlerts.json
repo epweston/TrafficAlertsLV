@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51748,
-    "Timestamp": "2026-07-30 06:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:07 AM, Jul 30 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Durango Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3729905/attachment_0.png",
-    "Latitude": 36.331026399999999,
-    "Longitude": -115.2787051
-  },
-  {
-    "UniqueId": 51749,
-    "Timestamp": "2026-07-30 06:14",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:14 AM, Jul 30 2026 Police activity on EB Sunset Rd\u00A0at Bermuda Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3729914/attachment_0.png",
-    "Latitude": 36.071334,
-    "Longitude": -115.15448309999999
-  },
-  {
     "UniqueId": 51750,
     "Timestamp": "2026-07-30 06:20",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1804,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731608/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 51881,
+    "Timestamp": "2026-07-31 06:12",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Skye Canyon Park Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:12 AM, Jul 31 2026 Crash on SB I-11\u00A0after Skye Canyon Park Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731615/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
