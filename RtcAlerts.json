@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51756,
-    "Timestamp": "2026-07-30 07:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:41 AM, Jul 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730087/attachment_0.png",
-    "Latitude": 36.162990899999997,
-    "Longitude": -115.1604596
-  },
-  {
     "UniqueId": 51757,
     "Timestamp": "2026-07-30 07:45",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731797/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 51889,
+    "Timestamp": "2026-07-31 07:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:42 AM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0before Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731814/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
