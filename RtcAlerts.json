@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51729,
-    "Timestamp": "2026-07-29 23:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:48 PM, Jul 29 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729690/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 51730,
     "Timestamp": "2026-07-30 00:10",
     "IncidentType": "Crash",
@@ -1902,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731465/attachment_0.png",
     "Latitude": 36.066255059042923,
     "Longitude": -115.26065826416017
+  },
+  {
+    "UniqueId": 51867,
+    "Timestamp": "2026-07-31 00:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:00 AM, Jul 31 2026 Crash on NB Martin L King Blvd\u00A0at Washington Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731468/attachment_0.png",
+    "Latitude": 36.180812699999997,
+    "Longitude": -115.1607751
   }
 ]
