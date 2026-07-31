@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51767,
-    "Timestamp": "2026-07-30 09:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "9:03 AM, Jul 30 2026 Crash on NB I-15\u00A0at Washington Ave. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730352/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 51768,
     "Timestamp": "2026-07-30 09:36",
     "IncidentType": "Stalled vehicle",
@@ -1804,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731970/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 51898,
+    "Timestamp": "2026-07-31 09:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:03 AM, Jul 31 2026 Crash on EB Flamingo Rd\u00A0at Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731962/attachment_0.png",
+    "Latitude": 36.114502810673706,
+    "Longitude": -115.24298784809898
   }
 ]
