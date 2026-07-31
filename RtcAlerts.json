@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51771,
-    "Timestamp": "2026-07-30 09:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:58 AM, Jul 30 2026 Crash on SB Rampart Blvd\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730677/attachment_0.png",
-    "Latitude": 36.199951899999988,
-    "Longitude": -115.28239290000001
-  },
-  {
-    "UniqueId": 51772,
-    "Timestamp": "2026-07-30 10:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 105",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:03 AM, Jul 30 2026 Stalled vehicle on NB I-15\u00A0at Mile 105. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730584/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 51773,
     "Timestamp": "2026-07-30 10:06",
     "IncidentType": "Stalled vehicle",
@@ -1860,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732074/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 51906,
+    "Timestamp": "2026-07-31 09:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:59 AM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732113/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
