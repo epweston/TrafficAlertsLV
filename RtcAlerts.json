@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51734,
-    "Timestamp": "2026-07-30 02:26",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:26 AM, Jul 30 2026 Police activity on WB 215 Southern Beltway\u00A0at Buffalo Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3729708/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 51735,
     "Timestamp": "2026-07-30 03:07",
     "IncidentType": "Crash",
@@ -1888,5 +1874,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731502/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 51871,
+    "Timestamp": "2026-07-31 02:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "2:24 AM, Jul 31 2026 Crash on NB I-15\u00A0before Blue Diamond Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731526/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
