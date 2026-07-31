@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51775,
-    "Timestamp": "2026-07-30 10:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:23 AM, Jul 30 2026 Crash on NB Rainbow Blvd\u00A0after Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730623/attachment_0.jpg",
-    "Latitude": 36.0558555,
-    "Longitude": -115.24294310000001
-  },
-  {
-    "UniqueId": 51776,
-    "Timestamp": "2026-07-30 10:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 58",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:40 AM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0after Mile 58. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730755/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 51777,
-    "Timestamp": "2026-07-30 10:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:40 AM, Jul 30 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730756/attachment_0.png",
-    "Latitude": 36.085086099999998,
-    "Longitude": -115.2466233
-  },
-  {
     "UniqueId": 51778,
     "Timestamp": "2026-07-30 10:54",
     "IncidentType": "Crash",
@@ -1860,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732161/attachment_0.jpg",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 51910,
+    "Timestamp": "2026-07-31 10:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:39 AM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732263/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
