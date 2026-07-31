@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51714,
-    "Timestamp": "2026-07-29 19:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:21 PM, Jul 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Stephanie St. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729636/attachment_0.png",
-    "Latitude": 36.0622471,
-    "Longitude": -115.0461124
-  },
-  {
     "UniqueId": 51715,
     "Timestamp": "2026-07-29 20:18",
     "IncidentType": "Crash",
@@ -1986,5 +1972,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731451/attachment_0.png",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 51858,
+    "Timestamp": "2026-07-30 19:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Collector Distributor",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:48 PM, Jul 30 2026 Stalled vehicle on NB Collector Distributor\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731455/attachment_0.png",
+    "Latitude": 36.020405099999998,
+    "Longitude": -115.288556
   }
 ]
