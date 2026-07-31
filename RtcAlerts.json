@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 51724,
-    "Timestamp": "2026-07-29 22:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "SB Lamb is closed at Washington. Use other routes",
-    "Notes": "10:16 PM, Jul 29 2026 Crash on SB Lamb Blvd\u00A0at Washington Ave. SB Lamb is closed at Washington. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729664/attachment_0.png",
-    "Latitude": 36.180839414525735,
-    "Longitude": -115.08039100406639
-  },
-  {
-    "UniqueId": 51725,
-    "Timestamp": "2026-07-29 22:20",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "SB Decatur is now open.\u00A0 NB Decatur at Pennwood remains closed.",
-    "Notes": "10:20 PM, Jul 29 2026 UPDATE: Crash on NB Decatur Blvd\u00A0before Sahara Ave. SB Decatur is now open.\u00A0 NB Decatur at Pennwood remains closed.",
-    "ImagePath": "",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
-    "UniqueId": 51726,
-    "Timestamp": "2026-07-29 22:20",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "SB Decatur is now open.\u00A0 NB Decatur at Pennwood remains closed.",
-    "Notes": "10:20 PM, Jul 29 2026 UPDATE: Crash on NB Decatur Blvd\u00A0before Sahara Ave. SB Decatur is now open.\u00A0 NB Decatur at Pennwood remains closed.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729662/attachment_0.png",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
-    "UniqueId": 51727,
-    "Timestamp": "2026-07-29 22:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:41 PM, Jul 29 2026 Crash on NB I-11\u00A0before Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729684/attachment_0.png",
-    "Latitude": 36.158785199999997,
-    "Longitude": -115.1538525
-  },
-  {
-    "UniqueId": 51728,
-    "Timestamp": "2026-07-29 22:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:48 PM, Jul 29 2026 Crash on SB I-15\u00A0to I-11 ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729686/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 51729,
     "Timestamp": "2026-07-29 23:48",
     "IncidentType": "Stalled vehicle",
@@ -1958,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731462/attachment_0.png",
     "Latitude": 36.202935600000004,
     "Longitude": -115.1608971
+  },
+  {
+    "UniqueId": 51866,
+    "Timestamp": "2026-07-30 22:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:57 PM, Jul 30 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0to Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731465/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
