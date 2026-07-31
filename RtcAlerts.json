@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51773,
-    "Timestamp": "2026-07-30 10:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:06 AM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0at Harmon Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730589/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 51774,
-    "Timestamp": "2026-07-30 10:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:10 AM, Jul 30 2026 Stalled vehicle on SB I-11\u00A0before Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730691/attachment_0.png",
-    "Latitude": 36.070820500000004,
-    "Longitude": -115.17154290000001
-  },
-  {
     "UniqueId": 51775,
     "Timestamp": "2026-07-30 10:23",
     "IncidentType": "Crash",
@@ -1846,5 +1818,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732113/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 51907,
+    "Timestamp": "2026-07-31 10:09",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "at",
+    "CrossStreet": "13Th St",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "10:09 AM, Jul 31 2026 Crash on WB Fremont St\u00A0at 13th St. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732168/attachment_0.jpg",
+    "Latitude": 36.165322799999998,
+    "Longitude": -115.1315541
+  },
+  {
+    "UniqueId": 51908,
+    "Timestamp": "2026-07-31 10:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "10:13 AM, Jul 31 2026 Crash on NB Nellis Blvd\u00A0after Charleston Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732158/attachment_0.jpg",
+    "Latitude": 36.158926896541821,
+    "Longitude": -115.06236791610719
+  },
+  {
+    "UniqueId": 51909,
+    "Timestamp": "2026-07-31 10:13",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:13 AM, Jul 31 2026 Crash on EB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732161/attachment_0.jpg",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
