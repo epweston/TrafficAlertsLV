@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51811,
-    "Timestamp": "2026-07-30 14:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:21 PM, Jul 30 2026 Crash on SB I-11\u00A0at Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731201/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 51812,
     "Timestamp": "2026-07-30 14:30",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732663/attachment_0.png",
     "Latitude": 36.101074300000001,
     "Longitude": -115.1459157
+  },
+  {
+    "UniqueId": 51936,
+    "Timestamp": "2026-07-31 14:20",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:20 PM, Jul 31 2026 Crash on EB 215 Southern Beltway\u00A0before St Rose Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732667/attachment_0.png",
+    "Latitude": 35.989565399999996,
+    "Longitude": -115.13910850000001
   }
 ]
