@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51832,
-    "Timestamp": "2026-07-30 16:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Canyon Run Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:39 PM, Jul 30 2026 Crash on SB Rampart Blvd\u00A0at Canyon Run Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731369/attachment_0.png",
-    "Latitude": 36.173965099999997,
-    "Longitude": -115.2871483
-  },
-  {
-    "UniqueId": 51833,
-    "Timestamp": "2026-07-30 16:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "4:47 PM, Jul 30 2026 Crash on WB Sahara Ave\u00A0before I-15. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731354/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
-    "UniqueId": 51834,
-    "Timestamp": "2026-07-30 16:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:48 PM, Jul 30 2026 Crash on NB I-11\u00A0at Eastern Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731372/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 51835,
     "Timestamp": "2026-07-30 16:56",
     "IncidentType": "Crash",
@@ -1608,5 +1566,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732763/attachment_0.png",
     "Latitude": 36.100117500000003,
     "Longitude": -115.1011139
+  },
+  {
+    "UniqueId": 51949,
+    "Timestamp": "2026-07-31 16:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:48 PM, Jul 31 2026 Crash on SB Durango Dr\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732755/attachment_0.png",
+    "Latitude": 36.298196408901752,
+    "Longitude": -115.28604269027711
+  },
+  {
+    "UniqueId": 51950,
+    "Timestamp": "2026-07-31 16:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "4:52 PM, Jul 31 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732757/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 51951,
+    "Timestamp": "2026-07-31 16:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "4:52 PM, Jul 31 2026 Crash on SB I-11\u00A0before Boulder Hwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732770/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
