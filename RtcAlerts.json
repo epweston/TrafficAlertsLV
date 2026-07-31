@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51830,
-    "Timestamp": "2026-07-30 16:36",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:36 PM, Jul 30 2026 Crash on SB I-11\u00A0before Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731366/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 51831,
-    "Timestamp": "2026-07-30 16:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:38 PM, Jul 30 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave off-ramp. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731368/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 51832,
     "Timestamp": "2026-07-30 16:39",
     "IncidentType": "Crash",
@@ -1622,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732741/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 51948,
+    "Timestamp": "2026-07-31 16:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:30 PM, Jul 31 2026 Crash on EB Tropicana Ave\u00A0before Pecos Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732763/attachment_0.png",
+    "Latitude": 36.100117500000003,
+    "Longitude": -115.1011139
   }
 ]
