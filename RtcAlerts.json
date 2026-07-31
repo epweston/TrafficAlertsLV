@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51703,
-    "Timestamp": "2026-07-29 17:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:40 PM, Jul 29 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729577/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 51704,
-    "Timestamp": "2026-07-29 17:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:45 PM, Jul 29 2026 Crash on WB Craig Rd\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729580/attachment_0.jpg",
-    "Latitude": 36.238928299999998,
-    "Longitude": -115.2256034
-  },
-  {
-    "UniqueId": 51705,
-    "Timestamp": "2026-07-29 17:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:45 PM, Jul 29 2026 Crash on WB Craig Rd\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.238928299999998,
-    "Longitude": -115.2256034
-  },
-  {
-    "UniqueId": 51706,
-    "Timestamp": "2026-07-29 17:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:50 PM, Jul 29 2026 Crash on EB 215 Southern Beltway\u00A0after Green Valley Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729582/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 51707,
     "Timestamp": "2026-07-29 18:02",
     "IncidentType": "Crash",
@@ -1972,5 +1916,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731391/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 51846,
+    "Timestamp": "2026-07-30 17:52",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:52 PM, Jul 30 2026 Vehicle on fire on EB Flamingo Rd\u00A0after I-15. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731419/attachment_0.png",
+    "Latitude": 36.114432299999997,
+    "Longitude": -115.1720294
   }
 ]
