@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51707,
-    "Timestamp": "2026-07-29 18:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:02 PM, Jul 29 2026 Crash on NB Eastern Ave\u00A0before Desert Inn Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729608/attachment_0.png",
-    "Latitude": 36.129897799999988,
-    "Longitude": -115.1186276
-  },
-  {
-    "UniqueId": 51708,
-    "Timestamp": "2026-07-29 18:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left and Right lanes blocked.",
-    "Notes": "6:06 PM, Jul 29 2026 Crash on SB St Rose Pkwy\u00A0at 215 Southern Beltway. Left and Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729624/attachment_0.png",
-    "Latitude": 35.971125299999997,
-    "Longitude": -115.1648194
-  },
-  {
-    "UniqueId": 51709,
-    "Timestamp": "2026-07-29 18:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:10 PM, Jul 29 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729612/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 51710,
     "Timestamp": "2026-07-29 18:30",
     "IncidentType": "Crash",
@@ -1958,5 +1916,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731396/attachment_0.png",
     "Latitude": 36.119887899999988,
     "Longitude": -115.1813858
+  },
+  {
+    "UniqueId": 51849,
+    "Timestamp": "2026-07-30 18:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:07 PM, Jul 30 2026 Crash on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731397/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
