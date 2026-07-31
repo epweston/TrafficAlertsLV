@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51763,
-    "Timestamp": "2026-07-30 08:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:49 AM, Jul 30 2026 Stalled vehicle on NB I-11\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730284/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 51764,
-    "Timestamp": "2026-07-30 08:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "after",
-    "CrossStreet": "Paseo Verde Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:57 AM, Jul 30 2026 Crash on SB Stephanie St\u00A0after Paseo Verde Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730287/attachment_0.jpg",
-    "Latitude": 36.026428699999997,
-    "Longitude": -115.0471579
-  },
-  {
-    "UniqueId": 51765,
-    "Timestamp": "2026-07-30 08:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:59 AM, Jul 30 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730293/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 51766,
-    "Timestamp": "2026-07-30 09:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 AM, Jul 30 2026 Crash on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3730296/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 51767,
     "Timestamp": "2026-07-30 09:03",
     "IncidentType": "Crash",
@@ -1846,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731919/attachment_0.png",
     "Latitude": 36.12983354794379,
     "Longitude": -115.11856560125827
+  },
+  {
+    "UniqueId": 51897,
+    "Timestamp": "2026-07-31 08:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Gore blocked.",
+    "Notes": "8:58 AM, Jul 31 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731970/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
