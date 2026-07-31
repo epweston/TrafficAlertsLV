@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51713,
-    "Timestamp": "2026-07-29 19:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "at",
-    "CrossStreet": "Carob Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:02 PM, Jul 29 2026 Crash on WB Windmill Ln\u00A0at Carob Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/29/file_attachments/3729644/attachment_0.png",
-    "Latitude": 36.042624400000001,
-    "Longitude": -115.1397125
-  },
-  {
     "UniqueId": 51714,
     "Timestamp": "2026-07-29 19:21",
     "IncidentType": "Stalled vehicle",
@@ -1986,5 +1972,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731432/attachment_0.png",
     "Latitude": 36.061374800000003,
     "Longitude": -115.2424663
+  },
+  {
+    "UniqueId": 51857,
+    "Timestamp": "2026-07-30 19:14",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Stephanie St",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:14 PM, Jul 30 2026 Crash on WB 215 Southern Beltway\u00A0before Stephanie St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731451/attachment_0.png",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
   }
 ]
