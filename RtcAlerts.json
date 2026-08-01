@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51867,
-    "Timestamp": "2026-07-31 00:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:00 AM, Jul 31 2026 Crash on NB Martin L King Blvd\u00A0at Washington Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731468/attachment_0.png",
-    "Latitude": 36.180812699999997,
-    "Longitude": -115.1607751
-  },
-  {
     "UniqueId": 51868,
     "Timestamp": "2026-07-31 00:47",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732888/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 51990,
+    "Timestamp": "2026-07-31 23:56",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:56 PM, Jul 31 2026 Crash on NB 215 Western Beltway\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732866/attachment_0.png",
+    "Latitude": 36.159090499999998,
+    "Longitude": -115.2607228
   }
 ]
