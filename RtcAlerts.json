@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51875,
-    "Timestamp": "2026-07-31 04:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fifth St",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:47 AM, Jul 31 2026 Crash on SB Fifth St\u00A0before Craig Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731564/attachment_0.png",
-    "Latitude": 36.2397049,
-    "Longitude": -115.13429979999999
-  },
-  {
-    "UniqueId": 51876,
-    "Timestamp": "2026-07-31 04:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:49 AM, Jul 31 2026 Crash on SB Las Vegas Blvd\u00A0after St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731566/attachment_0.jpg",
-    "Latitude": 35.966113100000001,
-    "Longitude": -115.1727174
-  },
-  {
-    "UniqueId": 51877,
-    "Timestamp": "2026-07-31 05:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:15 AM, Jul 31 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731562/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 51878,
     "Timestamp": "2026-07-31 05:27",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732901/attachment_0.png",
     "Latitude": 36.126417799999999,
     "Longitude": -115.1855011
+  },
+  {
+    "UniqueId": 51999,
+    "Timestamp": "2026-08-01 05:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:18 AM, Aug 01 2026 Crash on WB Flamingo Rd\u00A0before Rainbow Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732925/attachment_0.png",
+    "Latitude": 36.114502810673706,
+    "Longitude": -115.24298784809898
   }
 ]
