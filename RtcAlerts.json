@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51924,
-    "Timestamp": "2026-07-31 12:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:20 PM, Jul 31 2026 Crash on SB I-11\u00A0before Horizon Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732448/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 51925,
-    "Timestamp": "2026-07-31 12:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Gore blocked",
-    "Notes": "12:39 PM, Jul 31 2026 Crash on SB 215 Western Beltway\u00A0before Sunset Rd. Gore blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732460/attachment_0.png",
-    "Latitude": 36.071561899999999,
-    "Longitude": -115.1215997
-  },
-  {
     "UniqueId": 51926,
     "Timestamp": "2026-07-31 12:46",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733037/attachment_0.png",
     "Latitude": 36.085262499999999,
     "Longitude": -115.2901459
+  },
+  {
+    "UniqueId": 52033,
+    "Timestamp": "2026-08-01 12:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 8",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:36 PM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at Mile 8. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733052/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
