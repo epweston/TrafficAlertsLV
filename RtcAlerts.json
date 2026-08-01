@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51835,
-    "Timestamp": "2026-07-30 16:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "4:56 PM, Jul 30 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731375/attachment_0.png",
-    "Latitude": 36.125770099999997,
-    "Longitude": -115.2421666
-  },
-  {
     "UniqueId": 51838,
     "Timestamp": "2026-07-30 17:16",
     "IncidentType": "Crash",
@@ -1608,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732770/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 51952,
+    "Timestamp": "2026-07-31 16:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "4:54 PM, Jul 31 2026 Stalled vehicle on NB I-15\u00A0before Silverado Ranch Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732772/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 51953,
+    "Timestamp": "2026-07-31 16:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:57 PM, Jul 31 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave off-ramp. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732773/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
