@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51915,
-    "Timestamp": "2026-07-31 11:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:51 AM, Jul 31 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732368/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 51916,
-    "Timestamp": "2026-07-31 11:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Wyoming Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:53 AM, Jul 31 2026 Crash on SB Las Vegas Blvd\u00A0at Wyoming Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732385/attachment_0.png",
-    "Latitude": 36.1520723,
-    "Longitude": -115.1519759
-  },
-  {
     "UniqueId": 51917,
     "Timestamp": "2026-07-31 11:58",
     "IncidentType": "Crash",
@@ -1580,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733032/attachment_0.png",
     "Latitude": 36.074205399999997,
     "Longitude": -115.2426846
+  },
+  {
+    "UniqueId": 52028,
+    "Timestamp": "2026-08-01 11:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:51 AM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733046/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 52029,
+    "Timestamp": "2026-08-01 11:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "11:55 AM, Aug 01 2026 Crash on NB I-11\u00A0after Casino Center Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733034/attachment_0.jpg",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
   }
 ]
