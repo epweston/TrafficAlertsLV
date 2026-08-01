@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51890,
-    "Timestamp": "2026-07-31 07:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "I-215",
-    "Relationship": "before",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:46 AM, Jul 31 2026 Crash on WB I-215\u00A0before Gibson Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731844/attachment_0.png",
-    "Latitude": 36.053602499999997,
-    "Longitude": -115.02873080000001
-  },
-  {
-    "UniqueId": 51891,
-    "Timestamp": "2026-07-31 07:52",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:52 AM, Jul 31 2026 Crash on WB Summerlin Pkwy\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
-    "UniqueId": 51892,
-    "Timestamp": "2026-07-31 07:52",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:52 AM, Jul 31 2026 Crash on WB Summerlin Pkwy\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731833/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
     "UniqueId": 51893,
     "Timestamp": "2026-07-31 07:56",
     "IncidentType": "Crash",
@@ -1664,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732935/attachment_0.png",
     "Latitude": 36.126297727017835,
     "Longitude": -115.18079072794158
+  },
+  {
+    "UniqueId": 52009,
+    "Timestamp": "2026-08-01 07:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 19",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:50 AM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at Mile 19. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732936/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
