@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51881,
-    "Timestamp": "2026-07-31 06:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:12 AM, Jul 31 2026 Crash on SB I-11\u00A0after Skye Canyon Park Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731615/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 51882,
     "Timestamp": "2026-07-31 06:32",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732881/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 52001,
+    "Timestamp": "2026-08-01 06:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Brent Thurman Way",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:13 AM, Aug 01 2026 Crash on NB Brent Thurman Way\u00A0at Hacienda Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732882/attachment_0.png",
+    "Latitude": 36.092584000000002,
+    "Longitude": -115.2884347
+  },
+  {
+    "UniqueId": 52002,
+    "Timestamp": "2026-08-01 06:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sands Ave",
+    "Relationship": "at",
+    "CrossStreet": "Koval Ln",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "6:18 AM, Aug 01 2026 Crash on EB Sands Ave\u00A0at Koval Ln. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732929/attachment_0.png",
+    "Latitude": 36.122458700000003,
+    "Longitude": -115.1641771
   }
 ]
