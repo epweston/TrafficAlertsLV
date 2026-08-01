@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51893,
-    "Timestamp": "2026-07-31 07:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "at",
-    "CrossStreet": "Wigwam Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:56 AM, Jul 31 2026 Crash on SB Stephanie St\u00A0at Wigwam Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731835/attachment_0.png",
-    "Latitude": 36.034568399999998,
-    "Longitude": -115.0470929
-  },
-  {
-    "UniqueId": 51894,
-    "Timestamp": "2026-07-31 08:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:01 AM, Jul 31 2026 Crash on NB I-15\u00A0before Russell Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731841/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 51895,
     "Timestamp": "2026-07-31 08:31",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732936/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 52010,
+    "Timestamp": "2026-08-01 08:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "I-215",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:24 AM, Aug 01 2026 Stalled vehicle on EB I-215\u00A0at Green Valley Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732959/attachment_0.png",
+    "Latitude": 36.051073899999999,
+    "Longitude": -115.0825609
   }
 ]
