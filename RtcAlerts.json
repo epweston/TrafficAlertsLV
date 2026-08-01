@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51857,
-    "Timestamp": "2026-07-30 19:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:14 PM, Jul 30 2026 Crash on WB 215 Southern Beltway\u00A0before Stephanie St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731451/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 51858,
     "Timestamp": "2026-07-30 19:48",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732826/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 51970,
+    "Timestamp": "2026-07-31 19:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:15 PM, Jul 31 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732801/attachment_0.png",
+    "Latitude": 36.176691302008486,
+    "Longitude": -115.24369620296332
   }
 ]
