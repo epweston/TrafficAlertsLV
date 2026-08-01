@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51937,
-    "Timestamp": "2026-07-31 15:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:01 PM, Jul 31 2026 Crash on NB Rampart Blvd\u00A0before Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732679/attachment_0.png",
-    "Latitude": 36.183238600000003,
-    "Longitude": -115.30132519999999
-  },
-  {
-    "UniqueId": 51938,
-    "Timestamp": "2026-07-31 15:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:19 PM, Jul 31 2026 Stalled vehicle on SB I-11\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732682/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 51939,
-    "Timestamp": "2026-07-31 15:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:22 PM, Jul 31 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732704/attachment_0.png",
-    "Latitude": 36.205568079996773,
-    "Longitude": -115.34099578857423
-  },
-  {
-    "UniqueId": 51940,
-    "Timestamp": "2026-07-31 15:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:42 PM, Jul 31 2026 Crash on NB I-11\u00A0at S Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732710/attachment_0.jpg",
-    "Latitude": 36.1603025,
-    "Longitude": -115.17237249999999
-  },
-  {
     "UniqueId": 51941,
     "Timestamp": "2026-07-31 15:47",
     "IncidentType": "Crash",
@@ -1538,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733091/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 52047,
+    "Timestamp": "2026-08-01 15:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:40 PM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0after I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733075/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
