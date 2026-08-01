@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51859,
-    "Timestamp": "2026-07-30 21:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "SR-161",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "All lanes are blocked.",
-    "Notes": "9:08 PM, Jul 30 2026 Crash on WB SR-161\u00A0after I-15. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731436/attachment_0.png",
-    "Latitude": 36.162990899999997,
-    "Longitude": -115.1604596
-  },
-  {
     "UniqueId": 51860,
     "Timestamp": "2026-07-30 21:14",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732855/attachment_0.png",
     "Latitude": 36.159271400000002,
     "Longitude": -115.2240053
+  },
+  {
+    "UniqueId": 51982,
+    "Timestamp": "2026-07-31 21:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Majestic Valley Ave",
+    "Impact": "Left lanes blocked. NB and SB.",
+    "Notes": "9:03 PM, Jul 31 2026 Crash on NB Durango Dr\u00A0at Majestic Valley Ave. Left lanes blocked. NB and SB.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732857/attachment_0.png",
+    "Latitude": 36.223860700000003,
+    "Longitude": -115.2789842
   }
 ]
