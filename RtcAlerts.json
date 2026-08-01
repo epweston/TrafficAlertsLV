@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51920,
-    "Timestamp": "2026-07-31 12:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:06 PM, Jul 31 2026 Stalled vehicle on WB Craig Rd\u00A0before Pecos Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732411/attachment_0.png",
-    "Latitude": 36.240223548101632,
-    "Longitude": -115.09733314258013
-  },
-  {
-    "UniqueId": 51921,
-    "Timestamp": "2026-07-31 12:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "at",
-    "CrossStreet": "Ali Baba Lane",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:08 PM, Jul 31 2026 Crash on NB Dean Martin Dr\u00A0at Ali Baba Lane. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732416/attachment_0.png",
-    "Latitude": 36.095721786220494,
-    "Longitude": -115.18140911991193
-  },
-  {
-    "UniqueId": 51922,
-    "Timestamp": "2026-07-31 12:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:14 PM, Jul 31 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732420/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
-    "UniqueId": 51923,
-    "Timestamp": "2026-07-31 12:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:16 PM, Jul 31 2026 Crash on WB Eastern Ave\u00A0at Pebble Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732434/attachment_0.png",
-    "Latitude": 36.027718200000002,
-    "Longitude": -115.1185313
-  },
-  {
     "UniqueId": 51924,
     "Timestamp": "2026-07-31 12:20",
     "IncidentType": "Crash",
@@ -1552,5 +1496,33 @@
     "ImagePath": "",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 52031,
+    "Timestamp": "2026-08-01 12:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Fremont St",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "12:16 PM, Aug 01 2026 Crash on NB Eastern Ave\u00A0at Fremont St. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733035/attachment_0.jpg",
+    "Latitude": 36.159611599999998,
+    "Longitude": -115.1184394
+  },
+  {
+    "UniqueId": 52032,
+    "Timestamp": "2026-08-01 12:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jerry Tarkanian Way",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:17 PM, Aug 01 2026 Crash on SB Jerry Tarkanian Way\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733037/attachment_0.png",
+    "Latitude": 36.085262499999999,
+    "Longitude": -115.2901459
   }
 ]
