@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 51861,
-    "Timestamp": "2026-07-30 21:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:41 PM, Jul 30 2026 Crash on NB Eastern Ave\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731458/attachment_0.png",
-    "Latitude": 36.144359100000003,
-    "Longitude": -115.11868749999999
-  },
-  {
-    "UniqueId": 51862,
-    "Timestamp": "2026-07-30 21:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fifth St",
-    "Relationship": "at",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "All lanes are blocked.",
-    "Notes": "9:43 PM, Jul 30 2026 Crash on NB Fifth St\u00A0at Tropical Pkwy. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731439/attachment_0.png",
-    "Latitude": 36.2688463,
-    "Longitude": -115.13478360000001
-  },
-  {
-    "UniqueId": 51863,
-    "Timestamp": "2026-07-30 21:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "9:47 PM, Jul 30 2026 Crash on WB Flamingo Rd\u00A0at Paradise Rd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731441/attachment_0.jpg",
-    "Latitude": 36.114417899999999,
-    "Longitude": -115.1539456
-  },
-  {
-    "UniqueId": 51864,
-    "Timestamp": "2026-07-30 21:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:54 PM, Jul 30 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731460/attachment_0.png",
-    "Latitude": 36.041685600000001,
-    "Longitude": -115.2345531
-  },
-  {
-    "UniqueId": 51865,
-    "Timestamp": "2026-07-30 21:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Carey Ave",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:58 PM, Jul 30 2026 Crash on EB Carey Ave\u00A0at Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731462/attachment_0.png",
-    "Latitude": 36.202935600000004,
-    "Longitude": -115.1608971
-  },
-  {
     "UniqueId": 51866,
     "Timestamp": "2026-07-30 22:57",
     "IncidentType": "Stalled vehicle",
@@ -1748,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732842/attachment_0.png",
     "Latitude": 36.1594379,
     "Longitude": -115.145628
+  },
+  {
+    "UniqueId": 51986,
+    "Timestamp": "2026-07-31 22:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "under",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:07 PM, Jul 31 2026 Crash on SB I-11 under I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732862/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
