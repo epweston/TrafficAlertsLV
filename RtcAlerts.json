@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51888,
-    "Timestamp": "2026-07-31 07:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Falcon Ridge Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:35 AM, Jul 31 2026 Stalled vehicle on SB I-15\u00A0before Falcon Ridge Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731797/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
-    "UniqueId": 51889,
-    "Timestamp": "2026-07-31 07:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:42 AM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0before Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731814/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 51890,
     "Timestamp": "2026-07-31 07:46",
     "IncidentType": "Crash",
@@ -1664,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732954/attachment_0.jpg",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 52007,
+    "Timestamp": "2026-08-01 07:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:38 AM, Aug 01 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732956/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 52008,
+    "Timestamp": "2026-08-01 07:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:41 AM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0before Spring Mountain . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732935/attachment_0.png",
+    "Latitude": 36.126297727017835,
+    "Longitude": -115.18079072794158
   }
 ]
