@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51866,
-    "Timestamp": "2026-07-30 22:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:57 PM, Jul 30 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0to Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731465/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 51867,
     "Timestamp": "2026-07-31 00:00",
     "IncidentType": "Crash",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732884/attachment_0.png",
     "Latitude": 36.068185999999997,
     "Longitude": -115.1722741
+  },
+  {
+    "UniqueId": 51988,
+    "Timestamp": "2026-07-31 23:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Cedar Ave",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "11:18 PM, Jul 31 2026 Crash on NB Nellis Blvd\u00A0at Cedar Ave. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732886/attachment_0.png",
+    "Latitude": 36.170269099999999,
+    "Longitude": -115.0622226
   }
 ]
