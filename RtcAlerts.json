@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51911,
-    "Timestamp": "2026-07-31 10:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "to",
-    "CrossStreet": "Sb Seven Hills Dr",
-    "Impact": "Right lane partially blocked.",
-    "Notes": "10:48 AM, Jul 31 2026 Crash on EB St Rose Pkwy\u00A0to SB Seven Hills Dr. Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732268/attachment_0.jpg",
-    "Latitude": 35.986071699999997,
-    "Longitude": -115.12174160000001
-  },
-  {
     "UniqueId": 51912,
     "Timestamp": "2026-07-31 11:13",
     "IncidentType": "Crash",
@@ -1538,5 +1524,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733010/attachment_0.png",
     "Latitude": 36.195698330673721,
     "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 52021,
+    "Timestamp": "2026-08-01 10:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:46 AM, Aug 01 2026 Crash on SB Rampart Blvd\u00A0after Summerlin Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733017/attachment_0.jpg",
+    "Latitude": 36.177835743591984,
+    "Longitude": -115.28722561818798
+  },
+  {
+    "UniqueId": 52022,
+    "Timestamp": "2026-08-01 10:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St",
+    "Impact": "Rose Parkway. Right shoulder blocked.",
+    "Notes": "10:47 AM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0at St. Rose Parkway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733020/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 52023,
+    "Timestamp": "2026-08-01 10:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:49 AM, Aug 01 2026 Stalled vehicle on SB I-11\u00A0before I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732999/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
