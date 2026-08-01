@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51884,
-    "Timestamp": "2026-07-31 06:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Multiple lanes blocked. Use other routes",
-    "Notes": "6:54 AM, Jul 31 2026 Crash on SB Lamb Blvd\u00A0at Lone Mountain Rd. Multiple lanes blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731694/attachment_0.jpg",
-    "Latitude": 36.247346499999999,
-    "Longitude": -115.07994220000001
-  },
-  {
-    "UniqueId": 51885,
-    "Timestamp": "2026-07-31 06:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:56 AM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731675/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 51886,
-    "Timestamp": "2026-07-31 07:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:00 AM, Jul 31 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731702/attachment_0.jpg",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 51887,
-    "Timestamp": "2026-07-31 07:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:32 AM, Jul 31 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731782/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 51888,
     "Timestamp": "2026-07-31 07:35",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732949/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 52005,
+    "Timestamp": "2026-08-01 07:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "7:26 AM, Aug 01 2026 Crash on SB I-11\u00A0at Boulder Hwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732952/attachment_0.jpg",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 52006,
+    "Timestamp": "2026-08-01 07:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Off ramp is closed Use other routes",
+    "Notes": "7:29 AM, Aug 01 2026 Crash on SB I-11\u00A0to Boulder Hwy. Off ramp is closed Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732954/attachment_0.jpg",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
