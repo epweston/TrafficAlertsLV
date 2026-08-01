@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 51870,
-    "Timestamp": "2026-07-31 02:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:06 AM, Jul 31 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731502/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 51871,
-    "Timestamp": "2026-07-31 02:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "2:24 AM, Jul 31 2026 Crash on NB I-15\u00A0before Blue Diamond Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731526/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 51872,
-    "Timestamp": "2026-07-31 03:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "172",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:09 AM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0at 172. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731520/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
-    "UniqueId": 51873,
-    "Timestamp": "2026-07-31 03:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:17 AM, Jul 31 2026 Crash on SB I-11\u00A0to Summerlin Pkwy. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731532/attachment_0.png",
-    "Latitude": 36.183238600000003,
-    "Longitude": -115.30132519999999
-  },
-  {
-    "UniqueId": 51874,
-    "Timestamp": "2026-07-31 03:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:49 AM, Jul 31 2026 Crash on EB Craig Rd\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731536/attachment_0.png",
-    "Latitude": 36.239482099999996,
-    "Longitude": -115.1392876
-  },
-  {
     "UniqueId": 51875,
     "Timestamp": "2026-07-31 04:47",
     "IncidentType": "Crash",
@@ -1734,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732893/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 51994,
+    "Timestamp": "2026-08-01 03:51",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Basic Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:51 AM, Aug 01 2026 Vehicle on fire on EB Lake Mead Pkwy\u00A0at Basic Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732895/attachment_0.jpg",
+    "Latitude": 36.036029399999997,
+    "Longitude": -114.995211
   }
 ]
