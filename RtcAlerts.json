@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51851,
-    "Timestamp": "2026-07-30 18:24",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Center lanes blocked.",
-    "Notes": "6:24 PM, Jul 30 2026 Crash on EB Lake Mead Blvd\u00A0at I-11. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731402/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 51852,
     "Timestamp": "2026-07-30 18:31",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732820/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 51964,
+    "Timestamp": "2026-07-31 18:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:25 PM, Jul 31 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Russell Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732822/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
