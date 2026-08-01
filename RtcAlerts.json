@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51898,
-    "Timestamp": "2026-07-31 09:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:03 AM, Jul 31 2026 Crash on EB Flamingo Rd\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3731962/attachment_0.png",
-    "Latitude": 36.114502810673706,
-    "Longitude": -115.24298784809898
-  },
-  {
     "UniqueId": 51899,
     "Timestamp": "2026-07-31 09:07",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732966/attachment_0.png",
     "Latitude": 36.156009300000001,
     "Longitude": -115.1493954
+  },
+  {
+    "UniqueId": 52016,
+    "Timestamp": "2026-08-01 09:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Polaris Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:02 AM, Aug 01 2026 Crash on EB Tropicana Ave\u00A0at Polaris Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732968/attachment_0.jpg",
+    "Latitude": 36.100986800000001,
+    "Longitude": -115.1855681
+  },
+  {
+    "UniqueId": 52017,
+    "Timestamp": "2026-08-01 09:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:04 AM, Aug 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732969/attachment_0.jpg",
+    "Latitude": 36.114692900000001,
+    "Longitude": -115.25693800000001
   }
 ]
