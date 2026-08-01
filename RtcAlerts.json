@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51860,
-    "Timestamp": "2026-07-30 21:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:14 PM, Jul 30 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0before Torrey Pines Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/30/file_attachments/3731456/attachment_0.png",
-    "Latitude": 36.02411,
-    "Longitude": -115.23455079999999
-  },
-  {
     "UniqueId": 51861,
     "Timestamp": "2026-07-30 21:41",
     "IncidentType": "Crash",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732857/attachment_0.png",
     "Latitude": 36.223860700000003,
     "Longitude": -115.2789842
+  },
+  {
+    "UniqueId": 51983,
+    "Timestamp": "2026-07-31 21:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "CC-215",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:14 PM, Jul 31 2026 Crash on SB CC-215\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732858/attachment_0.png",
+    "Latitude": 36.085086099999998,
+    "Longitude": -115.2466233
   }
 ]
