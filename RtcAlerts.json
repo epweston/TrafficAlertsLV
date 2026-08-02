@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52043,
-    "Timestamp": "2026-08-01 14:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left lanes blocked Right lane blocked.",
-    "Notes": "2:45 PM, Aug 01 2026 Crash on SB Decatur Blvd\u00A0at Harmon Ave. Left lanes blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733088/attachment_0.jpg",
-    "Latitude": 36.108160499999997,
-    "Longitude": -115.20792230000001
-  },
-  {
-    "UniqueId": 52044,
-    "Timestamp": "2026-08-01 14:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cc-215 Right",
-    "Impact": "",
-    "Notes": "2:45 PM, Aug 01 2026 Stalled vehicle on NB I-11\u00A0at . CC-215 Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733072/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
-    "UniqueId": 52045,
-    "Timestamp": "2026-08-01 14:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Right",
-    "Impact": "",
-    "Notes": "2:46 PM, Aug 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733090/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
-    "UniqueId": 52046,
-    "Timestamp": "2026-08-01 14:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:55 PM, Aug 01 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733091/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 52047,
     "Timestamp": "2026-08-01 15:40",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733399/attachment_0.jpg",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 52157,
+    "Timestamp": "2026-08-02 15:00",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "after",
+    "CrossStreet": "Whitney Ranch Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:00 PM, Aug 02 2026 Crash on EB Sunset Rd\u00A0after Whitney Ranch Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733400/attachment_0.jpg",
+    "Latitude": 36.063765600000004,
+    "Longitude": -115.05256850000001
+  },
+  {
+    "UniqueId": 52158,
+    "Timestamp": "2026-08-02 15:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:00 PM, Aug 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733380/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
