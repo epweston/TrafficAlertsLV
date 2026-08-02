@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51956,
-    "Timestamp": "2026-07-31 17:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:38 PM, Jul 31 2026 Crash on SB I-11\u00A0before Jones Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732810/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 51957,
     "Timestamp": "2026-07-31 17:42",
     "IncidentType": "Crash",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733126/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 52060,
+    "Timestamp": "2026-08-01 17:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "after",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:34 PM, Aug 01 2026 Crash on NB Frank Sinatra Dr\u00A0after Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733110/attachment_0.jpg",
+    "Latitude": 36.107434699999999,
+    "Longitude": -115.11220640000001
   }
 ]
