@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52048,
-    "Timestamp": "2026-08-01 15:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:54 PM, Aug 01 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733092/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 52051,
     "Timestamp": "2026-08-01 16:14",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733405/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 52161,
+    "Timestamp": "2026-08-02 15:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Railroad Pass Casino Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "3:55 PM, Aug 02 2026 Stalled vehicle on NB I-11\u00A0before Railroad Pass Casino Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733410/attachment_0.png",
+    "Latitude": 35.968342972997235,
+    "Longitude": -114.91009383325343
   }
 ]
