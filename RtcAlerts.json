@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51987,
-    "Timestamp": "2026-07-31 22:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Town Square Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:18 PM, Jul 31 2026 Crash on SB Las Vegas Blvd\u00A0at Town Square Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732884/attachment_0.png",
-    "Latitude": 36.068185999999997,
-    "Longitude": -115.1722741
-  },
-  {
     "UniqueId": 51988,
     "Timestamp": "2026-07-31 23:18",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733176/attachment_0.jpg",
     "Latitude": 36.195763300000003,
     "Longitude": -115.12070660000001
+  },
+  {
+    "UniqueId": 52088,
+    "Timestamp": "2026-08-01 22:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "10:21 PM, Aug 01 2026 Stalled vehicle on NB I-11\u00A0at Valley View Blvd off-ramp. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733179/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
