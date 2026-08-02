@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52017,
-    "Timestamp": "2026-08-01 09:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:04 AM, Aug 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732969/attachment_0.jpg",
-    "Latitude": 36.114692900000001,
-    "Longitude": -115.25693800000001
-  },
-  {
     "UniqueId": 52018,
     "Timestamp": "2026-08-01 09:45",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733286/attachment_0.jpg",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 52138,
+    "Timestamp": "2026-08-02 09:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:09 AM, Aug 02 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733287/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
