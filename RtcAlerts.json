@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51954,
-    "Timestamp": "2026-07-31 17:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "5:31 PM, Jul 31 2026 Crash on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732806/attachment_0.jpg",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 51955,
-    "Timestamp": "2026-07-31 17:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:35 PM, Jul 31 2026 Crash on NB I-15\u00A0at Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732808/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 51956,
     "Timestamp": "2026-07-31 17:38",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733106/attachment_0.jpg",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 52059,
+    "Timestamp": "2026-08-01 17:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:31 PM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733126/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
