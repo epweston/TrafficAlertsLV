@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51959,
-    "Timestamp": "2026-07-31 18:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:10 PM, Jul 31 2026 Crash on EB Blue Diamond Rd\u00A0at Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732815/attachment_0.png",
-    "Latitude": 36.020242606714355,
-    "Longitude": -115.2792624790148
-  },
-  {
-    "UniqueId": 51960,
-    "Timestamp": "2026-07-31 18:11",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left and Right lanes blocked.",
-    "Notes": "6:11 PM, Jul 31 2026 Crash on NB I-15\u00A0at Cheyenne Ave off-ramp. Left and Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732817/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 51961,
-    "Timestamp": "2026-07-31 18:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right gore shoulder.",
-    "Notes": "6:16 PM, Jul 31 2026 Stalled vehicle on NB I-15\u00A0at 215 Southern Beltway. Right gore shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732792/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 51962,
-    "Timestamp": "2026-07-31 18:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder.",
-    "Notes": "6:17 PM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0at Galleria Dr. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732819/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 51963,
     "Timestamp": "2026-07-31 18:21",
     "IncidentType": "Crash",
@@ -1468,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733136/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 52067,
+    "Timestamp": "2026-08-01 18:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave Right",
+    "Impact": "",
+    "Notes": "6:11 PM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733137/attachment_0.png",
+    "Latitude": 36.2175893,
+    "Longitude": -115.1387424
   }
 ]
