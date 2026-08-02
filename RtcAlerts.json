@@ -1426,5 +1426,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733132/attachment_0.jpg",
     "Latitude": 36.14359315288705,
     "Longitude": -115.15748977661134
+  },
+  {
+    "UniqueId": 52064,
+    "Timestamp": "2026-08-01 18:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:03 PM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733134/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 52065,
+    "Timestamp": "2026-08-01 18:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Genting Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:04 PM, Aug 01 2026 Crash on SB Las Vegas Blvd\u00A0before Genting Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733112/attachment_0.jpg",
+    "Latitude": 36.131031900000004,
+    "Longitude": -115.1658037
+  },
+  {
+    "UniqueId": 52066,
+    "Timestamp": "2026-08-01 18:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:04 PM, Aug 01 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733136/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
