@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52018,
-    "Timestamp": "2026-08-01 09:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 90",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:45 AM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at Mile 90. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732975/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 52019,
     "Timestamp": "2026-08-01 10:03",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733289/attachment_0.png",
     "Latitude": 36.199951899999988,
     "Longitude": -115.28239290000001
+  },
+  {
+    "UniqueId": 52140,
+    "Timestamp": "2026-08-02 09:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:47 AM, Aug 02 2026 Stalled vehicle on SB I-15\u00A0before 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733279/attachment_0.jpg",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
