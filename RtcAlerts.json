@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51986,
-    "Timestamp": "2026-07-31 22:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "under",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:07 PM, Jul 31 2026 Crash on SB I-11 under I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732862/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 51987,
     "Timestamp": "2026-07-31 22:18",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733156/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 52087,
+    "Timestamp": "2026-08-01 22:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Mcdaniel St",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:04 PM, Aug 01 2026 Crash on WB Lake Mead Blvd\u00A0at McDaniel St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733176/attachment_0.jpg",
+    "Latitude": 36.195763300000003,
+    "Longitude": -115.12070660000001
   }
 ]
