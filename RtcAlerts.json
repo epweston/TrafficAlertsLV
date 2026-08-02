@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51984,
-    "Timestamp": "2026-07-31 21:26",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:26 PM, Jul 31 2026 Crash on EB Bonanza Rd\u00A0at Nellis Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732840/attachment_0.png",
-    "Latitude": 36.173988299999998,
-    "Longitude": -115.0622757
-  },
-  {
-    "UniqueId": 51985,
-    "Timestamp": "2026-07-31 21:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Hoover Ave",
-    "Relationship": "at",
-    "CrossStreet": "6Th St",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:34 PM, Jul 31 2026 Crash on EB Hoover Ave\u00A0at 6th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732842/attachment_0.png",
-    "Latitude": 36.1594379,
-    "Longitude": -115.145628
-  },
-  {
     "UniqueId": 51986,
     "Timestamp": "2026-07-31 22:07",
     "IncidentType": "Crash",
@@ -1300,5 +1272,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733169/attachment_0.png",
     "Latitude": 36.298464445139153,
     "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 52082,
+    "Timestamp": "2026-08-01 21:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder.",
+    "Notes": "9:41 PM, Aug 01 2026 Stalled vehicle on NB I-15\u00A0after St Rose Pkwy. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733153/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 52083,
+    "Timestamp": "2026-08-01 21:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder.",
+    "Notes": "9:42 PM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733170/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 52084,
+    "Timestamp": "2026-08-01 21:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder",
+    "Notes": "9:44 PM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733172/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
