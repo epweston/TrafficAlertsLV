@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52024,
-    "Timestamp": "2026-08-01 11:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:03 AM, Aug 01 2026 Stalled vehicle on NB I-11\u00A0before Alexander Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733000/attachment_0.png",
-    "Latitude": 36.233459799999999,
-    "Longitude": -115.2699784
-  },
-  {
-    "UniqueId": 52025,
-    "Timestamp": "2026-08-01 11:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tonopah Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:07 AM, Aug 01 2026 Crash on EB Charleston Blvd\u00A0at Tonopah Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733028/attachment_0.png",
-    "Latitude": 36.1589612,
-    "Longitude": -115.17000539999999
-  },
-  {
-    "UniqueId": 52026,
-    "Timestamp": "2026-08-01 11:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:18 AM, Aug 01 2026 Stalled vehicle on SB I-15 \u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733029/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 52027,
     "Timestamp": "2026-08-01 11:43",
     "IncidentType": "Crash",
@@ -1608,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733316/attachment_0.png",
     "Latitude": 36.121397100000003,
     "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 52144,
+    "Timestamp": "2026-08-02 11:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Primm",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:31 AM, Aug 02 2026 Stalled vehicle on SB I-15\u00A0before Primm. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733322/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
