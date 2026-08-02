@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51994,
-    "Timestamp": "2026-08-01 03:51",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Basic Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:51 AM, Aug 01 2026 Vehicle on fire on EB Lake Mead Pkwy\u00A0at Basic Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732895/attachment_0.jpg",
-    "Latitude": 36.036029399999997,
-    "Longitude": -114.995211
-  },
-  {
     "UniqueId": 51995,
     "Timestamp": "2026-08-01 04:07",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "",
     "Latitude": 36.175244799226355,
     "Longitude": -115.16081567593977
+  },
+  {
+    "UniqueId": 52114,
+    "Timestamp": "2026-08-02 03:49",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "after",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:49 AM, Aug 02 2026 Crash on WB Bonneville Ave\u00A0after Grand Central Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.166741899999998,
+    "Longitude": -115.1552349
   }
 ]
