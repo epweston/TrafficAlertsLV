@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51957,
-    "Timestamp": "2026-07-31 17:42",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:42 PM, Jul 31 2026 Crash on EB 215 Southern Beltway\u00A0before Decatur Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732791/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 51958,
-    "Timestamp": "2026-07-31 17:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Bell Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:43 PM, Jul 31 2026 Crash on SB Paradise Rd\u00A0at Bell Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732813/attachment_0.png",
-    "Latitude": 36.099120999999997,
-    "Longitude": -115.1492777
-  },
-  {
     "UniqueId": 51959,
     "Timestamp": "2026-07-31 18:10",
     "IncidentType": "Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733110/attachment_0.jpg",
     "Latitude": 36.107434699999999,
     "Longitude": -115.11220640000001
+  },
+  {
+    "UniqueId": 52061,
+    "Timestamp": "2026-08-01 17:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "after",
+    "CrossStreet": "Dean Martin Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:40 PM, Aug 01 2026 Crash on EB Blue Diamond Rd\u00A0after Dean Martin Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733128/attachment_0.png",
+    "Latitude": 36.041387180713301,
+    "Longitude": -115.18812059936668
   }
 ]
