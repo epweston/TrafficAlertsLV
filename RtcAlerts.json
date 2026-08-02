@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51995,
-    "Timestamp": "2026-08-01 04:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:07 AM, Aug 01 2026 Crash on EB Charleston Blvd\u00A0at Mojave Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732897/attachment_0.png",
-    "Latitude": 36.158831611348177,
-    "Longitude": -115.10551943989164
-  },
-  {
     "UniqueId": 51996,
     "Timestamp": "2026-08-01 04:17",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "",
     "Latitude": 36.166741899999998,
     "Longitude": -115.1552349
+  },
+  {
+    "UniqueId": 52115,
+    "Timestamp": "2026-08-02 04:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Centennial Center Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "4:05 AM, Aug 02 2026 Crash on NB Centennial Center Blvd\u00A0at Ann Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.263102199999999,
+    "Longitude": -115.25664310000001
   }
 ]
