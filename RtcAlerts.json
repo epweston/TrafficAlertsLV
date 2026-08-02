@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51993,
-    "Timestamp": "2026-08-01 00:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:57 AM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at Harmon Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732893/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
     "UniqueId": 51994,
     "Timestamp": "2026-08-01 03:51",
     "IncidentType": "Vehicle on fire",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733193/attachment_0.jpg",
     "Latitude": 36.164287999999999,
     "Longitude": -115.1616993
+  },
+  {
+    "UniqueId": 52104,
+    "Timestamp": "2026-08-02 01:14",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "after",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Right shoulder.",
+    "Notes": "1:14 AM, Aug 02 2026 Crash on WB Bonneville Ave\u00A0after Grand Central Pkwy. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733194/attachment_0.png",
+    "Latitude": 36.166741899999998,
+    "Longitude": -115.1552349
   }
 ]
