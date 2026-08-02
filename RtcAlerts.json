@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51992,
-    "Timestamp": "2026-08-01 00:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "I-215",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Gore blocked.",
-    "Notes": "12:23 AM, Aug 01 2026 Stalled vehicle on EB I-215\u00A0at Green Valley Pkwy. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732892/attachment_0.png",
-    "Latitude": 36.051073899999999,
-    "Longitude": -115.0825609
-  },
-  {
     "UniqueId": 51993,
     "Timestamp": "2026-08-01 00:57",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733190/attachment_0.jpg",
     "Latitude": 36.134497699999997,
     "Longitude": -115.1632906
+  },
+  {
+    "UniqueId": 52099,
+    "Timestamp": "2026-08-02 00:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder.",
+    "Notes": "12:19 AM, Aug 02 2026 Crash on WB Russell Rd\u00A0before I-15. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733205/attachment_0.png",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
   }
 ]
