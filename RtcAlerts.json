@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51970,
-    "Timestamp": "2026-07-31 19:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:15 PM, Jul 31 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732801/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
-    "UniqueId": 51971,
-    "Timestamp": "2026-07-31 19:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:21 PM, Jul 31 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732828/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 51972,
     "Timestamp": "2026-07-31 19:23",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733139/attachment_0.jpg",
     "Latitude": 36.107434699999999,
     "Longitude": -115.11220640000001
+  },
+  {
+    "UniqueId": 52071,
+    "Timestamp": "2026-08-01 19:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "after",
+    "CrossStreet": "Lindell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:21 PM, Aug 01 2026 Crash on EB Spring Mountain Rd\u00A0after Lindell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733140/attachment_0.jpg",
+    "Latitude": 36.125862300000001,
+    "Longitude": -115.21650320000001
   }
 ]
