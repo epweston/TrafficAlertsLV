@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52033,
-    "Timestamp": "2026-08-01 12:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 8",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:36 PM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at Mile 8. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733052/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 52034,
-    "Timestamp": "2026-08-01 13:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Bruce Woodbury Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:03 PM, Aug 01 2026 Crash on SB Bruce Woodbury Beltway\u00A0at Far Hills Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733054/attachment_0.png",
-    "Latitude": 36.181265400000001,
-    "Longitude": -115.3510256
-  },
-  {
-    "UniqueId": 52035,
-    "Timestamp": "2026-08-01 13:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Main St",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:13 PM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0before Main St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733055/attachment_0.png",
-    "Latitude": 36.175399899145084,
-    "Longitude": -115.14399336646459
-  },
-  {
     "UniqueId": 52036,
     "Timestamp": "2026-08-01 13:16",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733341/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 52153,
+    "Timestamp": "2026-08-02 13:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "1:10 PM, Aug 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after . Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733374/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
