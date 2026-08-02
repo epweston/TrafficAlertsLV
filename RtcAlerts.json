@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52029,
-    "Timestamp": "2026-08-01 11:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "11:55 AM, Aug 01 2026 Crash on NB I-11\u00A0after Casino Center Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733034/attachment_0.jpg",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
-    "UniqueId": 52030,
-    "Timestamp": "2026-08-01 11:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lanes blocked. Expect Delays",
-    "Notes": "11:57 AM, Aug 01 2026 Crash on NB I-11\u00A0after Las Vegas Blvd. Left lanes blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 52031,
     "Timestamp": "2026-08-01 12:16",
     "IncidentType": "Crash",
@@ -1566,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733333/attachment_0.png",
     "Latitude": 36.217708799999997,
     "Longitude": -115.116281
+  },
+  {
+    "UniqueId": 52146,
+    "Timestamp": "2026-08-02 11:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:50 AM, Aug 02 2026 Stalled vehicle on NB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733335/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 52147,
+    "Timestamp": "2026-08-02 11:53",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:53 AM, Aug 02 2026 Police activity on NB I-11\u00A0at Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733344/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
