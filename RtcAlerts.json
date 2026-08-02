@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 51968,
-    "Timestamp": "2026-07-31 19:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "7:02 PM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0after Valley View Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732824/attachment_0.jpg",
-    "Latitude": 36.174755099999999,
-    "Longitude": -115.1925418
-  },
-  {
-    "UniqueId": 51969,
-    "Timestamp": "2026-07-31 19:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:04 PM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732826/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 51970,
     "Timestamp": "2026-07-31 19:15",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733118/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 52070,
+    "Timestamp": "2026-08-01 19:02",
+    "IncidentType": "Update Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "after",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Incident is clear.",
+    "Notes": "7:02 PM, Aug 01 2026 Update Crash on NB Frank Sinatra Dr\u00A0after Harmon Ave. Incident is clear.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733139/attachment_0.jpg",
+    "Latitude": 36.107434699999999,
+    "Longitude": -115.11220640000001
   }
 ]
