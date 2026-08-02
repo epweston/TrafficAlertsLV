@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 51980,
-    "Timestamp": "2026-07-31 20:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "I-215",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:28 PM, Jul 31 2026 Crash on EB I-215\u00A0at Eastern Ave off-ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732853/attachment_0.png",
-    "Latitude": 36.149007400000002,
-    "Longitude": -115.1189171
-  },
-  {
-    "UniqueId": 51981,
-    "Timestamp": "2026-07-31 20:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd On",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "8:46 PM, Jul 31 2026 Crash on WB 215 Northern Beltway\u00A0at Jones Blvd on ramp. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732855/attachment_0.png",
-    "Latitude": 36.159271400000002,
-    "Longitude": -115.2240053
-  },
-  {
-    "UniqueId": 51982,
-    "Timestamp": "2026-07-31 21:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Majestic Valley Ave",
-    "Impact": "Left lanes blocked. NB and SB.",
-    "Notes": "9:03 PM, Jul 31 2026 Crash on NB Durango Dr\u00A0at Majestic Valley Ave. Left lanes blocked. NB and SB.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732857/attachment_0.png",
-    "Latitude": 36.223860700000003,
-    "Longitude": -115.2789842
-  },
-  {
-    "UniqueId": 51983,
-    "Timestamp": "2026-07-31 21:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "CC-215",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:14 PM, Jul 31 2026 Crash on SB CC-215\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732858/attachment_0.png",
-    "Latitude": 36.085086099999998,
-    "Longitude": -115.2466233
-  },
-  {
     "UniqueId": 51984,
     "Timestamp": "2026-07-31 21:26",
     "IncidentType": "Crash",
@@ -1328,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733149/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 52080,
+    "Timestamp": "2026-08-01 21:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Centennial Pkwy",
+    "Impact": "Right shoulder.",
+    "Notes": "9:08 PM, Aug 01 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Centennial Pkwy. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733150/attachment_0.png",
+    "Latitude": 36.2772735,
+    "Longitude": -115.28334049999999
   }
 ]
