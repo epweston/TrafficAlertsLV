@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51989,
-    "Timestamp": "2026-07-31 23:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:50 PM, Jul 31 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732888/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 51990,
-    "Timestamp": "2026-07-31 23:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:56 PM, Jul 31 2026 Crash on NB 215 Western Beltway\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732866/attachment_0.png",
-    "Latitude": 36.159090499999998,
-    "Longitude": -115.2607228
-  },
-  {
-    "UniqueId": 51991,
-    "Timestamp": "2026-08-01 00:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:05 AM, Aug 01 2026 Crash on SB I-15\u00A0at Flamingo Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732890/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 51992,
     "Timestamp": "2026-08-01 00:23",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733188/attachment_0.png",
     "Latitude": 36.167448399999998,
     "Longitude": -115.1417701
+  },
+  {
+    "UniqueId": 52098,
+    "Timestamp": "2026-08-02 00:15",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Resorts World Ave",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:15 AM, Aug 02 2026 Crash on WB Resorts World Ave\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733190/attachment_0.jpg",
+    "Latitude": 36.134497699999997,
+    "Longitude": -115.1632906
   }
 ]
