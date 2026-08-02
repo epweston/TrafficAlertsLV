@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52003,
-    "Timestamp": "2026-08-01 06:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Owens Ave",
-    "Relationship": "at",
-    "CrossStreet": "H St",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:41 AM, Aug 01 2026 Crash on EB Owens Ave\u00A0at H St. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732946/attachment_0.png",
-    "Latitude": 36.1883488,
-    "Longitude": -115.151996
-  },
-  {
     "UniqueId": 52004,
     "Timestamp": "2026-08-01 06:50",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1692,19 @@
     "ImagePath": "",
     "Latitude": 36.166741899999998,
     "Longitude": -115.1552349
+  },
+  {
+    "UniqueId": 52130,
+    "Timestamp": "2026-08-02 06:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "215",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:41 AM, Aug 02 2026 Stalled vehicle on NB I-11\u00A0after 215. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733256/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
