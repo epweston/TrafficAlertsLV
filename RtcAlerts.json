@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 51996,
-    "Timestamp": "2026-08-01 04:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:17 AM, Aug 01 2026 Crash on SB I-11\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732872/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
-    "UniqueId": 51997,
-    "Timestamp": "2026-08-01 04:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:28 AM, Aug 01 2026 Crash on EB Tropicana Ave\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732900/attachment_0.png",
-    "Latitude": 36.0998807,
-    "Longitude": -115.1719403
-  },
-  {
-    "UniqueId": 51998,
-    "Timestamp": "2026-08-01 04:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Polaris Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:32 AM, Aug 01 2026 Crash on WB Spring Mountain Rd\u00A0at Polaris Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732901/attachment_0.png",
-    "Latitude": 36.126417799999999,
-    "Longitude": -115.1855011
-  },
-  {
     "UniqueId": 51999,
     "Timestamp": "2026-08-01 05:18",
     "IncidentType": "Crash",
@@ -1608,5 +1566,19 @@
     "ImagePath": "",
     "Latitude": 36.263102199999999,
     "Longitude": -115.25664310000001
+  },
+  {
+    "UniqueId": 52116,
+    "Timestamp": "2026-08-02 04:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "after",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:31 AM, Aug 02 2026 Crash on WB Bonneville Ave\u00A0after Grand Central Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.166741899999998,
+    "Longitude": -115.1552349
   }
 ]
