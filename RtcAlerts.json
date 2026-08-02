@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52019,
-    "Timestamp": "2026-08-01 10:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Us-93",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:03 AM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0after US-93. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732988/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 52020,
     "Timestamp": "2026-08-01 10:35",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733279/attachment_0.jpg",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 52141,
+    "Timestamp": "2026-08-02 10:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Garces Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:07 AM, Aug 02 2026 Crash on NB Las Vegas Blvd\u00A0at Garces Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733282/attachment_0.jpg",
+    "Latitude": 36.162279599999998,
+    "Longitude": -115.1452867
   }
 ]
