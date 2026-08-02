@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 51988,
-    "Timestamp": "2026-07-31 23:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Cedar Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "11:18 PM, Jul 31 2026 Crash on NB Nellis Blvd\u00A0at Cedar Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/07/31/file_attachments/3732886/attachment_0.png",
-    "Latitude": 36.170269099999999,
-    "Longitude": -115.0622226
-  },
-  {
     "UniqueId": 51989,
     "Timestamp": "2026-07-31 23:50",
     "IncidentType": "Stalled vehicle",
@@ -1438,6 +1424,20 @@
     "Impact": "All lanes are blocked.",
     "Notes": "11:15 PM, Aug 01 2026 Update Vehicle on fire on SB Las Vegas Blvd\u00A0after I-15. All lanes are blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733187/attachment_0.png",
+    "Latitude": 35.607312499999999,
+    "Longitude": -115.3914659
+  },
+  {
+    "UniqueId": 52096,
+    "Timestamp": "2026-08-01 23:30",
+    "IncidentType": "Update Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "All lanes are open again.",
+    "Notes": "11:30 PM, Aug 01 2026 Update Vehicle on fire on SB Las Vegas Blvd\u00A0after I-15. All lanes are open again.",
+    "ImagePath": "",
     "Latitude": 35.607312499999999,
     "Longitude": -115.3914659
   }
