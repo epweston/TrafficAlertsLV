@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52000,
-    "Timestamp": "2026-08-01 06:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:06 AM, Aug 01 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732881/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 52001,
     "Timestamp": "2026-08-01 06:13",
     "IncidentType": "Crash",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733253/attachment_0.png",
     "Latitude": 36.108025599999998,
     "Longitude": -115.16390629999999
+  },
+  {
+    "UniqueId": 52127,
+    "Timestamp": "2026-08-02 06:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:04 AM, Aug 02 2026 Crash on EB Charleston Blvd\u00A0at Nellis Blvd. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.159091699999998,
+    "Longitude": -115.06238690000001
   }
 ]
