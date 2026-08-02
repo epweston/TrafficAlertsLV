@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52001,
-    "Timestamp": "2026-08-01 06:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Brent Thurman Way",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:13 AM, Aug 01 2026 Crash on NB Brent Thurman Way\u00A0at Hacienda Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732882/attachment_0.png",
-    "Latitude": 36.092584000000002,
-    "Longitude": -115.2884347
-  },
-  {
-    "UniqueId": 52002,
-    "Timestamp": "2026-08-01 06:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sands Ave",
-    "Relationship": "at",
-    "CrossStreet": "Koval Ln",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "6:18 AM, Aug 01 2026 Crash on EB Sands Ave\u00A0at Koval Ln. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3732929/attachment_0.png",
-    "Latitude": 36.122458700000003,
-    "Longitude": -115.1641771
-  },
-  {
     "UniqueId": 52003,
     "Timestamp": "2026-08-01 06:41",
     "IncidentType": "Crash",
@@ -1706,5 +1678,33 @@
     "ImagePath": "",
     "Latitude": 36.159091699999998,
     "Longitude": -115.06238690000001
+  },
+  {
+    "UniqueId": 52128,
+    "Timestamp": "2026-08-02 06:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:18 AM, Aug 02 2026 Crash on EB Charleston Blvd\u00A0at Nellis Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.159091699999998,
+    "Longitude": -115.06238690000001
+  },
+  {
+    "UniqueId": 52129,
+    "Timestamp": "2026-08-02 06:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "after",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:21 AM, Aug 02 2026 Crash on WB Bonneville Ave\u00A0after Grand Central Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.166741899999998,
+    "Longitude": -115.1552349
   }
 ]
