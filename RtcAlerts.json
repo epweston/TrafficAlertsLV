@@ -1398,5 +1398,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733160/attachment_0.png",
     "Latitude": 35.607312499999999,
     "Longitude": -115.3914659
+  },
+  {
+    "UniqueId": 52093,
+    "Timestamp": "2026-08-01 23:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder.",
+    "Notes": "11:13 PM, Aug 01 2026 Stalled vehicle on SB I-15\u00A0at I-11. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733184/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 52094,
+    "Timestamp": "2026-08-01 23:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "11:14 PM, Aug 01 2026 Crash on NB I-15\u00A0before Charleston Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733162/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 52095,
+    "Timestamp": "2026-08-01 23:15",
+    "IncidentType": "Update Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "All lanes are blocked.",
+    "Notes": "11:15 PM, Aug 01 2026 Update Vehicle on fire on SB Las Vegas Blvd\u00A0after I-15. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/01/file_attachments/3733187/attachment_0.png",
+    "Latitude": 35.607312499999999,
+    "Longitude": -115.3914659
   }
 ]
