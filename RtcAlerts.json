@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52156,
-    "Timestamp": "2026-08-02 14:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "2:38 PM, Aug 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733399/attachment_0.jpg",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 52157,
     "Timestamp": "2026-08-02 15:00",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734719/attachment_0.jpg",
     "Latitude": 36.158766900000003,
     "Longitude": -115.1474163
+  },
+  {
+    "UniqueId": 52261,
+    "Timestamp": "2026-08-03 14:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "2:33 PM, Aug 03 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734743/attachment_0.jpg",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 52262,
+    "Timestamp": "2026-08-03 14:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:36 PM, Aug 03 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734744/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
