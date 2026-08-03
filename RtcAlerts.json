@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52139,
-    "Timestamp": "2026-08-02 09:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:31 AM, Aug 02 2026 Crash on WB Lake Mead Blvd\u00A0before Rampart Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733289/attachment_0.png",
-    "Latitude": 36.199951899999988,
-    "Longitude": -115.28239290000001
-  },
-  {
     "UniqueId": 52140,
     "Timestamp": "2026-08-02 09:47",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734150/attachment_0.png",
     "Latitude": 35.999066361520875,
     "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 52246,
+    "Timestamp": "2026-08-03 09:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:38 AM, Aug 03 2026 Crash on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734174/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
