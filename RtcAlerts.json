@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52140,
-    "Timestamp": "2026-08-02 09:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:47 AM, Aug 02 2026 Stalled vehicle on SB I-15\u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733279/attachment_0.jpg",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 52141,
-    "Timestamp": "2026-08-02 10:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Garces Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:07 AM, Aug 02 2026 Crash on NB Las Vegas Blvd\u00A0at Garces Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733282/attachment_0.jpg",
-    "Latitude": 36.162279599999998,
-    "Longitude": -115.1452867
-  },
-  {
     "UniqueId": 52142,
     "Timestamp": "2026-08-02 10:26",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734174/attachment_0.png",
     "Latitude": 36.083295454540455,
     "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 52247,
+    "Timestamp": "2026-08-03 10:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:06 AM, Aug 03 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734249/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
