@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52137,
-    "Timestamp": "2026-08-02 08:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 20",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:59 AM, Aug 02 2026 Stalled vehicle on NB I-15\u00A0after Mile 20. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733286/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 52138,
-    "Timestamp": "2026-08-02 09:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:09 AM, Aug 02 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733287/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 52139,
     "Timestamp": "2026-08-02 09:31",
     "IncidentType": "Crash",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734087/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 52245,
+    "Timestamp": "2026-08-03 09:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:25 AM, Aug 03 2026 Stalled vehicle on NB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734150/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
   }
 ]
