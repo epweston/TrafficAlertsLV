@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52155,
-    "Timestamp": "2026-08-02 13:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:55 PM, Aug 02 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733395/attachment_0.jpg",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 52156,
     "Timestamp": "2026-08-02 14:38",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734704/attachment_0.png",
     "Latitude": 36.092524900000001,
     "Longitude": -115.23405080000001
+  },
+  {
+    "UniqueId": 52258,
+    "Timestamp": "2026-08-03 13:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:56 PM, Aug 03 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734694/attachment_0.jpg",
+    "Latitude": 36.129981600000001,
+    "Longitude": -115.20814
   }
 ]
