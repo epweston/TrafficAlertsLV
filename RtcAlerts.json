@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52153,
-    "Timestamp": "2026-08-02 13:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "1:10 PM, Aug 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after . Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733374/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 52154,
     "Timestamp": "2026-08-02 13:40",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734571/attachment_0.jpg",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 52255,
+    "Timestamp": "2026-08-03 13:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:04 PM, Aug 03 2026 Crash on WB Cheyenne Ave\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734629/attachment_0.png",
+    "Latitude": 36.216773099999998,
+    "Longitude": -115.2258042
+  },
+  {
+    "UniqueId": 52256,
+    "Timestamp": "2026-08-03 13:07",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Oakey Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:07 PM, Aug 03 2026 Crash on EB Oakey Blvd\u00A0after Las Vegas Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734615/attachment_0.png",
+    "Latitude": 36.151245299999999,
+    "Longitude": -115.1525166
   }
 ]
