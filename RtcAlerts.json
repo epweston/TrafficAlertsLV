@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52154,
-    "Timestamp": "2026-08-02 13:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:40 PM, Aug 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733377/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 52155,
     "Timestamp": "2026-08-02 13:55",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734615/attachment_0.png",
     "Latitude": 36.151245299999999,
     "Longitude": -115.1525166
+  },
+  {
+    "UniqueId": 52257,
+    "Timestamp": "2026-08-03 13:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Torrey Pines Dr",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "1:47 PM, Aug 03 2026 Crash on NB Torrey Pines Dr\u00A0at Hacienda Ave. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734704/attachment_0.png",
+    "Latitude": 36.092524900000001,
+    "Longitude": -115.23405080000001
   }
 ]
