@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52157,
-    "Timestamp": "2026-08-02 15:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Whitney Ranch Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:00 PM, Aug 02 2026 Crash on EB Sunset Rd\u00A0after Whitney Ranch Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733400/attachment_0.jpg",
-    "Latitude": 36.063765600000004,
-    "Longitude": -115.05256850000001
-  },
-  {
-    "UniqueId": 52158,
-    "Timestamp": "2026-08-02 15:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:00 PM, Aug 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733380/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 52159,
     "Timestamp": "2026-08-02 15:11",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734744/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 52263,
+    "Timestamp": "2026-08-03 14:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Left lanes blocked.",
+    "Notes": "2:54 PM, Aug 03 2026 Crash on SB Decatur Blvd\u00A0after 215 Northern Beltway. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734751/attachment_0.png",
+    "Latitude": 36.269200300000001,
+    "Longitude": -115.2071053
+  },
+  {
+    "UniqueId": 52264,
+    "Timestamp": "2026-08-03 14:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd Off",
+    "Impact": "Expect Delays",
+    "Notes": "2:54 PM, Aug 03 2026 Crash on NB I-11\u00A0at Valley View Blvd Off Ramp Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734764/attachment_0.jpg",
+    "Latitude": 36.174755099999999,
+    "Longitude": -115.1925418
   }
 ]
