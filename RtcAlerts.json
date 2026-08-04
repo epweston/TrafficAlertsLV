@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52257,
-    "Timestamp": "2026-08-03 13:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Torrey Pines Dr",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "1:47 PM, Aug 03 2026 Crash on NB Torrey Pines Dr\u00A0at Hacienda Ave. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734704/attachment_0.png",
-    "Latitude": 36.092524900000001,
-    "Longitude": -115.23405080000001
-  },
-  {
-    "UniqueId": 52258,
-    "Timestamp": "2026-08-03 13:56",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:56 PM, Aug 03 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734694/attachment_0.jpg",
-    "Latitude": 36.129981600000001,
-    "Longitude": -115.20814
-  },
-  {
     "UniqueId": 52259,
     "Timestamp": "2026-08-03 14:16",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736095/attachment_0.jpg",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 52360,
+    "Timestamp": "2026-08-04 14:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:01 PM, Aug 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736117/attachment_0.jpg",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
