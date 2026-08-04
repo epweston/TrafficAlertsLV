@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52253,
-    "Timestamp": "2026-08-03 12:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 (CD Rd)",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "12:43 PM, Aug 03 2026 Crash on SB I-15 (CD Rd) \u00A0at 215 Southern Beltway. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734583/attachment_0.png",
-    "Latitude": 36.067402999999999,
-    "Longitude": -115.1779239
-  },
-  {
-    "UniqueId": 52254,
-    "Timestamp": "2026-08-03 12:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:49 PM, Aug 03 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734571/attachment_0.jpg",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 52255,
     "Timestamp": "2026-08-03 13:04",
     "IncidentType": "Crash",
@@ -1440,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735983/attachment_0.jpg",
     "Latitude": 36.240516800000002,
     "Longitude": -115.0799215
+  },
+  {
+    "UniqueId": 52357,
+    "Timestamp": "2026-08-04 12:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15 offramp",
+    "Relationship": "to",
+    "CrossStreet": "D St",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:53 PM, Aug 04 2026 Crash on NB I-15 offramp to D St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736035/attachment_0.png",
+    "Latitude": 36.185989499999998,
+    "Longitude": -115.14714119999999
   }
 ]
