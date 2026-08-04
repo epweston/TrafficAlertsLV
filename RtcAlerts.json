@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52230,
-    "Timestamp": "2026-08-03 06:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:34 AM, Aug 03 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733804/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 52231,
-    "Timestamp": "2026-08-03 06:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:37 AM, Aug 03 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.277450399999999,
-    "Longitude": -115.0166152
-  },
-  {
     "UniqueId": 52232,
     "Timestamp": "2026-08-03 06:53",
     "IncidentType": "Other",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735167/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 52331,
+    "Timestamp": "2026-08-04 06:35",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:35 AM, Aug 04 2026 Vehicle on fire on NB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735178/attachment_0.jpg",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
