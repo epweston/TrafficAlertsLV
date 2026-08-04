@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52200,
-    "Timestamp": "2026-08-02 23:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "Multiple directions blocked.",
-    "Notes": "11:25 PM, Aug 02 2026 Crash on WB Sahara Ave\u00A0at Burnham Ave. Multiple directions blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733545/attachment_0.jpg",
-    "Latitude": 36.1442403,
-    "Longitude": -115.12326520000001
-  },
-  {
-    "UniqueId": 52201,
-    "Timestamp": "2026-08-02 23:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Palos Verdes St (After Paradise Rd)",
-    "Impact": "Right lanes blocked.",
-    "Notes": "11:50 PM, Aug 02 2026 Crash on EB Flamingo Rd\u00A0at Palos Verdes St (after Paradise Rd). Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733566/attachment_0.png",
-    "Latitude": 36.114831500000001,
-    "Longitude": -115.150556
-  },
-  {
-    "UniqueId": 52202,
-    "Timestamp": "2026-08-02 23:50",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Industrial Rd",
-    "Relationship": "at",
-    "CrossStreet": "Western Ave",
-    "Impact": "All lanes are open.",
-    "Notes": "11:50 PM, Aug 02 2026 Update Crash on SB Industrial Rd\u00A0at Western Ave. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.156884900000001,
-    "Longitude": -115.15914100000001
-  },
-  {
-    "UniqueId": 52203,
-    "Timestamp": "2026-08-02 23:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "11:53 PM, Aug 02 2026 Crash on EB Bonanza Rd\u00A0before Nellis Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733549/attachment_0.jpg",
-    "Latitude": 36.174032455275999,
-    "Longitude": -115.06216409024444
-  },
-  {
     "UniqueId": 52204,
     "Timestamp": "2026-08-03 00:04",
     "IncidentType": "Crash",
@@ -1300,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734939/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 52296,
+    "Timestamp": "2026-08-03 23:49",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Carey Ave",
+    "Relationship": "before",
+    "CrossStreet": "5Th St",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:49 PM, Aug 03 2026 Police activity on WB Carey Ave\u00A0before 5th St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734950/attachment_0.png",
+    "Latitude": 36.203433400000002,
+    "Longitude": -115.1337766
   }
 ]
