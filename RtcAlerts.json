@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52213,
-    "Timestamp": "2026-08-03 02:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "2:30 AM, Aug 03 2026 Crash on EB Tropicana Ave\u00A0after Duke Ellington Way. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.100998199999999,
-    "Longitude": -115.16558000000001
-  },
-  {
-    "UniqueId": 52214,
-    "Timestamp": "2026-08-03 02:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "2:31 AM, Aug 03 2026 Crash on WB Sahara Ave\u00A0at Burnham Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.1442403,
-    "Longitude": -115.12326520000001
-  },
-  {
-    "UniqueId": 52215,
-    "Timestamp": "2026-08-03 02:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Goodsprings Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:42 AM, Aug 03 2026 Stalled vehicle on SB I-15\u00A0at Goodsprings Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733582/attachment_0.png",
-    "Latitude": 36.169368800000001,
-    "Longitude": -115.0459718
-  },
-  {
-    "UniqueId": 52216,
-    "Timestamp": "2026-08-03 02:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:45 AM, Aug 03 2026 Crash on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 52217,
     "Timestamp": "2026-08-03 03:05",
     "IncidentType": "Crash",
@@ -1230,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735005/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 52303,
+    "Timestamp": "2026-08-04 02:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:46 AM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0after Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
