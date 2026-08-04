@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52211,
-    "Timestamp": "2026-08-03 01:53",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are open.",
-    "Notes": "1:53 AM, Aug 03 2026 Update Crash on SB Eastern Ave\u00A0after Warm Springs Rd. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 52212,
     "Timestamp": "2026-08-03 02:09",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734957/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 52300,
+    "Timestamp": "2026-08-04 02:04",
+    "IncidentType": "Traffic lights not working",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Treat intersection as 4-way stop.",
+    "Notes": "2:04 AM, Aug 04 2026 Traffic lights not working on SB I-15\u00A0at Starr Ave off-ramp. Treat intersection as 4-way stop.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734977/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
   }
 ]
