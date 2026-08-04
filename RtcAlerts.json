@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52188,
-    "Timestamp": "2026-08-02 21:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "Right lane partially blocked.",
-    "Notes": "9:43 PM, Aug 02 2026 Crash on WB Cheyenne Ave\u00A0after Civic Center Dr. Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733513/attachment_0.jpg",
-    "Latitude": 36.217594200000001,
-    "Longitude": -115.12107260000001
-  },
-  {
-    "UniqueId": 52189,
-    "Timestamp": "2026-08-02 21:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "after",
-    "CrossStreet": "Karen Ave (Before I-11)",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:50 PM, Aug 02 2026 Crash on SB Boulder Hwy\u00A0after Karen Ave (before I-11). Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733530/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 52190,
     "Timestamp": "2026-08-02 21:56",
     "IncidentType": "Police activity",
@@ -1396,6 +1368,20 @@
     "Impact": "All lanes are blocked.",
     "Notes": "9:35 PM, Aug 03 2026 Crash on SB Cimarron Rd\u00A0at Sahara Ave. All lanes are blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734931/attachment_0.png",
+    "Latitude": 36.143967000000004,
+    "Longitude": -115.2699695
+  },
+  {
+    "UniqueId": 52291,
+    "Timestamp": "2026-08-03 21:48",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Cimarron Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:48 PM, Aug 03 2026 Update Crash on SB Cimarron Rd\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734933/attachment_0.png",
     "Latitude": 36.143967000000004,
     "Longitude": -115.2699695
   }
