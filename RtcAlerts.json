@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52212,
-    "Timestamp": "2026-08-03 02:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder",
-    "Notes": "2:09 AM, Aug 03 2026 Crash on NB I-15\u00A0at St Rose Pkwy off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733578/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 52213,
     "Timestamp": "2026-08-03 02:30",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734977/attachment_0.png",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 52301,
+    "Timestamp": "2026-08-04 02:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 5",
+    "Impact": "Right shoulder",
+    "Notes": "2:13 AM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0at Mile 5 (before NV-CA Stateline). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735004/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
