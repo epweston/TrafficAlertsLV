@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52255,
-    "Timestamp": "2026-08-03 13:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:04 PM, Aug 03 2026 Crash on WB Cheyenne Ave\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734629/attachment_0.png",
-    "Latitude": 36.216773099999998,
-    "Longitude": -115.2258042
-  },
-  {
     "UniqueId": 52256,
     "Timestamp": "2026-08-03 13:07",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736035/attachment_0.png",
     "Latitude": 36.185989499999998,
     "Longitude": -115.14714119999999
+  },
+  {
+    "UniqueId": 52358,
+    "Timestamp": "2026-08-04 13:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:01 PM, Aug 04 2026 Stalled vehicle on NB I-11\u00A0before Lake Mead Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736051/attachment_0.png",
+    "Latitude": 36.036819999999999,
+    "Longitude": -114.986047
   }
 ]
