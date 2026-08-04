@@ -1230,5 +1230,47 @@
     "ImagePath": "",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 52310,
+    "Timestamp": "2026-08-04 03:27",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Arville St",
+    "Relationship": "after",
+    "CrossStreet": "Pennwood Ave",
+    "Impact": "All lanes are blocked.",
+    "Notes": "3:27 AM, Aug 04 2026 Police activity on SB Arville St\u00A0after Pennwood Ave. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.137295700000003,
+    "Longitude": -115.199491
+  },
+  {
+    "UniqueId": 52311,
+    "Timestamp": "2026-08-04 03:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:28 AM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 52312,
+    "Timestamp": "2026-08-04 03:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:30 AM, Aug 04 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
