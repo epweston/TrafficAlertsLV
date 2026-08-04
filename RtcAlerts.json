@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52224,
-    "Timestamp": "2026-08-03 05:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:33 AM, Aug 03 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733726/attachment_0.png",
-    "Latitude": 36.277450399999999,
-    "Longitude": -115.0166152
-  },
-  {
-    "UniqueId": 52225,
-    "Timestamp": "2026-08-03 05:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:37 AM, Aug 03 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733717/attachment_0.jpg",
-    "Latitude": 35.989565399999996,
-    "Longitude": -115.13910850000001
-  },
-  {
     "UniqueId": 52226,
     "Timestamp": "2026-08-03 05:49",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735093/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 52328,
+    "Timestamp": "2026-08-04 05:45",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Carey Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:45 AM, Aug 04 2026 Crash on NB Lamb Blvd\u00A0at Carey Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735128/attachment_0.png",
+    "Latitude": 36.203106499999997,
+    "Longitude": -115.0801711
   }
 ]
