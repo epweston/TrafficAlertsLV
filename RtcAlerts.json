@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52268,
-    "Timestamp": "2026-08-03 16:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "",
-    "Notes": "4:31 PM, Aug 03 2026 Stalled vehicle on NB I-11\u00A0after Jones Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734827/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 52269,
     "Timestamp": "2026-08-03 16:59",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736259/attachment_0.png",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 52374,
+    "Timestamp": "2026-08-04 16:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:29 PM, Aug 04 2026 Crash on NB I-15\u00A0at Charleston Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736268/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
