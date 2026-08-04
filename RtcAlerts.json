@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52266,
-    "Timestamp": "2026-08-03 15:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd On Right",
-    "Impact": "",
-    "Notes": "3:15 PM, Aug 03 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734760/attachment_0.png",
-    "Latitude": 36.243957700000003,
-    "Longitude": -115.2422224
-  },
-  {
     "UniqueId": 52267,
     "Timestamp": "2026-08-03 16:19",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736209/attachment_0.png",
     "Latitude": 36.086320693233468,
     "Longitude": -115.20789380375679
+  },
+  {
+    "UniqueId": 52368,
+    "Timestamp": "2026-08-04 15:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Smoke Ranch Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:34 PM, Aug 04 2026 Crash on SB Rancho Dr\u00A0at Smoke Ranch Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736201/attachment_0.jpg",
+    "Latitude": 36.202855100000001,
+    "Longitude": -115.1989426
+  },
+  {
+    "UniqueId": 52369,
+    "Timestamp": "2026-08-04 15:36",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Coronado Center Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:36 PM, Aug 04 2026 Crash on NB Eastern Ave\u00A0after Coronado Center Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736227/attachment_0.jpg",
+    "Latitude": 36.002640800000002,
+    "Longitude": -115.1088749
   }
 ]
