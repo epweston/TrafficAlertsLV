@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52181,
-    "Timestamp": "2026-08-02 20:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Isabelle Ave (After I-11)",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:47 PM, Aug 02 2026 Crash on SB Eastern Ave\u00A0at Isabelle Ave (after I-11). Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733502/attachment_0.jpg",
-    "Latitude": 36.163097399999998,
-    "Longitude": -115.1159723
-  },
-  {
-    "UniqueId": 52182,
-    "Timestamp": "2026-08-02 20:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:49 PM, Aug 02 2026 Crash on SB Jones Blvd\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733523/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 52183,
     "Timestamp": "2026-08-02 20:54",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734901/attachment_0.png",
     "Latitude": 48.9952313,
     "Longitude": -111.95998659999999
+  },
+  {
+    "UniqueId": 52288,
+    "Timestamp": "2026-08-03 20:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:46 PM, Aug 03 2026 Stalled vehicle on SB Las Vegas Blvd\u00A0before Harmon Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734930/attachment_0.jpg",
+    "Latitude": 36.108816901628572,
+    "Longitude": -115.17299294471742
   }
 ]
