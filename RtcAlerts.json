@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52207,
-    "Timestamp": "2026-08-03 01:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "Intersection is blocked all directions.",
-    "Notes": "1:18 AM, Aug 03 2026 Crash on WB Sahara Ave\u00A0at Burnham Ave. Intersection is blocked all directions.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733561/attachment_0.png",
-    "Latitude": 36.1442403,
-    "Longitude": -115.12326520000001
-  },
-  {
-    "UniqueId": 52208,
-    "Timestamp": "2026-08-03 01:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are blocked from Warm Springs Rd to Eldorado Ln.",
-    "Notes": "1:19 AM, Aug 03 2026 Crash on SB Eastern Ave\u00A0after Warm Springs Rd. All lanes are blocked from Warm Springs Rd to Eldorado Ln.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733583/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 52209,
-    "Timestamp": "2026-08-03 01:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "All lanes are blocked From Duke Ellington to Koval Ln.",
-    "Notes": "1:20 AM, Aug 03 2026 Crash on EB Tropicana Ave\u00A0after Duke Ellington Way. All lanes are blocked From Duke Ellington to Koval Ln.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733584/attachment_0.jpg",
-    "Latitude": 36.100998199999999,
-    "Longitude": -115.16558000000001
-  },
-  {
-    "UniqueId": 52210,
-    "Timestamp": "2026-08-03 01:23",
-    "IncidentType": "Maintenance work",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Ramp is closed until 5am.",
-    "Notes": "1:23 AM, Aug 03 2026 Maintenance work on NB I-11\u00A0at Flamingo Rd on-ramp. Ramp is closed until 5am.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733586/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 52211,
     "Timestamp": "2026-08-03 01:53",
     "IncidentType": "Update Crash",
@@ -1244,5 +1188,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734964/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 52298,
+    "Timestamp": "2026-08-04 01:20",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Arville St",
+    "Relationship": "after",
+    "CrossStreet": "Pennwood Ave",
+    "Impact": "Intersection is blocked in all directions.",
+    "Notes": "1:20 AM, Aug 04 2026 Police activity on SB Arville St\u00A0after Pennwood Ave. Intersection is blocked in all directions.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734955/attachment_0.png",
+    "Latitude": 36.137295700000003,
+    "Longitude": -115.199491
+  },
+  {
+    "UniqueId": 52299,
+    "Timestamp": "2026-08-04 01:22",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder",
+    "Notes": "1:22 AM, Aug 04 2026 Police activity on SB I-15\u00A0after 215 Southern Beltway. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734957/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
