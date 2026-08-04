@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52241,
-    "Timestamp": "2026-08-03 08:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lanes blocked. Expect Delays",
-    "Notes": "8:10 AM, Aug 03 2026 Crash on SB I-15\u00A0after Charleston Blvd. Center lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733962/attachment_0.jpg",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 52242,
     "Timestamp": "2026-08-03 08:24",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735544/attachment_0.jpg",
     "Latitude": 36.083295454540455,
     "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 52339,
+    "Timestamp": "2026-08-04 08:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:11 AM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735560/attachment_0.jpg",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 52340,
+    "Timestamp": "2026-08-04 08:12",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "8:12 AM, Aug 04 2026 Crash on SB Eastern Ave\u00A0at Flamingo Rd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735563/attachment_0.jpg",
+    "Latitude": 36.114787399999997,
+    "Longitude": -115.1190742
   }
 ]
