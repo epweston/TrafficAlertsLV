@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52220,
-    "Timestamp": "2026-08-03 03:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "3:43 AM, Aug 03 2026 Crash on WB Sahara Ave\u00A0at Burnham Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.1442403,
-    "Longitude": -115.12326520000001
-  },
-  {
     "UniqueId": 52221,
     "Timestamp": "2026-08-03 04:23",
     "IncidentType": "Crash",
@@ -1286,5 +1272,33 @@
     "ImagePath": "",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 52314,
+    "Timestamp": "2026-08-04 03:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:43 AM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0after Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 52315,
+    "Timestamp": "2026-08-04 03:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:44 AM, Aug 04 2026 Crash on EB Cheyenne Ave\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.228234499999999,
+    "Longitude": -115.3060631
   }
 ]
