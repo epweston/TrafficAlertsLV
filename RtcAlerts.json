@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52170,
-    "Timestamp": "2026-08-02 18:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 PM, Aug 02 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733461/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
-    "UniqueId": 52171,
-    "Timestamp": "2026-08-02 18:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:24 PM, Aug 02 2026 Crash on SB I-15\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733480/attachment_0.png",
-    "Latitude": 35.963010799999999,
-    "Longitude": -115.17930800000001
-  },
-  {
     "UniqueId": 52172,
     "Timestamp": "2026-08-02 18:38",
     "IncidentType": "Police activity",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734908/attachment_0.jpg",
     "Latitude": 36.129981600000001,
     "Longitude": -115.20814
+  },
+  {
+    "UniqueId": 52278,
+    "Timestamp": "2026-08-03 18:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "6:20 PM, Aug 03 2026 Stalled vehicle on NB I-11\u00A0before Decatur Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734892/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
