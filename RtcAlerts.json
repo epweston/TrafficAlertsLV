@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52193,
-    "Timestamp": "2026-08-02 22:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Industrial Rd",
-    "Relationship": "at",
-    "CrossStreet": "Western Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:33 PM, Aug 02 2026 Crash on SB Industrial Rd\u00A0at Western Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733515/attachment_0.jpg",
-    "Latitude": 36.156884900000001,
-    "Longitude": -115.15914100000001
-  },
-  {
-    "UniqueId": 52194,
-    "Timestamp": "2026-08-02 22:36",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:36 PM, Aug 02 2026 Crash on SB Main St\u00A0at Bonanza Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733537/attachment_0.jpg",
-    "Latitude": 36.177111600000003,
-    "Longitude": -115.142758
-  },
-  {
-    "UniqueId": 52195,
-    "Timestamp": "2026-08-02 22:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd (Aka Palm St)",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:52 PM, Aug 02 2026 Crash on EB Charleston Blvd\u00A0after Pecos Rd (aka Palm St). Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733539/attachment_0.png",
-    "Latitude": 36.158758200000001,
-    "Longitude": -115.10104
-  },
-  {
-    "UniqueId": 52196,
-    "Timestamp": "2026-08-02 23:03",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:03 PM, Aug 02 2026 Police activity on NB I-11\u00A0before Horizon Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733518/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 52197,
     "Timestamp": "2026-08-02 23:14",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734946/attachment_0.png",
     "Latitude": 36.147898599999998,
     "Longitude": -115.13695629999999
+  },
+  {
+    "UniqueId": 52294,
+    "Timestamp": "2026-08-03 23:05",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Oakey Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:05 PM, Aug 03 2026 Crash on WB Oakey Blvd\u00A0after Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734948/attachment_0.png",
+    "Latitude": 36.151633799999999,
+    "Longitude": -115.19071289999999
   }
 ]
