@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52183,
-    "Timestamp": "2026-08-02 20:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Corporate Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:54 PM, Aug 02 2026 Stalled vehicle on SB Paradise Rd\u00A0before Corporate Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733524/attachment_0.png",
-    "Latitude": 36.118562400000002,
-    "Longitude": -115.1549283
-  },
-  {
-    "UniqueId": 52184,
-    "Timestamp": "2026-08-02 20:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are blocked from Warm Springs Rd to Eldorado Ln.",
-    "Notes": "8:55 PM, Aug 02 2026 Crash on SB Eastern Ave\u00A0after Warm Springs Rd. All lanes are blocked from Warm Springs Rd to Eldorado Ln.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733510/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 52185,
-    "Timestamp": "2026-08-02 21:01",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "All lanes are blocked from Duke Ellington to Koval Ln",
-    "Notes": "9:01 PM, Aug 02 2026 Crash on EB Tropicana Ave\u00A0after Duke Ellington Way. All lanes are blocked from Duke Ellington to Koval Ln",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733527/attachment_0.jpg",
-    "Latitude": 36.100998199999999,
-    "Longitude": -115.16558000000001
-  },
-  {
     "UniqueId": 52186,
     "Timestamp": "2026-08-02 21:22",
     "IncidentType": "Crash",
@@ -1440,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734930/attachment_0.jpg",
     "Latitude": 36.108816901628572,
     "Longitude": -115.17299294471742
+  },
+  {
+    "UniqueId": 52289,
+    "Timestamp": "2026-08-03 20:58",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "All lanes are open.",
+    "Notes": "8:58 PM, Aug 03 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.129981600000001,
+    "Longitude": -115.20814
   }
 ]
