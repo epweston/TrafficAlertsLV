@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52267,
-    "Timestamp": "2026-08-03 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "",
-    "Notes": "4:19 PM, Aug 03 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Durango Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734799/attachment_0.png",
-    "Latitude": 36.178497,
-    "Longitude": -115.2783268
-  },
-  {
     "UniqueId": 52268,
     "Timestamp": "2026-08-03 16:31",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736236/attachment_0.png",
     "Latitude": 36.093691200000002,
     "Longitude": -115.0521665
+  },
+  {
+    "UniqueId": 52371,
+    "Timestamp": "2026-08-04 16:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:17 PM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0to Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736243/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
