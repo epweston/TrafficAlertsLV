@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52217,
-    "Timestamp": "2026-08-03 03:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "All lanes are blocked.",
-    "Notes": "3:05 AM, Aug 03 2026 Crash on EB Tropicana Ave\u00A0after Duke Ellington Way. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.100998199999999,
-    "Longitude": -115.16558000000001
-  },
-  {
-    "UniqueId": 52218,
-    "Timestamp": "2026-08-03 03:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "3:05 AM, Aug 03 2026 Crash on WB Sahara Ave\u00A0at Burnham Ave. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.1442403,
-    "Longitude": -115.12326520000001
-  },
-  {
     "UniqueId": 52219,
     "Timestamp": "2026-08-03 03:15",
     "IncidentType": "Crash",
@@ -1188,5 +1160,19 @@
     "ImagePath": "",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 52304,
+    "Timestamp": "2026-08-04 03:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:02 AM, Aug 04 2026 Crash on EB Cheyenne Ave\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735021/attachment_0.jpg",
+    "Latitude": 36.228234499999999,
+    "Longitude": -115.3060631
   }
 ]
