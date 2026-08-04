@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52190,
-    "Timestamp": "2026-08-02 21:56",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "9:56 PM, Aug 02 2026 Police activity on EB 215 Southern Beltway\u00A0at Eastern Ave off-ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733532/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 52191,
-    "Timestamp": "2026-08-02 21:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:59 PM, Aug 02 2026 Stalled vehicle on WB Harmon Ave\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733533/attachment_0.png",
-    "Latitude": 36.10813214101082,
-    "Longitude": -115.18071234226228
-  },
-  {
-    "UniqueId": 52192,
-    "Timestamp": "2026-08-02 22:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are blocked from Warm Springs Rd to Eldorado Ln",
-    "Notes": "10:02 PM, Aug 02 2026 Crash on SB Eastern Ave\u00A0after Warm Springs Rd. All lanes are blocked from Warm Springs Rd to Eldorado Ln",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733535/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 52193,
     "Timestamp": "2026-08-02 22:33",
     "IncidentType": "Crash",
@@ -1384,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734933/attachment_0.png",
     "Latitude": 36.143967000000004,
     "Longitude": -115.2699695
+  },
+  {
+    "UniqueId": 52292,
+    "Timestamp": "2026-08-03 22:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:05 PM, Aug 03 2026 Crash on EB Sunset Rd\u00A0at 215 Western Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734944/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
