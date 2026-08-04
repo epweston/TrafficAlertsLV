@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52177,
-    "Timestamp": "2026-08-02 19:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Industrial Rd",
-    "Relationship": "at",
-    "CrossStreet": "Western Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:59 PM, Aug 02 2026 Crash on SB Industrial Rd\u00A0at Western Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733497/attachment_0.jpg",
-    "Latitude": 36.156884900000001,
-    "Longitude": -115.15914100000001
-  },
-  {
-    "UniqueId": 52178,
-    "Timestamp": "2026-08-02 20:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "All lanes are blocked from Duke Ellington to Koval Ln.",
-    "Notes": "8:25 PM, Aug 02 2026 Crash on EB Tropicana Ave\u00A0after Duke Ellington Way. All lanes are blocked from Duke Ellington to Koval Ln.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733498/attachment_0.jpg",
-    "Latitude": 36.100998199999999,
-    "Longitude": -115.16558000000001
-  },
-  {
-    "UniqueId": 52179,
-    "Timestamp": "2026-08-02 20:33",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "under",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder",
-    "Notes": "8:33 PM, Aug 02 2026 Police activity on NB Boulder Hwy\u00A0under I-11. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733506/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 52180,
-    "Timestamp": "2026-08-02 20:35",
-    "IncidentType": "Fire",
-    "Direction": "SB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:35 PM, Aug 02 2026 Fire on SB Maryland Pkwy\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733507/attachment_0.jpg",
-    "Latitude": 36.114655800000001,
-    "Longitude": -115.1379192
-  },
-  {
     "UniqueId": 52181,
     "Timestamp": "2026-08-02 20:47",
     "IncidentType": "Crash",
@@ -1496,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734897/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 52287,
+    "Timestamp": "2026-08-03 20:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder.",
+    "Notes": "8:40 PM, Aug 03 2026 Crash on NB I-15\u00A0to 215 Northern Beltway ramp. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734901/attachment_0.png",
+    "Latitude": 48.9952313,
+    "Longitude": -111.95998659999999
   }
 ]
