@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52197,
-    "Timestamp": "2026-08-02 23:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "11:14 PM, Aug 02 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733541/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 52198,
-    "Timestamp": "2026-08-02 23:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder",
-    "Notes": "11:16 PM, Aug 02 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733542/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 52199,
-    "Timestamp": "2026-08-02 23:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "11:22 PM, Aug 02 2026 Crash on NB I-15 \u00A0after Charleston Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/02/file_attachments/3733563/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 52200,
     "Timestamp": "2026-08-02 23:25",
     "IncidentType": "Crash",
@@ -1328,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734948/attachment_0.png",
     "Latitude": 36.151633799999999,
     "Longitude": -115.19071289999999
+  },
+  {
+    "UniqueId": 52295,
+    "Timestamp": "2026-08-03 23:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder.",
+    "Notes": "11:20 PM, Aug 03 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734939/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
