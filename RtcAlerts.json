@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52204,
-    "Timestamp": "2026-08-03 00:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:04 AM, Aug 03 2026 Crash on EB Spring Mountain Rd\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733551/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
-    "UniqueId": 52205,
-    "Timestamp": "2026-08-03 00:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder",
-    "Notes": "12:22 AM, Aug 03 2026 Stalled vehicle on SB I-15\u00A0before Tropicana Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3733555/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 52207,
     "Timestamp": "2026-08-03 01:18",
     "IncidentType": "Crash",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734950/attachment_0.png",
     "Latitude": 36.203433400000002,
     "Longitude": -115.1337766
+  },
+  {
+    "UniqueId": 52297,
+    "Timestamp": "2026-08-04 00:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "12:35 AM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0after Decatur Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3734964/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
