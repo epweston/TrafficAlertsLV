@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52265,
-    "Timestamp": "2026-08-03 15:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pueblo Vista Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "3:05 PM, Aug 03 2026 Crash on EB Lake Mead Blvd\u00A0at Pueblo Vista Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734755/attachment_0.png",
-    "Latitude": 36.196967200000003,
-    "Longitude": -115.2699633
-  },
-  {
     "UniqueId": 52266,
     "Timestamp": "2026-08-03 15:15",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736206/attachment_0.jpg",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 52367,
+    "Timestamp": "2026-08-04 15:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:07 PM, Aug 04 2026 Crash on SB Decatur Blvd\u00A0after Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736209/attachment_0.png",
+    "Latitude": 36.086320693233468,
+    "Longitude": -115.20789380375679
   }
 ]
