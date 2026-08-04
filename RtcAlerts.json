@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52259,
-    "Timestamp": "2026-08-03 14:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:16 PM, Aug 03 2026 Crash on WB Sunset Rd\u00A0before Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734725/attachment_0.jpg",
-    "Latitude": 36.071648699999997,
-    "Longitude": -115.14116249999999
-  },
-  {
-    "UniqueId": 52260,
-    "Timestamp": "2026-08-03 14:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:24 PM, Aug 03 2026 Crash on WB Charleston Blvd\u00A0before Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734719/attachment_0.jpg",
-    "Latitude": 36.158766900000003,
-    "Longitude": -115.1474163
-  },
-  {
     "UniqueId": 52261,
     "Timestamp": "2026-08-03 14:33",
     "IncidentType": "Crash",
@@ -1412,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736117/attachment_0.jpg",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 52361,
+    "Timestamp": "2026-08-04 14:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "2:19 PM, Aug 04 2026 Crash on SB I-15\u00A0before Sahara Ave. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736144/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 52362,
+    "Timestamp": "2026-08-04 14:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:22 PM, Aug 04 2026 Stalled vehicle on NB I-15 \u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736149/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
