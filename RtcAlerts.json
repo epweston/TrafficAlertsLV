@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52219,
-    "Timestamp": "2026-08-03 03:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:15 AM, Aug 03 2026 Crash on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 52220,
     "Timestamp": "2026-08-03 03:43",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 52307,
+    "Timestamp": "2026-08-04 03:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Moapa Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:14 AM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0after Moapa Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.045907399999997,
+    "Longitude": -115.07242720000001
   }
 ]
