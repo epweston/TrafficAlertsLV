@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52290,
-    "Timestamp": "2026-08-03 21:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Cimarron Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "9:35 PM, Aug 03 2026 Crash on SB Cimarron Rd\u00A0at Sahara Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734931/attachment_0.png",
-    "Latitude": 36.143967000000004,
-    "Longitude": -115.2699695
-  },
-  {
-    "UniqueId": 52291,
-    "Timestamp": "2026-08-03 21:48",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Cimarron Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:48 PM, Aug 03 2026 Update Crash on SB Cimarron Rd\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734933/attachment_0.png",
-    "Latitude": 36.143967000000004,
-    "Longitude": -115.2699695
-  },
-  {
-    "UniqueId": 52292,
-    "Timestamp": "2026-08-03 22:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:05 PM, Aug 03 2026 Crash on EB Sunset Rd\u00A0at 215 Western Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734944/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
-    "UniqueId": 52293,
-    "Timestamp": "2026-08-03 22:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "St Louis Ave",
-    "Relationship": "before",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:13 PM, Aug 03 2026 Crash on EB St Louis Ave\u00A0before Maryland Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734946/attachment_0.png",
-    "Latitude": 36.147898599999998,
-    "Longitude": -115.13695629999999
-  },
-  {
     "UniqueId": 52294,
     "Timestamp": "2026-08-03 23:05",
     "IncidentType": "Crash",
@@ -1524,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736371/attachment_0.png",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 52400,
+    "Timestamp": "2026-08-04 22:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:28 PM, Aug 04 2026 Crash on EB Warm Springs Rd\u00A0at 215 Southern Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736390/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
