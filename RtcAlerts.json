@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52335,
-    "Timestamp": "2026-08-04 07:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "7:55 AM, Aug 04 2026 Crash on SB Buffalo Dr\u00A0at Lake Mead Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735524/attachment_0.jpg",
-    "Latitude": 36.196118272847883,
-    "Longitude": -115.26036856461288
-  },
-  {
-    "UniqueId": 52336,
-    "Timestamp": "2026-08-04 07:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:58 AM, Aug 04 2026 Crash on NB I-15\u00A0at Russell Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735549/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 52337,
     "Timestamp": "2026-08-04 08:05",
     "IncidentType": "Crash",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736788/attachment_0.png",
     "Latitude": 36.020455227926654,
     "Longitude": -115.29789270648386
+  },
+  {
+    "UniqueId": 52428,
+    "Timestamp": "2026-08-05 07:55",
+    "IncidentType": "Other",
+    "Direction": "NB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "at",
+    "CrossStreet": "Jerry Lewis Way",
+    "Impact": "Right lane blocked by trailer.",
+    "Notes": "7:55 AM, Aug 05 2026 Other on NB Dean Martin Dr\u00A0at Jerry Lewis Way. Right lane blocked by trailer.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736803/attachment_0.png",
+    "Latitude": 36.108882199999996,
+    "Longitude": -115.1812333
   }
 ]
