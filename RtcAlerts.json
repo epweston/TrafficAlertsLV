@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52368,
-    "Timestamp": "2026-08-04 15:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Smoke Ranch Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:34 PM, Aug 04 2026 Crash on SB Rancho Dr\u00A0at Smoke Ranch Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736201/attachment_0.jpg",
-    "Latitude": 36.202855100000001,
-    "Longitude": -115.1989426
-  },
-  {
     "UniqueId": 52369,
     "Timestamp": "2026-08-04 15:36",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737662/attachment_0.png",
     "Latitude": 36.129609100000003,
     "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 52473,
+    "Timestamp": "2026-08-05 15:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:34 PM, Aug 05 2026 Crash on SB I-15\u00A0after Tropicana Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737711/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
