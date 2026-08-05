@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52270,
-    "Timestamp": "2026-08-03 17:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:12 PM, Aug 03 2026 Crash on NB I-15\u00A0at Lake Mead Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734851/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 52271,
-    "Timestamp": "2026-08-03 17:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd North",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:28 PM, Aug 03 2026 Crash on SB I-11\u00A0after Las Vegas Blvd North. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.169411699999998,
-    "Longitude": -115.140727
-  },
-  {
     "UniqueId": 52272,
     "Timestamp": "2026-08-03 17:39",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736285/attachment_0.png",
     "Latitude": 36.158593400000001,
     "Longitude": -115.15435890000001
+  },
+  {
+    "UniqueId": 52379,
+    "Timestamp": "2026-08-04 17:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:31 PM, Aug 04 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Pecos Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736313/attachment_0.png",
+    "Latitude": 36.1729938,
+    "Longitude": -115.098178
   }
 ]
