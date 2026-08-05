@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52339,
-    "Timestamp": "2026-08-04 08:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:11 AM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735560/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 52340,
-    "Timestamp": "2026-08-04 08:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "8:12 AM, Aug 04 2026 Crash on SB Eastern Ave\u00A0at Flamingo Rd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735563/attachment_0.jpg",
-    "Latitude": 36.114787399999997,
-    "Longitude": -115.1190742
-  },
-  {
-    "UniqueId": 52341,
-    "Timestamp": "2026-08-04 08:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:13 AM, Aug 04 2026 Stalled vehicle on WB Lake Mead Pkwy\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735571/attachment_0.jpg",
-    "Latitude": 36.039436100000003,
-    "Longitude": -114.982083
-  },
-  {
     "UniqueId": 52342,
     "Timestamp": "2026-08-04 08:18",
     "IncidentType": "Crash",
@@ -1258,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736833/attachment_0.png",
     "Latitude": 36.083295454540455,
     "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 52432,
+    "Timestamp": "2026-08-05 08:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:13 AM, Aug 05 2026 Crash on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736817/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
