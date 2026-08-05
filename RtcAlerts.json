@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52365,
-    "Timestamp": "2026-08-04 14:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Teddy Dr",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "2:55 PM, Aug 04 2026 Crash on EB Sahara Ave\u00A0before Teddy Dr. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736188/attachment_0.png",
-    "Latitude": 36.1444221,
-    "Longitude": -115.1776291
-  },
-  {
     "UniqueId": 52366,
     "Timestamp": "2026-08-04 14:59",
     "IncidentType": "Crash",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737623/attachment_0.jpg",
     "Latitude": 36.1517409,
     "Longitude": -115.1998155
+  },
+  {
+    "UniqueId": 52467,
+    "Timestamp": "2026-08-05 14:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lanes blocked. Expect Delays",
+    "Notes": "2:54 PM, Aug 05 2026 Crash on SB I-11\u00A0before Charleston Blvd. Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737630/attachment_0.jpg",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 52468,
+    "Timestamp": "2026-08-05 14:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:56 PM, Aug 05 2026 Stalled vehicle on NB I-11\u00A0after Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737649/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
