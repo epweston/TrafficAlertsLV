@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52334,
-    "Timestamp": "2026-08-04 07:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:45 AM, Aug 04 2026 Crash on EB Blue Diamond Rd\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735502/attachment_0.png",
-    "Latitude": 36.032730099999988,
-    "Longitude": -115.2077869
-  },
-  {
     "UniqueId": 52335,
     "Timestamp": "2026-08-04 07:55",
     "IncidentType": "Crash",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736768/attachment_0.png",
     "Latitude": 36.100036091395793,
     "Longitude": -115.10098681541832
+  },
+  {
+    "UniqueId": 52427,
+    "Timestamp": "2026-08-05 07:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:46 AM, Aug 05 2026 Stalled vehicle on EB Blue Diamond Rd\u00A0at Fort Apache Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736788/attachment_0.png",
+    "Latitude": 36.020455227926654,
+    "Longitude": -115.29789270648386
   }
 ]
