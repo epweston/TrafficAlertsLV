@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52277,
-    "Timestamp": "2026-08-03 18:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "All lanes are blocked between Warnock Rd and Decatur Blvd",
-    "Notes": "6:14 PM, Aug 03 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. All lanes are blocked between Warnock Rd and Decatur Blvd",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734908/attachment_0.jpg",
-    "Latitude": 36.129981600000001,
-    "Longitude": -115.20814
-  },
-  {
-    "UniqueId": 52278,
-    "Timestamp": "2026-08-03 18:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "6:20 PM, Aug 03 2026 Stalled vehicle on NB I-11\u00A0before Decatur Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734892/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 52279,
     "Timestamp": "2026-08-03 18:54",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736331/attachment_0.png",
     "Latitude": 36.217682794356257,
     "Longitude": -115.08932948112489
+  },
+  {
+    "UniqueId": 52389,
+    "Timestamp": "2026-08-04 18:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:16 PM, Aug 04 2026 Crash on NB I-11\u00A0at Galleria Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736350/attachment_0.png",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
