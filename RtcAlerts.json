@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52325,
-    "Timestamp": "2026-08-04 05:02",
-    "IncidentType": "Damage",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Traffic signal not working. Expect Delays",
-    "Notes": "5:02 AM, Aug 04 2026 Damage on SB I-15\u00A0at Starr Ave. Traffic signal not working. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 52326,
     "Timestamp": "2026-08-04 05:21",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736461/attachment_0.png",
     "Latitude": 36.302483700000003,
     "Longitude": -115.2906972
+  },
+  {
+    "UniqueId": 52403,
+    "Timestamp": "2026-08-05 05:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:18 AM, Aug 05 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736487/attachment_0.jpg",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
