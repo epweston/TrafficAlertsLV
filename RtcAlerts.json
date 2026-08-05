@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52330,
-    "Timestamp": "2026-08-04 06:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:26 AM, Aug 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735167/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
     "UniqueId": 52331,
     "Timestamp": "2026-08-04 06:35",
     "IncidentType": "Vehicle on fire",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736572/attachment_0.png",
     "Latitude": 36.291693742081051,
     "Longitude": -115.2797598374233
+  },
+  {
+    "UniqueId": 52415,
+    "Timestamp": "2026-08-05 06:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:26 AM, Aug 05 2026 Crash on NB Nellis Blvd\u00A0before Sahara Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736580/attachment_0.png",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
   }
 ]
