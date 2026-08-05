@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52332,
-    "Timestamp": "2026-08-04 07:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:33 AM, Aug 04 2026 Crash on SB I-11\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 52333,
     "Timestamp": "2026-08-04 07:40",
     "IncidentType": "Crash",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736682/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 52425,
+    "Timestamp": "2026-08-05 07:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:27 AM, Aug 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736692/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
