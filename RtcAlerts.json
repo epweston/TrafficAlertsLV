@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52287,
-    "Timestamp": "2026-08-03 20:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder.",
-    "Notes": "8:40 PM, Aug 03 2026 Crash on NB I-15\u00A0to 215 Northern Beltway ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734901/attachment_0.png",
-    "Latitude": 48.9952313,
-    "Longitude": -111.95998659999999
-  },
-  {
-    "UniqueId": 52288,
-    "Timestamp": "2026-08-03 20:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:46 PM, Aug 03 2026 Stalled vehicle on SB Las Vegas Blvd\u00A0before Harmon Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734930/attachment_0.jpg",
-    "Latitude": 36.108816901628572,
-    "Longitude": -115.17299294471742
-  },
-  {
-    "UniqueId": 52289,
-    "Timestamp": "2026-08-03 20:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "All lanes are open.",
-    "Notes": "8:58 PM, Aug 03 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.129981600000001,
-    "Longitude": -115.20814
-  },
-  {
     "UniqueId": 52290,
     "Timestamp": "2026-08-03 21:35",
     "IncidentType": "Crash",
@@ -1538,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736387/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 52398,
+    "Timestamp": "2026-08-04 21:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:04 PM, Aug 04 2026 Stalled vehicle on NB Nellis Blvd\u00A0at Flamingo Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736370/attachment_0.png",
+    "Latitude": 36.114949000000003,
+    "Longitude": -115.06476549999999
+  },
+  {
+    "UniqueId": 52399,
+    "Timestamp": "2026-08-04 21:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:07 PM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0at Starr Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736371/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
   }
 ]
