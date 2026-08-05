@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52369,
-    "Timestamp": "2026-08-04 15:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Coronado Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:36 PM, Aug 04 2026 Crash on NB Eastern Ave\u00A0after Coronado Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736227/attachment_0.jpg",
-    "Latitude": 36.002640800000002,
-    "Longitude": -115.1088749
-  },
-  {
     "UniqueId": 52370,
     "Timestamp": "2026-08-04 15:59",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737711/attachment_0.jpg",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 52474,
+    "Timestamp": "2026-08-05 15:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:36 PM, Aug 05 2026 Crash on SB Eastern Ave\u00A0before Warm Springs Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737712/attachment_0.png",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
   }
 ]
