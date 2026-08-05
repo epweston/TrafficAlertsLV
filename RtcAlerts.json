@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52344,
-    "Timestamp": "2026-08-04 08:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:31 AM, Aug 04 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735606/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 52345,
-    "Timestamp": "2026-08-04 08:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Whitney Ranch Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:31 AM, Aug 04 2026 Crash on EB Sunset Rd\u00A0at Whitney Ranch Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735627/attachment_0.jpg",
-    "Latitude": 36.063765600000004,
-    "Longitude": -115.05256850000001
-  },
-  {
-    "UniqueId": 52346,
-    "Timestamp": "2026-08-04 08:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sandhill Rd",
-    "Relationship": "at",
-    "CrossStreet": "Post Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:34 AM, Aug 04 2026 Crash on SB Sandhill Rd\u00A0at Post Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735611/attachment_0.png",
-    "Latitude": 36.074960799999999,
-    "Longitude": -115.0916752
-  },
-  {
     "UniqueId": 52347,
     "Timestamp": "2026-08-04 09:33",
     "IncidentType": "Crash",
@@ -1216,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736840/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 52434,
+    "Timestamp": "2026-08-05 08:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Sky Pointe Dr",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:33 AM, Aug 05 2026 Crash on NB Sky Pointe Dr\u00A0at 215 Northern Beltway. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736869/attachment_0.jpg",
+    "Latitude": 36.279313100000003,
+    "Longitude": -115.2648477
   }
 ]
