@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52337,
-    "Timestamp": "2026-08-04 08:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "8:05 AM, Aug 04 2026 Crash on EB Washington Ave\u00A0at Martin L King Blvd. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735555/attachment_0.jpg",
-    "Latitude": 36.180812699999997,
-    "Longitude": -115.1607751
-  },
-  {
-    "UniqueId": 52338,
-    "Timestamp": "2026-08-04 08:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:06 AM, Aug 04 2026 Crash on NB I-15\u00A0at Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735544/attachment_0.jpg",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 52339,
     "Timestamp": "2026-08-04 08:11",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736810/attachment_0.png",
     "Latitude": 36.195698330673721,
     "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 52430,
+    "Timestamp": "2026-08-05 08:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 92",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:04 AM, Aug 05 2026 Stalled vehicle on SB I-15\u00A0at Mile 92. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736816/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 52431,
+    "Timestamp": "2026-08-05 08:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "8:06 AM, Aug 05 2026 Crash on NB I-15\u00A0before Russell Rd. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736833/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
