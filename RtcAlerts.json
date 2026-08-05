@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52279,
-    "Timestamp": "2026-08-03 18:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Sb I-11",
-    "Impact": "Multiple directions blocked.",
-    "Notes": "6:54 PM, Aug 03 2026 Crash on WB Cheyenne Ave\u00A0at SB I-11 ramp. Multiple directions blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734912/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 52280,
     "Timestamp": "2026-08-03 19:09",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736354/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 52392,
+    "Timestamp": "2026-08-04 18:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:54 PM, Aug 04 2026 Crash on NB I-15\u00A0at Tropicana Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736355/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
