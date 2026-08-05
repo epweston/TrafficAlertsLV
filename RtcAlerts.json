@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52276,
-    "Timestamp": "2026-08-03 18:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:06 PM, Aug 03 2026 Crash on SB I-11\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734905/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 52277,
     "Timestamp": "2026-08-03 18:14",
     "IncidentType": "Crash",
@@ -1496,5 +1482,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736323/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 52385,
+    "Timestamp": "2026-08-04 18:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "",
+    "Notes": "6:03 PM, Aug 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before St Rose Pkwy on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736324/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 52386,
+    "Timestamp": "2026-08-04 18:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:04 PM, Aug 04 2026 Stalled vehicle on SB I-15 Collector Distributor \u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736325/attachment_0.png",
+    "Latitude": 36.078835617458502,
+    "Longitude": -115.18136633150022
+  },
+  {
+    "UniqueId": 52387,
+    "Timestamp": "2026-08-04 18:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:06 PM, Aug 04 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736328/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 52388,
+    "Timestamp": "2026-08-04 18:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Walnut Rd",
+    "Impact": "All lanes are blocked. Use other routes.",
+    "Notes": "6:06 PM, Aug 04 2026 Crash on EB Cheyenne Ave\u00A0at Walnut Rd. All lanes are blocked. Use other routes.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736331/attachment_0.png",
+    "Latitude": 36.217682794356257,
+    "Longitude": -115.08932948112489
   }
 ]
