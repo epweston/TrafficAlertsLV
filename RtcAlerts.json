@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52371,
-    "Timestamp": "2026-08-04 16:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:17 PM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0to Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736243/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 52372,
-    "Timestamp": "2026-08-04 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:19 PM, Aug 04 2026 Stalled vehicle on WB Spring Mountain Rd\u00A0to I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736245/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
     "UniqueId": 52373,
     "Timestamp": "2026-08-04 16:25",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737746/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 52478,
+    "Timestamp": "2026-08-05 16:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:20 PM, Aug 05 2026 Crash on SB I-15\u00A0at Silverado Ranch Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737734/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
