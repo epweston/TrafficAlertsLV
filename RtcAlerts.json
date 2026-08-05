@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52331,
-    "Timestamp": "2026-08-04 06:35",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:35 AM, Aug 04 2026 Vehicle on fire on NB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735178/attachment_0.jpg",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
     "UniqueId": 52332,
     "Timestamp": "2026-08-04 07:33",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736580/attachment_0.png",
     "Latitude": 36.144246600000002,
     "Longitude": -115.0655266
+  },
+  {
+    "UniqueId": 52416,
+    "Timestamp": "2026-08-05 06:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:39 AM, Aug 05 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736592/attachment_0.jpg",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
