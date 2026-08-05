@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52273,
-    "Timestamp": "2026-08-03 17:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:44 PM, Aug 03 2026 Crash on SB I-11\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734879/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 52274,
     "Timestamp": "2026-08-03 17:55",
     "IncidentType": "Crash",
@@ -1496,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736300/attachment_0.jpg",
     "Latitude": 36.144511529274723,
     "Longitude": -115.2082051186522
+  },
+  {
+    "UniqueId": 52382,
+    "Timestamp": "2026-08-04 17:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:42 PM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736301/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 52383,
+    "Timestamp": "2026-08-04 17:44",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Fogg St",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:44 PM, Aug 04 2026 Crash on WB Charleston Blvd\u00A0at Fogg St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736319/attachment_0.png",
+    "Latitude": 36.159538099999999,
+    "Longitude": -115.03541319999999
   }
 ]
