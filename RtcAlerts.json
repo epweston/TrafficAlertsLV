@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52342,
-    "Timestamp": "2026-08-04 08:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "28Th St",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:18 AM, Aug 04 2026 Crash on EB Charleston Blvd\u00A0at 28th St. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735589/attachment_0.jpg",
-    "Latitude": 36.158903000000002,
-    "Longitude": -115.1115374
-  },
-  {
-    "UniqueId": 52343,
-    "Timestamp": "2026-08-04 08:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:21 AM, Aug 04 2026 Crash on SB I-11\u00A0at Rainbow Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735573/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 52344,
     "Timestamp": "2026-08-04 08:31",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736817/attachment_0.jpg",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 52433,
+    "Timestamp": "2026-08-05 08:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:20 AM, Aug 05 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736840/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
