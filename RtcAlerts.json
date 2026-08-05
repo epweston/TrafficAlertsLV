@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52355,
-    "Timestamp": "2026-08-04 12:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Patrick Ln",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:25 PM, Aug 04 2026 Crash on SB Eastern Ave\u00A0at Patrick Ln. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736012/attachment_0.png",
-    "Latitude": 36.0789087,
-    "Longitude": -115.1186912
-  },
-  {
-    "UniqueId": 52356,
-    "Timestamp": "2026-08-04 12:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:28 PM, Aug 04 2026 Crash on EB Craig Rd\u00A0after Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3735983/attachment_0.jpg",
-    "Latitude": 36.240516800000002,
-    "Longitude": -115.0799215
-  },
-  {
-    "UniqueId": 52357,
-    "Timestamp": "2026-08-04 12:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15 offramp",
-    "Relationship": "to",
-    "CrossStreet": "D St",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:53 PM, Aug 04 2026 Crash on NB I-15 offramp to D St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736035/attachment_0.png",
-    "Latitude": 36.185989499999998,
-    "Longitude": -115.14714119999999
-  },
-  {
-    "UniqueId": 52358,
-    "Timestamp": "2026-08-04 13:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:01 PM, Aug 04 2026 Stalled vehicle on NB I-11\u00A0before Lake Mead Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736051/attachment_0.png",
-    "Latitude": 36.036819999999999,
-    "Longitude": -114.986047
-  },
-  {
     "UniqueId": 52359,
     "Timestamp": "2026-08-04 13:27",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737267/attachment_0.png",
     "Latitude": 36.126599400000003,
     "Longitude": -115.19028729999999
+  },
+  {
+    "UniqueId": 52454,
+    "Timestamp": "2026-08-05 13:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:23 PM, Aug 05 2026 Crash on SB Las Vegas Blvd\u00A0at Tropicana Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737387/attachment_0.jpg",
+    "Latitude": 36.1009429,
+    "Longitude": -115.17281850000001
   }
 ]
