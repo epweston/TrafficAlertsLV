@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52359,
-    "Timestamp": "2026-08-04 13:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:27 PM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736095/attachment_0.jpg",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 52360,
     "Timestamp": "2026-08-04 14:01",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737387/attachment_0.jpg",
     "Latitude": 36.1009429,
     "Longitude": -115.17281850000001
+  },
+  {
+    "UniqueId": 52455,
+    "Timestamp": "2026-08-05 13:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:27 PM, Aug 05 2026 Crash on SB I-15\u00A0after Sahara Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737362/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
