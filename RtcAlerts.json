@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52281,
-    "Timestamp": "2026-08-03 19:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:23 PM, Aug 03 2026 Stalled vehicle on WB Harmon Ave\u00A0before Paradise Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/03/file_attachments/3734920/attachment_0.jpg",
-    "Latitude": 36.108041800000002,
-    "Longitude": -115.15202669999999
-  },
-  {
     "UniqueId": 52282,
     "Timestamp": "2026-08-03 19:33",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736360/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 52395,
+    "Timestamp": "2026-08-04 19:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:23 PM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0before Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736345/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
