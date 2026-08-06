@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52475,
-    "Timestamp": "2026-08-05 15:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:52 PM, Aug 05 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737718/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 52476,
     "Timestamp": "2026-08-05 16:04",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738980/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 52570,
+    "Timestamp": "2026-08-06 15:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:59 PM, Aug 06 2026 Crash on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738990/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
