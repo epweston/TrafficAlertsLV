@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52400,
-    "Timestamp": "2026-08-04 22:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:28 PM, Aug 04 2026 Crash on EB Warm Springs Rd\u00A0at 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736390/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
     "UniqueId": 52401,
     "Timestamp": "2026-08-05 03:24",
     "IncidentType": "Police activity",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737840/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 52505,
+    "Timestamp": "2026-08-05 22:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:31 PM, Aug 05 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737842/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
