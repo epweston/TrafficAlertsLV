@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52448,
-    "Timestamp": "2026-08-05 11:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:10 AM, Aug 05 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737150/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 52449,
-    "Timestamp": "2026-08-05 11:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "11:10 AM, Aug 05 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Lone Mountain Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737149/attachment_0.png",
-    "Latitude": 36.248089800000002,
-    "Longitude": -115.2702895
-  },
-  {
     "UniqueId": 52450,
     "Timestamp": "2026-08-05 11:23",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738574/attachment_0.jpg",
     "Latitude": 36.144140299999997,
     "Longitude": -115.2253748
+  },
+  {
+    "UniqueId": 52549,
+    "Timestamp": "2026-08-06 11:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left turn lane blocked.",
+    "Notes": "11:16 AM, Aug 06 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. Left turn lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
+  },
+  {
+    "UniqueId": 52550,
+    "Timestamp": "2026-08-06 11:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left turn lane blocked.",
+    "Notes": "11:16 AM, Aug 06 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. Left turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738603/attachment_0.jpg",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
   }
 ]
