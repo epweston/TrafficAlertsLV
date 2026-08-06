@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52395,
-    "Timestamp": "2026-08-04 19:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:23 PM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0before Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736345/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 52396,
     "Timestamp": "2026-08-04 20:12",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737836/attachment_0.png",
     "Latitude": 35.998693000000003,
     "Longitude": -115.22560590000001
+  },
+  {
+    "UniqueId": 52498,
+    "Timestamp": "2026-08-05 19:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:24 PM, Aug 05 2026 Stalled vehicle on SB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737817/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
