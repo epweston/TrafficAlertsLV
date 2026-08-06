@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52380,
-    "Timestamp": "2026-08-04 17:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:34 PM, Aug 04 2026 Crash on NB Las Vegas Blvd\u00A0after Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736315/attachment_0.png",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
-    "UniqueId": 52381,
-    "Timestamp": "2026-08-04 17:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:41 PM, Aug 04 2026 Crash on SB Decatur Blvd\u00A0after Sahara Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736300/attachment_0.jpg",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
-    "UniqueId": 52382,
-    "Timestamp": "2026-08-04 17:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:42 PM, Aug 04 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736301/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 52383,
-    "Timestamp": "2026-08-04 17:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fogg St",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:44 PM, Aug 04 2026 Crash on WB Charleston Blvd\u00A0at Fogg St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736319/attachment_0.png",
-    "Latitude": 36.159538099999999,
-    "Longitude": -115.03541319999999
-  },
-  {
     "UniqueId": 52384,
     "Timestamp": "2026-08-04 18:02",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737789/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 52487,
+    "Timestamp": "2026-08-05 17:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:42 PM, Aug 05 2026 Crash on NB I-11\u00A0at Rancho Dr. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737776/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
