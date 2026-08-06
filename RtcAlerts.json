@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52467,
-    "Timestamp": "2026-08-05 14:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lanes blocked. Expect Delays",
-    "Notes": "2:54 PM, Aug 05 2026 Crash on SB I-11\u00A0before Charleston Blvd. Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737630/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 52468,
-    "Timestamp": "2026-08-05 14:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:56 PM, Aug 05 2026 Stalled vehicle on NB I-11\u00A0after Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737649/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 52469,
     "Timestamp": "2026-08-05 15:07",
     "IncidentType": "Crash",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738925/attachment_0.png",
     "Latitude": 36.173663860844933,
     "Longitude": -115.13790452024138
+  },
+  {
+    "UniqueId": 52564,
+    "Timestamp": "2026-08-06 14:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:59 PM, Aug 06 2026 Crash on NB I-11\u00A0at Cheyenne Ave on ramp. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738949/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
