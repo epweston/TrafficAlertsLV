@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52480,
-    "Timestamp": "2026-08-05 16:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:46 PM, Aug 05 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737744/attachment_0.png",
-    "Latitude": 36.218358799999997,
-    "Longitude": -115.2659426
-  },
-  {
     "UniqueId": 52481,
     "Timestamp": "2026-08-05 17:04",
     "IncidentType": "Crash",
@@ -1328,5 +1314,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739020/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 52577,
+    "Timestamp": "2026-08-06 16:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "",
+    "Notes": "4:43 PM, Aug 06 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739022/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 52578,
+    "Timestamp": "2026-08-06 16:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Industrial Rd",
+    "Relationship": "before",
+    "CrossStreet": "Wyoming Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:44 PM, Aug 06 2026 Crash on SB Industrial Rd\u00A0before Wyoming Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739026/attachment_0.jpg",
+    "Latitude": 36.152466199999999,
+    "Longitude": -115.1592205
+  },
+  {
+    "UniqueId": 52579,
+    "Timestamp": "2026-08-06 16:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Gilespie St",
+    "Impact": "",
+    "Notes": "4:46 PM, Aug 06 2026 Stalled vehicle on EB Saint Rose Pkwy\u00A0before Gilespie St on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739025/attachment_0.png",
+    "Latitude": 35.972678700000003,
+    "Longitude": -115.1626571
   }
 ]
