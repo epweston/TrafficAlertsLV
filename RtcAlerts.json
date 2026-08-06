@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52478,
-    "Timestamp": "2026-08-05 16:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:20 PM, Aug 05 2026 Crash on SB I-15\u00A0at Silverado Ranch Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737734/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 52479,
     "Timestamp": "2026-08-05 16:37",
     "IncidentType": "Crash",
@@ -1286,5 +1272,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738998/attachment_0.png",
     "Latitude": 36.122174000000001,
     "Longitude": -115.1858707
+  },
+  {
+    "UniqueId": 52572,
+    "Timestamp": "2026-08-06 16:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 70",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:23 PM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0at Mile 70. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739000/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 52573,
+    "Timestamp": "2026-08-06 16:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:24 PM, Aug 06 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739013/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 52574,
+    "Timestamp": "2026-08-06 16:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile Marker 9",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:25 PM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0at Mile Marker 9. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739014/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
