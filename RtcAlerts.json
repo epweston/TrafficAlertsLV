@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52415,
-    "Timestamp": "2026-08-05 06:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:26 AM, Aug 05 2026 Crash on NB Nellis Blvd\u00A0before Sahara Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736580/attachment_0.png",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
     "UniqueId": 52416,
     "Timestamp": "2026-08-05 06:39",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738032/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 52520,
+    "Timestamp": "2026-08-06 06:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd North",
+    "Relationship": "at",
+    "CrossStreet": "Range Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:23 AM, Aug 06 2026 Crash on SB Las Vegas Blvd North\u00A0at Range Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738036/attachment_0.png",
+    "Latitude": 36.246219400000001,
+    "Longitude": -115.0445976
   }
 ]
