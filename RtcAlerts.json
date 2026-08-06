@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52442,
-    "Timestamp": "2026-08-05 09:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "San Jose Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:26 AM, Aug 05 2026 Crash on WB Sahara Ave\u00A0at San Jose Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736923/attachment_0.png",
-    "Latitude": 36.144390700000002,
-    "Longitude": -115.1206028
-  },
-  {
     "UniqueId": 52443,
     "Timestamp": "2026-08-05 09:46",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738340/attachment_0.jpg",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 52538,
+    "Timestamp": "2026-08-06 09:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:24 AM, Aug 06 2026 Crash on SB I-11\u00A0before Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738365/attachment_0.jpg",
+    "Latitude": 36.195698330673721,
+    "Longitude": -115.13873577117921
   }
 ]
