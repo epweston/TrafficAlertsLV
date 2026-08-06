@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52379,
-    "Timestamp": "2026-08-04 17:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:31 PM, Aug 04 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Pecos Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736313/attachment_0.png",
-    "Latitude": 36.1729938,
-    "Longitude": -115.098178
-  },
-  {
     "UniqueId": 52380,
     "Timestamp": "2026-08-04 17:34",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737786/attachment_0.png",
     "Latitude": 36.114414900000007,
     "Longitude": -115.174031
+  },
+  {
+    "UniqueId": 52485,
+    "Timestamp": "2026-08-05 17:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:26 PM, Aug 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737789/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
