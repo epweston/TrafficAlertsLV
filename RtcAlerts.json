@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52453,
-    "Timestamp": "2026-08-05 12:20",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:20 PM, Aug 05 2026 Crash on WB Spring Mountain Rd\u00A0before Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737267/attachment_0.png",
-    "Latitude": 36.126599400000003,
-    "Longitude": -115.19028729999999
-  },
-  {
-    "UniqueId": 52454,
-    "Timestamp": "2026-08-05 13:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:23 PM, Aug 05 2026 Crash on SB Las Vegas Blvd\u00A0at Tropicana Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737387/attachment_0.jpg",
-    "Latitude": 36.1009429,
-    "Longitude": -115.17281850000001
-  },
-  {
-    "UniqueId": 52455,
-    "Timestamp": "2026-08-05 13:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:27 PM, Aug 05 2026 Crash on SB I-15\u00A0after Sahara Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737362/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 52456,
-    "Timestamp": "2026-08-05 13:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Ft Apache Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:28 PM, Aug 05 2026 Crash on WB Sahara Ave\u00A0after Ft Apache Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737406/attachment_0.png",
-    "Latitude": 36.144507300000001,
-    "Longitude": -115.29779379999999
-  },
-  {
     "UniqueId": 52457,
     "Timestamp": "2026-08-05 13:37",
     "IncidentType": "Crash",
@@ -1398,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738711/attachment_0.png",
     "Latitude": 36.1079145,
     "Longitude": -115.1728291
+  },
+  {
+    "UniqueId": 52555,
+    "Timestamp": "2026-08-06 13:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cameron St",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:22 PM, Aug 06 2026 Crash on WB Flamingo Rd\u00A0at Cameron St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738784/attachment_0.png",
+    "Latitude": 36.115414000000001,
+    "Longitude": -115.20406730000001
+  },
+  {
+    "UniqueId": 52556,
+    "Timestamp": "2026-08-06 13:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:26 PM, Aug 06 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738803/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
