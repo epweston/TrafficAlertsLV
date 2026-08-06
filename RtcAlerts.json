@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52396,
-    "Timestamp": "2026-08-04 20:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "",
-    "Notes": "8:12 PM, Aug 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at I-11 on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736367/attachment_0.png",
-    "Latitude": 36.277381871493823,
-    "Longitude": -115.26709154723478
-  },
-  {
-    "UniqueId": 52397,
-    "Timestamp": "2026-08-04 20:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "",
-    "Notes": "8:14 PM, Aug 04 2026 Stalled vehicle on SB I-15\u00A0after Sloan Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736387/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 52398,
     "Timestamp": "2026-08-04 21:04",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737817/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 52499,
+    "Timestamp": "2026-08-05 20:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "8:44 PM, Aug 05 2026 Crash on EB 215 Southern Beltway\u00A0after Windmill Ln. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737838/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
