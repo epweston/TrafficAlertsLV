@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52401,
-    "Timestamp": "2026-08-05 03:24",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:24 AM, Aug 05 2026 Police activity on SB Boulder Hwy\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736426/attachment_0.png",
-    "Latitude": 36.130162899999988,
-    "Longitude": -115.08373280000001
-  },
-  {
     "UniqueId": 52402,
     "Timestamp": "2026-08-05 04:55",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737877/attachment_0.png",
     "Latitude": 36.133473899999998,
     "Longitude": -115.29720500000001
+  },
+  {
+    "UniqueId": 52514,
+    "Timestamp": "2026-08-06 03:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:42 AM, Aug 06 2026 Crash on NB I-11\u00A0before Tropicana Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737911/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
