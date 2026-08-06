@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52435,
-    "Timestamp": "2026-08-05 08:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:42 AM, Aug 05 2026 Stalled vehicle on NB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736873/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 52436,
-    "Timestamp": "2026-08-05 08:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "over",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:45 AM, Aug 05 2026 Crash on SB Jones Blvd\u00A0over 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736889/attachment_0.png",
-    "Latitude": 36.1702978,
-    "Longitude": -115.2241887
-  },
-  {
     "UniqueId": 52437,
     "Timestamp": "2026-08-05 08:50",
     "IncidentType": "Crash",
@@ -1328,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738274/attachment_0.png",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 52532,
+    "Timestamp": "2026-08-06 08:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Collector Distributor",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:43 AM, Aug 06 2026 Stalled vehicle on NB Collector Distributor\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738283/attachment_0.png",
+    "Latitude": 36.020405099999998,
+    "Longitude": -115.288556
+  },
+  {
+    "UniqueId": 52533,
+    "Timestamp": "2026-08-06 08:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:44 AM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738285/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
