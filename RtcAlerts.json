@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52427,
-    "Timestamp": "2026-08-05 07:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:46 AM, Aug 05 2026 Stalled vehicle on EB Blue Diamond Rd\u00A0at Fort Apache Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3736788/attachment_0.png",
-    "Latitude": 36.020455227926654,
-    "Longitude": -115.29789270648386
-  },
-  {
     "UniqueId": 52428,
     "Timestamp": "2026-08-05 07:55",
     "IncidentType": "Other",
@@ -1370,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738179/attachment_0.jpg",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 52527,
+    "Timestamp": "2026-08-06 07:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "7:48 AM, Aug 06 2026 Crash on SB I-15\u00A0at Sahara Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738159/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 52528,
+    "Timestamp": "2026-08-06 07:49",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Paseo Verde Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:49 AM, Aug 06 2026 Crash on SB St Rose Pkwy\u00A0at Paseo Verde Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738183/attachment_0.png",
+    "Latitude": 36.018400399999997,
+    "Longitude": -115.1006184
   }
 ]
