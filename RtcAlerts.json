@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52394,
-    "Timestamp": "2026-08-04 19:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:15 PM, Aug 04 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736360/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 52395,
     "Timestamp": "2026-08-04 19:23",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737835/attachment_0.png",
     "Latitude": 36.143662482122316,
     "Longitude": -115.1573931887723
+  },
+  {
+    "UniqueId": 52497,
+    "Timestamp": "2026-08-05 19:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:18 PM, Aug 05 2026 Crash on WB Cactus Ave\u00A0at Jones Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737836/attachment_0.png",
+    "Latitude": 35.998693000000003,
+    "Longitude": -115.22560590000001
   }
 ]
