@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52398,
-    "Timestamp": "2026-08-04 21:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:04 PM, Aug 04 2026 Stalled vehicle on NB Nellis Blvd\u00A0at Flamingo Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/04/file_attachments/3736370/attachment_0.png",
-    "Latitude": 36.114949000000003,
-    "Longitude": -115.06476549999999
-  },
-  {
     "UniqueId": 52399,
     "Timestamp": "2026-08-04 21:07",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737839/attachment_0.png",
     "Latitude": 35.977797807041192,
     "Longitude": -115.15525817871095
+  },
+  {
+    "UniqueId": 52502,
+    "Timestamp": "2026-08-05 20:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "8:58 PM, Aug 05 2026 Stalled vehicle on SB I-11\u00A0at . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737824/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 52503,
+    "Timestamp": "2026-08-05 20:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:58 PM, Aug 05 2026 Stalled vehicle on NB I-11\u00A0at Wagon Wheel Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737822/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
