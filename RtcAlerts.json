@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52466,
-    "Timestamp": "2026-08-05 14:46",
-    "IncidentType": "Structure fire",
-    "Direction": "NB",
-    "PrimaryRoad": "And Sb Arville St",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "2:46 PM, Aug 05 2026 Structure fire on NB and SB Arville St\u00A0at Oakey Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737623/attachment_0.jpg",
-    "Latitude": 36.1517409,
-    "Longitude": -115.1998155
-  },
-  {
     "UniqueId": 52467,
     "Timestamp": "2026-08-05 14:54",
     "IncidentType": "Crash",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738909/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 52562,
+    "Timestamp": "2026-08-06 14:47",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd On Left",
+    "Impact": "",
+    "Notes": "2:47 PM, Aug 06 2026 Crash on SB I-11\u00A0after Rainbow Blvd on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738922/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 52563,
+    "Timestamp": "2026-08-06 14:50",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:50 PM, Aug 06 2026 Crash on EB Warm Springs Rd\u00A0after 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738925/attachment_0.png",
+    "Latitude": 36.173663860844933,
+    "Longitude": -115.13790452024138
   }
 ]
