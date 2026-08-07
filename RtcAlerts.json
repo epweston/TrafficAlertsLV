@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52514,
-    "Timestamp": "2026-08-06 03:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:42 AM, Aug 06 2026 Crash on NB I-11\u00A0before Tropicana Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737911/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 52515,
     "Timestamp": "2026-08-06 05:04",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739123/attachment_0.png",
     "Latitude": 36.020405099999998,
     "Longitude": -115.288556
+  },
+  {
+    "UniqueId": 52608,
+    "Timestamp": "2026-08-07 04:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Lone Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:06 AM, Aug 07 2026 Crash on NB 215 Western Beltway\u00A0before Lone Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739159/attachment_0.png",
+    "Latitude": 36.247864105361664,
+    "Longitude": -115.3179235052795
+  },
+  {
+    "UniqueId": 52609,
+    "Timestamp": "2026-08-07 04:09",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:09 AM, Aug 07 2026 Crash on WB Lake Mead Blvd\u00A0after Pecos Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739172/attachment_0.png",
+    "Latitude": 36.195750279980111,
+    "Longitude": -115.09840610713668
   }
 ]
