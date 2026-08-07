@@ -1328,5 +1328,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739176/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 52611,
+    "Timestamp": "2026-08-07 04:49",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:49 AM, Aug 07 2026 Police activity on SB Nellis Blvd\u00A0before Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739203/attachment_0.png",
+    "Latitude": 36.11485816141586,
+    "Longitude": -115.06471217727307
+  },
+  {
+    "UniqueId": 52612,
+    "Timestamp": "2026-08-07 04:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "4:49 AM, Aug 07 2026 Stalled vehicle on SB I-15\u00A0after . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739183/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 52613,
+    "Timestamp": "2026-08-07 04:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:52 AM, Aug 07 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
