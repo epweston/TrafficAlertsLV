@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52565,
-    "Timestamp": "2026-08-06 15:09",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "WB Craig Rd is closed at Buffalo Dr.",
-    "Notes": "3:09 PM, Aug 06 2026 Crash on WB Craig Rd\u00A0at Buffalo Dr. WB Craig Rd is closed at Buffalo Dr.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738952/attachment_0.jpg",
-    "Latitude": 36.240508499999997,
-    "Longitude": -115.2604087
-  },
-  {
-    "UniqueId": 52566,
-    "Timestamp": "2026-08-06 15:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:10 PM, Aug 06 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738939/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 52567,
     "Timestamp": "2026-08-06 15:22",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740237/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 52666,
+    "Timestamp": "2026-08-07 15:05",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "I-215",
+    "Relationship": "before",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "On-ramp Right lane blocked.",
+    "Notes": "3:05 PM, Aug 07 2026 Crash on WB I-215\u00A0before Gibson Rd. On-ramp Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740243/attachment_0.png",
+    "Latitude": 36.058517560490081,
+    "Longitude": -115.02870619821373
   }
 ]
