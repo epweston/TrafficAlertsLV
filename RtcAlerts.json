@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52505,
-    "Timestamp": "2026-08-05 22:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:31 PM, Aug 05 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737842/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 52506,
-    "Timestamp": "2026-08-05 22:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:40 PM, Aug 05 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737844/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
     "UniqueId": 52507,
     "Timestamp": "2026-08-05 22:59",
     "IncidentType": "Crash",
@@ -1356,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739109/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 52603,
+    "Timestamp": "2026-08-06 22:36",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "after",
+    "CrossStreet": "Dean Martin Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:36 PM, Aug 06 2026 Crash on EB Cactus Ave\u00A0after Dean Martin Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739111/attachment_0.png",
+    "Latitude": 35.9990971,
+    "Longitude": -115.1836311
   }
 ]
