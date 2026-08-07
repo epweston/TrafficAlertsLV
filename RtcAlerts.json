@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52481,
-    "Timestamp": "2026-08-05 17:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:04 PM, Aug 05 2026 Crash on SB I-15 Collector Distributor\u00A0at Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737762/attachment_0.jpg",
-    "Latitude": 36.159090499999998,
-    "Longitude": -115.2607228
-  },
-  {
-    "UniqueId": 52482,
-    "Timestamp": "2026-08-05 17:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "5:07 PM, Aug 05 2026 Crash on EB Sahara Ave\u00A0at Las Vegas Blvd. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737763/attachment_0.jpg",
-    "Latitude": 36.143731899999999,
-    "Longitude": -115.1572463
-  },
-  {
-    "UniqueId": 52483,
-    "Timestamp": "2026-08-05 17:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "5:08 PM, Aug 05 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737771/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 52484,
     "Timestamp": "2026-08-05 17:23",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739053/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 52581,
+    "Timestamp": "2026-08-06 17:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:05 PM, Aug 06 2026 Crash on SB Jones Blvd\u00A0before Russell Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.085451900000002,
+    "Longitude": -115.2254131
+  },
+  {
+    "UniqueId": 52582,
+    "Timestamp": "2026-08-06 17:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:05 PM, Aug 06 2026 Crash on SB Jones Blvd\u00A0before Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739029/attachment_0.png",
+    "Latitude": 36.085451900000002,
+    "Longitude": -115.2254131
   }
 ]
