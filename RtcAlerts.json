@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52570,
-    "Timestamp": "2026-08-06 15:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:59 PM, Aug 06 2026 Crash on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738990/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 52571,
     "Timestamp": "2026-08-06 16:16",
     "IncidentType": "Crash",
@@ -1398,5 +1384,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740292/attachment_0.png",
     "Latitude": 36.173939599999997,
     "Longitude": -115.0804419
+  },
+  {
+    "UniqueId": 52672,
+    "Timestamp": "2026-08-07 15:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Riverstone Ave",
+    "Impact": "Right shoulder",
+    "Notes": "3:57 PM, Aug 07 2026 Crash on NB Lamb Blvd\u00A0at Riverstone Ave (after Carey Ave). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740285/attachment_0.jpg",
+    "Latitude": 36.205217699999999,
+    "Longitude": -115.08019760000001
+  },
+  {
+    "UniqueId": 52673,
+    "Timestamp": "2026-08-07 15:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "S Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:59 PM, Aug 07 2026 Crash on NB I-11\u00A0at S Rancho Dr off-ramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740306/attachment_0.png",
+    "Latitude": 36.175254133971912,
+    "Longitude": -115.17418362739356
+  },
+  {
+    "UniqueId": 52674,
+    "Timestamp": "2026-08-07 15:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:59 PM, Aug 07 2026 Crash on NB I-15\u00A0at Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740298/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
