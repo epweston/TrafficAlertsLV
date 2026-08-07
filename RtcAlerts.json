@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52569,
-    "Timestamp": "2026-08-06 15:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:43 PM, Aug 06 2026 Crash on NB I-11\u00A0before Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738980/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 52570,
     "Timestamp": "2026-08-06 15:59",
     "IncidentType": "Crash",
@@ -1370,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740278/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 52669,
+    "Timestamp": "2026-08-07 15:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Parkway",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:44 PM, Aug 07 2026 Crash on EB Summerlin Parkway\u00A0after Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740280/attachment_0.png",
+    "Latitude": 36.183238600000003,
+    "Longitude": -115.30132519999999
+  },
+  {
+    "UniqueId": 52670,
+    "Timestamp": "2026-08-07 15:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Claymont St-Cambridge St",
+    "Impact": "Right shoulder",
+    "Notes": "3:44 PM, Aug 07 2026 Crash on EB Flamingo Rd\u00A0at Claymont St-Cambridge St. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740282/attachment_0.png",
+    "Latitude": 36.114563099999998,
+    "Longitude": -115.1422929
   }
 ]
