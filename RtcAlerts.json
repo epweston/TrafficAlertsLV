@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52540,
-    "Timestamp": "2026-08-06 09:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:55 AM, Aug 06 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738445/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 52541,
-    "Timestamp": "2026-08-06 10:01",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Pennwood Ave",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "10:01 AM, Aug 06 2026 Police activity on EB Pennwood Ave\u00A0at Decatur Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738454/attachment_0.png",
-    "Latitude": 36.137275899999999,
-    "Longitude": -115.20801539999999
-  },
-  {
     "UniqueId": 52542,
     "Timestamp": "2026-08-06 10:05",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739720/attachment_0.jpg",
     "Latitude": 36.2176069,
     "Longitude": -115.0933543
+  },
+  {
+    "UniqueId": 52640,
+    "Timestamp": "2026-08-07 10:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:02 AM, Aug 07 2026 Stalled vehicle on SB I-11\u00A0after Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739730/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
