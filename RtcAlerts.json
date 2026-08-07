@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52571,
-    "Timestamp": "2026-08-06 16:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "after",
-    "CrossStreet": "Polaris Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:16 PM, Aug 06 2026 Crash on WB Twain Ave\u00A0after Polaris Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738998/attachment_0.png",
-    "Latitude": 36.122174000000001,
-    "Longitude": -115.1858707
-  },
-  {
     "UniqueId": 52572,
     "Timestamp": "2026-08-06 16:23",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740305/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 52678,
+    "Timestamp": "2026-08-07 16:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:13 PM, Aug 07 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740311/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 52679,
+    "Timestamp": "2026-08-07 16:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:13 PM, Aug 07 2026 Stalled vehicle on WB Bonanza Rd\u00A0before Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740330/attachment_0.jpg",
+    "Latitude": 36.174945000000001,
+    "Longitude": -115.1371793
+  },
+  {
+    "UniqueId": 52680,
+    "Timestamp": "2026-08-07 16:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:17 PM, Aug 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740314/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
