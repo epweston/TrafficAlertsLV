@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52530,
-    "Timestamp": "2026-08-06 08:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:33 AM, Aug 06 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738251/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 52531,
-    "Timestamp": "2026-08-06 08:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:35 AM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738274/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 52532,
     "Timestamp": "2026-08-06 08:43",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739567/attachment_0.png",
     "Latitude": 36.1006675,
     "Longitude": -115.17802159999999
+  },
+  {
+    "UniqueId": 52630,
+    "Timestamp": "2026-08-07 08:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:31 AM, Aug 07 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739569/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 52631,
+    "Timestamp": "2026-08-07 08:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:32 AM, Aug 07 2026 Crash on SB Martin L King Blvd\u00A0before Bonanza Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739561/attachment_0.png",
+    "Latitude": 36.177173199999999,
+    "Longitude": -115.1609081
   }
 ]
