@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52562,
-    "Timestamp": "2026-08-06 14:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd On Left",
-    "Impact": "",
-    "Notes": "2:47 PM, Aug 06 2026 Crash on SB I-11\u00A0after Rainbow Blvd on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738922/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 52563,
-    "Timestamp": "2026-08-06 14:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:50 PM, Aug 06 2026 Crash on EB Warm Springs Rd\u00A0after 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738925/attachment_0.png",
-    "Latitude": 36.173663860844933,
-    "Longitude": -115.13790452024138
-  },
-  {
     "UniqueId": 52564,
     "Timestamp": "2026-08-06 14:59",
     "IncidentType": "Crash",
@@ -1356,5 +1328,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740219/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 52660,
+    "Timestamp": "2026-08-07 14:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:44 PM, Aug 07 2026 Stalled vehicle on SB I-11\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740225/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 52661,
+    "Timestamp": "2026-08-07 14:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:46 PM, Aug 07 2026 Crash on NB I-11 before Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740249/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 52662,
+    "Timestamp": "2026-08-07 14:47",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd Left",
+    "Impact": "",
+    "Notes": "2:47 PM, Aug 07 2026 Police activity on NB I-11\u00A0at Las Vegas Blvd Left shoulder.",
+    "ImagePath": "",
+    "Latitude": 36.1079145,
+    "Longitude": -115.1728291
   }
 ]
