@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52484,
-    "Timestamp": "2026-08-05 17:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:23 PM, Aug 05 2026 Stalled vehicle on EB Flamingo Rd\u00A0at 215 Western Beltway. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737786/attachment_0.png",
-    "Latitude": 36.114414900000007,
-    "Longitude": -115.174031
-  },
-  {
-    "UniqueId": 52485,
-    "Timestamp": "2026-08-05 17:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:26 PM, Aug 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/05/file_attachments/3737789/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 52487,
     "Timestamp": "2026-08-05 17:42",
     "IncidentType": "Crash",
@@ -1398,5 +1370,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739059/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 52586,
+    "Timestamp": "2026-08-06 17:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:32 PM, Aug 06 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Charleston Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739032/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 52587,
+    "Timestamp": "2026-08-06 17:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:32 PM, Aug 06 2026 Crash on NB Paradise Rd\u00A0at Twain Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739035/attachment_0.jpg",
+    "Latitude": 36.121315799999998,
+    "Longitude": -115.155061
+  },
+  {
+    "UniqueId": 52588,
+    "Timestamp": "2026-08-06 17:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:33 PM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739036/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
