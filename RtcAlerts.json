@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52553,
-    "Timestamp": "2026-08-06 11:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:48 AM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738662/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 52554,
     "Timestamp": "2026-08-06 12:11",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739948/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 52650,
+    "Timestamp": "2026-08-07 11:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:52 AM, Aug 07 2026 Stalled vehicle on WB Flamingo Rd\u00A0before I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739962/attachment_0.jpg",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
   }
 ]
