@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52510,
-    "Timestamp": "2026-08-06 00:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:44 AM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737854/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 52511,
-    "Timestamp": "2026-08-06 00:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:54 AM, Aug 06 2026 Stalled vehicle on EB Tropicana Ave\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737871/attachment_0.png",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
-    "UniqueId": 52512,
-    "Timestamp": "2026-08-06 00:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:58 AM, Aug 06 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737856/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 52513,
-    "Timestamp": "2026-08-06 02:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Lake Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:13 AM, Aug 06 2026 Crash on SB Fort Apache Rd\u00A0before Lake Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3737877/attachment_0.png",
-    "Latitude": 36.133473899999998,
-    "Longitude": -115.29720500000001
-  },
-  {
     "UniqueId": 52514,
     "Timestamp": "2026-08-06 03:42",
     "IncidentType": "Crash",
@@ -1342,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739117/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 52607,
+    "Timestamp": "2026-08-07 02:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "2:37 AM, Aug 07 2026 Crash on WB Blue Diamond Rd\u00A0at I-15. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739123/attachment_0.png",
+    "Latitude": 36.020405099999998,
+    "Longitude": -115.288556
   }
 ]
