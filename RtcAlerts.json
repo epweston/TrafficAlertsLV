@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52544,
-    "Timestamp": "2026-08-06 10:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:33 AM, Aug 06 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738533/attachment_0.jpg",
-    "Latitude": 36.277381871493823,
-    "Longitude": -115.26709154723478
-  },
-  {
-    "UniqueId": 52545,
-    "Timestamp": "2026-08-06 10:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Cameron St",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:37 AM, Aug 06 2026 Crash on SB Cameron St\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738535/attachment_0.png",
-    "Latitude": 36.100960200000003,
-    "Longitude": -115.2039193
-  },
-  {
-    "UniqueId": 52546,
-    "Timestamp": "2026-08-06 10:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:47 AM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738557/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 52547,
     "Timestamp": "2026-08-06 10:52",
     "IncidentType": "Crash",
@@ -1412,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739764/attachment_0.jpg",
     "Latitude": 35.998688999999999,
     "Longitude": -115.1259424
+  },
+  {
+    "UniqueId": 52646,
+    "Timestamp": "2026-08-07 10:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:49 AM, Aug 07 2026 Stalled vehicle on NB I-15\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739846/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
