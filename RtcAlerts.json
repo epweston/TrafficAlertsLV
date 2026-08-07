@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52572,
-    "Timestamp": "2026-08-06 16:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 70",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:23 PM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0at Mile 70. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739000/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 52573,
-    "Timestamp": "2026-08-06 16:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:24 PM, Aug 06 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739013/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 52574,
     "Timestamp": "2026-08-06 16:25",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740314/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 52681,
+    "Timestamp": "2026-08-07 16:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Maryland Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:22 PM, Aug 07 2026 Crash on SB Maryland Pkwy\u00A0after St Rose Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740319/attachment_0.jpg",
+    "Latitude": 35.991393000000002,
+    "Longitude": -115.1365311
   }
 ]
