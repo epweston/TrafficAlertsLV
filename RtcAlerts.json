@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52547,
-    "Timestamp": "2026-08-06 10:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Berg St",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "10:52 AM, Aug 06 2026 Crash on EB Cheyenne Ave\u00A0at Berg St. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738561/attachment_0.png",
-    "Latitude": 36.2175802,
-    "Longitude": -115.11298549999999
-  },
-  {
-    "UniqueId": 52548,
-    "Timestamp": "2026-08-06 10:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:58 AM, Aug 06 2026 Crash on WB Sahara Ave\u00A0before Jones Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738574/attachment_0.jpg",
-    "Latitude": 36.144140299999997,
-    "Longitude": -115.2253748
-  },
-  {
     "UniqueId": 52549,
     "Timestamp": "2026-08-06 11:16",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739846/attachment_0.jpg",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 52647,
+    "Timestamp": "2026-08-07 11:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:05 AM, Aug 07 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739877/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
