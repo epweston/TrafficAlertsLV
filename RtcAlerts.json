@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52549,
-    "Timestamp": "2026-08-06 11:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "11:16 AM, Aug 06 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. Left turn lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
-    "UniqueId": 52550,
-    "Timestamp": "2026-08-06 11:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "11:16 AM, Aug 06 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3738603/attachment_0.jpg",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
     "UniqueId": 52551,
     "Timestamp": "2026-08-06 11:38",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739877/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 52648,
+    "Timestamp": "2026-08-07 11:12",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:12 AM, Aug 07 2026 Crash on EB Craig Rd\u00A0before Martin L King Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739899/attachment_0.jpg",
+    "Latitude": 36.239502199999997,
+    "Longitude": -115.16208640000001
   }
 ]
