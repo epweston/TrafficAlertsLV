@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52591,
-    "Timestamp": "2026-08-06 18:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:36 PM, Aug 06 2026 Crash on WB Sahara Ave\u00A0before Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739077/attachment_0.png",
-    "Latitude": 36.143581699999999,
-    "Longitude": -115.2608621
-  },
-  {
     "UniqueId": 52592,
     "Timestamp": "2026-08-06 18:40",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740397/attachment_0.png",
     "Latitude": 36.092686200000003,
     "Longitude": -115.181304
+  },
+  {
+    "UniqueId": 52707,
+    "Timestamp": "2026-08-07 18:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "over",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:34 PM, Aug 07 2026 Stalled vehicle on WB Tropicana Ave\u00A0over I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740417/attachment_0.jpg",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
