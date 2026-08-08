@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52684,
-    "Timestamp": "2026-08-07 16:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:31 PM, Aug 07 2026 Crash on SB I-11\u00A0before Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740323/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 52685,
-    "Timestamp": "2026-08-07 16:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "after",
-    "CrossStreet": "Colorado Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:32 PM, Aug 07 2026 Crash on NB Main St\u00A0after Colorado Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740341/attachment_0.jpg",
-    "Latitude": 36.156117199999997,
-    "Longitude": -115.1537788
-  },
-  {
-    "UniqueId": 52686,
-    "Timestamp": "2026-08-07 16:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:36 PM, Aug 07 2026 Crash on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740343/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 52689,
     "Timestamp": "2026-08-07 17:08",
     "IncidentType": "Crash",
@@ -1398,5 +1356,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740706/attachment_0.png",
     "Latitude": 36.202838300000003,
     "Longitude": -115.178769
+  },
+  {
+    "UniqueId": 52789,
+    "Timestamp": "2026-08-08 16:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sb I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:34 PM, Aug 08 2026 Crash on EB Craig Rd\u00A0at SB I-11 ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740690/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 52790,
+    "Timestamp": "2026-08-08 16:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Eastgate Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:37 PM, Aug 08 2026 Crash on WB Lake Mead Pkwy\u00A0before Eastgate Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740708/attachment_0.png",
+    "Latitude": 36.034325041044013,
+    "Longitude": -115.0078868949862
+  },
+  {
+    "UniqueId": 52791,
+    "Timestamp": "2026-08-08 16:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left shoulder",
+    "Notes": "4:39 PM, Aug 08 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after I-15. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740709/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
