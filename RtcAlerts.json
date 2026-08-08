@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52657,
-    "Timestamp": "2026-08-07 14:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:16 PM, Aug 07 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740181/attachment_0.png",
-    "Latitude": 36.262979100000003,
-    "Longitude": -115.27261950000001
-  },
-  {
-    "UniqueId": 52658,
-    "Timestamp": "2026-08-07 14:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "2:18 PM, Aug 07 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740189/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 52659,
     "Timestamp": "2026-08-07 14:34",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740652/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 52779,
+    "Timestamp": "2026-08-08 14:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "2:26 PM, Aug 08 2026 Crash on NB Decatur Blvd\u00A0at Oakey Blvd. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740654/attachment_0.png",
+    "Latitude": 36.151716299999997,
+    "Longitude": -115.2082595
   }
 ]
