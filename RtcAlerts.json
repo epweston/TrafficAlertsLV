@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52653,
-    "Timestamp": "2026-08-07 12:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "after",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:35 PM, Aug 07 2026 Stalled vehicle on WB Warm Springs Rd\u00A0after Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740067/attachment_0.jpg",
-    "Latitude": 36.205819599999998,
-    "Longitude": -115.2038819
-  },
-  {
     "UniqueId": 52654,
     "Timestamp": "2026-08-07 13:23",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740617/attachment_0.png",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 52768,
+    "Timestamp": "2026-08-08 12:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Gore blocked.",
+    "Notes": "12:35 PM, Aug 08 2026 Stalled vehicle on NB I-11\u00A0after Tropicana Ave. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740642/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
