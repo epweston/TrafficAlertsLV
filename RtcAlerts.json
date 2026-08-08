@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52627,
-    "Timestamp": "2026-08-07 08:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Dr",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:05 AM, Aug 07 2026 Crash on EB Lake Dr\u00A0at Fort Apache Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739509/attachment_0.jpg",
-    "Latitude": 36.133473899999998,
-    "Longitude": -115.29720500000001
-  },
-  {
     "UniqueId": 52628,
     "Timestamp": "2026-08-07 08:18",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740548/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 52750,
+    "Timestamp": "2026-08-08 08:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:03 AM, Aug 08 2026 Stalled vehicle on NB I-15\u00A0before Saint Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740550/attachment_0.png",
+    "Latitude": 35.961803779082089,
+    "Longitude": -115.18178474137577
   }
 ]
