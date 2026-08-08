@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52646,
-    "Timestamp": "2026-08-07 10:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:49 AM, Aug 07 2026 Stalled vehicle on NB I-15\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739846/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 52647,
     "Timestamp": "2026-08-07 11:05",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740597/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 52759,
+    "Timestamp": "2026-08-08 10:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "before",
+    "CrossStreet": "Montessouri St",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:48 AM, Aug 08 2026 Crash on EB Blue Diamond Rd\u00A0before Montessouri St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740598/attachment_0.png",
+    "Latitude": 36.021619600000001,
+    "Longitude": -115.24774290000001
   }
 ]
