@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52680,
-    "Timestamp": "2026-08-07 16:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:17 PM, Aug 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740314/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 52681,
     "Timestamp": "2026-08-07 16:22",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740664/attachment_0.jpg",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 52787,
+    "Timestamp": "2026-08-08 16:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:14 PM, Aug 08 2026 Crash on SB Las Vegas Blvd\u00A0at Oakey Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740686/attachment_0.jpg",
+    "Latitude": 36.151245299999999,
+    "Longitude": -115.1525166
   }
 ]
