@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52651,
-    "Timestamp": "2026-08-07 12:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:04 PM, Aug 07 2026 Stalled vehicle on EB Spring Mountain Rd\u00A0at Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739992/attachment_0.png",
-    "Latitude": 36.125535343092892,
-    "Longitude": -115.16933459027077
-  },
-  {
     "UniqueId": 52652,
     "Timestamp": "2026-08-07 12:10",
     "IncidentType": "Crash",
@@ -1510,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740616/attachment_0.jpg",
     "Latitude": 36.007347500000002,
     "Longitude": -115.11430110000001
+  },
+  {
+    "UniqueId": 52765,
+    "Timestamp": "2026-08-08 12:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Smoke Ranch Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:01 PM, Aug 08 2026 Crash on NB Decatur Blvd\u00A0at Smoke Ranch Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740637/attachment_0.jpg",
+    "Latitude": 36.202768399999997,
+    "Longitude": -115.20591380000001
+  },
+  {
+    "UniqueId": 52766,
+    "Timestamp": "2026-08-08 12:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Aliante Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:04 PM, Aug 08 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Aliante Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740639/attachment_0.png",
+    "Latitude": 36.293459499999997,
+    "Longitude": -115.18487740000001
   }
 ]
