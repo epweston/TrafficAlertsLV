@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52599,
-    "Timestamp": "2026-08-06 21:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:36 PM, Aug 06 2026 Crash on WB Sahara Ave\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739099/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 52600,
     "Timestamp": "2026-08-06 21:44",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740458/attachment_0.png",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 52728,
+    "Timestamp": "2026-08-07 21:40",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Wigwam Ave",
+    "Relationship": "at",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:40 PM, Aug 07 2026 Crash on WB Wigwam Ave\u00A0at Maryland Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740442/attachment_0.png",
+    "Latitude": 36.035326200000007,
+    "Longitude": -115.13618700000001
   }
 ]
