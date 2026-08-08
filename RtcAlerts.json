@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52596,
-    "Timestamp": "2026-08-06 20:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:55 PM, Aug 06 2026 Crash on EB Lake Mead Blvd\u00A0before Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739081/attachment_0.png",
-    "Latitude": 36.196069299999998,
-    "Longitude": -115.2419352
-  },
-  {
     "UniqueId": 52597,
     "Timestamp": "2026-08-06 21:03",
     "IncidentType": "Crash",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740440/attachment_0.png",
     "Latitude": 36.061095600000002,
     "Longitude": -115.2654357
+  },
+  {
+    "UniqueId": 52726,
+    "Timestamp": "2026-08-07 20:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Left lane partially blocked.",
+    "Notes": "8:53 PM, Aug 07 2026 Crash on SB I-11\u00A0before Sunset Rd. Left lane partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740457/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
