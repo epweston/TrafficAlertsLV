@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52586,
-    "Timestamp": "2026-08-06 17:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:32 PM, Aug 06 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Charleston Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739032/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
-    "UniqueId": 52587,
-    "Timestamp": "2026-08-06 17:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:32 PM, Aug 06 2026 Crash on NB Paradise Rd\u00A0at Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739035/attachment_0.jpg",
-    "Latitude": 36.121315799999998,
-    "Longitude": -115.155061
-  },
-  {
-    "UniqueId": 52588,
-    "Timestamp": "2026-08-06 17:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:33 PM, Aug 06 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739036/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 52589,
     "Timestamp": "2026-08-06 17:46",
     "IncidentType": "Crash",
@@ -1412,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740360/attachment_0.png",
     "Latitude": 36.240593400000002,
     "Longitude": -115.0622068
+  },
+  {
+    "UniqueId": 52693,
+    "Timestamp": "2026-08-07 17:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder",
+    "Notes": "5:33 PM, Aug 07 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740383/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 52694,
+    "Timestamp": "2026-08-07 17:33",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:33 PM, Aug 07 2026 Crash on WB Sunset Rd\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740381/attachment_0.jpg",
+    "Latitude": 36.070820500000004,
+    "Longitude": -115.17154290000001
   }
 ]
