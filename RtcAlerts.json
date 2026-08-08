@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52590,
-    "Timestamp": "2026-08-06 18:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:24 PM, Aug 06 2026 Stalled vehicle on SB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739074/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 52591,
     "Timestamp": "2026-08-06 18:36",
     "IncidentType": "Crash",
@@ -1468,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740394/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 52702,
+    "Timestamp": "2026-08-07 18:23",
+    "IncidentType": "Stalled Bus",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:23 PM, Aug 07 2026 Stalled Bus on SB I-15\u00A0after Neon Gateway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740408/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 52703,
+    "Timestamp": "2026-08-07 18:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:27 PM, Aug 07 2026 Crash on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740411/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 52704,
+    "Timestamp": "2026-08-07 18:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Vegas Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:27 PM, Aug 07 2026 Crash on SB Rainbow Blvd\u00A0before Vegas Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740413/attachment_0.jpg",
+    "Latitude": 36.188600399999999,
+    "Longitude": -115.2423798
   }
 ]
