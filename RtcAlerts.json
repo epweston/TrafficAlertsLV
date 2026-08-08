@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52641,
-    "Timestamp": "2026-08-07 10:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:10 AM, Aug 07 2026 Crash on SB Valley View Blvd\u00A0before Russell Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739756/attachment_0.png",
-    "Latitude": 36.086391300000003,
-    "Longitude": -115.18994530000001
-  },
-  {
-    "UniqueId": 52642,
-    "Timestamp": "2026-08-07 10:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:15 AM, Aug 07 2026 Stalled vehicle on SB I-15\u00A0at Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739777/attachment_0.png",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 52643,
-    "Timestamp": "2026-08-07 10:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Scholar Ln",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:21 AM, Aug 07 2026 Crash on EB Lake Mead Blvd\u00A0at Scholar Ln. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739762/attachment_0.png",
-    "Latitude": 36.197865800000002,
-    "Longitude": -115.2786763
-  },
-  {
-    "UniqueId": 52644,
-    "Timestamp": "2026-08-07 10:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Seven Hills Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:25 AM, Aug 07 2026 Crash on WB St Rose Pkwy\u00A0after Seven Hills Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3739764/attachment_0.jpg",
-    "Latitude": 35.998688999999999,
-    "Longitude": -115.1259424
-  },
-  {
     "UniqueId": 52646,
     "Timestamp": "2026-08-07 10:49",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740587/attachment_0.jpg",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 52757,
+    "Timestamp": "2026-08-08 10:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:25 AM, Aug 08 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740577/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
