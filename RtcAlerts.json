@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52589,
-    "Timestamp": "2026-08-06 17:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:46 PM, Aug 06 2026 Crash on EB Blue Diamond Rd\u00A0at Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739068/attachment_0.png",
-    "Latitude": 36.020207000000013,
-    "Longitude": -115.2610983
-  },
-  {
     "UniqueId": 52590,
     "Timestamp": "2026-08-06 18:24",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740381/attachment_0.jpg",
     "Latitude": 36.070820500000004,
     "Longitude": -115.17154290000001
+  },
+  {
+    "UniqueId": 52695,
+    "Timestamp": "2026-08-07 17:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:46 PM, Aug 07 2026 Crash on NB 215 Southern Beltway\u00A0after Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740385/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
