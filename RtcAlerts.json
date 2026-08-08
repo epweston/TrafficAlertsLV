@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52667,
-    "Timestamp": "2026-08-07 15:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:25 PM, Aug 07 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy off ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740262/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 52668,
     "Timestamp": "2026-08-07 15:39",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740679/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 52782,
+    "Timestamp": "2026-08-08 15:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:27 PM, Aug 08 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740681/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
