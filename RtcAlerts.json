@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52681,
-    "Timestamp": "2026-08-07 16:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:22 PM, Aug 07 2026 Crash on SB Maryland Pkwy\u00A0after St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740319/attachment_0.jpg",
-    "Latitude": 35.991393000000002,
-    "Longitude": -115.1365311
-  },
-  {
-    "UniqueId": 52682,
-    "Timestamp": "2026-08-07 16:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:28 PM, Aug 07 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740339/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 52683,
-    "Timestamp": "2026-08-07 16:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:29 PM, Aug 07 2026 Crash on SB Eastern Ave\u00A0before Stewart Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740322/attachment_0.jpg",
-    "Latitude": 36.16654933682149,
-    "Longitude": -115.11579751968384
-  },
-  {
     "UniqueId": 52684,
     "Timestamp": "2026-08-07 16:31",
     "IncidentType": "Crash",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740686/attachment_0.jpg",
     "Latitude": 36.151245299999999,
     "Longitude": -115.1525166
+  },
+  {
+    "UniqueId": 52788,
+    "Timestamp": "2026-08-08 16:27",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Carey Ave",
+    "Relationship": "at",
+    "CrossStreet": "Simmons St",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:27 PM, Aug 08 2026 Crash on EB Carey Ave\u00A0at Simmons St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740706/attachment_0.png",
+    "Latitude": 36.202838300000003,
+    "Longitude": -115.178769
   }
 ]
