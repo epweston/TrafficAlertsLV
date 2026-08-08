@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 52600,
-    "Timestamp": "2026-08-06 21:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:44 PM, Aug 06 2026 Stalled vehicle on SB I-15\u00A0from Harmon Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739107/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 52601,
-    "Timestamp": "2026-08-06 22:11",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:11 PM, Aug 06 2026 Crash on NB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739101/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 52602,
-    "Timestamp": "2026-08-06 22:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left Lane Blocked.",
-    "Notes": "10:13 PM, Aug 06 2026 Crash on NB I-15\u00A0at Sahara Ave. Left Lane Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739109/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 52603,
-    "Timestamp": "2026-08-06 22:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "after",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:36 PM, Aug 06 2026 Crash on EB Cactus Ave\u00A0after Dean Martin Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739111/attachment_0.png",
-    "Latitude": 35.9990971,
-    "Longitude": -115.1836311
-  },
-  {
-    "UniqueId": 52604,
-    "Timestamp": "2026-08-06 22:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:50 PM, Aug 06 2026 Crash on EB Cheyenne Ave\u00A0after Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/06/file_attachments/3739113/attachment_0.png",
-    "Latitude": 36.218275599999998,
-    "Longitude": -115.2423567
-  },
-  {
     "UniqueId": 52605,
     "Timestamp": "2026-08-06 23:17",
     "IncidentType": "Crash",
@@ -1706,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740442/attachment_0.png",
     "Latitude": 36.035326200000007,
     "Longitude": -115.13618700000001
+  },
+  {
+    "UniqueId": 52729,
+    "Timestamp": "2026-08-07 23:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "11:01 PM, Aug 07 2026 Crash on NB I-11\u00A0before Craig Rd. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740444/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
