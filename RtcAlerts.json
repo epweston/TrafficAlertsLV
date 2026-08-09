@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52763,
-    "Timestamp": "2026-08-08 11:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:53 AM, Aug 08 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740615/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 52764,
-    "Timestamp": "2026-08-08 11:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:57 AM, Aug 08 2026 Crash on WB St Rose Pkwy\u00A0at Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740616/attachment_0.jpg",
-    "Latitude": 36.007347500000002,
-    "Longitude": -115.11430110000001
-  },
-  {
-    "UniqueId": 52765,
-    "Timestamp": "2026-08-08 12:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Smoke Ranch Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:01 PM, Aug 08 2026 Crash on NB Decatur Blvd\u00A0at Smoke Ranch Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740637/attachment_0.jpg",
-    "Latitude": 36.202768399999997,
-    "Longitude": -115.20591380000001
-  },
-  {
     "UniqueId": 52766,
     "Timestamp": "2026-08-08 12:04",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740915/attachment_0.png",
     "Latitude": 35.999066361520875,
     "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 52869,
+    "Timestamp": "2026-08-09 11:58",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Roy Horn Way",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "11:58 AM, Aug 09 2026 Police activity on SB Rainbow Blvd\u00A0at Roy Horn Way. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740916/attachment_0.png",
+    "Latitude": 36.0654945,
+    "Longitude": -115.242318
   }
 ]
