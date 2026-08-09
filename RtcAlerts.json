@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52692,
-    "Timestamp": "2026-08-07 17:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:29 PM, Aug 07 2026 Crash on EB Craig Rd\u00A0before Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740360/attachment_0.png",
-    "Latitude": 36.240593400000002,
-    "Longitude": -115.0622068
-  },
-  {
     "UniqueId": 52693,
     "Timestamp": "2026-08-07 17:33",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740715/attachment_0.jpg",
     "Latitude": 35.982208268696091,
     "Longitude": -115.14903533097477
+  },
+  {
+    "UniqueId": 52798,
+    "Timestamp": "2026-08-08 17:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:26 PM, Aug 08 2026 Crash on WB Warm Springs Rd\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740699/attachment_0.png",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
+  },
+  {
+    "UniqueId": 52799,
+    "Timestamp": "2026-08-08 17:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "5:27 PM, Aug 08 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740716/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
