@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52784,
-    "Timestamp": "2026-08-08 15:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Arville St",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:57 PM, Aug 08 2026 Crash on EB Tropicana Ave\u00A0at Arville St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740661/attachment_0.png",
-    "Latitude": 36.100971100000002,
-    "Longitude": -115.199292
-  },
-  {
-    "UniqueId": 52785,
-    "Timestamp": "2026-08-08 16:03",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "4:03 PM, Aug 08 2026 Vehicle on fire on SB 215 Western Beltway\u00A0at Summerlin Pkwy. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740663/attachment_0.png",
-    "Latitude": 36.183238600000003,
-    "Longitude": -115.30132519999999
-  },
-  {
     "UniqueId": 52786,
     "Timestamp": "2026-08-08 16:11",
     "IncidentType": "Crash",
@@ -1272,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740945/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 52880,
+    "Timestamp": "2026-08-09 16:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:00 PM, Aug 09 2026 Stalled vehicle on SB I-11\u00A0after US-95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740959/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 52881,
+    "Timestamp": "2026-08-09 16:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Left shoulder",
+    "Notes": "4:01 PM, Aug 09 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740960/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
