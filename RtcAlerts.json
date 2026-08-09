@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52703,
-    "Timestamp": "2026-08-07 18:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:27 PM, Aug 07 2026 Crash on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740411/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 52704,
-    "Timestamp": "2026-08-07 18:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:27 PM, Aug 07 2026 Crash on SB Rainbow Blvd\u00A0before Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740413/attachment_0.jpg",
-    "Latitude": 36.188600399999999,
-    "Longitude": -115.2423798
-  },
-  {
-    "UniqueId": 52705,
-    "Timestamp": "2026-08-07 18:29",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right shoulder",
-    "Notes": "6:29 PM, Aug 07 2026 Vehicle on fire on NB Rainbow Blvd\u00A0after Alexander Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740415/attachment_0.jpg",
-    "Latitude": 36.233048400000001,
-    "Longitude": -115.242317
-  },
-  {
     "UniqueId": 52706,
     "Timestamp": "2026-08-07 18:32",
     "IncidentType": "Police activity",
@@ -1454,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740729/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 52807,
+    "Timestamp": "2026-08-08 18:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:26 PM, Aug 08 2026 Crash on SB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740724/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
