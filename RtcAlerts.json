@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52735,
-    "Timestamp": "2026-08-08 00:32",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "All lanes are open.",
-    "Notes": "12:32 AM, Aug 08 2026 Update Crash on SB Stewart Ave\u00A0at Main St. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.174056999999998,
-    "Longitude": -115.1449042
-  },
-  {
     "UniqueId": 52736,
     "Timestamp": "2026-08-08 00:54",
     "IncidentType": "Crash",
@@ -1244,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740786/attachment_0.jpg",
     "Latitude": 36.171562999999999,
     "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 52827,
+    "Timestamp": "2026-08-09 00:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Torrey Pines Dr",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Multiple directions blocked.",
+    "Notes": "12:27 AM, Aug 09 2026 Crash on NB Torrey Pines Dr\u00A0at Cheyenne Ave. Multiple directions blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740788/attachment_0.jpg",
+    "Latitude": 36.2175218,
+    "Longitude": -115.2340112
+  },
+  {
+    "UniqueId": 52828,
+    "Timestamp": "2026-08-09 00:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Aliante Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Nature Park Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:29 AM, Aug 09 2026 Crash on NB Aliante Pkwy\u00A0after Nature Park Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740790/attachment_0.png",
+    "Latitude": 36.287825599999998,
+    "Longitude": -115.1778721
   }
 ]
