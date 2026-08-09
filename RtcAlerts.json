@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52760,
-    "Timestamp": "2026-08-08 10:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:58 AM, Aug 08 2026 Crash on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740600/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 52761,
-    "Timestamp": "2026-08-08 10:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:58 AM, Aug 08 2026 Stalled vehicle on SB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740583/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 52762,
-    "Timestamp": "2026-08-08 11:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:00 AM, Aug 08 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740606/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 52763,
     "Timestamp": "2026-08-08 11:53",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740907/attachment_0.png",
     "Latitude": 36.033755200000002,
     "Longitude": -114.96794370000001
+  },
+  {
+    "UniqueId": 52864,
+    "Timestamp": "2026-08-09 10:54",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection partially blocked",
+    "Notes": "10:54 AM, Aug 09 2026 Crash on EB Spring Mountain Rd\u00A0before I-15. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740895/attachment_0.png",
+    "Latitude": 36.126198294845885,
+    "Longitude": -115.1806533378587
   }
 ]
