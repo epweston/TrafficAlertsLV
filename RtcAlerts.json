@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52708,
-    "Timestamp": "2026-08-07 18:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 PM, Aug 07 2026 Crash on NB 15\u00A0after Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740401/attachment_0.png",
-    "Latitude": 36.181174899999988,
-    "Longitude": -115.140535
-  },
-  {
-    "UniqueId": 52709,
-    "Timestamp": "2026-08-07 18:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:46 PM, Aug 07 2026 Stalled vehicle on WB Russell Rd\u00A0after I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740419/attachment_0.png",
-    "Latitude": 36.085986896880186,
-    "Longitude": -115.18073380622651
-  },
-  {
     "UniqueId": 52710,
     "Timestamp": "2026-08-07 18:58",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740747/attachment_0.png",
     "Latitude": 36.020358100000003,
     "Longitude": -115.2793281
+  },
+  {
+    "UniqueId": 52811,
+    "Timestamp": "2026-08-08 18:42",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder",
+    "Notes": "6:42 PM, Aug 08 2026 Police activity on EB 215 Southern Beltway\u00A0before I-15. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740734/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
