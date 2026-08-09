@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52695,
-    "Timestamp": "2026-08-07 17:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:46 PM, Aug 07 2026 Crash on NB 215 Southern Beltway\u00A0after Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740385/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
     "UniqueId": 52697,
     "Timestamp": "2026-08-07 18:02",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740720/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 52803,
+    "Timestamp": "2026-08-08 17:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:54 PM, Aug 08 2026 Crash on WB Cheyenne Ave\u00A0at Civic Center Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740704/attachment_0.png",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
   }
 ]
