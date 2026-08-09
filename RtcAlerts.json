@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52767,
-    "Timestamp": "2026-08-08 12:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:26 PM, Aug 08 2026 Stalled vehicle on SB I-15\u00A0at Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740617/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
     "UniqueId": 52768,
     "Timestamp": "2026-08-08 12:35",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740923/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 52872,
+    "Timestamp": "2026-08-09 12:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:27 PM, Aug 09 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740924/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
