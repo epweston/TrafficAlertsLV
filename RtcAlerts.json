@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52729,
-    "Timestamp": "2026-08-07 23:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "11:01 PM, Aug 07 2026 Crash on NB I-11\u00A0before Craig Rd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740444/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 52730,
     "Timestamp": "2026-08-07 23:13",
     "IncidentType": "Update Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740769/attachment_0.png",
     "Latitude": 36.083295454540455,
     "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 52824,
+    "Timestamp": "2026-08-08 23:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Left shoulder",
+    "Notes": "11:06 PM, Aug 08 2026 Crash on SB I-15\u00A0at Lamb Blvd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740763/attachment_0.jpg",
+    "Latitude": 36.159461700000001,
+    "Longitude": -115.08051620000001
   }
 ]
