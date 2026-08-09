@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52740,
-    "Timestamp": "2026-08-08 03:07",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:07 AM, Aug 08 2026 Police activity on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740493/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 52741,
     "Timestamp": "2026-08-08 03:35",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740795/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 52837,
+    "Timestamp": "2026-08-09 03:08",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:08 AM, Aug 09 2026 Crash on NB 215 Western Beltway\u00A0at Ann Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740784/attachment_0.png",
+    "Latitude": 36.262979100000003,
+    "Longitude": -115.27261950000001
   }
 ]
