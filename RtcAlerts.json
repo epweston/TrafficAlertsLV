@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52706,
-    "Timestamp": "2026-08-07 18:32",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "at",
-    "CrossStreet": "Al Davis Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:32 PM, Aug 07 2026 Police activity on SB Dean Martin Dr\u00A0at Al Davis Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740397/attachment_0.png",
-    "Latitude": 36.092686200000003,
-    "Longitude": -115.181304
-  },
-  {
-    "UniqueId": 52707,
-    "Timestamp": "2026-08-07 18:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "over",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:34 PM, Aug 07 2026 Stalled vehicle on WB Tropicana Ave\u00A0over I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740417/attachment_0.jpg",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 52708,
     "Timestamp": "2026-08-07 18:45",
     "IncidentType": "Crash",
@@ -1426,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740724/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 52809,
+    "Timestamp": "2026-08-08 18:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:31 PM, Aug 08 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740733/attachment_0.jpg",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 52810,
+    "Timestamp": "2026-08-08 18:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:33 PM, Aug 08 2026 Crash on NB Durango Dr\u00A0after Blue Diamond Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740747/attachment_0.png",
+    "Latitude": 36.020358100000003,
+    "Longitude": -115.2793281
   }
 ]
