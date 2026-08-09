@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52776,
-    "Timestamp": "2026-08-08 13:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:42 PM, Aug 08 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740669/attachment_0.png",
-    "Latitude": 36.205568079996773,
-    "Longitude": -115.34099578857423
-  },
-  {
-    "UniqueId": 52777,
-    "Timestamp": "2026-08-08 13:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:46 PM, Aug 08 2026 Stalled vehicle on WB Spring Mountain Rd\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740651/attachment_0.jpg",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
-    "UniqueId": 52778,
-    "Timestamp": "2026-08-08 13:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:49 PM, Aug 08 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740652/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
-    "UniqueId": 52779,
-    "Timestamp": "2026-08-08 14:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "2:26 PM, Aug 08 2026 Crash on NB Decatur Blvd\u00A0at Oakey Blvd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740654/attachment_0.png",
-    "Latitude": 36.151716299999997,
-    "Longitude": -115.2082595
-  },
-  {
     "UniqueId": 52780,
     "Timestamp": "2026-08-08 14:51",
     "IncidentType": "Crash",
@@ -1300,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740934/attachment_0.png",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 52874,
+    "Timestamp": "2026-08-09 14:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "2:33 PM, Aug 09 2026 Stalled vehicle on SB I-11\u00A0before Russell Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740953/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 52875,
+    "Timestamp": "2026-08-09 14:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Stephanie St",
+    "Relationship": "before",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:35 PM, Aug 09 2026 Crash on NB Stephanie St\u00A0before Galleria Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.070971200000002,
+    "Longitude": -115.0461737
   }
 ]
