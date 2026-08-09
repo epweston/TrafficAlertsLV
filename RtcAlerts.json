@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 52751,
-    "Timestamp": "2026-08-08 08:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:22 AM, Aug 08 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740551/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 52752,
-    "Timestamp": "2026-08-08 08:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "8:24 AM, Aug 08 2026 Stalled vehicle on SB I-15\u00A0after . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740567/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 52753,
     "Timestamp": "2026-08-08 09:55",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740858/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 52856,
+    "Timestamp": "2026-08-09 08:21",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:21 AM, Aug 09 2026 Crash on SB I-11\u00A0at Martin L King Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740818/attachment_0.png",
+    "Latitude": 36.175244799226355,
+    "Longitude": -115.16081567593977
   }
 ]
