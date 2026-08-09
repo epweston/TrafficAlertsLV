@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52724,
-    "Timestamp": "2026-08-07 20:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:48 PM, Aug 07 2026 Crash on NB I-11\u00A0to Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740439/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
-    "UniqueId": 52725,
-    "Timestamp": "2026-08-07 20:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "at",
-    "CrossStreet": "Myers St",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:50 PM, Aug 07 2026 Crash on WB Badura Ave\u00A0at Myers St (after Buffalo Dr). Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740440/attachment_0.png",
-    "Latitude": 36.061095600000002,
-    "Longitude": -115.2654357
-  },
-  {
-    "UniqueId": 52726,
-    "Timestamp": "2026-08-07 20:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left lane partially blocked.",
-    "Notes": "8:53 PM, Aug 07 2026 Crash on SB I-11\u00A0before Sunset Rd. Left lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740457/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 52727,
-    "Timestamp": "2026-08-07 21:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:09 PM, Aug 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/07/file_attachments/3740458/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 52728,
     "Timestamp": "2026-08-07 21:40",
     "IncidentType": "Crash",
@@ -1300,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740757/attachment_0.png",
     "Latitude": 36.195698330673721,
     "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 52819,
+    "Timestamp": "2026-08-08 21:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:26 PM, Aug 08 2026 Crash on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740758/attachment_0.png",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
