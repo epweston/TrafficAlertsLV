@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52743,
-    "Timestamp": "2026-08-08 03:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "after",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:50 AM, Aug 08 2026 Stalled vehicle on NB Fremont St\u00A0after Oakey Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740496/attachment_0.png",
-    "Latitude": 36.152101799999997,
-    "Longitude": -115.1088706
-  },
-  {
     "UniqueId": 52744,
     "Timestamp": "2026-08-08 03:53",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 52844,
+    "Timestamp": "2026-08-09 03:48",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:48 AM, Aug 09 2026 Crash on NB 215 Western Beltway\u00A0at Ann Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.262979100000003,
+    "Longitude": -115.27261950000001
   }
 ]
