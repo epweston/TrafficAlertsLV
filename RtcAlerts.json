@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52886,
-    "Timestamp": "2026-08-09 16:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Tenaya Way",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:37 PM, Aug 09 2026 Crash on SB Tenaya Way\u00A0before Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740987/attachment_0.png",
-    "Latitude": 36.218143099999999,
-    "Longitude": -115.2513635
-  },
-  {
     "UniqueId": 52887,
     "Timestamp": "2026-08-09 16:44",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742392/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 52992,
+    "Timestamp": "2026-08-10 16:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:41 PM, Aug 10 2026 Crash on EB Spring Mountain Rd\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742413/attachment_0.png",
+    "Latitude": 36.125502099999999,
+    "Longitude": -115.2248548
   }
 ]
