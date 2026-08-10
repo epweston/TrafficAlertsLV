@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52797,
-    "Timestamp": "2026-08-08 17:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Raiders Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:23 PM, Aug 08 2026 Crash on EB St Rose Pkwy\u00A0before Raiders Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740715/attachment_0.jpg",
-    "Latitude": 35.982208268696091,
-    "Longitude": -115.14903533097477
-  },
-  {
-    "UniqueId": 52798,
-    "Timestamp": "2026-08-08 17:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:26 PM, Aug 08 2026 Crash on WB Warm Springs Rd\u00A0at Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740699/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 52799,
-    "Timestamp": "2026-08-08 17:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:27 PM, Aug 08 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/08/file_attachments/3740716/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 52800,
     "Timestamp": "2026-08-08 17:29",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740995/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 52895,
+    "Timestamp": "2026-08-09 17:26",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:26 PM, Aug 09 2026 Police activity on EB Charleston Blvd\u00A0at I-15. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740997/attachment_0.jpg",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
   }
 ]
