@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52877,
-    "Timestamp": "2026-08-09 15:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:06 PM, Aug 09 2026 Crash on NB Boulder Hwy\u00A0before I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740955/attachment_0.png",
-    "Latitude": 36.135517917695289,
-    "Longitude": -115.09028440626055
-  },
-  {
     "UniqueId": 52878,
     "Timestamp": "2026-08-09 15:15",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742319/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 52984,
+    "Timestamp": "2026-08-10 15:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "3:05 PM, Aug 10 2026 Crash on SB 215 Western Beltway\u00A0at Charleston Blvd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742337/attachment_0.jpg",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
   }
 ]
