@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52879,
-    "Timestamp": "2026-08-09 15:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:41 PM, Aug 09 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740945/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 52880,
     "Timestamp": "2026-08-09 16:00",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742371/attachment_0.jpg",
     "Latitude": 36.217594200000001,
     "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 52988,
+    "Timestamp": "2026-08-10 15:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:51 PM, Aug 10 2026 Crash on EB Sahara Ave\u00A0after 215 Western Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742375/attachment_0.png",
+    "Latitude": 36.144633843380831,
+    "Longitude": -115.336660986448
   }
 ]
