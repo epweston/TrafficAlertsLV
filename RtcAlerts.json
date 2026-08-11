@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52940,
-    "Timestamp": "2026-08-10 07:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:10 AM, Aug 10 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741428/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 52941,
     "Timestamp": "2026-08-10 07:21",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742723/attachment_0.jpg",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 53039,
+    "Timestamp": "2026-08-11 07:07",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:07 AM, Aug 11 2026 Abandoned vehicle on WB 215 Southern Beltway\u00A0after Airport Connector. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 53040,
+    "Timestamp": "2026-08-11 07:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:08 AM, Aug 11 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
