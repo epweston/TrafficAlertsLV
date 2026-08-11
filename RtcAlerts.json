@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52941,
-    "Timestamp": "2026-08-10 07:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "7:21 AM, Aug 10 2026 Stalled vehicle on SB I-11\u00A0before . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741440/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 52942,
     "Timestamp": "2026-08-10 07:34",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 53041,
+    "Timestamp": "2026-08-11 07:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:26 AM, Aug 11 2026 Crash on NB I-15 Collector Distributor\u00A0at Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742802/attachment_0.png",
+    "Latitude": 36.078835617458502,
+    "Longitude": -115.18136633150022
   }
 ]
