@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52957,
-    "Timestamp": "2026-08-10 10:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:27 AM, Aug 10 2026 Crash on SB I-15\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 52958,
     "Timestamp": "2026-08-10 10:34",
     "IncidentType": "Crash",
@@ -1412,5 +1398,33 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 53058,
+    "Timestamp": "2026-08-11 10:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Hazelcrest Dr",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "10:23 AM, Aug 11 2026 Crash on EB Flamingo Rd\u00A0at Hazelcrest Dr. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743110/attachment_0.png",
+    "Latitude": 36.115160099999997,
+    "Longitude": -115.0855985
+  },
+  {
+    "UniqueId": 53059,
+    "Timestamp": "2026-08-11 10:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "10:26 AM, Aug 11 2026 Crash on SB I-15\u00A0at Sahara Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
