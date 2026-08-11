@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 52897,
-    "Timestamp": "2026-08-09 17:42",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:42 PM, Aug 09 2026 Crash on EB Flamingo Rd\u00A0at Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3741001/attachment_0.jpg",
-    "Latitude": 36.114949000000003,
-    "Longitude": -115.06476549999999
-  },
-  {
-    "UniqueId": 52898,
-    "Timestamp": "2026-08-09 17:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Horizon Ridge Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:45 PM, Aug 09 2026 Crash on EB Horizon Ridge Pkwy\u00A0after Stephanie St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740985/attachment_0.jpg",
-    "Latitude": 36.021585600000002,
-    "Longitude": -115.04742140000001
-  },
-  {
-    "UniqueId": 52899,
-    "Timestamp": "2026-08-09 17:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Nb Lamb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:48 PM, Aug 09 2026 Crash on NB I-15\u00A0to NB Lamb Blvd ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3741006/attachment_0.png",
-    "Latitude": 36.173939599999997,
-    "Longitude": -115.0804419
-  },
-  {
-    "UniqueId": 52900,
-    "Timestamp": "2026-08-09 17:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:49 PM, Aug 09 2026 Stalled vehicle on NB I-11\u00A0before Lake Mead Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3741004/attachment_0.jpg",
-    "Latitude": 36.195698330673721,
-    "Longitude": -115.13873577117921
-  },
-  {
     "UniqueId": 52901,
     "Timestamp": "2026-08-09 18:03",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742426/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 52999,
+    "Timestamp": "2026-08-10 17:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Tenaya Wy",
+    "Relationship": "before",
+    "CrossStreet": "Centennial Pkwy",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:48 PM, Aug 10 2026 Crash on SB Tenaya Wy\u00A0before Centennial Pkwy. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742446/attachment_0.jpg",
+    "Latitude": 36.2767646,
+    "Longitude": -115.2516723
   }
 ]
