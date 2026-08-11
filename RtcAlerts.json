@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52936,
-    "Timestamp": "2026-08-10 06:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bellagio Dr",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "6:14 AM, Aug 10 2026 Crash on NB Las Vegas Blvd\u00A0at Bellagio Dr. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741293/attachment_0.png",
-    "Latitude": 36.1112179,
-    "Longitude": -115.1731355
-  },
-  {
-    "UniqueId": 52937,
-    "Timestamp": "2026-08-10 06:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Highland Dr",
-    "Relationship": "at",
-    "CrossStreet": "Western Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "6:22 AM, Aug 10 2026 Crash on SB Highland Dr\u00A0at Western Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.1513335,
-    "Longitude": -115.16279400000001
-  },
-  {
-    "UniqueId": 52938,
-    "Timestamp": "2026-08-10 06:29",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:29 AM, Aug 10 2026 Police activity on SB US-95\u00A0at Russell Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741312/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 52939,
     "Timestamp": "2026-08-10 06:43",
     "IncidentType": "Crash",
@@ -1370,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742623/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 53034,
+    "Timestamp": "2026-08-11 06:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:25 AM, Aug 11 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
