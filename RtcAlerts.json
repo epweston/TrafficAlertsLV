@@ -1384,5 +1384,33 @@
     "ImagePath": "",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 53056,
+    "Timestamp": "2026-08-11 10:18",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:18 AM, Aug 11 2026 Abandoned vehicle on WB 215 Southern Beltway\u00A0after Airport Connector. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 53057,
+    "Timestamp": "2026-08-11 10:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:20 AM, Aug 11 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
