@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52989,
-    "Timestamp": "2026-08-10 16:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder",
-    "Notes": "4:06 PM, Aug 10 2026 Crash on SB I-11\u00A0at Tropicana Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742388/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 52990,
     "Timestamp": "2026-08-10 16:13",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743570/attachment_0.png",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 53082,
+    "Timestamp": "2026-08-11 16:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:02 PM, Aug 11 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743558/attachment_0.png",
+    "Latitude": 36.143662482122316,
+    "Longitude": -115.1573931887723
   }
 ]
