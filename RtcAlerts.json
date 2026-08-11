@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52927,
-    "Timestamp": "2026-08-10 04:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Highland Dr",
-    "Relationship": "at",
-    "CrossStreet": "Western Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "4:10 AM, Aug 10 2026 Crash on SB Highland Dr\u00A0at Western Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.1513335,
-    "Longitude": -115.16279400000001
-  },
-  {
-    "UniqueId": 52928,
-    "Timestamp": "2026-08-10 04:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:33 AM, Aug 10 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 52929,
-    "Timestamp": "2026-08-10 04:34",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Peace Way",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "4:34 AM, Aug 10 2026 Police activity on SB Buffalo Dr\u00A0at Peace Way. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.107132700000001,
-    "Longitude": -115.2611606
-  },
-  {
     "UniqueId": 52930,
     "Timestamp": "2026-08-10 04:42",
     "IncidentType": "Crash",
@@ -1440,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742556/attachment_0.png",
     "Latitude": 36.171562999999999,
     "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 53030,
+    "Timestamp": "2026-08-11 04:31",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:31 AM, Aug 11 2026 Abandoned vehicle on WB 215 Southern Beltway\u00A0after Airport Connector. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
