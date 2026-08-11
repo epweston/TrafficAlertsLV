@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52960,
-    "Timestamp": "2026-08-10 11:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:31 AM, Aug 10 2026 Stalled vehicle on SB I-11\u00A0at Elkhorn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741991/attachment_0.jpg",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
     "UniqueId": 52961,
     "Timestamp": "2026-08-10 11:43",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "",
     "Latitude": 36.115160099999997,
     "Longitude": -115.0855985
+  },
+  {
+    "UniqueId": 53063,
+    "Timestamp": "2026-08-11 11:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:37 AM, Aug 11 2026 Crash on EB Flamingo Rd\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743249/attachment_0.png",
+    "Latitude": 36.114511499999999,
+    "Longitude": -115.2248991
   }
 ]
