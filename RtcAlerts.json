@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52917,
-    "Timestamp": "2026-08-10 00:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:46 AM, Aug 10 2026 Stalled vehicle on WB Charleston Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741056/attachment_0.png",
-    "Latitude": 36.158785199999997,
-    "Longitude": -115.1538525
-  },
-  {
     "UniqueId": 52918,
     "Timestamp": "2026-08-10 01:05",
     "IncidentType": "Police activity",
@@ -1522,6 +1508,20 @@
     "Impact": "All lanes are blocked.",
     "Notes": "12:31 AM, Aug 11 2026 Vehicle on fire on WB Warm Springs Rd\u00A0before Green Valley Pkwy. All lanes are blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742512/attachment_0.jpg",
+    "Latitude": 36.056545700000001,
+    "Longitude": -115.0843165
+  },
+  {
+    "UniqueId": 53026,
+    "Timestamp": "2026-08-11 00:44",
+    "IncidentType": "Update Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "before",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "All lanes are open.",
+    "Notes": "12:44 AM, Aug 11 2026 Update Vehicle on fire on WB Warm Springs Rd\u00A0before Green Valley Pkwy. All lanes are open.",
+    "ImagePath": "",
     "Latitude": 36.056545700000001,
     "Longitude": -115.0843165
   }
