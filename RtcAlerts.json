@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52915,
-    "Timestamp": "2026-08-09 23:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder",
-    "Notes": "11:10 PM, Aug 09 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3741068/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 52916,
     "Timestamp": "2026-08-09 23:24",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742504/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 53022,
+    "Timestamp": "2026-08-10 23:19",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "before",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right lanes blocked.",
+    "Notes": "11:19 PM, Aug 10 2026 Vehicle on fire on WB Warm Springs Rd\u00A0before Green Valley Pkwy. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742507/attachment_0.jpg",
+    "Latitude": 36.056545700000001,
+    "Longitude": -115.0843165
   }
 ]
