@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52991,
-    "Timestamp": "2026-08-10 16:28",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "",
-    "Notes": "4:28 PM, Aug 10 2026 Police activity on SB I-11\u00A0from Charleston Blvd on-ramp Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742392/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 52992,
     "Timestamp": "2026-08-10 16:41",
     "IncidentType": "Crash",
@@ -1314,5 +1300,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743579/attachment_0.png",
     "Latitude": 36.176691302008486,
     "Longitude": -115.24369620296332
+  },
+  {
+    "UniqueId": 53085,
+    "Timestamp": "2026-08-11 16:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Spencer St",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "4:24 PM, Aug 11 2026 Crash on WB Silverado Ranch Blvd\u00A0at Spencer St. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743589/attachment_0.png",
+    "Latitude": 36.013320999999998,
+    "Longitude": -115.12775050000001
+  },
+  {
+    "UniqueId": 53086,
+    "Timestamp": "2026-08-11 16:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:26 PM, Aug 11 2026 Crash on SB I-11\u00A0before Jones Blvd. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 53087,
+    "Timestamp": "2026-08-11 16:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:26 PM, Aug 11 2026 Crash on SB I-11\u00A0before Jones Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743583/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
