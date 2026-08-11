@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52942,
-    "Timestamp": "2026-08-10 07:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:34 AM, Aug 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741454/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 52943,
     "Timestamp": "2026-08-10 07:35",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742802/attachment_0.png",
     "Latitude": 36.078835617458502,
     "Longitude": -115.18136633150022
+  },
+  {
+    "UniqueId": 53042,
+    "Timestamp": "2026-08-11 07:33",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:33 AM, Aug 11 2026 Crash on EB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742835/attachment_0.png",
+    "Latitude": 36.195698330673721,
+    "Longitude": -115.13873577117921
   }
 ]
