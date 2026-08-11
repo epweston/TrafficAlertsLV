@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52939,
-    "Timestamp": "2026-08-10 06:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Montessouri St",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:43 AM, Aug 10 2026 Crash on EB Blue Diamond Rd\u00A0before Montessouri St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741350/attachment_0.jpg",
-    "Latitude": 36.021678718196362,
-    "Longitude": -115.24776219902184
-  },
-  {
     "UniqueId": 52940,
     "Timestamp": "2026-08-10 07:10",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,33 @@
     "ImagePath": "",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 53037,
+    "Timestamp": "2026-08-11 06:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:52 AM, Aug 11 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742719/attachment_0.png",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 53038,
+    "Timestamp": "2026-08-11 06:55",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "6:55 AM, Aug 11 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742723/attachment_0.jpg",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
