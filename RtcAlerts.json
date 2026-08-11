@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52905,
-    "Timestamp": "2026-08-09 18:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "5Th St",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:56 PM, Aug 09 2026 Crash on NB 5th St\u00A0after Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3741013/attachment_0.jpg",
-    "Latitude": 36.196169400000002,
-    "Longitude": -115.2555826
-  },
-  {
     "UniqueId": 52906,
     "Timestamp": "2026-08-09 19:25",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742463/attachment_0.jpg",
     "Latitude": 36.159093599999999,
     "Longitude": -115.2103205
+  },
+  {
+    "UniqueId": 53007,
+    "Timestamp": "2026-08-10 19:08",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Maryland Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "All lanes are blocked from Pebble Rd to Ford Ave.",
+    "Notes": "7:08 PM, Aug 10 2026 Police activity on NB Maryland Pkwy\u00A0after Pebble Rd. All lanes are blocked from Pebble Rd to Ford Ave.",
+    "ImagePath": "",
+    "Latitude": 36.028057699999998,
+    "Longitude": -115.1362748
+  },
+  {
+    "UniqueId": 53008,
+    "Timestamp": "2026-08-10 19:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Left and right shoulders.",
+    "Notes": "7:11 PM, Aug 10 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Left and right shoulders.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742436/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
