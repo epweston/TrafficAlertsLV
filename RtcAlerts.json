@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52908,
-    "Timestamp": "2026-08-09 20:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder",
-    "Notes": "8:33 PM, Aug 09 2026 Stalled vehicle on NB I-15\u00A0after Mile 4 (after Primm). Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3741018/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 52909,
     "Timestamp": "2026-08-09 21:10",
     "IncidentType": "Crash",
@@ -1480,6 +1466,20 @@
     "Impact": "Right lane blocked.",
     "Notes": "8:27 PM, Aug 10 2026 Fire on EB Wyoming Ave\u00A0after Industrial Rd. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742445/attachment_0.png",
+    "Latitude": 36.152466199999999,
+    "Longitude": -115.1592205
+  },
+  {
+    "UniqueId": 53014,
+    "Timestamp": "2026-08-10 20:31",
+    "IncidentType": "Fire",
+    "Direction": "EB",
+    "PrimaryRoad": "Wyoming Ave",
+    "Relationship": "after",
+    "CrossStreet": "Industrial Rd",
+    "Impact": "All lanes are blocked from Industrial Rd to Commerce St.",
+    "Notes": "8:31 PM, Aug 10 2026 Fire on EB Wyoming Ave\u00A0after Industrial Rd. All lanes are blocked from Industrial Rd to Commerce St.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742471/attachment_0.png",
     "Latitude": 36.152466199999999,
     "Longitude": -115.1592205
   }
