@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52893,
-    "Timestamp": "2026-08-09 17:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:17 PM, Aug 09 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740981/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 52894,
-    "Timestamp": "2026-08-09 17:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 5",
-    "Impact": "Right shoulder",
-    "Notes": "5:16 PM, Aug 09 2026 Stalled vehicle on SB I-15\u00A0before Mile 5. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740995/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 52895,
-    "Timestamp": "2026-08-09 17:26",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:26 PM, Aug 09 2026 Police activity on EB Charleston Blvd\u00A0at I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/09/file_attachments/3740997/attachment_0.jpg",
-    "Latitude": 36.158996094562028,
-    "Longitude": -115.16085736012774
-  },
-  {
     "UniqueId": 52896,
     "Timestamp": "2026-08-09 17:30",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742401/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 52996,
+    "Timestamp": "2026-08-10 17:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Airport Connector On Left",
+    "Impact": "",
+    "Notes": "5:26 PM, Aug 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Airport Connector on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742402/attachment_0.png",
+    "Latitude": 36.128090999999998,
+    "Longitude": -115.1503924
   }
 ]
