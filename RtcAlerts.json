@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52956,
-    "Timestamp": "2026-08-10 10:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:06 AM, Aug 10 2026 Crash on EB Twain Ave\u00A0after Paradise Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741843/attachment_0.jpg",
-    "Latitude": 36.121315799999998,
-    "Longitude": -115.155061
-  },
-  {
     "UniqueId": 52957,
     "Timestamp": "2026-08-10 10:27",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743044/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 53053,
+    "Timestamp": "2026-08-11 10:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:03 AM, Aug 11 2026 Crash on NB Las Vegas Blvd\u00A0at Lamb Blvd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.225338465005997,
+    "Longitude": -115.08024188900795
   }
 ]
