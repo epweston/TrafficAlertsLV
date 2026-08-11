@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52926,
-    "Timestamp": "2026-08-10 03:58",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Peace Way",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "3:58 AM, Aug 10 2026 Police activity on SB Buffalo Dr\u00A0at Peace Way. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.107132700000001,
-    "Longitude": -115.2611606
-  },
-  {
     "UniqueId": 52927,
     "Timestamp": "2026-08-10 04:10",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 53029,
+    "Timestamp": "2026-08-11 04:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:00 AM, Aug 11 2026 Stalled vehicle on NB Airport Connector\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742556/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
