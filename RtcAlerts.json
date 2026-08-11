@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52943,
-    "Timestamp": "2026-08-10 07:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:35 AM, Aug 10 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3741455/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 52944,
     "Timestamp": "2026-08-10 08:03",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742835/attachment_0.png",
     "Latitude": 36.195698330673721,
     "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 53043,
+    "Timestamp": "2026-08-11 07:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pollock Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:43 AM, Aug 11 2026 Crash on EB Silverado Ranch Blvd\u00A0at Pollock Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742845/attachment_0.png",
+    "Latitude": 36.013315800000001,
+    "Longitude": -115.1457013
+  },
+  {
+    "UniqueId": 53044,
+    "Timestamp": "2026-08-11 07:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pollock Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:43 AM, Aug 11 2026 Crash on EB Silverado Ranch Blvd\u00A0at Pollock Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.013315800000001,
+    "Longitude": -115.1457013
   }
 ]
