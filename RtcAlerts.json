@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53016,
-    "Timestamp": "2026-08-10 20:51",
-    "IncidentType": "Update Fire",
-    "Direction": "EB",
-    "PrimaryRoad": "Wyoming Ave",
-    "Relationship": "after",
-    "CrossStreet": "Industrial Rd",
-    "Impact": "Right lane blocked. Left lane is open.",
-    "Notes": "8:51 PM, Aug 10 2026 Update Fire on EB Wyoming Ave\u00A0after Industrial Rd. Right lane blocked. Left lane is open.",
-    "ImagePath": "",
-    "Latitude": 36.152466199999999,
-    "Longitude": -115.1592205
-  },
-  {
-    "UniqueId": 53017,
-    "Timestamp": "2026-08-10 20:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bellagio Dr",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:54 PM, Aug 10 2026 Crash on WB Bellagio Dr\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742492/attachment_0.jpg",
-    "Latitude": 36.1112179,
-    "Longitude": -115.1731355
-  },
-  {
-    "UniqueId": 53018,
-    "Timestamp": "2026-08-10 21:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:53 PM, Aug 10 2026 Crash on SB Durango Dr\u00A0after Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742498/attachment_0.png",
-    "Latitude": 36.070465899999988,
-    "Longitude": -115.27951229999999
-  },
-  {
     "UniqueId": 53019,
     "Timestamp": "2026-08-10 22:40",
     "IncidentType": "Crash",
@@ -1174,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743656/attachment_0.png",
     "Latitude": 36.100859441550384,
     "Longitude": -115.16388414057163
+  },
+  {
+    "UniqueId": 53100,
+    "Timestamp": "2026-08-11 21:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:56 PM, Aug 11 2026 Crash on WB Charleston Blvd\u00A0at Lamb Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743666/attachment_0.png",
+    "Latitude": 36.158944221110033,
+    "Longitude": -115.08028507232667
   }
 ]
