@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53071,
-    "Timestamp": "2026-08-11 14:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Jean",
-    "Impact": "NB I-15 is now open.",
-    "Notes": "2:04 PM, Aug 11 2026 Crash on NB I-15\u00A0at Jean. NB I-15 is now open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743450/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 53072,
-    "Timestamp": "2026-08-11 14:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:08 PM, Aug 11 2026 Crash on SB I-15 (CD Rd) \u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743453/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 53073,
     "Timestamp": "2026-08-11 14:54",
     "IncidentType": "Crash",
@@ -1174,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744721/attachment_0.png",
     "Latitude": 36.2175802,
     "Longitude": -115.11298549999999
+  },
+  {
+    "UniqueId": 53155,
+    "Timestamp": "2026-08-12 14:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "2:28 PM, Aug 12 2026 Crash on NB I-11\u00A0at Elkhorn Rd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744791/attachment_0.png",
+    "Latitude": 36.291693742081051,
+    "Longitude": -115.2797598374233
   }
 ]
