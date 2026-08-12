@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 52992,
-    "Timestamp": "2026-08-10 16:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:41 PM, Aug 10 2026 Crash on EB Spring Mountain Rd\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742413/attachment_0.png",
-    "Latitude": 36.125502099999999,
-    "Longitude": -115.2248548
-  },
-  {
-    "UniqueId": 52993,
-    "Timestamp": "2026-08-10 16:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:46 PM, Aug 10 2026 Crash on NB Rancho Dr\u00A0at Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742414/attachment_0.png",
-    "Latitude": 36.1885677,
-    "Longitude": -115.18592959999999
-  },
-  {
-    "UniqueId": 52994,
-    "Timestamp": "2026-08-10 16:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:47 PM, Aug 10 2026 Crash on WB Craig Rd\u00A0after Losee Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742415/attachment_0.png",
-    "Latitude": 36.239773575501886,
-    "Longitude": -115.11682743770037
-  },
-  {
     "UniqueId": 52995,
     "Timestamp": "2026-08-10 17:10",
     "IncidentType": "Crash",
@@ -1342,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743583/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 53088,
+    "Timestamp": "2026-08-11 17:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:00 PM, Aug 11 2026 Crash on SB Rainbow Blvd\u00A0before Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743603/attachment_0.jpg",
+    "Latitude": 36.070543507237815,
+    "Longitude": -115.24253723908187
   }
 ]
