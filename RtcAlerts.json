@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53034,
-    "Timestamp": "2026-08-11 06:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:25 AM, Aug 11 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 53035,
-    "Timestamp": "2026-08-11 06:33",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:33 AM, Aug 11 2026 Abandoned vehicle on WB 215 Southern Beltway\u00A0after Airport Connector. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
-    "UniqueId": 53036,
-    "Timestamp": "2026-08-11 06:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:33 AM, Aug 11 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 53037,
     "Timestamp": "2026-08-11 06:52",
     "IncidentType": "Crash",
@@ -1160,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743866/attachment_0.png",
     "Latitude": 36.154855519034463,
     "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 53117,
+    "Timestamp": "2026-08-12 06:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd North",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:41 AM, Aug 12 2026 Crash on SB Lamb Blvd\u00A0before Las Vegas Blvd North. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743888/attachment_0.png",
+    "Latitude": 36.2254231,
+    "Longitude": -115.08002999999999
   }
 ]
