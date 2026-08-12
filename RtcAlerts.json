@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53024,
-    "Timestamp": "2026-08-11 00:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Multiple directions blocked.",
-    "Notes": "12:00 AM, Aug 11 2026 Crash on EB Tropicana Ave\u00A0at Fort Apache Rd. Multiple directions blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742510/attachment_0.jpg",
-    "Latitude": 36.10003591109745,
-    "Longitude": -115.29730796813966
-  },
-  {
     "UniqueId": 53025,
     "Timestamp": "2026-08-11 00:31",
     "IncidentType": "Vehicle on fire",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743669/attachment_0.png",
     "Latitude": 36.086214300000002,
     "Longitude": -115.1730815
+  },
+  {
+    "UniqueId": 53103,
+    "Timestamp": "2026-08-12 00:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Losee Rd",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "12:22 AM, Aug 12 2026 Crash on SB Losee Rd\u00A0at Lake Mead Blvd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743686/attachment_0.png",
+    "Latitude": 36.195684399999998,
+    "Longitude": -115.14291420000001
   }
 ]
