@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53083,
-    "Timestamp": "2026-08-11 16:12",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:12 PM, Aug 11 2026 Vehicle on fire on NB I-15\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743562/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 53084,
     "Timestamp": "2026-08-11 16:22",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "",
     "Latitude": 35.999231399999999,
     "Longitude": -115.15506480000001
+  },
+  {
+    "UniqueId": 53168,
+    "Timestamp": "2026-08-12 16:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane is partially blocked.",
+    "Notes": "4:17 PM, Aug 12 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Left lane is partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744910/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
