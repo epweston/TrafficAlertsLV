@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53067,
-    "Timestamp": "2026-08-11 12:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:28 PM, Aug 11 2026 Crash on WB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743301/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 53068,
     "Timestamp": "2026-08-11 13:15",
     "IncidentType": "Crash",
@@ -1146,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744586/attachment_0.png",
     "Latitude": 36.071052799999997,
     "Longitude": -115.01763010000001
+  },
+  {
+    "UniqueId": 53149,
+    "Timestamp": "2026-08-12 13:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Cc-215",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:00 PM, Aug 12 2026 Crash on WB Charleston Blvd\u00A0at CC-215. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744651/attachment_0.png",
+    "Latitude": 36.159101499999998,
+    "Longitude": -115.2573239
+  },
+  {
+    "UniqueId": 53150,
+    "Timestamp": "2026-08-12 13:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 5",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:02 PM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0after Mile 5. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744655/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
