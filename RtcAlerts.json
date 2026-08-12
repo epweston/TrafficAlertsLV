@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53007,
-    "Timestamp": "2026-08-10 19:08",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "All lanes are blocked from Pebble Rd to Ford Ave.",
-    "Notes": "7:08 PM, Aug 10 2026 Police activity on NB Maryland Pkwy\u00A0after Pebble Rd. All lanes are blocked from Pebble Rd to Ford Ave.",
-    "ImagePath": "",
-    "Latitude": 36.028057699999998,
-    "Longitude": -115.1362748
-  },
-  {
-    "UniqueId": 53008,
-    "Timestamp": "2026-08-10 19:11",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Left and right shoulders.",
-    "Notes": "7:11 PM, Aug 10 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Left and right shoulders.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742436/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 53009,
-    "Timestamp": "2026-08-10 19:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder",
-    "Notes": "7:21 PM, Aug 10 2026 Crash on NB I-15\u00A0before Starr Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742437/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 53010,
     "Timestamp": "2026-08-10 19:23",
     "IncidentType": "Crash",
@@ -1244,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743642/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 53096,
+    "Timestamp": "2026-08-11 19:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:18 PM, Aug 11 2026 Crash on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743649/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
