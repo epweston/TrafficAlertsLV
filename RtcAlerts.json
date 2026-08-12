@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53048,
-    "Timestamp": "2026-08-11 09:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:25 AM, Aug 11 2026 Crash on EB Las Vegas Blvd\u00A0at Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743004/attachment_0.jpg",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
-    "UniqueId": 53049,
-    "Timestamp": "2026-08-11 09:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:26 AM, Aug 11 2026 Crash on NB Las Vegas Blvd\u00A0at Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743027/attachment_0.jpg",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
     "UniqueId": 53050,
     "Timestamp": "2026-08-11 09:34",
     "IncidentType": "Crash",
@@ -1160,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744140/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 53131,
+    "Timestamp": "2026-08-12 09:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:20 AM, Aug 12 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744165/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 53132,
+    "Timestamp": "2026-08-12 09:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:23 AM, Aug 12 2026 Crash on NB 215 Western Beltway\u00A0at Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744144/attachment_0.jpg",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
