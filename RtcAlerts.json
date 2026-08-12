@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53062,
-    "Timestamp": "2026-08-11 11:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Hazelcrest Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:10 AM, Aug 11 2026 Crash on EB Flamingo Rd\u00A0at Hazelcrest Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.115160099999997,
-    "Longitude": -115.0855985
-  },
-  {
-    "UniqueId": 53063,
-    "Timestamp": "2026-08-11 11:37",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:37 AM, Aug 11 2026 Crash on EB Flamingo Rd\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743249/attachment_0.png",
-    "Latitude": 36.114511499999999,
-    "Longitude": -115.2248991
-  },
-  {
     "UniqueId": 53064,
     "Timestamp": "2026-08-11 12:11",
     "IncidentType": "Crash",
@@ -1118,5 +1090,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744457/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 53142,
+    "Timestamp": "2026-08-12 11:19",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:19 AM, Aug 12 2026 Police activity on SB Jones Blvd\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744497/attachment_0.png",
+    "Latitude": 36.114589600000002,
+    "Longitude": -115.2249535
+  },
+  {
+    "UniqueId": 53143,
+    "Timestamp": "2026-08-12 11:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:34 AM, Aug 12 2026 Crash on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744509/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 53144,
+    "Timestamp": "2026-08-12 11:36",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "11:36 AM, Aug 12 2026 Police activity on SB Jones Blvd\u00A0at Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744513/attachment_0.png",
+    "Latitude": 36.114589600000002,
+    "Longitude": -115.2249535
   }
 ]
