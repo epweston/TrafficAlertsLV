@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53032,
-    "Timestamp": "2026-08-11 05:30",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:30 AM, Aug 11 2026 Abandoned vehicle on WB 215 Southern Beltway\u00A0after Airport Connector. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
-    "UniqueId": 53033,
-    "Timestamp": "2026-08-11 05:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:40 AM, Aug 11 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742623/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 53034,
     "Timestamp": "2026-08-11 06:25",
     "IncidentType": "Stalled vehicle",
@@ -1104,5 +1076,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743809/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 53111,
+    "Timestamp": "2026-08-12 05:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Veterans Memorial Hwy",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:40 AM, Aug 12 2026 Crash on NB I-11\u00A0at Veterans Memorial Hwy. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743814/attachment_0.png",
+    "Latitude": 36.329906000000001,
+    "Longitude": -115.31443849999999
+  },
+  {
+    "UniqueId": 53112,
+    "Timestamp": "2026-08-12 05:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:42 AM, Aug 12 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743818/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
