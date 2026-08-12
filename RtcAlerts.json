@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52995,
-    "Timestamp": "2026-08-10 17:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left lane partially blocked.",
-    "Notes": "5:10 PM, Aug 10 2026 Crash on SB I-11\u00A0at Boulder Hwy. Left lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742401/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 52996,
     "Timestamp": "2026-08-10 17:26",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743603/attachment_0.jpg",
     "Latitude": 36.070543507237815,
     "Longitude": -115.24253723908187
+  },
+  {
+    "UniqueId": 53089,
+    "Timestamp": "2026-08-11 17:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:07 PM, Aug 11 2026 Crash on SB Rancho Dr\u00A0before Craig Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743614/attachment_0.png",
+    "Latitude": 36.2397007,
+    "Longitude": -115.23257750000001
   }
 ]
