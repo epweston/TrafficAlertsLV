@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53076,
-    "Timestamp": "2026-08-11 15:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Peace Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:47 PM, Aug 11 2026 Crash on NB Durango Dr\u00A0before Peace Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743545/attachment_0.png",
-    "Latitude": 36.107477727572459,
-    "Longitude": -115.27916012201989
-  },
-  {
-    "UniqueId": 53077,
-    "Timestamp": "2026-08-11 15:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:50 PM, Aug 11 2026 Crash on EB Lake Mead Blvd\u00A0before Civic Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743524/attachment_0.jpg",
-    "Latitude": 36.195946300000003,
-    "Longitude": -115.11643030000001
-  },
-  {
     "UniqueId": 53078,
     "Timestamp": "2026-08-11 15:53",
     "IncidentType": "Crash",
@@ -1202,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744849/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 53162,
+    "Timestamp": "2026-08-12 15:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:44 PM, Aug 12 2026 Crash on SB Decatur Blvd\u00A0at Bonanza Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744860/attachment_0.png",
+    "Latitude": 36.177328299999999,
+    "Longitude": -115.206138
+  },
+  {
+    "UniqueId": 53163,
+    "Timestamp": "2026-08-12 15:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:47 PM, Aug 12 2026 Crash on NB I-11\u00A0after Eastern Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744873/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
