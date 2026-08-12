@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53022,
-    "Timestamp": "2026-08-10 23:19",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "11:19 PM, Aug 10 2026 Vehicle on fire on WB Warm Springs Rd\u00A0before Green Valley Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742507/attachment_0.jpg",
-    "Latitude": 36.056545700000001,
-    "Longitude": -115.0843165
-  },
-  {
-    "UniqueId": 53023,
-    "Timestamp": "2026-08-10 23:23",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:23 PM, Aug 10 2026 Vehicle on fire on WB Warm Springs Rd\u00A0before Green Valley Pkwy. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742480/attachment_0.png",
-    "Latitude": 36.056545700000001,
-    "Longitude": -115.0843165
-  },
-  {
     "UniqueId": 53024,
     "Timestamp": "2026-08-11 00:00",
     "IncidentType": "Crash",
@@ -1118,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743660/attachment_0.png",
     "Latitude": 35.999066361520875,
     "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 53102,
+    "Timestamp": "2026-08-11 23:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:29 PM, Aug 11 2026 Crash on WB Russell Rd\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743669/attachment_0.png",
+    "Latitude": 36.086214300000002,
+    "Longitude": -115.1730815
   }
 ]
