@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 53011,
-    "Timestamp": "2026-08-10 19:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Left shoulder",
-    "Notes": "7:55 PM, Aug 10 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Lone Mountain Rd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742442/attachment_0.jpg",
-    "Latitude": 36.247864105361664,
-    "Longitude": -115.3179235052795
-  },
-  {
-    "UniqueId": 53012,
-    "Timestamp": "2026-08-10 20:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Wagon Wheel Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:11 PM, Aug 10 2026 Crash on SB Wagon Wheel Dr\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742469/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 53013,
-    "Timestamp": "2026-08-10 20:27",
-    "IncidentType": "Fire",
-    "Direction": "EB",
-    "PrimaryRoad": "Wyoming Ave",
-    "Relationship": "after",
-    "CrossStreet": "Industrial Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:27 PM, Aug 10 2026 Fire on EB Wyoming Ave\u00A0after Industrial Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742445/attachment_0.png",
-    "Latitude": 36.152466199999999,
-    "Longitude": -115.1592205
-  },
-  {
-    "UniqueId": 53014,
-    "Timestamp": "2026-08-10 20:31",
-    "IncidentType": "Fire",
-    "Direction": "EB",
-    "PrimaryRoad": "Wyoming Ave",
-    "Relationship": "after",
-    "CrossStreet": "Industrial Rd",
-    "Impact": "All lanes are blocked from Industrial Rd to Commerce St.",
-    "Notes": "8:31 PM, Aug 10 2026 Fire on EB Wyoming Ave\u00A0after Industrial Rd. All lanes are blocked from Industrial Rd to Commerce St.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742471/attachment_0.png",
-    "Latitude": 36.152466199999999,
-    "Longitude": -115.1592205
-  },
-  {
-    "UniqueId": 53015,
-    "Timestamp": "2026-08-10 20:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "8:36 PM, Aug 10 2026 Stalled vehicle on SB I-11\u00A0after I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742490/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 53016,
     "Timestamp": "2026-08-10 20:51",
     "IncidentType": "Update Fire",
@@ -1230,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743652/attachment_0.png",
     "Latitude": 36.115079025217497,
     "Longitude": -115.30254383728953
+  },
+  {
+    "UniqueId": 53099,
+    "Timestamp": "2026-08-11 20:32",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:32 PM, Aug 11 2026 Crash on EB Tropicana Ave\u00A0before Koval Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743656/attachment_0.png",
+    "Latitude": 36.100859441550384,
+    "Longitude": -115.16388414057163
   }
 ]
