@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53019,
-    "Timestamp": "2026-08-10 22:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:40 PM, Aug 10 2026 Crash on EB Tropicana Ave\u00A0after Koval Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742499/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 53020,
-    "Timestamp": "2026-08-10 22:46",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "10:46 PM, Aug 10 2026 Police activity on NB I-15\u00A0after Lake Mead Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742502/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 53021,
-    "Timestamp": "2026-08-10 23:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "11:00 PM, Aug 10 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742504/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 53022,
     "Timestamp": "2026-08-10 23:19",
     "IncidentType": "Vehicle on fire",
@@ -1146,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743666/attachment_0.png",
     "Latitude": 36.158944221110033,
     "Longitude": -115.08028507232667
+  },
+  {
+    "UniqueId": 53101,
+    "Timestamp": "2026-08-11 23:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:01 PM, Aug 11 2026 Stalled vehicle on SB I-15\u00A0to Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743660/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
   }
 ]
