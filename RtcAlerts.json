@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53031,
-    "Timestamp": "2026-08-11 05:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:28 AM, Aug 11 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3742618/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 53032,
     "Timestamp": "2026-08-11 05:30",
     "IncidentType": "Abandoned vehicle",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743744/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 53110,
+    "Timestamp": "2026-08-12 05:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Gore blocked.",
+    "Notes": "5:23 AM, Aug 12 2026 Stalled vehicle on NB I-11\u00A0at Horizon Dr. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743809/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
