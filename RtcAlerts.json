@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 52999,
-    "Timestamp": "2026-08-10 17:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Tenaya Wy",
-    "Relationship": "before",
-    "CrossStreet": "Centennial Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:48 PM, Aug 10 2026 Crash on SB Tenaya Wy\u00A0before Centennial Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/10/file_attachments/3742446/attachment_0.jpg",
-    "Latitude": 36.2767646,
-    "Longitude": -115.2516723
-  },
-  {
     "UniqueId": 53000,
     "Timestamp": "2026-08-10 17:57",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743618/attachment_0.png",
     "Latitude": 36.1401976,
     "Longitude": -115.15489270000001
+  },
+  {
+    "UniqueId": 53093,
+    "Timestamp": "2026-08-11 17:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:51 PM, Aug 11 2026 Crash on SB Jones Blvd\u00A0after Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743634/attachment_0.jpg",
+    "Latitude": 36.070916414970533,
+    "Longitude": -115.22434649754285
   }
 ]
