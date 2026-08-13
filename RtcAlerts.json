@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53139,
-    "Timestamp": "2026-08-12 10:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:42 AM, Aug 12 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Durango Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744434/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 53140,
     "Timestamp": "2026-08-12 10:49",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745713/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 53252,
+    "Timestamp": "2026-08-13 10:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:38 AM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0after Neon Gateway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745744/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 53253,
+    "Timestamp": "2026-08-13 10:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:39 AM, Aug 13 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745766/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
