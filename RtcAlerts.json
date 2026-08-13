@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53137,
-    "Timestamp": "2026-08-12 10:12",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Gore blocked.",
-    "Notes": "10:12 AM, Aug 12 2026 Police activity on SB I-15\u00A0at Cheyenne Ave. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744285/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53138,
-    "Timestamp": "2026-08-12 10:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:27 AM, Aug 12 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744377/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 53139,
     "Timestamp": "2026-08-12 10:42",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745672/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 53250,
+    "Timestamp": "2026-08-13 10:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:22 AM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745728/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 53251,
+    "Timestamp": "2026-08-13 10:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:23 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745713/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
