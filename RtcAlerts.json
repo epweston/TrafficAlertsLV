@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53125,
-    "Timestamp": "2026-08-12 08:13",
-    "IncidentType": "Hazard",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:13 AM, Aug 12 2026 Hazard on SB 215 Southern Beltway\u00A0at I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744023/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 53126,
     "Timestamp": "2026-08-12 08:19",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745475/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 53236,
+    "Timestamp": "2026-08-13 08:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:11 AM, Aug 13 2026 Crash on EB Craig Rd\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745479/attachment_0.jpg",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 53237,
+    "Timestamp": "2026-08-13 08:12",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:12 AM, Aug 13 2026 Crash on EB Craig Rd\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745481/attachment_0.png",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
   }
 ]
