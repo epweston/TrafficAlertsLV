@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53145,
-    "Timestamp": "2026-08-12 12:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "after",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "12:01 PM, Aug 12 2026 Crash on SB Stephanie St\u00A0after Galleria Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744532/attachment_0.jpg",
-    "Latitude": 36.070971200000002,
-    "Longitude": -115.0461737
-  },
-  {
     "UniqueId": 53146,
     "Timestamp": "2026-08-12 12:11",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745932/attachment_0.png",
     "Latitude": 36.028423199999999,
     "Longitude": -115.17012440000001
+  },
+  {
+    "UniqueId": 53262,
+    "Timestamp": "2026-08-13 12:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:01 PM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745935/attachment_0.jpg",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
