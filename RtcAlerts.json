@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53105,
-    "Timestamp": "2026-08-12 02:46",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:46 AM, Aug 12 2026 Police activity on WB 215 Southern Beltway\u00A0at Pecos Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743678/attachment_0.png",
-    "Latitude": 36.166761536436809,
-    "Longitude": -115.0982451648641
-  },
-  {
-    "UniqueId": 53106,
-    "Timestamp": "2026-08-12 03:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:02 AM, Aug 12 2026 Crash on SB Jones Blvd\u00A0at Hacienda Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743700/attachment_0.png",
-    "Latitude": 36.092563061347661,
-    "Longitude": -115.22510286237913
-  },
-  {
     "UniqueId": 53107,
     "Timestamp": "2026-08-12 03:46",
     "IncidentType": "Police activity",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745055/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 53214,
+    "Timestamp": "2026-08-13 03:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:42 AM, Aug 13 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745088/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
