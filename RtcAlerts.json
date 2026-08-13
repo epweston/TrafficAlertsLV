@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53095,
-    "Timestamp": "2026-08-11 19:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Ramp blocked. Use other routes.",
-    "Notes": "7:00 PM, Aug 11 2026 Crash on EB 215 Southern Beltway offramp to Valle Verde Dr. Ramp blocked. Use other routes.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743642/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 53096,
-    "Timestamp": "2026-08-11 19:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:18 PM, Aug 11 2026 Crash on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743649/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 53097,
-    "Timestamp": "2026-08-11 19:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "",
-    "Notes": "7:23 PM, Aug 11 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Lake Mead Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743651/attachment_0.png",
-    "Latitude": 36.205568079996773,
-    "Longitude": -115.34099578857423
-  },
-  {
     "UniqueId": 53098,
     "Timestamp": "2026-08-11 19:30",
     "IncidentType": "Crash",
@@ -1384,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744999/attachment_0.png",
     "Latitude": 36.064393000000003,
     "Longitude": -115.1185065
+  },
+  {
+    "UniqueId": 53194,
+    "Timestamp": "2026-08-12 19:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Maryland Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Serene Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "7:22 PM, Aug 12 2026 Crash on SB Maryland Pkwy\u00A0after Serene Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3745004/attachment_0.png",
+    "Latitude": 36.020612100000001,
+    "Longitude": -115.1364545
   }
 ]
