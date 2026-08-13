@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53093,
-    "Timestamp": "2026-08-11 17:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:51 PM, Aug 11 2026 Crash on SB Jones Blvd\u00A0after Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743634/attachment_0.jpg",
-    "Latitude": 36.070916414970533,
-    "Longitude": -115.22434649754285
-  },
-  {
     "UniqueId": 53094,
     "Timestamp": "2026-08-11 18:30",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744964/attachment_0.png",
     "Latitude": 36.121397100000003,
     "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 53187,
+    "Timestamp": "2026-08-12 17:45",
+    "IncidentType": "Update: Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr Wb Cheyenne Is",
+    "Impact": "Right lanes remain blocked",
+    "Notes": "5:45 PM, Aug 12 2026 Update: Crash on WB Cheyenne Ave\u00A0at Buffalo Dr WB Cheyenne is blocked at Buffalo SB Bufalo is open. Right lanes remain blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744986/attachment_0.png",
+    "Latitude": 36.218607499999997,
+    "Longitude": -115.2611395
+  },
+  {
+    "UniqueId": 53188,
+    "Timestamp": "2026-08-12 17:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Dayton Cir",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:49 PM, Aug 12 2026 Crash on NB Jones Blvd\u00A0at Dayton Cir. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744970/attachment_0.png",
+    "Latitude": 36.169752299999999,
+    "Longitude": -115.2239562
   }
 ]
