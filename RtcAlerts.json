@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53098,
-    "Timestamp": "2026-08-11 19:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "from",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:30 PM, Aug 11 2026 Crash on EB Flamingo Rd\u00A0from 215 Western Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743652/attachment_0.png",
-    "Latitude": 36.115079025217497,
-    "Longitude": -115.30254383728953
-  },
-  {
     "UniqueId": 53099,
     "Timestamp": "2026-08-11 20:32",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3745004/attachment_0.png",
     "Latitude": 36.020612100000001,
     "Longitude": -115.1364545
+  },
+  {
+    "UniqueId": 53195,
+    "Timestamp": "2026-08-12 19:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Coronado Center Dr",
+    "Impact": "All lanes WB and SB are blocked.",
+    "Notes": "7:31 PM, Aug 12 2026 Crash on SB Eastern Ave\u00A0at Coronado Center Dr. All lanes WB and SB are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744981/attachment_0.png",
+    "Latitude": 36.002564409146181,
+    "Longitude": -115.10892569074953
   }
 ]
