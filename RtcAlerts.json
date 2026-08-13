@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53151,
-    "Timestamp": "2026-08-12 13:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "1:07 PM, Aug 12 2026 Crash on EB Washington Ave\u00A0at Nellis Blvd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744656/attachment_0.jpg",
-    "Latitude": 36.181433900000002,
-    "Longitude": -115.0622742
-  },
-  {
     "UniqueId": 53152,
     "Timestamp": "2026-08-12 13:32",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746051/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 53266,
+    "Timestamp": "2026-08-13 13:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "",
+    "Notes": "1:05 PM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Durango Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746053/attachment_0.png",
+    "Latitude": 36.066203023950436,
+    "Longitude": -115.27945518493652
   }
 ]
