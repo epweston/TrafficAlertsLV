@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53133,
-    "Timestamp": "2026-08-12 09:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:43 AM, Aug 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744177/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 53134,
-    "Timestamp": "2026-08-12 09:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mel Torme Way",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:47 AM, Aug 12 2026 Crash on EB Spring Mountain Rd\u00A0at Mel Torme Way. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744223/attachment_0.png",
-    "Latitude": 36.12558859559698,
-    "Longitude": -115.17317023475012
-  },
-  {
-    "UniqueId": 53135,
-    "Timestamp": "2026-08-12 09:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:49 AM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744247/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53136,
-    "Timestamp": "2026-08-12 10:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "10:00 AM, Aug 12 2026 Crash on NB University Center Dr\u00A0at Tropicana Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744276/attachment_0.png",
-    "Latitude": 36.101074300000001,
-    "Longitude": -115.1459157
-  },
-  {
     "UniqueId": 53137,
     "Timestamp": "2026-08-12 10:12",
     "IncidentType": "Police activity",
@@ -1608,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745630/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 53249,
+    "Timestamp": "2026-08-13 10:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:04 AM, Aug 13 2026 Crash on NB I-11\u00A0before Galleria Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745672/attachment_0.png",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
