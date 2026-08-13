@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53088,
-    "Timestamp": "2026-08-11 17:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:00 PM, Aug 11 2026 Crash on SB Rainbow Blvd\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743603/attachment_0.jpg",
-    "Latitude": 36.070543507237815,
-    "Longitude": -115.24253723908187
-  },
-  {
-    "UniqueId": 53089,
-    "Timestamp": "2026-08-11 17:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:07 PM, Aug 11 2026 Crash on SB Rancho Dr\u00A0before Craig Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743614/attachment_0.png",
-    "Latitude": 36.2397007,
-    "Longitude": -115.23257750000001
-  },
-  {
     "UniqueId": 53090,
     "Timestamp": "2026-08-11 17:18",
     "IncidentType": "Crash",
@@ -1230,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744946/attachment_0.png",
     "Latitude": 36.289875459999998,
     "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 53176,
+    "Timestamp": "2026-08-12 17:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:07 PM, Aug 12 2026 Crash on SB I-11\u00A0at I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744935/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
