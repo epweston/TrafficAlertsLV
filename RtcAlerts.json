@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53152,
-    "Timestamp": "2026-08-12 13:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:32 PM, Aug 12 2026 Crash on NB I-11\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744691/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 53153,
     "Timestamp": "2026-08-12 13:47",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746089/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 53268,
+    "Timestamp": "2026-08-13 13:38",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Teddy Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "1:38 PM, Aug 13 2026 Crash on WB Sahara Ave\u00A0at Teddy Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746082/attachment_0.jpg",
+    "Latitude": 36.144299294499945,
+    "Longitude": -115.17759562167909
   }
 ]
