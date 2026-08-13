@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 53168,
-    "Timestamp": "2026-08-12 16:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane is partially blocked.",
-    "Notes": "4:17 PM, Aug 12 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Left lane is partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744910/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 53169,
-    "Timestamp": "2026-08-12 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:19 PM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0at Mile 4. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744912/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53170,
-    "Timestamp": "2026-08-12 16:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:22 PM, Aug 12 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744913/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 53171,
-    "Timestamp": "2026-08-12 16:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:23 PM, Aug 12 2026 Crash on NB I-11\u00A0at Flamingo Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744915/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 53172,
-    "Timestamp": "2026-08-12 16:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "4:26 PM, Aug 12 2026 Crash on WB Flamingo Rd\u00A0before Jones Blvd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744917/attachment_0.png",
-    "Latitude": 36.114511499999999,
-    "Longitude": -115.2248991
-  },
-  {
     "UniqueId": 53173,
     "Timestamp": "2026-08-12 16:31",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746261/attachment_0.png",
     "Latitude": 36.180571500000013,
     "Longitude": -115.17884290000001
+  },
+  {
+    "UniqueId": 53287,
+    "Timestamp": "2026-08-13 16:25",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Arville St",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "4:25 PM, Aug 13 2026 Crash on EB Desert Inn Rd\u00A0at Arville St. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746273/attachment_0.png",
+    "Latitude": 36.129995399999999,
+    "Longitude": -115.19911329999999
   }
 ]
