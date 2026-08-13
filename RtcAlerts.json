@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53129,
-    "Timestamp": "2026-08-12 08:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Range Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:44 AM, Aug 12 2026 Crash on SB Las Vegas Blvd \u00A0before Range Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744107/attachment_0.png",
-    "Latitude": 36.246219400000001,
-    "Longitude": -115.0445976
-  },
-  {
     "UniqueId": 53130,
     "Timestamp": "2026-08-12 09:17",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745525/attachment_0.jpg",
     "Latitude": 36.159381699999997,
     "Longitude": -115.03985110000001
+  },
+  {
+    "UniqueId": 53243,
+    "Timestamp": "2026-08-13 08:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Burkholder Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:43 AM, Aug 13 2026 Crash on WB Lake Mead Pkwy\u00A0at Burkholder Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745550/attachment_0.png",
+    "Latitude": 36.043773000000009,
+    "Longitude": -114.9768267
+  },
+  {
+    "UniqueId": 53244,
+    "Timestamp": "2026-08-13 08:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:44 AM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745553/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
