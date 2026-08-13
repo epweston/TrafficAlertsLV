@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53173,
-    "Timestamp": "2026-08-12 16:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:31 PM, Aug 12 2026 Stalled vehicle on SB I-11\u00A0at Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744923/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
-    "UniqueId": 53174,
-    "Timestamp": "2026-08-12 16:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:39 PM, Aug 12 2026 Crash on EB 215 Southern Beltway\u00A0after Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744928/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 53175,
-    "Timestamp": "2026-08-12 16:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:40 PM, Aug 12 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744946/attachment_0.png",
-    "Latitude": 36.289875459999998,
-    "Longitude": -115.07998461
-  },
-  {
     "UniqueId": 53176,
     "Timestamp": "2026-08-12 17:07",
     "IncidentType": "Crash",
@@ -1594,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746273/attachment_0.png",
     "Latitude": 36.129995399999999,
     "Longitude": -115.19911329999999
+  },
+  {
+    "UniqueId": 53288,
+    "Timestamp": "2026-08-13 16:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:41 PM, Aug 13 2026 Crash on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746276/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
