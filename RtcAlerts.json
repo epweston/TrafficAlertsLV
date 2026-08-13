@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53090,
-    "Timestamp": "2026-08-11 17:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tamarus St",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:18 PM, Aug 11 2026 Crash on EB Flamingo Rd\u00A0at Tamarus St. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743628/attachment_0.png",
-    "Latitude": 36.114676899999999,
-    "Longitude": -115.1331813
-  },
-  {
     "UniqueId": 53091,
     "Timestamp": "2026-08-11 17:24",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744935/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 53177,
+    "Timestamp": "2026-08-12 17:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:15 PM, Aug 12 2026 Stalled vehicle on NB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744953/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 53178,
+    "Timestamp": "2026-08-12 17:16",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "SB Buffalo is blocked at Cheyenne.",
+    "Notes": "5:16 PM, Aug 12 2026 Crash on WB Cheyenne Ave\u00A0at Buffalo Dr. SB Buffalo is blocked at Cheyenne.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744937/attachment_0.jpg",
+    "Latitude": 36.218311499999999,
+    "Longitude": -115.26037169999999
   }
 ]
