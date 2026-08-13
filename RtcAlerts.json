@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53153,
-    "Timestamp": "2026-08-12 13:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 PM, Aug 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744735/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 53154,
     "Timestamp": "2026-08-12 14:00",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746082/attachment_0.jpg",
     "Latitude": 36.144299294499945,
     "Longitude": -115.17759562167909
+  },
+  {
+    "UniqueId": 53269,
+    "Timestamp": "2026-08-13 13:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:53 PM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746128/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
