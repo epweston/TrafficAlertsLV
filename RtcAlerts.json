@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53120,
-    "Timestamp": "2026-08-12 07:26",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "7:26 AM, Aug 12 2026 Crash on EB Sahara Ave\u00A0at Las Vegas Blvd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743953/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 53121,
     "Timestamp": "2026-08-12 07:56",
     "IncidentType": "Crash",
@@ -1510,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745391/attachment_0.jpg",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 53229,
+    "Timestamp": "2026-08-13 07:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:27 AM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745396/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 53230,
+    "Timestamp": "2026-08-13 07:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:28 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Horizon Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745398/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
