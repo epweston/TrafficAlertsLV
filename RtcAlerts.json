@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53157,
-    "Timestamp": "2026-08-12 14:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:48 PM, Aug 12 2026 Crash on SB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744808/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 53158,
     "Timestamp": "2026-08-12 15:06",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746189/attachment_0.jpg",
     "Latitude": 36.070945500000001,
     "Longitude": -115.0824621
+  },
+  {
+    "UniqueId": 53276,
+    "Timestamp": "2026-08-13 14:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "",
+    "Notes": "2:43 PM, Aug 13 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Russell Rd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746192/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
