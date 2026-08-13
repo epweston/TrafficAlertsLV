@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53128,
-    "Timestamp": "2026-08-12 08:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:41 AM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744075/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 53129,
     "Timestamp": "2026-08-12 08:44",
     "IncidentType": "Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745516/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 53241,
+    "Timestamp": "2026-08-13 08:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:38 AM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745524/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 53242,
+    "Timestamp": "2026-08-13 08:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Tree Line Dr",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "8:31 AM, Aug 13 2026 Crash on WB Charleston Blvd\u00A0after Tree Line Dr. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745525/attachment_0.jpg",
+    "Latitude": 36.159381699999997,
+    "Longitude": -115.03985110000001
   }
 ]
