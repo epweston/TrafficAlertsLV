@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53108,
-    "Timestamp": "2026-08-12 04:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Gore blocked.",
-    "Notes": "4:02 AM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0before Tropicana Ave. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743711/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 53109,
     "Timestamp": "2026-08-12 04:49",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745063/attachment_0.png",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 53216,
+    "Timestamp": "2026-08-13 04:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:18 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745112/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
