@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53158,
-    "Timestamp": "2026-08-12 15:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:06 PM, Aug 12 2026 Crash on EB Craig Rd\u00A0after Losee Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744827/attachment_0.png",
-    "Latitude": 36.239773575501886,
-    "Longitude": -115.11682743770037
-  },
-  {
     "UniqueId": 53159,
     "Timestamp": "2026-08-12 15:22",
     "IncidentType": "Crash",
@@ -1678,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746204/attachment_0.png",
     "Latitude": 36.159050100000002,
     "Longitude": -115.35197700000001
+  },
+  {
+    "UniqueId": 53279,
+    "Timestamp": "2026-08-13 14:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "from",
+    "CrossStreet": "215 Western Beltway Nb",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:59 PM, Aug 13 2026 Crash on EB Flamingo Rd\u00A0from 215 Western Beltway NB offramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746226/attachment_0.png",
+    "Latitude": 36.115079025217497,
+    "Longitude": -115.30254383728953
+  },
+  {
+    "UniqueId": 53280,
+    "Timestamp": "2026-08-13 15:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "3:04 PM, Aug 13 2026 Crash on NB I-11\u00A0after Tropicana Ave. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746230/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
