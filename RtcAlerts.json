@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53117,
-    "Timestamp": "2026-08-12 06:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd North",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:41 AM, Aug 12 2026 Crash on SB Lamb Blvd\u00A0before Las Vegas Blvd North. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3743888/attachment_0.png",
-    "Latitude": 36.2254231,
-    "Longitude": -115.08002999999999
-  },
-  {
     "UniqueId": 53118,
     "Timestamp": "2026-08-12 07:01",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745256/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 53226,
+    "Timestamp": "2026-08-13 06:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:58 AM, Aug 13 2026 Crash on SB 215 Western Beltway\u00A0at Summerlin Pkwy. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745312/attachment_0.png",
+    "Latitude": 36.191620159999999,
+    "Longitude": -115.34255690000001
   }
 ]
