@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53155,
-    "Timestamp": "2026-08-12 14:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Center lanes blocked.",
-    "Notes": "2:28 PM, Aug 12 2026 Crash on NB I-11\u00A0at Elkhorn Rd. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744791/attachment_0.png",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
     "UniqueId": 53156,
     "Timestamp": "2026-08-12 14:44",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746137/attachment_0.png",
     "Latitude": 36.1003519,
     "Longitude": -115.0733187
+  },
+  {
+    "UniqueId": 53271,
+    "Timestamp": "2026-08-13 14:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:23 PM, Aug 13 2026 Crash on NB Eastern Ave\u00A0after Desert Inn Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746168/attachment_0.png",
+    "Latitude": 36.129897799999988,
+    "Longitude": -115.1186276
   }
 ]
