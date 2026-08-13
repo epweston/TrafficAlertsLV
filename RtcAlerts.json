@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53162,
-    "Timestamp": "2026-08-12 15:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:44 PM, Aug 12 2026 Crash on SB Decatur Blvd\u00A0at Bonanza Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744860/attachment_0.png",
-    "Latitude": 36.177328299999999,
-    "Longitude": -115.206138
-  },
-  {
-    "UniqueId": 53163,
-    "Timestamp": "2026-08-12 15:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:47 PM, Aug 12 2026 Crash on NB I-11\u00A0after Eastern Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744873/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 53164,
-    "Timestamp": "2026-08-12 15:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked on Eastern and I-11 Onramp.",
-    "Notes": "3:56 PM, Aug 12 2026 Crash on SB Eastern Ave\u00A0at I-11. Right lane blocked on Eastern and I-11 Onramp.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744891/attachment_0.png",
-    "Latitude": 36.167915800000003,
-    "Longitude": -115.11588380000001
-  },
-  {
-    "UniqueId": 53165,
-    "Timestamp": "2026-08-12 15:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:58 PM, Aug 12 2026 Crash on EB 215 Southern Beltway \u00A0at Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744893/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 53166,
     "Timestamp": "2026-08-12 16:04",
     "IncidentType": "Crash",
@@ -1692,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746249/attachment_0.png",
     "Latitude": 36.166116263483637,
     "Longitude": -115.17267644405366
+  },
+  {
+    "UniqueId": 53284,
+    "Timestamp": "2026-08-13 15:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:54 PM, Aug 13 2026 Crash on NB Jones Blvd\u00A0at Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746267/attachment_0.png",
+    "Latitude": 36.0256525,
+    "Longitude": -115.2256967
+  },
+  {
+    "UniqueId": 53285,
+    "Timestamp": "2026-08-13 15:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:55 PM, Aug 13 2026 Crash on SB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746254/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
