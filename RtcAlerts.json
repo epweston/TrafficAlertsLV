@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53149,
-    "Timestamp": "2026-08-12 13:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Cc-215",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:00 PM, Aug 12 2026 Crash on WB Charleston Blvd\u00A0at CC-215. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744651/attachment_0.png",
-    "Latitude": 36.159101499999998,
-    "Longitude": -115.2573239
-  },
-  {
-    "UniqueId": 53150,
-    "Timestamp": "2026-08-12 13:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 5",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:02 PM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0after Mile 5. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744655/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 53151,
     "Timestamp": "2026-08-12 13:07",
     "IncidentType": "Crash",
@@ -1608,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746031/attachment_0.png",
     "Latitude": 36.013126668091431,
     "Longitude": -115.18044948577882
+  },
+  {
+    "UniqueId": 53265,
+    "Timestamp": "2026-08-13 12:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:57 PM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0before Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746051/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
