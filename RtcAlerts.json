@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53122,
-    "Timestamp": "2026-08-12 08:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:00 AM, Aug 12 2026 Crash on EB Bonanza Rd\u00A0at Casino Center Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744003/attachment_0.jpg",
-    "Latitude": 36.176187900000002,
-    "Longitude": -115.1402695
-  },
-  {
     "UniqueId": 53123,
     "Timestamp": "2026-08-12 08:07",
     "IncidentType": "Crash",
@@ -1538,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745424/attachment_0.png",
     "Latitude": 36.056189699999997,
     "Longitude": -115.04188170000001
+  },
+  {
+    "UniqueId": 53233,
+    "Timestamp": "2026-08-13 07:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:56 AM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0after Boulder Hwy. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745441/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 53234,
+    "Timestamp": "2026-08-13 07:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "7:58 AM, Aug 13 2026 Crash on NB Decatur Blvd\u00A0before Charleston Blvd. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745452/attachment_0.jpg",
+    "Latitude": 36.159069000000002,
+    "Longitude": -115.2059539
   }
 ]
