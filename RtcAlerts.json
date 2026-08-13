@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53099,
-    "Timestamp": "2026-08-11 20:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:32 PM, Aug 11 2026 Crash on EB Tropicana Ave\u00A0before Koval Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/11/file_attachments/3743656/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
     "UniqueId": 53100,
     "Timestamp": "2026-08-11 21:56",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "",
     "Latitude": 36.129609100000003,
     "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 53199,
+    "Timestamp": "2026-08-12 21:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "from",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:33 PM, Aug 12 2026 Crash on NB I-11 onramp from Eastern Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744983/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
