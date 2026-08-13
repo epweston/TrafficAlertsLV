@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53159,
-    "Timestamp": "2026-08-12 15:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:22 PM, Aug 12 2026 Crash on NB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744836/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 53160,
-    "Timestamp": "2026-08-12 15:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:24 PM, Aug 12 2026 Stalled vehicle on NB I-15\u00A0before\u00A0 Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744837/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53161,
-    "Timestamp": "2026-08-12 15:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:26 PM, Aug 12 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744849/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 53162,
     "Timestamp": "2026-08-12 15:44",
     "IncidentType": "Crash",
@@ -1720,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746235/attachment_0.png",
     "Latitude": 36.246219400000001,
     "Longitude": -115.0445976
+  },
+  {
+    "UniqueId": 53283,
+    "Timestamp": "2026-08-13 15:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:35 PM, Aug 13 2026 Crash on NB Rancho Dr\u00A0after Alta Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746249/attachment_0.png",
+    "Latitude": 36.166116263483637,
+    "Longitude": -115.17267644405366
   }
 ]
