@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53127,
-    "Timestamp": "2026-08-12 08:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:37 AM, Aug 12 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744089/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 53128,
     "Timestamp": "2026-08-12 08:41",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745508/attachment_0.jpg",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 53239,
+    "Timestamp": "2026-08-13 08:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Boulder City Parkway",
+    "Relationship": "at",
+    "CrossStreet": "Railroad Pass Casino Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:32 AM, Aug 13 2026 Stalled vehicle on NB Boulder City Parkway\u00A0at Railroad Pass Casino Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745529/attachment_0.png",
+    "Latitude": 35.971149500000003,
+    "Longitude": -114.911565
+  },
+  {
+    "UniqueId": 53240,
+    "Timestamp": "2026-08-13 08:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:35 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0after Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745516/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
