@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53258,
-    "Timestamp": "2026-08-13 11:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:30 AM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745879/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 53259,
     "Timestamp": "2026-08-13 11:40",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747038/attachment_0.png",
     "Latitude": 36.100036899999999,
     "Longitude": -115.1144807
+  },
+  {
+    "UniqueId": 53357,
+    "Timestamp": "2026-08-14 11:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Us-95",
+    "Relationship": "to",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "All lanes are open but off ramp is still closed Expect Delays Use other routes",
+    "Notes": "11:31 AM, Aug 14 2026 Crash on NB US-95\u00A0to Sunset Rd. All lanes are open but off ramp is still closed Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747070/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
