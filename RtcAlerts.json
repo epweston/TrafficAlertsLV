@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53224,
-    "Timestamp": "2026-08-13 06:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:27 AM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745244/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 53225,
-    "Timestamp": "2026-08-13 06:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:37 AM, Aug 13 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745256/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 53226,
     "Timestamp": "2026-08-13 06:58",
     "IncidentType": "Crash",
@@ -1482,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746548/attachment_0.png",
     "Latitude": 36.181265400000001,
     "Longitude": -115.3510256
+  },
+  {
+    "UniqueId": 53331,
+    "Timestamp": "2026-08-14 06:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Owens Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:42 AM, Aug 14 2026 Crash on SB Martin L King Blvd\u00A0at Owens Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746561/attachment_0.png",
+    "Latitude": 36.1883999,
+    "Longitude": -115.1607734
+  },
+  {
+    "UniqueId": 53332,
+    "Timestamp": "2026-08-14 06:45",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Deer Springs Way",
+    "Relationship": "before",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:45 AM, Aug 14 2026 Crash on WB Deer Springs Way\u00A0before Hualapai Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746564/attachment_0.png",
+    "Latitude": 36.284672,
+    "Longitude": -115.3148812
   }
 ]
