@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53265,
-    "Timestamp": "2026-08-13 12:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:57 PM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746051/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 53266,
     "Timestamp": "2026-08-13 13:05",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747270/attachment_0.png",
     "Latitude": 36.100781423246033,
     "Longitude": -115.17291721759118
+  },
+  {
+    "UniqueId": 53362,
+    "Timestamp": "2026-08-14 12:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Mt",
+    "Impact": "Hood St. Right shoulder blocked.",
+    "Notes": "12:54 PM, Aug 14 2026 Crash on WB Lake Mead Blvd\u00A0before Mt. Hood St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747278/attachment_0.png",
+    "Latitude": 36.196151,
+    "Longitude": -115.25246420000001
+  },
+  {
+    "UniqueId": 53363,
+    "Timestamp": "2026-08-14 12:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:58 PM, Aug 14 2026 Stalled vehicle on SB Cheyenne Ave\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747279/attachment_0.jpg",
+    "Latitude": 36.218358799999997,
+    "Longitude": -115.2659426
   }
 ]
