@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53198,
-    "Timestamp": "2026-08-12 20:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "All lanes are blocked in all directions. Use other routes",
-    "Notes": "8:13 PM, Aug 12 2026 Crash on WB Desert Inn Rd\u00A0at Paradise Rd. All lanes are blocked in all directions. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.129609100000003,
-    "Longitude": -115.1547559
-  },
-  {
     "UniqueId": 53199,
     "Timestamp": "2026-08-12 21:33",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746322/attachment_0.png",
     "Latitude": 36.100956099999998,
     "Longitude": -115.2080821
+  },
+  {
+    "UniqueId": 53305,
+    "Timestamp": "2026-08-13 21:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rome Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:03 PM, Aug 13 2026 Stalled vehicle on SB Decatur Blvd\u00A0at Rome Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746323/attachment_0.png",
+    "Latitude": 36.2801373,
+    "Longitude": -115.2066833
   }
 ]
