@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53214,
-    "Timestamp": "2026-08-13 03:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:42 AM, Aug 13 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745088/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
-    "UniqueId": 53215,
-    "Timestamp": "2026-08-13 03:52",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:52 AM, Aug 13 2026 Police activity on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745063/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 53216,
     "Timestamp": "2026-08-13 04:18",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746378/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 53320,
+    "Timestamp": "2026-08-14 03:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:50 AM, Aug 14 2026 Crash on WB Blue Diamond Rd\u00A0at Decatur Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746402/attachment_0.png",
+    "Latitude": 36.032555177363861,
+    "Longitude": -115.2078938274455
   }
 ]
