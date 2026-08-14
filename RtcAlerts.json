@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53238,
-    "Timestamp": "2026-08-13 08:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:25 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745508/attachment_0.jpg",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 53239,
     "Timestamp": "2026-08-13 08:32",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746727/attachment_0.jpg",
     "Latitude": 36.174083889581247,
     "Longitude": -115.15534412685216
+  },
+  {
+    "UniqueId": 53340,
+    "Timestamp": "2026-08-14 08:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:24 AM, Aug 14 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746733/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
