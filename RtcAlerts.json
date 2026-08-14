@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53176,
-    "Timestamp": "2026-08-12 17:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:07 PM, Aug 12 2026 Crash on SB I-11\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744935/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 53177,
     "Timestamp": "2026-08-12 17:15",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746285/attachment_0.png",
     "Latitude": 36.158829400000002,
     "Longitude": -115.1728904
+  },
+  {
+    "UniqueId": 53294,
+    "Timestamp": "2026-08-13 17:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Mile 6",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:02 PM, Aug 13 2026 Stalled vehicle on SB I-11\u00A0at Mile 6. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746292/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
