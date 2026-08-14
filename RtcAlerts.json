@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53282,
-    "Timestamp": "2026-08-13 15:15",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Range Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:15 PM, Aug 13 2026 Crash on SB Las Vegas Blvd \u00A0at Range Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746235/attachment_0.png",
-    "Latitude": 36.246219400000001,
-    "Longitude": -115.0445976
-  },
-  {
     "UniqueId": 53283,
     "Timestamp": "2026-08-13 15:35",
     "IncidentType": "Crash",
@@ -1342,5 +1328,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747425/attachment_0.jpg",
     "Latitude": 36.125662800000001,
     "Longitude": -115.1732894
+  },
+  {
+    "UniqueId": 53381,
+    "Timestamp": "2026-08-14 15:12",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "to",
+    "CrossStreet": "Sb I-11",
+    "Impact": "Right shoulder",
+    "Notes": "3:12 PM, Aug 14 2026 Police activity on EB Summerlin Pkwy\u00A0to SB I-11 ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747450/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 53382,
+    "Timestamp": "2026-08-14 15:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder",
+    "Notes": "3:14 PM, Aug 14 2026 Stalled vehicle on NB I-15\u00A0at Flamingo Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747443/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 53383,
+    "Timestamp": "2026-08-14 15:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Us-93",
+    "Impact": "Right shoulder",
+    "Notes": "3:15 PM, Aug 14 2026 Stalled vehicle on NB I-15\u00A0at US-93. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747454/attachment_0.jpg",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 53384,
+    "Timestamp": "2026-08-14 15:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "3:16 PM, Aug 14 2026 Crash on NB Decatur Blvd\u00A0at Sahara Ave. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747455/attachment_0.png",
+    "Latitude": 36.144511529274723,
+    "Longitude": -115.2082051186522
   }
 ]
