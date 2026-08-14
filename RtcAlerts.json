@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53196,
-    "Timestamp": "2026-08-12 19:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "from",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:41 PM, Aug 12 2026 Crash on SB 215 Western Beltway onramp from Far Hills Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3745006/attachment_0.png",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
     "UniqueId": 53197,
     "Timestamp": "2026-08-12 19:46",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746326/attachment_0.png",
     "Latitude": 36.217754999999997,
     "Longitude": -115.13387350000001
+  },
+  {
+    "UniqueId": 53303,
+    "Timestamp": "2026-08-13 19:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:39 PM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746321/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
