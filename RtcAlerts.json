@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53199,
-    "Timestamp": "2026-08-12 21:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:33 PM, Aug 12 2026 Crash on NB I-11 onramp from Eastern Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744983/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 53200,
     "Timestamp": "2026-08-12 21:59",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746332/attachment_0.jpg",
     "Latitude": 36.061311589035434,
     "Longitude": -115.24259087906742
+  },
+  {
+    "UniqueId": 53307,
+    "Timestamp": "2026-08-13 21:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "9:48 PM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0to Valle Verde Dr. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746325/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
