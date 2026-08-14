@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53192,
-    "Timestamp": "2026-08-12 18:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:30 PM, Aug 12 2026 Crash on WB Blue Diamond Rd\u00A0before Jones Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744996/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
     "UniqueId": 53193,
     "Timestamp": "2026-08-12 18:39",
     "IncidentType": "Crash",
@@ -1482,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746315/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 53299,
+    "Timestamp": "2026-08-13 18:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15 Nb Ramps On Center Median",
+    "Impact": "",
+    "Notes": "6:30 PM, Aug 13 2026 Crash on EB Sahara Ave\u00A0at I-15 NB ramps on center median.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746317/attachment_0.png",
+    "Latitude": 36.143591999999998,
+    "Longitude": -115.15758219999999
+  },
+  {
+    "UniqueId": 53300,
+    "Timestamp": "2026-08-13 18:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:30 PM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746316/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
