@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53288,
-    "Timestamp": "2026-08-13 16:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:41 PM, Aug 13 2026 Crash on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746276/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 53289,
     "Timestamp": "2026-08-13 16:48",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747531/attachment_0.png",
     "Latitude": 36.111131200000003,
     "Longitude": -115.17297687999999
+  },
+  {
+    "UniqueId": 53408,
+    "Timestamp": "2026-08-14 16:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Mesquite Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder",
+    "Notes": "4:37 PM, Aug 14 2026 Crash on EB Mesquite Ave\u00A0after Rancho Dr. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747549/attachment_0.jpg",
+    "Latitude": 36.173445200000003,
+    "Longitude": -115.17332759999999
   }
 ]
