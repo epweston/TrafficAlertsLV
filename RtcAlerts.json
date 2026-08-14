@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53264,
-    "Timestamp": "2026-08-13 12:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:50 PM, Aug 13 2026 Stalled vehicle on SB 15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746031/attachment_0.png",
-    "Latitude": 36.013126668091431,
-    "Longitude": -115.18044948577882
-  },
-  {
     "UniqueId": 53265,
     "Timestamp": "2026-08-13 12:57",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747192/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 53361,
+    "Timestamp": "2026-08-14 12:44",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:44 PM, Aug 14 2026 Crash on WB Tropicana Ave\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747270/attachment_0.png",
+    "Latitude": 36.100781423246033,
+    "Longitude": -115.17291721759118
   }
 ]
