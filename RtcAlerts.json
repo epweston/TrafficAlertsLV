@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53276,
-    "Timestamp": "2026-08-13 14:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "",
-    "Notes": "2:43 PM, Aug 13 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Russell Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746192/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 53277,
     "Timestamp": "2026-08-13 14:52",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747404/attachment_0.png",
     "Latitude": 36.174032455275999,
     "Longitude": -115.06216409024444
+  },
+  {
+    "UniqueId": 53376,
+    "Timestamp": "2026-08-14 14:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:41 PM, Aug 14 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747417/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
