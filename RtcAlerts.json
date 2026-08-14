@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53283,
-    "Timestamp": "2026-08-13 15:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "after",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:35 PM, Aug 13 2026 Crash on NB Rancho Dr\u00A0after Alta Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746249/attachment_0.png",
-    "Latitude": 36.166116263483637,
-    "Longitude": -115.17267644405366
-  },
-  {
     "UniqueId": 53284,
     "Timestamp": "2026-08-13 15:54",
     "IncidentType": "Crash",
@@ -1468,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747477/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 53391,
+    "Timestamp": "2026-08-14 15:35",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:35 PM, Aug 14 2026 Crash on WB 215 Southern Beltway\u00A0before Durango Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747478/attachment_0.jpg",
+    "Latitude": 36.066203023950436,
+    "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 53392,
+    "Timestamp": "2026-08-14 15:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:36 PM, Aug 14 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747480/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 53393,
+    "Timestamp": "2026-08-14 15:38",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:38 PM, Aug 14 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747486/attachment_0.jpg",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
