@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53216,
-    "Timestamp": "2026-08-13 04:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:18 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745112/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 53217,
     "Timestamp": "2026-08-13 04:27",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746402/attachment_0.png",
     "Latitude": 36.032555177363861,
     "Longitude": -115.2078938274455
+  },
+  {
+    "UniqueId": 53321,
+    "Timestamp": "2026-08-14 04:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:13 AM, Aug 14 2026 Crash on SB Rancho Dr\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746411/attachment_0.png",
+    "Latitude": 36.144174199999988,
+    "Longitude": -115.1731231
   }
 ]
