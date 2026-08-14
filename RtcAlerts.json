@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53239,
-    "Timestamp": "2026-08-13 08:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder City Parkway",
-    "Relationship": "at",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:32 AM, Aug 13 2026 Stalled vehicle on NB Boulder City Parkway\u00A0at Railroad Pass Casino Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745529/attachment_0.png",
-    "Latitude": 35.971149500000003,
-    "Longitude": -114.911565
-  },
-  {
-    "UniqueId": 53240,
-    "Timestamp": "2026-08-13 08:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:35 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0after Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745516/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
     "UniqueId": 53241,
     "Timestamp": "2026-08-13 08:38",
     "IncidentType": "Stalled vehicle",
@@ -40,20 +12,6 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745524/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 53242,
-    "Timestamp": "2026-08-13 08:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Tree Line Dr",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "8:31 AM, Aug 13 2026 Crash on WB Charleston Blvd\u00A0after Tree Line Dr. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745525/attachment_0.jpg",
-    "Latitude": 36.159381699999997,
-    "Longitude": -115.03985110000001
   },
   {
     "UniqueId": 53243,
@@ -1412,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746733/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 53341,
+    "Timestamp": "2026-08-14 08:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:32 AM, Aug 14 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746737/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
   }
 ]
