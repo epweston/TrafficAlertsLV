@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53190,
-    "Timestamp": "2026-08-12 18:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "6:10 PM, Aug 12 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744974/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53191,
-    "Timestamp": "2026-08-12 18:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:18 PM, Aug 12 2026 Crash on WB Desert Inn Rd\u00A0at Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744994/attachment_0.png",
-    "Latitude": 36.129609100000003,
-    "Longitude": -115.1547559
-  },
-  {
     "UniqueId": 53192,
     "Timestamp": "2026-08-12 18:30",
     "IncidentType": "Crash",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746313/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 53298,
+    "Timestamp": "2026-08-13 18:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:16 PM, Aug 13 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746315/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
   }
 ]
