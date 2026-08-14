@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53211,
-    "Timestamp": "2026-08-13 02:23",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:23 AM, Aug 13 2026 Police activity on NB Paradise Rd\u00A0at Windmill Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745074/attachment_0.png",
-    "Latitude": 36.042761200000001,
-    "Longitude": -115.1362029
-  },
-  {
-    "UniqueId": 53212,
-    "Timestamp": "2026-08-13 02:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Lane",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:23 AM, Aug 13 2026 Crash on EB 215 Southern Beltway\u00A0before Windmill Lane. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745053/attachment_0.png",
-    "Latitude": 36.042483300000001,
-    "Longitude": -115.1777946
-  },
-  {
-    "UniqueId": 53213,
-    "Timestamp": "2026-08-13 02:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:25 AM, Aug 13 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745055/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 53214,
     "Timestamp": "2026-08-13 03:42",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746361/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 53318,
+    "Timestamp": "2026-08-14 03:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:10 AM, Aug 14 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746377/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
