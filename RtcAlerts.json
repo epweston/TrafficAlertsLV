@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53231,
-    "Timestamp": "2026-08-13 07:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Vanwagenen St",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:46 AM, Aug 13 2026 Stalled vehicle on EB Lake Mead Pkwy\u00A0at Vanwagenen St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745432/attachment_0.png",
-    "Latitude": 36.035390599999999,
-    "Longitude": -115.0003389
-  },
-  {
     "UniqueId": 53232,
     "Timestamp": "2026-08-13 07:53",
     "IncidentType": "Crash",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746639/attachment_0.jpg",
     "Latitude": 36.1718774,
     "Longitude": -115.143337
+  },
+  {
+    "UniqueId": 53334,
+    "Timestamp": "2026-08-14 07:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:44 AM, Aug 14 2026 Stalled vehicle on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746674/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 53335,
+    "Timestamp": "2026-08-14 07:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:46 AM, Aug 14 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746677/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
