@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53197,
-    "Timestamp": "2026-08-12 19:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "",
-    "Notes": "7:46 PM, Aug 12 2026 Crash on NB I-11\u00A0after Wagon Wheel Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3745008/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 53198,
     "Timestamp": "2026-08-12 20:13",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746321/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 53304,
+    "Timestamp": "2026-08-13 19:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:55 PM, Aug 13 2026 Crash on NB Decatur Blvd\u00A0after Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746322/attachment_0.png",
+    "Latitude": 36.100956099999998,
+    "Longitude": -115.2080821
   }
 ]
