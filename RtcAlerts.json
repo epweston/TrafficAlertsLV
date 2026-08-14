@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53241,
-    "Timestamp": "2026-08-13 08:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:38 AM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745524/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 53243,
-    "Timestamp": "2026-08-13 08:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Burkholder Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:43 AM, Aug 13 2026 Crash on WB Lake Mead Pkwy\u00A0at Burkholder Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745550/attachment_0.png",
-    "Latitude": 36.043773000000009,
-    "Longitude": -114.9768267
-  },
-  {
-    "UniqueId": 53244,
-    "Timestamp": "2026-08-13 08:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:44 AM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745553/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 53245,
-    "Timestamp": "2026-08-13 08:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:58 AM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745580/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
     "UniqueId": 53246,
     "Timestamp": "2026-08-13 09:03",
     "IncidentType": "Crash",
@@ -1384,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746737/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 53342,
+    "Timestamp": "2026-08-14 08:53",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:53 AM, Aug 14 2026 Crash on EB Washington Ave\u00A0at Lamb Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746772/attachment_0.png",
+    "Latitude": 36.180946599999999,
+    "Longitude": -115.0803014
   }
 ]
