@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53273,
-    "Timestamp": "2026-08-13 14:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:31 PM, Aug 13 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746177/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 53274,
-    "Timestamp": "2026-08-13 14:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd On Left",
-    "Impact": "",
-    "Notes": "2:39 PM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Decatur Blvd on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746187/attachment_0.png",
-    "Latitude": 36.254595299999998,
-    "Longitude": -115.20742869999999
-  },
-  {
-    "UniqueId": 53275,
-    "Timestamp": "2026-08-13 14:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Green Valley Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "2:40 PM, Aug 13 2026 Crash on NB Green Valley Pkwy\u00A0at Sunset Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746189/attachment_0.jpg",
-    "Latitude": 36.070945500000001,
-    "Longitude": -115.0824621
-  },
-  {
     "UniqueId": 53276,
     "Timestamp": "2026-08-13 14:43",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747409/attachment_0.jpg",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 53375,
+    "Timestamp": "2026-08-14 14:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "after",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "2:37 PM, Aug 14 2026 Crash on WB Bonanza Rd\u00A0after Nellis Blvd. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747404/attachment_0.png",
+    "Latitude": 36.174032455275999,
+    "Longitude": -115.06216409024444
   }
 ]
