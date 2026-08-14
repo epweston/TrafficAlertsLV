@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53207,
-    "Timestamp": "2026-08-12 23:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:19 PM, Aug 12 2026 Stalled vehicle on SB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3745031/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 53208,
     "Timestamp": "2026-08-12 23:44",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746337/attachment_0.jpg",
     "Latitude": 36.1693414,
     "Longitude": -115.1478422
+  },
+  {
+    "UniqueId": 53314,
+    "Timestamp": "2026-08-13 23:17",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Vegas Dr",
+    "Relationship": "after",
+    "CrossStreet": "Tonopah Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:17 PM, Aug 13 2026 Crash on EB Vegas Dr\u00A0after Tonopah Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746355/attachment_0.png",
+    "Latitude": 36.188558899999997,
+    "Longitude": -115.1698351
   }
 ]
