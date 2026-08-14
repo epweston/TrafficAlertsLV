@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53260,
-    "Timestamp": "2026-08-13 11:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:45 AM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745918/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
-    "UniqueId": 53261,
-    "Timestamp": "2026-08-13 11:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Pebble Rd",
-    "Relationship": "at",
-    "CrossStreet": "Giles St",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "11:53 AM, Aug 13 2026 Crash on WB Pebble Rd\u00A0at Giles St. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745932/attachment_0.png",
-    "Latitude": 36.028423199999999,
-    "Longitude": -115.17012440000001
-  },
-  {
     "UniqueId": 53262,
     "Timestamp": "2026-08-13 12:01",
     "IncidentType": "Stalled vehicle",
@@ -1368,6 +1340,20 @@
     "Impact": "All lanes are open on freeway Exit 64A still closed",
     "Notes": "11:36 AM, Aug 14 2026 Crash on NB I-11\u00A0to Sunset Rd. All lanes are open on freeway Exit 64A still closed",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747080/attachment_0.jpg",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 53359,
+    "Timestamp": "2026-08-14 11:51",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Two lanes remain open on the freeway.\u00A0 The Sunset Rd exit is closed. Expect Delays",
+    "Notes": "11:51 AM, Aug 14 2026 Crash on NB I-11\u00A0to Sunset Rd. Two lanes remain open on the freeway.\u00A0 The Sunset Rd exit is closed. Expect Delays",
+    "ImagePath": "",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
   }
