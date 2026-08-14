@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53255,
-    "Timestamp": "2026-08-13 10:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:56 AM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745794/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
-    "UniqueId": 53256,
-    "Timestamp": "2026-08-13 10:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Pabco Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:58 AM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0before Pabco Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745798/attachment_0.png",
-    "Latitude": 36.081469400000003,
-    "Longitude": -114.98855279999999
-  },
-  {
-    "UniqueId": 53257,
-    "Timestamp": "2026-08-13 11:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:07 AM, Aug 13 2026 Crash on SB Maryland Pkwy\u00A0at Oakey Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3745822/attachment_0.png",
-    "Latitude": 36.151564899999997,
-    "Longitude": -115.13692880000001
-  },
-  {
     "UniqueId": 53258,
     "Timestamp": "2026-08-13 11:30",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1328,33 @@
     "ImagePath": "",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 53354,
+    "Timestamp": "2026-08-14 11:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:06 AM, Aug 14 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747028/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 53355,
+    "Timestamp": "2026-08-14 11:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:08 AM, Aug 14 2026 Crash on SB Buffalo Dr\u00A0before Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747019/attachment_0.png",
+    "Latitude": 36.114756399999997,
+    "Longitude": -115.2610767
   }
 ]
