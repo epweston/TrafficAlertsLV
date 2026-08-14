@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53193,
-    "Timestamp": "2026-08-12 18:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Maule Ave",
-    "Impact": "Right Lanes Blocked.",
-    "Notes": "6:39 PM, Aug 12 2026 Crash on NB Eastern Ave\u00A0at Maule Ave. Right Lanes Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/12/file_attachments/3744999/attachment_0.png",
-    "Latitude": 36.064393000000003,
-    "Longitude": -115.1185065
-  },
-  {
     "UniqueId": 53194,
     "Timestamp": "2026-08-12 19:22",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746316/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 53301,
+    "Timestamp": "2026-08-13 18:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:59 PM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
