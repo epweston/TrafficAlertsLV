@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53326,
-    "Timestamp": "2026-08-14 06:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Via Del Nord",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:05 AM, Aug 14 2026 Crash on WB Flamingo Rd\u00A0at Via del Nord. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746509/attachment_0.png",
-    "Latitude": 36.1148338,
-    "Longitude": -115.17545850000001
-  },
-  {
     "UniqueId": 53327,
     "Timestamp": "2026-08-14 06:22",
     "IncidentType": "Stalled vehicle",
@@ -1804,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747707/attachment_0.png",
     "Latitude": 36.071189599999997,
     "Longitude": -115.17228350000001
+  },
+  {
+    "UniqueId": 53458,
+    "Timestamp": "2026-08-15 06:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:16 AM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747712/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
