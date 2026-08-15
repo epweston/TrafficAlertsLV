@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53301,
-    "Timestamp": "2026-08-13 18:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:59 PM, Aug 13 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 53302,
     "Timestamp": "2026-08-13 19:36",
     "IncidentType": "Crash",
@@ -1692,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747580/attachment_0.png",
     "Latitude": 36.174945000000001,
     "Longitude": -115.1371793
+  },
+  {
+    "UniqueId": 53425,
+    "Timestamp": "2026-08-14 18:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:58 PM, Aug 14 2026 Crash on SB I-11\u00A0to Craig Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747587/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
