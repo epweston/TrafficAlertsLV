@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53298,
-    "Timestamp": "2026-08-13 18:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:16 PM, Aug 13 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746315/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
     "UniqueId": 53299,
     "Timestamp": "2026-08-13 18:30",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747572/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 53420,
+    "Timestamp": "2026-08-14 18:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:21 PM, Aug 14 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747562/attachment_0.png",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
