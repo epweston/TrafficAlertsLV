@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53309,
-    "Timestamp": "2026-08-13 22:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spring Valley Parkway",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "10:33 PM, Aug 13 2026 Crash on NB Rainbow Blvd\u00A0at Spring Valley Parkway. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746347/attachment_0.jpg",
-    "Latitude": 36.110628699999999,
-    "Longitude": -115.24309150000001
-  },
-  {
     "UniqueId": 53311,
     "Timestamp": "2026-08-13 23:02",
     "IncidentType": "Police activity",
@@ -1846,5 +1832,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747627/attachment_0.png",
     "Latitude": 36.070543507237815,
     "Longitude": -115.24253723908187
+  },
+  {
+    "UniqueId": 53444,
+    "Timestamp": "2026-08-14 22:39",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "10:39 PM, Aug 14 2026 Crash on SB Eastern Ave\u00A0at Pebble Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747623/attachment_0.jpg",
+    "Latitude": 36.02763991790971,
+    "Longitude": -115.1184797391856
+  },
+  {
+    "UniqueId": 53445,
+    "Timestamp": "2026-08-14 22:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:39 PM, Aug 14 2026 Crash on NB Jones Blvd\u00A0at Washington Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747625/attachment_0.png",
+    "Latitude": 36.180754299999997,
+    "Longitude": -115.2237837
   }
 ]
