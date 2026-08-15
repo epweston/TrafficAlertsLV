@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53306,
-    "Timestamp": "2026-08-13 21:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Badura Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "9:21 PM, Aug 13 2026 Crash on SB Rainbow Blvd\u00A0before Badura Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746332/attachment_0.jpg",
-    "Latitude": 36.061311589035434,
-    "Longitude": -115.24259087906742
-  },
-  {
     "UniqueId": 53307,
     "Timestamp": "2026-08-13 21:48",
     "IncidentType": "Stalled vehicle",
@@ -1790,5 +1776,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747618/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 53437,
+    "Timestamp": "2026-08-14 21:21",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Mel Torme Way",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane partially blocked.",
+    "Notes": "9:21 PM, Aug 14 2026 Crash on SB Mel Torme Way\u00A0before Spring Mountain Rd. Right lane partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747598/attachment_0.jpg",
+    "Latitude": 36.125662800000001,
+    "Longitude": -115.1732894
+  },
+  {
+    "UniqueId": 53438,
+    "Timestamp": "2026-08-14 21:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:23 PM, Aug 14 2026 Crash on EB Craig Rd\u00A0before Rancho Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747619/attachment_0.jpg",
+    "Latitude": 36.2397007,
+    "Longitude": -115.23257750000001
   }
 ]
