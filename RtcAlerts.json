@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53299,
-    "Timestamp": "2026-08-13 18:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15 Nb Ramps On Center Median",
-    "Impact": "",
-    "Notes": "6:30 PM, Aug 13 2026 Crash on EB Sahara Ave\u00A0at I-15 NB ramps on center median.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746317/attachment_0.png",
-    "Latitude": 36.143591999999998,
-    "Longitude": -115.15758219999999
-  },
-  {
-    "UniqueId": 53300,
-    "Timestamp": "2026-08-13 18:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:30 PM, Aug 13 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746316/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 53301,
     "Timestamp": "2026-08-13 18:59",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747564/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 53424,
+    "Timestamp": "2026-08-14 18:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:41 PM, Aug 14 2026 Crash on SB Las Vegas Blvd\u00A0at Bonanza Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747580/attachment_0.png",
+    "Latitude": 36.174945000000001,
+    "Longitude": -115.1371793
   }
 ]
