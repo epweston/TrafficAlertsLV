@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53304,
-    "Timestamp": "2026-08-13 19:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:55 PM, Aug 13 2026 Crash on NB Decatur Blvd\u00A0after Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746322/attachment_0.png",
-    "Latitude": 36.100956099999998,
-    "Longitude": -115.2080821
-  },
-  {
     "UniqueId": 53305,
     "Timestamp": "2026-08-13 21:03",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747607/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 53430,
+    "Timestamp": "2026-08-14 20:11",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Gowan Rd",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "All lanes are open.",
+    "Notes": "8:11 PM, Aug 14 2026 Update Crash on EB Gowan Rd\u00A0at Pecos Rd. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747593/attachment_0.jpg",
+    "Latitude": 36.225083400000003,
+    "Longitude": -115.0986394
+  },
+  {
+    "UniqueId": 53431,
+    "Timestamp": "2026-08-14 20:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:14 PM, Aug 14 2026 Crash on NB Decatur Blvd\u00A0after Flamingo Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747594/attachment_0.png",
+    "Latitude": 36.115562400000009,
+    "Longitude": -115.208167
   }
 ]
