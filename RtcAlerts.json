@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53369,
-    "Timestamp": "2026-08-14 13:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:39 PM, Aug 14 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747332/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 53370,
-    "Timestamp": "2026-08-14 13:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "over",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:42 PM, Aug 14 2026 Crash on NB I-15\u00A0over Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747354/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 53372,
     "Timestamp": "2026-08-14 14:03",
     "IncidentType": "Crash",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747810/attachment_0.png",
     "Latitude": 36.14359315288705,
     "Longitude": -115.15748977661134
+  },
+  {
+    "UniqueId": 53485,
+    "Timestamp": "2026-08-15 13:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:44 PM, Aug 15 2026 Crash on SB I-15\u00A0at Flamingo Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747785/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
