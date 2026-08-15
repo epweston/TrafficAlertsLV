@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53313,
-    "Timestamp": "2026-08-13 23:14",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Bridger Ave",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:14 PM, Aug 13 2026 Police activity on EB Bridger Ave\u00A0at Main St. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746337/attachment_0.jpg",
-    "Latitude": 36.1693414,
-    "Longitude": -115.1478422
-  },
-  {
-    "UniqueId": 53314,
-    "Timestamp": "2026-08-13 23:17",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Vegas Dr",
-    "Relationship": "after",
-    "CrossStreet": "Tonopah Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:17 PM, Aug 13 2026 Crash on EB Vegas Dr\u00A0after Tonopah Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746355/attachment_0.png",
-    "Latitude": 36.188558899999997,
-    "Longitude": -115.1698351
-  },
-  {
     "UniqueId": 53315,
     "Timestamp": "2026-08-13 23:57",
     "IncidentType": "Stalled vehicle",
@@ -1874,5 +1846,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747632/attachment_0.jpg",
     "Latitude": 36.033552862846953,
     "Longitude": -115.01434604859962
+  },
+  {
+    "UniqueId": 53449,
+    "Timestamp": "2026-08-14 23:30",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Westcliff Dr",
+    "Impact": "All lanes are blocked.",
+    "Notes": "11:30 PM, Aug 14 2026 Crash on NB Durango Dr\u00A0before Westcliff Dr. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747650/attachment_0.png",
+    "Latitude": 36.1736577,
+    "Longitude": -115.2778943
+  },
+  {
+    "UniqueId": 53450,
+    "Timestamp": "2026-08-14 23:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "at",
+    "CrossStreet": "Marion Dr",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "11:31 PM, Aug 14 2026 Crash on EB Stewart Ave\u00A0at Marion Dr. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747633/attachment_0.png",
+    "Latitude": 36.166347700000003,
+    "Longitude": -115.0712896
   }
 ]
