@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53315,
-    "Timestamp": "2026-08-13 23:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "from",
-    "CrossStreet": "I-215",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:57 PM, Aug 13 2026 Stalled vehicle on NB Airport Connector\u00A0from I-215. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746340/attachment_0.png",
-    "Latitude": 36.265237800000001,
-    "Longitude": -115.2602576
-  },
-  {
     "UniqueId": 53316,
     "Timestamp": "2026-08-14 00:22",
     "IncidentType": "Crash",
@@ -1874,5 +1860,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747633/attachment_0.png",
     "Latitude": 36.166347700000003,
     "Longitude": -115.0712896
+  },
+  {
+    "UniqueId": 53451,
+    "Timestamp": "2026-08-15 00:01",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Aliante Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:01 AM, Aug 15 2026 Crash on EB 215 Northern Beltway\u00A0before Aliante Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747653/attachment_0.png",
+    "Latitude": 36.293459499999997,
+    "Longitude": -115.18487740000001
   }
 ]
