@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53362,
-    "Timestamp": "2026-08-14 12:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Mt",
-    "Impact": "Hood St. Right shoulder blocked.",
-    "Notes": "12:54 PM, Aug 14 2026 Crash on WB Lake Mead Blvd\u00A0before Mt. Hood St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747278/attachment_0.png",
-    "Latitude": 36.196151,
-    "Longitude": -115.25246420000001
-  },
-  {
-    "UniqueId": 53363,
-    "Timestamp": "2026-08-14 12:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:58 PM, Aug 14 2026 Stalled vehicle on SB Cheyenne Ave\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747279/attachment_0.jpg",
-    "Latitude": 36.218358799999997,
-    "Longitude": -115.2659426
-  },
-  {
-    "UniqueId": 53364,
-    "Timestamp": "2026-08-14 13:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "5Th St",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "1:02 PM, Aug 14 2026 Crash on EB Lake Mead Blvd\u00A0at 5th St. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747286/attachment_0.png",
-    "Latitude": 36.19635650185861,
-    "Longitude": -115.13403119124867
-  },
-  {
     "UniqueId": 53365,
     "Timestamp": "2026-08-14 13:17",
     "IncidentType": "Crash",
@@ -1566,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747776/attachment_0.jpg",
     "Latitude": 36.158926896541821,
     "Longitude": -115.06236791610719
+  },
+  {
+    "UniqueId": 53477,
+    "Timestamp": "2026-08-15 12:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:59 PM, Aug 15 2026 Crash on WB Sahara Ave\u00A0after Fort Apache Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747801/attachment_0.png",
+    "Latitude": 36.144507300000001,
+    "Longitude": -115.29779379999999
+  },
+  {
+    "UniqueId": 53478,
+    "Timestamp": "2026-08-15 13:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:02 PM, Aug 15 2026 Stalled vehicle on NB I-15\u00A0at\u00A0 Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747778/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
