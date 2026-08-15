@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53361,
-    "Timestamp": "2026-08-14 12:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:44 PM, Aug 14 2026 Crash on WB Tropicana Ave\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747270/attachment_0.png",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
     "UniqueId": 53362,
     "Timestamp": "2026-08-14 12:54",
     "IncidentType": "Crash",
@@ -1552,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747773/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 53475,
+    "Timestamp": "2026-08-15 12:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:43 PM, Aug 15 2026 Crash on SB Nellis Blvd\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747796/attachment_0.jpg",
+    "Latitude": 36.158926896541821,
+    "Longitude": -115.06236791610719
+  },
+  {
+    "UniqueId": 53476,
+    "Timestamp": "2026-08-15 12:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:44 PM, Aug 15 2026 Crash on SB Nellis Blvd\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747776/attachment_0.jpg",
+    "Latitude": 36.158926896541821,
+    "Longitude": -115.06236791610719
   }
 ]
