@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53311,
-    "Timestamp": "2026-08-13 23:02",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "11:02 PM, Aug 13 2026 Police activity on EB Sunset Rd\u00A0at Decatur Blvd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746351/attachment_0.png",
-    "Latitude": 36.071824999999997,
-    "Longitude": -115.207977
-  },
-  {
-    "UniqueId": 53312,
-    "Timestamp": "2026-08-13 23:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Wynn Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "11:06 PM, Aug 13 2026 Stalled vehicle on EB Flamingo Rd\u00A0at Wynn Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746353/attachment_0.png",
-    "Latitude": 36.115615300000002,
-    "Longitude": -115.1947418
-  },
-  {
     "UniqueId": 53313,
     "Timestamp": "2026-08-13 23:14",
     "IncidentType": "Police activity",
@@ -1860,5 +1832,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747625/attachment_0.png",
     "Latitude": 36.180754299999997,
     "Longitude": -115.2237837
+  },
+  {
+    "UniqueId": 53446,
+    "Timestamp": "2026-08-14 23:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Tonopah Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:02 PM, Aug 14 2026 Crash on NB Las Vegas Blvd \u00A0before Tonopah Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747629/attachment_0.png",
+    "Latitude": 36.192131600000003,
+    "Longitude": -115.1325861
+  },
+  {
+    "UniqueId": 53447,
+    "Timestamp": "2026-08-14 23:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:04 PM, Aug 14 2026 Crash on WB Sahara Ave\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747648/attachment_0.png",
+    "Latitude": 36.143662482122316,
+    "Longitude": -115.1573931887723
   }
 ]
