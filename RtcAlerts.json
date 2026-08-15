@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53305,
-    "Timestamp": "2026-08-13 21:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rome Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:03 PM, Aug 13 2026 Stalled vehicle on SB Decatur Blvd\u00A0at Rome Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746323/attachment_0.png",
-    "Latitude": 36.2801373,
-    "Longitude": -115.2066833
-  },
-  {
     "UniqueId": 53306,
     "Timestamp": "2026-08-13 21:21",
     "IncidentType": "Crash",
@@ -1790,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747616/attachment_0.png",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 53436,
+    "Timestamp": "2026-08-14 21:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "9:08 PM, Aug 14 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747618/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
