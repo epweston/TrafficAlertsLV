@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53307,
-    "Timestamp": "2026-08-13 21:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "9:48 PM, Aug 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0to Valle Verde Dr. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/13/file_attachments/3746325/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 53308,
     "Timestamp": "2026-08-13 22:09",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747603/attachment_0.png",
     "Latitude": 36.1986767,
     "Longitude": -115.22390799999999
+  },
+  {
+    "UniqueId": 53441,
+    "Timestamp": "2026-08-14 21:51",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "before",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:51 PM, Aug 14 2026 Crash on NB Fort Apache Rd\u00A0before Tropical Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747620/attachment_0.jpg",
+    "Latitude": 36.2699657,
+    "Longitude": -115.2971257
   }
 ]
