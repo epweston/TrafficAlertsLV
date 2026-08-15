@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53316,
-    "Timestamp": "2026-08-14 00:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "to",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:22 AM, Aug 14 2026 Crash on NB US-95\u00A0to Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746359/attachment_0.png",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
-    "UniqueId": 53317,
-    "Timestamp": "2026-08-14 00:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:58 AM, Aug 14 2026 Crash on EB Sahara Ave\u00A0after I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746361/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 53318,
     "Timestamp": "2026-08-14 03:10",
     "IncidentType": "Stalled vehicle",
@@ -1888,5 +1860,19 @@
     "ImagePath": "",
     "Latitude": 36.1986767,
     "Longitude": -115.22390799999999
+  },
+  {
+    "UniqueId": 53454,
+    "Timestamp": "2026-08-15 00:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:53 AM, Aug 15 2026 Crash on NB I-11\u00A0after Casino Center Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747654/attachment_0.png",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
   }
 ]
