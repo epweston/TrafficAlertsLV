@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53351,
-    "Timestamp": "2026-08-14 10:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:50 AM, Aug 14 2026 Stalled vehicle on NB I-15\u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746985/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 53352,
-    "Timestamp": "2026-08-14 10:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:50 AM, Aug 14 2026 Crash on SB I-11\u00A0to Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3746996/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 53353,
-    "Timestamp": "2026-08-14 10:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Reduced lanes. Expect Delays.",
-    "Notes": "10:52 AM, Aug 14 2026 Crash on NB I-11\u00A0before Sunset Rd. Reduced lanes. Expect Delays.",
-    "ImagePath": "",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
     "UniqueId": 53354,
     "Timestamp": "2026-08-14 11:06",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747744/attachment_0.png",
     "Latitude": 36.151400799999998,
     "Longitude": -115.1657312
+  },
+  {
+    "UniqueId": 53470,
+    "Timestamp": "2026-08-15 11:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Carey Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:00 AM, Aug 15 2026 Crash on SB Nellis Blvd\u00A0at Carey Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747767/attachment_0.png",
+    "Latitude": 36.203605699999997,
+    "Longitude": -115.06225689999999
   }
 ]
