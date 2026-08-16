@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53420,
-    "Timestamp": "2026-08-14 18:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:21 PM, Aug 14 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747562/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 53421,
-    "Timestamp": "2026-08-14 18:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:23 PM, Aug 14 2026 Stalled vehicle on NB I-11\u00A0to Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747576/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 53422,
-    "Timestamp": "2026-08-14 18:24",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are now open",
-    "Notes": "6:24 PM, Aug 14 2026 UPDATE: Crash on WB Cheyenne Ave\u00A0before Lamb Blvd. All lanes are now open",
-    "ImagePath": "",
-    "Latitude": 36.217645999999988,
-    "Longitude": -115.0801499
-  },
-  {
-    "UniqueId": 53423,
-    "Timestamp": "2026-08-14 18:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder",
-    "Notes": "6:23 PM, Aug 14 2026 Stalled vehicle on SB I-15\u00A0after I-11. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747564/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 53424,
     "Timestamp": "2026-08-14 18:41",
     "IncidentType": "Crash",
@@ -1146,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747860/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 53503,
+    "Timestamp": "2026-08-15 18:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder",
+    "Notes": "6:27 PM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747842/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
