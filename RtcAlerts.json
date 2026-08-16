@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53425,
-    "Timestamp": "2026-08-14 18:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:58 PM, Aug 14 2026 Crash on SB I-11\u00A0to Craig Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747587/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 53426,
     "Timestamp": "2026-08-14 19:26",
     "IncidentType": "Stalled vehicle",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747844/attachment_0.png",
     "Latitude": 36.240315500000001,
     "Longitude": -115.0973652
+  },
+  {
+    "UniqueId": 53505,
+    "Timestamp": "2026-08-15 19:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eldorado Lane",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:04 PM, Aug 15 2026 Crash on SB Eastern Ave\u00A0at Eldorado Lane. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747845/attachment_0.jpg",
+    "Latitude": 36.053209000000003,
+    "Longitude": -115.11825
   }
 ]
