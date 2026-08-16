@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53486,
-    "Timestamp": "2026-08-15 14:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:17 PM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747814/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53487,
-    "Timestamp": "2026-08-15 14:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Wagonwheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:32 PM, Aug 15 2026 Stalled vehicle on SB I-11\u00A0before Wagonwheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747815/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 53488,
-    "Timestamp": "2026-08-15 14:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:36 PM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd off-ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747817/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 53489,
     "Timestamp": "2026-08-15 15:03",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748106/attachment_0.jpg",
     "Latitude": 36.199951899999988,
     "Longitude": -115.28239290000001
+  },
+  {
+    "UniqueId": 53587,
+    "Timestamp": "2026-08-16 14:39",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "at",
+    "CrossStreet": "Mojave Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "2:39 PM, Aug 16 2026 Crash on WB Bonanza Rd\u00A0at Mojave Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748094/attachment_0.png",
+    "Latitude": 36.173660499999997,
+    "Longitude": -115.1058269
   }
 ]
