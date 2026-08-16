@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53454,
-    "Timestamp": "2026-08-15 00:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:53 AM, Aug 15 2026 Crash on NB I-11\u00A0after Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747654/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
     "UniqueId": 53455,
     "Timestamp": "2026-08-15 01:50",
     "IncidentType": "Crash",
@@ -1076,5 +1062,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747914/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 53532,
+    "Timestamp": "2026-08-16 00:55",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Carson Ave",
+    "Relationship": "before",
+    "CrossStreet": "4Th St",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:55 AM, Aug 16 2026 Crash on EB Carson Ave\u00A0before 4th St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747926/attachment_0.jpg",
+    "Latitude": 36.168568999999998,
+    "Longitude": -115.1425728
+  },
+  {
+    "UniqueId": 53533,
+    "Timestamp": "2026-08-16 01:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:00 AM, Aug 16 2026 Crash on WB 215 Southern Beltway\u00A0after Gibson Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747928/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
