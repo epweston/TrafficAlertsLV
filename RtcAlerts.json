@@ -1300,5 +1300,47 @@
     "ImagePath": "",
     "Latitude": 36.056949000000003,
     "Longitude": -115.1184136
+  },
+  {
+    "UniqueId": 53551,
+    "Timestamp": "2026-08-16 05:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "at",
+    "CrossStreet": "Main St",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:04 AM, Aug 16 2026 Crash on WB Bonanza Rd\u00A0at Main St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747975/attachment_0.png",
+    "Latitude": 36.177111600000003,
+    "Longitude": -115.142758
+  },
+  {
+    "UniqueId": 53552,
+    "Timestamp": "2026-08-16 05:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "5:05 AM, Aug 16 2026 Crash on NB I-15\u00A0before Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 53553,
+    "Timestamp": "2026-08-16 05:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:06 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
