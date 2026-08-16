@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53451,
-    "Timestamp": "2026-08-15 00:01",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:01 AM, Aug 15 2026 Crash on EB 215 Northern Beltway\u00A0before Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747653/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 53452,
-    "Timestamp": "2026-08-15 00:07",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Eugene Ave",
-    "Impact": "All lanes are open.",
-    "Notes": "12:07 AM, Aug 15 2026 Update Crash on SB Jones Blvd\u00A0at Eugene Ave. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.1986767,
-    "Longitude": -115.22390799999999
-  },
-  {
     "UniqueId": 53454,
     "Timestamp": "2026-08-15 00:53",
     "IncidentType": "Crash",
@@ -1090,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747912/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 53531,
+    "Timestamp": "2026-08-16 00:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder",
+    "Notes": "12:37 AM, Aug 16 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747914/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
