@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53483,
-    "Timestamp": "2026-08-15 13:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Valley Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "1:28 PM, Aug 15 2026 Crash on SB Nellis Blvd\u00A0before Vegas Valley Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747807/attachment_0.jpg",
-    "Latitude": 36.13697359374855,
-    "Longitude": -115.06562949343491
-  },
-  {
-    "UniqueId": 53484,
-    "Timestamp": "2026-08-15 13:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:31 PM, Aug 15 2026 Crash on NB Las Vegas Blvd\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747810/attachment_0.png",
-    "Latitude": 36.14359315288705,
-    "Longitude": -115.15748977661134
-  },
-  {
-    "UniqueId": 53485,
-    "Timestamp": "2026-08-15 13:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:44 PM, Aug 15 2026 Crash on SB I-15\u00A0at Flamingo Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747785/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 53486,
     "Timestamp": "2026-08-15 14:17",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748084/attachment_0.jpg",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 53586,
+    "Timestamp": "2026-08-16 13:58",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:58 PM, Aug 16 2026 Crash on WB Lake Mead Blvd\u00A0after Rampart Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748106/attachment_0.jpg",
+    "Latitude": 36.199951899999988,
+    "Longitude": -115.28239290000001
   }
 ]
