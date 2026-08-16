@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53457,
-    "Timestamp": "2026-08-15 05:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "5:53 AM, Aug 15 2026 Crash on EB Sunset Rd\u00A0at Las Vegas Blvd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747707/attachment_0.png",
-    "Latitude": 36.071189599999997,
-    "Longitude": -115.17228350000001
-  },
-  {
     "UniqueId": 53458,
     "Timestamp": "2026-08-15 06:16",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,19 @@
     "ImagePath": "",
     "Latitude": 36.10072919730861,
     "Longitude": -115.18071603717371
+  },
+  {
+    "UniqueId": 53557,
+    "Timestamp": "2026-08-16 05:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "5:52 AM, Aug 16 2026 Crash on SB Eastern Ave\u00A0at Warm Springs Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
   }
 ]
