@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53424,
-    "Timestamp": "2026-08-14 18:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:41 PM, Aug 14 2026 Crash on SB Las Vegas Blvd\u00A0at Bonanza Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747580/attachment_0.png",
-    "Latitude": 36.174945000000001,
-    "Longitude": -115.1371793
-  },
-  {
     "UniqueId": 53425,
     "Timestamp": "2026-08-14 18:58",
     "IncidentType": "Crash",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747842/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 53504,
+    "Timestamp": "2026-08-15 18:45",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "Mitchell St",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:45 PM, Aug 15 2026 Vehicle on fire on SB Mitchell St\u00A0before Craig Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747844/attachment_0.png",
+    "Latitude": 36.240315500000001,
+    "Longitude": -115.0973652
   }
 ]
