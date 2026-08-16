@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53444,
-    "Timestamp": "2026-08-14 22:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:39 PM, Aug 14 2026 Crash on SB Eastern Ave\u00A0at Pebble Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747623/attachment_0.jpg",
-    "Latitude": 36.02763991790971,
-    "Longitude": -115.1184797391856
-  },
-  {
-    "UniqueId": 53445,
-    "Timestamp": "2026-08-14 22:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:39 PM, Aug 14 2026 Crash on NB Jones Blvd\u00A0at Washington Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747625/attachment_0.png",
-    "Latitude": 36.180754299999997,
-    "Longitude": -115.2237837
-  },
-  {
     "UniqueId": 53446,
     "Timestamp": "2026-08-14 23:02",
     "IncidentType": "Crash",
@@ -1146,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747907/attachment_0.jpg",
     "Latitude": 36.240317900000001,
     "Longitude": -115.2422266
+  },
+  {
+    "UniqueId": 53528,
+    "Timestamp": "2026-08-15 22:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:50 PM, Aug 15 2026 Crash on NB I-15\u00A0after Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747909/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
