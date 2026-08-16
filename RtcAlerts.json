@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53440,
-    "Timestamp": "2026-08-14 21:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Eugene Ave",
-    "Impact": "All lanes are blocked between Smoke Ranch Rd and Lake Mead Blvd.",
-    "Notes": "9:42 PM, Aug 14 2026 Crash on SB Jones Blvd\u00A0at Eugene Ave. All lanes are blocked between Smoke Ranch Rd and Lake Mead Blvd.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747603/attachment_0.png",
-    "Latitude": 36.1986767,
-    "Longitude": -115.22390799999999
-  },
-  {
     "UniqueId": 53441,
     "Timestamp": "2026-08-14 21:51",
     "IncidentType": "Crash",
@@ -1132,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747876/attachment_0.jpg",
     "Latitude": 36.042498700000003,
     "Longitude": -115.1453367
+  },
+  {
+    "UniqueId": 53523,
+    "Timestamp": "2026-08-15 21:39",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Centennial Pkwy",
+    "Impact": "Intersection is open again.",
+    "Notes": "9:39 PM, Aug 15 2026 Update Crash on SB Durango Dr\u00A0at Centennial Pkwy. Intersection is open again.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747902/attachment_0.jpg",
+    "Latitude": 36.277337699999997,
+    "Longitude": -115.28777220000001
   }
 ]
