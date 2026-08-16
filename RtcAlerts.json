@@ -1230,5 +1230,33 @@
     "ImagePath": "",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 53546,
+    "Timestamp": "2026-08-16 04:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:26 AM, Aug 16 2026 Crash on NB I-15\u00A0before Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 53547,
+    "Timestamp": "2026-08-16 04:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:26 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
