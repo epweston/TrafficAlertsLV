@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53491,
-    "Timestamp": "2026-08-15 15:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:38 PM, Aug 15 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747833/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 53492,
-    "Timestamp": "2026-08-15 15:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:41 PM, Aug 15 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747822/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 53493,
-    "Timestamp": "2026-08-15 15:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:43 PM, Aug 15 2026 Crash on SB Lamb Blvd\u00A0at Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747835/attachment_0.png",
-    "Latitude": 36.158866499999988,
-    "Longitude": -115.08010710000001
-  },
-  {
     "UniqueId": 53494,
     "Timestamp": "2026-08-15 16:40",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748115/attachment_0.jpg",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 53594,
+    "Timestamp": "2026-08-16 15:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "before",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:42 PM, Aug 16 2026 Crash on NB Hualapai Way\u00A0before Elkhorn Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748118/attachment_0.jpg",
+    "Latitude": 36.292091497722872,
+    "Longitude": -115.3149140038437
   }
 ]
