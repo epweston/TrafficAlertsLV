@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53433,
-    "Timestamp": "2026-08-14 20:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right shoulder.",
-    "Notes": "8:25 PM, Aug 14 2026 Stalled vehicle on NB I-11\u00A0after Wagon Wheel Dr. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/14/file_attachments/3747613/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 53434,
     "Timestamp": "2026-08-14 20:34",
     "IncidentType": "Crash",
@@ -1118,5 +1104,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747888/attachment_0.jpg",
     "Latitude": 36.159048129218675,
     "Longitude": -115.160685082124
+  },
+  {
+    "UniqueId": 53515,
+    "Timestamp": "2026-08-15 20:27",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:27 PM, Aug 15 2026 Crash on EB Washington Ave\u00A0after Buffalo Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747872/attachment_0.jpg",
+    "Latitude": 36.181332400000002,
+    "Longitude": -115.2600266
+  },
+  {
+    "UniqueId": 53516,
+    "Timestamp": "2026-08-15 20:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Polaris Ave",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder",
+    "Notes": "8:29 PM, Aug 15 2026 Stalled vehicle on NB Polaris Ave\u00A0after Tropicana Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747873/attachment_0.png",
+    "Latitude": 36.100986800000001,
+    "Longitude": -115.1855681
   }
 ]
