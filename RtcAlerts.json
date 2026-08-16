@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53489,
-    "Timestamp": "2026-08-15 15:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:03 PM, Aug 15 2026 Crash on NB Hualapai Way\u00A0after Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747819/attachment_0.png",
-    "Latitude": 36.115357500000002,
-    "Longitude": -115.314774
-  },
-  {
     "UniqueId": 53490,
     "Timestamp": "2026-08-15 15:35",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748095/attachment_0.png",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 53590,
+    "Timestamp": "2026-08-16 15:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:11 PM, Aug 16 2026 Stalled vehicle on NB I-15\u00A0after Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748097/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
