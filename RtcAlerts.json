@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53532,
-    "Timestamp": "2026-08-16 00:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Carson Ave",
-    "Relationship": "before",
-    "CrossStreet": "4Th St",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:55 AM, Aug 16 2026 Crash on EB Carson Ave\u00A0before 4th St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747926/attachment_0.jpg",
-    "Latitude": 36.168568999999998,
-    "Longitude": -115.1425728
-  },
-  {
-    "UniqueId": 53533,
-    "Timestamp": "2026-08-16 01:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:00 AM, Aug 16 2026 Crash on WB 215 Southern Beltway\u00A0after Gibson Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747928/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 53534,
-    "Timestamp": "2026-08-16 01:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "All lanes are blocked at Tropicana Ave",
-    "Notes": "1:39 AM, Aug 16 2026 Crash on NB I-15\u00A0before Flamingo Rd. All lanes are blocked at Tropicana Ave",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747916/attachment_0.jpg",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 53535,
     "Timestamp": "2026-08-16 02:43",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748179/attachment_0.png",
     "Latitude": 36.026445000000002,
     "Longitude": -115.29759060000001
+  },
+  {
+    "UniqueId": 53628,
+    "Timestamp": "2026-08-17 02:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:38 AM, Aug 17 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748183/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
