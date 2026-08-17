@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53567,
-    "Timestamp": "2026-08-16 09:04",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:04 AM, Aug 16 2026 Abandoned vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 53568,
     "Timestamp": "2026-08-16 09:20",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748756/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 53654,
+    "Timestamp": "2026-08-17 09:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:06 AM, Aug 17 2026 Crash on SB Las Vegas Blvd\u00A0before Lamb Blvd. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.225338465005997,
+    "Longitude": -115.08024188900795
   }
 ]
