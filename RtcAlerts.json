@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53521,
-    "Timestamp": "2026-08-15 21:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:24 PM, Aug 15 2026 Crash on NB I-15\u00A0before Sahara Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747899/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 53522,
-    "Timestamp": "2026-08-15 21:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "at",
-    "CrossStreet": "Pollock Dr",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "9:30 PM, Aug 15 2026 Crash on EB Windmill Ln\u00A0at Pollock Dr. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747876/attachment_0.jpg",
-    "Latitude": 36.042498700000003,
-    "Longitude": -115.1453367
-  },
-  {
     "UniqueId": 53523,
     "Timestamp": "2026-08-15 21:39",
     "IncidentType": "Update Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748199/attachment_0.jpg",
     "Latitude": 36.167660300000001,
     "Longitude": -115.1300196
+  },
+  {
+    "UniqueId": 53620,
+    "Timestamp": "2026-08-16 21:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Starr Ave",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:34 PM, Aug 16 2026 Crash on EB Starr Ave\u00A0before Las Vegas Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748168/attachment_0.png",
+    "Latitude": 35.984751500000002,
+    "Longitude": -115.1727827
   }
 ]
