@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53579,
-    "Timestamp": "2026-08-16 11:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile Marker 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:52 AM, Aug 16 2026 Stalled vehicle on NB I-15\u00A0at Mile Marker 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748074/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53580,
-    "Timestamp": "2026-08-16 12:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:10 PM, Aug 16 2026 Stalled vehicle on NB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748076/attachment_0.jpg",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 53581,
     "Timestamp": "2026-08-16 12:28",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749141/attachment_0.jpg",
     "Latitude": 36.100766700000008,
     "Longitude": -115.1626483
+  },
+  {
+    "UniqueId": 53669,
+    "Timestamp": "2026-08-17 12:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "12:04 PM, Aug 17 2026 Crash on SB I-11\u00A0after Tropicana Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749174/attachment_0.jpg",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
