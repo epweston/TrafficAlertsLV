@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53504,
-    "Timestamp": "2026-08-15 18:45",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "Mitchell St",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:45 PM, Aug 15 2026 Vehicle on fire on SB Mitchell St\u00A0before Craig Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747844/attachment_0.png",
-    "Latitude": 36.240315500000001,
-    "Longitude": -115.0973652
-  },
-  {
     "UniqueId": 53505,
     "Timestamp": "2026-08-15 19:04",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748138/attachment_0.png",
     "Latitude": 36.217340299999996,
     "Longitude": -115.2073862
+  },
+  {
+    "UniqueId": 53608,
+    "Timestamp": "2026-08-16 18:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Backstage Blvd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "6:59 PM, Aug 16 2026 Crash on EB Desert Inn Rd\u00A0at Backstage Blvd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748141/attachment_0.jpg",
+    "Latitude": 36.129557400000003,
+    "Longitude": -115.08615519999999
   }
 ]
