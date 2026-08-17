@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53494,
-    "Timestamp": "2026-08-15 16:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:40 PM, Aug 15 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before Tenaya Way. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747846/attachment_0.png",
-    "Latitude": 36.2416622,
-    "Longitude": -115.25127790000001
-  },
-  {
-    "UniqueId": 53495,
-    "Timestamp": "2026-08-15 16:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:42 PM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747848/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 53496,
-    "Timestamp": "2026-08-15 16:53",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder",
-    "Notes": "4:53 PM, Aug 15 2026 Police activity on SB I-11\u00A0at Mile 4. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747850/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53497,
-    "Timestamp": "2026-08-15 17:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:18 PM, Aug 15 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747852/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 53498,
     "Timestamp": "2026-08-15 17:22",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748124/attachment_0.png",
     "Latitude": 36.154855519034463,
     "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 53600,
+    "Timestamp": "2026-08-16 17:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "5:17 PM, Aug 16 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748147/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
