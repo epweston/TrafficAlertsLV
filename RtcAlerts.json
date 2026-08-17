@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53559,
-    "Timestamp": "2026-08-16 06:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:20 AM, Aug 16 2026 Stalled vehicle on NB I-15\u00A0after Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747987/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53560,
-    "Timestamp": "2026-08-16 06:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "6:33 AM, Aug 16 2026 Crash on NB Pecos Rd\u00A0at Pecos Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747983/attachment_0.jpg",
-    "Latitude": 36.134124300000003,
-    "Longitude": -115.10064800000001
-  },
-  {
-    "UniqueId": 53561,
-    "Timestamp": "2026-08-16 06:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "6:37 AM, Aug 16 2026 Crash on NB Pecos Rd\u00A0at Tropicana Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748006/attachment_0.jpg",
-    "Latitude": 36.100036091395793,
-    "Longitude": -115.10098681541832
-  },
-  {
     "UniqueId": 53562,
     "Timestamp": "2026-08-16 07:18",
     "IncidentType": "Crash",
@@ -1118,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748401/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 53640,
+    "Timestamp": "2026-08-17 06:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:42 AM, Aug 17 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748442/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
