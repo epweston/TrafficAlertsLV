@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53555,
-    "Timestamp": "2026-08-16 05:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:39 AM, Aug 16 2026 Crash on WB Bonanza Rd\u00A0at Main St. Right lane blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.177111600000003,
-    "Longitude": -115.142758
-  },
-  {
     "UniqueId": 53556,
     "Timestamp": "2026-08-16 05:47",
     "IncidentType": "Crash",
@@ -1132,5 +1118,19 @@
     "ImagePath": "",
     "Latitude": 36.177137600000002,
     "Longitude": -115.17442870000001
+  },
+  {
+    "UniqueId": 53636,
+    "Timestamp": "2026-08-17 05:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:42 AM, Aug 17 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748343/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
