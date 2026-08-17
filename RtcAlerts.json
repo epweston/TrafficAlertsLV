@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53562,
-    "Timestamp": "2026-08-16 07:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "All lanes are blocked.",
-    "Notes": "7:18 AM, Aug 16 2026 Crash on EB Russell Rd\u00A0after I-11. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747990/attachment_0.jpg",
-    "Latitude": 36.085176979506805,
-    "Longitude": -115.28887915405123
-  },
-  {
     "UniqueId": 53563,
     "Timestamp": "2026-08-16 07:58",
     "IncidentType": "Stalled vehicle",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748511/attachment_0.png",
     "Latitude": 36.020121142298088,
     "Longitude": -115.26119468708681
+  },
+  {
+    "UniqueId": 53643,
+    "Timestamp": "2026-08-17 07:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:26 AM, Aug 17 2026 Crash on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748592/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
