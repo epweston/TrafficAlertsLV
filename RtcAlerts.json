@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53587,
-    "Timestamp": "2026-08-16 14:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "2:39 PM, Aug 16 2026 Crash on WB Bonanza Rd\u00A0at Mojave Rd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748094/attachment_0.png",
-    "Latitude": 36.173660499999997,
-    "Longitude": -115.1058269
-  },
-  {
-    "UniqueId": 53588,
-    "Timestamp": "2026-08-16 14:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:44 PM, Aug 16 2026 Crash on NB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748109/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 53589,
     "Timestamp": "2026-08-16 14:48",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749410/attachment_0.jpg",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 53684,
+    "Timestamp": "2026-08-17 14:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:41 PM, Aug 17 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749403/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
