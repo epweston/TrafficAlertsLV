@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53545,
-    "Timestamp": "2026-08-16 04:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:17 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 53546,
-    "Timestamp": "2026-08-16 04:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:26 AM, Aug 16 2026 Crash on NB I-15\u00A0before Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 53547,
-    "Timestamp": "2026-08-16 04:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:26 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53548,
-    "Timestamp": "2026-08-16 04:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "4:27 AM, Aug 16 2026 Crash on SB Eastern Ave\u00A0at Warm Springs Rd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747941/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 53549,
     "Timestamp": "2026-08-16 04:47",
     "IncidentType": "Crash",
@@ -1216,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748252/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 53632,
+    "Timestamp": "2026-08-17 04:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "D St",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "4:34 AM, Aug 17 2026 Crash on NB D St\u00A0at Bonanza Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748293/attachment_0.jpg",
+    "Latitude": 36.177137600000002,
+    "Longitude": -115.17442870000001
   }
 ]
