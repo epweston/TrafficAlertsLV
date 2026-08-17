@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53584,
-    "Timestamp": "2026-08-16 12:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:52 PM, Aug 16 2026 Crash on NB I-15\u00A0before Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748088/attachment_0.jpg",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53585,
-    "Timestamp": "2026-08-16 13:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:21 PM, Aug 16 2026 Stalled vehicle on NB I-15 \u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748084/attachment_0.jpg",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 53586,
     "Timestamp": "2026-08-16 13:58",
     "IncidentType": "Crash",
@@ -1160,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749224/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 53674,
+    "Timestamp": "2026-08-17 13:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:17 PM, Aug 17 2026 Stalled vehicle on SB I-11\u00A0after Elkhorn Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749293/attachment_0.png",
+    "Latitude": 36.291693742081051,
+    "Longitude": -115.2797598374233
+  },
+  {
+    "UniqueId": 53675,
+    "Timestamp": "2026-08-17 13:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:17 PM, Aug 17 2026 Crash on NB 215 Western Beltway\u00A0after Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749285/attachment_0.jpg",
+    "Latitude": 36.070274645187922,
+    "Longitude": -115.28855877956086
   }
 ]
