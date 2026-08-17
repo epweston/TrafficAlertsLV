@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53568,
-    "Timestamp": "2026-08-16 09:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:20 AM, Aug 16 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747997/attachment_0.jpg",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 53569,
-    "Timestamp": "2026-08-16 09:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "9:19 AM, Aug 16 2026 Crash on SB Eastern Ave\u00A0at Warm Springs Rd. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 53570,
     "Timestamp": "2026-08-16 09:46",
     "IncidentType": "Crash",
@@ -1188,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748781/attachment_0.png",
     "Latitude": 36.293459499999997,
     "Longitude": -115.18487740000001
+  },
+  {
+    "UniqueId": 53656,
+    "Timestamp": "2026-08-17 09:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Jean",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:26 AM, Aug 17 2026 Crash on SB I-15\u00A0before Jean. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748814/attachment_0.jpg",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 53657,
+    "Timestamp": "2026-08-17 09:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:27 AM, Aug 17 2026 Crash on SB 215 Western Beltway\u00A0before Far Hills Ave. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
