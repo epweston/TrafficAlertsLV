@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53596,
-    "Timestamp": "2026-08-16 16:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "after",
-    "CrossStreet": "Mel Torme Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:04 PM, Aug 16 2026 Crash on WB Spring Mountain Rd\u00A0after Mel Torme Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748105/attachment_0.jpg",
-    "Latitude": 36.12558859559698,
-    "Longitude": -115.17317023475012
-  },
-  {
-    "UniqueId": 53597,
-    "Timestamp": "2026-08-16 16:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arville St",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:13 PM, Aug 16 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0at Arville St. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748121/attachment_0.png",
-    "Latitude": 36.036657699999999,
-    "Longitude": -115.1990826
-  },
-  {
     "UniqueId": 53598,
     "Timestamp": "2026-08-16 16:26",
     "IncidentType": "Police activity",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749486/attachment_0.png",
     "Latitude": 36.1655874,
     "Longitude": -115.1460088
+  },
+  {
+    "UniqueId": 53695,
+    "Timestamp": "2026-08-17 16:13",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "from",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:13 PM, Aug 17 2026 Crash on WB 215 Southern Beltway onramp from Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749497/attachment_0.png",
+    "Latitude": 36.166761536436809,
+    "Longitude": -115.0982451648641
   }
 ]
