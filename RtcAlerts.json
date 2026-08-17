@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53574,
-    "Timestamp": "2026-08-16 10:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:33 AM, Aug 16 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748029/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
     "UniqueId": 53575,
     "Timestamp": "2026-08-16 10:45",
     "IncidentType": "Abandoned vehicle",
@@ -1146,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748865/attachment_0.png",
     "Latitude": 36.279313100000003,
     "Longitude": -115.2648477
+  },
+  {
+    "UniqueId": 53661,
+    "Timestamp": "2026-08-17 10:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:36 AM, Aug 17 2026 Stalled vehicle on NB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748936/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 53662,
+    "Timestamp": "2026-08-17 10:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:37 AM, Aug 17 2026 Crash on SB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748920/attachment_0.jpg",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
   }
 ]
