@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53515,
-    "Timestamp": "2026-08-15 20:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:27 PM, Aug 15 2026 Crash on EB Washington Ave\u00A0after Buffalo Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747872/attachment_0.jpg",
-    "Latitude": 36.181332400000002,
-    "Longitude": -115.2600266
-  },
-  {
-    "UniqueId": 53516,
-    "Timestamp": "2026-08-15 20:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Polaris Ave",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder",
-    "Notes": "8:29 PM, Aug 15 2026 Stalled vehicle on NB Polaris Ave\u00A0after Tropicana Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747873/attachment_0.png",
-    "Latitude": 36.100986800000001,
-    "Longitude": -115.1855681
-  },
-  {
-    "UniqueId": 53517,
-    "Timestamp": "2026-08-15 20:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:34 PM, Aug 15 2026 Crash on EB Cactus Ave\u00A0before I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747874/attachment_0.png",
-    "Latitude": 35.998665899999999,
-    "Longitude": -115.17175140000001
-  },
-  {
     "UniqueId": 53518,
     "Timestamp": "2026-08-15 20:44",
     "IncidentType": "Crash",
@@ -1412,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748192/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 53616,
+    "Timestamp": "2026-08-16 20:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Gowan Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:34 PM, Aug 16 2026 Crash on NB Jones Blvd\u00A0before Gowan Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748194/attachment_0.jpg",
+    "Latitude": 36.224267599999997,
+    "Longitude": -115.2257656
   }
 ]
