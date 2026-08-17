@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53501,
-    "Timestamp": "2026-08-15 18:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:11 PM, Aug 15 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747859/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 53502,
-    "Timestamp": "2026-08-15 18:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:13 PM, Aug 15 2026 Stalled vehicle on NB I-15\u00A0at Sloan Rd.. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747860/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 53503,
     "Timestamp": "2026-08-15 18:27",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748153/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 53605,
+    "Timestamp": "2026-08-16 18:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Right shoulder",
+    "Notes": "6:14 PM, Aug 16 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Hualapai Way. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748135/attachment_0.png",
+    "Latitude": 36.281605159999998,
+    "Longitude": -115.3151178
+  },
+  {
+    "UniqueId": 53606,
+    "Timestamp": "2026-08-16 18:16",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "6:16 PM, Aug 16 2026 Crash on EB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748137/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
   }
 ]
