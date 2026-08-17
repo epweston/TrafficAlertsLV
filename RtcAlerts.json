@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53511,
-    "Timestamp": "2026-08-15 19:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "7:38 PM, Aug 15 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747886/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 53513,
-    "Timestamp": "2026-08-15 20:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder",
-    "Notes": "8:15 PM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747890/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 53514,
-    "Timestamp": "2026-08-15 20:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:14 PM, Aug 15 2026 Crash on WB Charleston Blvd\u00A0before 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747888/attachment_0.jpg",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
     "UniqueId": 53515,
     "Timestamp": "2026-08-15 20:27",
     "IncidentType": "Crash",
@@ -1426,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748144/attachment_0.png",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 53614,
+    "Timestamp": "2026-08-16 20:17",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "before",
+    "CrossStreet": "Arville St",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:17 PM, Aug 16 2026 Crash on EB Spring Mountain Rd\u00A0before Arville St. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748190/attachment_0.jpg",
+    "Latitude": 36.1263395,
+    "Longitude": -115.1991819
+  },
+  {
+    "UniqueId": 53615,
+    "Timestamp": "2026-08-16 20:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:23 PM, Aug 16 2026 Crash on NB I-11\u00A0at Tropicana Ave on-ramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748192/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
