@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53503,
-    "Timestamp": "2026-08-15 18:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "6:27 PM, Aug 15 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747842/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 53504,
     "Timestamp": "2026-08-15 18:45",
     "IncidentType": "Vehicle on fire",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748137/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 53607,
+    "Timestamp": "2026-08-16 18:25",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:25 PM, Aug 16 2026 Crash on SB Decatur Blvd\u00A0after Cheyenne Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748138/attachment_0.png",
+    "Latitude": 36.217340299999996,
+    "Longitude": -115.2073862
   }
 ]
