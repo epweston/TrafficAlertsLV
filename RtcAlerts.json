@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53598,
-    "Timestamp": "2026-08-16 16:26",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder",
-    "Notes": "4:26 PM, Aug 16 2026 Police activity on NB Jones Blvd\u00A0at Washington Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748127/attachment_0.jpg",
-    "Latitude": 36.180754299999997,
-    "Longitude": -115.2237837
-  },
-  {
-    "UniqueId": 53599,
-    "Timestamp": "2026-08-16 16:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "4:31 PM, Aug 16 2026 Crash on SB I-15\u00A0at Neon Gateway off ramp. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748124/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
     "UniqueId": 53600,
     "Timestamp": "2026-08-16 17:17",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749497/attachment_0.png",
     "Latitude": 36.166761536436809,
     "Longitude": -115.0982451648641
+  },
+  {
+    "UniqueId": 53697,
+    "Timestamp": "2026-08-17 16:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:33 PM, Aug 17 2026 Crash on SB Eastern Ave\u00A0at 215 Southern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749501/attachment_0.png",
+    "Latitude": 36.159300999999999,
+    "Longitude": -115.1189909
+  },
+  {
+    "UniqueId": 53698,
+    "Timestamp": "2026-08-17 16:36",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:36 PM, Aug 17 2026 Crash on NB I-11\u00A0before Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749518/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 53699,
+    "Timestamp": "2026-08-17 16:36",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:36 PM, Aug 17 2026 Crash on NB I-11\u00A0before Rancho Dr. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
