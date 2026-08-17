@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53505,
-    "Timestamp": "2026-08-15 19:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Eldorado Lane",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:04 PM, Aug 15 2026 Crash on SB Eastern Ave\u00A0at Eldorado Lane. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747845/attachment_0.jpg",
-    "Latitude": 36.053209000000003,
-    "Longitude": -115.11825
-  },
-  {
     "UniqueId": 53506,
     "Timestamp": "2026-08-15 19:10",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748141/attachment_0.jpg",
     "Latitude": 36.129557400000003,
     "Longitude": -115.08615519999999
+  },
+  {
+    "UniqueId": 53609,
+    "Timestamp": "2026-08-16 18:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:59 PM, Aug 16 2026 Crash on SB I-15\u00A0at Craig Rd on-ramp. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748143/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 53610,
+    "Timestamp": "2026-08-16 19:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Center lanes blocked.",
+    "Notes": "7:03 PM, Aug 16 2026 Crash on WB Charleston Blvd\u00A0at I-11. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748159/attachment_0.jpg",
+    "Latitude": 36.158822962125562,
+    "Longitude": -115.09162011384075
   }
 ]
