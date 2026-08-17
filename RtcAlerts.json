@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53506,
-    "Timestamp": "2026-08-15 19:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:10 PM, Aug 15 2026 Crash on EB Ann Rd\u00A0at I-11. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747867/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 53507,
-    "Timestamp": "2026-08-15 19:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "7:11 PM, Aug 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Flamingo Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747868/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
-    "UniqueId": 53508,
-    "Timestamp": "2026-08-15 19:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "7:11 PM, Aug 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Flamingo Rd. Right shoulder",
-    "ImagePath": "",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
     "UniqueId": 53509,
     "Timestamp": "2026-08-15 19:13",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748159/attachment_0.jpg",
     "Latitude": 36.158822962125562,
     "Longitude": -115.09162011384075
+  },
+  {
+    "UniqueId": 53611,
+    "Timestamp": "2026-08-16 19:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Marion Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "7:05 PM, Aug 16 2026 Crash on EB Charleston Blvd\u00A0after Marion Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748161/attachment_0.jpg",
+    "Latitude": 36.159038700000004,
+    "Longitude": -115.074563
+  },
+  {
+    "UniqueId": 53612,
+    "Timestamp": "2026-08-16 19:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Alta Dr",
+    "Relationship": "before",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:08 PM, Aug 16 2026 Crash on EB Alta Dr\u00A0before Rampart Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748163/attachment_0.png",
+    "Latitude": 36.166809899999997,
+    "Longitude": -115.2879301
   }
 ]
