@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53499,
-    "Timestamp": "2026-08-15 17:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:46 PM, Aug 15 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Stephanie St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747854/attachment_0.jpg",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 53500,
-    "Timestamp": "2026-08-15 17:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:48 PM, Aug 15 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/15/file_attachments/3747856/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 53501,
     "Timestamp": "2026-08-15 18:11",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748151/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 53604,
+    "Timestamp": "2026-08-16 17:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:49 PM, Aug 16 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748153/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
