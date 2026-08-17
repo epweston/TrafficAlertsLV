@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53563,
-    "Timestamp": "2026-08-16 07:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "North Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:58 AM, Aug 16 2026 Stalled vehicle on NB North Rancho Dr\u00A0at Lone Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748010/attachment_0.jpg",
-    "Latitude": 36.247643382733777,
-    "Longitude": -115.23993553933349
-  },
-  {
     "UniqueId": 53564,
     "Timestamp": "2026-08-16 08:34",
     "IncidentType": "Crash",
@@ -1146,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748609/attachment_0.jpg",
     "Latitude": 36.195838700000003,
     "Longitude": -115.112284
+  },
+  {
+    "UniqueId": 53647,
+    "Timestamp": "2026-08-17 08:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:02 AM, Aug 17 2026 Crash on SB Las Vegas Blvd\u00A0before Lamb Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.225338465005997,
+    "Longitude": -115.08024188900795
+  },
+  {
+    "UniqueId": 53648,
+    "Timestamp": "2026-08-17 08:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:05 AM, Aug 17 2026 Crash on SB I-15\u00A0at Flamingo Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748658/attachment_0.jpg",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
