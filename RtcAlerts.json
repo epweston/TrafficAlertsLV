@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 53536,
-    "Timestamp": "2026-08-16 02:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:49 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 53537,
-    "Timestamp": "2026-08-16 02:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "2:51 AM, Aug 16 2026 Crash on NB I-15\u00A0before Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747931/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 53538,
-    "Timestamp": "2026-08-16 03:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:25 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747933/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 53539,
-    "Timestamp": "2026-08-16 03:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "3:28 AM, Aug 16 2026 Crash on NB I-15\u00A0before Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747935/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 53540,
-    "Timestamp": "2026-08-16 03:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:29 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0before Flamingo Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747918/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 53541,
     "Timestamp": "2026-08-16 03:40",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748219/attachment_0.png",
     "Latitude": 36.196209164023024,
     "Longitude": -115.06218552589418
+  },
+  {
+    "UniqueId": 53630,
+    "Timestamp": "2026-08-17 03:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:29 AM, Aug 17 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
