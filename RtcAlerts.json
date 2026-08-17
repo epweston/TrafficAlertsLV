@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53593,
-    "Timestamp": "2026-08-16 15:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:29 PM, Aug 16 2026 Crash on NB I-11\u00A0before I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748115/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 53594,
     "Timestamp": "2026-08-16 15:42",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749471/attachment_0.png",
     "Latitude": 35.998667191475242,
     "Longitude": -115.22549452599732
+  },
+  {
+    "UniqueId": 53691,
+    "Timestamp": "2026-08-17 15:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:29 PM, Aug 17 2026 Crash on NB Rancho Dr\u00A0after Craig Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749460/attachment_0.jpg",
+    "Latitude": 36.2397007,
+    "Longitude": -115.23257750000001
   }
 ]
