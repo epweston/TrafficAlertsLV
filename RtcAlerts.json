@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53531,
-    "Timestamp": "2026-08-16 00:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder",
-    "Notes": "12:37 AM, Aug 16 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747914/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
     "UniqueId": 53532,
     "Timestamp": "2026-08-16 00:55",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748209/attachment_0.jpg",
     "Latitude": 36.114659896847385,
     "Longitude": -115.17288892246221
+  },
+  {
+    "UniqueId": 53627,
+    "Timestamp": "2026-08-17 00:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "before",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:40 AM, Aug 17 2026 Crash on NB Fort Apache Rd\u00A0before Pebble Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748179/attachment_0.png",
+    "Latitude": 36.026445000000002,
+    "Longitude": -115.29759060000001
   }
 ]
