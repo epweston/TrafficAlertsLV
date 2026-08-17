@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53570,
-    "Timestamp": "2026-08-16 09:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All SB lanes are blocked. All NB lanes are open. Expect Delays",
-    "Notes": "9:46 AM, Aug 16 2026 Crash on SB Eastern Ave\u00A0at Warm Springs Rd. All SB lanes are blocked. All NB lanes are open. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747999/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 53571,
-    "Timestamp": "2026-08-16 10:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:04 AM, Aug 16 2026 Stalled vehicle on NB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748000/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
-    "UniqueId": 53572,
-    "Timestamp": "2026-08-16 10:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:14 AM, Aug 16 2026 Stalled vehicle on SB I-15\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748019/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 53573,
-    "Timestamp": "2026-08-16 10:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:31 AM, Aug 16 2026 Crash on EB 215 Southern Beltway\u00A0before Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748020/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 53574,
     "Timestamp": "2026-08-16 10:33",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1132,19 @@
     "ImagePath": "",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 53659,
+    "Timestamp": "2026-08-17 10:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Sky Pointe Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:28 AM, Aug 17 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Sky Pointe Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748865/attachment_0.png",
+    "Latitude": 36.279313100000003,
+    "Longitude": -115.2648477
   }
 ]
