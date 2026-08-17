@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53558,
-    "Timestamp": "2026-08-16 06:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Skye Canyon Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:14 AM, Aug 16 2026 Crash on NB I-11\u00A0before Skye Canyon Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3747986/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 53559,
     "Timestamp": "2026-08-16 06:20",
     "IncidentType": "Stalled vehicle",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748370/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 53638,
+    "Timestamp": "2026-08-17 06:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:11 AM, Aug 17 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748401/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
