@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53650,
-    "Timestamp": "2026-08-17 08:40",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Smoke Ranch Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rock Springs Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:40 AM, Aug 17 2026 Crash on WB Smoke Ranch Rd\u00A0at Rock Springs Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748726/attachment_0.png",
-    "Latitude": 36.203356399999997,
-    "Longitude": -115.2468587
-  },
-  {
     "UniqueId": 53651,
     "Timestamp": "2026-08-17 08:48",
     "IncidentType": "Crash",
@@ -1468,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750010/attachment_0.png",
     "Latitude": 36.013320999999998,
     "Longitude": -115.12775050000001
+  },
+  {
+    "UniqueId": 53761,
+    "Timestamp": "2026-08-18 08:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:40 AM, Aug 18 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750031/attachment_0.jpg",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 53762,
+    "Timestamp": "2026-08-18 08:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:42 AM, Aug 18 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750018/attachment_0.png",
+    "Latitude": 36.195698330673721,
+    "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 53763,
+    "Timestamp": "2026-08-18 08:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:44 AM, Aug 18 2026 Stalled vehicle on EB Cactus Ave\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750040/attachment_0.jpg",
+    "Latitude": 35.998667191475242,
+    "Longitude": -115.22549452599732
   }
 ]
