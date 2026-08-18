@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53661,
-    "Timestamp": "2026-08-17 10:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:36 AM, Aug 17 2026 Stalled vehicle on NB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748936/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 53662,
-    "Timestamp": "2026-08-17 10:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:37 AM, Aug 17 2026 Crash on SB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748920/attachment_0.jpg",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
     "UniqueId": 53664,
     "Timestamp": "2026-08-17 11:08",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750251/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 53773,
+    "Timestamp": "2026-08-18 10:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:43 AM, Aug 18 2026 Crash on SB Fort Apache Rd\u00A0after Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.0555831,
+    "Longitude": -115.2975107
+  },
+  {
+    "UniqueId": 53774,
+    "Timestamp": "2026-08-18 10:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "from",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Ramp right lane blocked. Expect Delays",
+    "Notes": "10:42 AM, Aug 18 2026 Crash on NB I-11\u00A0from Buffalo Dr On Ramp. Ramp right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750268/attachment_0.jpg",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
