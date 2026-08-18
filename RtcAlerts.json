@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53614,
-    "Timestamp": "2026-08-16 20:17",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "before",
-    "CrossStreet": "Arville St",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:17 PM, Aug 16 2026 Crash on EB Spring Mountain Rd\u00A0before Arville St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748190/attachment_0.jpg",
-    "Latitude": 36.1263395,
-    "Longitude": -115.1991819
-  },
-  {
     "UniqueId": 53615,
     "Timestamp": "2026-08-16 20:23",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749592/attachment_0.png",
     "Latitude": 36.129250999999996,
     "Longitude": -115.2610777
+  },
+  {
+    "UniqueId": 53729,
+    "Timestamp": "2026-08-17 20:16",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:16 PM, Aug 17 2026 Police activity on SB Las Vegas Blvd\u00A0after Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749580/attachment_0.png",
+    "Latitude": 36.14359315288705,
+    "Longitude": -115.15748977661134
   }
 ]
