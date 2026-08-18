@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53701,
-    "Timestamp": "2026-08-17 16:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:41 PM, Aug 17 2026 Crash on EB Charleston Blvd\u00A0before Lamb Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749504/attachment_0.jpg",
-    "Latitude": 36.158944221110033,
-    "Longitude": -115.08028507232667
-  },
-  {
     "UniqueId": 53702,
     "Timestamp": "2026-08-17 16:47",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750808/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 53817,
+    "Timestamp": "2026-08-18 16:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:44 PM, Aug 18 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750850/attachment_0.png",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
   }
 ]
