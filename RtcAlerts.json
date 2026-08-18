@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53685,
-    "Timestamp": "2026-08-17 14:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:50 PM, Aug 17 2026 Stalled vehicle on NB I-11\u00A0to Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749420/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 53686,
     "Timestamp": "2026-08-17 14:59",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750730/attachment_0.jpg",
     "Latitude": 36.0998807,
     "Longitude": -115.1719403
+  },
+  {
+    "UniqueId": 53797,
+    "Timestamp": "2026-08-18 14:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:51 PM, Aug 18 2026 Crash on SB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750749/attachment_0.jpg",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
