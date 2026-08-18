@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53695,
-    "Timestamp": "2026-08-17 16:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "from",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:13 PM, Aug 17 2026 Crash on WB 215 Southern Beltway onramp from Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749497/attachment_0.png",
-    "Latitude": 36.166761536436809,
-    "Longitude": -115.0982451648641
-  },
-  {
     "UniqueId": 53697,
     "Timestamp": "2026-08-17 16:33",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750816/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 53809,
+    "Timestamp": "2026-08-18 16:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:20 PM, Aug 18 2026 Stalled vehicle on SB I-11\u00A0after Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750821/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
