@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53613,
-    "Timestamp": "2026-08-16 19:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:32 PM, Aug 16 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748144/attachment_0.png",
-    "Latitude": 36.144563512522332,
-    "Longitude": -115.33671498298646
-  },
-  {
     "UniqueId": 53614,
     "Timestamp": "2026-08-16 20:17",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749589/attachment_0.png",
     "Latitude": 36.129250999999996,
     "Longitude": -115.2610777
+  },
+  {
+    "UniqueId": 53727,
+    "Timestamp": "2026-08-17 20:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:08 PM, Aug 17 2026 Crash on SB Paradise Rd\u00A0after Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749590/attachment_0.png",
+    "Latitude": 36.089409500000002,
+    "Longitude": -115.1461541
   }
 ]
