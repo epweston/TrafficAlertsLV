@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 53608,
-    "Timestamp": "2026-08-16 18:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Backstage Blvd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "6:59 PM, Aug 16 2026 Crash on EB Desert Inn Rd\u00A0at Backstage Blvd. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748141/attachment_0.jpg",
-    "Latitude": 36.129557400000003,
-    "Longitude": -115.08615519999999
-  },
-  {
-    "UniqueId": 53609,
-    "Timestamp": "2026-08-16 18:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:59 PM, Aug 16 2026 Crash on SB I-15\u00A0at Craig Rd on-ramp. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748143/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 53610,
-    "Timestamp": "2026-08-16 19:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Center lanes blocked.",
-    "Notes": "7:03 PM, Aug 16 2026 Crash on WB Charleston Blvd\u00A0at I-11. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748159/attachment_0.jpg",
-    "Latitude": 36.158822962125562,
-    "Longitude": -115.09162011384075
-  },
-  {
-    "UniqueId": 53611,
-    "Timestamp": "2026-08-16 19:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Marion Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:05 PM, Aug 16 2026 Crash on EB Charleston Blvd\u00A0after Marion Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748161/attachment_0.jpg",
-    "Latitude": 36.159038700000004,
-    "Longitude": -115.074563
-  },
-  {
-    "UniqueId": 53612,
-    "Timestamp": "2026-08-16 19:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Alta Dr",
-    "Relationship": "before",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:08 PM, Aug 16 2026 Crash on EB Alta Dr\u00A0before Rampart Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748163/attachment_0.png",
-    "Latitude": 36.166809899999997,
-    "Longitude": -115.2879301
-  },
-  {
     "UniqueId": 53613,
     "Timestamp": "2026-08-16 19:32",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749576/attachment_0.jpg",
     "Latitude": 36.108017699999998,
     "Longitude": -115.1504278
+  },
+  {
+    "UniqueId": 53726,
+    "Timestamp": "2026-08-17 19:13",
+    "IncidentType": "Update Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "All lanes are blocked between Cimarron Rd and Buffalo Dr.",
+    "Notes": "7:13 PM, Aug 17 2026 Update Police activity on EB Desert Inn Rd\u00A0before Buffalo Dr. All lanes are blocked between Cimarron Rd and Buffalo Dr.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749589/attachment_0.png",
+    "Latitude": 36.129250999999996,
+    "Longitude": -115.2610777
   }
 ]
