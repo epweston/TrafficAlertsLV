@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53674,
-    "Timestamp": "2026-08-17 13:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:17 PM, Aug 17 2026 Stalled vehicle on SB I-11\u00A0after Elkhorn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749293/attachment_0.png",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
-    "UniqueId": 53675,
-    "Timestamp": "2026-08-17 13:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:17 PM, Aug 17 2026 Crash on NB 215 Western Beltway\u00A0after Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749285/attachment_0.jpg",
-    "Latitude": 36.070274645187922,
-    "Longitude": -115.28855877956086
-  },
-  {
-    "UniqueId": 53676,
-    "Timestamp": "2026-08-17 13:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Hotel Rio Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:22 PM, Aug 17 2026 Crash on EB Flamingo Rd\u00A0after Hotel Rio Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749310/attachment_0.jpg",
-    "Latitude": 36.115285299999996,
-    "Longitude": -115.18716740000001
-  },
-  {
     "UniqueId": 53677,
     "Timestamp": "2026-08-17 14:04",
     "IncidentType": "Crash",
@@ -1608,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750582/attachment_0.jpg",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 53792,
+    "Timestamp": "2026-08-18 13:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "NB Eastern at Twain is blocked. Use other routes",
+    "Notes": "1:29 PM, Aug 18 2026 Crash on NB Eastern Ave\u00A0at Twain Ave. NB Eastern at Twain is blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750644/attachment_0.jpg",
+    "Latitude": 36.122253299999997,
+    "Longitude": -115.1188655
   }
 ]
