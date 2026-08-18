@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53666,
-    "Timestamp": "2026-08-17 11:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:29 AM, Aug 17 2026 Stalled vehicle on SB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749095/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 53667,
     "Timestamp": "2026-08-17 11:47",
     "IncidentType": "Crash",
@@ -1594,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750371/attachment_0.jpg",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 53782,
+    "Timestamp": "2026-08-18 11:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:24 AM, Aug 18 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750376/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 53783,
+    "Timestamp": "2026-08-18 11:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Primm",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:27 AM, Aug 18 2026 Stalled vehicle on SB I-15\u00A0before Primm. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750366/attachment_0.png",
+    "Latitude": 35.607103427439853,
+    "Longitude": -115.39133563837639
   }
 ]
