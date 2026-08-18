@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53664,
-    "Timestamp": "2026-08-17 11:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:08 AM, Aug 17 2026 Stalled vehicle on NB I-11\u00A0after Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749024/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 53666,
     "Timestamp": "2026-08-17 11:29",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750323/attachment_0.jpg",
     "Latitude": 36.202897294871306,
     "Longitude": -115.17882405662896
+  },
+  {
+    "UniqueId": 53778,
+    "Timestamp": "2026-08-18 11:13",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "11:13 AM, Aug 18 2026 Crash on EB Charleston Blvd\u00A0at I-15. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750351/attachment_0.png",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
   }
 ]
