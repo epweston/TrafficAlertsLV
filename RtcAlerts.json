@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53697,
-    "Timestamp": "2026-08-17 16:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:33 PM, Aug 17 2026 Crash on SB Eastern Ave\u00A0at 215 Southern Beltway. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749501/attachment_0.png",
-    "Latitude": 36.159300999999999,
-    "Longitude": -115.1189909
-  },
-  {
-    "UniqueId": 53698,
-    "Timestamp": "2026-08-17 16:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:36 PM, Aug 17 2026 Crash on NB I-11\u00A0before Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749518/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 53699,
-    "Timestamp": "2026-08-17 16:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:36 PM, Aug 17 2026 Crash on NB I-11\u00A0before Rancho Dr. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 53700,
-    "Timestamp": "2026-08-17 16:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:39 PM, Aug 17 2026 Crash on NB Nellis Blvd\u00A0before Cheyenne Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749502/attachment_0.jpg",
-    "Latitude": 36.218383299999999,
-    "Longitude": -115.06225929999999
-  },
-  {
     "UniqueId": 53701,
     "Timestamp": "2026-08-17 16:41",
     "IncidentType": "Crash",
@@ -1622,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750827/attachment_0.png",
     "Latitude": 36.040631599999998,
     "Longitude": -115.19019710000001
+  },
+  {
+    "UniqueId": 53816,
+    "Timestamp": "2026-08-18 16:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:36 PM, Aug 18 2026 Stalled vehicle on NB I-15\u00A0at Sahara Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750808/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
