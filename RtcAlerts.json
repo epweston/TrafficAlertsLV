@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53688,
-    "Timestamp": "2026-08-17 15:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:16 PM, Aug 17 2026 Stalled vehicle on EB 215 Western Beltway\u00A0after Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749453/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
-    "UniqueId": 53689,
-    "Timestamp": "2026-08-17 15:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Owens Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:19 PM, Aug 17 2026 Crash on NB Pecos Rd\u00A0at Owens Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749456/attachment_0.png",
-    "Latitude": 36.188139700000001,
-    "Longitude": -115.0983279
-  },
-  {
     "UniqueId": 53690,
     "Timestamp": "2026-08-17 15:21",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750754/attachment_0.png",
     "Latitude": 36.166587100000001,
     "Longitude": -115.0621689
+  },
+  {
+    "UniqueId": 53800,
+    "Timestamp": "2026-08-18 15:14",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "3:14 PM, Aug 18 2026 Crash on EB Cactus Ave\u00A0at Decatur Blvd. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750757/attachment_0.png",
+    "Latitude": 35.9986356,
+    "Longitude": -115.2074791
   }
 ]
