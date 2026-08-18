@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53647,
-    "Timestamp": "2026-08-17 08:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:02 AM, Aug 17 2026 Crash on SB Las Vegas Blvd\u00A0before Lamb Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
     "UniqueId": 53648,
     "Timestamp": "2026-08-17 08:05",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749926/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 53758,
+    "Timestamp": "2026-08-18 07:59",
+    "IncidentType": "Other",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cambridge St",
+    "Impact": "Traffic signal is in red flash all directions. Expect Delays",
+    "Notes": "7:59 AM, Aug 18 2026 Other on WB Flamingo Rd\u00A0at Cambridge St. Traffic signal is in red flash all directions. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749962/attachment_0.png",
+    "Latitude": 36.114725300000003,
+    "Longitude": -115.1423006
   }
 ]
