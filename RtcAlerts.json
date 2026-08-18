@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53605,
-    "Timestamp": "2026-08-16 18:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Hualapai Way",
-    "Impact": "Right shoulder",
-    "Notes": "6:14 PM, Aug 16 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Hualapai Way. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748135/attachment_0.png",
-    "Latitude": 36.281605159999998,
-    "Longitude": -115.3151178
-  },
-  {
-    "UniqueId": 53606,
-    "Timestamp": "2026-08-16 18:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "6:16 PM, Aug 16 2026 Crash on EB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748137/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
     "UniqueId": 53607,
     "Timestamp": "2026-08-16 18:25",
     "IncidentType": "Crash",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749559/attachment_0.jpg",
     "Latitude": 36.166238200000002,
     "Longitude": -115.1925249
+  },
+  {
+    "UniqueId": 53719,
+    "Timestamp": "2026-08-17 18:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "6:17 PM, Aug 17 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749562/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
