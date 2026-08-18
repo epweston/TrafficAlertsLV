@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53654,
-    "Timestamp": "2026-08-17 09:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:06 AM, Aug 17 2026 Crash on SB Las Vegas Blvd\u00A0before Lamb Blvd. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
     "UniqueId": 53655,
     "Timestamp": "2026-08-17 09:11",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750053/attachment_0.jpg",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 53766,
+    "Timestamp": "2026-08-18 09:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:01 AM, Aug 18 2026 Crash on NB Durango Dr\u00A0after Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750073/attachment_0.jpg",
+    "Latitude": 36.070365750000001,
+    "Longitude": -115.27946056
   }
 ]
