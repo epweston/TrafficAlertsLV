@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53619,
-    "Timestamp": "2026-08-16 21:07",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "13Th St",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:07 PM, Aug 16 2026 Crash on WB Stewart Ave\u00A0at 13th St. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748199/attachment_0.jpg",
-    "Latitude": 36.167660300000001,
-    "Longitude": -115.1300196
-  },
-  {
-    "UniqueId": 53620,
-    "Timestamp": "2026-08-16 21:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:34 PM, Aug 16 2026 Crash on EB Starr Ave\u00A0before Las Vegas Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748168/attachment_0.png",
-    "Latitude": 35.984751500000002,
-    "Longitude": -115.1727827
-  },
-  {
-    "UniqueId": 53621,
-    "Timestamp": "2026-08-16 21:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sb 215 Western Beltway",
-    "Impact": "",
-    "Notes": "9:48 PM, Aug 16 2026 Crash on WB Sunset Rd\u00A0at SB 215 Western Beltway ramp Multiple directions blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748202/attachment_0.jpg",
-    "Latitude": 36.070283269266724,
-    "Longitude": -115.28855873027267
-  },
-  {
     "UniqueId": 53622,
     "Timestamp": "2026-08-16 22:59",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749596/attachment_0.jpg",
     "Latitude": 36.158839899999997,
     "Longitude": -115.0873266
+  },
+  {
+    "UniqueId": 53732,
+    "Timestamp": "2026-08-17 22:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:45 PM, Aug 17 2026 Crash on EB Spring Mountain Rd\u00A0after Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749585/attachment_0.png",
+    "Latitude": 36.126514613715024,
+    "Longitude": -115.19022883138266
   }
 ]
