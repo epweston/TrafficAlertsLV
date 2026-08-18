@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53667,
-    "Timestamp": "2026-08-17 11:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bridger Ave",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:47 AM, Aug 17 2026 Crash on WB Bridger Ave\u00A0at Main St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749144/attachment_0.png",
-    "Latitude": 36.1693414,
-    "Longitude": -115.1478422
-  },
-  {
     "UniqueId": 53669,
     "Timestamp": "2026-08-17 12:04",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750420/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 53788,
+    "Timestamp": "2026-08-18 11:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:58 AM, Aug 18 2026 Stalled vehicle on NB Rampart Blvd\u00A0at Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750455/attachment_0.png",
+    "Latitude": 36.177835743591984,
+    "Longitude": -115.28722561818798
   }
 ]
