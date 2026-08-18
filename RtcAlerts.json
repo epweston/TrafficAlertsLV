@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53630,
-    "Timestamp": "2026-08-17 03:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:29 AM, Aug 17 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 53631,
     "Timestamp": "2026-08-17 04:13",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "",
     "Latitude": 36.177653931557593,
     "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 53740,
+    "Timestamp": "2026-08-18 03:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:48 AM, Aug 18 2026 Stalled vehicle on SB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
