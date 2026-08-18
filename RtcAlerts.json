@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53604,
-    "Timestamp": "2026-08-16 17:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:49 PM, Aug 16 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748153/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 53605,
     "Timestamp": "2026-08-16 18:14",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749551/attachment_0.jpg",
     "Latitude": 36.166238200000002,
     "Longitude": -115.1925249
+  },
+  {
+    "UniqueId": 53714,
+    "Timestamp": "2026-08-17 17:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "5:45 PM, Aug 17 2026 Crash on EB Charleston Blvd\u00A0at Jones Blvd. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749545/attachment_0.png",
+    "Latitude": 36.159254500000003,
+    "Longitude": -115.2238706
+  },
+  {
+    "UniqueId": 53715,
+    "Timestamp": "2026-08-17 17:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Belmont St",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:48 PM, Aug 17 2026 Crash on WB Lake Mead Blvd\u00A0before Belmont St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749547/attachment_0.jpg",
+    "Latitude": 36.1958871,
+    "Longitude": -115.1068702
   }
 ]
