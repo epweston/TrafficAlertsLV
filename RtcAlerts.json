@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53632,
-    "Timestamp": "2026-08-17 04:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "D St",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "4:34 AM, Aug 17 2026 Crash on NB D St\u00A0at Bonanza Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748293/attachment_0.jpg",
-    "Latitude": 36.177137600000002,
-    "Longitude": -115.17442870000001
-  },
-  {
-    "UniqueId": 53633,
-    "Timestamp": "2026-08-17 04:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:47 AM, Aug 17 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748300/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53634,
-    "Timestamp": "2026-08-17 05:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:10 AM, Aug 17 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748303/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 53635,
-    "Timestamp": "2026-08-17 05:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "D St",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:16 AM, Aug 17 2026 Crash on NB D St\u00A0at Bonanza Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.177137600000002,
-    "Longitude": -115.17442870000001
-  },
-  {
     "UniqueId": 53636,
     "Timestamp": "2026-08-17 05:42",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1398,19 @@
     "ImagePath": "",
     "Latitude": 36.177653931557593,
     "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 53745,
+    "Timestamp": "2026-08-18 05:30",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Naples Dr",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "5:30 AM, Aug 18 2026 Crash on NB University Center Dr\u00A0at Naples Dr. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749718/attachment_0.png",
+    "Latitude": 36.105695400000002,
+    "Longitude": -115.14983909999999
   }
 ]
