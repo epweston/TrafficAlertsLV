@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53601,
-    "Timestamp": "2026-08-16 17:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "5:27 PM, Aug 16 2026 Stalled vehicle on SB I-11\u00A0before Boulder Hwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748130/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 53602,
-    "Timestamp": "2026-08-16 17:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "5:29 PM, Aug 16 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/16/file_attachments/3748149/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 53603,
     "Timestamp": "2026-08-16 17:38",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749534/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 53707,
+    "Timestamp": "2026-08-17 17:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:23 PM, Aug 17 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749524/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 53708,
+    "Timestamp": "2026-08-17 17:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:29 PM, Aug 17 2026 Crash on EB Charleston Blvd\u00A0before Durango Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749525/attachment_0.jpg",
+    "Latitude": 36.158985100000002,
+    "Longitude": -115.2802104
   }
 ]
