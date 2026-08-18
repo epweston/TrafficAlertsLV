@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53659,
-    "Timestamp": "2026-08-17 10:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Sky Pointe Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:28 AM, Aug 17 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Sky Pointe Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3748865/attachment_0.png",
-    "Latitude": 36.279313100000003,
-    "Longitude": -115.2648477
-  },
-  {
     "UniqueId": 53661,
     "Timestamp": "2026-08-17 10:36",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750223/attachment_0.jpg",
     "Latitude": 36.099596400000003,
     "Longitude": -115.2611137
+  },
+  {
+    "UniqueId": 53772,
+    "Timestamp": "2026-08-18 10:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:27 AM, Aug 18 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750251/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
