@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53692,
-    "Timestamp": "2026-08-17 15:40",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:40 PM, Aug 17 2026 Crash on WB Blue Diamond Rd\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749466/attachment_0.jpg",
-    "Latitude": 36.042357127021027,
-    "Longitude": -115.1724094422984
-  },
-  {
-    "UniqueId": 53693,
-    "Timestamp": "2026-08-17 15:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:43 PM, Aug 17 2026 Stalled vehicle on NB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 53694,
     "Timestamp": "2026-08-17 15:55",
     "IncidentType": "Crash",
@@ -1510,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750776/attachment_0.png",
     "Latitude": 36.178133899999999,
     "Longitude": -115.19249069999999
+  },
+  {
+    "UniqueId": 53803,
+    "Timestamp": "2026-08-18 15:39",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "SB Eastern is blocked.",
+    "Notes": "3:39 PM, Aug 18 2026 Crash on SB Eastern Ave\u00A0at Harmon Ave. SB Eastern is blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750783/attachment_0.jpg",
+    "Latitude": 36.107308699999997,
+    "Longitude": -115.11909540000001
+  },
+  {
+    "UniqueId": 53804,
+    "Timestamp": "2026-08-18 15:41",
+    "IncidentType": "Update: Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Carey Ave",
+    "Relationship": "at",
+    "CrossStreet": "Simmons St",
+    "Impact": "Intersection remains blocked. Use other routes",
+    "Notes": "3:41 PM, Aug 18 2026 Update: Crash on EB Carey Ave at Simmons St. Intersection remains blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750785/attachment_0.png",
+    "Latitude": 36.202897294871306,
+    "Longitude": -115.17882405662896
   }
 ]
