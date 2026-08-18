@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53686,
-    "Timestamp": "2026-08-17 14:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:59 PM, Aug 17 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749434/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 53687,
-    "Timestamp": "2026-08-17 15:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:10 PM, Aug 17 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749450/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 53688,
     "Timestamp": "2026-08-17 15:16",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750736/attachment_0.jpg",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 53799,
+    "Timestamp": "2026-08-18 15:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:11 PM, Aug 18 2026 Crash on SB Nellis Blvd\u00A0after Stewart Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750754/attachment_0.png",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
   }
 ]
