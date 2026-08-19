@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53707,
-    "Timestamp": "2026-08-17 17:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:23 PM, Aug 17 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749524/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 53708,
     "Timestamp": "2026-08-17 17:29",
     "IncidentType": "Crash",
@@ -1580,5 +1566,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750862/attachment_0.jpg",
     "Latitude": 36.196209164023024,
     "Longitude": -115.06218552589418
+  },
+  {
+    "UniqueId": 53823,
+    "Timestamp": "2026-08-18 17:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:21 PM, Aug 18 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 53824,
+    "Timestamp": "2026-08-18 17:23",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:23 PM, Aug 18 2026 Crash on WB Sunset Rd\u00A0before Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750845/attachment_0.jpg",
+    "Latitude": 36.071189599999997,
+    "Longitude": -115.17228350000001
+  },
+  {
+    "UniqueId": 53825,
+    "Timestamp": "2026-08-18 17:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:24 PM, Aug 18 2026 Stalled vehicle on SB I-11\u00A0to I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750847/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 53826,
+    "Timestamp": "2026-08-18 17:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:26 PM, Aug 18 2026 Crash on WB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750865/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
