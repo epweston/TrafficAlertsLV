@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53787,
-    "Timestamp": "2026-08-18 11:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:43 AM, Aug 18 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750420/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 53788,
-    "Timestamp": "2026-08-18 11:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:58 AM, Aug 18 2026 Stalled vehicle on NB Rampart Blvd\u00A0at Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750455/attachment_0.png",
-    "Latitude": 36.177835743591984,
-    "Longitude": -115.28722561818798
-  },
-  {
     "UniqueId": 53790,
     "Timestamp": "2026-08-18 12:58",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751847/attachment_0.png",
     "Latitude": 36.205819599999998,
     "Longitude": -115.2038819
+  },
+  {
+    "UniqueId": 53898,
+    "Timestamp": "2026-08-19 12:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:15 PM, Aug 19 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751915/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
