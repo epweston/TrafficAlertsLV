@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53745,
-    "Timestamp": "2026-08-18 05:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Naples Dr",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "5:30 AM, Aug 18 2026 Crash on NB University Center Dr\u00A0at Naples Dr. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749718/attachment_0.png",
-    "Latitude": 36.105695400000002,
-    "Longitude": -115.14983909999999
-  },
-  {
     "UniqueId": 53746,
     "Timestamp": "2026-08-18 06:07",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751039/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 53851,
+    "Timestamp": "2026-08-19 05:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Mile 11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:31 AM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0at Mile 11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751042/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
