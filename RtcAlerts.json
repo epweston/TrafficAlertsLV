@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53754,
-    "Timestamp": "2026-08-18 06:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "6:59 AM, Aug 18 2026 Crash on SB I-11\u00A0at I-15. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749854/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 53755,
-    "Timestamp": "2026-08-18 07:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "3 Left lanes blocked. Expect Delays",
-    "Notes": "7:06 AM, Aug 18 2026 Crash on EB Lake Mead Blvd\u00A0at Rainbow Blvd. 3 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749862/attachment_0.png",
-    "Latitude": 36.196001385231483,
-    "Longitude": -115.24201153240706
-  },
-  {
     "UniqueId": 53756,
     "Timestamp": "2026-08-18 07:08",
     "IncidentType": "Crash",
@@ -1468,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751184/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 53861,
+    "Timestamp": "2026-08-19 07:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:02 AM, Aug 19 2026 Stalled vehicle on NB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751210/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
