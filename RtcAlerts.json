@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53751,
-    "Timestamp": "2026-08-18 06:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:48 AM, Aug 18 2026 Stalled vehicle on SB 15\u00A0at Silverado Ranch Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749818/attachment_0.jpg",
-    "Latitude": 36.013126668091431,
-    "Longitude": -115.18044948577882
-  },
-  {
-    "UniqueId": 53752,
-    "Timestamp": "2026-08-18 06:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "6:53 AM, Aug 18 2026 Crash on NB Las Vegas Blvd\u00A0at Sunset Rd. Left lane blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.071189599999997,
-    "Longitude": -115.17228350000001
-  },
-  {
-    "UniqueId": 53753,
-    "Timestamp": "2026-08-18 06:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:57 AM, Aug 18 2026 Crash on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749844/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 53754,
     "Timestamp": "2026-08-18 06:59",
     "IncidentType": "Crash",
@@ -1482,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751173/attachment_0.jpg",
     "Latitude": 36.281605159999998,
     "Longitude": -115.3151178
+  },
+  {
+    "UniqueId": 53859,
+    "Timestamp": "2026-08-19 06:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Primm",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Multiple lanes blocked. Expect Delays",
+    "Notes": "6:52 AM, Aug 19 2026 Stalled vehicle on EB Primm\u00A0at I-15. Multiple lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751181/attachment_0.jpg",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 53860,
+    "Timestamp": "2026-08-19 06:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:55 AM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751184/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
