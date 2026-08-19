@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53799,
-    "Timestamp": "2026-08-18 15:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:11 PM, Aug 18 2026 Crash on SB Nellis Blvd\u00A0after Stewart Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750754/attachment_0.png",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
-    "UniqueId": 53800,
-    "Timestamp": "2026-08-18 15:14",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "3:14 PM, Aug 18 2026 Crash on EB Cactus Ave\u00A0at Decatur Blvd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750757/attachment_0.png",
-    "Latitude": 35.9986356,
-    "Longitude": -115.2074791
-  },
-  {
     "UniqueId": 53801,
     "Timestamp": "2026-08-18 15:22",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752183/attachment_0.png",
     "Latitude": 36.107132700000001,
     "Longitude": -115.2611606
+  },
+  {
+    "UniqueId": 53923,
+    "Timestamp": "2026-08-19 15:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:14 PM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752166/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
