@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53736,
-    "Timestamp": "2026-08-18 00:59",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:59 AM, Aug 18 2026 Police activity on SB Las Vegas Blvd\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749608/attachment_0.png",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
-    "UniqueId": 53737,
-    "Timestamp": "2026-08-18 01:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "1:43 AM, Aug 18 2026 Crash on SB Rainbow Blvd\u00A0after Spring Mountain Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749631/attachment_0.jpg",
-    "Latitude": 36.125772300000001,
-    "Longitude": -115.2428882
-  },
-  {
     "UniqueId": 53738,
     "Timestamp": "2026-08-18 02:51",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3750947/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 53846,
+    "Timestamp": "2026-08-19 02:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:09 AM, Aug 19 2026 Crash on NB 215 Western Beltway\u00A0before Far Hills Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3750954/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
