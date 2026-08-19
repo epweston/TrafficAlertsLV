@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 53714,
-    "Timestamp": "2026-08-17 17:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "5:45 PM, Aug 17 2026 Crash on EB Charleston Blvd\u00A0at Jones Blvd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749545/attachment_0.png",
-    "Latitude": 36.159254500000003,
-    "Longitude": -115.2238706
-  },
-  {
-    "UniqueId": 53715,
-    "Timestamp": "2026-08-17 17:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Belmont St",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:48 PM, Aug 17 2026 Crash on WB Lake Mead Blvd\u00A0before Belmont St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749547/attachment_0.jpg",
-    "Latitude": 36.1958871,
-    "Longitude": -115.1068702
-  },
-  {
-    "UniqueId": 53716,
-    "Timestamp": "2026-08-17 17:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sacramento Dr",
-    "Impact": "Right lane partially blocked.",
-    "Notes": "5:49 PM, Aug 17 2026 Stalled vehicle on EB Charleston Blvd\u00A0after Sacramento Dr. Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749555/attachment_0.jpg",
-    "Latitude": 36.158839899999997,
-    "Longitude": -115.0873266
-  },
-  {
-    "UniqueId": 53717,
-    "Timestamp": "2026-08-17 17:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nicco Way",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:52 PM, Aug 17 2026 Crash on SB Nicco Way\u00A0before Tropical Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749557/attachment_0.png",
-    "Latitude": 36.269749599999997,
-    "Longitude": -115.0478737
-  },
-  {
-    "UniqueId": 53718,
-    "Timestamp": "2026-08-17 17:54",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Alta Dr",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Left lanes blocked. Right lane is open again.",
-    "Notes": "5:54 PM, Aug 17 2026 Update Crash on EB Alta Dr\u00A0at Valley View Blvd. Left lanes blocked. Right lane is open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749559/attachment_0.jpg",
-    "Latitude": 36.166238200000002,
-    "Longitude": -115.1925249
-  },
-  {
     "UniqueId": 53719,
     "Timestamp": "2026-08-17 18:17",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750868/attachment_0.png",
     "Latitude": 35.961751371359661,
     "Longitude": -115.18186569213869
+  },
+  {
+    "UniqueId": 53830,
+    "Timestamp": "2026-08-18 17:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:59 PM, Aug 18 2026 Crash on NB I-11\u00A0before Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750876/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
