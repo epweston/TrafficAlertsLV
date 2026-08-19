@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53758,
-    "Timestamp": "2026-08-18 07:59",
-    "IncidentType": "Other",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cambridge St",
-    "Impact": "Traffic signal is in red flash all directions. Expect Delays",
-    "Notes": "7:59 AM, Aug 18 2026 Other on WB Flamingo Rd\u00A0at Cambridge St. Traffic signal is in red flash all directions. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749962/attachment_0.png",
-    "Latitude": 36.114725300000003,
-    "Longitude": -115.1423006
-  },
-  {
     "UniqueId": 53759,
     "Timestamp": "2026-08-18 08:17",
     "IncidentType": "Crash",
@@ -1524,5 +1510,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751276/attachment_0.png",
     "Latitude": 36.195698330673721,
     "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 53869,
+    "Timestamp": "2026-08-19 07:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "3 Left lanes blocked. Expect Delays",
+    "Notes": "7:59 AM, Aug 19 2026 Crash on NB Decatur Blvd\u00A0after Sahara Ave. 3 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751268/attachment_0.jpg",
+    "Latitude": 36.144511529274723,
+    "Longitude": -115.2082051186522
+  },
+  {
+    "UniqueId": 53870,
+    "Timestamp": "2026-08-19 08:00",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Sandhill Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:00 AM, Aug 19 2026 Crash on EB Tropicana Ave\u00A0at Sandhill Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751284/attachment_0.png",
+    "Latitude": 36.100245699999988,
+    "Longitude": -115.0918281
+  },
+  {
+    "UniqueId": 53871,
+    "Timestamp": "2026-08-19 08:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:01 AM, Aug 19 2026 Stalled vehicle on SB Pecos Rd\u00A0at Bonanza Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751289/attachment_0.png",
+    "Latitude": 36.173489500000002,
+    "Longitude": -115.0981745
   }
 ]
