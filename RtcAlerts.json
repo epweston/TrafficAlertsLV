@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53778,
-    "Timestamp": "2026-08-18 11:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "11:13 AM, Aug 18 2026 Crash on EB Charleston Blvd\u00A0at I-15. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750351/attachment_0.png",
-    "Latitude": 36.158996094562028,
-    "Longitude": -115.16085736012774
-  },
-  {
     "UniqueId": 53779,
     "Timestamp": "2026-08-18 11:18",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751797/attachment_0.png",
     "Latitude": 36.203503900000001,
     "Longitude": -115.2607019
+  },
+  {
+    "UniqueId": 53895,
+    "Timestamp": "2026-08-19 11:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:09 AM, Aug 19 2026 Crash on NB 215 Western Beltway\u00A0after Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751784/attachment_0.png",
+    "Latitude": 36.115066053957577,
+    "Longitude": -115.30244890820951
   }
 ]
