@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53760,
-    "Timestamp": "2026-08-18 08:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spencer St",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:31 AM, Aug 18 2026 Crash on EB Silverado Ranch Blvd\u00A0at Spencer St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750010/attachment_0.png",
-    "Latitude": 36.013320999999998,
-    "Longitude": -115.12775050000001
-  },
-  {
-    "UniqueId": 53761,
-    "Timestamp": "2026-08-18 08:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:40 AM, Aug 18 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750031/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 53762,
-    "Timestamp": "2026-08-18 08:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:42 AM, Aug 18 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750018/attachment_0.png",
-    "Latitude": 36.195698330673721,
-    "Longitude": -115.13873577117921
-  },
-  {
-    "UniqueId": 53763,
-    "Timestamp": "2026-08-18 08:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:44 AM, Aug 18 2026 Stalled vehicle on EB Cactus Ave\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750040/attachment_0.jpg",
-    "Latitude": 35.998667191475242,
-    "Longitude": -115.22549452599732
-  },
-  {
     "UniqueId": 53764,
     "Timestamp": "2026-08-18 08:50",
     "IncidentType": "Crash",
@@ -1608,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751351/attachment_0.png",
     "Latitude": 36.196863700000002,
     "Longitude": -115.2647209
+  },
+  {
+    "UniqueId": 53877,
+    "Timestamp": "2026-08-19 08:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:40 AM, Aug 19 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd off ramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751362/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
+  },
+  {
+    "UniqueId": 53878,
+    "Timestamp": "2026-08-19 08:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:43 AM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0after US-95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751409/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
