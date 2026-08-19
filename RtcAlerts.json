@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53794,
-    "Timestamp": "2026-08-18 14:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Eastern Ave is now closed in both directions at Twain. Use other routes",
-    "Notes": "2:08 PM, Aug 18 2026 Crash on NB Eastern Ave\u00A0at Twain Ave. Eastern Ave is now closed in both directions at Twain. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750683/attachment_0.jpg",
-    "Latitude": 36.122253299999997,
-    "Longitude": -115.1188655
-  },
-  {
     "UniqueId": 53795,
     "Timestamp": "2026-08-18 14:38",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752115/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12740612030031
+  },
+  {
+    "UniqueId": 53913,
+    "Timestamp": "2026-08-19 14:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Wigwam Pkwy",
+    "Impact": "All NB lanes are blocked. Use other routes.",
+    "Notes": "2:06 PM, Aug 19 2026 Crash on NB Eastern Ave\u00A0before Wigwam Pkwy. All NB lanes are blocked. Use other routes.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752119/attachment_0.png",
+    "Latitude": 36.0348975,
+    "Longitude": -115.11849460000001
+  },
+  {
+    "UniqueId": 53914,
+    "Timestamp": "2026-08-19 14:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "2:09 PM, Aug 19 2026 Crash on NB Nellis Blvd\u00A0at Stewart Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752123/attachment_0.png",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
   }
 ]
