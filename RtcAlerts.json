@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53703,
-    "Timestamp": "2026-08-17 16:51",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:51 PM, Aug 17 2026 Crash on EB Sahara Ave\u00A0at I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749529/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
-    "UniqueId": 53704,
-    "Timestamp": "2026-08-17 16:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:54 PM, Aug 17 2026 Crash on EB Cactus Ave\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749530/attachment_0.png",
-    "Latitude": 35.999014299999999,
-    "Longitude": -115.18064087000001
-  },
-  {
-    "UniqueId": 53705,
-    "Timestamp": "2026-08-17 16:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:55 PM, Aug 17 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749532/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 53706,
     "Timestamp": "2026-08-17 17:13",
     "IncidentType": "Crash",
@@ -1594,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750855/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 53820,
+    "Timestamp": "2026-08-18 16:55",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:55 PM, Aug 18 2026 Crash on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750838/attachment_0.jpg",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 53821,
+    "Timestamp": "2026-08-18 16:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Grand Teton Dr",
+    "Relationship": "before",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:59 PM, Aug 18 2026 Crash on WB Grand Teton Dr\u00A0before Grand Canyon Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750840/attachment_0.jpg",
+    "Latitude": 36.306773199999988,
+    "Longitude": -115.30587490000001
   }
 ]
