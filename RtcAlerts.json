@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 53722,
-    "Timestamp": "2026-08-17 18:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Goodsprings Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "",
-    "Notes": "6:33 PM, Aug 17 2026 Crash on EB Goodsprings Rd\u00A0before Las Vegas Blvd (after I-15), Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749573/attachment_0.png",
-    "Latitude": 36.156009300000001,
-    "Longitude": -115.1493954
-  },
-  {
-    "UniqueId": 53723,
-    "Timestamp": "2026-08-17 18:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Nb I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:35 PM, Aug 17 2026 Crash on EB Sahara Ave\u00A0at NB I-15 ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749574/attachment_0.png",
-    "Latitude": 36.144190982587887,
-    "Longitude": -115.17105104216959
-  },
-  {
-    "UniqueId": 53724,
-    "Timestamp": "2026-08-17 18:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "All eastbound lanes are blocked.",
-    "Notes": "6:39 PM, Aug 17 2026 Crash on EB Desert Inn Rd\u00A0after Buffalo Dr. All eastbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749566/attachment_0.jpg",
-    "Latitude": 36.129250999999996,
-    "Longitude": -115.2610777
-  },
-  {
-    "UniqueId": 53725,
-    "Timestamp": "2026-08-17 18:45",
-    "IncidentType": "Update Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "All lanes are open.",
-    "Notes": "6:45 PM, Aug 17 2026 Update Police activity on NB University Center Dr\u00A0at Harmon Ave. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/17/file_attachments/3749576/attachment_0.jpg",
-    "Latitude": 36.108017699999998,
-    "Longitude": -115.1504278
-  },
-  {
     "UniqueId": 53726,
     "Timestamp": "2026-08-17 19:13",
     "IncidentType": "Update Police activity",
@@ -1538,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750891/attachment_0.png",
     "Latitude": 36.022412007316184,
     "Longitude": -115.24351356526064
+  },
+  {
+    "UniqueId": 53834,
+    "Timestamp": "2026-08-18 18:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "",
+    "Notes": "6:48 PM, Aug 18 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Warm Springs Rd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750894/attachment_0.png",
+    "Latitude": 36.056052399999999,
+    "Longitude": -115.23591310000001
   }
 ]
