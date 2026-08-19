@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53756,
-    "Timestamp": "2026-08-18 07:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Aiport Connector",
-    "Relationship": "to",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:08 AM, Aug 18 2026 Crash on NB Aiport Connector\u00A0to Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749890/attachment_0.jpg",
-    "Latitude": 36.071561899999999,
-    "Longitude": -115.1215997
-  },
-  {
     "UniqueId": 53757,
     "Timestamp": "2026-08-18 07:44",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751210/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 53862,
+    "Timestamp": "2026-08-19 07:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Windmill Lane",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:11 AM, Aug 19 2026 Crash on EB 215 Southern Beltway\u00A0at Windmill Lane. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751205/attachment_0.jpg",
+    "Latitude": 36.042631960000001,
+    "Longitude": -115.13400973
   }
 ]
