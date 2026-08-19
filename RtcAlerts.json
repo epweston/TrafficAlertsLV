@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53801,
-    "Timestamp": "2026-08-18 15:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:22 PM, Aug 18 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750771/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
-    "UniqueId": 53802,
-    "Timestamp": "2026-08-18 15:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:25 PM, Aug 18 2026 Crash on SB Valley View Blvd\u00A0at I-11. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750776/attachment_0.png",
-    "Latitude": 36.178133899999999,
-    "Longitude": -115.19249069999999
-  },
-  {
     "UniqueId": 53803,
     "Timestamp": "2026-08-18 15:39",
     "IncidentType": "Crash",
@@ -1692,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752166/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 53924,
+    "Timestamp": "2026-08-19 15:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "3:28 PM, Aug 19 2026 Stalled vehicle on NB I-11\u00A0before . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752192/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
