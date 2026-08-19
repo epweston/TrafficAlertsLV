@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53748,
-    "Timestamp": "2026-08-18 06:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:25 AM, Aug 18 2026 Crash on NB Las Vegas Blvd\u00A0at Sunset Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749784/attachment_0.png",
-    "Latitude": 36.071189599999997,
-    "Longitude": -115.17228350000001
-  },
-  {
-    "UniqueId": 53749,
-    "Timestamp": "2026-08-18 06:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:26 AM, Aug 18 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749786/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 53750,
-    "Timestamp": "2026-08-18 06:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:32 AM, Aug 18 2026 Crash on WB 215 Southern Beltway\u00A0after Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3749792/attachment_0.jpg",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 53751,
     "Timestamp": "2026-08-18 06:48",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751150/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 53856,
+    "Timestamp": "2026-08-19 06:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:38 AM, Aug 19 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751162/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
