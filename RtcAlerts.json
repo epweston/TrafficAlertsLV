@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53899,
-    "Timestamp": "2026-08-19 12:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:20 PM, Aug 19 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751933/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 53900,
     "Timestamp": "2026-08-19 12:26",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753282/attachment_0.png",
     "Latitude": 36.1006675,
     "Longitude": -115.17802159999999
+  },
+  {
+    "UniqueId": 54005,
+    "Timestamp": "2026-08-20 12:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Arroyo Crossing Parkway",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:17 PM, Aug 20 2026 Crash on SB Rainbow Blvd\u00A0at Arroyo Crossing Parkway. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753285/attachment_0.png",
+    "Latitude": 36.063226100000001,
+    "Longitude": -115.2425344
   }
 ]
