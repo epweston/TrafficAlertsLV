@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53821,
-    "Timestamp": "2026-08-18 16:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Grand Teton Dr",
-    "Relationship": "before",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:59 PM, Aug 18 2026 Crash on WB Grand Teton Dr\u00A0before Grand Canyon Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750840/attachment_0.jpg",
-    "Latitude": 36.306773199999988,
-    "Longitude": -115.30587490000001
-  },
-  {
     "UniqueId": 53822,
     "Timestamp": "2026-08-18 17:18",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752260/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 53930,
+    "Timestamp": "2026-08-19 17:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:00 PM, Aug 19 2026 Crash on NB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752280/attachment_0.jpg",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
