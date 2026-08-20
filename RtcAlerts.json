@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53902,
-    "Timestamp": "2026-08-19 12:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Maule Ave",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "12:59 PM, Aug 19 2026 Crash on NB Durango Dr\u00A0at Maule Ave. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752007/attachment_0.png",
-    "Latitude": 36.061112099733968,
-    "Longitude": -115.27928353719248
-  },
-  {
     "UniqueId": 53903,
     "Timestamp": "2026-08-19 13:09",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753364/attachment_0.jpg",
     "Latitude": 36.002564409146181,
     "Longitude": -115.10892569074953
+  },
+  {
+    "UniqueId": 54008,
+    "Timestamp": "2026-08-20 12:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:59 PM, Aug 20 2026 Crash on EB Sahara Ave\u00A0after Tenaya Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753393/attachment_0.png",
+    "Latitude": 36.143827199999997,
+    "Longitude": -115.2519236
   }
 ]
