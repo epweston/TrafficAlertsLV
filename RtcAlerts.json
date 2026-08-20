@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53831,
-    "Timestamp": "2026-08-18 18:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:18 PM, Aug 18 2026 Crash on NB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750889/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 53832,
-    "Timestamp": "2026-08-18 18:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:20 PM, Aug 18 2026 Stalled vehicle on EB Lake Mead Pkwy\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750879/attachment_0.png",
-    "Latitude": 36.195958076861039,
-    "Longitude": -115.24445695128354
-  },
-  {
-    "UniqueId": 53833,
-    "Timestamp": "2026-08-18 18:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:21 PM, Aug 18 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0before Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750891/attachment_0.png",
-    "Latitude": 36.022412007316184,
-    "Longitude": -115.24351356526064
-  },
-  {
     "UniqueId": 53834,
     "Timestamp": "2026-08-18 18:48",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752341/attachment_0.png",
     "Latitude": 36.1603025,
     "Longitude": -115.17237249999999
+  },
+  {
+    "UniqueId": 53942,
+    "Timestamp": "2026-08-19 18:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Vegas Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:16 PM, Aug 19 2026 Crash on NB Rampart Blvd\u00A0at Vegas Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752351/attachment_0.png",
+    "Latitude": 36.188598266805073,
+    "Longitude": -115.28761448363619
+  },
+  {
+    "UniqueId": 53943,
+    "Timestamp": "2026-08-19 18:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Wyoming Ave",
+    "Relationship": "at",
+    "CrossStreet": "Western Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:19 PM, Aug 19 2026 Crash on EB Wyoming Ave\u00A0at Western Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752353/attachment_0.png",
+    "Latitude": 36.152360609524052,
+    "Longitude": -115.1621460914612
   }
 ]
