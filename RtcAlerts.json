@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53823,
-    "Timestamp": "2026-08-18 17:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:21 PM, Aug 18 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
-    "UniqueId": 53824,
-    "Timestamp": "2026-08-18 17:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:23 PM, Aug 18 2026 Crash on WB Sunset Rd\u00A0before Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750845/attachment_0.jpg",
-    "Latitude": 36.071189599999997,
-    "Longitude": -115.17228350000001
-  },
-  {
     "UniqueId": 53825,
     "Timestamp": "2026-08-18 17:24",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752289/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 53932,
+    "Timestamp": "2026-08-19 17:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:16 PM, Aug 19 2026 Crash on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752292/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
