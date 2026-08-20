@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53913,
-    "Timestamp": "2026-08-19 14:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Wigwam Pkwy",
-    "Impact": "All NB lanes are blocked. Use other routes.",
-    "Notes": "2:06 PM, Aug 19 2026 Crash on NB Eastern Ave\u00A0before Wigwam Pkwy. All NB lanes are blocked. Use other routes.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752119/attachment_0.png",
-    "Latitude": 36.0348975,
-    "Longitude": -115.11849460000001
-  },
-  {
-    "UniqueId": 53914,
-    "Timestamp": "2026-08-19 14:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:09 PM, Aug 19 2026 Crash on NB Nellis Blvd\u00A0at Stewart Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752123/attachment_0.png",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
     "UniqueId": 53915,
     "Timestamp": "2026-08-19 14:15",
     "IncidentType": "Crash",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753438/attachment_0.jpg",
     "Latitude": 36.166186199999999,
     "Longitude": -115.0982052
+  },
+  {
+    "UniqueId": 54013,
+    "Timestamp": "2026-08-20 14:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "",
+    "Notes": "2:06 PM, Aug 20 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Buffalo Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753445/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
