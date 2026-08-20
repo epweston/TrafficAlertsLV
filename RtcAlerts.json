@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53834,
-    "Timestamp": "2026-08-18 18:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "",
-    "Notes": "6:48 PM, Aug 18 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Warm Springs Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750894/attachment_0.png",
-    "Latitude": 36.056052399999999,
-    "Longitude": -115.23591310000001
-  },
-  {
     "UniqueId": 53835,
     "Timestamp": "2026-08-18 19:11",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752356/attachment_0.png",
     "Latitude": 36.326246089999998,
     "Longitude": -115.31129846
+  },
+  {
+    "UniqueId": 53949,
+    "Timestamp": "2026-08-19 18:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:44 PM, Aug 19 2026 Crash on EB Harmon Ave\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752371/attachment_0.png",
+    "Latitude": 36.109056600000002,
+    "Longitude": -115.1731435
   }
 ]
