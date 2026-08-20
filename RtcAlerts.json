@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53862,
-    "Timestamp": "2026-08-19 07:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Lane",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:11 AM, Aug 19 2026 Crash on EB 215 Southern Beltway\u00A0at Windmill Lane. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751205/attachment_0.jpg",
-    "Latitude": 36.042631960000001,
-    "Longitude": -115.13400973
-  },
-  {
-    "UniqueId": 53863,
-    "Timestamp": "2026-08-19 07:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:18 AM, Aug 19 2026 Crash on SB I-11\u00A0at Skye Canyon Park Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751233/attachment_0.png",
-    "Latitude": 36.314398977532683,
-    "Longitude": -115.30052669865761
-  },
-  {
-    "UniqueId": 53864,
-    "Timestamp": "2026-08-19 07:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:24 AM, Aug 19 2026 Stalled vehicle on NB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751239/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 53865,
     "Timestamp": "2026-08-19 07:30",
     "IncidentType": "Crash",
@@ -1608,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752728/attachment_0.jpg",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 53978,
+    "Timestamp": "2026-08-20 07:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "7:21 AM, Aug 20 2026 Crash on NB I-15\u00A0at Lamb Blvd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752736/attachment_0.jpg",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 53979,
+    "Timestamp": "2026-08-20 07:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:23 AM, Aug 20 2026 Crash on NB I-11\u00A0before Eastern Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752721/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
