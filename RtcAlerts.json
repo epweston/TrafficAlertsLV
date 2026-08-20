@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53903,
-    "Timestamp": "2026-08-19 13:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:09 PM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0after Elkhorn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752023/attachment_0.png",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
-    "UniqueId": 53904,
-    "Timestamp": "2026-08-19 13:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:18 PM, Aug 19 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752049/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 53905,
-    "Timestamp": "2026-08-19 13:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Us-93",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:22 PM, Aug 19 2026 Stalled vehicle on SB I-15\u00A0before US-93. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752052/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 53906,
     "Timestamp": "2026-08-19 13:25",
     "IncidentType": "Crash",
@@ -1468,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753393/attachment_0.png",
     "Latitude": 36.143827199999997,
     "Longitude": -115.2519236
+  },
+  {
+    "UniqueId": 54009,
+    "Timestamp": "2026-08-20 13:15",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Michael Wy",
+    "Impact": "WB Cheyenne is blocked at Michael Wy SB - NB Michael Wy is blocked at Cheyenne.",
+    "Notes": "1:15 PM, Aug 20 2026 Crash on WB Cheyenne Ave\u00A0at Michael Wy. WB Cheyenne is blocked at Michael Wy SB - NB Michael Wy is blocked at Cheyenne.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753405/attachment_0.jpg",
+    "Latitude": 36.217041399999999,
+    "Longitude": -115.2168135
+  },
+  {
+    "UniqueId": 54010,
+    "Timestamp": "2026-08-20 13:15",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Michael Wy",
+    "Impact": "WB Cheyenne is blocked at Michael Wy SB - NB Michael Wy is blocked at Cheyenne.",
+    "Notes": "1:15 PM, Aug 20 2026 Crash on WB Cheyenne Ave\u00A0at Michael Wy. WB Cheyenne is blocked at Michael Wy SB - NB Michael Wy is blocked at Cheyenne.",
+    "ImagePath": "",
+    "Latitude": 36.217041399999999,
+    "Longitude": -115.2168135
   }
 ]
