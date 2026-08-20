@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53900,
-    "Timestamp": "2026-08-19 12:26",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "12:26 PM, Aug 19 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751949/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 53901,
-    "Timestamp": "2026-08-19 12:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:26 PM, Aug 19 2026 Crash on NB I-15\u00A0before Russell Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751950/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 53902,
     "Timestamp": "2026-08-19 12:59",
     "IncidentType": "Crash",
@@ -1468,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753285/attachment_0.png",
     "Latitude": 36.063226100000001,
     "Longitude": -115.2425344
+  },
+  {
+    "UniqueId": 54006,
+    "Timestamp": "2026-08-20 12:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:23 PM, Aug 20 2026 Stalled vehicle on WB Charleston Blvd\u00A0after Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753313/attachment_0.jpg",
+    "Latitude": 36.159254500000003,
+    "Longitude": -115.2238706
   }
 ]
