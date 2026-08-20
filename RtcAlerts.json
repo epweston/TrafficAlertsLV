@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53829,
-    "Timestamp": "2026-08-18 17:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:41 PM, Aug 18 2026 Crash on SB St Rose Pkwy\u00A0after 215 Southern Beltway. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750868/attachment_0.png",
-    "Latitude": 35.961751371359661,
-    "Longitude": -115.18186569213869
-  },
-  {
     "UniqueId": 53830,
     "Timestamp": "2026-08-18 17:59",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752312/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 53935,
+    "Timestamp": "2026-08-19 17:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:41 PM, Aug 19 2026 Crash on EB Lake Mead Blvd\u00A0at Tenaya Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752316/attachment_0.jpg",
+    "Latitude": 36.196142600000002,
+    "Longitude": -115.2512959
   }
 ]
