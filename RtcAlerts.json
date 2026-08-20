@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53927,
-    "Timestamp": "2026-08-19 16:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:29 PM, Aug 19 2026 Crash on NB I-11\u00A0after Auto Show Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752270/attachment_0.jpg",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 53928,
     "Timestamp": "2026-08-19 16:46",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753572/attachment_0.png",
     "Latitude": 36.035390599999999,
     "Longitude": -115.0003389
+  },
+  {
+    "UniqueId": 54023,
+    "Timestamp": "2026-08-20 16:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:25 PM, Aug 20 2026 Crash on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753578/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 54024,
+    "Timestamp": "2026-08-20 16:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "4 Right lanes blocked.",
+    "Notes": "4:27 PM, Aug 20 2026 Crash on WB Sahara Ave\u00A0after Grand Canyon Dr. 4 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753599/attachment_0.png",
+    "Latitude": 36.144313599999997,
+    "Longitude": -115.30662770000001
   }
 ]
