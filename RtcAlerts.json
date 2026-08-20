@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53892,
-    "Timestamp": "2026-08-19 10:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:53 AM, Aug 19 2026 Stalled vehicle on NB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751790/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 53893,
-    "Timestamp": "2026-08-19 10:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:55 AM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751792/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 53894,
     "Timestamp": "2026-08-19 11:03",
     "IncidentType": "Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753063/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 53994,
+    "Timestamp": "2026-08-20 10:51",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:51 AM, Aug 20 2026 Vehicle on fire on SB I-11\u00A0before Craig Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753139/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
