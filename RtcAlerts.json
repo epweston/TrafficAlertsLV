@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53890,
-    "Timestamp": "2026-08-19 10:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:24 AM, Aug 19 2026 Crash on NB Eastern Ave\u00A0after Saint Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751701/attachment_0.png",
-    "Latitude": 36.007347500000002,
-    "Longitude": -115.11430110000001
-  },
-  {
-    "UniqueId": 53891,
-    "Timestamp": "2026-08-19 10:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Butler St",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:25 AM, Aug 19 2026 Crash on WB Sunset Rd\u00A0at Butler St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3751727/attachment_0.png",
-    "Latitude": 36.070390799999998,
-    "Longitude": -115.2770621
-  },
-  {
     "UniqueId": 53892,
     "Timestamp": "2026-08-19 10:53",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753032/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 53991,
+    "Timestamp": "2026-08-20 10:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:25 AM, Aug 20 2026 Stalled vehicle on NB I-15\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753070/attachment_0.png",
+    "Latitude": 36.173668758672179,
+    "Longitude": -115.13793117559058
+  },
+  {
+    "UniqueId": 53992,
+    "Timestamp": "2026-08-20 10:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:26 AM, Aug 20 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753071/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
