@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53842,
-    "Timestamp": "2026-08-18 23:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:30 PM, Aug 18 2026 Stalled vehicle on NB I-11\u00A0before 215 Western Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750935/attachment_0.png",
-    "Latitude": 36.241416399999999,
-    "Longitude": -115.06614380000001
-  },
-  {
     "UniqueId": 53843,
     "Timestamp": "2026-08-19 00:22",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752388/attachment_0.png",
     "Latitude": 36.136265999999999,
     "Longitude": -115.1621219
+  },
+  {
+    "UniqueId": 53961,
+    "Timestamp": "2026-08-19 23:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Frank Sinatra Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:29 PM, Aug 19 2026 Crash on WB Russell Rd\u00A0at Frank Sinatra Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752407/attachment_0.png",
+    "Latitude": 36.086073589295651,
+    "Longitude": -115.17571806907655
   }
 ]
