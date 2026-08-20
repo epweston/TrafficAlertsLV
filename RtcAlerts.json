@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53830,
-    "Timestamp": "2026-08-18 17:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:59 PM, Aug 18 2026 Crash on NB I-11\u00A0before Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/18/file_attachments/3750876/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 53831,
     "Timestamp": "2026-08-18 18:18",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752337/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 53938,
+    "Timestamp": "2026-08-19 17:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:54 PM, Aug 19 2026 Crash on WB Warm Springs Rd\u00A0before 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752338/attachment_0.png",
+    "Latitude": 36.173663860844933,
+    "Longitude": -115.13790452024138
   }
 ]
