@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53915,
-    "Timestamp": "2026-08-19 14:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "2:15 PM, Aug 19 2026 Crash on NB I-11\u00A0to Summerlin Pkwy. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752133/attachment_0.jpg",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 53916,
     "Timestamp": "2026-08-19 14:20",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753445/attachment_0.png",
     "Latitude": 36.066255059042923,
     "Longitude": -115.26065826416017
+  },
+  {
+    "UniqueId": 54014,
+    "Timestamp": "2026-08-20 14:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "I-11 On Left",
+    "Impact": "",
+    "Notes": "2:09 PM, Aug 20 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0after I-11 on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753456/attachment_0.png",
+    "Latitude": 36.183238600000003,
+    "Longitude": -115.30132519999999
+  },
+  {
+    "UniqueId": 54015,
+    "Timestamp": "2026-08-20 14:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "College Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:12 PM, Aug 20 2026 Stalled vehicle on SB I-11 offramp to College Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753470/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
