@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53962,
-    "Timestamp": "2026-08-20 00:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "under",
-    "CrossStreet": "I-15",
-    "Impact": "Left lanes blocked.",
-    "Notes": "12:18 AM, Aug 20 2026 Crash on EB Charleston Blvd\u00A0under I-15. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752392/attachment_0.png",
-    "Latitude": 36.158996094562028,
-    "Longitude": -115.16085736012774
-  },
-  {
     "UniqueId": 53963,
     "Timestamp": "2026-08-20 02:39",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753716/attachment_0.png",
     "Latitude": 36.140763799999988,
     "Longitude": -115.29752019999999
+  },
+  {
+    "UniqueId": 54063,
+    "Timestamp": "2026-08-21 00:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 7",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:48 AM, Aug 21 2026 Crash on SB I-15\u00A0at Mile 7. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3753730/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
