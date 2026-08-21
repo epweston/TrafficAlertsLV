@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53988,
-    "Timestamp": "2026-08-20 09:27",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:27 AM, Aug 20 2026 Crash on WB Cheyenne Ave\u00A0before Civic Center Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752942/attachment_0.jpg",
-    "Latitude": 36.217594200000001,
-    "Longitude": -115.12107260000001
-  },
-  {
     "UniqueId": 53989,
     "Timestamp": "2026-08-20 09:49",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754248/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 54080,
+    "Timestamp": "2026-08-21 09:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:28 AM, Aug 21 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754257/attachment_0.jpg",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
