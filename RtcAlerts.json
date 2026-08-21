@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53961,
-    "Timestamp": "2026-08-19 23:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Frank Sinatra Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:29 PM, Aug 19 2026 Crash on WB Russell Rd\u00A0at Frank Sinatra Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752407/attachment_0.png",
-    "Latitude": 36.086073589295651,
-    "Longitude": -115.17571806907655
-  },
-  {
     "UniqueId": 53962,
     "Timestamp": "2026-08-20 00:18",
     "IncidentType": "Crash",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753703/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 54060,
+    "Timestamp": "2026-08-20 23:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "before",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:26 PM, Aug 20 2026 Crash on EB Harmon Ave\u00A0before Koval Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753704/attachment_0.png",
+    "Latitude": 36.108025599999998,
+    "Longitude": -115.16390629999999
+  },
+  {
+    "UniqueId": 54061,
+    "Timestamp": "2026-08-20 23:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Sands Ave",
+    "Relationship": "after",
+    "CrossStreet": "Howard Hughes Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:29 PM, Aug 20 2026 Stalled vehicle on WB Sands Ave\u00A0after Howard Hughes Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753706/attachment_0.png",
+    "Latitude": 36.121938399999998,
+    "Longitude": -115.15768079999999
   }
 ]
