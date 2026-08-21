@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54013,
-    "Timestamp": "2026-08-20 14:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "",
-    "Notes": "2:06 PM, Aug 20 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Buffalo Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753445/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
-    "UniqueId": 54014,
-    "Timestamp": "2026-08-20 14:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "I-11 On Left",
-    "Impact": "",
-    "Notes": "2:09 PM, Aug 20 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0after I-11 on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753456/attachment_0.png",
-    "Latitude": 36.183238600000003,
-    "Longitude": -115.30132519999999
-  },
-  {
     "UniqueId": 54015,
     "Timestamp": "2026-08-20 14:12",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754769/attachment_0.jpg",
     "Latitude": 36.114650126614762,
     "Longitude": -115.27002434822492
+  },
+  {
+    "UniqueId": 54105,
+    "Timestamp": "2026-08-21 14:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 59",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:04 PM, Aug 21 2026 Stalled vehicle on NB I-15\u00A0at Mile 59. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754787/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
