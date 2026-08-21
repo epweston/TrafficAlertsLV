@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54011,
-    "Timestamp": "2026-08-20 14:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "",
-    "Notes": "2:02 PM, Aug 20 2026 Stalled vehicle on NB I-11\u00A0before 215 Northern Beltway on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753425/attachment_0.png",
-    "Latitude": 36.033552862846953,
-    "Longitude": -115.01434604859962
-  },
-  {
-    "UniqueId": 54012,
-    "Timestamp": "2026-08-20 14:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "2:01 PM, Aug 20 2026 Crash on NB Pecos Rd\u00A0at Stewart Ave. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753438/attachment_0.jpg",
-    "Latitude": 36.166186199999999,
-    "Longitude": -115.0982052
-  },
-  {
     "UniqueId": 54013,
     "Timestamp": "2026-08-20 14:06",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754755/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54104,
+    "Timestamp": "2026-08-21 14:01",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:01 PM, Aug 21 2026 Crash on EB Flamingo Rd\u00A0after Cimarron Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754769/attachment_0.jpg",
+    "Latitude": 36.114650126614762,
+    "Longitude": -115.27002434822492
   }
 ]
