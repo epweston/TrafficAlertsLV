@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53958,
-    "Timestamp": "2026-08-19 23:12",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:12 PM, Aug 19 2026 Crash on WB Flamingo Rd\u00A0after Lindell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752384/attachment_0.png",
-    "Latitude": 36.115074900000003,
-    "Longitude": -115.2164839
-  },
-  {
-    "UniqueId": 53959,
-    "Timestamp": "2026-08-19 23:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:20 PM, Aug 19 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752386/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 53960,
-    "Timestamp": "2026-08-19 23:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Elvis Presley Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "11:26 PM, Aug 19 2026 Crash on NB Las Vegas Blvd\u00A0at Elvis Presley Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752388/attachment_0.png",
-    "Latitude": 36.136265999999999,
-    "Longitude": -115.1621219
-  },
-  {
     "UniqueId": 53961,
     "Timestamp": "2026-08-19 23:29",
     "IncidentType": "Crash",
@@ -1384,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753699/attachment_0.jpg",
     "Latitude": 36.159381699999997,
     "Longitude": -115.03985110000001
+  },
+  {
+    "UniqueId": 54059,
+    "Timestamp": "2026-08-20 23:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:23 PM, Aug 20 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753703/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
