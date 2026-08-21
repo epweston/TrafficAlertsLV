@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54003,
-    "Timestamp": "2026-08-20 12:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:08 PM, Aug 20 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753280/attachment_0.jpg",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 54004,
-    "Timestamp": "2026-08-20 12:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Bruce Woodbury Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:10 PM, Aug 20 2026 Crash on SB Bruce Woodbury Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753282/attachment_0.png",
-    "Latitude": 36.1006675,
-    "Longitude": -115.17802159999999
-  },
-  {
-    "UniqueId": 54005,
-    "Timestamp": "2026-08-20 12:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Arroyo Crossing Parkway",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:17 PM, Aug 20 2026 Crash on SB Rainbow Blvd\u00A0at Arroyo Crossing Parkway. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753285/attachment_0.png",
-    "Latitude": 36.063226100000001,
-    "Longitude": -115.2425344
-  },
-  {
-    "UniqueId": 54006,
-    "Timestamp": "2026-08-20 12:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:23 PM, Aug 20 2026 Stalled vehicle on WB Charleston Blvd\u00A0after Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753313/attachment_0.jpg",
-    "Latitude": 36.159254500000003,
-    "Longitude": -115.2238706
-  },
-  {
     "UniqueId": 54007,
     "Timestamp": "2026-08-20 12:45",
     "IncidentType": "Crash",
@@ -1300,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754610/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 54098,
+    "Timestamp": "2026-08-21 12:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:25 PM, Aug 21 2026 Stalled vehicle on SB I-11\u00A0after Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754645/attachment_0.png",
+    "Latitude": 36.298464445139153,
+    "Longitude": -115.28598403888641
   }
 ]
