@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53998,
-    "Timestamp": "2026-08-20 11:30",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "4Th St",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:30 AM, Aug 20 2026 Police activity on SB Las Vegas Blvd\u00A0before 4th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753228/attachment_0.png",
-    "Latitude": 36.153303700000002,
-    "Longitude": -115.1510431
-  },
-  {
-    "UniqueId": 53999,
-    "Timestamp": "2026-08-20 11:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:30 AM, Aug 20 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753201/attachment_0.jpg",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 54000,
     "Timestamp": "2026-08-20 11:41",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754526/attachment_0.png",
     "Latitude": 36.100954797150514,
     "Longitude": -115.13693332672121
+  },
+  {
+    "UniqueId": 54093,
+    "Timestamp": "2026-08-21 11:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Mcleod Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "11:26 AM, Aug 21 2026 Crash on EB Tropicana Ave\u00A0before McLeod Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754540/attachment_0.png",
+    "Latitude": 36.100067600000003,
+    "Longitude": -115.10999150000001
+  },
+  {
+    "UniqueId": 54094,
+    "Timestamp": "2026-08-21 11:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:28 AM, Aug 21 2026 Crash on EB Cheyenne Ave\u00A0at Cimarron Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754542/attachment_0.png",
+    "Latitude": 36.218273000000003,
+    "Longitude": -115.265051
   }
 ]
