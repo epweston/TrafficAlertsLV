@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53977,
-    "Timestamp": "2026-08-20 07:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:08 AM, Aug 20 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752728/attachment_0.jpg",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 53978,
-    "Timestamp": "2026-08-20 07:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "7:21 AM, Aug 20 2026 Crash on NB I-15\u00A0at Lamb Blvd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752736/attachment_0.jpg",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 53979,
-    "Timestamp": "2026-08-20 07:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:23 AM, Aug 20 2026 Crash on NB I-11\u00A0before Eastern Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752721/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 53980,
     "Timestamp": "2026-08-20 07:58",
     "IncidentType": "Crash",
@@ -1272,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3753937/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 54070,
+    "Timestamp": "2026-08-21 07:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Foster Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:19 AM, Aug 21 2026 Crash on WB Sunset Rd\u00A0at Foster Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754039/attachment_0.png",
+    "Latitude": 36.063903500000002,
+    "Longitude": -115.0147214
   }
 ]
