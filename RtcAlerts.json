@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54019,
-    "Timestamp": "2026-08-20 15:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lanes blocked. Expect long delays.",
-    "Notes": "3:17 PM, Aug 20 2026 Crash on NB I-11\u00A0after Rancho Dr. Left lanes blocked. Expect long delays.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753504/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 54020,
     "Timestamp": "2026-08-20 15:33",
     "IncidentType": "Crash",
@@ -1272,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754804/attachment_0.png",
     "Latitude": 36.196000602251971,
     "Longitude": -115.24454390895161
+  },
+  {
+    "UniqueId": 54112,
+    "Timestamp": "2026-08-21 15:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Skye Canyon Park Dr",
+    "Relationship": "at",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:21 PM, Aug 21 2026 Crash on EB Skye Canyon Park Dr\u00A0at Grand Canyon Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754850/attachment_0.png",
+    "Latitude": 36.314156599999997,
+    "Longitude": -115.30604580000001
+  },
+  {
+    "UniqueId": 54113,
+    "Timestamp": "2026-08-21 15:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:24 PM, Aug 21 2026 Crash on WB Blue Diamond Rd\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754832/attachment_0.png",
+    "Latitude": 36.042357127021027,
+    "Longitude": -115.1724094422984
   }
 ]
