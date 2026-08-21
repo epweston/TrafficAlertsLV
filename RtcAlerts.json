@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54027,
-    "Timestamp": "2026-08-20 16:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:37 PM, Aug 20 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753603/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 54028,
-    "Timestamp": "2026-08-20 16:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:40 PM, Aug 20 2026 Crash on NB Eastern Ave\u00A0before Russell Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753582/attachment_0.png",
-    "Latitude": 36.086265099999999,
-    "Longitude": -115.11888639999999
-  },
-  {
     "UniqueId": 54029,
     "Timestamp": "2026-08-20 16:44",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754890/attachment_0.png",
     "Latitude": 36.178483896259188,
     "Longitude": -115.25997161865236
+  },
+  {
+    "UniqueId": 54127,
+    "Timestamp": "2026-08-21 16:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:42 PM, Aug 21 2026 Crash on NB Rainbow Blvd\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754894/attachment_0.png",
+    "Latitude": 36.159173199999998,
+    "Longitude": -115.24359750000001
   }
 ]
