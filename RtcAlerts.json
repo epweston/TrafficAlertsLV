@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 53935,
-    "Timestamp": "2026-08-19 17:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:41 PM, Aug 19 2026 Crash on EB Lake Mead Blvd\u00A0at Tenaya Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752316/attachment_0.jpg",
-    "Latitude": 36.196142600000002,
-    "Longitude": -115.2512959
-  },
-  {
-    "UniqueId": 53936,
-    "Timestamp": "2026-08-19 17:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:44 PM, Aug 19 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752331/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 53937,
     "Timestamp": "2026-08-19 17:51",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753648/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 54038,
+    "Timestamp": "2026-08-20 17:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Aria Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:37 PM, Aug 20 2026 Stalled vehicle on WB Harmon Ave\u00A0at Aria Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753645/attachment_0.png",
+    "Latitude": 36.108592600000001,
+    "Longitude": -115.17770230000001
   }
 ]
