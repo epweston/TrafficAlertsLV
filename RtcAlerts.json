@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 53940,
-    "Timestamp": "2026-08-19 18:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:07 PM, Aug 19 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752340/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 53941,
-    "Timestamp": "2026-08-19 18:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rancho",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:12 PM, Aug 19 2026 Crash on NB I-11\u00A0after Rancho. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752341/attachment_0.png",
-    "Latitude": 36.1603025,
-    "Longitude": -115.17237249999999
-  },
-  {
-    "UniqueId": 53942,
-    "Timestamp": "2026-08-19 18:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:16 PM, Aug 19 2026 Crash on NB Rampart Blvd\u00A0at Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/19/file_attachments/3752351/attachment_0.png",
-    "Latitude": 36.188598266805073,
-    "Longitude": -115.28761448363619
-  },
-  {
     "UniqueId": 53943,
     "Timestamp": "2026-08-19 18:19",
     "IncidentType": "Crash",
@@ -1440,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753677/attachment_0.png",
     "Latitude": 36.195698330673721,
     "Longitude": -115.13873577117921
+  },
+  {
+    "UniqueId": 54044,
+    "Timestamp": "2026-08-20 18:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:11 PM, Aug 20 2026 Crash on SB I-15\u00A0before Spring Mountain Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753657/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 54045,
+    "Timestamp": "2026-08-20 18:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:14 PM, Aug 20 2026 Crash on NB Rampart Blvd\u00A0after Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753680/attachment_0.png",
+    "Latitude": 36.177835743591984,
+    "Longitude": -115.28722561818798
   }
 ]
