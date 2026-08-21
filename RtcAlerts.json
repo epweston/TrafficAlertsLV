@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54021,
-    "Timestamp": "2026-08-20 15:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "3:48 PM, Aug 20 2026 Crash on NB Durango Dr\u00A0after Cheyenne Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753540/attachment_0.png",
-    "Latitude": 36.218685299999997,
-    "Longitude": -115.2788607
-  },
-  {
     "UniqueId": 54022,
     "Timestamp": "2026-08-20 16:07",
     "IncidentType": "Police activity",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754860/attachment_0.jpg",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 54120,
+    "Timestamp": "2026-08-21 15:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Mile 3",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:46 PM, Aug 21 2026 Stalled vehicle on NB I-11\u00A0after Mile 3. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754862/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 54121,
+    "Timestamp": "2026-08-21 15:51",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:51 PM, Aug 21 2026 Crash on WB Lake Mead Blvd\u00A0at Rampart Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754840/attachment_0.png",
+    "Latitude": 36.199951899999988,
+    "Longitude": -115.28239290000001
   }
 ]
