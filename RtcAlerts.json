@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54015,
-    "Timestamp": "2026-08-20 14:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "College Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:12 PM, Aug 20 2026 Stalled vehicle on SB I-11 offramp to College Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753470/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 54016,
     "Timestamp": "2026-08-20 14:15",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754787/attachment_0.jpg",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 54106,
+    "Timestamp": "2026-08-21 14:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Center lanes blocked.",
+    "Notes": "2:08 PM, Aug 21 2026 Crash on SB Paradise Rd\u00A0before Tropicana Ave. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754778/attachment_0.jpg",
+    "Latitude": 36.101024170590854,
+    "Longitude": -115.14982939081087
   }
 ]
