@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54001,
-    "Timestamp": "2026-08-20 11:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:57 AM, Aug 20 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753273/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 54002,
-    "Timestamp": "2026-08-20 12:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Moapa Valley Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:01 PM, Aug 20 2026 Stalled vehicle on NB I-15\u00A0after Moapa Valley Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753293/attachment_0.jpg",
-    "Latitude": 36.670656356017403,
-    "Longitude": -114.5219135284424
-  },
-  {
     "UniqueId": 54003,
     "Timestamp": "2026-08-20 12:08",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754575/attachment_0.jpg",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 54097,
+    "Timestamp": "2026-08-21 11:57",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:57 AM, Aug 21 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754610/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
