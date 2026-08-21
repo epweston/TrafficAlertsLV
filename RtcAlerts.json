@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54020,
-    "Timestamp": "2026-08-20 15:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:33 PM, Aug 20 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Center lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 54021,
     "Timestamp": "2026-08-20 15:48",
     "IncidentType": "Crash",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754854/attachment_0.jpg",
     "Latitude": 36.007212199999998,
     "Longitude": -115.11429010000001
+  },
+  {
+    "UniqueId": 54116,
+    "Timestamp": "2026-08-21 15:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:31 PM, Aug 21 2026 Stalled vehicle on NB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754856/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 54117,
+    "Timestamp": "2026-08-21 15:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane partially blocked.",
+    "Notes": "3:33 PM, Aug 21 2026 Stalled vehicle on NB I-15\u00A0before Tropicana Ave. Right lane partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754835/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
