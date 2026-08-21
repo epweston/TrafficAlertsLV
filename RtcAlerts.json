@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 53984,
-    "Timestamp": "2026-08-20 08:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spring Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:34 AM, Aug 20 2026 Crash on SB Rainbow Blvd\u00A0at Spring Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3752873/attachment_0.jpg",
-    "Latitude": 36.110628699999999,
-    "Longitude": -115.24309150000001
-  },
-  {
     "UniqueId": 53985,
     "Timestamp": "2026-08-20 08:50",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754126/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 54076,
+    "Timestamp": "2026-08-21 08:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Saint Rose Square Lane",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkway",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:29 AM, Aug 21 2026 Crash on SB Saint Rose Square Lane\u00A0after St Rose Pkway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754152/attachment_0.png",
+    "Latitude": 35.9879222,
+    "Longitude": -115.1409601
   }
 ]
