@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54016,
-    "Timestamp": "2026-08-20 14:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:15 PM, Aug 20 2026 Stalled vehicle on SB I-15\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753473/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 54017,
     "Timestamp": "2026-08-20 14:29",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754778/attachment_0.jpg",
     "Latitude": 36.101024170590854,
     "Longitude": -115.14982939081087
+  },
+  {
+    "UniqueId": 54107,
+    "Timestamp": "2026-08-21 14:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "2:22 PM, Aug 21 2026 Crash on EB Flamingo Rd\u00A0after Cimarron Rd. Multiple lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.114650126614762,
+    "Longitude": -115.27002434822492
   }
 ]
