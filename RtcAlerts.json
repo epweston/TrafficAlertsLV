@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54023,
-    "Timestamp": "2026-08-20 16:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:25 PM, Aug 20 2026 Crash on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753578/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 54024,
-    "Timestamp": "2026-08-20 16:27",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "4 Right lanes blocked.",
-    "Notes": "4:27 PM, Aug 20 2026 Crash on WB Sahara Ave\u00A0after Grand Canyon Dr. 4 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753599/attachment_0.png",
-    "Latitude": 36.144313599999997,
-    "Longitude": -115.30662770000001
-  },
-  {
-    "UniqueId": 54025,
-    "Timestamp": "2026-08-20 16:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "after",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:29 PM, Aug 20 2026 Crash on SB Buffalo Dr\u00A0after Summerlin Pkwy. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753580/attachment_0.png",
-    "Latitude": 36.183238600000003,
-    "Longitude": -115.30132519999999
-  },
-  {
-    "UniqueId": 54026,
-    "Timestamp": "2026-08-20 16:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:32 PM, Aug 20 2026 Crash on SB I-11\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753602/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 54027,
     "Timestamp": "2026-08-20 16:37",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754867/attachment_0.png",
     "Latitude": 36.195669100000003,
     "Longitude": -115.0263638
+  },
+  {
+    "UniqueId": 54126,
+    "Timestamp": "2026-08-21 16:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:27 PM, Aug 21 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0before Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754890/attachment_0.png",
+    "Latitude": 36.178483896259188,
+    "Longitude": -115.25997161865236
   }
 ]
