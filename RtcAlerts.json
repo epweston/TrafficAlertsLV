@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54022,
-    "Timestamp": "2026-08-20 16:07",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Vanwagenen St",
-    "Impact": "",
-    "Notes": "4:07 PM, Aug 20 2026 Police activity on WB Lake Mead Pkwy\u00A0after Vanwagenen St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753572/attachment_0.png",
-    "Latitude": 36.035390599999999,
-    "Longitude": -115.0003389
-  },
-  {
     "UniqueId": 54023,
     "Timestamp": "2026-08-20 16:25",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754840/attachment_0.png",
     "Latitude": 36.199951899999988,
     "Longitude": -115.28239290000001
+  },
+  {
+    "UniqueId": 54122,
+    "Timestamp": "2026-08-21 16:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder",
+    "Notes": "4:01 PM, Aug 21 2026 Stalled vehicle on NB I-11\u00A0at Tropicana Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754842/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
