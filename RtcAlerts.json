@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54017,
-    "Timestamp": "2026-08-20 14:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:29 PM, Aug 20 2026 Crash on SB Jones Blvd\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753460/attachment_0.png",
-    "Latitude": 36.144216956887654,
-    "Longitude": -115.22533893585207
-  },
-  {
     "UniqueId": 54018,
     "Timestamp": "2026-08-20 14:32",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "",
     "Latitude": 36.114650126614762,
     "Longitude": -115.27002434822492
+  },
+  {
+    "UniqueId": 54108,
+    "Timestamp": "2026-08-21 14:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Spencer St",
+    "Impact": "",
+    "Notes": "2:24 PM, Aug 21 2026 Crash on WB Tropicana Ave\u00A0at Spencer St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754794/attachment_0.png",
+    "Latitude": 36.101021600000003,
+    "Longitude": -115.1279854
   }
 ]
