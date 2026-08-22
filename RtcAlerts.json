@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54039,
-    "Timestamp": "2026-08-20 17:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "5:43 PM, Aug 20 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753646/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 54040,
     "Timestamp": "2026-08-20 17:49",
     "IncidentType": "Crash",
@@ -1370,5 +1356,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754913/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 54138,
+    "Timestamp": "2026-08-21 17:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Nb I-11",
+    "Impact": "Right shoulder",
+    "Notes": "5:40 PM, Aug 21 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0to NB I-11 ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754915/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 54139,
+    "Timestamp": "2026-08-21 17:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 20",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:40 PM, Aug 21 2026 Stalled vehicle on NB I-15\u00A0after Mile 20. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754916/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 54140,
+    "Timestamp": "2026-08-21 17:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:42 PM, Aug 21 2026 Crash on NB I-15\u00A0at Flamingo Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754928/attachment_0.jpg",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
