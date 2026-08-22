@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54068,
-    "Timestamp": "2026-08-21 05:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "5:27 AM, Aug 21 2026 Crash on SB Decatur Blvd\u00A0at I-11. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3753852/attachment_0.png",
-    "Latitude": 36.174238600000002,
-    "Longitude": -115.2060639
-  },
-  {
     "UniqueId": 54069,
     "Timestamp": "2026-08-21 06:39",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755038/attachment_0.jpg",
     "Latitude": 36.170422799999997,
     "Longitude": -115.139985
+  },
+  {
+    "UniqueId": 54195,
+    "Timestamp": "2026-08-22 05:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:28 AM, Aug 22 2026 Crash on NB I-11\u00A0after Rancho Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755046/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
