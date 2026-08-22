@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54069,
-    "Timestamp": "2026-08-21 06:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:39 AM, Aug 21 2026 Stalled vehicle on NB I-15\u00A0after Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3753937/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 54070,
     "Timestamp": "2026-08-21 07:19",
     "IncidentType": "Crash",
@@ -1790,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755087/attachment_0.png",
     "Latitude": 36.020378200000003,
     "Longitude": -115.28529450000001
+  },
+  {
+    "UniqueId": 54198,
+    "Timestamp": "2026-08-22 07:08",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:08 AM, Aug 22 2026 Crash on WB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755075/attachment_0.jpg",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
