@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54064,
-    "Timestamp": "2026-08-21 02:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:41 AM, Aug 21 2026 Crash on WB Sahara Ave\u00A0after Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3753736/attachment_0.png",
-    "Latitude": 36.144533188965404,
-    "Longitude": -115.20814061164857
-  },
-  {
     "UniqueId": 54065,
     "Timestamp": "2026-08-21 02:55",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755005/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 54182,
+    "Timestamp": "2026-08-22 02:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:44 AM, Aug 22 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755015/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
