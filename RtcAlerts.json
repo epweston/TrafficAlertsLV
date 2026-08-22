@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54043,
-    "Timestamp": "2026-08-20 18:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:04 PM, Aug 20 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753677/attachment_0.png",
-    "Latitude": 36.195698330673721,
-    "Longitude": -115.13873577117921
-  },
-  {
     "UniqueId": 54044,
     "Timestamp": "2026-08-20 18:11",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754920/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 54143,
+    "Timestamp": "2026-08-21 18:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Soaring Gulls Dr",
+    "Impact": "",
+    "Notes": "6:02 PM, Aug 21 2026 Crash on WB Cheyenne Ave\u00A0after Soaring Gulls Dr (before Durango Dr), All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754931/attachment_0.png",
+    "Latitude": 36.218468199999997,
+    "Longitude": -115.27417749999999
   }
 ]
