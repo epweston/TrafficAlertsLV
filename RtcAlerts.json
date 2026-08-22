@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54067,
-    "Timestamp": "2026-08-21 04:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "4:18 AM, Aug 21 2026 Crash on WB Tropicana Ave\u00A0at Valley View Blvd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3753788/attachment_0.jpg",
-    "Latitude": 36.100984799999999,
-    "Longitude": -115.1899141
-  },
-  {
     "UniqueId": 54068,
     "Timestamp": "2026-08-21 05:27",
     "IncidentType": "Crash",
@@ -1748,5 +1734,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755033/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 54192,
+    "Timestamp": "2026-08-22 04:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:19 AM, Aug 22 2026 Crash on NB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 54193,
+    "Timestamp": "2026-08-22 04:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:21 AM, Aug 22 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
