@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54031,
-    "Timestamp": "2026-08-20 17:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Raphael Rivera Way",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:05 PM, Aug 20 2026 Stalled vehicle on NB Raphael Rivera Way\u00A0at Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753632/attachment_0.png",
-    "Latitude": 36.070210899999999,
-    "Longitude": -115.2872869
-  },
-  {
-    "UniqueId": 54032,
-    "Timestamp": "2026-08-20 17:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:07 PM, Aug 20 2026 Crash on NB I-15\u00A0at\u00A0 Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753633/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 54033,
     "Timestamp": "2026-08-20 17:16",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754883/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 54131,
+    "Timestamp": "2026-08-21 17:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder",
+    "Notes": "5:02 PM, Aug 21 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754884/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
