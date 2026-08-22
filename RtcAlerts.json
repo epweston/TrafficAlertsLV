@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54033,
-    "Timestamp": "2026-08-20 17:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "NB Right lanes blocked. WB left lane Blocked.",
-    "Notes": "5:16 PM, Aug 20 2026 Crash on NB Rampart Blvd\u00A0at Summerlin Pkwy. NB Right lanes blocked. WB left lane Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753620/attachment_0.png",
-    "Latitude": 36.177835743591984,
-    "Longitude": -115.28722561818798
-  },
-  {
-    "UniqueId": 54034,
-    "Timestamp": "2026-08-20 17:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd North",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:18 PM, Aug 20 2026 Crash on SB Las Vegas Blvd North\u00A0after Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753639/attachment_0.png",
-    "Latitude": 36.195865100000013,
-    "Longitude": -115.1288797
-  },
-  {
     "UniqueId": 54036,
     "Timestamp": "2026-08-20 17:33",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754907/attachment_0.png",
     "Latitude": 36.186849129215581,
     "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 54134,
+    "Timestamp": "2026-08-21 17:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder",
+    "Notes": "5:21 PM, Aug 21 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754909/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
