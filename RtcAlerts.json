@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54126,
-    "Timestamp": "2026-08-21 16:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:27 PM, Aug 21 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0before Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754890/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
     "UniqueId": 54127,
     "Timestamp": "2026-08-21 16:42",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755201/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 54238,
+    "Timestamp": "2026-08-22 16:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Boulder City Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:32 PM, Aug 22 2026 Stalled vehicle on EB Boulder City Pkwy\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755186/attachment_0.png",
+    "Latitude": 35.973038099999997,
+    "Longitude": -114.9141533
   }
 ]
