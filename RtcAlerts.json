@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54098,
-    "Timestamp": "2026-08-21 12:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:25 PM, Aug 21 2026 Stalled vehicle on SB I-11\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754645/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
-    "UniqueId": 54099,
-    "Timestamp": "2026-08-21 12:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 13",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:33 PM, Aug 21 2026 Stalled vehicle on NB I-15\u00A0at Mile 13. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754672/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 54100,
-    "Timestamp": "2026-08-21 12:36",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:36 PM, Aug 21 2026 Crash on SB I-15\u00A0before I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754675/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 54101,
     "Timestamp": "2026-08-21 13:09",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755154/attachment_0.png",
     "Latitude": 35.968342972997235,
     "Longitude": -114.91009383325343
+  },
+  {
+    "UniqueId": 54214,
+    "Timestamp": "2026-08-22 12:33",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "12:33 PM, Aug 22 2026 Crash on EB Sunset Rd\u00A0at Stephanie St. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755136/attachment_0.png",
+    "Latitude": 36.063631899999997,
+    "Longitude": -115.046273
+  },
+  {
+    "UniqueId": 54215,
+    "Timestamp": "2026-08-22 12:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:37 PM, Aug 22 2026 Stalled vehicle on SB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755137/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
