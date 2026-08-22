@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54037,
-    "Timestamp": "2026-08-20 17:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:36 PM, Aug 20 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753648/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 54038,
-    "Timestamp": "2026-08-20 17:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "Aria Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:37 PM, Aug 20 2026 Stalled vehicle on WB Harmon Ave\u00A0at Aria Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753645/attachment_0.png",
-    "Latitude": 36.108592600000001,
-    "Longitude": -115.17770230000001
-  },
-  {
     "UniqueId": 54039,
     "Timestamp": "2026-08-20 17:43",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754911/attachment_0.png",
     "Latitude": 36.180960652520049,
     "Longitude": -115.14510597539126
+  },
+  {
+    "UniqueId": 54136,
+    "Timestamp": "2026-08-21 17:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:35 PM, Aug 21 2026 Crash on NB I-15\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754905/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 54137,
+    "Timestamp": "2026-08-21 17:36",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:36 PM, Aug 21 2026 Police activity on SB I-11\u00A0at Eastern Ave off ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754913/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
