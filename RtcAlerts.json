@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54086,
-    "Timestamp": "2026-08-21 10:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:24 AM, Aug 21 2026 Crash on WB Lake Mead Blvd\u00A0before I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754395/attachment_0.png",
-    "Latitude": 36.196000602251971,
-    "Longitude": -115.24454390895161
-  },
-  {
-    "UniqueId": 54087,
-    "Timestamp": "2026-08-21 10:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:28 AM, Aug 21 2026 Crash on NB I-11\u00A0after Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754399/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 54088,
     "Timestamp": "2026-08-21 10:34",
     "IncidentType": "Crash",
@@ -1692,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755122/attachment_0.png",
     "Latitude": 36.670656356017403,
     "Longitude": -114.5219135284424
+  },
+  {
+    "UniqueId": 54208,
+    "Timestamp": "2026-08-22 10:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Intersection partially blocked",
+    "Notes": "10:27 AM, Aug 22 2026 Crash on NB Martin L King Blvd\u00A0at Washington Ave. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755097/attachment_0.jpg",
+    "Latitude": 36.180861052200697,
+    "Longitude": -115.16088006783248
   }
 ]
