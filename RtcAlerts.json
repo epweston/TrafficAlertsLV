@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54072,
-    "Timestamp": "2026-08-21 07:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:56 AM, Aug 21 2026 Crash on EB Desert Inn Rd\u00A0after Buffalo Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754097/attachment_0.png",
-    "Latitude": 36.129250999999996,
-    "Longitude": -115.2610777
-  },
-  {
-    "UniqueId": 54073,
-    "Timestamp": "2026-08-21 08:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Clark Ave",
-    "Relationship": "at",
-    "CrossStreet": "6Th St",
-    "Impact": "",
-    "Notes": "8:04 AM, Aug 21 2026 Crash on WB Clark Ave\u00A0at 6th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754102/attachment_0.jpg",
-    "Latitude": 36.164095600000003,
-    "Longitude": -115.1425824
-  },
-  {
     "UniqueId": 54074,
     "Timestamp": "2026-08-21 08:07",
     "IncidentType": "Crash",
@@ -1790,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755079/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 54201,
+    "Timestamp": "2026-08-22 07:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:58 AM, Aug 22 2026 Stalled vehicle on SB I-15\u00A0after Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755083/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
