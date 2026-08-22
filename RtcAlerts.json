@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54112,
-    "Timestamp": "2026-08-21 15:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Skye Canyon Park Dr",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:21 PM, Aug 21 2026 Crash on EB Skye Canyon Park Dr\u00A0at Grand Canyon Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754850/attachment_0.png",
-    "Latitude": 36.314156599999997,
-    "Longitude": -115.30604580000001
-  },
-  {
     "UniqueId": 54113,
     "Timestamp": "2026-08-21 15:24",
     "IncidentType": "Crash",
@@ -1650,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755181/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 54231,
+    "Timestamp": "2026-08-22 15:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:15 PM, Aug 22 2026 Stalled vehicle on WB Desert Inn Rd\u00A0at Paradise Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755193/attachment_0.png",
+    "Latitude": 36.129609100000003,
+    "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 54232,
+    "Timestamp": "2026-08-22 15:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:17 PM, Aug 22 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755183/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
