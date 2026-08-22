@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54074,
-    "Timestamp": "2026-08-21 08:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:07 AM, Aug 21 2026 Crash on EB Russell Rd\u00A0at Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754127/attachment_0.jpg",
-    "Latitude": 36.085619899999998,
-    "Longitude": -115.0821217
-  },
-  {
-    "UniqueId": 54075,
-    "Timestamp": "2026-08-21 08:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:24 AM, Aug 21 2026 Crash on SB I-15\u00A0before Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754126/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 54076,
     "Timestamp": "2026-08-21 08:29",
     "IncidentType": "Crash",
@@ -1776,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755083/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 54202,
+    "Timestamp": "2026-08-22 08:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:20 AM, Aug 22 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755094/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
