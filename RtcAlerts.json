@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54049,
-    "Timestamp": "2026-08-20 19:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:21 PM, Aug 20 2026 Crash on EB Sahara Ave\u00A0at Mojave Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753689/attachment_0.png",
-    "Latitude": 36.144273800000001,
-    "Longitude": -115.1054261
-  },
-  {
     "UniqueId": 54050,
     "Timestamp": "2026-08-20 19:26",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754941/attachment_0.png",
     "Latitude": 36.158983159999998,
     "Longitude": -115.33725155000001
+  },
+  {
+    "UniqueId": 54156,
+    "Timestamp": "2026-08-21 19:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "Simmons St",
+    "Impact": "",
+    "Notes": "7:19 PM, Aug 21 2026 Crash on EB Craig Rd\u00A0after Simmons St. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754958/attachment_0.jpg",
+    "Latitude": 36.239531900000003,
+    "Longitude": -115.18004790000001
   }
 ]
