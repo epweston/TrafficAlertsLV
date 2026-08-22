@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54113,
-    "Timestamp": "2026-08-21 15:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:24 PM, Aug 21 2026 Crash on WB Blue Diamond Rd\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754832/attachment_0.png",
-    "Latitude": 36.042357127021027,
-    "Longitude": -115.1724094422984
-  },
-  {
-    "UniqueId": 54114,
-    "Timestamp": "2026-08-21 15:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:26 PM, Aug 21 2026 Crash on SB 215 Southern Beltway\u00A0at Windmill Ln offramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754852/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 54115,
-    "Timestamp": "2026-08-21 15:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Multiple directions blocked.",
-    "Notes": "3:27 PM, Aug 21 2026 Crash on NB Eastern Ave\u00A0at St Rose Pkwy. Multiple directions blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754854/attachment_0.jpg",
-    "Latitude": 36.007212199999998,
-    "Longitude": -115.11429010000001
-  },
-  {
-    "UniqueId": 54116,
-    "Timestamp": "2026-08-21 15:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:31 PM, Aug 21 2026 Stalled vehicle on NB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754856/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 54117,
     "Timestamp": "2026-08-21 15:33",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755183/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 54233,
+    "Timestamp": "2026-08-22 15:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:28 PM, Aug 22 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755195/attachment_0.png",
+    "Latitude": 36.083295454540455,
+    "Longitude": -115.04988122352644
   }
 ]
