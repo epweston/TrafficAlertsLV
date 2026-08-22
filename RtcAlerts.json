@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54088,
-    "Timestamp": "2026-08-21 10:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Karen Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:34 AM, Aug 21 2026 Crash on WB Karen Ave\u00A0before Paradise Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754428/attachment_0.png",
-    "Latitude": 36.1401976,
-    "Longitude": -115.15489270000001
-  },
-  {
     "UniqueId": 54089,
     "Timestamp": "2026-08-21 10:43",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755097/attachment_0.jpg",
     "Latitude": 36.180861052200697,
     "Longitude": -115.16088006783248
+  },
+  {
+    "UniqueId": 54209,
+    "Timestamp": "2026-08-22 10:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "N Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:37 AM, Aug 22 2026 Crash on WB Craig Rd\u00A0after N Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755124/attachment_0.jpg",
+    "Latitude": 36.2397007,
+    "Longitude": -115.23257750000001
   }
 ]
