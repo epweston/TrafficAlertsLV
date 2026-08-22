@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54089,
-    "Timestamp": "2026-08-21 10:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:43 AM, Aug 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754457/attachment_0.jpg",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 54090,
-    "Timestamp": "2026-08-21 10:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:43 AM, Aug 21 2026 Crash on EB Sahara Ave\u00A0at Maryland Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754456/attachment_0.png",
-    "Latitude": 36.144340100000001,
-    "Longitude": -115.1371013
-  },
-  {
     "UniqueId": 54091,
     "Timestamp": "2026-08-21 10:58",
     "IncidentType": "Crash",
@@ -1678,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755124/attachment_0.jpg",
     "Latitude": 36.2397007,
     "Longitude": -115.23257750000001
+  },
+  {
+    "UniqueId": 54210,
+    "Timestamp": "2026-08-22 10:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Stufflebeam Ave",
+    "Relationship": "under",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:43 AM, Aug 22 2026 Crash on SB Stufflebeam Ave\u00A0under Galleria Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755102/attachment_0.jpg",
+    "Latitude": 36.071300700000002,
+    "Longitude": -115.0326221
   }
 ]
