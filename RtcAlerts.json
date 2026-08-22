@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54044,
-    "Timestamp": "2026-08-20 18:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:11 PM, Aug 20 2026 Crash on SB I-15\u00A0before Spring Mountain Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753657/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 54045,
-    "Timestamp": "2026-08-20 18:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:14 PM, Aug 20 2026 Crash on NB Rampart Blvd\u00A0after Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/20/file_attachments/3753680/attachment_0.png",
-    "Latitude": 36.177835743591984,
-    "Longitude": -115.28722561818798
-  },
-  {
     "UniqueId": 54046,
     "Timestamp": "2026-08-20 18:40",
     "IncidentType": "Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754933/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 54146,
+    "Timestamp": "2026-08-21 18:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder",
+    "Notes": "6:10 PM, Aug 21 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754936/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
