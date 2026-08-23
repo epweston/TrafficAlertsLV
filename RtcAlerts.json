@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54144,
-    "Timestamp": "2026-08-21 18:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "6:08 PM, Aug 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754923/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 54145,
-    "Timestamp": "2026-08-21 18:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left shoulder",
-    "Notes": "6:09 PM, Aug 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754933/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 54146,
-    "Timestamp": "2026-08-21 18:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:10 PM, Aug 21 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754936/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 54147,
     "Timestamp": "2026-08-21 18:24",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755238/attachment_0.png",
     "Latitude": 36.100781423246033,
     "Longitude": -115.17291721759118
+  },
+  {
+    "UniqueId": 54253,
+    "Timestamp": "2026-08-22 18:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:09 PM, Aug 22 2026 Crash on EB Craig Rd\u00A0before Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755221/attachment_0.jpg",
+    "Latitude": 36.240317900000001,
+    "Longitude": -115.2422266
   }
 ]
