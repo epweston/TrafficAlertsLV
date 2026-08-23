@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54238,
-    "Timestamp": "2026-08-22 16:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Boulder City Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:32 PM, Aug 22 2026 Stalled vehicle on EB Boulder City Pkwy\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755186/attachment_0.png",
-    "Latitude": 35.973038099999997,
-    "Longitude": -114.9141533
-  },
-  {
     "UniqueId": 54239,
     "Timestamp": "2026-08-22 16:40",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755544/attachment_0.jpg",
     "Latitude": 36.195846099999997,
     "Longitude": -115.1251631
+  },
+  {
+    "UniqueId": 54365,
+    "Timestamp": "2026-08-23 16:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder",
+    "Notes": "4:27 PM, Aug 23 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755553/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 54366,
+    "Timestamp": "2026-08-23 16:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "4:29 PM, Aug 23 2026 Stalled vehicle on NB I-11\u00A0at Las Vegas Blvd on-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755555/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
