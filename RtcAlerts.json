@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54186,
-    "Timestamp": "2026-08-22 03:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:28 AM, Aug 22 2026 Crash on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755020/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 54187,
-    "Timestamp": "2026-08-22 03:36",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:36 AM, Aug 22 2026 Police activity on WB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755030/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 54188,
     "Timestamp": "2026-08-22 03:41",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1482,33 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 54299,
+    "Timestamp": "2026-08-23 03:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:36 AM, Aug 23 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 54300,
+    "Timestamp": "2026-08-23 03:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:35 AM, Aug 23 2026 Crash on SB I-15\u00A0at Washington Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755324/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
