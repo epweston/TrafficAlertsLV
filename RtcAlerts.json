@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54166,
-    "Timestamp": "2026-08-21 20:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:26 PM, Aug 21 2026 Crash on SB I-15\u00A0before Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754989/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 54167,
     "Timestamp": "2026-08-21 21:04",
     "IncidentType": "Crash",
@@ -1496,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755295/attachment_0.png",
     "Latitude": 36.175254133971912,
     "Longitude": -115.17418362739356
+  },
+  {
+    "UniqueId": 54278,
+    "Timestamp": "2026-08-22 20:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder.",
+    "Notes": "8:30 PM, Aug 22 2026 Stalled vehicle on NB I-11\u00A0before Durango Dr. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755296/attachment_0.png",
+    "Latitude": 36.298464445139153,
+    "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 54279,
+    "Timestamp": "2026-08-22 20:31",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "All lanes are open.",
+    "Notes": "8:31 PM, Aug 22 2026 Update Crash on EB Craig Rd\u00A0before Rainbow Blvd. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.240317900000001,
+    "Longitude": -115.2422266
   }
 ]
