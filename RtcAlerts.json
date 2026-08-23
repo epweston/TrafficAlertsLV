@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54128,
-    "Timestamp": "2026-08-21 16:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Left shoulder",
-    "Notes": "4:53 PM, Aug 21 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Ann Rd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754898/attachment_0.png",
-    "Latitude": 36.261637469999997,
-    "Longitude": -115.32673715999999
-  },
-  {
-    "UniqueId": 54129,
-    "Timestamp": "2026-08-21 16:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:57 PM, Aug 21 2026 Crash on EB Sunset Rd\u00A0before Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754899/attachment_0.png",
-    "Latitude": 36.071648699999997,
-    "Longitude": -115.14116249999999
-  },
-  {
-    "UniqueId": 54130,
-    "Timestamp": "2026-08-21 17:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:01 PM, Aug 21 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754883/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 54131,
-    "Timestamp": "2026-08-21 17:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder",
-    "Notes": "5:02 PM, Aug 21 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754884/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 54132,
     "Timestamp": "2026-08-21 17:10",
     "IncidentType": "Crash",
@@ -1538,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755205/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 54243,
+    "Timestamp": "2026-08-22 16:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:58 PM, Aug 22 2026 Crash on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755211/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
