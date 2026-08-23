@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54150,
-    "Timestamp": "2026-08-21 18:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder",
-    "Notes": "6:53 PM, Aug 21 2026 Stalled vehicle on SB I-15\u00A0after Mile 21. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754950/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 54151,
-    "Timestamp": "2026-08-21 19:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Primm",
-    "Impact": "Right shoulder",
-    "Notes": "7:02 PM, Aug 21 2026 Stalled vehicle on SB I-15\u00A0before Primm. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754951/attachment_0.png",
-    "Latitude": 35.607103427439853,
-    "Longitude": -115.39133563837639
-  },
-  {
-    "UniqueId": 54152,
-    "Timestamp": "2026-08-21 19:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder",
-    "Notes": "7:03 PM, Aug 21 2026 Stalled vehicle on SB I-15\u00A0at I-11. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754953/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 54153,
     "Timestamp": "2026-08-21 19:05",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755254/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 54263,
+    "Timestamp": "2026-08-22 18:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Mandalay Bay Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:59 PM, Aug 22 2026 Crash on EB Mandalay Bay Rd\u00A0before Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755256/attachment_0.png",
+    "Latitude": 36.093710999999999,
+    "Longitude": -115.1730689
   }
 ]
