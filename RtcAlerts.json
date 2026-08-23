@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54197,
-    "Timestamp": "2026-08-22 06:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arlington Ranch Blvd",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "6:05 AM, Aug 22 2026 Crash on EB Blue Diamond Rd\u00A0at Arlington Ranch Blvd. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755087/attachment_0.png",
-    "Latitude": 36.020378200000003,
-    "Longitude": -115.28529450000001
-  },
-  {
     "UniqueId": 54198,
     "Timestamp": "2026-08-22 07:08",
     "IncidentType": "Crash",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755408/attachment_0.png",
     "Latitude": 36.175399899145084,
     "Longitude": -115.14399336646459
+  },
+  {
+    "UniqueId": 54321,
+    "Timestamp": "2026-08-23 06:09",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "after",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:09 AM, Aug 23 2026 Vehicle on fire on SB Frank Sinatra Dr\u00A0after Twain Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755397/attachment_0.jpg",
+    "Latitude": 36.119762899999998,
+    "Longitude": -115.179997
   }
 ]
