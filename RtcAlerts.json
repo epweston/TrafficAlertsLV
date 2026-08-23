@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54194,
-    "Timestamp": "2026-08-22 04:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Ogden Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:53 AM, Aug 22 2026 Crash on SB Las Vegas Blvd\u00A0before Ogden Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755038/attachment_0.jpg",
-    "Latitude": 36.170422799999997,
-    "Longitude": -115.139985
-  },
-  {
     "UniqueId": 54195,
     "Timestamp": "2026-08-22 05:28",
     "IncidentType": "Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54311,
+    "Timestamp": "2026-08-23 04:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Serene Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:52 AM, Aug 23 2026 Crash on SB Eastern Ave\u00A0at Serene Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755353/attachment_0.png",
+    "Latitude": 36.020561899999997,
+    "Longitude": -115.1187199
+  },
+  {
+    "UniqueId": 54312,
+    "Timestamp": "2026-08-23 04:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:54 AM, Aug 23 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
