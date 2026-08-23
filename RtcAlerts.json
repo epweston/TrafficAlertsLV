@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54163,
-    "Timestamp": "2026-08-21 19:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:51 PM, Aug 21 2026 Crash on WB Flamingo Rd\u00A0after Tenaya Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754968/attachment_0.png",
-    "Latitude": 36.1146411,
-    "Longitude": -115.2520272
-  },
-  {
     "UniqueId": 54164,
     "Timestamp": "2026-08-21 19:59",
     "IncidentType": "Update Crash",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755262/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 54269,
+    "Timestamp": "2026-08-22 19:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "before",
+    "CrossStreet": "Park Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:49 PM, Aug 22 2026 Stalled vehicle on SB Frank Sinatra Dr\u00A0before Park Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755264/attachment_0.png",
+    "Latitude": 36.102020600000003,
+    "Longitude": -115.17928480000001
   }
 ]
