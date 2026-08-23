@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54170,
-    "Timestamp": "2026-08-21 21:19",
-    "IncidentType": "Fire",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "All lanes are blocked from I-215 to Pebble Rd.",
-    "Notes": "9:19 PM, Aug 21 2026 Fire on NB Eastern Ave\u00A0after 215 Southern Beltway. All lanes are blocked from I-215 to Pebble Rd.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754975/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
-    "UniqueId": 54171,
-    "Timestamp": "2026-08-21 21:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:25 PM, Aug 21 2026 Crash on EB Cheyenne Ave\u00A0after Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/21/file_attachments/3754993/attachment_0.jpg",
-    "Latitude": 36.217340299999996,
-    "Longitude": -115.2073862
-  },
-  {
     "UniqueId": 54172,
     "Timestamp": "2026-08-21 21:28",
     "IncidentType": "Crash",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755280/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 54283,
+    "Timestamp": "2026-08-22 21:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Post Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:22 PM, Aug 22 2026 Crash on SB Fort Apache Rd\u00A0at Post Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755301/attachment_0.jpg",
+    "Latitude": 36.073947699999998,
+    "Longitude": -115.29764729999999
   }
 ]
