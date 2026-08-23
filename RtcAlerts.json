@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54185,
-    "Timestamp": "2026-08-22 03:21",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:21 AM, Aug 22 2026 Police activity on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 54186,
     "Timestamp": "2026-08-22 03:28",
     "IncidentType": "Crash",
@@ -1496,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755341/attachment_0.png",
     "Latitude": 36.130158504547886,
     "Longitude": -115.08389529420016
+  },
+  {
+    "UniqueId": 54297,
+    "Timestamp": "2026-08-23 03:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "3:18 AM, Aug 23 2026 Crash on NB I-15\u00A0at Craig Rd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755344/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54298,
+    "Timestamp": "2026-08-23 03:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:20 AM, Aug 23 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
