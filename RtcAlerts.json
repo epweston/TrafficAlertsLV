@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54190,
-    "Timestamp": "2026-08-22 03:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Post Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:59 AM, Aug 22 2026 Crash on WB Post Rd\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.075394299999999,
-    "Longitude": -115.2079976
-  },
-  {
-    "UniqueId": 54191,
-    "Timestamp": "2026-08-22 04:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:10 AM, Aug 22 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755033/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 54192,
     "Timestamp": "2026-08-22 04:19",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54304,
+    "Timestamp": "2026-08-23 04:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:07 AM, Aug 23 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755349/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
