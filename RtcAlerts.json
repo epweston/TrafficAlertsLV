@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54195,
-    "Timestamp": "2026-08-22 05:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:28 AM, Aug 22 2026 Crash on NB I-11\u00A0after Rancho Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755046/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 54197,
     "Timestamp": "2026-08-22 06:05",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54317,
+    "Timestamp": "2026-08-23 05:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:31 AM, Aug 23 2026 Stalled vehicle on NB I-15\u00A0after Jean. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755365/attachment_0.png",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
   }
 ]
