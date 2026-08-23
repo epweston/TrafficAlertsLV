@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54164,
-    "Timestamp": "2026-08-21 19:59",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Soaring Gulls Dr",
-    "Impact": "All lanes are open.",
-    "Notes": "7:59 PM, Aug 21 2026 Update Crash on WB Cheyenne Ave\u00A0after Soaring Gulls Dr. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.218468199999997,
-    "Longitude": -115.27417749999999
-  },
-  {
     "UniqueId": 54165,
     "Timestamp": "2026-08-21 20:22",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755266/attachment_0.png",
     "Latitude": 36.171562999999999,
     "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 54271,
+    "Timestamp": "2026-08-22 19:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "S Rancho Dr",
+    "Impact": "Right shoulder",
+    "Notes": "7:58 PM, Aug 22 2026 Stalled vehicle on NB I-11\u00A0to S Rancho Dr. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755287/attachment_0.png",
+    "Latitude": 36.175254133971912,
+    "Longitude": -115.17418362739356
   }
 ]
