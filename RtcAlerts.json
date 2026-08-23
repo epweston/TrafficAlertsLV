@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54181,
-    "Timestamp": "2026-08-22 01:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:27 AM, Aug 22 2026 Crash on SB I-11\u00A0to Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755005/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 54182,
     "Timestamp": "2026-08-22 02:44",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755336/attachment_0.jpg",
     "Latitude": 36.056949000000003,
     "Longitude": -115.1184136
+  },
+  {
+    "UniqueId": 54291,
+    "Timestamp": "2026-08-23 01:35",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Nb I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:35 AM, Aug 23 2026 Crash on WB 215 Northern Beltway\u00A0to NB I-11 ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755315/attachment_0.png",
+    "Latitude": 36.277670350000001,
+    "Longitude": -115.26705787
   }
 ]
