@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54362,
-    "Timestamp": "2026-08-23 15:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "3:47 PM, Aug 23 2026 Crash on SB Las Vegas Blvd\u00A0at Flamingo Rd. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755542/attachment_0.png",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
     "UniqueId": 54364,
     "Timestamp": "2026-08-23 16:26",
     "IncidentType": "Crash",
@@ -1930,5 +1916,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756977/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 54503,
+    "Timestamp": "2026-08-24 16:07",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Sb I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:07 PM, Aug 24 2026 Police activity on NB I-11\u00A0to SB I-15 ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756983/attachment_0.png",
+    "Latitude": 36.17468015,
+    "Longitude": -115.15834839
+  },
+  {
+    "UniqueId": 54504,
+    "Timestamp": "2026-08-24 16:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Duneville St",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:10 PM, Aug 24 2026 Crash on WB Sahara Ave\u00A0at Duneville St (before Jones Blvd). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756984/attachment_0.png",
+    "Latitude": 36.144394499999997,
+    "Longitude": -115.22100930000001
   }
 ]
