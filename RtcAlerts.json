@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54281,
-    "Timestamp": "2026-08-22 21:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "9:05 PM, Aug 22 2026 Crash on SB Decatur Blvd\u00A0before Twain Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755298/attachment_0.jpg",
-    "Latitude": 36.122551399999999,
-    "Longitude": -115.2080967
-  },
-  {
     "UniqueId": 54282,
     "Timestamp": "2026-08-22 21:15",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "",
     "Latitude": 36.158893399999997,
     "Longitude": -115.1289511
+  },
+  {
+    "UniqueId": 54390,
+    "Timestamp": "2026-08-23 21:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Left shoulder",
+    "Notes": "9:04 PM, Aug 23 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Warm Springs Rd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755601/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
   }
 ]
