@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54355,
-    "Timestamp": "2026-08-23 14:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:31 PM, Aug 23 2026 Stalled vehicle on SB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755523/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 54356,
-    "Timestamp": "2026-08-23 14:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:31 PM, Aug 23 2026 Stalled vehicle on SB I-15\u00A0at Mile 4. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755535/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 54357,
     "Timestamp": "2026-08-23 14:40",
     "IncidentType": "Stalled vehicle",
@@ -1902,5 +1874,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756914/attachment_0.png",
     "Latitude": 36.262912100000001,
     "Longitude": -115.2786974
+  },
+  {
+    "UniqueId": 54494,
+    "Timestamp": "2026-08-24 14:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Wilbur St",
+    "Impact": "",
+    "Notes": "2:31 PM, Aug 24 2026 Crash on EB Tropicana Ave\u00A0at Wilbur St. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756898/attachment_0.jpg",
+    "Latitude": 36.100957899999997,
+    "Longitude": -115.14142750000001
+  },
+  {
+    "UniqueId": 54495,
+    "Timestamp": "2026-08-24 14:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:31 PM, Aug 24 2026 Stalled vehicle on NB I-15\u00A0before Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756916/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
