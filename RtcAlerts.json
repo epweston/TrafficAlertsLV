@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54263,
-    "Timestamp": "2026-08-22 18:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Mandalay Bay Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:59 PM, Aug 22 2026 Crash on EB Mandalay Bay Rd\u00A0before Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755256/attachment_0.png",
-    "Latitude": 36.093710999999999,
-    "Longitude": -115.1730689
-  },
-  {
     "UniqueId": 54264,
     "Timestamp": "2026-08-22 19:20",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755566/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 54375,
+    "Timestamp": "2026-08-23 19:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder",
+    "Notes": "7:04 PM, Aug 23 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755576/attachment_0.jpg",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
