@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54299,
-    "Timestamp": "2026-08-23 03:36",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:36 AM, Aug 23 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 54301,
-    "Timestamp": "2026-08-23 03:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Koval Ln",
-    "Impact": "4 Right lanes blocked. Expect Delays",
-    "Notes": "3:41 AM, Aug 23 2026 Crash on EB Tropicana Ave\u00A0at Koval Ln. 4 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755345/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 54302,
-    "Timestamp": "2026-08-23 03:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "4 Left lanes blocked. Expect Delays",
-    "Notes": "3:52 AM, Aug 23 2026 Crash on NB Boulder Hwy\u00A0at Lamb Blvd. 4 Left lanes blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.130158504547886,
-    "Longitude": -115.08389529420016
-  },
-  {
-    "UniqueId": 54303,
-    "Timestamp": "2026-08-23 03:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "3:52 AM, Aug 23 2026 Crash on NB I-15\u00A0at Craig Rd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 54304,
     "Timestamp": "2026-08-23 04:07",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1720,19 @@
     "ImagePath": "",
     "Latitude": 36.050273500000003,
     "Longitude": -114.96309909999999
+  },
+  {
+    "UniqueId": 54430,
+    "Timestamp": "2026-08-24 03:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:51 AM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755722/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
