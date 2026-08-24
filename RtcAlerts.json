@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54311,
-    "Timestamp": "2026-08-23 04:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Serene Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:52 AM, Aug 23 2026 Crash on SB Eastern Ave\u00A0at Serene Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755353/attachment_0.png",
-    "Latitude": 36.020561899999997,
-    "Longitude": -115.1187199
-  },
-  {
-    "UniqueId": 54312,
-    "Timestamp": "2026-08-23 04:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:54 AM, Aug 23 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 54313,
     "Timestamp": "2026-08-23 05:11",
     "IncidentType": "Crash",
@@ -1720,5 +1692,19 @@
     "ImagePath": "",
     "Latitude": 36.050273500000003,
     "Longitude": -114.96309909999999
+  },
+  {
+    "UniqueId": 54437,
+    "Timestamp": "2026-08-24 04:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:53 AM, Aug 24 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.020405099999998,
+    "Longitude": -115.288556
   }
 ]
