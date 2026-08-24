@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54364,
-    "Timestamp": "2026-08-23 16:26",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bruce St",
-    "Impact": "",
-    "Notes": "4:26 PM, Aug 23 2026 Crash on EB Lake Mead Blvd\u00A0after Bruce St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755544/attachment_0.jpg",
-    "Latitude": 36.195846099999997,
-    "Longitude": -115.1251631
-  },
-  {
     "UniqueId": 54365,
     "Timestamp": "2026-08-23 16:27",
     "IncidentType": "Stalled vehicle",
@@ -1944,5 +1930,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756984/attachment_0.png",
     "Latitude": 36.144394499999997,
     "Longitude": -115.22100930000001
+  },
+  {
+    "UniqueId": 54505,
+    "Timestamp": "2026-08-24 16:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 103",
+    "Impact": "Right shoulder",
+    "Notes": "4:19 PM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Mile 103 (after Carp-Elgin Rd). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757007/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
