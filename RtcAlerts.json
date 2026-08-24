@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54346,
-    "Timestamp": "2026-08-23 12:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "12:31 PM, Aug 23 2026 Crash on WB Flamingo Rd\u00A0after I-15. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755499/attachment_0.png",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
     "UniqueId": 54347,
     "Timestamp": "2026-08-23 12:43",
     "IncidentType": "Crash",
@@ -1902,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756653/attachment_0.png",
     "Latitude": 36.071546221107518,
     "Longitude": -115.14626596347613
+  },
+  {
+    "UniqueId": 54485,
+    "Timestamp": "2026-08-24 12:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:37 PM, Aug 24 2026 Stalled vehicle on SB I-11\u00A0before Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756664/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
