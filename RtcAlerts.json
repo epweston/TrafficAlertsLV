@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 54264,
-    "Timestamp": "2026-08-22 19:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "7:20 PM, Aug 22 2026 Stalled vehicle on NB I-11\u00A0before Charleston Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755258/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 54265,
-    "Timestamp": "2026-08-22 19:22",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Eastbound left lanes are open again.",
-    "Notes": "7:22 PM, Aug 22 2026 Update Crash on EB Craig Rd\u00A0before Rainbow Blvd. Eastbound left lanes are open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755245/attachment_0.jpg",
-    "Latitude": 36.240317900000001,
-    "Longitude": -115.2422266
-  },
-  {
-    "UniqueId": 54266,
-    "Timestamp": "2026-08-22 19:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder",
-    "Notes": "7:25 PM, Aug 22 2026 Stalled vehicle on SB I-11\u00A0after College Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755246/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 54267,
-    "Timestamp": "2026-08-22 19:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:39 PM, Aug 22 2026 Crash on WB Craig Rd\u00A0after Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755261/attachment_0.jpg",
-    "Latitude": 36.240452876389568,
-    "Longitude": -115.08002755928754
-  },
-  {
-    "UniqueId": 54268,
-    "Timestamp": "2026-08-22 19:41",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "7:41 PM, Aug 22 2026 Police activity on SB I-15\u00A0at Lake Mead Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755262/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 54269,
     "Timestamp": "2026-08-22 19:49",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755590/attachment_0.png",
     "Latitude": 36.239773575501886,
     "Longitude": -115.11682743770037
+  },
+  {
+    "UniqueId": 54377,
+    "Timestamp": "2026-08-23 19:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:44 PM, Aug 23 2026 Crash on SB Decatur Blvd\u00A0after Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755577/attachment_0.jpg",
+    "Latitude": 36.209657399999998,
+    "Longitude": -115.2053971
   }
 ]
