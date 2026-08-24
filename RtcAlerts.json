@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54239,
-    "Timestamp": "2026-08-22 16:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:40 PM, Aug 22 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755207/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 54240,
-    "Timestamp": "2026-08-22 16:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:43 PM, Aug 22 2026 Stalled vehicle on SB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755205/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 54243,
-    "Timestamp": "2026-08-22 16:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:58 PM, Aug 22 2026 Crash on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755211/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 54244,
-    "Timestamp": "2026-08-22 17:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:07 PM, Aug 22 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755229/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 54245,
     "Timestamp": "2026-08-22 17:25",
     "IncidentType": "Crash",
@@ -1748,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755555/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 54367,
+    "Timestamp": "2026-08-23 17:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Alexander Rd",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:11 PM, Aug 23 2026 Crash on EB Alexander Rd\u00A0at Tenaya Way. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755569/attachment_0.jpg",
+    "Latitude": 36.233095499999997,
+    "Longitude": -115.2515473
   }
 ]
