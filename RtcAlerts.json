@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54289,
-    "Timestamp": "2026-08-23 00:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:52 AM, Aug 23 2026 Crash on SB Lamb Blvd\u00A0before Alexander Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755313/attachment_0.jpg",
-    "Latitude": 36.232644700000009,
-    "Longitude": -115.0801659
-  },
-  {
     "UniqueId": 54290,
     "Timestamp": "2026-08-23 01:22",
     "IncidentType": "Crash",
@@ -1790,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755693/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 54420,
+    "Timestamp": "2026-08-24 01:01",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder",
+    "Notes": "1:01 AM, Aug 24 2026 Police activity on SB I-15\u00A0at I-11. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755677/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
