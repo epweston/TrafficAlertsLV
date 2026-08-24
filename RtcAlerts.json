@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54324,
-    "Timestamp": "2026-08-23 06:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:49 AM, Aug 23 2026 Crash on WB Desert Inn Rd\u00A0at Valley View Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755416/attachment_0.png",
-    "Latitude": 36.130102165943548,
-    "Longitude": -115.19025029115214
-  },
-  {
-    "UniqueId": 54325,
-    "Timestamp": "2026-08-23 06:56",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:56 AM, Aug 23 2026 Abandoned vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 54326,
     "Timestamp": "2026-08-23 07:47",
     "IncidentType": "Crash",
@@ -1664,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755926/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54446,
+    "Timestamp": "2026-08-24 07:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:01 AM, Aug 24 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755956/attachment_0.png",
+    "Latitude": 36.261508127735802,
+    "Longitude": -115.32678022210708
   }
 ]
