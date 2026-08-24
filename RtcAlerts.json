@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54285,
-    "Timestamp": "2026-08-23 00:15",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Left lanes blocked.",
-    "Notes": "12:15 AM, Aug 23 2026 Crash on WB Charleston Blvd\u00A0after I-11. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755327/attachment_0.jpg",
-    "Latitude": 36.158822962125562,
-    "Longitude": -115.09162011384075
-  },
-  {
-    "UniqueId": 54286,
-    "Timestamp": "2026-08-23 00:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:17 AM, Aug 23 2026 Crash on WB Sahara Ave\u00A0after Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755309/attachment_0.png",
-    "Latitude": 36.144174199999988,
-    "Longitude": -115.1731231
-  },
-  {
-    "UniqueId": 54287,
-    "Timestamp": "2026-08-23 00:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "12:20 AM, Aug 23 2026 Stalled vehicle on SB I-15\u00A0after Silverado Ranch Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755310/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 54288,
     "Timestamp": "2026-08-23 00:25",
     "IncidentType": "Crash",
@@ -1804,5 +1762,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755671/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 54417,
+    "Timestamp": "2026-08-24 00:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Right shoulder",
+    "Notes": "12:15 AM, Aug 24 2026 Crash on NB Martin L King Blvd\u00A0at Bonanza Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755689/attachment_0.jpg",
+    "Latitude": 36.177173199999999,
+    "Longitude": -115.1609081
+  },
+  {
+    "UniqueId": 54418,
+    "Timestamp": "2026-08-24 00:18",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "12:18 AM, Aug 24 2026 Police activity on NB I-15\u00A0before Silverado Ranch Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755691/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
