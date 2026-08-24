@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54315,
-    "Timestamp": "2026-08-23 05:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:22 AM, Aug 23 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 54316,
-    "Timestamp": "2026-08-23 05:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:23 AM, Aug 23 2026 Crash on NB I-15\u00A0at Craig Rd. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 54317,
     "Timestamp": "2026-08-23 05:31",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1692,19 @@
     "ImagePath": "",
     "Latitude": 36.050273500000003,
     "Longitude": -114.96309909999999
+  },
+  {
+    "UniqueId": 54441,
+    "Timestamp": "2026-08-24 05:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:24 AM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755802/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
