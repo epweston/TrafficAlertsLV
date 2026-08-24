@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54321,
-    "Timestamp": "2026-08-23 06:09",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "after",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:09 AM, Aug 23 2026 Vehicle on fire on SB Frank Sinatra Dr\u00A0after Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755397/attachment_0.jpg",
-    "Latitude": 36.119762899999998,
-    "Longitude": -115.179997
-  },
-  {
-    "UniqueId": 54322,
-    "Timestamp": "2026-08-23 06:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Gore blocked.",
-    "Notes": "6:14 AM, Aug 23 2026 Stalled vehicle on SB I-15\u00A0after Washington Ave. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755410/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 54323,
     "Timestamp": "2026-08-23 06:44",
     "IncidentType": "Vehicle on fire",
@@ -1678,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755862/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 54444,
+    "Timestamp": "2026-08-24 06:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:23 AM, Aug 24 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755903/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
