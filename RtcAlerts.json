@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54326,
-    "Timestamp": "2026-08-23 07:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Walnut Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:47 AM, Aug 23 2026 Crash on EB Lake Mead Blvd\u00A0before Walnut Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755418/attachment_0.png",
-    "Latitude": 36.195762199999997,
-    "Longitude": -115.08919690000001
-  },
-  {
     "UniqueId": 54327,
     "Timestamp": "2026-08-23 08:03",
     "IncidentType": "Abandoned vehicle",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756034/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 54456,
+    "Timestamp": "2026-08-24 07:46",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:46 AM, Aug 24 2026 Crash on EB Cactus Ave\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756043/attachment_0.jpg",
+    "Latitude": 35.999254200000003,
+    "Longitude": -115.1726451
   }
 ]
