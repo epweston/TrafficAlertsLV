@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54328,
-    "Timestamp": "2026-08-23 08:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:23 AM, Aug 23 2026 Crash on WB Desert Inn Rd\u00A0before Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755419/attachment_0.png",
-    "Latitude": 36.130102165943548,
-    "Longitude": -115.19025029115214
-  },
-  {
     "UniqueId": 54329,
     "Timestamp": "2026-08-23 10:05",
     "IncidentType": "Abandoned vehicle",
@@ -1860,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756112/attachment_0.png",
     "Latitude": 36.100124800000003,
     "Longitude": -115.2946044
+  },
+  {
+    "UniqueId": 54464,
+    "Timestamp": "2026-08-24 08:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:21 AM, Aug 24 2026 Crash on EB 215 Southern Beltway\u00A0to I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756171/attachment_0.png",
+    "Latitude": 36.277381871493823,
+    "Longitude": -115.26709154723478
   }
 ]
