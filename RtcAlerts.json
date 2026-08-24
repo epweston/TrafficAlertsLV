@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54269,
-    "Timestamp": "2026-08-22 19:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "before",
-    "CrossStreet": "Park Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:49 PM, Aug 22 2026 Stalled vehicle on SB Frank Sinatra Dr\u00A0before Park Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755264/attachment_0.png",
-    "Latitude": 36.102020600000003,
-    "Longitude": -115.17928480000001
-  },
-  {
-    "UniqueId": 54270,
-    "Timestamp": "2026-08-22 19:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Gibson Rd",
-    "Relationship": "at",
-    "CrossStreet": "Wb 215 Southern Beltway",
-    "Impact": "",
-    "Notes": "7:53 PM, Aug 22 2026 Crash on SB Gibson Rd\u00A0at WB 215 Southern Beltway ramp Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755266/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
     "UniqueId": 54271,
     "Timestamp": "2026-08-22 19:58",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755577/attachment_0.jpg",
     "Latitude": 36.209657399999998,
     "Longitude": -115.2053971
+  },
+  {
+    "UniqueId": 54378,
+    "Timestamp": "2026-08-23 19:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:54 PM, Aug 23 2026 Stalled vehicle on SB Durango Dr\u00A0before 215 Southern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755592/attachment_0.png",
+    "Latitude": 36.066225699999997,
+    "Longitude": -115.2791549
   }
 ]
