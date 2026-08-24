@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54313,
-    "Timestamp": "2026-08-23 05:11",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:11 AM, Aug 23 2026 Crash on NB I-15\u00A0after Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755388/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 54314,
-    "Timestamp": "2026-08-23 05:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Eldora Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:18 AM, Aug 23 2026 Crash on NB Decatur Blvd\u00A0at Eldora Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755390/attachment_0.png",
-    "Latitude": 36.140884399999997,
-    "Longitude": -115.208035
-  },
-  {
     "UniqueId": 54315,
     "Timestamp": "2026-08-23 05:22",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755793/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 54439,
+    "Timestamp": "2026-08-24 05:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "5:15 AM, Aug 24 2026 Crash on NB I-15\u00A0at Cheyenne Ave. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 54440,
+    "Timestamp": "2026-08-24 05:15",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "at",
+    "CrossStreet": "Palo Verde St All Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "5:15 AM, Aug 24 2026 Crash on WB Twain Ave\u00A0at Palo Verde St. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.050273500000003,
+    "Longitude": -114.96309909999999
   }
 ]
