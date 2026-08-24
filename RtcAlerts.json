@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54360,
-    "Timestamp": "2026-08-23 15:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:13 PM, Aug 23 2026 Crash on SB I-15\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755547/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 54361,
     "Timestamp": "2026-08-23 15:30",
     "IncidentType": "Stalled vehicle",
@@ -1902,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756929/attachment_0.png",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 54499,
+    "Timestamp": "2026-08-24 15:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:19 PM, Aug 24 2026 Crash on WB Flamingo Rd\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756966/attachment_0.png",
+    "Latitude": 36.114684821466277,
+    "Longitude": -115.11920926333367
   }
 ]
