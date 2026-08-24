@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54288,
-    "Timestamp": "2026-08-23 00:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "",
-    "Notes": "12:25 AM, Aug 23 2026 Crash on WB 215 Southern Beltway\u00A0at Rainbow Blvd off-ramp Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755331/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 54289,
     "Timestamp": "2026-08-23 00:52",
     "IncidentType": "Crash",
@@ -1790,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755691/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 54419,
+    "Timestamp": "2026-08-24 00:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder",
+    "Notes": "12:21 AM, Aug 24 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755693/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
