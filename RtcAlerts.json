@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54358,
-    "Timestamp": "2026-08-23 14:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Roy Horn Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:44 PM, Aug 23 2026 Crash on NB Durango Dr\u00A0before Roy Horn Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755525/attachment_0.png",
-    "Latitude": 36.065249041155141,
-    "Longitude": -115.27935326099397
-  },
-  {
-    "UniqueId": 54359,
-    "Timestamp": "2026-08-23 14:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:52 PM, Aug 23 2026 Crash on NB 215 Western Beltway\u00A0at Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755540/attachment_0.jpg",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
     "UniqueId": 54360,
     "Timestamp": "2026-08-23 15:13",
     "IncidentType": "Crash",
@@ -1916,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756919/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 54498,
+    "Timestamp": "2026-08-24 14:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "",
+    "Notes": "2:52 PM, Aug 24 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756929/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
