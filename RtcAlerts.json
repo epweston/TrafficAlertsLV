@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54327,
-    "Timestamp": "2026-08-23 08:03",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:03 AM, Aug 23 2026 Abandoned vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 54328,
     "Timestamp": "2026-08-23 08:23",
     "IncidentType": "Crash",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756043/attachment_0.jpg",
     "Latitude": 35.999254200000003,
     "Longitude": -115.1726451
+  },
+  {
+    "UniqueId": 54457,
+    "Timestamp": "2026-08-24 07:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:57 AM, Aug 24 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756071/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
