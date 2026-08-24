@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54349,
-    "Timestamp": "2026-08-23 13:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:03 PM, Aug 23 2026 Crash on EB Charleston Blvd\u00A0before Nellis Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755514/attachment_0.jpg",
-    "Latitude": 36.159022199050931,
-    "Longitude": -115.06231964997782
-  },
-  {
-    "UniqueId": 54350,
-    "Timestamp": "2026-08-23 13:43",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:43 PM, Aug 23 2026 Vehicle on fire on EB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755505/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 54351,
-    "Timestamp": "2026-08-23 13:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:49 PM, Aug 23 2026 Crash on SB 215 Western Beltway\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755506/attachment_0.jpg",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
-    "UniqueId": 54352,
-    "Timestamp": "2026-08-23 13:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "to",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:51 PM, Aug 23 2026 Crash on NB US-95\u00A0to Boulder Hwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755527/attachment_0.jpg",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 54353,
     "Timestamp": "2026-08-23 14:12",
     "IncidentType": "Crash",
@@ -1944,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756703/attachment_0.jpg",
     "Latitude": 36.172913700000002,
     "Longitude": -115.22406650000001
+  },
+  {
+    "UniqueId": 54491,
+    "Timestamp": "2026-08-24 13:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 5",
+    "Impact": "",
+    "Notes": "1:47 PM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Mile 5 on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756846/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
