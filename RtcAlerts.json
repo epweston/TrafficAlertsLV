@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54276,
-    "Timestamp": "2026-08-22 20:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-15",
-    "Impact": "",
-    "Notes": "8:20 PM, Aug 22 2026 Crash on SB I-11\u00A0to SB I-15 ramp (not HOV ramp) Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755293/attachment_0.png",
-    "Latitude": 36.162990899999997,
-    "Longitude": -115.1604596
-  },
-  {
-    "UniqueId": 54277,
-    "Timestamp": "2026-08-22 20:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Right shoulder",
-    "Notes": "8:22 PM, Aug 22 2026 Stalled vehicle on NB I-11\u00A0at S Rancho Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755295/attachment_0.png",
-    "Latitude": 36.175254133971912,
-    "Longitude": -115.17418362739356
-  },
-  {
     "UniqueId": 54278,
     "Timestamp": "2026-08-22 20:30",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755610/attachment_0.png",
     "Latitude": 36.129531700000001,
     "Longitude": -115.2430957
+  },
+  {
+    "UniqueId": 54383,
+    "Timestamp": "2026-08-23 20:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "All lanes are blocked from Rancho Dr to Tonopah.",
+    "Notes": "8:18 PM, Aug 23 2026 Crash on EB Charleston Blvd\u00A0at Rancho Dr. All lanes are blocked from Rancho Dr to Tonopah.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755595/attachment_0.png",
+    "Latitude": 36.158829400000002,
+    "Longitude": -115.1728904
+  },
+  {
+    "UniqueId": 54384,
+    "Timestamp": "2026-08-23 20:19",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "17Th St All Lanes Are",
+    "Impact": "",
+    "Notes": "8:19 PM, Aug 23 2026 Police activity on WB Charleston Blvd\u00A0after 17th St. All lanes are blocked from 17th St to 15th St (before Maryland Pkwy).",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755596/attachment_0.png",
+    "Latitude": 36.158893399999997,
+    "Longitude": -115.1289511
   }
 ]
