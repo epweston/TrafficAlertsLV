@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54274,
-    "Timestamp": "2026-08-22 20:15",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Maulding Ave",
-    "Impact": "All southbound lanes are blocked from Warm Springs Rd to Robindale Rd.",
-    "Notes": "8:15 PM, Aug 22 2026 Update Crash on SB Rainbow Blvd\u00A0at Maulding Ave. All southbound lanes are blocked from Warm Springs Rd to Robindale Rd.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755291/attachment_0.png",
-    "Latitude": 36.0503359,
-    "Longitude": -115.2432756
-  },
-  {
-    "UniqueId": 54275,
-    "Timestamp": "2026-08-22 20:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:18 PM, Aug 22 2026 Crash on WB Sahara Ave\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/22/file_attachments/3755273/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 54276,
     "Timestamp": "2026-08-22 20:20",
     "IncidentType": "Crash",
@@ -1468,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755593/attachment_0.png",
     "Latitude": 36.144174199999988,
     "Longitude": -115.1731231
+  },
+  {
+    "UniqueId": 54381,
+    "Timestamp": "2026-08-23 20:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Happy Valley Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:14 PM, Aug 23 2026 Crash on SB Nellis Blvd\u00A0at Happy Valley Ave (before Desert Inn Rd). Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755608/attachment_0.png",
+    "Latitude": 36.133358299999998,
+    "Longitude": -115.0653762
+  },
+  {
+    "UniqueId": 54382,
+    "Timestamp": "2026-08-23 20:15",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:15 PM, Aug 23 2026 Crash on EB Desert Inn Rd\u00A0after Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755610/attachment_0.png",
+    "Latitude": 36.129531700000001,
+    "Longitude": -115.2430957
   }
 ]
