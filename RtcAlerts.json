@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54309,
-    "Timestamp": "2026-08-23 04:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:31 AM, Aug 23 2026 Crash on SB I-15\u00A0at Washington Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 54310,
-    "Timestamp": "2026-08-23 04:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:44 AM, Aug 23 2026 Crash on NB I-15\u00A0at Craig Rd. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 54311,
     "Timestamp": "2026-08-23 04:52",
     "IncidentType": "Crash",
@@ -1734,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755751/attachment_0.png",
     "Latitude": 35.607225398050609,
     "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 54436,
+    "Timestamp": "2026-08-24 04:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "at",
+    "CrossStreet": "Palo Verde St All E/W Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "4:41 AM, Aug 24 2026 Crash on WB Twain Ave\u00A0at Palo Verde St. All E/W lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.050273500000003,
+    "Longitude": -114.96309909999999
   }
 ]
