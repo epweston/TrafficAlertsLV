@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54408,
-    "Timestamp": "2026-08-23 23:28",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:28 PM, Aug 23 2026 Police activity on WB 215 Southern Beltway \u00A0at Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755658/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 54409,
-    "Timestamp": "2026-08-23 23:31",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:31 PM, Aug 23 2026 Police activity on WB Harmon Ave\u00A0after Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755659/attachment_0.png",
-    "Latitude": 36.107976135121646,
-    "Longitude": -115.15202879905702
-  },
-  {
-    "UniqueId": 54410,
-    "Timestamp": "2026-08-23 23:35",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:35 PM, Aug 23 2026 Police activity on WB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755642/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 54411,
     "Timestamp": "2026-08-23 23:43",
     "IncidentType": "Stalled vehicle",
@@ -1748,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757083/attachment_0.png",
     "Latitude": 36.013793100000001,
     "Longitude": -115.1722729
+  },
+  {
+    "UniqueId": 54535,
+    "Timestamp": "2026-08-24 23:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Arville St",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:29 PM, Aug 24 2026 Crash on NB Arville St\u00A0after Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757085/attachment_0.png",
+    "Latitude": 36.115612499999997,
+    "Longitude": -115.1994991
   }
 ]
