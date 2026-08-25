@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54434,
-    "Timestamp": "2026-08-24 04:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:14 AM, Aug 24 2026 Crash on NB I-15\u00A0at Cheyenne Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755768/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 54435,
-    "Timestamp": "2026-08-24 04:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:26 AM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755751/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
     "UniqueId": 54436,
     "Timestamp": "2026-08-24 04:41",
     "IncidentType": "Crash",
@@ -1566,5 +1538,19 @@
     "ImagePath": "",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 54547,
+    "Timestamp": "2026-08-25 04:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:26 AM, Aug 25 2026 Stalled vehicle on WB Russell Rd\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757159/attachment_0.png",
+    "Latitude": 36.085986896880186,
+    "Longitude": -115.18073380622651
   }
 ]
