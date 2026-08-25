@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54405,
-    "Timestamp": "2026-08-23 22:56",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "",
-    "Notes": "10:56 PM, Aug 23 2026 Police activity on SB I-11\u00A0at Tropicana Ave, Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755633/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 54406,
-    "Timestamp": "2026-08-23 23:16",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right shoulder.",
-    "Notes": "11:16 PM, Aug 23 2026 Police activity on EB 215 Southern Beltway\u00A0at Valle Verde Dr off-ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755636/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 54407,
-    "Timestamp": "2026-08-23 23:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:20 PM, Aug 23 2026 Stalled vehicle on SB Fort Apache Rd\u00A0before Ann Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755638/attachment_0.jpg",
-    "Latitude": 36.262635899999999,
-    "Longitude": -115.29742779999999
-  },
-  {
     "UniqueId": 54408,
     "Timestamp": "2026-08-23 23:28",
     "IncidentType": "Police activity",
@@ -1760,6 +1718,34 @@
     "Impact": "Intersection partially blocked.",
     "Notes": "10:48 PM, Aug 24 2026 Crash on WB Silverado Ranch Blvd\u00A0after Las Vegas Blvd. Intersection partially blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757079/attachment_0.png",
+    "Latitude": 36.013793100000001,
+    "Longitude": -115.1722729
+  },
+  {
+    "UniqueId": 54533,
+    "Timestamp": "2026-08-24 23:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:18 PM, Aug 24 2026 Crash on NB 215 Western Beltway\u00A0at Sunset Rd on-ramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757088/attachment_0.png",
+    "Latitude": 36.070274645187922,
+    "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 54534,
+    "Timestamp": "2026-08-24 23:20",
+    "IncidentType": "Update Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "All lanes are open.",
+    "Notes": "11:20 PM, Aug 24 2026 Update Crash on WB Silverado Ranch Blvd\u00A0after Las Vegas Blvd. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757083/attachment_0.png",
     "Latitude": 36.013793100000001,
     "Longitude": -115.1722729
   }
