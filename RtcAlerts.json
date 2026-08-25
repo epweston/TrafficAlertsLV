@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54476,
-    "Timestamp": "2026-08-24 10:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:18 AM, Aug 24 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756403/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
     "UniqueId": 54477,
     "Timestamp": "2026-08-24 10:46",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757753/attachment_0.png",
     "Latitude": 36.17462138583204,
     "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 54589,
+    "Timestamp": "2026-08-25 10:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:26 AM, Aug 25 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757800/attachment_0.jpg",
+    "Latitude": 36.176691302008486,
+    "Longitude": -115.24369620296332
+  },
+  {
+    "UniqueId": 54590,
+    "Timestamp": "2026-08-25 10:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Horizon Ridge Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "High Mesa Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:26 AM, Aug 25 2026 Crash on WB Horizon Ridge Pkwy\u00A0at High Mesa Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757803/attachment_0.png",
+    "Latitude": 36.005855400000002,
+    "Longitude": -115.08152440000001
+  },
+  {
+    "UniqueId": 54591,
+    "Timestamp": "2026-08-25 10:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:29 AM, Aug 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757819/attachment_0.jpg",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
