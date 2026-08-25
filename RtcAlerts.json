@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54411,
-    "Timestamp": "2026-08-23 23:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder",
-    "Notes": "11:43 PM, Aug 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755660/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 54412,
-    "Timestamp": "2026-08-23 23:47",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder.",
-    "Notes": "11:47 PM, Aug 23 2026 Police activity on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755662/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 54413,
-    "Timestamp": "2026-08-23 23:47",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left shoulder",
-    "Notes": "11:47 PM, Aug 23 2026 Police activity on EB 215 Southern Beltway\u00A0at Decatur Blvd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755663/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 54414,
-    "Timestamp": "2026-08-23 23:58",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:58 PM, Aug 23 2026 Police activity on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755645/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 54416,
     "Timestamp": "2026-08-24 00:07",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757090/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 54537,
+    "Timestamp": "2026-08-25 00:00",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Railroad Pass Casino Rd",
+    "Impact": "All lanes are open again.",
+    "Notes": "12:00 AM, Aug 25 2026 Update Crash on SB I-11\u00A0after Railroad Pass Casino Rd. All lanes are open again.",
+    "ImagePath": "",
+    "Latitude": 35.968342972997235,
+    "Longitude": -114.91009383325343
   }
 ]
