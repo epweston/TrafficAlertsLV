@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54475,
-    "Timestamp": "2026-08-24 10:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:07 AM, Aug 24 2026 Stalled vehicle on NB I-15\u00A0to Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756394/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 54476,
     "Timestamp": "2026-08-24 10:18",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757696/attachment_0.png",
     "Latitude": 36.129556251507722,
     "Longitude": -115.06538272741412
+  },
+  {
+    "UniqueId": 54584,
+    "Timestamp": "2026-08-25 10:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:04 AM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757700/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 54585,
+    "Timestamp": "2026-08-25 10:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Ullom Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:06 AM, Aug 25 2026 Crash on EB Sunset Rd\u00A0at Ullom Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757704/attachment_0.jpg",
+    "Latitude": 36.071666700000002,
+    "Longitude": -115.20612509999999
+  },
+  {
+    "UniqueId": 54586,
+    "Timestamp": "2026-08-25 10:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:07 AM, Aug 25 2026 Stalled vehicle on SB I-15\u00A0before Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757706/attachment_0.jpg",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 54587,
+    "Timestamp": "2026-08-25 10:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Moapa Valley Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:07 AM, Aug 25 2026 Stalled vehicle on NB I-15\u00A0at Moapa Valley Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757719/attachment_0.png",
+    "Latitude": 36.670656356017403,
+    "Longitude": -114.5219135284424
   }
 ]
