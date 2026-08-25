@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54429,
-    "Timestamp": "2026-08-24 03:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "at",
-    "CrossStreet": "Palo Verde St All Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "3:34 AM, Aug 24 2026 Crash on WB Twain Ave\u00A0at Palo Verde St. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.050273500000003,
-    "Longitude": -114.96309909999999
-  },
-  {
-    "UniqueId": 54430,
-    "Timestamp": "2026-08-24 03:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:51 AM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755722/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 54431,
     "Timestamp": "2026-08-24 03:56",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757131/attachment_0.png",
     "Latitude": 36.12558859559698,
     "Longitude": -115.17317023475012
+  },
+  {
+    "UniqueId": 54544,
+    "Timestamp": "2026-08-25 03:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:48 AM, Aug 25 2026 Crash on WB Spring Mountain Rd\u00A0at I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757155/attachment_0.png",
+    "Latitude": 36.126198294845885,
+    "Longitude": -115.1806533378587
   }
 ]
