@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 54397,
-    "Timestamp": "2026-08-23 22:14",
-    "IncidentType": "Fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:14 PM, Aug 23 2026 Fire on SB I-11\u00A0before Craig Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755621/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 54398,
-    "Timestamp": "2026-08-23 22:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "10:16 PM, Aug 23 2026 Stalled vehicle on NB I-11\u00A0before Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755623/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 54399,
-    "Timestamp": "2026-08-23 22:19",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "All lanes are open.",
-    "Notes": "10:19 PM, Aug 23 2026 Update Crash on EB Charleston Blvd\u00A0at Rancho Dr. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755625/attachment_0.jpg",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
-    "UniqueId": 54400,
-    "Timestamp": "2026-08-23 22:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "at",
-    "CrossStreet": "Haven St",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:23 PM, Aug 23 2026 Crash on EB Windmill Ln\u00A0at Haven St (after Las Vegas Blvd). All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755647/attachment_0.jpg",
-    "Latitude": 36.042353599999998,
-    "Longitude": -115.16787100000001
-  },
-  {
-    "UniqueId": 54401,
-    "Timestamp": "2026-08-23 22:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:28 PM, Aug 23 2026 Crash on SB Nellis Blvd\u00A0at Twain Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755649/attachment_0.png",
-    "Latitude": 36.122523919999999,
-    "Longitude": -115.06509306
-  },
-  {
     "UniqueId": 54402,
     "Timestamp": "2026-08-23 22:39",
     "IncidentType": "Stalled vehicle",
@@ -1846,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757076/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 54531,
+    "Timestamp": "2026-08-24 22:32",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Owens Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "10:32 PM, Aug 24 2026 Crash on EB Owens Ave\u00A0at Las Vegas Blvd. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757062/attachment_0.jpg",
+    "Latitude": 36.188501600000002,
+    "Longitude": -115.1341261
   }
 ]
