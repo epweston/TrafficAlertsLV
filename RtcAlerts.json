@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54416,
-    "Timestamp": "2026-08-24 00:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "12:07 AM, Aug 24 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755671/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 54417,
-    "Timestamp": "2026-08-24 00:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Right shoulder",
-    "Notes": "12:15 AM, Aug 24 2026 Crash on NB Martin L King Blvd\u00A0at Bonanza Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755689/attachment_0.jpg",
-    "Latitude": 36.177173199999999,
-    "Longitude": -115.1609081
-  },
-  {
-    "UniqueId": 54418,
-    "Timestamp": "2026-08-24 00:18",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "12:18 AM, Aug 24 2026 Police activity on NB I-15\u00A0before Silverado Ranch Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755691/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 54419,
-    "Timestamp": "2026-08-24 00:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "12:21 AM, Aug 24 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755693/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 54420,
     "Timestamp": "2026-08-24 01:01",
     "IncidentType": "Police activity",
@@ -1692,5 +1636,19 @@
     "ImagePath": "",
     "Latitude": 35.968342972997235,
     "Longitude": -114.91009383325343
+  },
+  {
+    "UniqueId": 54538,
+    "Timestamp": "2026-08-25 00:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder",
+    "Notes": "12:19 AM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757114/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
