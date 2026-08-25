@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54428,
-    "Timestamp": "2026-08-24 03:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "3:26 AM, Aug 24 2026 Crash on SB Nellis Blvd\u00A0at Twain Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.122523919999999,
-    "Longitude": -115.06509306
-  },
-  {
     "UniqueId": 54429,
     "Timestamp": "2026-08-24 03:34",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757150/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 54542,
+    "Timestamp": "2026-08-25 03:19",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:19 AM, Aug 25 2026 Abandoned vehicle on NB I-11\u00A0before Valley View Blvd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
