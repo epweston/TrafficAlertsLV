@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54367,
-    "Timestamp": "2026-08-23 17:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Alexander Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:11 PM, Aug 23 2026 Crash on EB Alexander Rd\u00A0at Tenaya Way. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755569/attachment_0.jpg",
-    "Latitude": 36.233095499999997,
-    "Longitude": -115.2515473
-  },
-  {
-    "UniqueId": 54368,
-    "Timestamp": "2026-08-23 17:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:15 PM, Aug 23 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/23/file_attachments/3755557/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
     "UniqueId": 54370,
     "Timestamp": "2026-08-23 18:35",
     "IncidentType": "Crash",
@@ -1972,5 +1944,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757012/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 54510,
+    "Timestamp": "2026-08-24 17:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "5:17 PM, Aug 24 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Jones Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757017/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
