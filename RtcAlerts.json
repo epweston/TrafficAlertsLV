@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54420,
-    "Timestamp": "2026-08-24 01:01",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder",
-    "Notes": "1:01 AM, Aug 24 2026 Police activity on SB I-15\u00A0at I-11. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755677/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 54421,
-    "Timestamp": "2026-08-24 01:19",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Galleria Dr",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:19 AM, Aug 24 2026 Police activity on EB Galleria Dr\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755681/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 54422,
     "Timestamp": "2026-08-24 02:11",
     "IncidentType": "Crash",
@@ -1650,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757114/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 54539,
+    "Timestamp": "2026-08-25 01:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:22 AM, Aug 25 2026 Crash on EB Flamingo Rd\u00A0before Las Vegas Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757095/attachment_0.jpg",
+    "Latitude": 36.114680487880882,
+    "Longitude": -115.1728856710384
   }
 ]
