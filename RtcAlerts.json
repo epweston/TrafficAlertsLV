@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54498,
-    "Timestamp": "2026-08-24 14:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "",
-    "Notes": "2:52 PM, Aug 24 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756929/attachment_0.png",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
     "UniqueId": 54499,
     "Timestamp": "2026-08-24 15:19",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758259/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 54607,
+    "Timestamp": "2026-08-25 14:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:45 PM, Aug 25 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758243/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
