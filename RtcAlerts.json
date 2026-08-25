@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54506,
-    "Timestamp": "2026-08-24 16:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:42 PM, Aug 24 2026 Stalled vehicle on WB Tropicana Ave\u00A0before Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757000/attachment_0.png",
-    "Latitude": 36.101028027323217,
-    "Longitude": -115.14987222272508
-  },
-  {
     "UniqueId": 54507,
     "Timestamp": "2026-08-24 16:56",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758375/attachment_0.png",
     "Latitude": 36.082072699999998,
     "Longitude": -115.17277900000001
+  },
+  {
+    "UniqueId": 54614,
+    "Timestamp": "2026-08-25 16:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:43 PM, Aug 25 2026 Crash on WB Craig Rd\u00A0after Nellis Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758379/attachment_0.png",
+    "Latitude": 36.240478848163598,
+    "Longitude": -115.06215334987286
   }
 ]
