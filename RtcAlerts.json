@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54483,
-    "Timestamp": "2026-08-24 12:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:10 PM, Aug 24 2026 Stalled vehicle on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756633/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
-    "UniqueId": 54484,
-    "Timestamp": "2026-08-24 12:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:24 PM, Aug 24 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756653/attachment_0.png",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 54485,
     "Timestamp": "2026-08-24 12:37",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758013/attachment_0.png",
     "Latitude": 36.041321500000002,
     "Longitude": -115.2433135
+  },
+  {
+    "UniqueId": 54599,
+    "Timestamp": "2026-08-25 12:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:26 PM, Aug 25 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Pecos Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758073/attachment_0.jpg",
+    "Latitude": 36.1729938,
+    "Longitude": -115.098178
   }
 ]
