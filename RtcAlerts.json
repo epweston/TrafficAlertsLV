@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54433,
-    "Timestamp": "2026-08-24 04:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "at",
-    "CrossStreet": "Palo Verde St All Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "4:08 AM, Aug 24 2026 Crash on WB Twain Ave\u00A0at Palo Verde St. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.050273500000003,
-    "Longitude": -114.96309909999999
-  },
-  {
     "UniqueId": 54434,
     "Timestamp": "2026-08-24 04:14",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757136/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54546,
+    "Timestamp": "2026-08-25 04:08",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:08 AM, Aug 25 2026 Abandoned vehicle on NB I-11\u00A0before Valley View Blvd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
