@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54505,
-    "Timestamp": "2026-08-24 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 103",
-    "Impact": "Right shoulder",
-    "Notes": "4:19 PM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0at Mile 103 (after Carp-Elgin Rd). Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757007/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 54506,
     "Timestamp": "2026-08-24 16:42",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758369/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 54612,
+    "Timestamp": "2026-08-25 16:24",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Lindell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:24 PM, Aug 25 2026 Crash on EB Sunset Rd\u00A0at Lindell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758373/attachment_0.png",
+    "Latitude": 36.071346300000002,
+    "Longitude": -115.2161114
   }
 ]
