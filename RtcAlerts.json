@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54455,
-    "Timestamp": "2026-08-24 07:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:34 AM, Aug 24 2026 Stalled vehicle on SB I-15\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756034/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 54456,
     "Timestamp": "2026-08-24 07:46",
     "IncidentType": "Crash",
@@ -1412,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757422/attachment_0.png",
     "Latitude": 36.101028027323217,
     "Longitude": -115.14987222272508
+  },
+  {
+    "UniqueId": 54558,
+    "Timestamp": "2026-08-25 07:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "7:31 AM, Aug 25 2026 Crash on NB Eastern Ave\u00A0at 215 Southern Beltway. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757403/attachment_0.png",
+    "Latitude": 36.023704889999998,
+    "Longitude": -115.11844739
+  },
+  {
+    "UniqueId": 54559,
+    "Timestamp": "2026-08-25 07:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "7:34 AM, Aug 25 2026 Crash on NB I-15\u00A0at Tropicana Ave. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757448/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
