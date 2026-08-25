@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54456,
-    "Timestamp": "2026-08-24 07:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:46 AM, Aug 24 2026 Crash on EB Cactus Ave\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3756043/attachment_0.jpg",
-    "Latitude": 35.999254200000003,
-    "Longitude": -115.1726451
-  },
-  {
     "UniqueId": 54457,
     "Timestamp": "2026-08-24 07:57",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757432/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 54561,
+    "Timestamp": "2026-08-25 07:46",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Christy Ln",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "7:46 AM, Aug 25 2026 Crash on WB Charleston Blvd\u00A0at Christy Ln. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757461/attachment_0.jpg",
+    "Latitude": 36.159452299999998,
+    "Longitude": -115.0533544
   }
 ]
