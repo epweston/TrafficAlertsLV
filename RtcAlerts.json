@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54436,
-    "Timestamp": "2026-08-24 04:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "at",
-    "CrossStreet": "Palo Verde St All E/W Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "4:41 AM, Aug 24 2026 Crash on WB Twain Ave\u00A0at Palo Verde St. All E/W lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.050273500000003,
-    "Longitude": -114.96309909999999
-  },
-  {
-    "UniqueId": 54437,
-    "Timestamp": "2026-08-24 04:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:53 AM, Aug 24 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.020405099999998,
-    "Longitude": -115.288556
-  },
-  {
-    "UniqueId": 54438,
-    "Timestamp": "2026-08-24 04:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked 2 Right lanes blocked. Expect Delays",
-    "Notes": "4:56 AM, Aug 24 2026 Crash on SB I-15\u00A0at Sahara Ave. Left lane blocked 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3755793/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 54439,
     "Timestamp": "2026-08-24 05:15",
     "IncidentType": "Crash",
@@ -1552,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757159/attachment_0.png",
     "Latitude": 36.085986896880186,
     "Longitude": -115.18073380622651
+  },
+  {
+    "UniqueId": 54548,
+    "Timestamp": "2026-08-25 05:00",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:00 AM, Aug 25 2026 Abandoned vehicle on NB I-11\u00A0before Valley View Blvd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
