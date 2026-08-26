@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54575,
-    "Timestamp": "2026-08-25 09:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:21 AM, Aug 25 2026 Crash on NB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757614/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
-    "UniqueId": 54576,
-    "Timestamp": "2026-08-25 09:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:23 AM, Aug 25 2026 Crash on NB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757616/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
-    "UniqueId": 54577,
-    "Timestamp": "2026-08-25 09:33",
-    "IncidentType": "Hazard",
-    "Direction": "EB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:33 AM, Aug 25 2026 Hazard on EB Saint Rose Pkwy\u00A0at I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757639/attachment_0.jpg",
-    "Latitude": 35.963010799999999,
-    "Longitude": -115.17930800000001
-  },
-  {
     "UniqueId": 54578,
     "Timestamp": "2026-08-25 09:39",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759331/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54681,
+    "Timestamp": "2026-08-26 09:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:32 AM, Aug 26 2026 Stalled vehicle on SB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759340/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
