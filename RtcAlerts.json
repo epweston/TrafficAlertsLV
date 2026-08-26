@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54510,
-    "Timestamp": "2026-08-24 17:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:17 PM, Aug 24 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757017/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 54511,
     "Timestamp": "2026-08-24 17:26",
     "IncidentType": "Crash",
@@ -1482,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758407/attachment_0.png",
     "Latitude": 36.175245009999998,
     "Longitude": -115.16082640000001
+  },
+  {
+    "UniqueId": 54618,
+    "Timestamp": "2026-08-25 17:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "5:19 PM, Aug 25 2026 Stalled vehicle on NB I-15 \u00A0before . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758410/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 54619,
+    "Timestamp": "2026-08-25 17:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:19 PM, Aug 25 2026 Stalled vehicle on NB I-15 \u00A0before I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758413/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
