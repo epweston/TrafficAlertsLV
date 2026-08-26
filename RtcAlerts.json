@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54607,
-    "Timestamp": "2026-08-25 14:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:45 PM, Aug 25 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758243/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 54608,
-    "Timestamp": "2026-08-25 14:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:56 PM, Aug 25 2026 Crash on NB I-15\u00A0at Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758275/attachment_0.jpg",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 54609,
-    "Timestamp": "2026-08-25 15:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:05 PM, Aug 25 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758293/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 54610,
     "Timestamp": "2026-08-25 15:42",
     "IncidentType": "Crash",
@@ -1412,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759953/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 54708,
+    "Timestamp": "2026-08-26 15:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Mcdaniel St",
+    "Impact": "",
+    "Notes": "3:06 PM, Aug 26 2026 Crash on EB Lake Mead Blvd\u00A0at McDaniel St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759964/attachment_0.jpg",
+    "Latitude": 36.195828187540954,
+    "Longitude": -115.12068987207307
   }
 ]
