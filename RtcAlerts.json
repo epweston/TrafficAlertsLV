@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54530,
-    "Timestamp": "2026-08-24 22:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "10:03 PM, Aug 24 2026 Crash on NB I-11\u00A0before Las Vegas Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757076/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 54531,
-    "Timestamp": "2026-08-24 22:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Owens Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "10:32 PM, Aug 24 2026 Crash on EB Owens Ave\u00A0at Las Vegas Blvd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757062/attachment_0.jpg",
-    "Latitude": 36.188501600000002,
-    "Longitude": -115.1341261
-  },
-  {
-    "UniqueId": 54532,
-    "Timestamp": "2026-08-24 22:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "10:48 PM, Aug 24 2026 Crash on WB Silverado Ranch Blvd\u00A0after Las Vegas Blvd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757079/attachment_0.png",
-    "Latitude": 36.013793100000001,
-    "Longitude": -115.1722729
-  },
-  {
     "UniqueId": 54533,
     "Timestamp": "2026-08-24 23:18",
     "IncidentType": "Crash",
@@ -1538,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758493/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 54641,
+    "Timestamp": "2026-08-25 22:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Fremont St All Lanes Are",
+    "Impact": "",
+    "Notes": "10:52 PM, Aug 25 2026 Crash on NB Eastern Ave\u00A0after Fremont St. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758475/attachment_0.png",
+    "Latitude": 36.159611599999998,
+    "Longitude": -115.1184394
   }
 ]
