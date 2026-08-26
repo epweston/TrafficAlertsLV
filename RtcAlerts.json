@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54615,
-    "Timestamp": "2026-08-25 16:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:48 PM, Aug 25 2026 Crash on EB 215 Southern Beltway\u00A0after Gibson Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758386/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 54616,
     "Timestamp": "2026-08-25 17:05",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760035/attachment_0.png",
     "Latitude": 36.2397007,
     "Longitude": -115.23257750000001
+  },
+  {
+    "UniqueId": 54722,
+    "Timestamp": "2026-08-26 16:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:43 PM, Aug 26 2026 Stalled vehicle on SB I-11\u00A0before Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760037/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
