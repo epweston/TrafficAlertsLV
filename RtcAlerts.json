@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54572,
-    "Timestamp": "2026-08-25 08:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Grand Central Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:47 AM, Aug 25 2026 Crash on SB Grand Central Pkwy\u00A0before Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757552/attachment_0.jpg",
-    "Latitude": 36.158865800000001,
-    "Longitude": -115.1586595
-  },
-  {
-    "UniqueId": 54573,
-    "Timestamp": "2026-08-25 08:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "8:50 AM, Aug 25 2026 Crash on SB I-15\u00A0at Cheyenne Ave On Ramp. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757576/attachment_0.jpg",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 54574,
     "Timestamp": "2026-08-25 09:04",
     "IncidentType": "Crash",
@@ -1482,5 +1454,33 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 54678,
+    "Timestamp": "2026-08-26 08:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:48 AM, Aug 26 2026 Crash on SB I-11\u00A0at Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759210/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 54679,
+    "Timestamp": "2026-08-26 08:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:50 AM, Aug 26 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0after Buffalo Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759214/attachment_0.png",
+    "Latitude": 36.178483896259188,
+    "Longitude": -115.25997161865236
   }
 ]
