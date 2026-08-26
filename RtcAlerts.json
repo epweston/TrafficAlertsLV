@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54537,
-    "Timestamp": "2026-08-25 00:00",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "All lanes are open again.",
-    "Notes": "12:00 AM, Aug 25 2026 Update Crash on SB I-11\u00A0after Railroad Pass Casino Rd. All lanes are open again.",
-    "ImagePath": "",
-    "Latitude": 35.968342972997235,
-    "Longitude": -114.91009383325343
-  },
-  {
     "UniqueId": 54538,
     "Timestamp": "2026-08-25 00:19",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758503/attachment_0.jpg",
     "Latitude": 36.247643382733777,
     "Longitude": -115.23993553933349
+  },
+  {
+    "UniqueId": 54646,
+    "Timestamp": "2026-08-26 00:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "12:01 AM, Aug 26 2026 Crash on NB Paradise Rd\u00A0at Flamingo Rd. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758485/attachment_0.jpg",
+    "Latitude": 36.114312130000002,
+    "Longitude": -115.15402971
   }
 ]
