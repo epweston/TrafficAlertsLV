@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54604,
-    "Timestamp": "2026-08-25 14:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:18 PM, Aug 25 2026 Crash on WB 215 Southern Beltway\u00A0after Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758206/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
-    "UniqueId": 54605,
-    "Timestamp": "2026-08-25 14:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Buchanan Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:28 PM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0after Buchanan Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758233/attachment_0.png",
-    "Latitude": 35.934200883777393,
-    "Longitude": -114.84135389747479
-  },
-  {
     "UniqueId": 54606,
     "Timestamp": "2026-08-25 14:40",
     "IncidentType": "Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759919/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 54705,
+    "Timestamp": "2026-08-26 14:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "before",
+    "CrossStreet": "Ali Baba Ln",
+    "Impact": "Left lanes blocked.",
+    "Notes": "2:28 PM, Aug 26 2026 Crash on NB Dean Martin Dr\u00A0before Ali Baba Ln. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759929/attachment_0.png",
+    "Latitude": 36.095432650344883,
+    "Longitude": -115.18133997917177
   }
 ]
