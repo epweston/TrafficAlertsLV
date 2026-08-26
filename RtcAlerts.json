@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54598,
-    "Timestamp": "2026-08-25 12:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:00 PM, Aug 25 2026 Crash on NB Rainbow Blvd\u00A0at Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758013/attachment_0.png",
-    "Latitude": 36.041321500000002,
-    "Longitude": -115.2433135
-  },
-  {
     "UniqueId": 54599,
     "Timestamp": "2026-08-25 12:26",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759646/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 54694,
+    "Timestamp": "2026-08-26 11:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:57 AM, Aug 26 2026 Stalled vehicle on SB I-11\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759669/attachment_0.png",
+    "Latitude": 36.298464445139153,
+    "Longitude": -115.28598403888641
   }
 ]
