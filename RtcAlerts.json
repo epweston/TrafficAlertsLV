@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54507,
-    "Timestamp": "2026-08-24 16:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:56 PM, Aug 24 2026 Stalled vehicle on EB Silverado Ranch Blvd\u00A0after Bermuda Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757009/attachment_0.png",
-    "Latitude": 35.977797807041192,
-    "Longitude": -115.15525817871095
-  },
-  {
-    "UniqueId": 54508,
-    "Timestamp": "2026-08-24 16:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:56 PM, Aug 24 2026 Crash on SB Eastern Ave\u00A0before Horizon Ridge Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757002/attachment_0.png",
-    "Latitude": 35.999189399999999,
-    "Longitude": -115.1048687
-  },
-  {
-    "UniqueId": 54509,
-    "Timestamp": "2026-08-24 17:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder",
-    "Notes": "5:04 PM, Aug 24 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757012/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 54510,
     "Timestamp": "2026-08-24 17:17",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758386/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 54616,
+    "Timestamp": "2026-08-25 17:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:05 PM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758391/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 54617,
+    "Timestamp": "2026-08-25 17:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:09 PM, Aug 25 2026 Crash on NB Martin L King Blvd\u00A0at I-11. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758407/attachment_0.png",
+    "Latitude": 36.175245009999998,
+    "Longitude": -115.16082640000001
   }
 ]
