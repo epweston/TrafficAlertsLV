@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54528,
-    "Timestamp": "2026-08-24 21:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:49 PM, Aug 24 2026 Crash on SB I-11\u00A0after Railroad Pass Casino Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/24/file_attachments/3757074/attachment_0.png",
-    "Latitude": 35.968342972997235,
-    "Longitude": -114.91009383325343
-  },
-  {
     "UniqueId": 54530,
     "Timestamp": "2026-08-24 22:03",
     "IncidentType": "Crash",
@@ -1496,5 +1482,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758465/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 54637,
+    "Timestamp": "2026-08-25 21:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:51 PM, Aug 25 2026 Crash on EB Flamingo Rd\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758471/attachment_0.png",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
+  },
+  {
+    "UniqueId": 54638,
+    "Timestamp": "2026-08-25 21:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:53 PM, Aug 25 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758491/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 54639,
+    "Timestamp": "2026-08-25 21:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:55 PM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0after Martin L King Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758472/attachment_0.png",
+    "Latitude": 36.175244799226355,
+    "Longitude": -115.16081567593977
   }
 ]
