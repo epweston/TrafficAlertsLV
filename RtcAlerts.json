@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54594,
-    "Timestamp": "2026-08-25 11:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:37 AM, Aug 25 2026 Stalled vehicle on NB I-15\u00A0after Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757969/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 54595,
-    "Timestamp": "2026-08-25 11:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:40 AM, Aug 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Pecos Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3757974/attachment_0.png",
-    "Latitude": 36.166761536436809,
-    "Longitude": -115.0982451648641
-  },
-  {
     "UniqueId": 54596,
     "Timestamp": "2026-08-25 11:49",
     "IncidentType": "Crash",
@@ -1356,5 +1328,19 @@
     "ImagePath": "",
     "Latitude": 36.115079025217497,
     "Longitude": -115.30254383728953
+  },
+  {
+    "UniqueId": 54691,
+    "Timestamp": "2026-08-26 11:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Arville St 2",
+    "Impact": "",
+    "Notes": "11:40 AM, Aug 26 2026 Crash on EB Desert Inn Rd\u00A0before Arville St. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759638/attachment_0.png",
+    "Latitude": 36.129995399999999,
+    "Longitude": -115.19911329999999
   }
 ]
