@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54606,
-    "Timestamp": "2026-08-25 14:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "2:40 PM, Aug 25 2026 Crash on NB I-15\u00A0at Sahara Ave on ramp. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758259/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 54607,
     "Timestamp": "2026-08-25 14:45",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759948/attachment_0.png",
     "Latitude": 36.013528099999988,
     "Longitude": -115.1943301
+  },
+  {
+    "UniqueId": 54707,
+    "Timestamp": "2026-08-26 14:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:34 PM, Aug 26 2026 Crash on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759953/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
