@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54616,
-    "Timestamp": "2026-08-25 17:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:05 PM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758391/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 54617,
-    "Timestamp": "2026-08-25 17:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:09 PM, Aug 25 2026 Crash on NB Martin L King Blvd\u00A0at I-11. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758407/attachment_0.png",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
     "UniqueId": 54618,
     "Timestamp": "2026-08-25 17:19",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760057/attachment_0.png",
     "Latitude": 36.144454899999999,
     "Longitude": -115.1820584
+  },
+  {
+    "UniqueId": 54724,
+    "Timestamp": "2026-08-26 17:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "5:04 PM, Aug 26 2026 Crash on NB Eastern Ave\u00A0before Russell Rd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760061/attachment_0.jpg",
+    "Latitude": 36.086265099999999,
+    "Longitude": -115.11888639999999
+  },
+  {
+    "UniqueId": 54725,
+    "Timestamp": "2026-08-26 17:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:04 PM, Aug 26 2026 Crash on EB Cheyenne Ave\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760044/attachment_0.png",
+    "Latitude": 36.216817199792388,
+    "Longitude": -115.22581636695935
   }
 ]
