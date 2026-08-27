@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54653,
-    "Timestamp": "2026-08-26 04:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Hualapai Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:57 AM, Aug 26 2026 Crash on WB Blue Diamond Rd\u00A0at Hualapai Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758623/attachment_0.png",
-    "Latitude": 36.023406299999998,
-    "Longitude": -115.31593530000001
-  },
-  {
-    "UniqueId": 54654,
-    "Timestamp": "2026-08-26 05:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:11 AM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758635/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
-    "UniqueId": 54655,
-    "Timestamp": "2026-08-26 05:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:31 AM, Aug 26 2026 Crash on EB Stewart Ave\u00A0at Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758664/attachment_0.png",
-    "Latitude": 36.166370200000003,
-    "Longitude": -115.0805115
-  },
-  {
-    "UniqueId": 54656,
-    "Timestamp": "2026-08-26 05:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:32 AM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758669/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 54657,
     "Timestamp": "2026-08-26 05:40",
     "IncidentType": "Crash",
@@ -1524,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760265/attachment_0.jpg",
     "Latitude": 36.160896399999999,
     "Longitude": -115.14907839999999
+  },
+  {
+    "UniqueId": 54765,
+    "Timestamp": "2026-08-27 05:35",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "5:35 AM, Aug 27 2026 Police activity on WB Tropicana Ave\u00A0before I-15. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760331/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
