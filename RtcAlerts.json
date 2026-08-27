@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54635,
-    "Timestamp": "2026-08-25 20:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave On Left",
-    "Impact": "",
-    "Notes": "8:16 PM, Aug 25 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Cheyenne Ave on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758443/attachment_0.png",
-    "Latitude": 36.218358799999997,
-    "Longitude": -115.2659426
-  },
-  {
-    "UniqueId": 54636,
-    "Timestamp": "2026-08-25 20:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:43 PM, Aug 25 2026 Crash on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758465/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 54637,
     "Timestamp": "2026-08-25 21:51",
     "IncidentType": "Crash",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760119/attachment_0.png",
     "Latitude": 36.203105088026433,
     "Longitude": -115.08019387302542
+  },
+  {
+    "UniqueId": 54749,
+    "Timestamp": "2026-08-26 20:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:38 PM, Aug 26 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760122/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
