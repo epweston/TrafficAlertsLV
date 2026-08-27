@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54688,
-    "Timestamp": "2026-08-26 11:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:05 AM, Aug 26 2026 Stalled vehicle on NB I-11\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759577/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 54689,
-    "Timestamp": "2026-08-26 11:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:06 AM, Aug 26 2026 Crash on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 54690,
-    "Timestamp": "2026-08-26 11:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:07 AM, Aug 26 2026 Crash on EB Flamingo Rd\u00A0at 215 Western Beltway. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.115079025217497,
-    "Longitude": -115.30254383728953
-  },
-  {
     "UniqueId": 54691,
     "Timestamp": "2026-08-26 11:40",
     "IncidentType": "Crash",
@@ -1228,6 +1186,20 @@
     "Impact": "SB I15 at Craig off ramp closed.\u00A0 Use other routes",
     "Notes": "10:54 AM, Aug 27 2026 Police activity on SB I-15\u00A0at Craig Rd. SB I15 at Craig off ramp closed.\u00A0 Use other routes",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760885/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 54779,
+    "Timestamp": "2026-08-27 11:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:23 AM, Aug 27 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760926/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
   }
