@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54705,
-    "Timestamp": "2026-08-26 14:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "before",
-    "CrossStreet": "Ali Baba Ln",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:28 PM, Aug 26 2026 Crash on NB Dean Martin Dr\u00A0before Ali Baba Ln. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759929/attachment_0.png",
-    "Latitude": 36.095432650344883,
-    "Longitude": -115.18133997917177
-  },
-  {
-    "UniqueId": 54706,
-    "Timestamp": "2026-08-26 14:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hinson St",
-    "Impact": "",
-    "Notes": "2:31 PM, Aug 26 2026 Crash on WB Silverado Ranch Blvd\u00A0at Hinson St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759948/attachment_0.png",
-    "Latitude": 36.013528099999988,
-    "Longitude": -115.1943301
-  },
-  {
     "UniqueId": 54707,
     "Timestamp": "2026-08-26 14:34",
     "IncidentType": "Crash",
@@ -1202,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761290/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 54798,
+    "Timestamp": "2026-08-27 14:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:28 PM, Aug 27 2026 Stalled vehicle on SB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761302/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 54799,
+    "Timestamp": "2026-08-27 14:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:30 PM, Aug 27 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0before Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761316/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
   }
 ]
