@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54716,
-    "Timestamp": "2026-08-26 16:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Merialdo Ln",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:01 PM, Aug 26 2026 Crash on WB Charleston Blvd\u00A0at Merialdo Ln. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760002/attachment_0.png",
-    "Latitude": 36.159115900000003,
-    "Longitude": -115.2847337
-  },
-  {
-    "UniqueId": 54717,
-    "Timestamp": "2026-08-26 16:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:02 PM, Aug 26 2026 Stalled vehicle on SB I-15\u00A0to Silverado Ranch Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760022/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 54718,
     "Timestamp": "2026-08-26 16:11",
     "IncidentType": "Crash",
@@ -1174,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 54806,
+    "Timestamp": "2026-08-27 15:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:59 PM, Aug 27 2026 Crash on NB I-11\u00A0at Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761377/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
