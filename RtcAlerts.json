@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54697,
-    "Timestamp": "2026-08-26 12:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "12:17 PM, Aug 26 2026 Crash on SB Decatur Blvd\u00A0after Charleston Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759734/attachment_0.jpg",
-    "Latitude": 36.159069000000002,
-    "Longitude": -115.2059539
-  },
-  {
     "UniqueId": 54698,
     "Timestamp": "2026-08-26 12:40",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761064/attachment_0.png",
     "Latitude": 36.277337699999997,
     "Longitude": -115.28777220000001
+  },
+  {
+    "UniqueId": 54786,
+    "Timestamp": "2026-08-27 12:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:31 PM, Aug 27 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761111/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
