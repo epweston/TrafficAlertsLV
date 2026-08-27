@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54703,
-    "Timestamp": "2026-08-26 13:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Judson Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "1:58 PM, Aug 26 2026 Crash on NB Nellis Blvd\u00A0at Judson Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759890/attachment_0.png",
-    "Latitude": 36.199923200000001,
-    "Longitude": -115.06223919999999
-  },
-  {
-    "UniqueId": 54704,
-    "Timestamp": "2026-08-26 14:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:09 PM, Aug 26 2026 Stalled vehicle on SB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759919/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 54705,
     "Timestamp": "2026-08-26 14:28",
     "IncidentType": "Crash",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761280/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 54797,
+    "Timestamp": "2026-08-27 14:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:07 PM, Aug 27 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761290/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
