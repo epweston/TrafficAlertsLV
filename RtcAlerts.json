@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54684,
-    "Timestamp": "2026-08-26 10:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:02 AM, Aug 26 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759432/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 54685,
     "Timestamp": "2026-08-26 10:12",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760739/attachment_0.jpg",
     "Latitude": 36.043773000000009,
     "Longitude": -114.9768267
+  },
+  {
+    "UniqueId": 54774,
+    "Timestamp": "2026-08-27 10:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Shaumber Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "10:00 AM, Aug 27 2026 Crash on WB Centennial Pkwy\u00A0at Shaumber Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760773/attachment_0.jpg",
+    "Latitude": 36.277208700000003,
+    "Longitude": -115.32898059999999
   }
 ]
