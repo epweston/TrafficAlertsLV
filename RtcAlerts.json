@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54681,
-    "Timestamp": "2026-08-26 09:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:32 AM, Aug 26 2026 Stalled vehicle on SB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759340/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 54682,
-    "Timestamp": "2026-08-26 09:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:41 AM, Aug 26 2026 Stalled vehicle on NB I-11\u00A0before Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759373/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 54683,
-    "Timestamp": "2026-08-26 09:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:53 AM, Aug 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759397/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 54684,
     "Timestamp": "2026-08-26 10:02",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1202,19 @@
     "ImagePath": "",
     "Latitude": 36.196300700000002,
     "Longitude": -115.06222940000001
+  },
+  {
+    "UniqueId": 54773,
+    "Timestamp": "2026-08-27 09:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Burkholder Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:50 AM, Aug 27 2026 Crash on WB Lake Mead Pkwy\u00A0at Burkholder Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760739/attachment_0.jpg",
+    "Latitude": 36.043773000000009,
+    "Longitude": -114.9768267
   }
 ]
