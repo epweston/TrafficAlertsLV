@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54657,
-    "Timestamp": "2026-08-26 05:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:40 AM, Aug 26 2026 Crash on NB I-11\u00A0at Jones Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758676/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 54658,
-    "Timestamp": "2026-08-26 05:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sandhill Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rawhide St",
-    "Impact": "",
-    "Notes": "5:47 AM, Aug 26 2026 Crash on SB Sandhill Rd\u00A0at Rawhide St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758686/attachment_0.png",
-    "Latitude": 36.089426600000003,
-    "Longitude": -115.09144310000001
-  },
-  {
     "UniqueId": 54659,
     "Timestamp": "2026-08-26 06:32",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760331/attachment_0.png",
     "Latitude": 36.100703197714246,
     "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 54766,
+    "Timestamp": "2026-08-27 06:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:26 AM, Aug 27 2026 Crash on SB I-11\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760407/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
