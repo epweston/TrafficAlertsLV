@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54699,
-    "Timestamp": "2026-08-26 13:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Center lanes blocked. Expect Delays",
-    "Notes": "1:06 PM, Aug 26 2026 Crash on NB Rainbow Blvd\u00A0at 215 Southern Beltway. Center lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759818/attachment_0.png",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
     "UniqueId": 54700,
     "Timestamp": "2026-08-26 13:17",
     "IncidentType": "Crash",
@@ -1202,5 +1188,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761148/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 54789,
+    "Timestamp": "2026-08-27 13:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Karen Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:05 PM, Aug 27 2026 Crash on NB Eastern Ave\u00A0before Karen Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761146/attachment_0.png",
+    "Latitude": 36.140701499999999,
+    "Longitude": -115.11871669999999
+  },
+  {
+    "UniqueId": 54791,
+    "Timestamp": "2026-08-27 13:07",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Update: Craig Rd is now open EB and WB.",
+    "Notes": "1:07 PM, Aug 27 2026 Police activity on WB Craig Rd\u00A0at I-15. Update: Craig Rd is now open EB and WB.",
+    "ImagePath": "",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
   }
 ]
