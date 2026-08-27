@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54685,
-    "Timestamp": "2026-08-26 10:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "10:12 AM, Aug 26 2026 Crash on NB I-15\u00A0at Sahara Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759453/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 54686,
-    "Timestamp": "2026-08-26 10:21",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Galleria Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:21 AM, Aug 26 2026 Crash on WB Galleria Dr\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759488/attachment_0.png",
-    "Latitude": 36.071592967703758,
-    "Longitude": -115.0366190019961
-  },
-  {
     "UniqueId": 54687,
     "Timestamp": "2026-08-26 10:28",
     "IncidentType": "Crash",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760773/attachment_0.jpg",
     "Latitude": 36.277208700000003,
     "Longitude": -115.32898059999999
+  },
+  {
+    "UniqueId": 54775,
+    "Timestamp": "2026-08-27 10:21",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 12",
+    "Impact": "I-15 SB at Mile 12 is temporarily blocked. Expect Delays",
+    "Notes": "10:21 AM, Aug 27 2026 Police activity on SB I-15\u00A0after Mile 12. I-15 SB at Mile 12 is temporarily blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760834/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
