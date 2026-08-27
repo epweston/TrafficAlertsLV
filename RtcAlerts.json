@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54633,
-    "Timestamp": "2026-08-25 19:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Mel Torme Way",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:20 PM, Aug 25 2026 Crash on SB Mel Torme Way\u00A0at Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758442/attachment_0.png",
-    "Latitude": 36.125662800000001,
-    "Longitude": -115.1732894
-  },
-  {
     "UniqueId": 54634,
     "Timestamp": "2026-08-25 19:46",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760127/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 54745,
+    "Timestamp": "2026-08-26 19:17",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "7:17 PM, Aug 26 2026 Crash on WB Flamingo Rd\u00A0after Durango Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760128/attachment_0.png",
+    "Latitude": 36.115006600000001,
+    "Longitude": -115.2791146
+  },
+  {
+    "UniqueId": 54746,
+    "Timestamp": "2026-08-26 19:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:19 PM, Aug 26 2026 Crash on WB Lake Mead Blvd\u00A0after Lamb Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760130/attachment_0.png",
+    "Latitude": 36.195559803377257,
+    "Longitude": -115.08015630322291
   }
 ]
