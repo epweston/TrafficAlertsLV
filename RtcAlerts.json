@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54696,
-    "Timestamp": "2026-08-26 12:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:05 PM, Aug 26 2026 Crash on WB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759696/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 54697,
     "Timestamp": "2026-08-26 12:17",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761054/attachment_0.png",
     "Latitude": 36.289875459999998,
     "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 54784,
+    "Timestamp": "2026-08-27 12:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:01 PM, Aug 27 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761044/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
