@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54668,
-    "Timestamp": "2026-08-26 07:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:42 AM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759004/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
-    "UniqueId": 54669,
-    "Timestamp": "2026-08-26 07:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:58 AM, Aug 26 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759057/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 54670,
     "Timestamp": "2026-08-26 08:01",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "",
     "Latitude": 36.218685299999997,
     "Longitude": -115.2788607
+  },
+  {
+    "UniqueId": 54769,
+    "Timestamp": "2026-08-27 07:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:57 AM, Aug 27 2026 Crash on WB Cheyenne Ave\u00A0before Civic Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760520/attachment_0.jpg",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
   }
 ]
