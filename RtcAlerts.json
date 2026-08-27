@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54707,
-    "Timestamp": "2026-08-26 14:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:34 PM, Aug 26 2026 Crash on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759953/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 54708,
     "Timestamp": "2026-08-26 15:06",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761316/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 54800,
+    "Timestamp": "2026-08-27 14:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:37 PM, Aug 27 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761320/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
