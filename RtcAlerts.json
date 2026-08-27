@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54623,
-    "Timestamp": "2026-08-25 17:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:40 PM, Aug 25 2026 Crash on NB I-11\u00A0after Horizon Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758405/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 54624,
-    "Timestamp": "2026-08-25 17:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "5:42 PM, Aug 25 2026 Crash on WB Stewart Ave\u00A0at Nellis Blvd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758406/attachment_0.jpg",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
     "UniqueId": 54625,
     "Timestamp": "2026-08-25 17:45",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760069/attachment_0.png",
     "Latitude": 36.023410016643204,
     "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 54731,
+    "Timestamp": "2026-08-26 17:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:39 PM, Aug 26 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760070/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
