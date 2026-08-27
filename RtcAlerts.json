@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54632,
-    "Timestamp": "2026-08-25 19:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "HOV lane partially blocked.",
-    "Notes": "7:07 PM, Aug 25 2026 Stalled vehicle on SB I-15\u00A0before Russell Rd. HOV lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758458/attachment_0.png",
-    "Latitude": 36.083295454540455,
-    "Longitude": -115.04988122352644
-  },
-  {
     "UniqueId": 54633,
     "Timestamp": "2026-08-25 19:20",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760105/attachment_0.jpg",
     "Latitude": 35.962373100000001,
     "Longitude": -115.1730039
+  },
+  {
+    "UniqueId": 54744,
+    "Timestamp": "2026-08-26 19:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 19",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:08 PM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0after Mile 19. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760127/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
