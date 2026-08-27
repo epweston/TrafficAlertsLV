@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54643,
-    "Timestamp": "2026-08-25 23:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:44 PM, Aug 25 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758481/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 54644,
-    "Timestamp": "2026-08-25 23:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:47 PM, Aug 25 2026 Stalled vehicle on SB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758482/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 54645,
-    "Timestamp": "2026-08-25 23:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "North Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:52 PM, Aug 25 2026 Crash on SB North Rancho Dr\u00A0at Lone Mountain Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758503/attachment_0.jpg",
-    "Latitude": 36.247643382733777,
-    "Longitude": -115.23993553933349
-  },
-  {
-    "UniqueId": 54646,
-    "Timestamp": "2026-08-26 00:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "12:01 AM, Aug 26 2026 Crash on NB Paradise Rd\u00A0at Flamingo Rd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3758485/attachment_0.jpg",
-    "Latitude": 36.114312130000002,
-    "Longitude": -115.15402971
-  },
-  {
     "UniqueId": 54647,
     "Timestamp": "2026-08-26 00:44",
     "IncidentType": "Crash",
@@ -1594,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760160/attachment_0.jpg",
     "Latitude": 36.2397049,
     "Longitude": -115.13429979999999
+  },
+  {
+    "UniqueId": 54760,
+    "Timestamp": "2026-08-27 00:30",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Alta Dr",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:30 AM, Aug 27 2026 Crash on WB Alta Dr\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760176/attachment_0.png",
+    "Latitude": 36.1663827,
+    "Longitude": -115.2237853
   }
 ]
