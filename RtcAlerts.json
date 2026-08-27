@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54634,
-    "Timestamp": "2026-08-25 19:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "",
-    "Notes": "7:46 PM, Aug 25 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0after Buffalo Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/25/file_attachments/3758461/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
     "UniqueId": 54635,
     "Timestamp": "2026-08-25 20:16",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760113/attachment_0.png",
     "Latitude": 36.114442114154052,
     "Longitude": -115.18066236782498
+  },
+  {
+    "UniqueId": 54748,
+    "Timestamp": "2026-08-26 20:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Carey Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:12 PM, Aug 26 2026 Crash on NB Lamb Blvd\u00A0at Carey Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760119/attachment_0.png",
+    "Latitude": 36.203105088026433,
+    "Longitude": -115.08019387302542
   }
 ]
