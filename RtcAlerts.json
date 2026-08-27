@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54700,
-    "Timestamp": "2026-08-26 13:17",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Carson Ave",
-    "Relationship": "at",
-    "CrossStreet": "3Rd St Intersection",
-    "Impact": "",
-    "Notes": "1:17 PM, Aug 26 2026 Crash on EB Carson Ave\u00A0at 3rd St. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3759831/attachment_0.png",
-    "Latitude": 36.169061999999997,
-    "Longitude": -115.1437097
-  },
-  {
     "UniqueId": 54701,
     "Timestamp": "2026-08-26 13:36",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "",
     "Latitude": 36.240214888276881,
     "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 54794,
+    "Timestamp": "2026-08-27 13:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "I-11 NB is CLOSED at Horizon Dr. Use other routes.",
+    "Notes": "1:27 PM, Aug 27 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. I-11 NB is CLOSED at Horizon Dr. Use other routes.",
+    "ImagePath": "",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
   }
 ]
