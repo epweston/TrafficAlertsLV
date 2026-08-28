@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54780,
-    "Timestamp": "2026-08-27 11:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "11:46 AM, Aug 27 2026 Crash on NB Pecos Rd\u00A0after Russell Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761016/attachment_0.png",
-    "Latitude": 36.085610299999999,
-    "Longitude": -115.1011218
-  },
-  {
-    "UniqueId": 54781,
-    "Timestamp": "2026-08-27 11:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "11:49 AM, Aug 27 2026 Stalled vehicle on WB Cheyenne Ave\u00A0at I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761021/attachment_0.jpg",
-    "Latitude": 36.217665489308381,
-    "Longitude": -115.12400501844569
-  },
-  {
-    "UniqueId": 54782,
-    "Timestamp": "2026-08-27 11:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:52 AM, Aug 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761047/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 54783,
-    "Timestamp": "2026-08-27 11:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:56 AM, Aug 27 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761054/attachment_0.png",
-    "Latitude": 36.289875459999998,
-    "Longitude": -115.07998461
-  },
-  {
     "UniqueId": 54784,
     "Timestamp": "2026-08-27 12:01",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762586/attachment_0.png",
     "Latitude": 36.088847700000002,
     "Longitude": -115.1368185
+  },
+  {
+    "UniqueId": 54892,
+    "Timestamp": "2026-08-28 11:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Queen St 2",
+    "Impact": "",
+    "Notes": "11:59 AM, Aug 28 2026 Crash on WB Cheyenne Ave\u00A0at Queen St. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762599/attachment_0.png",
+    "Latitude": 36.217658700000001,
+    "Longitude": -115.0963227
   }
 ]
