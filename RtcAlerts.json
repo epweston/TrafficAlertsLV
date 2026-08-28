@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54747,
-    "Timestamp": "2026-08-26 19:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:40 PM, Aug 26 2026 Crash on EB Flamingo Rd\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760113/attachment_0.png",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
     "UniqueId": 54748,
     "Timestamp": "2026-08-26 20:12",
     "IncidentType": "Crash",
@@ -1132,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761563/attachment_0.png",
     "Latitude": 36.108882199999996,
     "Longitude": -115.1812333
+  },
+  {
+    "UniqueId": 54832,
+    "Timestamp": "2026-08-27 19:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 12",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:44 PM, Aug 27 2026 Stalled vehicle on NB I-15\u00A0before Mile 12. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761566/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
