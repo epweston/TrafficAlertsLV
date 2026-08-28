@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54795,
-    "Timestamp": "2026-08-27 13:44",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "1:44 PM, Aug 27 2026 Crash on EB Charleston Blvd\u00A0at Pecos Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761275/attachment_0.jpg",
-    "Latitude": 36.158758200000001,
-    "Longitude": -115.10104
-  },
-  {
-    "UniqueId": 54796,
-    "Timestamp": "2026-08-27 13:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:48 PM, Aug 27 2026 Crash on NB I-11\u00A0at College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761280/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 54797,
-    "Timestamp": "2026-08-27 14:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:07 PM, Aug 27 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761290/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 54798,
     "Timestamp": "2026-08-27 14:28",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762768/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 54902,
+    "Timestamp": "2026-08-28 14:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:02 PM, Aug 28 2026 Crash on WB 215 Northern Beltway\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762800/attachment_0.jpg",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
   }
 ]
