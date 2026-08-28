@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54736,
-    "Timestamp": "2026-08-26 18:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:05 PM, Aug 26 2026 Crash on NB I-15\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760100/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 54737,
     "Timestamp": "2026-08-26 18:14",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761530/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 54824,
+    "Timestamp": "2026-08-27 18:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "after",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:05 PM, Aug 27 2026 Crash on EB Sunset Rd\u00A0after Fort Apache Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761549/attachment_0.png",
+    "Latitude": 36.070283500000002,
+    "Longitude": -115.2977282
   }
 ]
