@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54804,
-    "Timestamp": "2026-08-27 15:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:48 PM, Aug 27 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761373/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 54805,
-    "Timestamp": "2026-08-27 15:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Update: I-11 NB is back open.",
-    "Notes": "3:53 PM, Aug 27 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. Update: I-11 NB is back open.",
-    "ImagePath": "",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
-    "UniqueId": 54806,
-    "Timestamp": "2026-08-27 15:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:59 PM, Aug 27 2026 Crash on NB I-11\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761377/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 54807,
     "Timestamp": "2026-08-27 16:06",
     "IncidentType": "Crash",
@@ -1650,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762917/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 54922,
+    "Timestamp": "2026-08-28 15:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "3:56 PM, Aug 28 2026 Stalled vehicle on SB I-11\u00A0at Russell Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762922/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
