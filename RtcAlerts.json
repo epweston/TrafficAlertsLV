@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54774,
-    "Timestamp": "2026-08-27 10:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Centennial Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Shaumber Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "10:00 AM, Aug 27 2026 Crash on WB Centennial Pkwy\u00A0at Shaumber Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760773/attachment_0.jpg",
-    "Latitude": 36.277208700000003,
-    "Longitude": -115.32898059999999
-  },
-  {
     "UniqueId": 54775,
     "Timestamp": "2026-08-27 10:21",
     "IncidentType": "Police activity",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762270/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 54884,
+    "Timestamp": "2026-08-28 10:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Peace Way",
+    "Relationship": "after",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:05 AM, Aug 28 2026 Crash on EB Peace Way\u00A0after Fort Apache Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762306/attachment_0.png",
+    "Latitude": 36.1074786,
+    "Longitude": -115.29715899999999
   }
 ]
