@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54791,
-    "Timestamp": "2026-08-27 13:07",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Update: Craig Rd is now open EB and WB.",
-    "Notes": "1:07 PM, Aug 27 2026 Police activity on WB Craig Rd\u00A0at I-15. Update: Craig Rd is now open EB and WB.",
-    "ImagePath": "",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
     "UniqueId": 54794,
     "Timestamp": "2026-08-27 13:27",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762711/attachment_0.jpg",
     "Latitude": 36.180861052200697,
     "Longitude": -115.16088006783248
+  },
+  {
+    "UniqueId": 54898,
+    "Timestamp": "2026-08-28 13:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:07 PM, Aug 28 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762714/attachment_0.jpg",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 54899,
+    "Timestamp": "2026-08-28 13:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "South Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:09 PM, Aug 28 2026 Stalled vehicle on SB I-11\u00A0at South Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762718/attachment_0.png",
+    "Latitude": 36.175301233937589,
+    "Longitude": -115.17409268502011
   }
 ]
