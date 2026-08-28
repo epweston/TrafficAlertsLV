@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54789,
-    "Timestamp": "2026-08-27 13:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:05 PM, Aug 27 2026 Crash on NB Eastern Ave\u00A0before Karen Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761146/attachment_0.png",
-    "Latitude": 36.140701499999999,
-    "Longitude": -115.11871669999999
-  },
-  {
     "UniqueId": 54791,
     "Timestamp": "2026-08-27 13:07",
     "IncidentType": "Police activity",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762707/attachment_0.png",
     "Latitude": 36.025615794939291,
     "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 54897,
+    "Timestamp": "2026-08-28 13:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:03 PM, Aug 28 2026 Crash on NB Martin L King Blvd\u00A0at Washington Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762711/attachment_0.jpg",
+    "Latitude": 36.180861052200697,
+    "Longitude": -115.16088006783248
   }
 ]
