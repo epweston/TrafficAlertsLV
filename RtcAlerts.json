@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54760,
-    "Timestamp": "2026-08-27 00:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Alta Dr",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:30 AM, Aug 27 2026 Crash on WB Alta Dr\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760176/attachment_0.png",
-    "Latitude": 36.1663827,
-    "Longitude": -115.2237853
-  },
-  {
     "UniqueId": 54761,
     "Timestamp": "2026-08-27 04:06",
     "IncidentType": "Crash",
@@ -1076,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761581/attachment_0.png",
     "Latitude": 36.181196800000002,
     "Longitude": -115.2424195
+  },
+  {
+    "UniqueId": 54841,
+    "Timestamp": "2026-08-28 02:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd North",
+    "Relationship": "after",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:32 AM, Aug 28 2026 Stalled vehicle on SB Las Vegas Blvd North\u00A0after Bonanza Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761641/attachment_0.png",
+    "Latitude": 36.174945000000001,
+    "Longitude": -115.1371793
   }
 ]
