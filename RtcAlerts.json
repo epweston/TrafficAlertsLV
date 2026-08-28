@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54787,
-    "Timestamp": "2026-08-27 12:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:53 PM, Aug 27 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761148/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 54789,
     "Timestamp": "2026-08-27 13:05",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762663/attachment_0.png",
     "Latitude": 36.239773575501886,
     "Longitude": -115.11682743770037
+  },
+  {
+    "UniqueId": 54896,
+    "Timestamp": "2026-08-28 12:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "12:59 PM, Aug 28 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762707/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
   }
 ]
