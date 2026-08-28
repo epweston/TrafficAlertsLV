@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54803,
-    "Timestamp": "2026-08-27 15:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "I-11 NB Remains CLOSED at Horizon DR. Use other routes",
-    "Notes": "3:25 PM, Aug 27 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. I-11 NB Remains CLOSED at Horizon DR. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 54804,
     "Timestamp": "2026-08-27 15:48",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762899/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 54917,
+    "Timestamp": "2026-08-28 15:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:20 PM, Aug 28 2026 Crash on SB Frank Sinatra Dr\u00A0before Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762901/attachment_0.png",
+    "Latitude": 36.086073599999999,
+    "Longitude": -115.1757181
+  },
+  {
+    "UniqueId": 54918,
+    "Timestamp": "2026-08-28 15:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Patrick Ln",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:22 PM, Aug 28 2026 Crash on NB Pecos Rd\u00A0at Patrick Ln. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762904/attachment_0.jpg",
+    "Latitude": 36.079141100000001,
+    "Longitude": -115.10103530000001
   }
 ]
