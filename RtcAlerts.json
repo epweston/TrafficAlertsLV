@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54761,
-    "Timestamp": "2026-08-27 04:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:06 AM, Aug 27 2026 Crash on NB I-15\u00A0to Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 54762,
-    "Timestamp": "2026-08-27 04:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:06 AM, Aug 27 2026 Crash on NB I-15\u00A0to Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760239/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 54763,
-    "Timestamp": "2026-08-27 04:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:08 AM, Aug 27 2026 Stalled vehicle on SB I-15\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760252/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 54764,
     "Timestamp": "2026-08-27 04:47",
     "IncidentType": "Police activity",
@@ -1104,5 +1062,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761621/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 54844,
+    "Timestamp": "2026-08-28 04:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:09 AM, Aug 28 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761624/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 54845,
+    "Timestamp": "2026-08-28 04:12",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropical Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Castleberry Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:12 AM, Aug 28 2026 Crash on WB Tropical Pkwy\u00A0at Castleberry Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761667/attachment_0.jpg",
+    "Latitude": 36.269579700000001,
+    "Longitude": -115.0501459
   }
 ]
