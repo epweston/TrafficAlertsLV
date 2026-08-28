@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54732,
-    "Timestamp": "2026-08-26 17:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:59 PM, Aug 26 2026 Crash on NB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760073/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 54733,
-    "Timestamp": "2026-08-26 18:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:01 PM, Aug 26 2026 Crash on WB 215 Southern Beltway\u00A0before Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760098/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 54734,
-    "Timestamp": "2026-08-26 18:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:01 PM, Aug 26 2026 Crash on NB I-11\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760099/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 54736,
     "Timestamp": "2026-08-26 18:05",
     "IncidentType": "Crash",
@@ -1202,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761504/attachment_0.png",
     "Latitude": 36.114769000000003,
     "Longitude": -115.1463734
+  },
+  {
+    "UniqueId": 54823,
+    "Timestamp": "2026-08-27 18:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:00 PM, Aug 27 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761530/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
