@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54767,
-    "Timestamp": "2026-08-27 07:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:31 AM, Aug 27 2026 Crash on NB I-15\u00A0from Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760507/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 54768,
-    "Timestamp": "2026-08-27 07:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Nb Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Expect Delays",
-    "Notes": "7:33 AM, Aug 27 2026 Crash on EB - NB Cheyenne Ave\u00A0at Durango Dr. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.218685299999997,
-    "Longitude": -115.2788607
-  },
-  {
     "UniqueId": 54769,
     "Timestamp": "2026-08-27 07:57",
     "IncidentType": "Crash",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761931/attachment_0.png",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 54865,
+    "Timestamp": "2026-08-28 07:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jerry Tarkanian Way",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:34 AM, Aug 28 2026 Crash on SB Jerry Tarkanian Way\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761934/attachment_0.png",
+    "Latitude": 36.100124800000003,
+    "Longitude": -115.2946044
   }
 ]
