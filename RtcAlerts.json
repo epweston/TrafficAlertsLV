@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54779,
-    "Timestamp": "2026-08-27 11:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:23 AM, Aug 27 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760926/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 54780,
     "Timestamp": "2026-08-27 11:46",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762513/attachment_0.png",
     "Latitude": 36.2175218,
     "Longitude": -115.2340112
+  },
+  {
+    "UniqueId": 54890,
+    "Timestamp": "2026-08-28 11:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:26 AM, Aug 28 2026 Crash on SB Buffalo Dr\u00A0at Alexander Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762561/attachment_0.jpg",
+    "Latitude": 36.233121500000003,
+    "Longitude": -115.2606383
   }
 ]
