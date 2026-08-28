@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54765,
-    "Timestamp": "2026-08-27 05:35",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "5:35 AM, Aug 27 2026 Police activity on WB Tropicana Ave\u00A0before I-15. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3760331/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 54766,
     "Timestamp": "2026-08-27 06:26",
     "IncidentType": "Crash",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761718/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 54854,
+    "Timestamp": "2026-08-28 05:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:34 AM, Aug 28 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after Pecos Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761750/attachment_0.png",
+    "Latitude": 36.289687579999999,
+    "Longitude": -115.09891034
+  },
+  {
+    "UniqueId": 54855,
+    "Timestamp": "2026-08-28 05:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:35 AM, Aug 28 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after Pecos Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761724/attachment_0.png",
+    "Latitude": 36.289687579999999,
+    "Longitude": -115.09891034
   }
 ]
