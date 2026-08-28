@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54723,
-    "Timestamp": "2026-08-26 16:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Richfield Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:59 PM, Aug 26 2026 Crash on EB Sahara Ave\u00A0at Richfield Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760057/attachment_0.png",
-    "Latitude": 36.144454899999999,
-    "Longitude": -115.1820584
-  },
-  {
-    "UniqueId": 54724,
-    "Timestamp": "2026-08-26 17:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "5:04 PM, Aug 26 2026 Crash on NB Eastern Ave\u00A0before Russell Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760061/attachment_0.jpg",
-    "Latitude": 36.086265099999999,
-    "Longitude": -115.11888639999999
-  },
-  {
-    "UniqueId": 54725,
-    "Timestamp": "2026-08-26 17:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:04 PM, Aug 26 2026 Crash on EB Cheyenne Ave\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760044/attachment_0.png",
-    "Latitude": 36.216817199792388,
-    "Longitude": -115.22581636695935
-  },
-  {
     "UniqueId": 54727,
     "Timestamp": "2026-08-26 17:26",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761434/attachment_0.jpg",
     "Latitude": 36.203503900000001,
     "Longitude": -115.2607019
+  },
+  {
+    "UniqueId": 54816,
+    "Timestamp": "2026-08-27 17:08",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:08 PM, Aug 27 2026 Crash on NB I-15\u00A0after Silverado Ranch Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761468/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
