@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 54755,
-    "Timestamp": "2026-08-26 22:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 13",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:28 PM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0after Mile 13. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760144/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 54756,
-    "Timestamp": "2026-08-26 22:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:33 PM, Aug 26 2026 Crash on SB I-15 onramp from Flamingo Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760153/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 54757,
-    "Timestamp": "2026-08-26 23:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Anasazi Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:31 PM, Aug 26 2026 Crash on EB Summerlin Pkwy\u00A0at Anasazi Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760156/attachment_0.png",
-    "Latitude": 36.193165999999998,
-    "Longitude": -115.32371600000001
-  },
-  {
-    "UniqueId": 54758,
-    "Timestamp": "2026-08-26 23:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:35 PM, Aug 26 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760158/attachment_0.png",
-    "Latitude": 36.078835617458502,
-    "Longitude": -115.18136633150022
-  },
-  {
-    "UniqueId": 54759,
-    "Timestamp": "2026-08-26 23:38",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Fifth St All Lanes Are",
-    "Impact": "",
-    "Notes": "11:38 PM, Aug 26 2026 Crash on EB Craig Rd\u00A0at Fifth St. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760160/attachment_0.jpg",
-    "Latitude": 36.2397049,
-    "Longitude": -115.13429979999999
-  },
-  {
     "UniqueId": 54760,
     "Timestamp": "2026-08-27 00:30",
     "IncidentType": "Crash",
@@ -1132,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761575/attachment_0.png",
     "Latitude": 36.134497699999997,
     "Longitude": -115.1632906
+  },
+  {
+    "UniqueId": 54840,
+    "Timestamp": "2026-08-28 00:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:11 AM, Aug 28 2026 Crash on WB Washington Ave\u00A0after Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761581/attachment_0.png",
+    "Latitude": 36.181196800000002,
+    "Longitude": -115.2424195
   }
 ]
