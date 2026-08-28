@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54751,
-    "Timestamp": "2026-08-26 21:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked Center lane blocked.",
-    "Notes": "9:27 PM, Aug 26 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Left lane blocked Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760126/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
-    "UniqueId": 54752,
-    "Timestamp": "2026-08-26 21:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:29 PM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760141/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 54753,
-    "Timestamp": "2026-08-26 21:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:56 PM, Aug 26 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760148/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 54754,
-    "Timestamp": "2026-08-26 22:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:20 PM, Aug 26 2026 Crash on EB Tropicana Ave\u00A0at I-15 on ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760151/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 54755,
     "Timestamp": "2026-08-26 22:28",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761592/attachment_0.png",
     "Latitude": 36.100781423246033,
     "Longitude": -115.17291721759118
+  },
+  {
+    "UniqueId": 54839,
+    "Timestamp": "2026-08-27 22:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Resorts World Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:22 PM, Aug 27 2026 Crash on NB Las Vegas Blvd\u00A0at Resorts World Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761575/attachment_0.png",
+    "Latitude": 36.134497699999997,
+    "Longitude": -115.1632906
   }
 ]
