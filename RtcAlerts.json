@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54794,
-    "Timestamp": "2026-08-27 13:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "I-11 NB is CLOSED at Horizon Dr. Use other routes.",
-    "Notes": "1:27 PM, Aug 27 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. I-11 NB is CLOSED at Horizon Dr. Use other routes.",
-    "ImagePath": "",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 54795,
     "Timestamp": "2026-08-27 13:44",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762718/attachment_0.png",
     "Latitude": 36.175301233937589,
     "Longitude": -115.17409268502011
+  },
+  {
+    "UniqueId": 54900,
+    "Timestamp": "2026-08-28 13:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:25 PM, Aug 28 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762731/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
