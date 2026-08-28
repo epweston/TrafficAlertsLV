@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54786,
-    "Timestamp": "2026-08-27 12:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:31 PM, Aug 27 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761111/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 54787,
     "Timestamp": "2026-08-27 12:53",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762618/attachment_0.png",
     "Latitude": 36.057119499999999,
     "Longitude": -115.1002486
+  },
+  {
+    "UniqueId": 54894,
+    "Timestamp": "2026-08-28 12:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:32 PM, Aug 28 2026 Crash on WB Blue Diamond Rd\u00A0at Fort Apache Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762660/attachment_0.png",
+    "Latitude": 36.020455227926654,
+    "Longitude": -115.29789270648386
   }
 ]
