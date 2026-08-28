@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54737,
-    "Timestamp": "2026-08-26 18:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "",
-    "Notes": "6:14 PM, Aug 26 2026 Stalled vehicle on SB I-15\u00A0at Cactus Ave on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/26/file_attachments/3760102/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
     "UniqueId": 54738,
     "Timestamp": "2026-08-26 18:24",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761549/attachment_0.png",
     "Latitude": 36.070283500000002,
     "Longitude": -115.2977282
+  },
+  {
+    "UniqueId": 54825,
+    "Timestamp": "2026-08-27 18:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:14 PM, Aug 27 2026 Crash on SB Decatur Blvd\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761535/attachment_0.png",
+    "Latitude": 36.269200300000001,
+    "Longitude": -115.2071053
   }
 ]
