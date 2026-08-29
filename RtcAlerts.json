@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54816,
-    "Timestamp": "2026-08-27 17:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:08 PM, Aug 27 2026 Crash on NB I-15\u00A0after Silverado Ranch Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761468/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 54817,
     "Timestamp": "2026-08-27 17:12",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762993/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 54934,
+    "Timestamp": "2026-08-28 17:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Annie Oakley Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:06 PM, Aug 28 2026 Crash on EB Sunset Rd\u00A0before Annie Oakley Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762996/attachment_0.jpg",
+    "Latitude": 36.071122799999998,
+    "Longitude": -115.0870973
   }
 ]
