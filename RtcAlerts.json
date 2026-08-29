@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54879,
-    "Timestamp": "2026-08-28 09:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:10 AM, Aug 28 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762187/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 54880,
     "Timestamp": "2026-08-28 09:26",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763179/attachment_0.png",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 54998,
+    "Timestamp": "2026-08-29 09:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:09 AM, Aug 29 2026 Crash on SB I-11\u00A0at Rainbow Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763184/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
