@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54901,
-    "Timestamp": "2026-08-28 13:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:37 PM, Aug 28 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762768/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
-    "UniqueId": 54902,
-    "Timestamp": "2026-08-28 14:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:02 PM, Aug 28 2026 Crash on WB 215 Northern Beltway\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762800/attachment_0.jpg",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 54903,
     "Timestamp": "2026-08-28 14:10",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763257/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 55012,
+    "Timestamp": "2026-08-29 14:01",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Honolulu St",
+    "Impact": "",
+    "Notes": "2:01 PM, Aug 29 2026 Crash on EB Charleston Blvd\u00A0before Honolulu St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763239/attachment_0.png",
+    "Latitude": 36.158926000000001,
+    "Longitude": -115.0935965
   }
 ]
