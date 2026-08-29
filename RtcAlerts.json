@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54819,
-    "Timestamp": "2026-08-27 17:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:19 PM, Aug 27 2026 Crash on SB Nellis Blvd\u00A0after Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761486/attachment_0.png",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
-    "UniqueId": 54820,
-    "Timestamp": "2026-08-27 17:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Industrial Rd",
-    "Impact": "Multiple lanes blocked. Expect Delays",
-    "Notes": "5:21 PM, Aug 27 2026 Crash on EB Charleston Blvd\u00A0at Industrial Rd. Multiple lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761508/attachment_0.jpg",
-    "Latitude": 36.158865800000001,
-    "Longitude": -115.1586595
-  },
-  {
     "UniqueId": 54821,
     "Timestamp": "2026-08-27 17:45",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762999/attachment_0.png",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 54937,
+    "Timestamp": "2026-08-28 17:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder",
+    "Notes": "5:17 PM, Aug 28 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763001/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
