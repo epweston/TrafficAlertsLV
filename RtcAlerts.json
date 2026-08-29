@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54929,
-    "Timestamp": "2026-08-28 16:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "D St",
-    "Impact": "",
-    "Notes": "4:40 PM, Aug 28 2026 Stalled vehicle on NB I-15\u00A0before D St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762970/attachment_0.png",
-    "Latitude": 36.185989499999998,
-    "Longitude": -115.14714119999999
-  },
-  {
-    "UniqueId": 54930,
-    "Timestamp": "2026-08-28 16:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:41 PM, Aug 28 2026 Stalled vehicle on NB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762972/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 54931,
     "Timestamp": "2026-08-28 16:55",
     "IncidentType": "Crash",
@@ -1356,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763279/attachment_0.jpg",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 55030,
+    "Timestamp": "2026-08-29 16:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:43 PM, Aug 29 2026 Stalled vehicle on NB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763294/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
