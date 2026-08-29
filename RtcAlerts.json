@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 54861,
-    "Timestamp": "2026-08-28 07:12",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "5 Right lanes blocked.",
-    "Notes": "7:12 AM, Aug 28 2026 Crash on WB Tropicana Ave\u00A0at I-15. 5 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761881/attachment_0.jpg",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
-    "UniqueId": 54862,
-    "Timestamp": "2026-08-28 07:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "7:20 AM, Aug 28 2026 Crash on SB I-11\u00A0at Sunset Rd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761886/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 54863,
-    "Timestamp": "2026-08-28 07:22",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "Torrey Pines Dr",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "7:22 AM, Aug 28 2026 Other on NB Torrey Pines Dr\u00A0before Charleston Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761928/attachment_0.png",
-    "Latitude": 36.159086599999988,
-    "Longitude": -115.2347213
-  },
-  {
-    "UniqueId": 54864,
-    "Timestamp": "2026-08-28 07:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:26 AM, Aug 28 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761931/attachment_0.png",
-    "Latitude": 36.144563512522332,
-    "Longitude": -115.33671498298646
-  },
-  {
-    "UniqueId": 54865,
-    "Timestamp": "2026-08-28 07:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jerry Tarkanian Way",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:34 AM, Aug 28 2026 Crash on SB Jerry Tarkanian Way\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3761934/attachment_0.png",
-    "Latitude": 36.100124800000003,
-    "Longitude": -115.2946044
-  },
-  {
     "UniqueId": 54866,
     "Timestamp": "2026-08-28 07:51",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763158/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 54992,
+    "Timestamp": "2026-08-29 07:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:33 AM, Aug 29 2026 Crash on NB I-15\u00A0after Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763173/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
