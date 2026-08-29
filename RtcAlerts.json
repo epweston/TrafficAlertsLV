@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54821,
-    "Timestamp": "2026-08-27 17:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:45 PM, Aug 27 2026 Stalled vehicle on SB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761524/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 54822,
-    "Timestamp": "2026-08-27 17:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:50 PM, Aug 27 2026 Crash on SB University Center Dr\u00A0before Flamingo Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/27/file_attachments/3761504/attachment_0.png",
-    "Latitude": 36.114769000000003,
-    "Longitude": -115.1463734
-  },
-  {
     "UniqueId": 54823,
     "Timestamp": "2026-08-27 18:00",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1650,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762980/attachment_0.png",
     "Latitude": 36.217590399999999,
     "Longitude": -115.0986585
+  },
+  {
+    "UniqueId": 54941,
+    "Timestamp": "2026-08-28 17:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Upland Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:54 PM, Aug 28 2026 Crash on WB Charleston Blvd\u00A0before Upland Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762981/attachment_0.png",
+    "Latitude": 36.159110099999999,
+    "Longitude": -115.2193872
+  },
+  {
+    "UniqueId": 54942,
+    "Timestamp": "2026-08-28 17:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Oso Blanca Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:55 PM, Aug 28 2026 Crash on SB Durango Dr\u00A0before Oso Blanca Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763008/attachment_0.png",
+    "Latitude": 36.295123400000001,
+    "Longitude": -115.2881131
+  },
+  {
+    "UniqueId": 54943,
+    "Timestamp": "2026-08-28 17:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:58 PM, Aug 28 2026 Crash on NB I-15\u00A0before Lake Mead Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762983/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
