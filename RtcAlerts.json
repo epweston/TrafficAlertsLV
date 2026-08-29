@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54908,
-    "Timestamp": "2026-08-28 14:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:47 PM, Aug 28 2026 Crash on SB Jones Blvd\u00A0before Warm Springs Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762854/attachment_0.png",
-    "Latitude": 36.056385120719149,
-    "Longitude": -115.2249747974483
-  },
-  {
-    "UniqueId": 54909,
-    "Timestamp": "2026-08-28 14:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:49 PM, Aug 28 2026 Crash on WB Blue Diamond Rd\u00A0at Fort Apache Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762841/attachment_0.png",
-    "Latitude": 36.020455227926654,
-    "Longitude": -115.29789270648386
-  },
-  {
-    "UniqueId": 54910,
-    "Timestamp": "2026-08-28 14:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 11",
-    "Impact": "Right shoulder.",
-    "Notes": "2:50 PM, Aug 28 2026 Stalled vehicle on SB I-11\u00A0at Mile 11. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762857/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 54911,
     "Timestamp": "2026-08-28 14:52",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1468,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763243/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 55016,
+    "Timestamp": "2026-08-29 14:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "2:46 PM, Aug 29 2026 Crash on SB 215 Southern Beltway\u00A0before I-15. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763266/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 55017,
+    "Timestamp": "2026-08-29 14:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:48 PM, Aug 29 2026 Crash on EB Blue Diamond Rd\u00A0at Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763268/attachment_0.png",
+    "Latitude": 36.040631599999998,
+    "Longitude": -115.19019710000001
+  },
+  {
+    "UniqueId": 55018,
+    "Timestamp": "2026-08-29 14:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:49 PM, Aug 29 2026 Stalled vehicle on SB Martin L King Blvd\u00A0before Bonanza Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763269/attachment_0.jpg",
+    "Latitude": 36.177173199999999,
+    "Longitude": -115.1609081
   }
 ]
