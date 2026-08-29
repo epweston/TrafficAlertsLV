@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54891,
-    "Timestamp": "2026-08-28 11:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "E",
-    "Impact": "Carson Ave. Left lane blocked.",
-    "Notes": "11:40 AM, Aug 28 2026 Crash on NB Maryland Pkwy\u00A0at E. Carson Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762586/attachment_0.png",
-    "Latitude": 36.088847700000002,
-    "Longitude": -115.1368185
-  },
-  {
     "UniqueId": 54892,
     "Timestamp": "2026-08-28 11:59",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763227/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 55003,
+    "Timestamp": "2026-08-29 11:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:51 AM, Aug 29 2026 Crash on SB Martin L King Blvd\u00A0before Bonanza Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763229/attachment_0.png",
+    "Latitude": 36.177173199999999,
+    "Longitude": -115.1609081
   }
 ]
