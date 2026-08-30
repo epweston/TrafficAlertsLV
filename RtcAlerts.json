@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54976,
-    "Timestamp": "2026-08-28 23:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:00 PM, Aug 28 2026 Stalled vehicle on NB I-15 \u00A0after Charleston Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763095/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 54977,
     "Timestamp": "2026-08-28 23:17",
     "IncidentType": "Crash",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763344/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 55060,
+    "Timestamp": "2026-08-29 23:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Hotel Rio Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:04 PM, Aug 29 2026 Crash on EB Flamingo Rd\u00A0before Hotel Rio Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763345/attachment_0.jpg",
+    "Latitude": 36.115285299999996,
+    "Longitude": -115.18716740000001
   }
 ]
