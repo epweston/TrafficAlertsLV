@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55003,
-    "Timestamp": "2026-08-29 11:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:51 AM, Aug 29 2026 Crash on SB Martin L King Blvd\u00A0before Bonanza Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763229/attachment_0.png",
-    "Latitude": 36.177173199999999,
-    "Longitude": -115.1609081
-  },
-  {
     "UniqueId": 55004,
     "Timestamp": "2026-08-29 11:53",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763501/attachment_0.png",
     "Latitude": 36.100703197714246,
     "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 55112,
+    "Timestamp": "2026-08-30 11:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:49 AM, Aug 30 2026 Crash on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763528/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
