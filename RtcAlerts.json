@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54973,
-    "Timestamp": "2026-08-28 22:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "10:47 PM, Aug 28 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd off-ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763092/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 54974,
-    "Timestamp": "2026-08-28 22:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder.",
-    "Notes": "10:50 PM, Aug 28 2026 Crash on NB 215 Western Beltway\u00A0after Cheyenne Ave. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763080/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
-    "UniqueId": 54975,
-    "Timestamp": "2026-08-28 22:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:51 PM, Aug 28 2026 Crash on NB 215 Western Beltway\u00A0before Lone Mountain Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763081/attachment_0.png",
-    "Latitude": 36.247864105361664,
-    "Longitude": -115.3179235052795
-  },
-  {
     "UniqueId": 54976,
     "Timestamp": "2026-08-28 23:00",
     "IncidentType": "Stalled vehicle",
@@ -1146,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763342/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55059,
+    "Timestamp": "2026-08-29 22:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder",
+    "Notes": "10:53 PM, Aug 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Gibson Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763344/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
