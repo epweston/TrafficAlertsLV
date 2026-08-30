@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54940,
-    "Timestamp": "2026-08-28 17:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:39 PM, Aug 28 2026 Crash on SB Pecos Rd\u00A0after Cheyenne Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762980/attachment_0.png",
-    "Latitude": 36.217590399999999,
-    "Longitude": -115.0986585
-  },
-  {
     "UniqueId": 54941,
     "Timestamp": "2026-08-28 17:54",
     "IncidentType": "Crash",
@@ -1300,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763306/attachment_0.png",
     "Latitude": 36.261508127735802,
     "Longitude": -115.32678022210708
+  },
+  {
+    "UniqueId": 55037,
+    "Timestamp": "2026-08-29 17:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder",
+    "Notes": "5:44 PM, Aug 29 2026 Stalled vehicle on NB I-15\u00A0before Jean (Mile 12). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763299/attachment_0.png",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 55038,
+    "Timestamp": "2026-08-29 17:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder",
+    "Notes": "5:46 PM, Aug 29 2026 Stalled vehicle on NB I-15\u00A0after Jean (at Mile 14). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763308/attachment_0.png",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
   }
 ]
