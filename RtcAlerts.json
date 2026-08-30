@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54977,
-    "Timestamp": "2026-08-28 23:17",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:17 PM, Aug 28 2026 Crash on EB Desert Inn Rd\u00A0at Lamb Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763096/attachment_0.png",
-    "Latitude": 36.129557400000003,
-    "Longitude": -115.08615519999999
-  },
-  {
-    "UniqueId": 54978,
-    "Timestamp": "2026-08-28 23:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Mesquite Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:22 PM, Aug 28 2026 Stalled vehicle on SB Rancho Dr\u00A0before Mesquite Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763083/attachment_0.png",
-    "Latitude": 36.173445200000003,
-    "Longitude": -115.17332759999999
-  },
-  {
     "UniqueId": 54979,
     "Timestamp": "2026-08-29 00:10",
     "IncidentType": "Crash",
@@ -1118,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763345/attachment_0.jpg",
     "Latitude": 36.115285299999996,
     "Longitude": -115.18716740000001
+  },
+  {
+    "UniqueId": 55061,
+    "Timestamp": "2026-08-29 23:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Linq Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:41 PM, Aug 29 2026 Crash on EB Flamingo Rd\u00A0after Linq Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763350/attachment_0.jpg",
+    "Latitude": 36.114661499999997,
+    "Longitude": -115.1679224
   }
 ]
