@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54983,
-    "Timestamp": "2026-08-29 00:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:52 AM, Aug 29 2026 Crash on NB Jones Blvd\u00A0after I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763085/attachment_0.png",
-    "Latitude": 36.174089876760839,
-    "Longitude": -115.22410077507317
-  },
-  {
     "UniqueId": 54984,
     "Timestamp": "2026-08-29 01:44",
     "IncidentType": "Crash",
@@ -1146,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763371/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 55069,
+    "Timestamp": "2026-08-30 00:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "12:48 AM, Aug 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763373/attachment_0.jpg",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 55070,
+    "Timestamp": "2026-08-30 00:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Koval Ln",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "All northbound lanes are blocked.",
+    "Notes": "12:50 AM, Aug 30 2026 Crash on NB Koval Ln\u00A0at Harmon Ave. All northbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763359/attachment_0.png",
+    "Latitude": 36.108015126538987,
+    "Longitude": -115.16397534437647
   }
 ]
