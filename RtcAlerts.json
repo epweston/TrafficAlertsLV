@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54941,
-    "Timestamp": "2026-08-28 17:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Upland Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:54 PM, Aug 28 2026 Crash on WB Charleston Blvd\u00A0before Upland Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762981/attachment_0.png",
-    "Latitude": 36.159110099999999,
-    "Longitude": -115.2193872
-  },
-  {
-    "UniqueId": 54942,
-    "Timestamp": "2026-08-28 17:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Oso Blanca Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:55 PM, Aug 28 2026 Crash on SB Durango Dr\u00A0before Oso Blanca Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763008/attachment_0.png",
-    "Latitude": 36.295123400000001,
-    "Longitude": -115.2881131
-  },
-  {
-    "UniqueId": 54943,
-    "Timestamp": "2026-08-28 17:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:58 PM, Aug 28 2026 Crash on NB I-15\u00A0before Lake Mead Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3762983/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 54944,
     "Timestamp": "2026-08-28 18:21",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763308/attachment_0.png",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 55039,
+    "Timestamp": "2026-08-29 18:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:08 PM, Aug 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763302/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
   }
 ]
