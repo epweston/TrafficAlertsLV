@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54988,
-    "Timestamp": "2026-08-29 03:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:35 AM, Aug 29 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Green Valley Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763131/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 54989,
     "Timestamp": "2026-08-29 05:28",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "",
     "Latitude": 36.1145158070983,
     "Longitude": -115.24298784914768
+  },
+  {
+    "UniqueId": 55085,
+    "Timestamp": "2026-08-30 03:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Karen Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:30 AM, Aug 30 2026 Crash on SB Paradise Rd\u00A0at Karen Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763406/attachment_0.png",
+    "Latitude": 36.1401976,
+    "Longitude": -115.15489270000001
   }
 ]
