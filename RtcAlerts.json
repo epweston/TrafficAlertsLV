@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54939,
-    "Timestamp": "2026-08-28 17:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:30 PM, Aug 28 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763005/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 54940,
     "Timestamp": "2026-08-28 17:39",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763284/attachment_0.jpg",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 55035,
+    "Timestamp": "2026-08-29 17:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Mel Torme Way",
+    "Relationship": "at",
+    "CrossStreet": "Sammy Davis Junior Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:31 PM, Aug 29 2026 Crash on EB Mel Torme Way\u00A0at Sammy Davis Junior Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.126531923644521,
+    "Longitude": -115.17627596855165
   }
 ]
