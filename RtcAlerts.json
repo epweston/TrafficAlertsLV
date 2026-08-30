@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 54971,
-    "Timestamp": "2026-08-28 22:31",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder",
-    "Notes": "10:31 PM, Aug 28 2026 Police activity on SB I-15 Collector Distributor\u00A0before Russell Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763089/attachment_0.png",
-    "Latitude": 36.078835617458502,
-    "Longitude": -115.18136633150022
-  },
-  {
-    "UniqueId": 54972,
-    "Timestamp": "2026-08-28 22:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-15",
-    "Impact": "",
-    "Notes": "10:34 PM, Aug 28 2026 Crash on WB 215 Southern Beltway\u00A0to SB I-15 ramp,\u00A0 Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763091/attachment_0.png",
-    "Latitude": 36.162990899999997,
-    "Longitude": -115.1604596
-  },
-  {
     "UniqueId": 54973,
     "Timestamp": "2026-08-28 22:47",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763347/attachment_0.jpg",
     "Latitude": 36.143392899999988,
     "Longitude": -115.1908553
+  },
+  {
+    "UniqueId": 55058,
+    "Timestamp": "2026-08-29 22:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:32 PM, Aug 29 2026 Crash on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763342/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
