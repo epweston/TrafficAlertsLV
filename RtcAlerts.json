@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54992,
-    "Timestamp": "2026-08-29 07:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:33 AM, Aug 29 2026 Crash on NB I-15\u00A0after Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763173/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 54993,
     "Timestamp": "2026-08-29 08:13",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763448/attachment_0.jpg",
     "Latitude": 36.158865800000001,
     "Longitude": -115.1586595
+  },
+  {
+    "UniqueId": 55102,
+    "Timestamp": "2026-08-30 07:45",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "7:45 AM, Aug 30 2026 Crash on NB I-11\u00A0before Rainbow Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763455/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
