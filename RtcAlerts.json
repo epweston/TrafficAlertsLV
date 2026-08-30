@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54952,
-    "Timestamp": "2026-08-28 19:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:32 PM, Aug 28 2026 Crash on EB Flamingo Rd\u00A0after Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763046/attachment_0.png",
-    "Latitude": 36.114871200000003,
-    "Longitude": -115.0647175
-  },
-  {
-    "UniqueId": 54953,
-    "Timestamp": "2026-08-28 19:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:32 PM, Aug 28 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763047/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 54954,
-    "Timestamp": "2026-08-28 19:34",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:34 PM, Aug 28 2026 Police activity on WB Sahara Ave\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763041/attachment_0.png",
-    "Latitude": 36.144533188965404,
-    "Longitude": -115.20814061164857
-  },
-  {
     "UniqueId": 54955,
     "Timestamp": "2026-08-28 19:57",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763316/attachment_0.png",
     "Latitude": 36.043447336539366,
     "Longitude": -115.18079292179071
+  },
+  {
+    "UniqueId": 55046,
+    "Timestamp": "2026-08-29 19:38",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "All lanes are blocked.",
+    "Notes": "7:38 PM, Aug 29 2026 Police activity on WB Charleston Blvd\u00A0before Torrey Pines Dr. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763328/attachment_0.png",
+    "Latitude": 36.159086599999988,
+    "Longitude": -115.2347213
   }
 ]
