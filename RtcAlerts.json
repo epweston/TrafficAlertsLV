@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55019,
-    "Timestamp": "2026-08-29 15:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "El Capitan Way",
-    "Relationship": "at",
-    "CrossStreet": "Gowan Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:03 PM, Aug 29 2026 Crash on SB El Capitan Way\u00A0at Gowan Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763286/attachment_0.png",
-    "Latitude": 36.226157700000002,
-    "Longitude": -115.2881888
-  },
-  {
     "UniqueId": 55020,
     "Timestamp": "2026-08-29 15:41",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763562/attachment_0.png",
     "Latitude": 36.049756199999997,
     "Longitude": -115.20787060000001
+  },
+  {
+    "UniqueId": 55125,
+    "Timestamp": "2026-08-30 15:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:10 PM, Aug 30 2026 Crash on WB Tropicana Ave\u00A0before Koval Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763565/attachment_0.png",
+    "Latitude": 36.100859441550384,
+    "Longitude": -115.16388414057163
+  },
+  {
+    "UniqueId": 55126,
+    "Timestamp": "2026-08-30 15:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "3:11 PM, Aug 30 2026 Crash on EB Cheyenne Ave\u00A0before Tenaya Way. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763586/attachment_0.png",
+    "Latitude": 36.218215105055222,
+    "Longitude": -115.25137245445325
   }
 ]
