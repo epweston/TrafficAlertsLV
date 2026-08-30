@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 54993,
-    "Timestamp": "2026-08-29 08:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Convention Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:13 AM, Aug 29 2026 Crash on NB Paradise Rd\u00A0at Convention Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763175/attachment_0.png",
-    "Latitude": 36.132214300000001,
-    "Longitude": -115.1548964
-  },
-  {
-    "UniqueId": 54994,
-    "Timestamp": "2026-08-29 08:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:23 AM, Aug 29 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763177/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 54995,
-    "Timestamp": "2026-08-29 08:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:41 AM, Aug 29 2026 Crash on EB Flamingo Rd\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763165/attachment_0.png",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
-    "UniqueId": 54996,
-    "Timestamp": "2026-08-29 08:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:43 AM, Aug 29 2026 Crash on WB Cheyenne Ave\u00A0at Torrey Pines Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763187/attachment_0.png",
-    "Latitude": 36.217444759799662,
-    "Longitude": -115.23409366607666
-  },
-  {
     "UniqueId": 54997,
     "Timestamp": "2026-08-29 08:45",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763438/attachment_0.png",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 55104,
+    "Timestamp": "2026-08-30 08:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 24",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:38 AM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0after Mile 24. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763460/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
