@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54984,
-    "Timestamp": "2026-08-29 01:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Meadows Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:44 AM, Aug 29 2026 Crash on NB Decatur Blvd\u00A0after Meadows Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763127/attachment_0.png",
-    "Latitude": 36.1701117,
-    "Longitude": -115.2059091
-  },
-  {
     "UniqueId": 54985,
     "Timestamp": "2026-08-29 02:09",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "",
     "Latitude": 36.281605159999998,
     "Longitude": -115.3151178
+  },
+  {
+    "UniqueId": 55075,
+    "Timestamp": "2026-08-30 01:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:50 AM, Aug 30 2026 Crash on NB Lamb Blvd\u00A0at Alexander Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763380/attachment_0.jpg",
+    "Latitude": 36.232644700000009,
+    "Longitude": -115.0801659
+  },
+  {
+    "UniqueId": 55076,
+    "Timestamp": "2026-08-30 01:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Koval Ln",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "All northbound lanes are blocked.",
+    "Notes": "1:53 AM, Aug 30 2026 Crash on NB Koval Ln\u00A0at Harmon Ave. All northbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763381/attachment_0.png",
+    "Latitude": 36.108015126538987,
+    "Longitude": -115.16397534437647
   }
 ]
