@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 54991,
-    "Timestamp": "2026-08-29 06:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:46 AM, Aug 29 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0to I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763158/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 54992,
     "Timestamp": "2026-08-29 07:33",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763446/attachment_0.png",
     "Latitude": 36.502189514814987,
     "Longitude": -114.76155817508699
+  },
+  {
+    "UniqueId": 55101,
+    "Timestamp": "2026-08-30 06:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Intersection partially blocked",
+    "Notes": "6:41 AM, Aug 30 2026 Crash on WB Charleston Blvd\u00A0at Grand Central Pkwy. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763448/attachment_0.jpg",
+    "Latitude": 36.158865800000001,
+    "Longitude": -115.1586595
   }
 ]
