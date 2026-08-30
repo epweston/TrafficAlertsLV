@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 54955,
-    "Timestamp": "2026-08-28 19:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right shoulder.",
-    "Notes": "7:57 PM, Aug 28 2026 Stalled vehicle on NB I-11\u00A0before 215 Western Beltway. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763043/attachment_0.png",
-    "Latitude": 36.277700469999999,
-    "Longitude": -115.2671063
-  },
-  {
-    "UniqueId": 54956,
-    "Timestamp": "2026-08-28 20:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Way",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:12 PM, Aug 28 2026 Crash on EB Roy Horn Way\u00A0before Rainbow Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763051/attachment_0.png",
-    "Latitude": 36.0654945,
-    "Longitude": -115.242318
-  },
-  {
-    "UniqueId": 54957,
-    "Timestamp": "2026-08-28 20:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 3",
-    "Impact": "Right shoulder.",
-    "Notes": "8:25 PM, Aug 28 2026 Crash on NB I-11\u00A0at Mile 3. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/28/file_attachments/3763053/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 54958,
     "Timestamp": "2026-08-28 20:34",
     "IncidentType": "Crash",
@@ -1244,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763318/attachment_0.png",
     "Latitude": 36.159086599999988,
     "Longitude": -115.2347213
+  },
+  {
+    "UniqueId": 55048,
+    "Timestamp": "2026-08-29 20:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:19 PM, Aug 29 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763319/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
