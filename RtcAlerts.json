@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55011,
-    "Timestamp": "2026-08-29 13:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:29 PM, Aug 29 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763257/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 55012,
     "Timestamp": "2026-08-29 14:01",
     "IncidentType": "Crash",
@@ -1452,6 +1438,34 @@
     "Impact": "Multiple lanes blocked Expect Delays Use other routes",
     "Notes": "1:23 PM, Aug 30 2026 Crash on NB I-15\u00A0before Harmon Ave. Multiple lanes blocked Expect Delays Use other routes",
     "ImagePath": "",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 55119,
+    "Timestamp": "2026-08-30 13:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:32 PM, Aug 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763553/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 55120,
+    "Timestamp": "2026-08-30 13:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Left lanes blocked. Expect Delays",
+    "Notes": "1:33 PM, Aug 30 2026 Crash on NB I-15\u00A0before Harmon Ave. Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763568/attachment_0.jpg",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
   }
