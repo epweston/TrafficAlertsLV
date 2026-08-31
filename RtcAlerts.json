@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55100,
-    "Timestamp": "2026-08-30 06:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Valley Of Fire Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:37 AM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0at Valley of Fire Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763446/attachment_0.png",
-    "Latitude": 36.502189514814987,
-    "Longitude": -114.76155817508699
-  },
-  {
-    "UniqueId": 55101,
-    "Timestamp": "2026-08-30 06:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Central Pkwy",
-    "Impact": "Intersection partially blocked",
-    "Notes": "6:41 AM, Aug 30 2026 Crash on WB Charleston Blvd\u00A0at Grand Central Pkwy. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763448/attachment_0.jpg",
-    "Latitude": 36.158865800000001,
-    "Longitude": -115.1586595
-  },
-  {
     "UniqueId": 55102,
     "Timestamp": "2026-08-30 07:45",
     "IncidentType": "Crash",
@@ -1272,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763890/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 55191,
+    "Timestamp": "2026-08-31 06:51",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 21",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:51 AM, Aug 31 2026 Abandoned vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 55192,
+    "Timestamp": "2026-08-31 06:51",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:51 AM, Aug 31 2026 Abandoned vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
