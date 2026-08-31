@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55039,
-    "Timestamp": "2026-08-29 18:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:08 PM, Aug 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763302/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 55040,
     "Timestamp": "2026-08-29 18:37",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763584/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 55134,
+    "Timestamp": "2026-08-30 18:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Primm",
+    "Impact": "",
+    "Notes": "6:07 PM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0before Primm (at Mile 4), Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763585/attachment_0.png",
+    "Latitude": 35.607103427439853,
+    "Longitude": -115.39133563837639
   }
 ]
