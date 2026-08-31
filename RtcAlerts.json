@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55121,
-    "Timestamp": "2026-08-30 14:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:11 PM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0after Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763556/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 55122,
-    "Timestamp": "2026-08-30 14:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:20 PM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763558/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 55123,
-    "Timestamp": "2026-08-30 14:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:22 PM, Aug 30 2026 Crash on NB\u00A0 I-11 to Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763560/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 55124,
-    "Timestamp": "2026-08-30 14:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "2:28 PM, Aug 30 2026 Crash on NB Decatur Blvd\u00A0before Robindale Rd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763562/attachment_0.png",
-    "Latitude": 36.049756199999997,
-    "Longitude": -115.20787060000001
-  },
-  {
     "UniqueId": 55125,
     "Timestamp": "2026-08-30 15:10",
     "IncidentType": "Crash",
@@ -1510,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764855/attachment_0.jpg",
     "Latitude": 36.11485816141586,
     "Longitude": -115.06471217727307
+  },
+  {
+    "UniqueId": 55229,
+    "Timestamp": "2026-08-31 14:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Carey Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:22 PM, Aug 31 2026 Crash on WB Carey Ave\u00A0at Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764888/attachment_0.png",
+    "Latitude": 36.202855100000001,
+    "Longitude": -115.1989426
   }
 ]
