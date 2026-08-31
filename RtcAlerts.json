@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55093,
-    "Timestamp": "2026-08-30 04:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Casino Center Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "",
-    "Notes": "4:29 AM, Aug 30 2026 Crash on SB Casino Center Blvd\u00A0at Fremont St. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.170727100000001,
-    "Longitude": -115.14413140000001
-  },
-  {
     "UniqueId": 55094,
     "Timestamp": "2026-08-30 04:41",
     "IncidentType": "Crash",
@@ -1174,5 +1160,19 @@
     "ImagePath": "",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 55177,
+    "Timestamp": "2026-08-31 04:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:27 AM, Aug 31 2026 Crash on WB Flamingo Rd\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.114680487880882,
+    "Longitude": -115.1728856710384
   }
 ]
