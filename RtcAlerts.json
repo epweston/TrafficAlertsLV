@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55045,
-    "Timestamp": "2026-08-29 19:24",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "7:24 PM, Aug 29 2026 Crash on EB Blue Diamond Rd\u00A0before I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763316/attachment_0.png",
-    "Latitude": 36.043447336539366,
-    "Longitude": -115.18079292179071
-  },
-  {
-    "UniqueId": 55046,
-    "Timestamp": "2026-08-29 19:38",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "All lanes are blocked.",
-    "Notes": "7:38 PM, Aug 29 2026 Police activity on WB Charleston Blvd\u00A0before Torrey Pines Dr. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763328/attachment_0.png",
-    "Latitude": 36.159086599999988,
-    "Longitude": -115.2347213
-  },
-  {
     "UniqueId": 55047,
     "Timestamp": "2026-08-29 19:50",
     "IncidentType": "Update Police activity",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763604/attachment_0.png",
     "Latitude": 36.042806800000001,
     "Longitude": -114.9779056
+  },
+  {
+    "UniqueId": 55139,
+    "Timestamp": "2026-08-30 19:48",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "7:48 PM, Aug 30 2026 Crash on NB Saint Rose Pkwy\u00A0at 215 Southern Beltway. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763631/attachment_0.png",
+    "Latitude": 35.961751371359661,
+    "Longitude": -115.18186569213869
   }
 ]
