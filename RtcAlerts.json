@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55094,
-    "Timestamp": "2026-08-30 04:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:41 AM, Aug 30 2026 Crash on NB I-11\u00A0at Eastern Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763413/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 55095,
-    "Timestamp": "2026-08-30 04:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Main St",
-    "Impact": "",
-    "Notes": "4:43 AM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0before Main St. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.175399899145084,
-    "Longitude": -115.14399336646459
-  },
-  {
     "UniqueId": 55096,
     "Timestamp": "2026-08-30 05:01",
     "IncidentType": "Crash",
@@ -1174,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.114680487880882,
     "Longitude": -115.1728856710384
+  },
+  {
+    "UniqueId": 55178,
+    "Timestamp": "2026-08-31 04:52",
+    "IncidentType": "Hazard",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder debris.",
+    "Notes": "4:52 AM, Aug 31 2026 Hazard on SB I-15\u00A0at Cheyenne Ave. Right shoulder debris.",
+    "ImagePath": "",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
