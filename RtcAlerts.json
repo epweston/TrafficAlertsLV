@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55096,
-    "Timestamp": "2026-08-30 05:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Casino Center Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "",
-    "Notes": "5:01 AM, Aug 30 2026 Crash on SB Casino Center Blvd\u00A0at Fremont St. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.170727100000001,
-    "Longitude": -115.14413140000001
-  },
-  {
     "UniqueId": 55097,
     "Timestamp": "2026-08-30 05:15",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 55179,
+    "Timestamp": "2026-08-31 04:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:57 AM, Aug 31 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763779/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
