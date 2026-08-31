@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55051,
-    "Timestamp": "2026-08-29 21:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:15 PM, Aug 29 2026 Crash on NB Las Vegas Blvd\u00A0at Harmon Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763323/attachment_0.jpg",
-    "Latitude": 36.108816901628572,
-    "Longitude": -115.17299294471742
-  },
-  {
     "UniqueId": 55052,
     "Timestamp": "2026-08-29 21:36",
     "IncidentType": "Police activity",
@@ -1300,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763633/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 55144,
+    "Timestamp": "2026-08-30 21:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder",
+    "Notes": "9:10 PM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0before Tropicana Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763635/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 55145,
+    "Timestamp": "2026-08-30 21:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:11 PM, Aug 30 2026 Crash on NB Las Vegas Blvd\u00A0before Warm Springs Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763637/attachment_0.jpg",
+    "Latitude": 36.056870840847097,
+    "Longitude": -115.17237723070896
   }
 ]
