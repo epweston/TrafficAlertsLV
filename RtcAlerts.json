@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55098,
-    "Timestamp": "2026-08-30 06:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "S Bridge Ln",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lanes blocked",
-    "Notes": "6:07 AM, Aug 30 2026 Crash on EB S Bridge Ln\u00A0before Sahara Ave. Right lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763434/attachment_0.jpg",
-    "Latitude": 36.143741800000001,
-    "Longitude": -115.162133
-  },
-  {
     "UniqueId": 55099,
     "Timestamp": "2026-08-30 06:33",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763854/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 55187,
+    "Timestamp": "2026-08-31 06:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "6:04 AM, Aug 31 2026 Crash on NB I-11\u00A0before I-15. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763837/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
