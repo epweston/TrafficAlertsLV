@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55048,
-    "Timestamp": "2026-08-29 20:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:19 PM, Aug 29 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763319/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 55049,
     "Timestamp": "2026-08-29 20:40",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763632/attachment_0.png",
     "Latitude": 36.158926000000001,
     "Longitude": -115.0935965
+  },
+  {
+    "UniqueId": 55141,
+    "Timestamp": "2026-08-30 20:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:18 PM, Aug 30 2026 Crash on NB I-15\u00A0after 215 Southern Beltway. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763615/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
