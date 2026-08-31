@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55125,
-    "Timestamp": "2026-08-30 15:10",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:10 PM, Aug 30 2026 Crash on WB Tropicana Ave\u00A0before Koval Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763565/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 55126,
-    "Timestamp": "2026-08-30 15:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "3:11 PM, Aug 30 2026 Crash on EB Cheyenne Ave\u00A0before Tenaya Way. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763586/attachment_0.png",
-    "Latitude": 36.218215105055222,
-    "Longitude": -115.25137245445325
-  },
-  {
     "UniqueId": 55127,
     "Timestamp": "2026-08-30 15:49",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764921/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 55238,
+    "Timestamp": "2026-08-31 15:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Agate Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:06 PM, Aug 31 2026 Crash on SB Durango Dr\u00A0before Agate Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764926/attachment_0.jpg",
+    "Latitude": 36.022645199999999,
+    "Longitude": -115.2790342
+  },
+  {
+    "UniqueId": 55239,
+    "Timestamp": "2026-08-31 15:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:11 PM, Aug 31 2026 Crash on EB Summerlin Pkwy\u00A0at Rampart Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764947/attachment_0.jpg",
+    "Latitude": 36.159022,
+    "Longitude": -115.29140700000001
   }
 ]
