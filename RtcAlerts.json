@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55061,
-    "Timestamp": "2026-08-29 23:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Linq Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:41 PM, Aug 29 2026 Crash on EB Flamingo Rd\u00A0after Linq Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763350/attachment_0.jpg",
-    "Latitude": 36.114661499999997,
-    "Longitude": -115.1679224
-  },
-  {
     "UniqueId": 55062,
     "Timestamp": "2026-08-29 23:55",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763662/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 55159,
+    "Timestamp": "2026-08-30 23:47",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lindell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Reno Ave",
+    "Impact": "Southbound lanes are open again.",
+    "Notes": "11:47 PM, Aug 30 2026 Update Crash on SB Lindell Rd\u00A0at Reno Ave. Southbound lanes are open again.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763670/attachment_0.png",
+    "Latitude": 36.096744600000001,
+    "Longitude": -115.2165522
   }
 ]
