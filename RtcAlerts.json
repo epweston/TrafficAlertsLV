@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55114,
-    "Timestamp": "2026-08-30 11:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "11:51 AM, Aug 30 2026 Crash on NB I-11\u00A0at Boulder Hwy. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763529/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 55115,
     "Timestamp": "2026-08-30 12:53",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764539/attachment_0.jpg",
     "Latitude": 36.298196408901752,
     "Longitude": -115.28604269027711
+  },
+  {
+    "UniqueId": 55223,
+    "Timestamp": "2026-08-31 12:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:05 PM, Aug 31 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764649/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
