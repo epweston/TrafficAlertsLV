@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55035,
-    "Timestamp": "2026-08-29 17:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Mel Torme Way",
-    "Relationship": "at",
-    "CrossStreet": "Sammy Davis Junior Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:31 PM, Aug 29 2026 Crash on EB Mel Torme Way\u00A0at Sammy Davis Junior Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.126531923644521,
-    "Longitude": -115.17627596855165
-  },
-  {
-    "UniqueId": 55036,
-    "Timestamp": "2026-08-29 17:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder",
-    "Notes": "5:32 PM, Aug 29 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0after Ann Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763306/attachment_0.png",
-    "Latitude": 36.261508127735802,
-    "Longitude": -115.32678022210708
-  },
-  {
     "UniqueId": 55037,
     "Timestamp": "2026-08-29 17:44",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763579/attachment_0.png",
     "Latitude": 36.181162700000002,
     "Longitude": -115.0711555
+  },
+  {
+    "UniqueId": 55131,
+    "Timestamp": "2026-08-30 17:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:37 PM, Aug 30 2026 Crash on EB Sahara Ave\u00A0after I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763581/attachment_0.png",
+    "Latitude": 36.144043678496175,
+    "Longitude": -115.17114596721193
   }
 ]
