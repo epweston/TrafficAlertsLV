@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55090,
-    "Timestamp": "2026-08-30 03:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Casino Center Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "",
-    "Notes": "3:58 AM, Aug 30 2026 Crash on SB Casino Center Blvd\u00A0at Fremont St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763411/attachment_0.png",
-    "Latitude": 36.170727100000001,
-    "Longitude": -115.14413140000001
-  },
-  {
     "UniqueId": 55091,
     "Timestamp": "2026-08-30 04:02",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763683/attachment_0.png",
     "Latitude": 35.607225398050609,
     "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 55172,
+    "Timestamp": "2026-08-31 04:00",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:00 AM, Aug 31 2026 Abandoned vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
