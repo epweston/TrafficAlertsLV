@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55047,
-    "Timestamp": "2026-08-29 19:50",
-    "IncidentType": "Update Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Left lanes blocked. Right lane is open again.",
-    "Notes": "7:50 PM, Aug 29 2026 Update Police activity on WB Charleston Blvd\u00A0before Torrey Pines Dr. Left lanes blocked. Right lane is open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763318/attachment_0.png",
-    "Latitude": 36.159086599999988,
-    "Longitude": -115.2347213
-  },
-  {
     "UniqueId": 55048,
     "Timestamp": "2026-08-29 20:19",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763631/attachment_0.png",
     "Latitude": 35.961751371359661,
     "Longitude": -115.18186569213869
+  },
+  {
+    "UniqueId": 55140,
+    "Timestamp": "2026-08-30 19:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Honolulu St",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:49 PM, Aug 30 2026 Crash on NB Honolulu St\u00A0after Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763632/attachment_0.png",
+    "Latitude": 36.158926000000001,
+    "Longitude": -115.0935965
   }
 ]
