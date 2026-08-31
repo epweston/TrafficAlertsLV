@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55084,
-    "Timestamp": "2026-08-30 03:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "3:22 AM, Aug 30 2026 Crash on SB Rainbow Blvd\u00A0after Flamingo Rd. Left lane blocked Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.1145158070983,
-    "Longitude": -115.24298784914768
-  },
-  {
-    "UniqueId": 55085,
-    "Timestamp": "2026-08-30 03:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:30 AM, Aug 30 2026 Crash on SB Paradise Rd\u00A0at Karen Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763406/attachment_0.png",
-    "Latitude": 36.1401976,
-    "Longitude": -115.15489270000001
-  },
-  {
     "UniqueId": 55086,
     "Timestamp": "2026-08-30 03:43",
     "IncidentType": "Crash",
@@ -1174,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763677/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 55168,
+    "Timestamp": "2026-08-31 03:30",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:30 AM, Aug 31 2026 Police activity on EB Cactus Ave\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763694/attachment_0.jpg",
+    "Latitude": 35.999014299999999,
+    "Longitude": -115.18064087000001
   }
 ]
