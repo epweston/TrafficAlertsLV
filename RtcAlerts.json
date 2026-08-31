@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55105,
-    "Timestamp": "2026-08-30 10:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:40 AM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763479/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 55106,
-    "Timestamp": "2026-08-30 10:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:49 AM, Aug 30 2026 Crash on SB I-11\u00A0to Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763481/attachment_0.jpg",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
-    "UniqueId": 55107,
-    "Timestamp": "2026-08-30 10:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Pkwy",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "10:50 AM, Aug 30 2026 Crash on SB I-11\u00A0at Lake Mead Pkwy. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763489/attachment_0.png",
-    "Latitude": 36.033761888112984,
-    "Longitude": -115.01539133343376
-  },
-  {
     "UniqueId": 55108,
     "Timestamp": "2026-08-30 10:56",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764364/attachment_0.jpg",
     "Latitude": 36.158945099999997,
     "Longitude": -115.29135580000001
+  },
+  {
+    "UniqueId": 55215,
+    "Timestamp": "2026-08-31 10:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "10:52 AM, Aug 31 2026 Crash on WB Flamingo Rd\u00A0after Fort Apache Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764405/attachment_0.png",
+    "Latitude": 36.114940498221152,
+    "Longitude": -115.29703436184644
   }
 ]
