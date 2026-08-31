@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55092,
-    "Timestamp": "2026-08-30 04:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:19 AM, Aug 30 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
     "UniqueId": 55093,
     "Timestamp": "2026-08-30 04:29",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 55175,
+    "Timestamp": "2026-08-31 04:15",
+    "IncidentType": "Hazard",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": ".",
+    "Notes": "4:15 AM, Aug 31 2026 Hazard on SB I-15\u00A0at Cheyenne Ave. .",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763725/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
