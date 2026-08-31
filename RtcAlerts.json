@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55041,
-    "Timestamp": "2026-08-29 18:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:49 PM, Aug 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763311/attachment_0.jpg",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 55042,
-    "Timestamp": "2026-08-29 18:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:52 PM, Aug 29 2026 Stalled vehicle on NB I-11\u00A0at Martin L King Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763313/attachment_0.png",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
     "UniqueId": 55043,
     "Timestamp": "2026-08-29 19:09",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763601/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 55137,
+    "Timestamp": "2026-08-30 18:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:58 PM, Aug 30 2026 Crash on EB Tropicana Ave\u00A0before I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763602/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
