@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55104,
-    "Timestamp": "2026-08-30 08:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 24",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:38 AM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0after Mile 24. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763460/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 55105,
     "Timestamp": "2026-08-30 10:40",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764126/attachment_0.png",
     "Latitude": 36.290274699999998,
     "Longitude": -115.0615847
+  },
+  {
+    "UniqueId": 55204,
+    "Timestamp": "2026-08-31 09:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:05 AM, Aug 31 2026 Crash on EB Cactus Ave\u00A0before Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764192/attachment_0.jpg",
+    "Latitude": 35.999254200000003,
+    "Longitude": -115.1726451
   }
 ]
