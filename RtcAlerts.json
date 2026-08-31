@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55049,
-    "Timestamp": "2026-08-29 20:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Torrey Pines Dr",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "8:40 PM, Aug 29 2026 Crash on SB Torrey Pines Dr\u00A0at Cheyenne Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763331/attachment_0.jpg",
-    "Latitude": 36.2175218,
-    "Longitude": -115.2340112
-  },
-  {
-    "UniqueId": 55050,
-    "Timestamp": "2026-08-29 20:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:41 PM, Aug 29 2026 Stalled vehicle on NB Rancho Dr\u00A0after Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763321/attachment_0.png",
-    "Latitude": 36.144174199999988,
-    "Longitude": -115.1731231
-  },
-  {
     "UniqueId": 55051,
     "Timestamp": "2026-08-29 21:15",
     "IncidentType": "Crash",
@@ -1300,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763615/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 55142,
+    "Timestamp": "2026-08-30 20:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder.",
+    "Notes": "8:39 PM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763617/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
