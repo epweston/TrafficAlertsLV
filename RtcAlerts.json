@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55052,
-    "Timestamp": "2026-08-29 21:36",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "All lanes are open again.",
-    "Notes": "9:36 PM, Aug 29 2026 Police activity on WB Charleston Blvd\u00A0before Torrey Pines Dr. All lanes are open again.",
-    "ImagePath": "",
-    "Latitude": 36.159086599999988,
-    "Longitude": -115.2347213
-  },
-  {
     "UniqueId": 55053,
     "Timestamp": "2026-08-29 21:47",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763621/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 55148,
+    "Timestamp": "2026-08-30 21:39",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Soaring Gulls Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:39 PM, Aug 30 2026 Vehicle on fire on WB Cheyenne Ave\u00A0before Soaring Gulls Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763623/attachment_0.png",
+    "Latitude": 36.218468199999997,
+    "Longitude": -115.27417749999999
   }
 ]
