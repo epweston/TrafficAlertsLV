@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55059,
-    "Timestamp": "2026-08-29 22:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder",
-    "Notes": "10:53 PM, Aug 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Gibson Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763344/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 55060,
-    "Timestamp": "2026-08-29 23:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Hotel Rio Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:04 PM, Aug 29 2026 Crash on EB Flamingo Rd\u00A0before Hotel Rio Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763345/attachment_0.jpg",
-    "Latitude": 36.115285299999996,
-    "Longitude": -115.18716740000001
-  },
-  {
     "UniqueId": 55061,
     "Timestamp": "2026-08-29 23:41",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 55157,
+    "Timestamp": "2026-08-30 23:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lindell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Reno Ave",
+    "Impact": "All lanes are blocked.",
+    "Notes": "11:11 PM, Aug 30 2026 Crash on SB Lindell Rd\u00A0at Reno Ave (after Tropicana Ave). All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763659/attachment_0.png",
+    "Latitude": 36.096744600000001,
+    "Longitude": -115.2165522
   }
 ]
