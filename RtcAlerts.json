@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55102,
-    "Timestamp": "2026-08-30 07:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:45 AM, Aug 30 2026 Crash on NB I-11\u00A0before Rainbow Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763455/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 55103,
-    "Timestamp": "2026-08-30 07:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:49 AM, Aug 30 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Sunset Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763438/attachment_0.png",
-    "Latitude": 36.070274645187922,
-    "Longitude": -115.28855877956086
-  },
-  {
     "UniqueId": 55104,
     "Timestamp": "2026-08-30 08:38",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763960/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 55196,
+    "Timestamp": "2026-08-31 07:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "to",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:47 AM, Aug 31 2026 Crash on NB Martin L King Blvd\u00A0to I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763995/attachment_0.png",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 55197,
+    "Timestamp": "2026-08-31 07:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 96",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:48 AM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0at Mile 96. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764015/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
