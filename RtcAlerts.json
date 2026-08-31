@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55053,
-    "Timestamp": "2026-08-29 21:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:47 PM, Aug 29 2026 Stalled vehicle on SB I-15\u00A0at Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763335/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 55054,
-    "Timestamp": "2026-08-29 21:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Ogden Ave",
-    "Relationship": "before",
-    "CrossStreet": "3Rd St",
-    "Impact": "",
-    "Notes": "9:50 PM, Aug 29 2026 Crash on EB Ogden Ave\u00A0before 3rd St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763337/attachment_0.png",
-    "Latitude": 36.171422100000001,
-    "Longitude": -115.1421711
-  },
-  {
     "UniqueId": 55055,
     "Timestamp": "2026-08-29 22:06",
     "IncidentType": "Crash",
@@ -1354,6 +1326,20 @@
     "Impact": "Right lanes blocked.",
     "Notes": "9:42 PM, Aug 30 2026 Crash on SB I-11\u00A0after 215 Southern Beltway. Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763640/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 55150,
+    "Timestamp": "2026-08-30 21:51",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "All southbound lanes are blocked.",
+    "Notes": "9:51 PM, Aug 30 2026 Update Crash on SB I-11\u00A0after 215 Southern Beltway. All southbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763646/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
   }
