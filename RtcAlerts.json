@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55086,
-    "Timestamp": "2026-08-30 03:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:43 AM, Aug 30 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763389/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
-    "UniqueId": 55087,
-    "Timestamp": "2026-08-30 03:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:47 AM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 55088,
-    "Timestamp": "2026-08-30 03:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Main St",
-    "Impact": "",
-    "Notes": "3:48 AM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0before Main St. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.175399899145084,
-    "Longitude": -115.14399336646459
-  },
-  {
     "UniqueId": 55089,
     "Timestamp": "2026-08-30 03:56",
     "IncidentType": "Crash",
@@ -1174,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763681/attachment_0.png",
     "Latitude": 36.114680487880882,
     "Longitude": -115.1728856710384
+  },
+  {
+    "UniqueId": 55170,
+    "Timestamp": "2026-08-31 03:47",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Kitty Hawk Way",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "3:47 AM, Aug 31 2026 Police activity on EB Kitty Hawk Way\u00A0at Paradise Rd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.092590299999998,
+    "Longitude": -115.147316
   }
 ]
