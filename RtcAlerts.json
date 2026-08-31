@@ -1118,5 +1118,47 @@
     "ImagePath": "",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 55164,
+    "Timestamp": "2026-08-31 03:05",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:05 AM, Aug 31 2026 Abandoned vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 55165,
+    "Timestamp": "2026-08-31 03:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:05 AM, Aug 31 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 55166,
+    "Timestamp": "2026-08-31 03:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:06 AM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
