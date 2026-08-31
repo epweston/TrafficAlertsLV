@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55111,
-    "Timestamp": "2026-08-30 11:33",
-    "IncidentType": "Hazard",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:33 AM, Aug 30 2026 Hazard on EB Tropicana Ave\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763501/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 55112,
     "Timestamp": "2026-08-30 11:49",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764498/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 55220,
+    "Timestamp": "2026-08-31 11:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Railroad Pass",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:38 AM, Aug 31 2026 Stalled vehicle on NB I-11\u00A0after Railroad Pass. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764521/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
