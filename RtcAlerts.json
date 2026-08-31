@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55089,
-    "Timestamp": "2026-08-30 03:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Casino Center Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "",
-    "Notes": "3:56 AM, Aug 30 2026 Crash on NB Casino Center Blvd\u00A0at Fremont St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763409/attachment_0.png",
-    "Latitude": 36.170727100000001,
-    "Longitude": -115.14413140000001
-  },
-  {
     "UniqueId": 55090,
     "Timestamp": "2026-08-30 03:58",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "",
     "Latitude": 36.092590299999998,
     "Longitude": -115.147316
+  },
+  {
+    "UniqueId": 55171,
+    "Timestamp": "2026-08-31 03:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:54 AM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763683/attachment_0.png",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
   }
 ]
