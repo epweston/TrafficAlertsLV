@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55033,
-    "Timestamp": "2026-08-29 17:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:24 PM, Aug 29 2026 Stalled vehicle on SB Cheyenne Ave\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763298/attachment_0.png",
-    "Latitude": 36.218358799999997,
-    "Longitude": -115.2659426
-  },
-  {
-    "UniqueId": 55034,
-    "Timestamp": "2026-08-29 17:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "5:25 PM, Aug 29 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/29/file_attachments/3763284/attachment_0.jpg",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 55035,
     "Timestamp": "2026-08-29 17:31",
     "IncidentType": "Crash",
@@ -1356,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763592/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 55130,
+    "Timestamp": "2026-08-30 17:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Marion Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:24 PM, Aug 30 2026 Crash on WB Washington Ave\u00A0at Marion Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763579/attachment_0.png",
+    "Latitude": 36.181162700000002,
+    "Longitude": -115.0711555
   }
 ]
