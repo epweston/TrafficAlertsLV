@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55158,
-    "Timestamp": "2026-08-30 23:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "11:33 PM, Aug 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763662/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 55159,
-    "Timestamp": "2026-08-30 23:47",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lindell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Reno Ave",
-    "Impact": "Southbound lanes are open again.",
-    "Notes": "11:47 PM, Aug 30 2026 Update Crash on SB Lindell Rd\u00A0at Reno Ave. Southbound lanes are open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763670/attachment_0.png",
-    "Latitude": 36.096744600000001,
-    "Longitude": -115.2165522
-  },
-  {
     "UniqueId": 55160,
     "Timestamp": "2026-08-31 00:59",
     "IncidentType": "Police activity",
@@ -1762,5 +1734,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765105/attachment_0.png",
     "Latitude": 36.314398977532683,
     "Longitude": -115.30052669865761
+  },
+  {
+    "UniqueId": 55284,
+    "Timestamp": "2026-08-31 23:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder",
+    "Notes": "11:49 PM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765107/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
