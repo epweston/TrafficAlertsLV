@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55210,
-    "Timestamp": "2026-08-31 09:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Wagonwheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:37 AM, Aug 31 2026 Stalled vehicle on SB I-11\u00A0after Wagonwheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764266/attachment_0.png",
-    "Latitude": 35.995474915586584,
-    "Longitude": -114.93421517814367
-  },
-  {
-    "UniqueId": 55211,
-    "Timestamp": "2026-08-31 09:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Post Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:40 AM, Aug 31 2026 Crash on NB Decatur Blvd\u00A0at Post Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764272/attachment_0.png",
-    "Latitude": 36.075394299999999,
-    "Longitude": -115.2079976
-  },
-  {
     "UniqueId": 55212,
     "Timestamp": "2026-08-31 10:03",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1440,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765836/attachment_0.jpg",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 55316,
+    "Timestamp": "2026-09-01 09:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:34 AM, Sep 01 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765842/attachment_0.jpg",
+    "Latitude": 36.289875459999998,
+    "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 55317,
+    "Timestamp": "2026-09-01 09:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:37 AM, Sep 01 2026 Stalled vehicle on NB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765853/attachment_0.jpg",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 55318,
+    "Timestamp": "2026-09-01 09:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:38 AM, Sep 01 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765854/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 55319,
+    "Timestamp": "2026-09-01 09:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:38 AM, Sep 01 2026 Crash on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765856/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
