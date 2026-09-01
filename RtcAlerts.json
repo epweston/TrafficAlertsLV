@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55212,
-    "Timestamp": "2026-08-31 10:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:03 AM, Aug 31 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Summerlin Pkwy. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
     "UniqueId": 55213,
     "Timestamp": "2026-08-31 10:33",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765910/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 55323,
+    "Timestamp": "2026-09-01 10:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:04 AM, Sep 01 2026 Crash on EB Tropicana Ave\u00A0before Paradise Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765900/attachment_0.png",
+    "Latitude": 36.101028027323217,
+    "Longitude": -115.14987222272508
   }
 ]
