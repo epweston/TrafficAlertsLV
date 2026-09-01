@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55141,
-    "Timestamp": "2026-08-30 20:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:18 PM, Aug 30 2026 Crash on NB I-15\u00A0after 215 Southern Beltway. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763615/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 55142,
-    "Timestamp": "2026-08-30 20:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder.",
-    "Notes": "8:39 PM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763617/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 55143,
-    "Timestamp": "2026-08-30 20:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "8:57 PM, Aug 30 2026 Stalled vehicle on SB I-15\u00A0after Lake Mead Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763633/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 55144,
     "Timestamp": "2026-08-30 21:10",
     "IncidentType": "Stalled vehicle",
@@ -1930,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765071/attachment_0.png",
     "Latitude": 36.092429699999997,
     "Longitude": -115.24293179999999
+  },
+  {
+    "UniqueId": 55279,
+    "Timestamp": "2026-08-31 20:57",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Tee Pee Ln",
+    "Impact": "All lanes are open.",
+    "Notes": "8:57 PM, Aug 31 2026 Update Crash on EB Tropicana Ave\u00A0at Tee Pee Ln. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765095/attachment_0.jpg",
+    "Latitude": 36.100127899999997,
+    "Longitude": -115.30181500000001
   }
 ]
