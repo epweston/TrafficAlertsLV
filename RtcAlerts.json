@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55228,
-    "Timestamp": "2026-08-31 13:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:56 PM, Aug 31 2026 Crash on NB Nellis Blvd\u00A0after Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764855/attachment_0.jpg",
-    "Latitude": 36.11485816141586,
-    "Longitude": -115.06471217727307
-  },
-  {
     "UniqueId": 55229,
     "Timestamp": "2026-08-31 14:22",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766503/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 55335,
+    "Timestamp": "2026-09-01 14:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:13 PM, Sep 01 2026 Crash on NB Rainbow Blvd\u00A0before Blue Diamond Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766588/attachment_0.jpg",
+    "Latitude": 36.022550799999998,
+    "Longitude": -115.2434145
   }
 ]
