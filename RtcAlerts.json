@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55178,
-    "Timestamp": "2026-08-31 04:52",
-    "IncidentType": "Hazard",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder debris.",
-    "Notes": "4:52 AM, Aug 31 2026 Hazard on SB I-15\u00A0at Cheyenne Ave. Right shoulder debris.",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 55179,
-    "Timestamp": "2026-08-31 04:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:57 AM, Aug 31 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763779/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 55180,
     "Timestamp": "2026-08-31 05:35",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765174/attachment_0.png",
     "Latitude": 36.173668758672179,
     "Longitude": -115.13793117559058
+  },
+  {
+    "UniqueId": 55290,
+    "Timestamp": "2026-09-01 04:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:56 AM, Sep 01 2026 Crash on WB Sahara Ave\u00A0at Valley View Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765228/attachment_0.png",
+    "Latitude": 36.144334299999997,
+    "Longitude": -115.1908894
   }
 ]
