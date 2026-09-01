@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55215,
-    "Timestamp": "2026-08-31 10:52",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:52 AM, Aug 31 2026 Crash on WB Flamingo Rd\u00A0after Fort Apache Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764405/attachment_0.png",
-    "Latitude": 36.114940498221152,
-    "Longitude": -115.29703436184644
-  },
-  {
     "UniqueId": 55216,
     "Timestamp": "2026-08-31 11:08",
     "IncidentType": "Crash",
@@ -1524,5 +1510,33 @@
     "ImagePath": "",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 55325,
+    "Timestamp": "2026-09-01 10:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:47 AM, Sep 01 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765993/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 55326,
+    "Timestamp": "2026-09-01 10:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:52 AM, Sep 01 2026 Crash on NB I-11\u00A0at Jones Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766010/attachment_0.jpg",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
