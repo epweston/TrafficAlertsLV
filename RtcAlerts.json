@@ -1454,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766681/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 55345,
+    "Timestamp": "2026-09-01 15:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:32 PM, Sep 01 2026 Crash on SB I-11\u00A0before 215 Northern Beltway. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766671/attachment_0.png",
+    "Latitude": 36.033552862846953,
+    "Longitude": -115.01434604859962
+  },
+  {
+    "UniqueId": 55346,
+    "Timestamp": "2026-09-01 15:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:35 PM, Sep 01 2026 Crash on SB Durango Dr\u00A0after 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766693/attachment_0.png",
+    "Latitude": 36.066225699999997,
+    "Longitude": -115.2791549
+  },
+  {
+    "UniqueId": 55347,
+    "Timestamp": "2026-09-01 15:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "",
+    "Notes": "3:36 PM, Sep 01 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Durango Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766683/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
