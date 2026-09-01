@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55138,
-    "Timestamp": "2026-08-30 19:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "to",
-    "CrossStreet": "Wb 215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:08 PM, Aug 30 2026 Stalled vehicle on WB Lake Mead Pkwy\u00A0to WB 215 Southern Beltway ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763604/attachment_0.png",
-    "Latitude": 36.042806800000001,
-    "Longitude": -114.9779056
-  },
-  {
     "UniqueId": 55139,
     "Timestamp": "2026-08-30 19:48",
     "IncidentType": "Crash",
@@ -1846,5 +1832,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765042/attachment_0.jpg",
     "Latitude": 36.1444221,
     "Longitude": -115.1776291
+  },
+  {
+    "UniqueId": 55270,
+    "Timestamp": "2026-08-31 19:13",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder",
+    "Notes": "7:13 PM, Aug 31 2026 Police activity on SB 215 Western Beltway\u00A0after Sahara Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765062/attachment_0.png",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 55271,
+    "Timestamp": "2026-08-31 19:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:14 PM, Aug 31 2026 Stalled vehicle on SB Durango Dr\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765063/attachment_0.jpg",
+    "Latitude": 36.298196408901752,
+    "Longitude": -115.28604269027711
+  },
+  {
+    "UniqueId": 55272,
+    "Timestamp": "2026-08-31 19:16",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Convention Center Dr",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:16 PM, Aug 31 2026 Crash on EB Convention Center Dr\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765066/attachment_0.png",
+    "Latitude": 36.132570899999997,
+    "Longitude": -115.1648012
   }
 ]
