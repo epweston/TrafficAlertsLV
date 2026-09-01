@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55137,
-    "Timestamp": "2026-08-30 18:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:58 PM, Aug 30 2026 Crash on EB Tropicana Ave\u00A0before I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763602/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 55138,
     "Timestamp": "2026-08-30 19:08",
     "IncidentType": "Stalled vehicle",
@@ -1846,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765041/attachment_0.jpg",
     "Latitude": 36.100127899999997,
     "Longitude": -115.30181500000001
+  },
+  {
+    "UniqueId": 55269,
+    "Timestamp": "2026-08-31 19:04",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Teddy Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:04 PM, Aug 31 2026 Police activity on NB Teddy Dr\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765042/attachment_0.jpg",
+    "Latitude": 36.1444221,
+    "Longitude": -115.1776291
   }
 ]
