@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55181,
-    "Timestamp": "2026-08-31 05:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "George Crockett Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:50 AM, Aug 31 2026 Crash on SB Las Vegas Blvd\u00A0after George Crockett Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763819/attachment_0.jpg",
-    "Latitude": 36.062553299999998,
-    "Longitude": -115.1724744
-  },
-  {
-    "UniqueId": 55182,
-    "Timestamp": "2026-08-31 05:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:52 AM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763821/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 55183,
     "Timestamp": "2026-08-31 05:53",
     "IncidentType": "Abandoned vehicle",
@@ -1622,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765274/attachment_0.jpg",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 55297,
+    "Timestamp": "2026-09-01 05:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:50 AM, Sep 01 2026 Crash on NB Lamb Blvd\u00A0at Craig Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765265/attachment_0.png",
+    "Latitude": 36.240516800000002,
+    "Longitude": -115.0799215
   }
 ]
