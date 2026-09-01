@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55229,
-    "Timestamp": "2026-08-31 14:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Carey Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:22 PM, Aug 31 2026 Crash on WB Carey Ave\u00A0at Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764888/attachment_0.png",
-    "Latitude": 36.202855100000001,
-    "Longitude": -115.1989426
-  },
-  {
-    "UniqueId": 55230,
-    "Timestamp": "2026-08-31 14:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:31 PM, Aug 31 2026 Stalled vehicle on SB I-11\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764882/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
-    "UniqueId": 55231,
-    "Timestamp": "2026-08-31 14:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "4Th St",
-    "Relationship": "at",
-    "CrossStreet": "Ogden Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "2:34 PM, Aug 31 2026 Crash on NB 4th St\u00A0at Ogden Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764884/attachment_0.jpg",
-    "Latitude": 36.170928699999997,
-    "Longitude": -115.1410223
-  },
-  {
     "UniqueId": 55232,
     "Timestamp": "2026-08-31 14:37",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766605/attachment_0.jpg",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 55338,
+    "Timestamp": "2026-09-01 14:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:30 PM, Sep 01 2026 Stalled vehicle on NB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766636/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 55339,
+    "Timestamp": "2026-09-01 14:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:31 PM, Sep 01 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766622/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
