@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55243,
-    "Timestamp": "2026-08-31 16:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:30 PM, Aug 31 2026 Crash on NB I-11\u00A0at Valley View Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764987/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 55244,
-    "Timestamp": "2026-08-31 16:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:32 PM, Aug 31 2026 Crash on EB Sahara Ave\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764989/attachment_0.png",
-    "Latitude": 36.144533188965404,
-    "Longitude": -115.20814061164857
-  },
-  {
-    "UniqueId": 55245,
-    "Timestamp": "2026-08-31 16:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:33 PM, Aug 31 2026 Crash on NB Eastern Ave\u00A0before St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764991/attachment_0.jpg",
-    "Latitude": 36.007212199999998,
-    "Longitude": -115.11429010000001
-  },
-  {
     "UniqueId": 55246,
     "Timestamp": "2026-08-31 16:59",
     "IncidentType": "Crash",
@@ -1482,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766717/attachment_0.png",
     "Latitude": 36.2312096,
     "Longitude": -115.2248221
+  },
+  {
+    "UniqueId": 55350,
+    "Timestamp": "2026-09-01 16:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Agate Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:29 PM, Sep 01 2026 Crash on NB Buffalo Dr\u00A0at Agate Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766706/attachment_0.png",
+    "Latitude": 36.022897,
+    "Longitude": -115.2609602
+  },
+  {
+    "UniqueId": 55351,
+    "Timestamp": "2026-09-01 16:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Vegas Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:32 PM, Sep 01 2026 Crash on SB Martin L King Blvd\u00A0before Vegas Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766707/attachment_0.png",
+    "Latitude": 36.1883999,
+    "Longitude": -115.1607734
   }
 ]
