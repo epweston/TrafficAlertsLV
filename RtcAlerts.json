@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55128,
-    "Timestamp": "2026-08-30 17:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder",
-    "Notes": "5:02 PM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763591/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 55129,
     "Timestamp": "2026-08-30 17:20",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764991/attachment_0.jpg",
     "Latitude": 36.007212199999998,
     "Longitude": -115.11429010000001
+  },
+  {
+    "UniqueId": 55246,
+    "Timestamp": "2026-08-31 16:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:59 PM, Aug 31 2026 Crash on EB 215 Southern Beltway\u00A0at Buffalo Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765016/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
+  },
+  {
+    "UniqueId": 55247,
+    "Timestamp": "2026-08-31 17:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:02 PM, Aug 31 2026 Stalled vehicle on WB Ann Rd\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764995/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
