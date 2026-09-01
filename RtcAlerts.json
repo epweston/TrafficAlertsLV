@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55189,
-    "Timestamp": "2026-08-31 06:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:27 AM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763888/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 55190,
-    "Timestamp": "2026-08-31 06:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:28 AM, Aug 31 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763890/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
     "UniqueId": 55191,
     "Timestamp": "2026-08-31 06:51",
     "IncidentType": "Abandoned vehicle",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765321/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 55300,
+    "Timestamp": "2026-09-01 06:46",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lone Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Camino Al Norte",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "6:46 AM, Sep 01 2026 Crash on EB Lone Mountain Rd\u00A0at Camino Al Norte. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765365/attachment_0.jpg",
+    "Latitude": 36.246972800000002,
+    "Longitude": -115.1548658
   }
 ]
