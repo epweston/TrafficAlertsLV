@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55132,
-    "Timestamp": "2026-08-30 17:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:50 PM, Aug 30 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763595/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 55133,
-    "Timestamp": "2026-08-30 17:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:54 PM, Aug 30 2026 Stalled vehicle on NB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763584/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 55134,
     "Timestamp": "2026-08-30 18:07",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1748,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765029/attachment_0.jpg",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 55259,
+    "Timestamp": "2026-08-31 17:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:52 PM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0before Sahara Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765031/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55260,
+    "Timestamp": "2026-08-31 17:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "5:54 PM, Aug 31 2026 Stalled vehicle on NB I-11\u00A0after Elkhorn Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765049/attachment_0.png",
+    "Latitude": 36.291693742081051,
+    "Longitude": -115.2797598374233
   }
 ]
