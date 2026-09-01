@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55213,
-    "Timestamp": "2026-08-31 10:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:33 AM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764381/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 55214,
-    "Timestamp": "2026-08-31 10:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:34 AM, Aug 31 2026 Crash on SB Rampart Blvd\u00A0before Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764364/attachment_0.jpg",
-    "Latitude": 36.158945099999997,
-    "Longitude": -115.29135580000001
-  },
-  {
     "UniqueId": 55215,
     "Timestamp": "2026-08-31 10:52",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765900/attachment_0.png",
     "Latitude": 36.101028027323217,
     "Longitude": -115.14987222272508
+  },
+  {
+    "UniqueId": 55324,
+    "Timestamp": "2026-09-01 10:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:30 AM, Sep 01 2026 Crash on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
