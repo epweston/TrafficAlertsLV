@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55199,
-    "Timestamp": "2026-08-31 07:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:56 AM, Aug 31 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764048/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 55200,
     "Timestamp": "2026-08-31 08:01",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765555/attachment_0.png",
     "Latitude": 36.185989499999998,
     "Longitude": -115.14714119999999
+  },
+  {
+    "UniqueId": 55307,
+    "Timestamp": "2026-09-01 07:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "7:53 AM, Sep 01 2026 Crash on SB Nellis Blvd\u00A0before Stewart Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765572/attachment_0.jpg",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
+  },
+  {
+    "UniqueId": 55308,
+    "Timestamp": "2026-09-01 07:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:54 AM, Sep 01 2026 Crash on NB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765575/attachment_0.jpg",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 55309,
+    "Timestamp": "2026-09-01 07:55",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:55 AM, Sep 01 2026 Crash on WB Bonanza Rd\u00A0at Las Vegas Blvd . Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765561/attachment_0.png",
+    "Latitude": 36.174907193288441,
+    "Longitude": -115.13711572951844
   }
 ]
