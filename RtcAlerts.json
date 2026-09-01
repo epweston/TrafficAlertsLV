@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55191,
-    "Timestamp": "2026-08-31 06:51",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:51 AM, Aug 31 2026 Abandoned vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 55192,
-    "Timestamp": "2026-08-31 06:51",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:51 AM, Aug 31 2026 Abandoned vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 55193,
     "Timestamp": "2026-08-31 07:18",
     "IncidentType": "Stalled vehicle",
@@ -1522,6 +1494,20 @@
     "Impact": "Left lane blocked Right lane blocked.",
     "Notes": "6:46 AM, Sep 01 2026 Crash on EB Lone Mountain Rd\u00A0at Camino Al Norte. Left lane blocked Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765365/attachment_0.jpg",
+    "Latitude": 36.246972800000002,
+    "Longitude": -115.1548658
+  },
+  {
+    "UniqueId": 55301,
+    "Timestamp": "2026-09-01 06:49",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lone Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Camino Al Norte",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:49 AM, Sep 01 2026 Crash on EB Lone Mountain Rd\u00A0at Camino Al Norte. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765411/attachment_0.png",
     "Latitude": 36.246972800000002,
     "Longitude": -115.1548658
   }
