@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55240,
-    "Timestamp": "2026-08-31 15:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:45 PM, Aug 31 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764945/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 55241,
     "Timestamp": "2026-08-31 16:04",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766683/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 55348,
+    "Timestamp": "2026-09-01 15:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:52 PM, Sep 01 2026 Stalled vehicle on NB I-11\u00A0before Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766701/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
