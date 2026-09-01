@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55202,
-    "Timestamp": "2026-08-31 08:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:19 AM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764082/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 55203,
     "Timestamp": "2026-08-31 08:27",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765626/attachment_0.jpg",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 55311,
+    "Timestamp": "2026-09-01 08:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:13 AM, Sep 01 2026 Crash on SB I-11\u00A0before Tropicana Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765614/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
