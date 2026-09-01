@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55196,
-    "Timestamp": "2026-08-31 07:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:47 AM, Aug 31 2026 Crash on NB Martin L King Blvd\u00A0to I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763995/attachment_0.png",
-    "Latitude": 36.162990899999997,
-    "Longitude": -115.1604596
-  },
-  {
-    "UniqueId": 55197,
-    "Timestamp": "2026-08-31 07:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 96",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:48 AM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0at Mile 96. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764015/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 55198,
-    "Timestamp": "2026-08-31 07:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cannery Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:53 AM, Aug 31 2026 Crash on EB Craig Rd\u00A0at Cannery Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764024/attachment_0.jpg",
-    "Latitude": 36.2398472,
-    "Longitude": -115.1211093
-  },
-  {
     "UniqueId": 55199,
     "Timestamp": "2026-08-31 07:56",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1468,33 @@
     "ImagePath": "",
     "Latitude": 36.246972800000002,
     "Longitude": -115.1548658
+  },
+  {
+    "UniqueId": 55305,
+    "Timestamp": "2026-09-01 07:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "7:50 AM, Sep 01 2026 Crash on WB Warm Springs Rd\u00A0at Paradise Rd. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765553/attachment_0.jpg",
+    "Latitude": 36.057360299999999,
+    "Longitude": -115.1410418
+  },
+  {
+    "UniqueId": 55306,
+    "Timestamp": "2026-09-01 07:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "D St",
+    "Impact": "",
+    "Notes": "7:52 AM, Sep 01 2026 Crash on SB I-15\u00A0at D St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765555/attachment_0.png",
+    "Latitude": 36.185989499999998,
+    "Longitude": -115.14714119999999
   }
 ]
