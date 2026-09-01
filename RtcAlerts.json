@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55139,
-    "Timestamp": "2026-08-30 19:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "7:48 PM, Aug 30 2026 Crash on NB Saint Rose Pkwy\u00A0at 215 Southern Beltway. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763631/attachment_0.png",
-    "Latitude": 35.961751371359661,
-    "Longitude": -115.18186569213869
-  },
-  {
-    "UniqueId": 55140,
-    "Timestamp": "2026-08-30 19:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Honolulu St",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:49 PM, Aug 30 2026 Crash on NB Honolulu St\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/30/file_attachments/3763632/attachment_0.png",
-    "Latitude": 36.158926000000001,
-    "Longitude": -115.0935965
-  },
-  {
     "UniqueId": 55141,
     "Timestamp": "2026-08-30 20:18",
     "IncidentType": "Crash",
@@ -1930,5 +1902,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765069/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 55277,
+    "Timestamp": "2026-08-31 20:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Tee Pee Ln",
+    "Impact": "All eastbound lanes are blocked.",
+    "Notes": "8:03 PM, Aug 31 2026 Crash on EB Tropicana Ave\u00A0at Tee Pee Ln (before Fort Apache Rd). All eastbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765092/attachment_0.jpg",
+    "Latitude": 36.100127899999997,
+    "Longitude": -115.30181500000001
+  },
+  {
+    "UniqueId": 55278,
+    "Timestamp": "2026-08-31 20:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "8:05 PM, Aug 31 2026 Crash on NB Rainbow Blvd\u00A0at Hacienda Ave. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765071/attachment_0.png",
+    "Latitude": 36.092429699999997,
+    "Longitude": -115.24293179999999
   }
 ]
