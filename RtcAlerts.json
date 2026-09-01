@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55180,
-    "Timestamp": "2026-08-31 05:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:35 AM, Aug 31 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3763811/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 55181,
     "Timestamp": "2026-08-31 05:50",
     "IncidentType": "Crash",
@@ -1608,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765268/attachment_0.jpg",
     "Latitude": 36.144334299999997,
     "Longitude": -115.1908894
+  },
+  {
+    "UniqueId": 55295,
+    "Timestamp": "2026-09-01 05:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:38 AM, Sep 01 2026 Crash on SB Durango Dr\u00A0at Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765257/attachment_0.png",
+    "Latitude": 36.020259986978459,
+    "Longitude": -115.27924598836366
+  },
+  {
+    "UniqueId": 55296,
+    "Timestamp": "2026-09-01 05:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:39 AM, Sep 01 2026 Stalled vehicle on NB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765274/attachment_0.jpg",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
