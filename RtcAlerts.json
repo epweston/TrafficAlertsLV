@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55203,
-    "Timestamp": "2026-08-31 08:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Range Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:27 AM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0after Range Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764126/attachment_0.png",
-    "Latitude": 36.290274699999998,
-    "Longitude": -115.0615847
-  },
-  {
     "UniqueId": 55204,
     "Timestamp": "2026-08-31 09:05",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765614/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 55312,
+    "Timestamp": "2026-09-01 08:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:29 AM, Sep 01 2026 Stalled vehicle on NB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765673/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
