@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55246,
-    "Timestamp": "2026-08-31 16:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:59 PM, Aug 31 2026 Crash on EB 215 Southern Beltway\u00A0at Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765016/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
-    "UniqueId": 55247,
-    "Timestamp": "2026-08-31 17:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:02 PM, Aug 31 2026 Stalled vehicle on WB Ann Rd\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764995/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 55248,
-    "Timestamp": "2026-08-31 17:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:07 PM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764996/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 55249,
     "Timestamp": "2026-08-31 17:10",
     "IncidentType": "Crash",
@@ -1538,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766736/attachment_0.jpg",
     "Latitude": 36.166804848968461,
     "Longitude": -115.28802752494813
+  },
+  {
+    "UniqueId": 55357,
+    "Timestamp": "2026-09-01 17:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:03 PM, Sep 01 2026 Crash on EB Sunset Rd\u00A0at Gibson Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766756/attachment_0.png",
+    "Latitude": 36.063876000000008,
+    "Longitude": -115.0272081
+  },
+  {
+    "UniqueId": 55358,
+    "Timestamp": "2026-09-01 17:04",
+    "IncidentType": "Debris",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:04 PM, Sep 01 2026 Debris on SB I-15\u00A0after Speedway Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766758/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
