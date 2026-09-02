@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55264,
-    "Timestamp": "2026-08-31 18:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:16 PM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765054/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 55265,
-    "Timestamp": "2026-08-31 18:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Buchanan Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "6:17 PM, Aug 31 2026 Stalled vehicle on NB I-11\u00A0before Buchanan Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765056/attachment_0.png",
-    "Latitude": 35.934200883777393,
-    "Longitude": -114.84135389747479
-  },
-  {
     "UniqueId": 55266,
     "Timestamp": "2026-08-31 18:25",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766765/attachment_0.png",
     "Latitude": 36.099966560770525,
     "Longitude": -115.11896249561603
+  },
+  {
+    "UniqueId": 55367,
+    "Timestamp": "2026-09-01 18:15",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Eastgate Rd",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "6:15 PM, Sep 01 2026 Crash on EB Sunset Rd\u00A0at Eastgate Rd. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766752/attachment_0.png",
+    "Latitude": 36.063920099999997,
+    "Longitude": -115.0202719
   }
 ]
