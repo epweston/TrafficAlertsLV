@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55337,
-    "Timestamp": "2026-09-01 14:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:16 PM, Sep 01 2026 Crash on SB I-15\u00A0at Blue Diamond Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766605/attachment_0.jpg",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 55338,
     "Timestamp": "2026-09-01 14:30",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1650,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768288/attachment_0.jpg",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 55457,
+    "Timestamp": "2026-09-02 14:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "2:15 PM, Sep 02 2026 Crash on NB Pecos Rd\u00A0at 215 Southern Beltway. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768313/attachment_0.jpg",
+    "Latitude": 36.165351399999999,
+    "Longitude": -115.0982028
+  },
+  {
+    "UniqueId": 55458,
+    "Timestamp": "2026-09-02 14:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "2:18 PM, Sep 02 2026 Crash on EB Sahara Ave\u00A0after Valley View Blvd. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768322/attachment_0.jpg",
+    "Latitude": 36.144334299999997,
+    "Longitude": -115.1908894
   }
 ]
