@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55331,
-    "Timestamp": "2026-09-01 12:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:48 PM, Sep 01 2026 Crash on EB Sahara Ave\u00A0after I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766433/attachment_0.jpg",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
-    "UniqueId": 55332,
-    "Timestamp": "2026-09-01 12:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mountain Vista St",
-    "Impact": "",
-    "Notes": "12:52 PM, Sep 01 2026 Crash on EB Flamingo Rd\u00A0at Mountain Vista St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766439/attachment_0.jpg",
-    "Latitude": 36.114978399999998,
-    "Longitude": -115.0737826
-  },
-  {
     "UniqueId": 55333,
     "Timestamp": "2026-09-01 13:08",
     "IncidentType": "Crash",
@@ -1636,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768102/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 55449,
+    "Timestamp": "2026-09-02 13:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:05 PM, Sep 02 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768176/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
