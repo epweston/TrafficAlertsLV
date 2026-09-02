@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55288,
-    "Timestamp": "2026-09-01 01:05",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "1:05 AM, Sep 01 2026 Police activity on NB I-11\u00A0at Boulder Hwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765080/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 55289,
     "Timestamp": "2026-09-01 04:36",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 55394,
+    "Timestamp": "2026-09-02 01:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mm 63",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:02 AM, Sep 02 2026 Crash on SB I-15\u00A0at MM 63. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3766844/attachment_0.png",
+    "Latitude": 36.108705499999999,
+    "Longitude": -115.1744526
   }
 ]
