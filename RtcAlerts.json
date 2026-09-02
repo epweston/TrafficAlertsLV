@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 55250,
-    "Timestamp": "2026-08-31 17:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:13 PM, Aug 31 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765000/attachment_0.png",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
-    "UniqueId": 55251,
-    "Timestamp": "2026-08-31 17:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Hualapai Way",
-    "Impact": "Right shoulder.",
-    "Notes": "5:20 PM, Aug 31 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Hualapai Way. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765001/attachment_0.png",
-    "Latitude": 36.281605159999998,
-    "Longitude": -115.3151178
-  },
-  {
-    "UniqueId": 55252,
-    "Timestamp": "2026-08-31 17:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:24 PM, Aug 31 2026 Crash on NB Decatur Blvd\u00A0after Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765022/attachment_0.png",
-    "Latitude": 36.100956099999998,
-    "Longitude": -115.2080821
-  },
-  {
-    "UniqueId": 55253,
-    "Timestamp": "2026-08-31 17:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:25 PM, Aug 31 2026 Crash on EB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765002/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 55254,
-    "Timestamp": "2026-08-31 17:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:27 PM, Aug 31 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765003/attachment_0.jpg",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 55255,
     "Timestamp": "2026-08-31 17:36",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766742/attachment_0.png",
     "Latitude": 36.144160499999998,
     "Longitude": -115.2362969
+  },
+  {
+    "UniqueId": 55361,
+    "Timestamp": "2026-09-01 17:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:23 PM, Sep 01 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766745/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
