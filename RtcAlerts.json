@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55268,
-    "Timestamp": "2026-08-31 18:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Tee Pee Ln",
-    "Impact": "All eastbound lanes are blocked.",
-    "Notes": "6:54 PM, Aug 31 2026 Crash on EB Tropicana Ave\u00A0at Tee Pee Ln (before Fort Apache Rd). All eastbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765041/attachment_0.jpg",
-    "Latitude": 36.100127899999997,
-    "Longitude": -115.30181500000001
-  },
-  {
     "UniqueId": 55269,
     "Timestamp": "2026-08-31 19:04",
     "IncidentType": "Police activity",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766781/attachment_0.png",
     "Latitude": 36.159048129218675,
     "Longitude": -115.160685082124
+  },
+  {
+    "UniqueId": 55374,
+    "Timestamp": "2026-09-01 18:58",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:58 PM, Sep 01 2026 Crash on WB Blue Diamond Rd\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766795/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
   }
 ]
