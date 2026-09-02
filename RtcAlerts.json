@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55341,
-    "Timestamp": "2026-09-01 15:09",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Sandhill Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:09 PM, Sep 01 2026 Crash on WB Tropicana Ave\u00A0at Sandhill Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766662/attachment_0.png",
-    "Latitude": 36.100245699999988,
-    "Longitude": -115.0918281
-  },
-  {
-    "UniqueId": 55342,
-    "Timestamp": "2026-09-01 15:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:20 PM, Sep 01 2026 Crash on NB I-11\u00A0at Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766675/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 55343,
-    "Timestamp": "2026-09-01 15:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:25 PM, Sep 01 2026 Stalled vehicle on NB I-15\u00A0before Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766679/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 55344,
     "Timestamp": "2026-09-01 15:30",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768384/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 55464,
+    "Timestamp": "2026-09-02 15:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "3:23 PM, Sep 02 2026 Crash on SB Eastern Ave\u00A0at Harmon Ave. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768445/attachment_0.jpg",
+    "Latitude": 36.107308699999997,
+    "Longitude": -115.11909540000001
   }
 ]
