@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55249,
-    "Timestamp": "2026-08-31 17:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:10 PM, Aug 31 2026 Crash on SB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3764998/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
     "UniqueId": 55250,
     "Timestamp": "2026-08-31 17:13",
     "IncidentType": "Crash",
@@ -1524,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766758/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 55359,
+    "Timestamp": "2026-09-01 17:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "",
+    "Notes": "5:06 PM, Sep 01 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Las Vegas Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766759/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 55360,
+    "Timestamp": "2026-09-01 17:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave On Left",
+    "Impact": "",
+    "Notes": "5:10 PM, Sep 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Sahara Ave on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766742/attachment_0.png",
+    "Latitude": 36.144160499999998,
+    "Longitude": -115.2362969
   }
 ]
