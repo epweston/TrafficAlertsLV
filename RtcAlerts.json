@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55263,
-    "Timestamp": "2026-08-31 18:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Mile 11",
-    "Impact": "Right shoulder",
-    "Notes": "6:11 PM, Aug 31 2026 Stalled vehicle on SB I-11\u00A0before Mile 11 (Buchanan Blvd). Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765036/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 55264,
     "Timestamp": "2026-08-31 18:16",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766748/attachment_0.png",
     "Latitude": 36.126308299999998,
     "Longitude": -115.2020371
+  },
+  {
+    "UniqueId": 55365,
+    "Timestamp": "2026-09-01 18:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Michael Way",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:09 PM, Sep 01 2026 Crash on NB Rancho Dr\u00A0at Michael Way. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766750/attachment_0.png",
+    "Latitude": 36.221919900000003,
+    "Longitude": -115.2163647
+  },
+  {
+    "UniqueId": 55366,
+    "Timestamp": "2026-09-01 18:13",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:13 PM, Sep 01 2026 Crash on EB Tropicana Ave\u00A0before Eastern Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766765/attachment_0.png",
+    "Latitude": 36.099966560770525,
+    "Longitude": -115.11896249561603
   }
 ]
