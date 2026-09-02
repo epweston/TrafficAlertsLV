@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55267,
-    "Timestamp": "2026-08-31 18:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Left shoulder",
-    "Notes": "6:48 PM, Aug 31 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765058/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 55268,
     "Timestamp": "2026-08-31 18:54",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766779/attachment_0.png",
     "Latitude": 36.099120999999997,
     "Longitude": -115.1492777
+  },
+  {
+    "UniqueId": 55373,
+    "Timestamp": "2026-09-01 18:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "6:48 PM, Sep 01 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766781/attachment_0.png",
+    "Latitude": 36.159048129218675,
+    "Longitude": -115.160685082124
   }
 ]
