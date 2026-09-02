@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55352,
-    "Timestamp": "2026-09-01 16:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "",
-    "Notes": "4:37 PM, Sep 01 2026 Stalled vehicle on WB 215 Northern Beltway offramp to Aliante Pkwy on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766724/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 55353,
-    "Timestamp": "2026-09-01 16:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "NB Eastern is closed at Franklin Ave.\u00A0 Use other routes",
-    "Notes": "4:42 PM, Sep 01 2026 Crash on NB Eastern Ave before Charleston Blvd. NB Eastern is closed at Franklin Ave.\u00A0 Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766710/attachment_0.jpg",
-    "Latitude": 36.1589229,
-    "Longitude": -115.1189426
-  },
-  {
-    "UniqueId": 55354,
-    "Timestamp": "2026-09-01 16:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "",
-    "Notes": "4:53 PM, Sep 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766731/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 55355,
     "Timestamp": "2026-09-01 16:55",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768519/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 55473,
+    "Timestamp": "2026-09-02 16:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Town Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "SB Right lane blocked. WB left lane blocked.",
+    "Notes": "4:51 PM, Sep 02 2026 Crash on SB Town Center Dr\u00A0at Summerlin Pkwy. SB Right lane blocked. WB left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768525/attachment_0.png",
+    "Latitude": 36.186935721158335,
+    "Longitude": -115.30692100524904
   }
 ]
