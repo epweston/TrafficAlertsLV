@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55280,
-    "Timestamp": "2026-08-31 21:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Happy Valley Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:08 PM, Aug 31 2026 Crash on SB Nellis Blvd\u00A0at Happy Valley Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765097/attachment_0.png",
-    "Latitude": 36.133358299999998,
-    "Longitude": -115.0653762
-  },
-  {
     "UniqueId": 55281,
     "Timestamp": "2026-08-31 22:54",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766813/attachment_0.png",
     "Latitude": 36.086320693233468,
     "Longitude": -115.20789380375679
+  },
+  {
+    "UniqueId": 55382,
+    "Timestamp": "2026-09-01 22:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:45 PM, Sep 01 2026 Stalled vehicle on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766809/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
