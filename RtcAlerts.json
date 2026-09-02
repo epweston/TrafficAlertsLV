@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55284,
-    "Timestamp": "2026-08-31 23:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "11:49 PM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765107/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 55285,
-    "Timestamp": "2026-08-31 23:52",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Center lane blocked.",
-    "Notes": "11:52 PM, Aug 31 2026 Police activity on WB Tropicana Ave\u00A0before Koval Ln. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765075/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 55286,
-    "Timestamp": "2026-08-31 23:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "7Th St",
-    "Relationship": "before",
-    "CrossStreet": "Clark Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:56 PM, Aug 31 2026 Crash on SB 7th St\u00A0before Clark Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765110/attachment_0.png",
-    "Latitude": 36.163608400000008,
-    "Longitude": -115.14143590000001
-  },
-  {
-    "UniqueId": 55287,
-    "Timestamp": "2026-08-31 23:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:58 PM, Aug 31 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765112/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 55288,
     "Timestamp": "2026-09-01 01:05",
     "IncidentType": "Police activity",
@@ -1440,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766822/attachment_0.png",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 55389,
+    "Timestamp": "2026-09-02 00:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Mojave Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:05 AM, Sep 02 2026 Crash on EB Harmon Ave\u00A0at Mojave Rd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.1075357,
+    "Longitude": -115.1053189
   }
 ]
