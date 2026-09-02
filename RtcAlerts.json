@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55335,
-    "Timestamp": "2026-09-01 14:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "2:13 PM, Sep 01 2026 Crash on NB Rainbow Blvd\u00A0before Blue Diamond Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766588/attachment_0.jpg",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
-    "UniqueId": 55336,
-    "Timestamp": "2026-09-01 14:15",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonneville Ave",
-    "Relationship": "at",
-    "CrossStreet": "6Th St",
-    "Impact": "",
-    "Notes": "2:15 PM, Sep 01 2026 Crash on EB Bonneville Ave\u00A0at 6th St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766604/attachment_0.png",
-    "Latitude": 36.162938099999998,
-    "Longitude": -115.1433423
-  },
-  {
     "UniqueId": 55337,
     "Timestamp": "2026-09-01 14:16",
     "IncidentType": "Crash",
@@ -1678,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768224/attachment_0.png",
     "Latitude": 36.173668758672179,
     "Longitude": -115.13793117559058
+  },
+  {
+    "UniqueId": 55456,
+    "Timestamp": "2026-09-02 14:12",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:12 PM, Sep 02 2026 Crash on SB I-15\u00A0before Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768288/attachment_0.jpg",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
