@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55255,
-    "Timestamp": "2026-08-31 17:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:36 PM, Aug 31 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765026/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 55256,
     "Timestamp": "2026-08-31 17:39",
     "IncidentType": "Crash",
@@ -26,20 +12,6 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765027/attachment_0.jpg",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 55257,
-    "Timestamp": "2026-08-31 17:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:35 PM, Aug 31 2026 Crash on WB 215 Southern Beltway\u00A0before St Rose Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765028/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
   },
   {
     "UniqueId": 55258,
@@ -1496,5 +1468,19 @@
     "ImagePath": "",
     "Latitude": 36.1663596,
     "Longitude": -115.27794660000001
+  },
+  {
+    "UniqueId": 55363,
+    "Timestamp": "2026-09-01 17:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:35 PM, Sep 01 2026 Crash on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766762/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
