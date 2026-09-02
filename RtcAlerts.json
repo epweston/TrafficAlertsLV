@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55297,
-    "Timestamp": "2026-09-01 05:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:50 AM, Sep 01 2026 Crash on NB Lamb Blvd\u00A0at Craig Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765265/attachment_0.png",
-    "Latitude": 36.240516800000002,
-    "Longitude": -115.0799215
-  },
-  {
     "UniqueId": 55299,
     "Timestamp": "2026-09-01 06:14",
     "IncidentType": "Police activity",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767010/attachment_0.jpg",
     "Latitude": 36.176029200000002,
     "Longitude": -115.1530647
+  },
+  {
+    "UniqueId": 55401,
+    "Timestamp": "2026-09-02 06:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:09 AM, Sep 02 2026 Crash on SB Decatur Blvd\u00A0at Warm Springs Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767073/attachment_0.png",
+    "Latitude": 36.057144299999997,
+    "Longitude": -115.2079452
   }
 ]
