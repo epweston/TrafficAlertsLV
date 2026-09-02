@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55269,
-    "Timestamp": "2026-08-31 19:04",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Teddy Dr",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:04 PM, Aug 31 2026 Police activity on NB Teddy Dr\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765042/attachment_0.jpg",
-    "Latitude": 36.1444221,
-    "Longitude": -115.1776291
-  },
-  {
-    "UniqueId": 55270,
-    "Timestamp": "2026-08-31 19:13",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "7:13 PM, Aug 31 2026 Police activity on SB 215 Western Beltway\u00A0after Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765062/attachment_0.png",
-    "Latitude": 36.144563512522332,
-    "Longitude": -115.33671498298646
-  },
-  {
-    "UniqueId": 55271,
-    "Timestamp": "2026-08-31 19:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:14 PM, Aug 31 2026 Stalled vehicle on SB Durango Dr\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/08/31/file_attachments/3765063/attachment_0.jpg",
-    "Latitude": 36.298196408901752,
-    "Longitude": -115.28604269027711
-  },
-  {
     "UniqueId": 55272,
     "Timestamp": "2026-08-31 19:16",
     "IncidentType": "Crash",
@@ -1468,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766795/attachment_0.png",
     "Latitude": 36.025615794939291,
     "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 55376,
+    "Timestamp": "2026-09-01 19:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:12 PM, Sep 01 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766783/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
