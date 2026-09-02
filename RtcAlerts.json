@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55327,
-    "Timestamp": "2026-09-01 10:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Meadows Ln",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:58 AM, Sep 01 2026 Crash on EB Meadows Ln\u00A0at Decatur Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766103/attachment_0.png",
-    "Latitude": 36.1701117,
-    "Longitude": -115.2059091
-  },
-  {
     "UniqueId": 55328,
     "Timestamp": "2026-09-01 11:39",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767804/attachment_0.jpg",
     "Latitude": 36.151400799999998,
     "Longitude": -115.1657312
+  },
+  {
+    "UniqueId": 55439,
+    "Timestamp": "2026-09-02 10:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Us-93",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:55 AM, Sep 02 2026 Stalled vehicle on SB I-15\u00A0after US-93. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767858/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
