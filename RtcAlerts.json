@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55338,
-    "Timestamp": "2026-09-01 14:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:30 PM, Sep 01 2026 Stalled vehicle on NB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766636/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 55339,
-    "Timestamp": "2026-09-01 14:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:31 PM, Sep 01 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766622/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 55340,
     "Timestamp": "2026-09-01 14:37",
     "IncidentType": "Crash",
@@ -1692,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768301/attachment_0.jpg",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 55460,
+    "Timestamp": "2026-09-02 14:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Tam Dr",
+    "Relationship": "to",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:26 PM, Sep 02 2026 Crash on SB Tam Dr\u00A0to Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768336/attachment_0.jpg",
+    "Latitude": 36.143939699999997,
+    "Longitude": -115.1628556
   }
 ]
