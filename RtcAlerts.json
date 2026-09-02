@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55349,
-    "Timestamp": "2026-09-01 16:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:17 PM, Sep 01 2026 Crash on SB Rancho Dr\u00A0before Alexander Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766717/attachment_0.png",
-    "Latitude": 36.2312096,
-    "Longitude": -115.2248221
-  },
-  {
     "UniqueId": 55350,
     "Timestamp": "2026-09-01 16:29",
     "IncidentType": "Crash",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768484/attachment_0.jpg",
     "Latitude": 36.217590399999999,
     "Longitude": -115.0986585
+  },
+  {
+    "UniqueId": 55470,
+    "Timestamp": "2026-09-02 16:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "15Th St",
+    "Relationship": "at",
+    "CrossStreet": "Fremont St",
+    "Impact": "",
+    "Notes": "4:22 PM, Sep 02 2026 Crash on NB 15th St\u00A0at Fremont St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768507/attachment_0.png",
+    "Latitude": 36.164328699999999,
+    "Longitude": -115.12925180000001
   }
 ]
