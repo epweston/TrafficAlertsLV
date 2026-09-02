@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55299,
-    "Timestamp": "2026-09-01 06:14",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:14 AM, Sep 01 2026 Police activity on SB I-15\u00A0at Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3765321/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 55300,
     "Timestamp": "2026-09-01 06:46",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767073/attachment_0.png",
     "Latitude": 36.057144299999997,
     "Longitude": -115.2079452
+  },
+  {
+    "UniqueId": 55402,
+    "Timestamp": "2026-09-02 06:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:22 AM, Sep 02 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767096/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
