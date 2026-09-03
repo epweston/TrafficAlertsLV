@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55445,
-    "Timestamp": "2026-09-02 12:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "12:09 PM, Sep 02 2026 Crash on EB Spring Mountain Rd\u00A0at Valley View Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768027/attachment_0.png",
-    "Latitude": 36.126514613715024,
-    "Longitude": -115.19022883138266
-  },
-  {
     "UniqueId": 55446,
     "Timestamp": "2026-09-02 12:23",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769642/attachment_0.png",
     "Latitude": 36.042649300000001,
     "Longitude": -115.0467738
+  },
+  {
+    "UniqueId": 55543,
+    "Timestamp": "2026-09-03 12:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:13 PM, Sep 03 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769668/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
