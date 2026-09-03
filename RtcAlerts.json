@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55365,
-    "Timestamp": "2026-09-01 18:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Michael Way",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:09 PM, Sep 01 2026 Crash on NB Rancho Dr\u00A0at Michael Way. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766750/attachment_0.png",
-    "Latitude": 36.221919900000003,
-    "Longitude": -115.2163647
-  },
-  {
-    "UniqueId": 55366,
-    "Timestamp": "2026-09-01 18:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:13 PM, Sep 01 2026 Crash on EB Tropicana Ave\u00A0before Eastern Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766765/attachment_0.png",
-    "Latitude": 36.099966560770525,
-    "Longitude": -115.11896249561603
-  },
-  {
     "UniqueId": 55367,
     "Timestamp": "2026-09-01 18:15",
     "IncidentType": "Crash",
@@ -1622,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768572/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 55482,
+    "Timestamp": "2026-09-02 18:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Left and right lane blocked.",
+    "Notes": "6:10 PM, Sep 02 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Left and right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768550/attachment_0.png",
+    "Latitude": 36.159048129218675,
+    "Longitude": -115.160685082124
   }
 ]
