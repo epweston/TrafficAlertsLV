@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55462,
-    "Timestamp": "2026-09-02 14:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:55 PM, Sep 02 2026 Stalled vehicle on NB I-11\u00A0before Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768372/attachment_0.jpg",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 55463,
-    "Timestamp": "2026-09-02 15:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:06 PM, Sep 02 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768384/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 55464,
     "Timestamp": "2026-09-02 15:23",
     "IncidentType": "Crash",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769904/attachment_0.jpg",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 55556,
+    "Timestamp": "2026-09-03 15:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:13 PM, Sep 03 2026 Crash on NB Las Vegas Blvd\u00A0at St Rose Pkwy. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769911/attachment_0.png",
+    "Latitude": 35.965910958046543,
+    "Longitude": -115.17285344363151
   }
 ]
