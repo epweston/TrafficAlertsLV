@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55361,
-    "Timestamp": "2026-09-01 17:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:23 PM, Sep 01 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766745/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 55362,
-    "Timestamp": "2026-09-01 17:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:28 PM, Sep 01 2026 Crash on NB Durango Dr\u00A0before Alta Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.1663596,
-    "Longitude": -115.27794660000001
-  },
-  {
     "UniqueId": 55363,
     "Timestamp": "2026-09-01 17:35",
     "IncidentType": "Crash",
@@ -1622,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768553/attachment_0.png",
     "Latitude": 36.159071500000003,
     "Longitude": -115.3307282
+  },
+  {
+    "UniqueId": 55478,
+    "Timestamp": "2026-09-02 17:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:25 PM, Sep 02 2026 Crash on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768540/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55479,
+    "Timestamp": "2026-09-02 17:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Vegas Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:28 PM, Sep 02 2026 Crash on NB Rampart Blvd\u00A0before Vegas Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768541/attachment_0.png",
+    "Latitude": 36.188598266805073,
+    "Longitude": -115.28761448363619
   }
 ]
