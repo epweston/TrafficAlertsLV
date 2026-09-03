@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55422,
-    "Timestamp": "2026-09-02 08:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:58 AM, Sep 02 2026 Crash on SB Nellis Blvd\u00A0at Tropicana Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767424/attachment_0.jpg",
-    "Latitude": 36.100319800000001,
-    "Longitude": -115.0640197
-  },
-  {
-    "UniqueId": 55423,
-    "Timestamp": "2026-09-02 09:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:03 AM, Sep 02 2026 Crash on EB Blue Diamond Rd\u00A0before Durango Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.020242606714355,
-    "Longitude": -115.2792624790148
-  },
-  {
     "UniqueId": 55424,
     "Timestamp": "2026-09-02 09:08",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769223/attachment_0.jpg",
     "Latitude": 36.176691302008486,
     "Longitude": -115.24369620296332
+  },
+  {
+    "UniqueId": 55528,
+    "Timestamp": "2026-09-03 09:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:00 AM, Sep 03 2026 Crash on NB Pecos Rd\u00A0after 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769209/attachment_0.png",
+    "Latitude": 36.165351399999999,
+    "Longitude": -115.0982028
   }
 ]
