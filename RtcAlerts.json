@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 55355,
-    "Timestamp": "2026-09-01 16:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "",
-    "Notes": "4:55 PM, Sep 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Lone Mountain Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766735/attachment_0.png",
-    "Latitude": 36.247864105361664,
-    "Longitude": -115.3179235052795
-  },
-  {
-    "UniqueId": 55356,
-    "Timestamp": "2026-09-01 16:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:55 PM, Sep 01 2026 Crash on SB Rampart Blvd\u00A0after Alta Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766736/attachment_0.jpg",
-    "Latitude": 36.166804848968461,
-    "Longitude": -115.28802752494813
-  },
-  {
-    "UniqueId": 55357,
-    "Timestamp": "2026-09-01 17:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:03 PM, Sep 01 2026 Crash on EB Sunset Rd\u00A0at Gibson Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766756/attachment_0.png",
-    "Latitude": 36.063876000000008,
-    "Longitude": -115.0272081
-  },
-  {
-    "UniqueId": 55358,
-    "Timestamp": "2026-09-01 17:04",
-    "IncidentType": "Debris",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:04 PM, Sep 01 2026 Debris on SB I-15\u00A0after Speedway Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766758/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
-    "UniqueId": 55359,
-    "Timestamp": "2026-09-01 17:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "",
-    "Notes": "5:06 PM, Sep 01 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Las Vegas Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766759/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 55360,
     "Timestamp": "2026-09-01 17:10",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768525/attachment_0.png",
     "Latitude": 36.186935721158335,
     "Longitude": -115.30692100524904
+  },
+  {
+    "UniqueId": 55474,
+    "Timestamp": "2026-09-02 17:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cameron St",
+    "Impact": "",
+    "Notes": "5:05 PM, Sep 02 2026 Crash on EB Sunset Rd\u00A0at Cameron St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768533/attachment_0.png",
+    "Latitude": 36.071829399999999,
+    "Longitude": -115.2038328
   }
 ]
