@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55397,
-    "Timestamp": "2026-09-02 03:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:49 AM, Sep 02 2026 Stalled vehicle on NB Decatur Blvd\u00A0at Sunset Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3766891/attachment_0.png",
-    "Latitude": 36.071722914345003,
-    "Longitude": -115.20788313845949
-  },
-  {
     "UniqueId": 55398,
     "Timestamp": "2026-09-02 05:17",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768661/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 55509,
+    "Timestamp": "2026-09-03 04:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "N 5Th St",
+    "Impact": "",
+    "Notes": "4:20 AM, Sep 03 2026 Crash on WB Cheyenne Ave\u00A0at N 5th St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768714/attachment_0.png",
+    "Latitude": 36.217754999999997,
+    "Longitude": -115.13387350000001
   }
 ]
