@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55421,
-    "Timestamp": "2026-09-02 08:54",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:54 AM, Sep 02 2026 Vehicle on fire on NB 215 Western Beltway\u00A0at Lone Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767435/attachment_0.png",
-    "Latitude": 36.247864105361664,
-    "Longitude": -115.3179235052795
-  },
-  {
     "UniqueId": 55422,
     "Timestamp": "2026-09-02 08:58",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769181/attachment_0.png",
     "Latitude": 35.999066361520875,
     "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 55527,
+    "Timestamp": "2026-09-03 08:54",
+    "IncidentType": "Other",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "I-11 off ramp is partially blocked.",
+    "Notes": "8:54 AM, Sep 03 2026 Other on EB Summerlin Pkwy\u00A0at I-11. I-11 off ramp is partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769223/attachment_0.jpg",
+    "Latitude": 36.176691302008486,
+    "Longitude": -115.24369620296332
   }
 ]
