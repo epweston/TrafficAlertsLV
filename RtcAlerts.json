@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55381,
-    "Timestamp": "2026-09-01 21:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:04 PM, Sep 01 2026 Crash on NB Decatur Blvd\u00A0before Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766813/attachment_0.png",
-    "Latitude": 36.086320693233468,
-    "Longitude": -115.20789380375679
-  },
-  {
     "UniqueId": 55382,
     "Timestamp": "2026-09-01 22:45",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768604/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 55494,
+    "Timestamp": "2026-09-02 21:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:30 PM, Sep 02 2026 Stalled vehicle on SB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768605/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
