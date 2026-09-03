@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55387,
-    "Timestamp": "2026-09-01 23:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "11:32 PM, Sep 01 2026 Crash on EB Harmon Ave\u00A0at Mojave Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766833/attachment_0.png",
-    "Latitude": 36.1075357,
-    "Longitude": -115.1053189
-  },
-  {
     "UniqueId": 55388,
     "Timestamp": "2026-09-01 23:46",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768587/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 55499,
+    "Timestamp": "2026-09-02 23:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:31 PM, Sep 02 2026 Crash on WB Tropicana Ave\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768589/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
