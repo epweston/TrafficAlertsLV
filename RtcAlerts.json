@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55364,
-    "Timestamp": "2026-09-01 18:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Eldon St",
-    "Impact": "",
-    "Notes": "6:03 PM, Sep 01 2026 Crash on WB Spring Mountain Rd\u00A0at Eldon St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766748/attachment_0.png",
-    "Latitude": 36.126308299999998,
-    "Longitude": -115.2020371
-  },
-  {
     "UniqueId": 55365,
     "Timestamp": "2026-09-01 18:09",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768561/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 55481,
+    "Timestamp": "2026-09-02 18:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:02 PM, Sep 02 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768572/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
