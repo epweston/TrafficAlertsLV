@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55461,
-    "Timestamp": "2026-09-02 14:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "2:34 PM, Sep 02 2026 Crash on WB 215 Southern Beltway\u00A0at Windmill Ln on ramp. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768309/attachment_0.jpg",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 55462,
     "Timestamp": "2026-09-02 14:55",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769865/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 55555,
+    "Timestamp": "2026-09-03 14:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:48 PM, Sep 03 2026 Stalled vehicle on NB I-15\u00A0at Jean. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769904/attachment_0.jpg",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
   }
 ]
