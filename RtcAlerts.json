@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55386,
-    "Timestamp": "2026-09-01 23:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "11:18 PM, Sep 01 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Sahara Ave. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.144563512522332,
-    "Longitude": -115.33671498298646
-  },
-  {
     "UniqueId": 55387,
     "Timestamp": "2026-09-01 23:32",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768586/attachment_0.png",
     "Latitude": 36.175245009999998,
     "Longitude": -115.16082640000001
+  },
+  {
+    "UniqueId": 55498,
+    "Timestamp": "2026-09-02 23:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Us-95",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "11:16 PM, Sep 02 2026 Crash on NB I-15\u00A0before US-95. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768587/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
