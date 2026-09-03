@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55453,
-    "Timestamp": "2026-09-02 13:24",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "1:24 PM, Sep 02 2026 Crash on EB Sahara Ave\u00A0at Arville St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768169/attachment_0.png",
-    "Latitude": 36.144388499999998,
-    "Longitude": -115.19990439999999
-  },
-  {
-    "UniqueId": 55454,
-    "Timestamp": "2026-09-02 13:27",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:27 PM, Sep 02 2026 Crash on WB Sahara Ave\u00A0at 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768201/attachment_0.png",
-    "Latitude": 36.144633843380831,
-    "Longitude": -115.336660986448
-  },
-  {
     "UniqueId": 55455,
     "Timestamp": "2026-09-02 13:40",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769776/attachment_0.jpg",
     "Latitude": 36.089409500000002,
     "Longitude": -115.1461541
+  },
+  {
+    "UniqueId": 55548,
+    "Timestamp": "2026-09-03 13:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Ramp right lane blocked.",
+    "Notes": "1:29 PM, Sep 03 2026 Crash on SB I-11\u00A0at Casino Center Blvd Off Ramp. Ramp right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769785/attachment_0.jpg",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
   }
 ]
