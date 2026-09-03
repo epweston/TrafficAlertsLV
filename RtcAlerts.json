@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55379,
-    "Timestamp": "2026-09-01 20:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:14 PM, Sep 01 2026 Crash on NB I-15\u00A0before Russell Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766790/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 55380,
     "Timestamp": "2026-09-01 20:25",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768579/attachment_0.png",
     "Latitude": 36.240389716124611,
     "Longitude": -115.24673541911851
+  },
+  {
+    "UniqueId": 55491,
+    "Timestamp": "2026-09-02 20:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "from",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:17 PM, Sep 02 2026 Stalled vehicle on WB 215 Southern Beltway onramp from I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768601/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
