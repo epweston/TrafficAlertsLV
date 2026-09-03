@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55371,
-    "Timestamp": "2026-09-01 18:38",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:38 PM, Sep 01 2026 Crash on EB Flamingo Rd\u00A0after University Center Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766778/attachment_0.png",
-    "Latitude": 36.114693462474712,
-    "Longitude": -115.14635429434829
-  },
-  {
-    "UniqueId": 55372,
-    "Timestamp": "2026-09-01 18:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Bell Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:43 PM, Sep 01 2026 Crash on SB Paradise Rd\u00A0at Bell Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766779/attachment_0.png",
-    "Latitude": 36.099120999999997,
-    "Longitude": -115.1492777
-  },
-  {
-    "UniqueId": 55373,
-    "Timestamp": "2026-09-01 18:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "6:48 PM, Sep 01 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766781/attachment_0.png",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
     "UniqueId": 55374,
     "Timestamp": "2026-09-01 18:58",
     "IncidentType": "Crash",
@@ -1566,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768552/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 55485,
+    "Timestamp": "2026-09-02 18:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "under",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:52 PM, Sep 02 2026 Crash on SB I-15\u00A0under Saint Rose Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768575/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
