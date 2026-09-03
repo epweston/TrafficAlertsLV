@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55434,
-    "Timestamp": "2026-09-02 10:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "10:07 AM, Sep 02 2026 Crash on NB Rancho Dr\u00A0after Washington Ave. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767683/attachment_0.png",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
     "UniqueId": 55435,
     "Timestamp": "2026-09-02 10:12",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769394/attachment_0.jpg",
     "Latitude": 36.247336234578057,
     "Longitude": -115.07996320305016
+  },
+  {
+    "UniqueId": 55537,
+    "Timestamp": "2026-09-03 10:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Apple Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:06 AM, Sep 03 2026 Crash on EB Charleston Blvd\u00A0at Apple Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769401/attachment_0.jpg",
+    "Latitude": 36.159044100000003,
+    "Longitude": -115.3031232
   }
 ]
