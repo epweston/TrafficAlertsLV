@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55446,
-    "Timestamp": "2026-09-02 12:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Best In The West",
-    "Impact": "2 Center lanes blocked. Expect Delays",
-    "Notes": "12:23 PM, Sep 02 2026 Crash on SB Rainbow Blvd\u00A0at Best in the West. 2 Center lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768044/attachment_0.jpg",
-    "Latitude": 36.197594899999999,
-    "Longitude": -115.2395906
-  },
-  {
-    "UniqueId": 55447,
-    "Timestamp": "2026-09-02 12:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "EB Warm Springs Rd is blocked at Bermuda Rd.",
-    "Notes": "12:25 PM, Sep 02 2026 Crash on EB Warm Springs Rd\u00A0at Bermuda Rd. EB Warm Springs Rd is blocked at Bermuda Rd.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768046/attachment_0.jpg",
-    "Latitude": 36.056967700000001,
-    "Longitude": -115.1543886
-  },
-  {
     "UniqueId": 55448,
     "Timestamp": "2026-09-02 12:37",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769668/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 55544,
+    "Timestamp": "2026-09-03 12:25",
+    "IncidentType": "Update: Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lone Mountain Rd",
+    "Impact": "Lamb remains closed in both directions from Lone Mountain Rd to Smiley Rd.",
+    "Notes": "12:25 PM, Sep 03 2026 Update: Crash on NB Lamb Blvd after Lone Mountain Rd. Lamb remains closed in both directions from Lone Mountain Rd to Smiley Rd.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769696/attachment_0.png",
+    "Latitude": 36.247336234578057,
+    "Longitude": -115.07996320305016
   }
 ]
