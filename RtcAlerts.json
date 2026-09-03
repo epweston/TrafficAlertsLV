@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55429,
-    "Timestamp": "2026-09-02 09:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:45 AM, Sep 02 2026 Crash on SB Las Vegas Blvd\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767636/attachment_0.png",
-    "Latitude": 36.1079145,
-    "Longitude": -115.1728291
-  },
-  {
-    "UniqueId": 55430,
-    "Timestamp": "2026-09-02 09:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "9:46 AM, Sep 02 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767657/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 55431,
-    "Timestamp": "2026-09-02 09:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:47 AM, Sep 02 2026 Stalled vehicle on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767661/attachment_0.jpg",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 55432,
     "Timestamp": "2026-09-02 09:52",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769301/attachment_0.jpg",
     "Latitude": 36.247336234578057,
     "Longitude": -115.07996320305016
+  },
+  {
+    "UniqueId": 55533,
+    "Timestamp": "2026-09-03 09:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:44 AM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769310/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 55534,
+    "Timestamp": "2026-09-03 09:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:47 AM, Sep 03 2026 Crash on NB I-15\u00A0before Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769312/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
