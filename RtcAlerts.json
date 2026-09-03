@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55432,
-    "Timestamp": "2026-09-02 09:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:52 AM, Sep 02 2026 Stalled vehicle on SB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767668/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 55433,
-    "Timestamp": "2026-09-02 10:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Chicago Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "10:04 AM, Sep 02 2026 Crash on NB Nellis Blvd\u00A0at Chicago Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767680/attachment_0.png",
-    "Latitude": 36.1505133,
-    "Longitude": -115.0654509
-  },
-  {
     "UniqueId": 55434,
     "Timestamp": "2026-09-02 10:07",
     "IncidentType": "Crash",
@@ -1384,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769312/attachment_0.png",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 55535,
+    "Timestamp": "2026-09-03 10:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:00 AM, Sep 03 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769380/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 55536,
+    "Timestamp": "2026-09-03 10:03",
+    "IncidentType": "Update: Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lone Mountain Rd",
+    "Impact": "Lamb is closed in both directions from Lone Mountain Rd to Smiley Rd.",
+    "Notes": "10:03 AM, Sep 03 2026 Update: Crash on NB Lamb Blvd\u00A0after Lone Mountain Rd. Lamb is closed in both directions from Lone Mountain Rd to Smiley Rd.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769394/attachment_0.jpg",
+    "Latitude": 36.247336234578057,
+    "Longitude": -115.07996320305016
   }
 ]
