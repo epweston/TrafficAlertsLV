@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55444,
-    "Timestamp": "2026-09-02 11:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:55 AM, Sep 02 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768003/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 55445,
     "Timestamp": "2026-09-02 12:09",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769593/attachment_0.png",
     "Latitude": 36.159173199999998,
     "Longitude": -115.24359750000001
+  },
+  {
+    "UniqueId": 55541,
+    "Timestamp": "2026-09-03 11:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:54 AM, Sep 03 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769640/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
