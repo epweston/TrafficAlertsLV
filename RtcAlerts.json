@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55401,
-    "Timestamp": "2026-09-02 06:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:09 AM, Sep 02 2026 Crash on SB Decatur Blvd\u00A0at Warm Springs Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767073/attachment_0.png",
-    "Latitude": 36.057144299999997,
-    "Longitude": -115.2079452
-  },
-  {
-    "UniqueId": 55402,
-    "Timestamp": "2026-09-02 06:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 AM, Sep 02 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767096/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
-    "UniqueId": 55403,
-    "Timestamp": "2026-09-02 06:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:29 AM, Sep 02 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767117/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 55404,
-    "Timestamp": "2026-09-02 06:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:29 AM, Sep 02 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767118/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 55405,
     "Timestamp": "2026-09-02 06:52",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768819/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 55515,
+    "Timestamp": "2026-09-03 06:39",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:39 AM, Sep 03 2026 Crash on EB Cheyenne Ave\u00A0after 215 Western Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768869/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
