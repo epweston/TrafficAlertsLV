@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55443,
-    "Timestamp": "2026-09-02 11:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "11:40 AM, Sep 02 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767964/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 55444,
     "Timestamp": "2026-09-02 11:55",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769551/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 55540,
+    "Timestamp": "2026-09-03 11:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:43 AM, Sep 03 2026 Crash on SB Rainbow Blvd\u00A0before Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769593/attachment_0.png",
+    "Latitude": 36.159173199999998,
+    "Longitude": -115.24359750000001
   }
 ]
