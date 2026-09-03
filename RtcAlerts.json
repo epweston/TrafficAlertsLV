@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55427,
-    "Timestamp": "2026-09-02 09:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:30 AM, Sep 02 2026 Crash on NB Rainbow Blvd\u00A0before 215 Southern Beltway. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767625/attachment_0.png",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
-    "UniqueId": 55428,
-    "Timestamp": "2026-09-02 09:33",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:33 AM, Sep 02 2026 Crash on WB Lake Mead Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3767626/attachment_0.png",
-    "Latitude": 36.196000602251971,
-    "Longitude": -115.24454390895161
-  },
-  {
     "UniqueId": 55429,
     "Timestamp": "2026-09-02 09:45",
     "IncidentType": "Crash",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769249/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 55531,
+    "Timestamp": "2026-09-03 09:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:37 AM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769287/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
