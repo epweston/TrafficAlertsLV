@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55374,
-    "Timestamp": "2026-09-01 18:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:58 PM, Sep 01 2026 Crash on WB Blue Diamond Rd\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766795/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
     "UniqueId": 55376,
     "Timestamp": "2026-09-01 19:12",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768575/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 55486,
+    "Timestamp": "2026-09-02 18:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:59 PM, Sep 02 2026 Crash on WB Craig Rd\u00A0before Rancho Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768596/attachment_0.png",
+    "Latitude": 36.2397007,
+    "Longitude": -115.23257750000001
   }
 ]
