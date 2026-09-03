@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55449,
-    "Timestamp": "2026-09-02 13:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:05 PM, Sep 02 2026 Stalled vehicle on NB I-11\u00A0at Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768176/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
-    "UniqueId": 55450,
-    "Timestamp": "2026-09-02 13:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:06 PM, Sep 02 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768158/attachment_0.jpg",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 55451,
-    "Timestamp": "2026-09-02 13:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Coronado Center Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "1:22 PM, Sep 02 2026 Crash on NB Eastern Ave\u00A0after Coronado Center Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768192/attachment_0.png",
-    "Latitude": 36.002564409146181,
-    "Longitude": -115.10892569074953
-  },
-  {
-    "UniqueId": 55452,
-    "Timestamp": "2026-09-02 13:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Valley Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:22 PM, Sep 02 2026 Crash on SB Nellis Blvd\u00A0before Vegas Valley Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768195/attachment_0.png",
-    "Latitude": 36.13697359374855,
-    "Longitude": -115.06562949343491
-  },
-  {
     "UniqueId": 55453,
     "Timestamp": "2026-09-02 13:24",
     "IncidentType": "Crash",
@@ -1314,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769736/attachment_0.jpg",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 55547,
+    "Timestamp": "2026-09-03 13:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:20 PM, Sep 03 2026 Crash on SB Paradise Rd\u00A0after Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769776/attachment_0.jpg",
+    "Latitude": 36.089409500000002,
+    "Longitude": -115.1461541
   }
 ]
