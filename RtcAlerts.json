@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55389,
-    "Timestamp": "2026-09-02 00:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:05 AM, Sep 02 2026 Crash on EB Harmon Ave\u00A0at Mojave Rd. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.1075357,
-    "Longitude": -115.1053189
-  },
-  {
     "UniqueId": 55390,
     "Timestamp": "2026-09-02 00:19",
     "IncidentType": "Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "",
     "Latitude": 36.175245009999998,
     "Longitude": -115.16082640000001
+  },
+  {
+    "UniqueId": 55504,
+    "Timestamp": "2026-09-03 00:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Us-95",
+    "Impact": "3 Center lanes blocked.",
+    "Notes": "12:02 AM, Sep 03 2026 Crash on NB I-15\u00A0before US-95. 3 Center lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 55505,
+    "Timestamp": "2026-09-03 00:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:05 AM, Sep 03 2026 Crash on EB Charleston Blvd\u00A0at Buffalo Dr. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.159044199999997,
+    "Longitude": -115.2623966
   }
 ]
