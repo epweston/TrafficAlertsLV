@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55363,
-    "Timestamp": "2026-09-01 17:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:35 PM, Sep 01 2026 Crash on NB I-11\u00A0at Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/01/file_attachments/3766762/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 55364,
     "Timestamp": "2026-09-01 18:03",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768541/attachment_0.png",
     "Latitude": 36.188598266805073,
     "Longitude": -115.28761448363619
+  },
+  {
+    "UniqueId": 55480,
+    "Timestamp": "2026-09-02 17:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:37 PM, Sep 02 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768561/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
