@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55551,
-    "Timestamp": "2026-09-03 14:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:02 PM, Sep 03 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769827/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 55552,
-    "Timestamp": "2026-09-03 14:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:05 PM, Sep 03 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769854/attachment_0.jpg",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 55553,
     "Timestamp": "2026-09-03 14:19",
     "IncidentType": "Crash",
@@ -1286,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771242/attachment_0.png",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 55643,
+    "Timestamp": "2026-09-04 14:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:06 PM, Sep 04 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771228/attachment_0.jpg",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 55644,
+    "Timestamp": "2026-09-04 14:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 5",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:09 PM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0after Mile 5. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771246/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
