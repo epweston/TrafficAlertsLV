@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55559,
-    "Timestamp": "2026-09-03 15:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:31 PM, Sep 03 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd on Ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769937/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 55560,
     "Timestamp": "2026-09-03 15:55",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771350/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 55654,
+    "Timestamp": "2026-09-04 15:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "3:31 PM, Sep 04 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771365/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
