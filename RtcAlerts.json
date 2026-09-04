@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55556,
-    "Timestamp": "2026-09-03 15:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:13 PM, Sep 03 2026 Crash on NB Las Vegas Blvd\u00A0at St Rose Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769911/attachment_0.png",
-    "Latitude": 35.965910958046543,
-    "Longitude": -115.17285344363151
-  },
-  {
     "UniqueId": 55557,
     "Timestamp": "2026-09-03 15:25",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771342/attachment_0.jpg",
     "Latitude": 36.063765600000004,
     "Longitude": -115.05256850000001
+  },
+  {
+    "UniqueId": 55651,
+    "Timestamp": "2026-09-04 15:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Us-95",
+    "Relationship": "at",
+    "CrossStreet": "Mile 33",
+    "Impact": "Right shoulder",
+    "Notes": "3:12 PM, Sep 04 2026 Stalled vehicle on NB US-95\u00A0at Mile 33 (past Searchlight NV). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771348/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
