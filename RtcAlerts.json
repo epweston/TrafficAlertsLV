@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55495,
-    "Timestamp": "2026-09-02 22:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:30 PM, Sep 02 2026 Crash on WB 215 Northern Beltway\u00A0at Jones Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768584/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 55497,
     "Timestamp": "2026-09-02 23:09",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770096/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 55597,
+    "Timestamp": "2026-09-03 22:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Spencer St",
+    "Impact": "",
+    "Notes": "10:28 PM, Sep 03 2026 Crash on EB Tropicana Ave\u00A0at Spencer St. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770088/attachment_0.png",
+    "Latitude": 36.101021600000003,
+    "Longitude": -115.1279854
   }
 ]
