@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55477,
-    "Timestamp": "2026-09-02 17:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Pavilion Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:17 PM, Sep 02 2026 Crash on WB Charleston Blvd\u00A0before Pavilion Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768553/attachment_0.png",
-    "Latitude": 36.159071500000003,
-    "Longitude": -115.3307282
-  },
-  {
     "UniqueId": 55478,
     "Timestamp": "2026-09-02 17:25",
     "IncidentType": "Crash",
@@ -1272,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770020/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 55572,
+    "Timestamp": "2026-09-03 17:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:13 PM, Sep 03 2026 Crash on NB St Rose Pkwy\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770022/attachment_0.jpg",
+    "Latitude": 36.007212170000003,
+    "Longitude": -115.11431157
+  },
+  {
+    "UniqueId": 55573,
+    "Timestamp": "2026-09-03 17:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:15 PM, Sep 03 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770006/attachment_0.png",
+    "Latitude": 36.261637469999997,
+    "Longitude": -115.32673715999999
   }
 ]
