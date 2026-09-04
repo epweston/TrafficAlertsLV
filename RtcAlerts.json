@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 55538,
-    "Timestamp": "2026-09-03 11:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:29 AM, Sep 03 2026 Stalled vehicle on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769545/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 55539,
-    "Timestamp": "2026-09-03 11:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:31 AM, Sep 03 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769551/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 55540,
-    "Timestamp": "2026-09-03 11:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:43 AM, Sep 03 2026 Crash on SB Rainbow Blvd\u00A0before Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769593/attachment_0.png",
-    "Latitude": 36.159173199999998,
-    "Longitude": -115.24359750000001
-  },
-  {
-    "UniqueId": 55541,
-    "Timestamp": "2026-09-03 11:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:54 AM, Sep 03 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769640/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
-    "UniqueId": 55542,
-    "Timestamp": "2026-09-03 12:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:01 PM, Sep 03 2026 Stalled vehicle on SB Stephanie St\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769642/attachment_0.png",
-    "Latitude": 36.042649300000001,
-    "Longitude": -115.0467738
-  },
-  {
     "UniqueId": 55543,
     "Timestamp": "2026-09-03 12:13",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770966/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 55633,
+    "Timestamp": "2026-09-04 12:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Intersection partially blocked",
+    "Notes": "12:03 PM, Sep 04 2026 Crash on SB Valley View Blvd\u00A0at Twain Ave. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771049/attachment_0.jpg",
+    "Latitude": 36.122773000000002,
+    "Longitude": -115.190242
   }
 ]
