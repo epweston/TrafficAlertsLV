@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55494,
-    "Timestamp": "2026-09-02 21:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:30 PM, Sep 02 2026 Stalled vehicle on SB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768605/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 55495,
     "Timestamp": "2026-09-02 22:30",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770079/attachment_0.jpg",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 55595,
+    "Timestamp": "2026-09-03 22:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:17 PM, Sep 03 2026 Crash on NB I-11\u00A0after College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770086/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
