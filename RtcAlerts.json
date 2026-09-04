@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55485,
-    "Timestamp": "2026-09-02 18:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "under",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:52 PM, Sep 02 2026 Crash on SB I-15\u00A0under Saint Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768575/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 55486,
-    "Timestamp": "2026-09-02 18:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:59 PM, Sep 02 2026 Crash on WB Craig Rd\u00A0before Rancho Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768596/attachment_0.png",
-    "Latitude": 36.2397007,
-    "Longitude": -115.23257750000001
-  },
-  {
     "UniqueId": 55487,
     "Timestamp": "2026-09-02 19:28",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770056/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 55586,
+    "Timestamp": "2026-09-03 19:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:07 PM, Sep 03 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770049/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
