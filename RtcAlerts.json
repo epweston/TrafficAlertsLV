@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55523,
-    "Timestamp": "2026-09-03 08:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:30 AM, Sep 03 2026 Crash on EB Washington Ave\u00A0before Rancho Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769143/attachment_0.jpg",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
-    "UniqueId": 55524,
-    "Timestamp": "2026-09-03 08:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "8:33 AM, Sep 03 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769160/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 55525,
-    "Timestamp": "2026-09-03 08:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Auto Show on ramp is partially\u00A0blocked.",
-    "Notes": "8:35 AM, Sep 03 2026 Crash on NB I-11\u00A0after Auto Show Dr. Auto Show on ramp is partially\u00A0blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769152/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 55526,
     "Timestamp": "2026-09-03 08:41",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770542/attachment_0.png",
     "Latitude": 36.0412119,
     "Longitude": -114.9796697
+  },
+  {
+    "UniqueId": 55615,
+    "Timestamp": "2026-09-04 08:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:29 AM, Sep 04 2026 Crash on EB Charleston Blvd\u00A0after Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770551/attachment_0.png",
+    "Latitude": 36.158985100000002,
+    "Longitude": -115.2802104
+  },
+  {
+    "UniqueId": 55616,
+    "Timestamp": "2026-09-04 08:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Grand Teton Dr",
+    "Relationship": "at",
+    "CrossStreet": "Egan Crest Dr",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "8:32 AM, Sep 04 2026 Crash on WB Grand Teton Dr\u00A0at Egan Crest Dr. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770582/attachment_0.jpg",
+    "Latitude": 36.306524400000001,
+    "Longitude": -115.3218608
+  },
+  {
+    "UniqueId": 55617,
+    "Timestamp": "2026-09-04 08:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "N St",
+    "Impact": "",
+    "Notes": "8:34 AM, Sep 04 2026 Crash on EB Washington Ave\u00A0at N St. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770593/attachment_0.jpg",
+    "Latitude": 36.180920700000001,
+    "Longitude": -115.159888
   }
 ]
