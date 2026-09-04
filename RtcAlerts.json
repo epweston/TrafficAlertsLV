@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55522,
-    "Timestamp": "2026-09-03 08:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sky Pointe Dr",
-    "Relationship": "before",
-    "CrossStreet": "Centennial Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:05 AM, Sep 03 2026 Crash on SB Sky Pointe Dr\u00A0before Centennial Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769123/attachment_0.png",
-    "Latitude": 36.278141499999997,
-    "Longitude": -115.2608053
-  },
-  {
     "UniqueId": 55523,
     "Timestamp": "2026-09-03 08:30",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770504/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 55613,
+    "Timestamp": "2026-09-04 08:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "11",
+    "Relationship": "at",
+    "CrossStreet": "Railroad Pass Casino Rd",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "8:06 AM, Sep 04 2026 Crash on SB 11\u00A0at Railroad Pass Casino Rd. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770514/attachment_0.png",
+    "Latitude": 35.971149500000003,
+    "Longitude": -114.911565
   }
 ]
