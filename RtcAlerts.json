@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55535,
-    "Timestamp": "2026-09-03 10:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:00 AM, Sep 03 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769380/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 55536,
-    "Timestamp": "2026-09-03 10:03",
-    "IncidentType": "Update: Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Lamb is closed in both directions from Lone Mountain Rd to Smiley Rd.",
-    "Notes": "10:03 AM, Sep 03 2026 Update: Crash on NB Lamb Blvd\u00A0after Lone Mountain Rd. Lamb is closed in both directions from Lone Mountain Rd to Smiley Rd.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769394/attachment_0.jpg",
-    "Latitude": 36.247336234578057,
-    "Longitude": -115.07996320305016
-  },
-  {
-    "UniqueId": 55537,
-    "Timestamp": "2026-09-03 10:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Apple Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:06 AM, Sep 03 2026 Crash on EB Charleston Blvd\u00A0at Apple Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769401/attachment_0.jpg",
-    "Latitude": 36.159044100000003,
-    "Longitude": -115.3031232
-  },
-  {
     "UniqueId": 55538,
     "Timestamp": "2026-09-03 11:29",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770759/attachment_0.jpg",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 55625,
+    "Timestamp": "2026-09-04 10:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:04 AM, Sep 04 2026 Crash on SB Durango Dr\u00A0before Alta Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770793/attachment_0.png",
+    "Latitude": 36.1663596,
+    "Longitude": -115.27794660000001
+  },
+  {
+    "UniqueId": 55626,
+    "Timestamp": "2026-09-04 10:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:04 AM, Sep 04 2026 Crash on SB Eastern Ave\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770814/attachment_0.png",
+    "Latitude": 36.023704889999998,
+    "Longitude": -115.11844739
   }
 ]
