@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55491,
-    "Timestamp": "2026-09-02 20:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "from",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:17 PM, Sep 02 2026 Stalled vehicle on WB 215 Southern Beltway onramp from I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768601/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 55492,
-    "Timestamp": "2026-09-02 20:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "from",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "",
-    "Notes": "8:20 PM, Sep 02 2026 Stalled vehicle on NB 215 Western Beltway onramp from Charleston Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768603/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 55493,
     "Timestamp": "2026-09-02 20:49",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770062/attachment_0.png",
     "Latitude": 36.144174199999988,
     "Longitude": -115.1731231
+  },
+  {
+    "UniqueId": 55589,
+    "Timestamp": "2026-09-03 20:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left and right lanes blocked.",
+    "Notes": "8:26 PM, Sep 03 2026 Crash on WB Craig Rd\u00A0at I-15. Left and right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770073/attachment_0.png",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 55590,
+    "Timestamp": "2026-09-03 20:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Walnut Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:30 PM, Sep 03 2026 Crash on EB Lake Mead Blvd\u00A0after Walnut Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770067/attachment_0.png",
+    "Latitude": 36.195762199999997,
+    "Longitude": -115.08919690000001
   }
 ]
