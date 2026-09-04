@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55515,
-    "Timestamp": "2026-09-03 06:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:39 AM, Sep 03 2026 Crash on EB Cheyenne Ave\u00A0after 215 Western Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768869/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
     "UniqueId": 55516,
     "Timestamp": "2026-09-03 06:59",
     "IncidentType": "Crash",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770350/attachment_0.png",
     "Latitude": 36.217645999999988,
     "Longitude": -115.0801499
+  },
+  {
+    "UniqueId": 55606,
+    "Timestamp": "2026-09-04 06:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Eastgate Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:41 AM, Sep 04 2026 Stalled vehicle on EB Lake Mead Pkwy\u00A0before Eastgate Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770374/attachment_0.jpg",
+    "Latitude": 36.034325041044013,
+    "Longitude": -115.0078868949862
   }
 ]
