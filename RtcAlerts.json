@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55543,
-    "Timestamp": "2026-09-03 12:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:13 PM, Sep 03 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769668/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 55544,
-    "Timestamp": "2026-09-03 12:25",
-    "IncidentType": "Update: Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Lamb remains closed in both directions from Lone Mountain Rd to Smiley Rd.",
-    "Notes": "12:25 PM, Sep 03 2026 Update: Crash on NB Lamb Blvd after Lone Mountain Rd. Lamb remains closed in both directions from Lone Mountain Rd to Smiley Rd.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769696/attachment_0.png",
-    "Latitude": 36.247336234578057,
-    "Longitude": -115.07996320305016
-  },
-  {
     "UniqueId": 55545,
     "Timestamp": "2026-09-03 12:45",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771049/attachment_0.jpg",
     "Latitude": 36.122773000000002,
     "Longitude": -115.190242
+  },
+  {
+    "UniqueId": 55634,
+    "Timestamp": "2026-09-04 12:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:24 PM, Sep 04 2026 Crash on NB Decatur Blvd\u00A0before Harmon Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771097/attachment_0.jpg",
+    "Latitude": 36.108132148641936,
+    "Longitude": -115.20802793789625
   }
 ]
