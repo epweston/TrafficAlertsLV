@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55548,
-    "Timestamp": "2026-09-03 13:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Ramp right lane blocked.",
-    "Notes": "1:29 PM, Sep 03 2026 Crash on SB I-11\u00A0at Casino Center Blvd Off Ramp. Ramp right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769785/attachment_0.jpg",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
     "UniqueId": 55549,
     "Timestamp": "2026-09-03 13:37",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771196/attachment_0.png",
     "Latitude": 36.057527100000001,
     "Longitude": -115.1320724
+  },
+  {
+    "UniqueId": 55637,
+    "Timestamp": "2026-09-04 13:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Burnham Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:28 PM, Sep 04 2026 Crash on EB Charleston Blvd\u00A0at Burnham Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771182/attachment_0.png",
+    "Latitude": 36.158854099999999,
+    "Longitude": -115.1234303
+  },
+  {
+    "UniqueId": 55638,
+    "Timestamp": "2026-09-04 13:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:29 PM, Sep 04 2026 Crash on EB 215 Northern Beltway\u00A0at I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771185/attachment_0.png",
+    "Latitude": 36.271455539999998,
+    "Longitude": -115.05661742
+  },
+  {
+    "UniqueId": 55639,
+    "Timestamp": "2026-09-04 13:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:31 PM, Sep 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771189/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
