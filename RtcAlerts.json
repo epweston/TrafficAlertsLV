@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55516,
-    "Timestamp": "2026-09-03 06:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:59 AM, Sep 03 2026 Crash on NB Eastern Ave\u00A0at Warm Springs Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768905/attachment_0.jpg",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 55518,
-    "Timestamp": "2026-09-03 07:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:14 AM, Sep 03 2026 Crash on SB Decatur Blvd\u00A0before I-11. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768944/attachment_0.jpg",
-    "Latitude": 36.174238600000002,
-    "Longitude": -115.2060639
-  },
-  {
-    "UniqueId": 55519,
-    "Timestamp": "2026-09-03 07:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:20 AM, Sep 03 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Lone Mountain Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768968/attachment_0.png",
-    "Latitude": 36.247864105361664,
-    "Longitude": -115.3179235052795
-  },
-  {
-    "UniqueId": 55520,
-    "Timestamp": "2026-09-03 07:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:23 AM, Sep 03 2026 Stalled vehicle on NB I-15\u00A0at Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768981/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 55521,
     "Timestamp": "2026-09-03 07:51",
     "IncidentType": "Crash",
@@ -1286,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770385/attachment_0.jpg",
     "Latitude": 36.1008578,
     "Longitude": -115.1827169
+  },
+  {
+    "UniqueId": 55609,
+    "Timestamp": "2026-09-04 07:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Basic Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:41 AM, Sep 04 2026 Crash on WB Lake Mead Pkwy\u00A0at Basic Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770467/attachment_0.jpg",
+    "Latitude": 36.03593447530158,
+    "Longitude": -114.99516249646823
   }
 ]
