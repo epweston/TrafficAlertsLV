@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55531,
-    "Timestamp": "2026-09-03 09:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:37 AM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769287/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 55532,
-    "Timestamp": "2026-09-03 09:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "9:39 AM, Sep 03 2026 Crash on NB Lamb Blvd\u00A0after Lone Mountain Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769301/attachment_0.jpg",
-    "Latitude": 36.247336234578057,
-    "Longitude": -115.07996320305016
-  },
-  {
-    "UniqueId": 55533,
-    "Timestamp": "2026-09-03 09:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:44 AM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769310/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 55534,
-    "Timestamp": "2026-09-03 09:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:47 AM, Sep 03 2026 Crash on NB I-15\u00A0before Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769312/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 55535,
     "Timestamp": "2026-09-03 10:00",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770733/attachment_0.jpg",
     "Latitude": 36.235730199999999,
     "Longitude": -115.1802364
+  },
+  {
+    "UniqueId": 55624,
+    "Timestamp": "2026-09-04 09:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:44 AM, Sep 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770759/attachment_0.jpg",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
