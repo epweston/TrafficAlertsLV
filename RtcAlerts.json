@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55521,
-    "Timestamp": "2026-09-03 07:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lanes blocked. Expect Delays",
-    "Notes": "7:51 AM, Sep 03 2026 Crash on SB Rainbow Blvd\u00A0before Charleston Blvd. Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769059/attachment_0.jpg",
-    "Latitude": 36.159173199999998,
-    "Longitude": -115.24359750000001
-  },
-  {
     "UniqueId": 55522,
     "Timestamp": "2026-09-03 08:05",
     "IncidentType": "Crash",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770472/attachment_0.png",
     "Latitude": 36.063540607409585,
     "Longitude": -115.17238147551866
+  },
+  {
+    "UniqueId": 55611,
+    "Timestamp": "2026-09-04 07:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:54 AM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770499/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
