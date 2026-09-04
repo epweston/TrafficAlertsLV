@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55507,
-    "Timestamp": "2026-09-03 01:47",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "at",
-    "CrossStreet": "Park Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:47 AM, Sep 03 2026 Police activity on SB Frank Sinatra Dr\u00A0at Park Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3768640/attachment_0.png",
-    "Latitude": 36.103746110000003,
-    "Longitude": -115.17996671
-  },
-  {
     "UniqueId": 55508,
     "Timestamp": "2026-09-03 03:37",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770119/attachment_0.png",
     "Latitude": 36.066602240000002,
     "Longitude": -115.24247282
+  },
+  {
+    "UniqueId": 55601,
+    "Timestamp": "2026-09-04 01:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Main St",
+    "Relationship": "before",
+    "CrossStreet": "Colorado Ave",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "1:50 AM, Sep 04 2026 Crash on NB Main St\u00A0before Colorado Ave. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770138/attachment_0.png",
+    "Latitude": 36.156117199999997,
+    "Longitude": -115.1537788
   }
 ]
