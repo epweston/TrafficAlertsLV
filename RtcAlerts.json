@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55565,
-    "Timestamp": "2026-09-03 16:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:22 PM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0at Wagon Wheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769987/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 55566,
     "Timestamp": "2026-09-03 16:28",
     "IncidentType": "Crash",
@@ -1328,5 +1314,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771404/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 55660,
+    "Timestamp": "2026-09-04 16:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15 Collector",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:21 PM, Sep 04 2026 Stalled vehicle on NB I-15 Collector\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771406/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 55661,
+    "Timestamp": "2026-09-04 16:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:22 PM, Sep 04 2026 Crash on NB Eastern Ave\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771407/attachment_0.png",
+    "Latitude": 36.167915800000003,
+    "Longitude": -115.11588380000001
+  },
+  {
+    "UniqueId": 55662,
+    "Timestamp": "2026-09-04 16:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder",
+    "Notes": "4:22 PM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771392/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
