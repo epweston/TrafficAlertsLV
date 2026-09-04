@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55497,
-    "Timestamp": "2026-09-02 23:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:09 PM, Sep 02 2026 Crash on NB Martin L King Blvd\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768586/attachment_0.png",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
     "UniqueId": 55498,
     "Timestamp": "2026-09-02 23:16",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770088/attachment_0.png",
     "Latitude": 36.101021600000003,
     "Longitude": -115.1279854
+  },
+  {
+    "UniqueId": 55598,
+    "Timestamp": "2026-09-03 23:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "11:09 PM, Sep 03 2026 Crash on EB Sunset Rd\u00A0at Valley View Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770090/attachment_0.png",
+    "Latitude": 36.071844499999997,
+    "Longitude": -115.1900349
   }
 ]
