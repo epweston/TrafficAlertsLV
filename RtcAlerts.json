@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55529,
-    "Timestamp": "2026-09-03 09:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "Maule Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:08 AM, Sep 03 2026 Crash on NB Durango Dr\u00A0after Maule Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3769234/attachment_0.png",
-    "Latitude": 36.061112099733968,
-    "Longitude": -115.27928353719248
-  },
-  {
     "UniqueId": 55530,
     "Timestamp": "2026-09-03 09:23",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770659/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 55619,
+    "Timestamp": "2026-09-04 09:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:13 AM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770647/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
