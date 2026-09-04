@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55482,
-    "Timestamp": "2026-09-02 18:10",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Left and right lane blocked.",
-    "Notes": "6:10 PM, Sep 02 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Left and right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768550/attachment_0.png",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
     "UniqueId": 55484,
     "Timestamp": "2026-09-02 18:30",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770029/attachment_0.png",
     "Latitude": 36.196151,
     "Longitude": -115.25246420000001
+  },
+  {
+    "UniqueId": 55581,
+    "Timestamp": "2026-09-03 18:23",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:23 PM, Sep 03 2026 Crash on WB Warm Springs Rd\u00A0before Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770043/attachment_0.png",
+    "Latitude": 36.057144299999997,
+    "Longitude": -115.2079452
+  },
+  {
+    "UniqueId": 55582,
+    "Timestamp": "2026-09-03 18:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:25 PM, Sep 03 2026 Crash on NB 215 Western Beltway\u00A0after Town Center Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770031/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
