@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55474,
-    "Timestamp": "2026-09-02 17:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cameron St",
-    "Impact": "",
-    "Notes": "5:05 PM, Sep 02 2026 Crash on EB Sunset Rd\u00A0at Cameron St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768533/attachment_0.png",
-    "Latitude": 36.071829399999999,
-    "Longitude": -115.2038328
-  },
-  {
-    "UniqueId": 55475,
-    "Timestamp": "2026-09-02 17:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "RIght lanes are blocked.",
-    "Notes": "5:09 PM, Sep 02 2026 Crash on SB Jones Blvd\u00A0before Tropicana Ave. RIght lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768528/attachment_0.png",
-    "Latitude": 36.099959300000002,
-    "Longitude": -115.22498229999999
-  },
-  {
-    "UniqueId": 55476,
-    "Timestamp": "2026-09-02 17:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "",
-    "Notes": "5:11 PM, Sep 02 2026 Stalled vehicle on SB Airport Connector\u00A0at Sunset Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/02/file_attachments/3768530/attachment_0.png",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 55477,
     "Timestamp": "2026-09-02 17:17",
     "IncidentType": "Crash",
@@ -1300,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770017/attachment_0.png",
     "Latitude": 36.034951100000001,
     "Longitude": -115.00372520000001
+  },
+  {
+    "UniqueId": 55571,
+    "Timestamp": "2026-09-03 17:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:09 PM, Sep 03 2026 Crash on EB Summerlin Pkwy\u00A0at Durango Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770020/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
