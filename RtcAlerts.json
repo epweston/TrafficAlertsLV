@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55588,
-    "Timestamp": "2026-09-03 20:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:09 PM, Sep 03 2026 Crash on EB Sahara Ave\u00A0before Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770062/attachment_0.png",
-    "Latitude": 36.144174199999988,
-    "Longitude": -115.1731231
-  },
-  {
     "UniqueId": 55589,
     "Timestamp": "2026-09-03 20:26",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771519/attachment_0.png",
     "Latitude": 36.154855519034463,
     "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 55700,
+    "Timestamp": "2026-09-04 20:07",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "All southbound lanes are blocked.",
+    "Notes": "8:07 PM, Sep 04 2026 Update Crash on SB I-11\u00A0at I-15. All southbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771495/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
