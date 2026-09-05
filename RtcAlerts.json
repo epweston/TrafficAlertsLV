@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55580,
-    "Timestamp": "2026-09-03 18:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:04 PM, Sep 03 2026 Crash on EB Lake Mead Blvd\u00A0before Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770029/attachment_0.png",
-    "Latitude": 36.196151,
-    "Longitude": -115.25246420000001
-  },
-  {
     "UniqueId": 55581,
     "Timestamp": "2026-09-03 18:23",
     "IncidentType": "Crash",
@@ -1412,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771456/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 55681,
+    "Timestamp": "2026-09-04 18:08",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:08 PM, Sep 04 2026 Crash on NB Las Vegas Blvd\u00A0before Warm Springs Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771459/attachment_0.jpg",
+    "Latitude": 36.056870840847097,
+    "Longitude": -115.17237723070896
+  },
+  {
+    "UniqueId": 55682,
+    "Timestamp": "2026-09-04 18:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:10 PM, Sep 04 2026 Crash on NB Jones Blvd\u00A0at Hacienda Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771475/attachment_0.jpg",
+    "Latitude": 36.092563061347661,
+    "Longitude": -115.22510286237913
   }
 ]
