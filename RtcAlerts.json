@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55570,
-    "Timestamp": "2026-09-03 17:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Industrial Park Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:01 PM, Sep 03 2026 Crash on WB Lake Mead Pkwy\u00A0at Industrial Park Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770017/attachment_0.png",
-    "Latitude": 36.034951100000001,
-    "Longitude": -115.00372520000001
-  },
-  {
-    "UniqueId": 55571,
-    "Timestamp": "2026-09-03 17:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:09 PM, Sep 03 2026 Crash on EB Summerlin Pkwy\u00A0at Durango Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770020/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 55572,
     "Timestamp": "2026-09-03 17:13",
     "IncidentType": "Crash",
@@ -1356,5 +1328,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771437/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55667,
+    "Timestamp": "2026-09-04 17:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder",
+    "Notes": "5:05 PM, Sep 04 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771440/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 55668,
+    "Timestamp": "2026-09-04 17:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:05 PM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771422/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 55669,
+    "Timestamp": "2026-09-04 17:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "after",
+    "CrossStreet": "9Th St",
+    "Impact": "",
+    "Notes": "5:08 PM, Sep 04 2026 Crash on EB Stewart Ave\u00A0after 9th St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771444/attachment_0.jpg",
+    "Latitude": 36.169651100000003,
+    "Longitude": -115.13466889999999
   }
 ]
