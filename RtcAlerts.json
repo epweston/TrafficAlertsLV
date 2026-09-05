@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55605,
-    "Timestamp": "2026-09-04 06:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:34 AM, Sep 04 2026 Crash on NB Lamb Blvd\u00A0at Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770350/attachment_0.png",
-    "Latitude": 36.217645999999988,
-    "Longitude": -115.0801499
-  },
-  {
-    "UniqueId": 55606,
-    "Timestamp": "2026-09-04 06:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Eastgate Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:41 AM, Sep 04 2026 Stalled vehicle on EB Lake Mead Pkwy\u00A0before Eastgate Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770374/attachment_0.jpg",
-    "Latitude": 36.034325041044013,
-    "Longitude": -115.0078868949862
-  },
-  {
-    "UniqueId": 55607,
-    "Timestamp": "2026-09-04 06:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:44 AM, Sep 04 2026 Crash on WB Cheyenne Ave\u00A0at Lamb Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770379/attachment_0.png",
-    "Latitude": 36.217645999999988,
-    "Longitude": -115.0801499
-  },
-  {
-    "UniqueId": 55608,
-    "Timestamp": "2026-09-04 06:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:51 AM, Sep 04 2026 Crash on WB Tropicana Ave\u00A0before Dean Martin Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770385/attachment_0.jpg",
-    "Latitude": 36.1008578,
-    "Longitude": -115.1827169
-  },
-  {
     "UniqueId": 55609,
     "Timestamp": "2026-09-04 07:41",
     "IncidentType": "Crash",
@@ -1888,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771634/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 55741,
+    "Timestamp": "2026-09-05 07:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "after",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right lanes blocked.",
+    "Notes": "7:05 AM, Sep 05 2026 Crash on EB Russell Rd\u00A0after Tenaya Way. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771636/attachment_0.png",
+    "Latitude": 36.085259800000003,
+    "Longitude": -115.2518996
   }
 ]
