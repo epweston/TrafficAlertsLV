@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55651,
-    "Timestamp": "2026-09-04 15:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "at",
-    "CrossStreet": "Mile 33",
-    "Impact": "Right shoulder",
-    "Notes": "3:12 PM, Sep 04 2026 Stalled vehicle on NB US-95\u00A0at Mile 33 (past Searchlight NV). Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771348/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 55652,
-    "Timestamp": "2026-09-04 15:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Oso Blanca Rd",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:21 PM, Sep 04 2026 Crash on EB Oso Blanca Rd\u00A0after Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771363/attachment_0.jpg",
-    "Latitude": 36.295123400000001,
-    "Longitude": -115.2881131
-  },
-  {
-    "UniqueId": 55653,
-    "Timestamp": "2026-09-04 15:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:24 PM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771350/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 55654,
     "Timestamp": "2026-09-04 15:31",
     "IncidentType": "Stalled vehicle",
@@ -1762,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771730/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 55778,
+    "Timestamp": "2026-09-05 15:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:22 PM, Sep 05 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771749/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
