@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55596,
-    "Timestamp": "2026-09-03 22:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:25 PM, Sep 03 2026 Stalled vehicle on SB I-11\u00A0at Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770096/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
-    "UniqueId": 55597,
-    "Timestamp": "2026-09-03 22:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Spencer St",
-    "Impact": "",
-    "Notes": "10:28 PM, Sep 03 2026 Crash on EB Tropicana Ave\u00A0at Spencer St. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770088/attachment_0.png",
-    "Latitude": 36.101021600000003,
-    "Longitude": -115.1279854
-  },
-  {
     "UniqueId": 55598,
     "Timestamp": "2026-09-03 23:09",
     "IncidentType": "Crash",
@@ -1678,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771537/attachment_0.png",
     "Latitude": 36.115025099999997,
     "Longitude": -115.2969282
+  },
+  {
+    "UniqueId": 55716,
+    "Timestamp": "2026-09-04 22:25",
+    "IncidentType": "Update Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Intersection open in all directions.",
+    "Notes": "10:25 PM, Sep 04 2026 Update Police activity on EB Flamingo Rd\u00A0after Fort Apache Rd. Intersection open in all directions.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771540/attachment_0.jpg",
+    "Latitude": 36.114940498221152,
+    "Longitude": -115.29703436184644
   }
 ]
