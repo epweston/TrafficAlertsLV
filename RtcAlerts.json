@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55637,
-    "Timestamp": "2026-09-04 13:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:28 PM, Sep 04 2026 Crash on EB Charleston Blvd\u00A0at Burnham Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771182/attachment_0.png",
-    "Latitude": 36.158854099999999,
-    "Longitude": -115.1234303
-  },
-  {
-    "UniqueId": 55638,
-    "Timestamp": "2026-09-04 13:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:29 PM, Sep 04 2026 Crash on EB 215 Northern Beltway\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771185/attachment_0.png",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
-    "UniqueId": 55639,
-    "Timestamp": "2026-09-04 13:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:31 PM, Sep 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771189/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 55640,
     "Timestamp": "2026-09-04 13:40",
     "IncidentType": "Crash",
@@ -1860,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771723/attachment_0.png",
     "Latitude": 36.100018540000001,
     "Longitude": -115.29390152000001
+  },
+  {
+    "UniqueId": 55771,
+    "Timestamp": "2026-09-05 13:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Aliante Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:31 PM, Sep 05 2026 Stalled vehicle on NB Northern Beltway\u00A0at Aliante Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771738/attachment_0.png",
+    "Latitude": 36.293459499999997,
+    "Longitude": -115.18487740000001
   }
 ]
