@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55576,
-    "Timestamp": "2026-09-03 17:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:39 PM, Sep 03 2026 Stalled vehicle on NB I-15\u00A0at Harmon Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770011/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
     "UniqueId": 55577,
     "Timestamp": "2026-09-03 17:45",
     "IncidentType": "Crash",
@@ -1370,5 +1356,75 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771428/attachment_0.jpg",
     "Latitude": 36.100957899999997,
     "Longitude": -115.14142750000001
+  },
+  {
+    "UniqueId": 55674,
+    "Timestamp": "2026-09-04 17:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Mile 3",
+    "Impact": "Right shoulder",
+    "Notes": "5:35 PM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0at Mile 3. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771429/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 55675,
+    "Timestamp": "2026-09-04 17:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder",
+    "Notes": "5:37 PM, Sep 04 2026 Stalled vehicle on SB I-15\u00A0after Cactus Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771431/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 55676,
+    "Timestamp": "2026-09-04 17:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:38 PM, Sep 04 2026 Crash on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771432/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 55677,
+    "Timestamp": "2026-09-04 17:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:39 PM, Sep 04 2026 Crash on NB Martin L King Blvd\u00A0at Lake Mead Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771454/attachment_0.jpg",
+    "Latitude": 36.195632400000001,
+    "Longitude": -115.1607403
+  },
+  {
+    "UniqueId": 55678,
+    "Timestamp": "2026-09-04 17:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lower Flat Top Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:39 PM, Sep 04 2026 Stalled vehicle on SB I-15\u00A0before Lower Flat Top Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771451/attachment_0.png",
+    "Latitude": 36.782583331008503,
+    "Longitude": -114.13802574824116
   }
 ]
