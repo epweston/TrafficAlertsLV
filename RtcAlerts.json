@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 55640,
-    "Timestamp": "2026-09-04 13:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:40 PM, Sep 04 2026 Crash on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771234/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 55641,
-    "Timestamp": "2026-09-04 13:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "over",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:43 PM, Sep 04 2026 Crash on WB Lake Mead Blvd\u00A0over I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771217/attachment_0.png",
-    "Latitude": 36.196000602251971,
-    "Longitude": -115.24454390895161
-  },
-  {
-    "UniqueId": 55642,
-    "Timestamp": "2026-09-04 13:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:55 PM, Sep 04 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771242/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
-    "UniqueId": 55643,
-    "Timestamp": "2026-09-04 14:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:06 PM, Sep 04 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771228/attachment_0.jpg",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
-    "UniqueId": 55644,
-    "Timestamp": "2026-09-04 14:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 5",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:09 PM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0after Mile 5. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771246/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 55645,
     "Timestamp": "2026-09-04 14:25",
     "IncidentType": "Crash",
@@ -1860,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771739/attachment_0.png",
     "Latitude": 36.0703216,
     "Longitude": -115.2931701
+  },
+  {
+    "UniqueId": 55774,
+    "Timestamp": "2026-09-05 14:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastgate Rd",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:13 PM, Sep 05 2026 Crash on SB Eastgate Rd\u00A0at Auto Show Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771729/attachment_0.png",
+    "Latitude": 36.046715599999999,
+    "Longitude": -115.0193531
   }
 ]
