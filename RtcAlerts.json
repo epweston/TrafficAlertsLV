@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55581,
-    "Timestamp": "2026-09-03 18:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:23 PM, Sep 03 2026 Crash on WB Warm Springs Rd\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770043/attachment_0.png",
-    "Latitude": 36.057144299999997,
-    "Longitude": -115.2079452
-  },
-  {
-    "UniqueId": 55582,
-    "Timestamp": "2026-09-03 18:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:25 PM, Sep 03 2026 Crash on NB 215 Western Beltway\u00A0after Town Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770031/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
-    "UniqueId": 55583,
-    "Timestamp": "2026-09-03 18:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:27 PM, Sep 03 2026 Crash on NB I-15\u00A0at Lamb Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770053/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 55584,
-    "Timestamp": "2026-09-03 18:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:28 PM, Sep 03 2026 Crash on NB I-11\u00A0before Auto Show Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770045/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 55585,
     "Timestamp": "2026-09-03 18:30",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771475/attachment_0.jpg",
     "Latitude": 36.092563061347661,
     "Longitude": -115.22510286237913
+  },
+  {
+    "UniqueId": 55683,
+    "Timestamp": "2026-09-04 18:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 105",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:22 PM, Sep 04 2026 Crash on NB I-15\u00A0at Mile 105. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771461/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
