@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55600,
-    "Timestamp": "2026-09-04 01:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:01 AM, Sep 04 2026 Crash on NB Rainbow Blvd\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770119/attachment_0.png",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
-    "UniqueId": 55601,
-    "Timestamp": "2026-09-04 01:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "before",
-    "CrossStreet": "Colorado Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "1:50 AM, Sep 04 2026 Crash on NB Main St\u00A0before Colorado Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770138/attachment_0.png",
-    "Latitude": 36.156117199999997,
-    "Longitude": -115.1537788
-  },
-  {
     "UniqueId": 55602,
     "Timestamp": "2026-09-04 03:28",
     "IncidentType": "Crash",
@@ -1832,5 +1804,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771570/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 55732,
+    "Timestamp": "2026-09-05 02:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "2:58 AM, Sep 05 2026 Crash on EB Charleston Blvd\u00A0at Lamb Blvd. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771575/attachment_0.png",
+    "Latitude": 36.158944221110033,
+    "Longitude": -115.08028507232667
   }
 ]
