@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55592,
-    "Timestamp": "2026-09-03 20:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:43 PM, Sep 03 2026 Stalled vehicle on NB I-15 Collector Distributor\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770077/attachment_0.png",
-    "Latitude": 36.078835617458502,
-    "Longitude": -115.18136633150022
-  },
-  {
-    "UniqueId": 55593,
-    "Timestamp": "2026-09-03 20:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:56 PM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770078/attachment_0.jpg",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 55594,
-    "Timestamp": "2026-09-03 20:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:58 PM, Sep 03 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770079/attachment_0.jpg",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 55595,
     "Timestamp": "2026-09-03 22:17",
     "IncidentType": "Crash",
@@ -1580,5 +1538,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771526/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 55705,
+    "Timestamp": "2026-09-04 21:08",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:08 PM, Sep 04 2026 Police activity on NB Fort Apache Rd\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771500/attachment_0.jpg",
+    "Latitude": 36.115025099999997,
+    "Longitude": -115.2969282
+  },
+  {
+    "UniqueId": 55706,
+    "Timestamp": "2026-09-04 21:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Roy Horn Way",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:08 PM, Sep 04 2026 Crash on EB Roy Horn Way\u00A0at Tenaya Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771502/attachment_0.png",
+    "Latitude": 36.065832899999997,
+    "Longitude": -115.251819
+  },
+  {
+    "UniqueId": 55707,
+    "Timestamp": "2026-09-04 21:11",
+    "IncidentType": "Update Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Intersection is blocked all directions.",
+    "Notes": "9:11 PM, Sep 04 2026 Update Police activity on NB Fort Apache Rd\u00A0at Flamingo Rd. Intersection is blocked all directions.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771528/attachment_0.jpg",
+    "Latitude": 36.115025099999997,
+    "Longitude": -115.2969282
   }
 ]
