@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55619,
-    "Timestamp": "2026-09-04 09:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:13 AM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770647/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
-    "UniqueId": 55620,
-    "Timestamp": "2026-09-04 09:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Deer Springs Way",
-    "Relationship": "at",
-    "CrossStreet": "Seeds Fate St",
-    "Impact": "",
-    "Notes": "9:17 AM, Sep 04 2026 Crash on WB Deer Springs Way\u00A0at Seeds Fate St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770670/attachment_0.png",
-    "Latitude": 36.283726000000001,
-    "Longitude": -115.1243992
-  },
-  {
-    "UniqueId": 55621,
-    "Timestamp": "2026-09-04 09:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:19 AM, Sep 04 2026 Crash on EB Cheyenne Ave\u00A0before Losee Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770679/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12740612030031
-  },
-  {
     "UniqueId": 55622,
     "Timestamp": "2026-09-04 09:21",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1790,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771646/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 55751,
+    "Timestamp": "2026-09-05 09:17",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:17 AM, Sep 05 2026 Vehicle on fire on NB I-15\u00A0after Speedway Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771649/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 55752,
+    "Timestamp": "2026-09-05 09:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:17 AM, Sep 05 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771650/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
