@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55628,
-    "Timestamp": "2026-09-04 10:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:40 AM, Sep 04 2026 Crash on SB Lamb Blvd\u00A0after Cheyenne Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770876/attachment_0.png",
-    "Latitude": 36.217645999999988,
-    "Longitude": -115.0801499
-  },
-  {
-    "UniqueId": 55629,
-    "Timestamp": "2026-09-04 10:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:47 AM, Sep 04 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770881/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 55630,
-    "Timestamp": "2026-09-04 10:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:51 AM, Sep 04 2026 Crash on NB I-11\u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770886/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 55631,
     "Timestamp": "2026-09-04 11:15",
     "IncidentType": "Crash",
@@ -1818,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771681/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55759,
+    "Timestamp": "2026-09-05 10:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:53 AM, Sep 05 2026 Stalled vehicle on NB I-15 Collector Distributor\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771691/attachment_0.png",
+    "Latitude": 36.078835617458502,
+    "Longitude": -115.18136633150022
   }
 ]
