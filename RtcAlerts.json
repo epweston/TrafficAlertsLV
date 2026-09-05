@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55595,
-    "Timestamp": "2026-09-03 22:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:17 PM, Sep 03 2026 Crash on NB I-11\u00A0after College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/03/file_attachments/3770086/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 55596,
     "Timestamp": "2026-09-03 22:25",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771510/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 55715,
+    "Timestamp": "2026-09-04 22:14",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Intersection blocked in all directions",
+    "Notes": "10:14 PM, Sep 04 2026 Police activity on NB Fort Apache Rd\u00A0at Flamingo Rd. Intersection blocked in all directions",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771537/attachment_0.png",
+    "Latitude": 36.115025099999997,
+    "Longitude": -115.2969282
   }
 ]
