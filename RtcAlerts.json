@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55615,
-    "Timestamp": "2026-09-04 08:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:29 AM, Sep 04 2026 Crash on EB Charleston Blvd\u00A0after Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770551/attachment_0.png",
-    "Latitude": 36.158985100000002,
-    "Longitude": -115.2802104
-  },
-  {
-    "UniqueId": 55616,
-    "Timestamp": "2026-09-04 08:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Grand Teton Dr",
-    "Relationship": "at",
-    "CrossStreet": "Egan Crest Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:32 AM, Sep 04 2026 Crash on WB Grand Teton Dr\u00A0at Egan Crest Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770582/attachment_0.jpg",
-    "Latitude": 36.306524400000001,
-    "Longitude": -115.3218608
-  },
-  {
-    "UniqueId": 55617,
-    "Timestamp": "2026-09-04 08:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "N St",
-    "Impact": "",
-    "Notes": "8:34 AM, Sep 04 2026 Crash on EB Washington Ave\u00A0at N St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770593/attachment_0.jpg",
-    "Latitude": 36.180920700000001,
-    "Longitude": -115.159888
-  },
-  {
     "UniqueId": 55618,
     "Timestamp": "2026-09-04 09:04",
     "IncidentType": "Stalled vehicle",
@@ -1818,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771643/attachment_0.png",
     "Latitude": 36.174945000000001,
     "Longitude": -115.1371793
+  },
+  {
+    "UniqueId": 55746,
+    "Timestamp": "2026-09-05 08:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:33 AM, Sep 05 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771628/attachment_0.png",
+    "Latitude": 36.178483896259188,
+    "Longitude": -115.25997161865236
   }
 ]
