@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55656,
-    "Timestamp": "2026-09-04 15:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Ogden Ave",
-    "Relationship": "before",
-    "CrossStreet": "1St St",
-    "Impact": "",
-    "Notes": "3:50 PM, Sep 04 2026 Crash on EB Ogden Ave\u00A0before 1st St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771380/attachment_0.jpg",
-    "Latitude": 36.172371900000002,
-    "Longitude": -115.1444606
-  },
-  {
-    "UniqueId": 55657,
-    "Timestamp": "2026-09-04 16:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Linn Ln",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "4:06 PM, Sep 04 2026 Crash on EB Lake Mead Blvd\u00A0at Linn Ln (after Nellis Blvd). Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771389/attachment_0.jpg",
-    "Latitude": 36.196227499999999,
-    "Longitude": -115.04824069999999
-  },
-  {
     "UniqueId": 55658,
     "Timestamp": "2026-09-04 16:17",
     "IncidentType": "Update Crash",
@@ -1748,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771753/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 55782,
+    "Timestamp": "2026-09-05 16:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:06 PM, Sep 05 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771773/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
