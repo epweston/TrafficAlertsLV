@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55625,
-    "Timestamp": "2026-09-04 10:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:04 AM, Sep 04 2026 Crash on SB Durango Dr\u00A0before Alta Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770793/attachment_0.png",
-    "Latitude": 36.1663596,
-    "Longitude": -115.27794660000001
-  },
-  {
-    "UniqueId": 55626,
-    "Timestamp": "2026-09-04 10:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:04 AM, Sep 04 2026 Crash on SB Eastern Ave\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770814/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
     "UniqueId": 55627,
     "Timestamp": "2026-09-04 10:15",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1804,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771664/attachment_0.png",
     "Latitude": 36.159022,
     "Longitude": -115.29140700000001
+  },
+  {
+    "UniqueId": 55757,
+    "Timestamp": "2026-09-05 10:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lucerne St",
+    "Impact": "",
+    "Notes": "10:03 AM, Sep 05 2026 Crash on WB Charleston Blvd\u00A0at Lucerne St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771669/attachment_0.png",
+    "Latitude": 36.158911000000003,
+    "Longitude": -115.0722241
   }
 ]
