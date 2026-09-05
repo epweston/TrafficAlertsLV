@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55603,
-    "Timestamp": "2026-09-04 03:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:52 AM, Sep 04 2026 Crash on SB I-11\u00A0before Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3770168/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 55604,
     "Timestamp": "2026-09-04 06:11",
     "IncidentType": "Stalled vehicle",
@@ -1846,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771596/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 55736,
+    "Timestamp": "2026-09-05 03:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:54 AM, Sep 05 2026 Crash on NB I-15\u00A0at Harmon Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771599/attachment_0.png",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
   }
 ]
