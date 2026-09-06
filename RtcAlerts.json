@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55681,
-    "Timestamp": "2026-09-04 18:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:08 PM, Sep 04 2026 Crash on NB Las Vegas Blvd\u00A0before Warm Springs Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771459/attachment_0.jpg",
-    "Latitude": 36.056870840847097,
-    "Longitude": -115.17237723070896
-  },
-  {
-    "UniqueId": 55682,
-    "Timestamp": "2026-09-04 18:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:10 PM, Sep 04 2026 Crash on NB Jones Blvd\u00A0at Hacienda Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771475/attachment_0.jpg",
-    "Latitude": 36.092563061347661,
-    "Longitude": -115.22510286237913
-  },
-  {
     "UniqueId": 55683,
     "Timestamp": "2026-09-04 18:22",
     "IncidentType": "Crash",
@@ -1608,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771792/attachment_0.png",
     "Latitude": 36.158996094562028,
     "Longitude": -115.16085736012774
+  },
+  {
+    "UniqueId": 55801,
+    "Timestamp": "2026-09-05 18:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:07 PM, Sep 05 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771814/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 55802,
+    "Timestamp": "2026-09-05 18:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:08 PM, Sep 05 2026 Crash on EB Flamingo Rd\u00A0after Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771799/attachment_0.jpg",
+    "Latitude": 36.115652300000001,
+    "Longitude": -115.1899418
   }
 ]
