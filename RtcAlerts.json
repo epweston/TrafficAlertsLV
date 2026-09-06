@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55688,
-    "Timestamp": "2026-09-04 18:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sandhill Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "6:52 PM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0after Sandhill Blvd (Mile 122). Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771484/attachment_0.png",
-    "Latitude": 36.161054999999998,
-    "Longitude": -115.0909216
-  },
-  {
-    "UniqueId": 55689,
-    "Timestamp": "2026-09-04 18:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cc-215",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:53 PM, Sep 04 2026 Crash on WB CC-215\u00A0at Buffalo Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771467/attachment_0.png",
-    "Latitude": 36.158565600000003,
-    "Longitude": -115.26219089999999
-  },
-  {
     "UniqueId": 55690,
     "Timestamp": "2026-09-04 19:03",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771824/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 55808,
+    "Timestamp": "2026-09-05 18:57",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "Us-95",
+    "Relationship": "before",
+    "CrossStreet": "Sr165 - Nelson Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:57 PM, Sep 05 2026 Vehicle on fire on SB US-95\u00A0before SR165 - Nelson Rd (at Mile 47). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771825/attachment_0.jpg",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
