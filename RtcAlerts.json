@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55717,
-    "Timestamp": "2026-09-04 22:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder",
-    "Notes": "10:39 PM, Sep 04 2026 Crash on NB I-15\u00A0before Washington Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771541/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 55718,
-    "Timestamp": "2026-09-04 22:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:47 PM, Sep 04 2026 Stalled vehicle on SB I-15\u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771553/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 55720,
     "Timestamp": "2026-09-04 23:14",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771869/attachment_0.jpg",
     "Latitude": 36.174907193288441,
     "Longitude": -115.13711572951844
+  },
+  {
+    "UniqueId": 55835,
+    "Timestamp": "2026-09-05 22:44",
+    "IncidentType": "Update Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder.",
+    "Notes": "10:44 PM, Sep 05 2026 Update Crash on NB I-15\u00A0at I-11. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771873/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
