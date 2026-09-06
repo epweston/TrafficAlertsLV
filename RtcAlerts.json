@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55703,
-    "Timestamp": "2026-09-04 20:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:37 PM, Sep 04 2026 Stalled vehicle on NB Decatur Blvd\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771525/attachment_0.png",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
     "UniqueId": 55704,
     "Timestamp": "2026-09-04 20:39",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771853/attachment_0.jpg",
     "Latitude": 36.240302799999988,
     "Longitude": -115.0711082
+  },
+  {
+    "UniqueId": 55819,
+    "Timestamp": "2026-09-05 20:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "before",
+    "CrossStreet": "Edison Cir",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:34 PM, Sep 05 2026 Crash on NB Paradise Rd\u00A0before Edison Cir (after Twain Ave-Sands Ave). Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771855/attachment_0.png",
+    "Latitude": 36.124938899999997,
+    "Longitude": -115.1550072
   }
 ]
