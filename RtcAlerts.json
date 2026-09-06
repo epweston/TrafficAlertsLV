@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55715,
-    "Timestamp": "2026-09-04 22:14",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Intersection blocked in all directions",
-    "Notes": "10:14 PM, Sep 04 2026 Police activity on NB Fort Apache Rd\u00A0at Flamingo Rd. Intersection blocked in all directions",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771537/attachment_0.png",
-    "Latitude": 36.115025099999997,
-    "Longitude": -115.2969282
-  },
-  {
-    "UniqueId": 55716,
-    "Timestamp": "2026-09-04 22:25",
-    "IncidentType": "Update Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Intersection open in all directions.",
-    "Notes": "10:25 PM, Sep 04 2026 Update Police activity on EB Flamingo Rd\u00A0after Fort Apache Rd. Intersection open in all directions.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771540/attachment_0.jpg",
-    "Latitude": 36.114940498221152,
-    "Longitude": -115.29703436184644
-  },
-  {
     "UniqueId": 55717,
     "Timestamp": "2026-09-04 22:39",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771862/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 55832,
+    "Timestamp": "2026-09-05 22:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Carey Ave",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:21 PM, Sep 05 2026 Crash on WB Carey Ave\u00A0before Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771866/attachment_0.jpg",
+    "Latitude": 36.202855100000001,
+    "Longitude": -115.1989426
   }
 ]
