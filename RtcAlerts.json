@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55750,
-    "Timestamp": "2026-09-05 09:05",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "All lanes are blocked. Expect Delays",
-    "Notes": "9:05 AM, Sep 05 2026 Vehicle on fire on NB I-15\u00A0after Speedway Blvd. All lanes are blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771646/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 55751,
     "Timestamp": "2026-09-05 09:17",
     "IncidentType": "Vehicle on fire",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771976/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 55874,
+    "Timestamp": "2026-09-06 09:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:06 AM, Sep 06 2026 Crash on SB Rancho Dr\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771978/attachment_0.png",
+    "Latitude": 36.144174199999988,
+    "Longitude": -115.1731231
   }
 ]
