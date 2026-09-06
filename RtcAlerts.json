@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55686,
-    "Timestamp": "2026-09-04 18:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:43 PM, Sep 04 2026 Crash on WB Tropicana Ave\u00A0at Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771480/attachment_0.png",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
     "UniqueId": 55687,
     "Timestamp": "2026-09-04 18:49",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771820/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 55806,
+    "Timestamp": "2026-09-05 18:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "before",
+    "CrossStreet": "Joey Bishop Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:40 PM, Sep 05 2026 Crash on NB Dean Martin Dr\u00A0before Joey Bishop Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771822/attachment_0.png",
+    "Latitude": 36.103109000000003,
+    "Longitude": -115.18133469999999
   }
 ]
