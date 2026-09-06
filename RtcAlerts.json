@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55770,
-    "Timestamp": "2026-09-05 13:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:19 PM, Sep 05 2026 Crash on EB Tropicana Ave\u00A0at 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771723/attachment_0.png",
-    "Latitude": 36.100018540000001,
-    "Longitude": -115.29390152000001
-  },
-  {
-    "UniqueId": 55771,
-    "Timestamp": "2026-09-05 13:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:31 PM, Sep 05 2026 Stalled vehicle on NB Northern Beltway\u00A0at Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771738/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 55772,
-    "Timestamp": "2026-09-05 13:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 93",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:32 PM, Sep 05 2026 Stalled vehicle on NB I-15\u00A0at Mile 93. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771725/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 55773,
-    "Timestamp": "2026-09-05 13:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Quarterhorse Ln",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "1:35 PM, Sep 05 2026 Crash on NB Quarterhorse Ln\u00A0at Sunset Rd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771739/attachment_0.png",
-    "Latitude": 36.0703216,
-    "Longitude": -115.2931701
-  },
-  {
     "UniqueId": 55774,
     "Timestamp": "2026-09-05 14:13",
     "IncidentType": "Crash",
@@ -1524,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772028/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 55888,
+    "Timestamp": "2026-09-06 13:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:46 PM, Sep 06 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772042/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 55889,
+    "Timestamp": "2026-09-06 13:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Gore blocked.",
+    "Notes": "1:48 PM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772032/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
