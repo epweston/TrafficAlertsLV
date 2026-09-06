@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55692,
-    "Timestamp": "2026-09-04 19:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder",
-    "Notes": "7:07 PM, Sep 04 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Warm Springs Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771471/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
-    "UniqueId": 55693,
-    "Timestamp": "2026-09-04 19:24",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "8Th St",
-    "Relationship": "after",
-    "CrossStreet": "9Th St",
-    "Impact": "",
-    "Notes": "7:24 PM, Sep 04 2026 Police activity on SB 8th St\u00A0after 9th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771472/attachment_0.jpg",
-    "Latitude": 36.173081699999997,
-    "Longitude": -115.1339694
-  },
-  {
     "UniqueId": 55694,
     "Timestamp": "2026-09-04 19:38",
     "IncidentType": "Crash",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771803/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55810,
+    "Timestamp": "2026-09-05 19:28",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:28 PM, Sep 05 2026 Crash on SB I-15\u00A0at Charleston Blvd off-ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771806/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
