@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55707,
-    "Timestamp": "2026-09-04 21:11",
-    "IncidentType": "Update Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Intersection is blocked all directions.",
-    "Notes": "9:11 PM, Sep 04 2026 Update Police activity on NB Fort Apache Rd\u00A0at Flamingo Rd. Intersection is blocked all directions.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771528/attachment_0.jpg",
-    "Latitude": 36.115025099999997,
-    "Longitude": -115.2969282
-  },
-  {
-    "UniqueId": 55708,
-    "Timestamp": "2026-09-04 21:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:19 PM, Sep 04 2026 Crash on EB Washington Ave\u00A0after I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771529/attachment_0.png",
-    "Latitude": 36.180960652520049,
-    "Longitude": -115.14510597539126
-  },
-  {
-    "UniqueId": 55709,
-    "Timestamp": "2026-09-04 21:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:23 PM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0after Lake Mead Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771506/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 55710,
     "Timestamp": "2026-09-04 21:27",
     "IncidentType": "Crash",
@@ -1552,5 +1510,19 @@
     "ImagePath": "",
     "Latitude": 36.152630899999998,
     "Longitude": -115.1730148
+  },
+  {
+    "UniqueId": 55824,
+    "Timestamp": "2026-09-05 21:24",
+    "IncidentType": "Update Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Stephanie St All Lanes Are Open",
+    "Impact": "",
+    "Notes": "9:24 PM, Sep 05 2026 Update Crash on WB Russell Rd\u00A0at Stephanie St. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771858/attachment_0.png",
+    "Latitude": 36.083983199999999,
+    "Longitude": -115.04395289999999
   }
 ]
