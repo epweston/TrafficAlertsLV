@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55790,
-    "Timestamp": "2026-09-05 16:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 93",
-    "Impact": "Right shoulder",
-    "Notes": "4:56 PM, Sep 05 2026 Stalled vehicle on SB I-15\u00A0at Mile 93. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771768/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 55791,
     "Timestamp": "2026-09-05 16:59",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772060/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 55899,
+    "Timestamp": "2026-09-06 16:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Saint Louis Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "4:54 PM, Sep 06 2026 Crash on SB Nellis Blvd\u00A0at Saint Louis Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772063/attachment_0.png",
+    "Latitude": 36.1491203,
+    "Longitude": -115.0655354
   }
 ]
