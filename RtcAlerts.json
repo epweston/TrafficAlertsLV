@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55664,
-    "Timestamp": "2026-09-04 16:48",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Neon Gateway",
-    "Relationship": "under",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:48 PM, Sep 04 2026 Police activity on EB Neon Gateway\u00A0under I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771418/attachment_0.png",
-    "Latitude": 36.155120340540229,
-    "Longitude": -115.16167235444229
-  },
-  {
-    "UniqueId": 55665,
-    "Timestamp": "2026-09-04 16:49",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Linn Ln",
-    "Impact": "Right lanes blocked. Left lane is open.",
-    "Notes": "4:49 PM, Sep 04 2026 Update Crash on EB Lake Mead Blvd\u00A0at Linn Ln. Right lanes blocked. Left lane is open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771434/attachment_0.jpg",
-    "Latitude": 36.196227499999999,
-    "Longitude": -115.04824069999999
-  },
-  {
-    "UniqueId": 55666,
-    "Timestamp": "2026-09-04 16:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:52 PM, Sep 04 2026 Crash on NB I-15\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771437/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 55667,
     "Timestamp": "2026-09-04 17:05",
     "IncidentType": "Stalled vehicle",
@@ -1748,5 +1706,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771763/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 55790,
+    "Timestamp": "2026-09-05 16:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 93",
+    "Impact": "Right shoulder",
+    "Notes": "4:56 PM, Sep 05 2026 Stalled vehicle on SB I-15\u00A0at Mile 93. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771768/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 55791,
+    "Timestamp": "2026-09-05 16:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder",
+    "Notes": "4:59 PM, Sep 05 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0before Ann Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771770/attachment_0.png",
+    "Latitude": 36.261508127735802,
+    "Longitude": -115.32678022210708
   }
 ]
