@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55746,
-    "Timestamp": "2026-09-05 08:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:33 AM, Sep 05 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771628/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
-    "UniqueId": 55747,
-    "Timestamp": "2026-09-05 08:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:39 AM, Sep 05 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771630/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 55748,
     "Timestamp": "2026-09-05 08:42",
     "IncidentType": "Vehicle on fire",
@@ -1608,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771960/attachment_0.png",
     "Latitude": 36.070465899999988,
     "Longitude": -115.27951229999999
+  },
+  {
+    "UniqueId": 55870,
+    "Timestamp": "2026-09-06 08:35",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:35 AM, Sep 06 2026 Police activity on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771961/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
