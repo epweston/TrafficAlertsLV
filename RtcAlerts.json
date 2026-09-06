@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55767,
-    "Timestamp": "2026-09-05 12:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:23 PM, Sep 05 2026 Crash on EB Flamingo Rd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771712/attachment_0.png",
-    "Latitude": 36.114676128133588,
-    "Longitude": -115.17288565635683
-  },
-  {
-    "UniqueId": 55768,
-    "Timestamp": "2026-09-05 12:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Mcdaniel St All Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "12:29 PM, Sep 05 2026 Crash on WB Lake Mead Blvd\u00A0at McDaniel St. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771720/attachment_0.jpg",
-    "Latitude": 36.195763300000003,
-    "Longitude": -115.12070660000001
-  },
-  {
-    "UniqueId": 55769,
-    "Timestamp": "2026-09-05 12:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Vegas Dr",
-    "Relationship": "after",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "12:48 PM, Sep 05 2026 Crash on WB Vegas Dr\u00A0after Martin L King Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771735/attachment_0.jpg",
-    "Latitude": 36.1883999,
-    "Longitude": -115.1607734
-  },
-  {
     "UniqueId": 55770,
     "Timestamp": "2026-09-05 13:19",
     "IncidentType": "Crash",
@@ -1552,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772038/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 55887,
+    "Timestamp": "2026-09-06 12:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:59 PM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772028/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
