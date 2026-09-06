@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55705,
-    "Timestamp": "2026-09-04 21:08",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:08 PM, Sep 04 2026 Police activity on NB Fort Apache Rd\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771500/attachment_0.jpg",
-    "Latitude": 36.115025099999997,
-    "Longitude": -115.2969282
-  },
-  {
-    "UniqueId": 55706,
-    "Timestamp": "2026-09-04 21:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Way",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:08 PM, Sep 04 2026 Crash on EB Roy Horn Way\u00A0at Tenaya Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771502/attachment_0.png",
-    "Latitude": 36.065832899999997,
-    "Longitude": -115.251819
-  },
-  {
     "UniqueId": 55707,
     "Timestamp": "2026-09-04 21:11",
     "IncidentType": "Update Police activity",
@@ -1566,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771857/attachment_0.png",
     "Latitude": 36.177653931557593,
     "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 55823,
+    "Timestamp": "2026-09-05 21:04",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "S Rancho Dr",
+    "Relationship": "under",
+    "CrossStreet": "I-11",
+    "Impact": "Incident clear.",
+    "Notes": "9:04 PM, Sep 05 2026 Update Crash on SB S Rancho Dr\u00A0under I-11. Incident clear.",
+    "ImagePath": "",
+    "Latitude": 36.152630899999998,
+    "Longitude": -115.1730148
   }
 ]
