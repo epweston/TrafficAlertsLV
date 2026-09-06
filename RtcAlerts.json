@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55683,
-    "Timestamp": "2026-09-04 18:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 105",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 PM, Sep 04 2026 Crash on NB I-15\u00A0at Mile 105. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771461/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 55684,
-    "Timestamp": "2026-09-04 18:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:33 PM, Sep 04 2026 Crash on NB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771464/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 55685,
     "Timestamp": "2026-09-04 18:35",
     "IncidentType": "Crash",
@@ -1608,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771799/attachment_0.jpg",
     "Latitude": 36.115652300000001,
     "Longitude": -115.1899418
+  },
+  {
+    "UniqueId": 55803,
+    "Timestamp": "2026-09-05 18:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Stephanie St",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:31 PM, Sep 05 2026 Crash on NB Stephanie St\u00A0before Sunset Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771817/attachment_0.png",
+    "Latitude": 36.063631899999997,
+    "Longitude": -115.046273
+  },
+  {
+    "UniqueId": 55804,
+    "Timestamp": "2026-09-05 18:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:31 PM, Sep 05 2026 Crash on WB Lake Mead Blvd\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771818/attachment_0.png",
+    "Latitude": 36.195865100000013,
+    "Longitude": -115.1288797
   }
 ]
