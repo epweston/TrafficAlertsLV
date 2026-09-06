@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55702,
-    "Timestamp": "2026-09-04 20:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:22 PM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771522/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 55703,
     "Timestamp": "2026-09-04 20:37",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771834/attachment_0.jpg",
     "Latitude": 36.25565434,
     "Longitude": -115.2465177
+  },
+  {
+    "UniqueId": 55817,
+    "Timestamp": "2026-09-05 20:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Simmons St",
+    "Relationship": "after",
+    "CrossStreet": "Carey Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:24 PM, Sep 05 2026 Crash on SB Simmons St\u00A0after Carey Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771811/attachment_0.png",
+    "Latitude": 36.202838300000003,
+    "Longitude": -115.178769
   }
 ]
