@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55667,
-    "Timestamp": "2026-09-04 17:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:05 PM, Sep 04 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771440/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 55668,
-    "Timestamp": "2026-09-04 17:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:05 PM, Sep 04 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771422/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 55669,
-    "Timestamp": "2026-09-04 17:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "after",
-    "CrossStreet": "9Th St",
-    "Impact": "",
-    "Notes": "5:08 PM, Sep 04 2026 Crash on EB Stewart Ave\u00A0after 9th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771444/attachment_0.jpg",
-    "Latitude": 36.169651100000003,
-    "Longitude": -115.13466889999999
-  },
-  {
     "UniqueId": 55670,
     "Timestamp": "2026-09-04 17:22",
     "IncidentType": "Crash",
@@ -1734,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771770/attachment_0.png",
     "Latitude": 36.261508127735802,
     "Longitude": -115.32678022210708
+  },
+  {
+    "UniqueId": 55793,
+    "Timestamp": "2026-09-05 17:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder",
+    "Notes": "5:11 PM, Sep 05 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771771/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
