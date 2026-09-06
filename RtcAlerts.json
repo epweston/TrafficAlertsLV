@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55758,
-    "Timestamp": "2026-09-05 10:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:12 AM, Sep 05 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771681/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 55759,
     "Timestamp": "2026-09-05 10:53",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771981/attachment_0.jpg",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 55877,
+    "Timestamp": "2026-09-06 10:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Sr 163",
+    "Relationship": "at",
+    "CrossStreet": "Mile 7",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "10:40 AM, Sep 06 2026 Crash on SB SR 163\u00A0at Mile 7. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
