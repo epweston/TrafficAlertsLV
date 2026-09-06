@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55704,
-    "Timestamp": "2026-09-04 20:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:39 PM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771526/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 55705,
     "Timestamp": "2026-09-04 21:08",
     "IncidentType": "Police activity",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771855/attachment_0.png",
     "Latitude": 36.124938899999997,
     "Longitude": -115.1550072
+  },
+  {
+    "UniqueId": 55820,
+    "Timestamp": "2026-09-05 20:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder",
+    "Notes": "8:38 PM, Sep 05 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771836/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
