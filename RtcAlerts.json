@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55671,
-    "Timestamp": "2026-09-04 17:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bessler St",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:25 PM, Sep 04 2026 Crash on EB Lake Mead Blvd\u00A0at Bessler St (after Civic Center Dr). Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771446/attachment_0.jpg",
-    "Latitude": 36.196151,
-    "Longitude": -115.25246420000001
-  },
-  {
-    "UniqueId": 55672,
-    "Timestamp": "2026-09-04 17:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "5:26 PM, Sep 04 2026 Stalled vehicle on NB I-15\u00A0at . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771447/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 55673,
-    "Timestamp": "2026-09-04 17:27",
-    "IncidentType": "Fire",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Wilbur St",
-    "Impact": "",
-    "Notes": "5:27 PM, Sep 04 2026 Fire on EB Tropicana Ave\u00A0after Wilbur St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771428/attachment_0.jpg",
-    "Latitude": 36.100957899999997,
-    "Longitude": -115.14142750000001
-  },
-  {
     "UniqueId": 55674,
     "Timestamp": "2026-09-04 17:35",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771772/attachment_0.png",
     "Latitude": 36.136437600000001,
     "Longitude": -115.19044289999999
+  },
+  {
+    "UniqueId": 55795,
+    "Timestamp": "2026-09-05 17:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Spencer St",
+    "Impact": "",
+    "Notes": "5:29 PM, Sep 05 2026 Crash on WB Tropicana Ave\u00A0before Spencer St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771787/attachment_0.png",
+    "Latitude": 36.101021600000003,
+    "Longitude": -115.1279854
   }
 ]
