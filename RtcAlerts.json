@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55745,
-    "Timestamp": "2026-09-05 08:20",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd North",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:20 AM, Sep 05 2026 Crash on WB Bonanza Rd\u00A0at Las Vegas Blvd North. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771643/attachment_0.png",
-    "Latitude": 36.174945000000001,
-    "Longitude": -115.1371793
-  },
-  {
     "UniqueId": 55746,
     "Timestamp": "2026-09-05 08:33",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771931/attachment_0.png",
     "Latitude": 36.218215105055222,
     "Longitude": -115.25137245445325
+  },
+  {
+    "UniqueId": 55869,
+    "Timestamp": "2026-09-06 08:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:27 AM, Sep 06 2026 Crash on WB Sunset Rd\u00A0after Durango Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771960/attachment_0.png",
+    "Latitude": 36.070465899999988,
+    "Longitude": -115.27951229999999
   }
 ]
