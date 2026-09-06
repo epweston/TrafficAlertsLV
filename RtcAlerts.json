@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55714,
-    "Timestamp": "2026-09-04 22:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "10:07 PM, Sep 04 2026 Stalled vehicle on SB I-11\u00A0to Boulder Hwy off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/04/file_attachments/3771510/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 55715,
     "Timestamp": "2026-09-04 22:14",
     "IncidentType": "Police activity",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771860/attachment_0.png",
     "Latitude": 36.101021600000003,
     "Longitude": -115.1279854
+  },
+  {
+    "UniqueId": 55830,
+    "Timestamp": "2026-09-05 22:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:04 PM, Sep 05 2026 Stalled vehicle on NB I-15\u00A0at I-11. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771862/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
