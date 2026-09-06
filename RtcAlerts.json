@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55734,
-    "Timestamp": "2026-09-05 03:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sacramento Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:31 AM, Sep 05 2026 Crash on SB Sacramento Dr\u00A0at Charleston Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771577/attachment_0.png",
-    "Latitude": 36.158839899999997,
-    "Longitude": -115.0873266
-  },
-  {
     "UniqueId": 55735,
     "Timestamp": "2026-09-05 03:45",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "",
     "Latitude": 36.168568999999998,
     "Longitude": -115.1425728
+  },
+  {
+    "UniqueId": 55849,
+    "Timestamp": "2026-09-06 03:34",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Puebla St All Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "3:34 AM, Sep 06 2026 Crash on WB Craig Rd\u00A0at Puebla St. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.240302799999988,
+    "Longitude": -115.0711082
   }
 ]
