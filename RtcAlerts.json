@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55766,
-    "Timestamp": "2026-09-05 11:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:47 AM, Sep 05 2026 Crash on EB Tropicana Ave\u00A0after Koval Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771710/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
     "UniqueId": 55767,
     "Timestamp": "2026-09-05 12:23",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772033/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 55883,
+    "Timestamp": "2026-09-06 11:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:52 AM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772025/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
