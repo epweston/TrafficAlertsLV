@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55748,
-    "Timestamp": "2026-09-05 08:42",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:42 AM, Sep 05 2026 Vehicle on fire on NB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771632/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 55749,
     "Timestamp": "2026-09-05 08:57",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771961/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 55871,
+    "Timestamp": "2026-09-06 08:45",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:45 AM, Sep 06 2026 Police activity on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771974/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 55872,
+    "Timestamp": "2026-09-06 08:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:49 AM, Sep 06 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Tropicana Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771962/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
