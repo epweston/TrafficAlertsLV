@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55887,
-    "Timestamp": "2026-09-06 12:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:59 PM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772028/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 55888,
     "Timestamp": "2026-09-06 13:46",
     "IncidentType": "Stalled vehicle",
@@ -866,5 +852,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772433/attachment_0.jpg",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 55955,
+    "Timestamp": "2026-09-07 13:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Bock St",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:30 PM, Sep 07 2026 Crash on SB Bock St\u00A0after Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772455/attachment_0.png",
+    "Latitude": 36.100954100000003,
+    "Longitude": -115.14360499999999
   }
 ]
