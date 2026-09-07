@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55791,
-    "Timestamp": "2026-09-05 16:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder",
-    "Notes": "4:59 PM, Sep 05 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0before Ann Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771770/attachment_0.png",
-    "Latitude": 36.261508127735802,
-    "Longitude": -115.32678022210708
-  },
-  {
-    "UniqueId": 55793,
-    "Timestamp": "2026-09-05 17:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:11 PM, Sep 05 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771771/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 55794,
-    "Timestamp": "2026-09-05 17:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Meade Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:17 PM, Sep 05 2026 Crash on NB Valley View Blvd\u00A0at Meade Ave (past Desert Inn Rd). Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771772/attachment_0.png",
-    "Latitude": 36.136437600000001,
-    "Longitude": -115.19044289999999
-  },
-  {
     "UniqueId": 55795,
     "Timestamp": "2026-09-05 17:29",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772063/attachment_0.png",
     "Latitude": 36.1491203,
     "Longitude": -115.0655354
+  },
+  {
+    "UniqueId": 55901,
+    "Timestamp": "2026-09-06 17:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:23 PM, Sep 06 2026 Stalled vehicle on NB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772066/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
