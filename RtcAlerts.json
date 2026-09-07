@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55814,
-    "Timestamp": "2026-09-05 20:11",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St All Lanes Are",
-    "Impact": "",
-    "Notes": "8:11 PM, Sep 05 2026 Crash on WB Russell Rd\u00A0at Stephanie St. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771831/attachment_0.jpg",
-    "Latitude": 36.083983199999999,
-    "Longitude": -115.04395289999999
-  },
-  {
-    "UniqueId": 55816,
-    "Timestamp": "2026-09-05 20:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "under",
-    "CrossStreet": "I-11",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:19 PM, Sep 05 2026 Crash on SB Rancho Dr\u00A0under I-11. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771834/attachment_0.jpg",
-    "Latitude": 36.25565434,
-    "Longitude": -115.2465177
-  },
-  {
-    "UniqueId": 55817,
-    "Timestamp": "2026-09-05 20:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Simmons St",
-    "Relationship": "after",
-    "CrossStreet": "Carey Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:24 PM, Sep 05 2026 Crash on SB Simmons St\u00A0after Carey Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771811/attachment_0.png",
-    "Latitude": 36.202838300000003,
-    "Longitude": -115.178769
-  },
-  {
     "UniqueId": 55818,
     "Timestamp": "2026-09-05 20:28",
     "IncidentType": "Crash",
@@ -1314,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772113/attachment_0.png",
     "Latitude": 36.174100794708579,
     "Longitude": -115.22413731670025
+  },
+  {
+    "UniqueId": 55918,
+    "Timestamp": "2026-09-06 20:21",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sunrise Ave",
+    "Impact": "All lanes are open.",
+    "Notes": "8:21 PM, Sep 06 2026 Update Crash on SB Lamb Blvd\u00A0at Sunrise Ave. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.1629121,
+    "Longitude": -115.08040699999999
   }
 ]
