@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55808,
-    "Timestamp": "2026-09-05 18:57",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "before",
-    "CrossStreet": "Sr165 - Nelson Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:57 PM, Sep 05 2026 Vehicle on fire on SB US-95\u00A0before SR165 - Nelson Rd (at Mile 47). Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771825/attachment_0.jpg",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 55809,
     "Timestamp": "2026-09-05 19:04",
     "IncidentType": "Crash",
@@ -1328,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772099/attachment_0.jpg",
     "Latitude": 36.170044599999997,
     "Longitude": -115.2780333
+  },
+  {
+    "UniqueId": 55913,
+    "Timestamp": "2026-09-06 18:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "6:58 PM, Sep 06 2026 Crash on EB Spring Mountain Rd\u00A0at Durango Dr. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772101/attachment_0.png",
+    "Latitude": 36.125911799999997,
+    "Longitude": -115.2790735
+  },
+  {
+    "UniqueId": 55914,
+    "Timestamp": "2026-09-06 18:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:59 PM, Sep 06 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772103/attachment_0.png",
+    "Latitude": 36.21922790273323,
+    "Longitude": -115.32768125268741
   }
 ]
