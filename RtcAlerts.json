@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55897,
-    "Timestamp": "2026-09-06 16:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "4:42 PM, Sep 06 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772075/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 55898,
-    "Timestamp": "2026-09-06 16:45",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "4:45 PM, Sep 06 2026 Police activity on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772060/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 55899,
     "Timestamp": "2026-09-06 16:54",
     "IncidentType": "Crash",
@@ -782,5 +754,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772445/attachment_0.png",
     "Latitude": 36.125911799999997,
     "Longitude": -115.2790735
+  },
+  {
+    "UniqueId": 55959,
+    "Timestamp": "2026-09-07 16:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:43 PM, Sep 07 2026 Crash on SB Decatur Blvd\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772468/attachment_0.png",
+    "Latitude": 36.115562400000009,
+    "Longitude": -115.208167
   }
 ]
