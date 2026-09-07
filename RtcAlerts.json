@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55806,
-    "Timestamp": "2026-09-05 18:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "before",
-    "CrossStreet": "Joey Bishop Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:40 PM, Sep 05 2026 Crash on NB Dean Martin Dr\u00A0before Joey Bishop Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771822/attachment_0.png",
-    "Latitude": 36.103109000000003,
-    "Longitude": -115.18133469999999
-  },
-  {
-    "UniqueId": 55807,
-    "Timestamp": "2026-09-05 18:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder",
-    "Notes": "6:45 PM, Sep 05 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771824/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 55808,
     "Timestamp": "2026-09-05 18:57",
     "IncidentType": "Vehicle on fire",
@@ -1328,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772087/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 55911,
+    "Timestamp": "2026-09-06 18:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder",
+    "Notes": "6:42 PM, Sep 06 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772097/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 55912,
+    "Timestamp": "2026-09-06 18:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Venetian Strada",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:45 PM, Sep 06 2026 Stalled vehicle on SB Durango Dr\u00A0after Venetian Strada (before Alta Dr). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772099/attachment_0.jpg",
+    "Latitude": 36.170044599999997,
+    "Longitude": -115.2780333
   }
 ]
