@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55830,
-    "Timestamp": "2026-09-05 22:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:04 PM, Sep 05 2026 Stalled vehicle on NB I-15\u00A0at I-11. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771862/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 55832,
-    "Timestamp": "2026-09-05 22:21",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Carey Ave",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:21 PM, Sep 05 2026 Crash on WB Carey Ave\u00A0before Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771866/attachment_0.jpg",
-    "Latitude": 36.202855100000001,
-    "Longitude": -115.1989426
-  },
-  {
     "UniqueId": 55833,
     "Timestamp": "2026-09-05 22:28",
     "IncidentType": "Update Crash",
@@ -1244,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772111/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 55927,
+    "Timestamp": "2026-09-06 22:22",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lanes blocked.",
+    "Notes": "10:22 PM, Sep 06 2026 Police activity on SB I-11\u00A0at I-15. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772112/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
