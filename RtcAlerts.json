@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55805,
-    "Timestamp": "2026-09-05 18:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:34 PM, Sep 05 2026 Crash on SB I-11\u00A0at Jones Blvd off ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771820/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 55806,
     "Timestamp": "2026-09-05 18:40",
     "IncidentType": "Crash",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772093/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 55909,
+    "Timestamp": "2026-09-06 18:33",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Duneville St",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:33 PM, Sep 06 2026 Crash on EB Tropicana Ave\u00A0at Duneville St (before Lindell Rd). Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772094/attachment_0.jpg",
+    "Latitude": 36.100135199999997,
+    "Longitude": -115.2207914
+  },
+  {
+    "UniqueId": 55910,
+    "Timestamp": "2026-09-06 18:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "6:34 PM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0after Valley View Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772087/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
