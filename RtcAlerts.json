@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55819,
-    "Timestamp": "2026-09-05 20:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Edison Cir",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:34 PM, Sep 05 2026 Crash on NB Paradise Rd\u00A0before Edison Cir (after Twain Ave-Sands Ave). Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771855/attachment_0.png",
-    "Latitude": 36.124938899999997,
-    "Longitude": -115.1550072
-  },
-  {
-    "UniqueId": 55820,
-    "Timestamp": "2026-09-05 20:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder",
-    "Notes": "8:38 PM, Sep 05 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771836/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 55821,
-    "Timestamp": "2026-09-05 20:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Spencer St All Westbound Lanes Are",
-    "Impact": "",
-    "Notes": "8:54 PM, Sep 05 2026 Crash on WB Tropicana Ave\u00A0before Spencer St. All westbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771837/attachment_0.png",
-    "Latitude": 36.101021600000003,
-    "Longitude": -115.1279854
-  },
-  {
-    "UniqueId": 55822,
-    "Timestamp": "2026-09-05 20:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder",
-    "Notes": "8:56 PM, Sep 05 2026 Stalled vehicle on NB I-11\u00A0after Summerlin Pkwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771857/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 55823,
     "Timestamp": "2026-09-05 21:04",
     "IncidentType": "Update Crash",
@@ -1300,5 +1244,19 @@
     "ImagePath": "",
     "Latitude": 36.174100794708579,
     "Longitude": -115.22413731670025
+  },
+  {
+    "UniqueId": 55921,
+    "Timestamp": "2026-09-06 20:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder",
+    "Notes": "8:55 PM, Sep 06 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772104/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
