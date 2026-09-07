@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55855,
-    "Timestamp": "2026-09-06 05:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Puebla St All Wb Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "5:31 AM, Sep 06 2026 Crash on WB Craig Rd\u00A0at Puebla St. All WB lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.240302799999988,
-    "Longitude": -115.0711082
-  },
-  {
-    "UniqueId": 55857,
-    "Timestamp": "2026-09-06 05:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rock Springs Dr",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:47 AM, Sep 06 2026 Crash on SB Rock Springs Dr\u00A0before Lake Mead Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771945/attachment_0.jpg",
-    "Latitude": 36.196109700000001,
-    "Longitude": -115.2470922
-  },
-  {
     "UniqueId": 55859,
     "Timestamp": "2026-09-06 06:13",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.176219719999999,
     "Longitude": -115.19255696000001
+  },
+  {
+    "UniqueId": 55946,
+    "Timestamp": "2026-09-07 06:08",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "I-15 Sb",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:08 AM, Sep 07 2026 Police activity on SB I-11 to I-15 SB. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.174231679999998,
+    "Longitude": -115.15505450000001
   }
 ]
