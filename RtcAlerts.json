@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55829,
-    "Timestamp": "2026-09-05 22:00",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Spencer St All Lanes Are Open",
-    "Impact": "",
-    "Notes": "10:00 PM, Sep 05 2026 Update Crash on WB Tropicana Ave\u00A0before Spencer St. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771860/attachment_0.png",
-    "Latitude": 36.101021600000003,
-    "Longitude": -115.1279854
-  },
-  {
     "UniqueId": 55830,
     "Timestamp": "2026-09-05 22:04",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772109/attachment_0.jpg",
     "Latitude": 36.279313100000003,
     "Longitude": -115.2648477
+  },
+  {
+    "UniqueId": 55926,
+    "Timestamp": "2026-09-06 21:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 9",
+    "Impact": "Right shoulder.",
+    "Notes": "9:56 PM, Sep 06 2026 Stalled vehicle on NB I-15\u00A0after Mile 9. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772111/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
