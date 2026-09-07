@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55803,
-    "Timestamp": "2026-09-05 18:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:31 PM, Sep 05 2026 Crash on NB Stephanie St\u00A0before Sunset Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771817/attachment_0.png",
-    "Latitude": 36.063631899999997,
-    "Longitude": -115.046273
-  },
-  {
-    "UniqueId": 55804,
-    "Timestamp": "2026-09-05 18:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:31 PM, Sep 05 2026 Crash on WB Lake Mead Blvd\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771818/attachment_0.png",
-    "Latitude": 36.195865100000013,
-    "Longitude": -115.1288797
-  },
-  {
     "UniqueId": 55805,
     "Timestamp": "2026-09-05 18:34",
     "IncidentType": "Crash",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772083/attachment_0.png",
     "Latitude": 36.121397100000003,
     "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 55907,
+    "Timestamp": "2026-09-06 18:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:25 PM, Sep 06 2026 Crash on NB I-11\u00A0to Boulder Hwy off-ramp. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772085/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 55908,
+    "Timestamp": "2026-09-06 18:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:29 PM, Sep 06 2026 Crash on SB I-15\u00A0at Flamingo Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772093/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
