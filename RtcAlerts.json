@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 55844,
-    "Timestamp": "2026-09-06 02:27",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Puebla St All Lanes Are",
-    "Impact": "",
-    "Notes": "2:27 AM, Sep 06 2026 Crash on WB Craig Rd\u00A0at Puebla St. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240302799999988,
-    "Longitude": -115.0711082
-  },
-  {
-    "UniqueId": 55845,
-    "Timestamp": "2026-09-06 02:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:35 AM, Sep 06 2026 Stalled vehicle on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771881/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 55846,
-    "Timestamp": "2026-09-06 02:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Carson Ave",
-    "Relationship": "at",
-    "CrossStreet": "4Th St",
-    "Impact": "",
-    "Notes": "2:44 AM, Sep 06 2026 Crash on WB Carson Ave\u00A0at 4th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771902/attachment_0.png",
-    "Latitude": 36.168568999999998,
-    "Longitude": -115.1425728
-  },
-  {
-    "UniqueId": 55847,
-    "Timestamp": "2026-09-06 03:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Puebla St All Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "3:02 AM, Sep 06 2026 Crash on WB Craig Rd\u00A0at Puebla St. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.240302799999988,
-    "Longitude": -115.0711082
-  },
-  {
-    "UniqueId": 55848,
-    "Timestamp": "2026-09-06 03:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Carson Ave",
-    "Relationship": "at",
-    "CrossStreet": "4Th St",
-    "Impact": "",
-    "Notes": "3:16 AM, Sep 06 2026 Crash on WB Carson Ave\u00A0at 4th St. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.168568999999998,
-    "Longitude": -115.1425728
-  },
-  {
     "UniqueId": 55849,
     "Timestamp": "2026-09-06 03:34",
     "IncidentType": "Crash",
@@ -1286,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772166/attachment_0.png",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 55943,
+    "Timestamp": "2026-09-07 03:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Gomer Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:22 AM, Sep 07 2026 Crash on SB Durango Dr at Gomer Rd. Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.012250600000002,
+    "Longitude": -115.2798445
   }
 ]
