@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55893,
-    "Timestamp": "2026-09-06 15:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:23 PM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0after Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772049/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 55894,
-    "Timestamp": "2026-09-06 15:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:27 PM, Sep 06 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772051/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
-    "UniqueId": 55895,
-    "Timestamp": "2026-09-06 15:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:42 PM, Sep 06 2026 Crash on SB Paradise Rd\u00A0after Flamingo Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772073/attachment_0.png",
-    "Latitude": 36.114312130000002,
-    "Longitude": -115.15402971
-  },
-  {
-    "UniqueId": 55896,
-    "Timestamp": "2026-09-06 15:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Gore blocked.",
-    "Notes": "3:52 PM, Sep 06 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Durango Dr. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772074/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 55897,
     "Timestamp": "2026-09-06 16:42",
     "IncidentType": "Stalled vehicle",
@@ -824,5 +768,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772463/attachment_0.jpg",
     "Latitude": 36.126278200000002,
     "Longitude": -115.20802190000001
+  },
+  {
+    "UniqueId": 55958,
+    "Timestamp": "2026-09-07 16:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Intersection partially blocked",
+    "Notes": "4:11 PM, Sep 07 2026 Crash on NB Durango Dr\u00A0at Spring Mountain Rd. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772445/attachment_0.png",
+    "Latitude": 36.125911799999997,
+    "Longitude": -115.2790735
   }
 ]
