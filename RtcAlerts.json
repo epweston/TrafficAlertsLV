@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55849,
-    "Timestamp": "2026-09-06 03:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Puebla St All Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "3:34 AM, Sep 06 2026 Crash on WB Craig Rd\u00A0at Puebla St. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.240302799999988,
-    "Longitude": -115.0711082
-  },
-  {
-    "UniqueId": 55850,
-    "Timestamp": "2026-09-06 03:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:41 AM, Sep 06 2026 Crash on SB Rainbow Blvd\u00A0at 215 Southern Beltway. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771883/attachment_0.jpg",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
-    "UniqueId": 55851,
-    "Timestamp": "2026-09-06 03:55",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Carson Ave",
-    "Relationship": "at",
-    "CrossStreet": "4Th St",
-    "Impact": "",
-    "Notes": "3:55 AM, Sep 06 2026 Crash on WB Carson Ave\u00A0at 4th St. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.168568999999998,
-    "Longitude": -115.1425728
-  },
-  {
     "UniqueId": 55852,
     "Timestamp": "2026-09-06 04:15",
     "IncidentType": "Crash",
@@ -1230,5 +1188,19 @@
     "ImagePath": "",
     "Latitude": 36.012250600000002,
     "Longitude": -115.2798445
+  },
+  {
+    "UniqueId": 55944,
+    "Timestamp": "2026-09-07 03:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:54 AM, Sep 07 2026 Crash on NB Decatur Blvd at Desert Inn Rd. Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.129981600000001,
+    "Longitude": -115.20814
   }
 ]
