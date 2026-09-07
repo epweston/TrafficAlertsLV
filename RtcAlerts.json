@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55810,
-    "Timestamp": "2026-09-05 19:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:28 PM, Sep 05 2026 Crash on SB I-15\u00A0at Charleston Blvd off-ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771806/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 55811,
-    "Timestamp": "2026-09-05 19:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Gibson Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:41 PM, Sep 05 2026 Stalled vehicle on NB Gibson Rd\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771808/attachment_0.png",
-    "Latitude": 36.031882789999997,
-    "Longitude": -115.02954305
-  },
-  {
-    "UniqueId": 55812,
-    "Timestamp": "2026-09-05 20:00",
-    "IncidentType": "Update Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:00 PM, Sep 05 2026 Update Police activity on EB Bonanza Rd\u00A0after Las Vegas Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771827/attachment_0.jpg",
-    "Latitude": 36.174907193288441,
-    "Longitude": -115.13711572951844
-  },
-  {
-    "UniqueId": 55813,
-    "Timestamp": "2026-09-05 20:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Spencer St All Lanes Are",
-    "Impact": "",
-    "Notes": "8:03 PM, Sep 05 2026 Crash on WB Tropicana Ave\u00A0before Spencer St. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771829/attachment_0.png",
-    "Latitude": 36.101021600000003,
-    "Longitude": -115.1279854
-  },
-  {
     "UniqueId": 55814,
     "Timestamp": "2026-09-05 20:11",
     "IncidentType": "Crash",
@@ -1342,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772089/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 55916,
+    "Timestamp": "2026-09-06 20:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sunrise Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:02 PM, Sep 06 2026 Crash on SB Lamb Blvd\u00A0at Sunrise Ave (after Stewart Ave). Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772091/attachment_0.jpg",
+    "Latitude": 36.1629121,
+    "Longitude": -115.08040699999999
+  },
+  {
+    "UniqueId": 55917,
+    "Timestamp": "2026-09-06 20:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Eb 215 Southern Beltway",
+    "Impact": "",
+    "Notes": "8:04 PM, Sep 06 2026 Crash on SB Jones Blvd\u00A0at EB 215 Southern Beltway ramp Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772113/attachment_0.png",
+    "Latitude": 36.174100794708579,
+    "Longitude": -115.22413731670025
   }
 ]
