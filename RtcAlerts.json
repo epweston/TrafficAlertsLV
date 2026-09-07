@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55836,
-    "Timestamp": "2026-09-05 22:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:57 PM, Sep 05 2026 Crash on NB Las Vegas Blvd\u00A0before Lamb Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771871/attachment_0.png",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
     "UniqueId": 55837,
     "Timestamp": "2026-09-05 23:06",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,19 @@
     "ImagePath": "",
     "Latitude": 36.279313100000003,
     "Longitude": -115.2648477
+  },
+  {
+    "UniqueId": 55931,
+    "Timestamp": "2026-09-06 23:02",
+    "IncidentType": "Update Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder. All lanes are open again.",
+    "Notes": "11:02 PM, Sep 06 2026 Update Police activity on SB I-11\u00A0at I-15. Right shoulder. All lanes are open again.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772136/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
