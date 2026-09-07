@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55818,
-    "Timestamp": "2026-09-05 20:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Puebla St",
-    "Impact": "",
-    "Notes": "8:28 PM, Sep 05 2026 Crash on WB Craig Rd\u00A0at Puebla St (after Nellis Blvd), All east and west lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771853/attachment_0.jpg",
-    "Latitude": 36.240302799999988,
-    "Longitude": -115.0711082
-  },
-  {
     "UniqueId": 55819,
     "Timestamp": "2026-09-05 20:34",
     "IncidentType": "Crash",
@@ -1286,5 +1272,33 @@
     "ImagePath": "",
     "Latitude": 36.1629121,
     "Longitude": -115.08040699999999
+  },
+  {
+    "UniqueId": 55919,
+    "Timestamp": "2026-09-06 20:30",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Duneville St All Lanes Are Open",
+    "Impact": "",
+    "Notes": "8:30 PM, Sep 06 2026 Update Crash on EB Tropicana Ave\u00A0at Duneville St. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.100135199999997,
+    "Longitude": -115.2207914
+  },
+  {
+    "UniqueId": 55920,
+    "Timestamp": "2026-09-06 20:31",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "All lanes are open.",
+    "Notes": "8:31 PM, Sep 06 2026 Update Crash on SB Jones Blvd\u00A0at 215 Southern Beltway. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.174100794708579,
+    "Longitude": -115.22413731670025
   }
 ]
