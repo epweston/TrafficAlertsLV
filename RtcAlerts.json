@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55839,
-    "Timestamp": "2026-09-05 23:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:39 PM, Sep 05 2026 Crash on NB Las Vegas Blvd\u00A0after Silverado Ranch Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771877/attachment_0.png",
-    "Latitude": 36.013793100000001,
-    "Longitude": -115.1722729
-  },
-  {
     "UniqueId": 55840,
     "Timestamp": "2026-09-06 00:48",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1202,33 @@
     "ImagePath": "",
     "Latitude": 36.159219399999998,
     "Longitude": -115.025909
+  },
+  {
+    "UniqueId": 55933,
+    "Timestamp": "2026-09-07 00:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:13 AM, Sep 07 2026 Crash on SB I-11\u00A0before Auto Show Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772140/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 55934,
+    "Timestamp": "2026-09-07 00:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Civic Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Evans Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:16 AM, Sep 07 2026 Crash on NB Civic Center Dr\u00A0at Evans Ave (before Cheyenne Ave). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772127/attachment_0.jpg",
+    "Latitude": 36.210395200000001,
+    "Longitude": -115.1211158
   }
 ]
