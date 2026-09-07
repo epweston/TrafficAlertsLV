@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55864,
-    "Timestamp": "2026-09-06 07:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:01 AM, Sep 06 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771954/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 55865,
-    "Timestamp": "2026-09-06 07:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "over",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:17 AM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0over Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3771929/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 55866,
     "Timestamp": "2026-09-06 07:37",
     "IncidentType": "Crash",
@@ -1104,5 +1076,19 @@
     "ImagePath": "",
     "Latitude": 36.180861052200697,
     "Longitude": -115.16088543120182
+  },
+  {
+    "UniqueId": 55948,
+    "Timestamp": "2026-09-07 07:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:23 AM, Sep 07 2026 Stalled vehicle on NB I-11 before Valley View Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
