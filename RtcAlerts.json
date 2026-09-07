@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55837,
-    "Timestamp": "2026-09-05 23:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder",
-    "Notes": "11:06 PM, Sep 05 2026 Stalled vehicle on SB Airport Connector\u00A0before 215 Southern Beltway. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771872/attachment_0.png",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
-    "UniqueId": 55838,
-    "Timestamp": "2026-09-05 23:24",
-    "IncidentType": "Update Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Bonanza rd open again.",
-    "Notes": "11:24 PM, Sep 05 2026 Update Police activity on EB Bonanza Rd\u00A0at Las Vegas Blvd. Bonanza rd open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/05/file_attachments/3771893/attachment_0.jpg",
-    "Latitude": 36.174907193288441,
-    "Longitude": -115.13711572951844
-  },
-  {
     "UniqueId": 55839,
     "Timestamp": "2026-09-05 23:39",
     "IncidentType": "Crash",
@@ -1230,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772136/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 55932,
+    "Timestamp": "2026-09-06 23:34",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Hollywood Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "All lanes are open.",
+    "Notes": "11:34 PM, Sep 06 2026 Update Crash on SB Hollywood Blvd\u00A0before Charleston Blvd. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.159219399999998,
+    "Longitude": -115.025909
   }
 ]
