@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55888,
-    "Timestamp": "2026-09-06 13:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:46 PM, Sep 06 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772042/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 55889,
-    "Timestamp": "2026-09-06 13:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Gore blocked.",
-    "Notes": "1:48 PM, Sep 06 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772032/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 55890,
-    "Timestamp": "2026-09-06 13:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "1:58 PM, Sep 06 2026 Crash on WB 215 Southern Beltway\u00A0at Las Vegas Blvd on ramp. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/06/file_attachments/3772045/attachment_0.jpg",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 55891,
     "Timestamp": "2026-09-06 14:32",
     "IncidentType": "Crash",
@@ -866,5 +824,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772455/attachment_0.png",
     "Latitude": 36.100954100000003,
     "Longitude": -115.14360499999999
+  },
+  {
+    "UniqueId": 55956,
+    "Timestamp": "2026-09-07 14:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Main St",
+    "Relationship": "at",
+    "CrossStreet": "Ogden Ave",
+    "Impact": "Intersection partially blocked",
+    "Notes": "2:15 PM, Sep 07 2026 Crash on NB Main St\u00A0at Ogden Ave. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772438/attachment_0.jpg",
+    "Latitude": 36.172842000000003,
+    "Longitude": -115.1456922
   }
 ]
