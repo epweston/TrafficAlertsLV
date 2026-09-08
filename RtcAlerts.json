@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55956,
-    "Timestamp": "2026-09-07 14:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "at",
-    "CrossStreet": "Ogden Ave",
-    "Impact": "Intersection partially blocked",
-    "Notes": "2:15 PM, Sep 07 2026 Crash on NB Main St\u00A0at Ogden Ave. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772438/attachment_0.jpg",
-    "Latitude": 36.172842000000003,
-    "Longitude": -115.1456922
-  },
-  {
     "UniqueId": 55957,
     "Timestamp": "2026-09-07 15:12",
     "IncidentType": "Crash",
@@ -768,5 +754,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773886/attachment_0.png",
     "Latitude": 36.206857999999997,
     "Longitude": -115.2025903
+  },
+  {
+    "UniqueId": 56012,
+    "Timestamp": "2026-09-08 14:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:13 PM, Sep 08 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773868/attachment_0.jpg",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
