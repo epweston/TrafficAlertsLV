@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55954,
-    "Timestamp": "2026-09-07 12:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:49 PM, Sep 07 2026 Crash on EB 215 Southern Beltway\u00A0after Windmill Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772433/attachment_0.jpg",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 55955,
     "Timestamp": "2026-09-07 13:30",
     "IncidentType": "Crash",
@@ -726,5 +712,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773655/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 56007,
+    "Timestamp": "2026-09-08 12:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:50 PM, Sep 08 2026 Crash on WB Charleston Blvd\u00A0after Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773716/attachment_0.jpg",
+    "Latitude": 36.158829400000002,
+    "Longitude": -115.1728904
   }
 ]
