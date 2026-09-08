@@ -572,5 +572,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773365/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 55993,
+    "Timestamp": "2026-09-08 10:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Palm St",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:31 AM, Sep 08 2026 Crash on SB Palm St\u00A0after Charleston Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.158758200000001,
+    "Longitude": -115.10104
+  },
+  {
+    "UniqueId": 55994,
+    "Timestamp": "2026-09-08 10:32",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sandhill Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:32 AM, Sep 08 2026 Crash on EB Russell Rd\u00A0at Sandhill Rd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.085619800000003,
+    "Longitude": -115.09131979999999
   }
 ]
