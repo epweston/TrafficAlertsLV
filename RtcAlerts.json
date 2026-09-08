@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55945,
-    "Timestamp": "2026-09-07 04:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:58 AM, Sep 07 2026 Crash on SB Valley View Blvd at I-11. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.176219719999999,
-    "Longitude": -115.19255696000001
-  },
-  {
     "UniqueId": 55946,
     "Timestamp": "2026-09-07 06:08",
     "IncidentType": "Police activity",
@@ -292,5 +278,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772580/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 55968,
+    "Timestamp": "2026-09-08 04:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:58 AM, Sep 08 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772634/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
