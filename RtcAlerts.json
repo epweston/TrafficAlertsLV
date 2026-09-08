@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55948,
-    "Timestamp": "2026-09-07 07:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:23 AM, Sep 07 2026 Stalled vehicle on NB I-11 before Valley View Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 55950,
     "Timestamp": "2026-09-07 09:34",
     "IncidentType": "Crash",
@@ -362,5 +348,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772834/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 55976,
+    "Timestamp": "2026-09-08 07:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Westcliff Dr",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:50 AM, Sep 08 2026 Crash on WB Westcliff Dr\u00A0before Buffalo Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772930/attachment_0.png",
+    "Latitude": 36.174088699999999,
+    "Longitude": -115.25966940000001
+  },
+  {
+    "UniqueId": 55977,
+    "Timestamp": "2026-09-08 07:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:54 AM, Sep 08 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772904/attachment_0.jpg",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
