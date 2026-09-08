@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55951,
-    "Timestamp": "2026-09-07 11:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "11:15 AM, Sep 07 2026 Crash on NB Rainbow Blvd\u00A0after Twain Ave. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772408/attachment_0.jpg",
-    "Latitude": 36.121982199999998,
-    "Longitude": -115.2430895
-  },
-  {
-    "UniqueId": 55952,
-    "Timestamp": "2026-09-07 11:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "11:20 AM, Sep 07 2026 Crash on EB Lamb Blvd\u00A0at Lamb Blvd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772428/attachment_0.jpg",
-    "Latitude": 36.233062199999999,
-    "Longitude": -115.0801637
-  },
-  {
-    "UniqueId": 55953,
-    "Timestamp": "2026-09-07 11:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "11:23 AM, Sep 07 2026 Crash on EB Stewart Ave\u00A0at Lamb Blvd. Intersection partially blocked",
-    "ImagePath": "",
-    "Latitude": 36.166370200000003,
-    "Longitude": -115.0805115
-  },
-  {
     "UniqueId": 55954,
     "Timestamp": "2026-09-07 12:49",
     "IncidentType": "Crash",
@@ -670,5 +628,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773495/attachment_0.png",
     "Latitude": 36.100018540000001,
     "Longitude": -115.29390152000001
+  },
+  {
+    "UniqueId": 56000,
+    "Timestamp": "2026-09-08 11:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:19 AM, Sep 08 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773530/attachment_0.png",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
   }
 ]
