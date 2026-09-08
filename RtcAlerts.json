@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55957,
-    "Timestamp": "2026-09-07 15:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:12 PM, Sep 07 2026 Crash on EB Spring Mountain Rd\u00A0after Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772463/attachment_0.jpg",
-    "Latitude": 36.126278200000002,
-    "Longitude": -115.20802190000001
-  },
-  {
     "UniqueId": 55958,
     "Timestamp": "2026-09-07 16:11",
     "IncidentType": "Crash",
@@ -824,5 +810,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773929/attachment_0.png",
     "Latitude": 35.989089522421573,
     "Longitude": -114.92519254243592
+  },
+  {
+    "UniqueId": 56017,
+    "Timestamp": "2026-09-08 15:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:11 PM, Sep 08 2026 Crash on WB Summerlin Pkwy\u00A0before Rampart Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773944/attachment_0.jpg",
+    "Latitude": 36.159022,
+    "Longitude": -115.29140700000001
   }
 ]
