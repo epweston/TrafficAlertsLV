@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55955,
-    "Timestamp": "2026-09-07 13:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Bock St",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:30 PM, Sep 07 2026 Crash on SB Bock St\u00A0after Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772455/attachment_0.png",
-    "Latitude": 36.100954100000003,
-    "Longitude": -115.14360499999999
-  },
-  {
     "UniqueId": 55956,
     "Timestamp": "2026-09-07 14:15",
     "IncidentType": "Crash",
@@ -726,5 +712,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773716/attachment_0.jpg",
     "Latitude": 36.158829400000002,
     "Longitude": -115.1728904
+  },
+  {
+    "UniqueId": 56008,
+    "Timestamp": "2026-09-08 13:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:38 PM, Sep 08 2026 Crash on SB St Rose Pkwy\u00A0after 215 Southern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773843/attachment_0.jpg",
+    "Latitude": 35.961751371359661,
+    "Longitude": -115.18186569213869
   }
 ]
