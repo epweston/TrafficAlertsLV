@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55943,
-    "Timestamp": "2026-09-07 03:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Gomer Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:22 AM, Sep 07 2026 Crash on SB Durango Dr at Gomer Rd. Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.012250600000002,
-    "Longitude": -115.2798445
-  },
-  {
-    "UniqueId": 55944,
-    "Timestamp": "2026-09-07 03:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:54 AM, Sep 07 2026 Crash on NB Decatur Blvd at Desert Inn Rd. Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.129981600000001,
-    "Longitude": -115.20814
-  },
-  {
     "UniqueId": 55945,
     "Timestamp": "2026-09-07 04:58",
     "IncidentType": "Crash",
@@ -306,5 +278,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772537/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 55967,
+    "Timestamp": "2026-09-08 04:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:29 AM, Sep 08 2026 Stalled vehicle on SB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772580/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
