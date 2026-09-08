@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55946,
-    "Timestamp": "2026-09-07 06:08",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "I-15 Sb",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:08 AM, Sep 07 2026 Police activity on SB I-11 to I-15 SB. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174231679999998,
-    "Longitude": -115.15505450000001
-  },
-  {
     "UniqueId": 55947,
     "Timestamp": "2026-09-07 06:52",
     "IncidentType": "Police activity",
@@ -320,5 +306,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772627/attachment_0.jpg",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 55971,
+    "Timestamp": "2026-09-08 06:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:04 AM, Sep 08 2026 Crash on SB I-15\u00A0at Washington Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772670/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
