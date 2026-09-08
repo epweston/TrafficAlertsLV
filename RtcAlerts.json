@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55947,
-    "Timestamp": "2026-09-07 06:52",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin Luther King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:52 AM, Sep 07 2026 Police activity on NB Martin Luther King Blvd at Washington Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.180861052200697,
-    "Longitude": -115.16088543120182
-  },
-  {
     "UniqueId": 55948,
     "Timestamp": "2026-09-07 07:23",
     "IncidentType": "Stalled vehicle",
@@ -334,5 +320,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772794/attachment_0.png",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 55973,
+    "Timestamp": "2026-09-08 07:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:00 AM, Sep 08 2026 Stalled vehicle on SB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 55974,
+    "Timestamp": "2026-09-08 07:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:00 AM, Sep 08 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772791/attachment_0.jpg",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 55975,
+    "Timestamp": "2026-09-08 07:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:02 AM, Sep 08 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772834/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
