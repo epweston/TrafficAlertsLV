@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55950,
-    "Timestamp": "2026-09-07 09:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:34 AM, Sep 07 2026 Crash on EB Flamingo Rd\u00A0after Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772360/attachment_0.jpg",
-    "Latitude": 36.114871200000003,
-    "Longitude": -115.0647175
-  },
-  {
     "UniqueId": 55951,
     "Timestamp": "2026-09-07 11:15",
     "IncidentType": "Crash",
@@ -530,5 +516,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773130/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 55989,
+    "Timestamp": "2026-09-08 09:49",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sandhill Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:49 AM, Sep 08 2026 Crash on EB Russell Rd\u00A0at Sandhill Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773305/attachment_0.jpg",
+    "Latitude": 36.085619800000003,
+    "Longitude": -115.09131979999999
   }
 ]
