@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55972,
-    "Timestamp": "2026-09-08 06:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:48 AM, Sep 08 2026 Crash on EB 215 Northern Beltway\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772794/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 55973,
     "Timestamp": "2026-09-08 07:00",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774396/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 56067,
+    "Timestamp": "2026-09-09 06:48",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Steve Rigazio Ct",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:48 AM, Sep 09 2026 Crash on NB Steve Rigazio Ct\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774404/attachment_0.png",
+    "Latitude": 36.144232000000002,
+    "Longitude": -115.2295841
+  },
+  {
+    "UniqueId": 56068,
+    "Timestamp": "2026-09-09 06:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Steve Rigazio Ct",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:50 AM, Sep 09 2026 Crash on NB Steve Rigazio Ct\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774407/attachment_0.png",
+    "Latitude": 36.144232000000002,
+    "Longitude": -115.2295841
   }
 ]
