@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55960,
-    "Timestamp": "2026-09-07 17:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:27 PM, Sep 07 2026 Crash on SB I-15\u00A0before Tropicana Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/07/file_attachments/3772472/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 55961,
     "Timestamp": "2026-09-07 17:42",
     "IncidentType": "Crash",
@@ -964,5 +950,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774005/attachment_0.png",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 56030,
+    "Timestamp": "2026-09-08 17:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:34 PM, Sep 08 2026 Crash on EB Desert Inn Rd\u00A0before Eastern Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774007/attachment_0.png",
+    "Latitude": 36.12983354794379,
+    "Longitude": -115.11856560125827
+  },
+  {
+    "UniqueId": 56031,
+    "Timestamp": "2026-09-08 17:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:38 PM, Sep 08 2026 Crash on SB 215 Western Beltway\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774030/attachment_0.png",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
