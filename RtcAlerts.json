@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55967,
-    "Timestamp": "2026-09-08 04:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:29 AM, Sep 08 2026 Stalled vehicle on SB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772580/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 55968,
-    "Timestamp": "2026-09-08 04:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:58 AM, Sep 08 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772634/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 55969,
     "Timestamp": "2026-09-08 05:10",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,33 @@
     "ImagePath": "",
     "Latitude": 36.147942338827612,
     "Longitude": -115.13703523493349
+  },
+  {
+    "UniqueId": 56059,
+    "Timestamp": "2026-09-09 04:56",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Tenaya Way",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:56 AM, Sep 09 2026 Crash on NB Tenaya Way\u00A0after Cheyenne Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774249/attachment_0.png",
+    "Latitude": 36.218143099999999,
+    "Longitude": -115.2513635
+  },
+  {
+    "UniqueId": 56060,
+    "Timestamp": "2026-09-09 04:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:58 AM, Sep 09 2026 Stalled vehicle on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774265/attachment_0.jpg",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
