@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56005,
-    "Timestamp": "2026-09-08 12:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 103",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:17 PM, Sep 08 2026 Stalled vehicle on SB I-15\u00A0at Mile 103. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773632/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 56006,
-    "Timestamp": "2026-09-08 12:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:20 PM, Sep 08 2026 Crash on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773655/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 56007,
     "Timestamp": "2026-09-08 12:50",
     "IncidentType": "Crash",
@@ -1440,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775160/attachment_0.jpg",
     "Latitude": 36.070912589999999,
     "Longitude": -115.14622432
+  },
+  {
+    "UniqueId": 56110,
+    "Timestamp": "2026-09-09 12:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:20 PM, Sep 09 2026 Crash on WB Charleston Blvd\u00A0before I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775230/attachment_0.jpg",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
+  },
+  {
+    "UniqueId": 56111,
+    "Timestamp": "2026-09-09 12:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:22 PM, Sep 09 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775203/attachment_0.jpg",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
