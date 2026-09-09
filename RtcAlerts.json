@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 55962,
-    "Timestamp": "2026-09-07 22:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:08 PM, Sep 07 2026 Crash on SB Main St before Washington Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.181250200000001,
-    "Longitude": -115.1401274
-  },
-  {
-    "UniqueId": 55963,
-    "Timestamp": "2026-09-07 22:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Belmont St Intersection Partially",
-    "Impact": "",
-    "Notes": "10:14 PM, Sep 07 2026 Crash on WB Lake Mead Blvd at Belmont St. Intersection partially closed.",
-    "ImagePath": "",
-    "Latitude": 36.1958871,
-    "Longitude": -115.1068702
-  },
-  {
     "UniqueId": 55965,
     "Timestamp": "2026-09-07 23:36",
     "IncidentType": "Crash",
@@ -1188,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774088/attachment_0.png",
     "Latitude": 36.175244799226355,
     "Longitude": -115.16081567593977
+  },
+  {
+    "UniqueId": 56049,
+    "Timestamp": "2026-09-08 22:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:41 PM, Sep 08 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774106/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 56050,
+    "Timestamp": "2026-09-08 22:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:42 PM, Sep 08 2026 Crash on SB Paradise Rd\u00A0at Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774107/attachment_0.png",
+    "Latitude": 36.071648699999997,
+    "Longitude": -115.14116249999999
   }
 ]
