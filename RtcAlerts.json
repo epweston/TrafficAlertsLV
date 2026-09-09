@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 55979,
-    "Timestamp": "2026-09-08 08:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Shadow Lane",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:30 AM, Sep 08 2026 Crash on WB Charleston Blvd\u00A0at Shadow Lane. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773009/attachment_0.jpg",
-    "Latitude": 36.158944699999999,
-    "Longitude": -115.16548520000001
-  },
-  {
-    "UniqueId": 55980,
-    "Timestamp": "2026-09-08 08:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:31 AM, Sep 08 2026 Stalled vehicle on SB I-11\u00A0after Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773025/attachment_0.jpg",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 55981,
-    "Timestamp": "2026-09-08 08:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:34 AM, Sep 08 2026 Stalled vehicle on WB Sahara Ave\u00A0before Paradise Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773032/attachment_0.jpg",
-    "Latitude": 36.143606130000002,
-    "Longitude": -115.15479685
-  },
-  {
-    "UniqueId": 55982,
-    "Timestamp": "2026-09-08 08:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:40 AM, Sep 08 2026 Crash on SB I-11\u00A0before Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773058/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 55983,
     "Timestamp": "2026-09-08 08:48",
     "IncidentType": "Crash",
@@ -1566,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774627/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 56092,
+    "Timestamp": "2026-09-09 08:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:40 AM, Sep 09 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774665/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
