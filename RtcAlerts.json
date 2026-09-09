@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56007,
-    "Timestamp": "2026-09-08 12:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:50 PM, Sep 08 2026 Crash on WB Charleston Blvd\u00A0after Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773716/attachment_0.jpg",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
     "UniqueId": 56008,
     "Timestamp": "2026-09-08 13:38",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775203/attachment_0.jpg",
     "Latitude": 36.100031538544258,
     "Longitude": -115.29390153647363
+  },
+  {
+    "UniqueId": 56114,
+    "Timestamp": "2026-09-09 12:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:52 PM, Sep 09 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775303/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
