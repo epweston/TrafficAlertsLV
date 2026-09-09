@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 55984,
-    "Timestamp": "2026-09-08 08:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:58 AM, Sep 08 2026 Crash on WB Silverado Ranch Blvd\u00A0at Valley View Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773089/attachment_0.png",
-    "Latitude": 36.013583099999998,
-    "Longitude": -115.1899078
-  },
-  {
-    "UniqueId": 55985,
-    "Timestamp": "2026-09-08 09:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Palm St",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "9:01 AM, Sep 08 2026 Crash on SB Palm St\u00A0after Charleston Blvd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773114/attachment_0.jpg",
-    "Latitude": 36.158758200000001,
-    "Longitude": -115.10104
-  },
-  {
-    "UniqueId": 55986,
-    "Timestamp": "2026-09-08 09:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sr170 - Riverside Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:02 AM, Sep 08 2026 Stalled vehicle on SB I-15\u00A0at SR170 - Riverside Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773117/attachment_0.png",
-    "Latitude": 36.185387800000001,
-    "Longitude": -115.1826497
-  },
-  {
     "UniqueId": 55987,
     "Timestamp": "2026-09-08 09:06",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774717/attachment_0.png",
     "Latitude": 36.114511499999999,
     "Longitude": -115.2248991
+  },
+  {
+    "UniqueId": 56095,
+    "Timestamp": "2026-09-09 08:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:59 AM, Sep 09 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774740/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
