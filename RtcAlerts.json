@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55965,
-    "Timestamp": "2026-09-07 23:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "11:36 PM, Sep 07 2026 Crash on EB Lake Mead Blvd at Nellis Blvd. Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.196300700000002,
-    "Longitude": -115.06222940000001
-  },
-  {
     "UniqueId": 55966,
     "Timestamp": "2026-09-08 02:35",
     "IncidentType": "Police activity",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774108/attachment_0.png",
     "Latitude": 36.042476800000003,
     "Longitude": -115.10036580000001
+  },
+  {
+    "UniqueId": 56052,
+    "Timestamp": "2026-09-09 00:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "4Th St",
+    "Relationship": "at",
+    "CrossStreet": "Ogden Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:46 AM, Sep 09 2026 Crash on NB 4th St\u00A0at Ogden Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774142/attachment_0.png",
+    "Latitude": 36.170928699999997,
+    "Longitude": -115.1410223
   }
 ]
