@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 55977,
-    "Timestamp": "2026-09-08 07:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:54 AM, Sep 08 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3772904/attachment_0.jpg",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 55978,
     "Timestamp": "2026-09-08 08:05",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774541/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 56083,
+    "Timestamp": "2026-09-09 07:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Aliante Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:57 AM, Sep 09 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Aliante Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774552/attachment_0.png",
+    "Latitude": 36.293459499999997,
+    "Longitude": -115.18487740000001
+  },
+  {
+    "UniqueId": 56084,
+    "Timestamp": "2026-09-09 07:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:58 AM, Sep 09 2026 Crash on SB Lamb Blvd\u00A0at Bonanza Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774554/attachment_0.png",
+    "Latitude": 36.173543799999997,
+    "Longitude": -115.08043429999999
   }
 ]
