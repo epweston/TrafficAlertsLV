@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56020,
-    "Timestamp": "2026-09-08 15:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Smoke Ranch Rd",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:51 PM, Sep 08 2026 Crash on WB Smoke Ranch Rd\u00A0after Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3773981/attachment_0.png",
-    "Latitude": 36.2033214,
-    "Longitude": -115.24223550000001
-  },
-  {
     "UniqueId": 56021,
     "Timestamp": "2026-09-08 16:10",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775486/attachment_0.png",
     "Latitude": 36.144388499999998,
     "Longitude": -115.19990439999999
+  },
+  {
+    "UniqueId": 56129,
+    "Timestamp": "2026-09-09 15:49",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Shiloah Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:49 PM, Sep 09 2026 Crash on WB Charleston Blvd\u00A0at Shiloah Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775494/attachment_0.png",
+    "Latitude": 36.158925699999998,
+    "Longitude": -115.09468939999999
   }
 ]
