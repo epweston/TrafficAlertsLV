@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56108,
-    "Timestamp": "2026-09-09 12:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Airport Tunnel",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "12:01 PM, Sep 09 2026 Crash on SB Airport Connector\u00A0before Airport Tunnel. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775160/attachment_0.jpg",
-    "Latitude": 36.070912589999999,
-    "Longitude": -115.14622432
-  },
-  {
     "UniqueId": 56110,
     "Timestamp": "2026-09-09 12:20",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776469/attachment_0.png",
     "Latitude": 36.178483896259188,
     "Longitude": -115.25997161865236
+  },
+  {
+    "UniqueId": 56204,
+    "Timestamp": "2026-09-10 12:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:03 PM, Sep 10 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776533/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
