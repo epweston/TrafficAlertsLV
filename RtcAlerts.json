@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56131,
-    "Timestamp": "2026-09-09 16:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:28 PM, Sep 09 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775521/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 56132,
     "Timestamp": "2026-09-09 16:30",
     "IncidentType": "Crash",
@@ -1496,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776859/attachment_0.png",
     "Latitude": 36.071651799999998,
     "Longitude": -115.1187552
+  },
+  {
+    "UniqueId": 56239,
+    "Timestamp": "2026-09-10 16:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:24 PM, Sep 10 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776860/attachment_0.jpg",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 56240,
+    "Timestamp": "2026-09-10 16:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:26 PM, Sep 10 2026 Crash on NB I-15\u00A0at Washington Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776863/attachment_0.jpg",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
