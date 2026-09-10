@@ -1286,5 +1286,47 @@
     "ImagePath": "",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 56214,
+    "Timestamp": "2026-09-10 14:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:05 PM, Sep 10 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776738/attachment_0.jpg",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 56215,
+    "Timestamp": "2026-09-10 14:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Robindale Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:05 PM, Sep 10 2026 Crash on SB Rainbow Blvd\u00A0at Robindale Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776760/attachment_0.png",
+    "Latitude": 36.048849400000002,
+    "Longitude": -115.2431284
+  },
+  {
+    "UniqueId": 56216,
+    "Timestamp": "2026-09-10 14:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:08 PM, Sep 10 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776742/attachment_0.jpg",
+    "Latitude": 36.191620159999999,
+    "Longitude": -115.34255690000001
   }
 ]
