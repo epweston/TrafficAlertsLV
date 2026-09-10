@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56095,
-    "Timestamp": "2026-09-09 08:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:59 AM, Sep 09 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774740/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 56096,
     "Timestamp": "2026-09-09 09:03",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1188,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776090/attachment_0.png",
     "Latitude": 36.143662482122316,
     "Longitude": -115.1573931887723
+  },
+  {
+    "UniqueId": 56184,
+    "Timestamp": "2026-09-10 08:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder City Parkway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:54 AM, Sep 10 2026 Crash on NB I-11\u00A0at Boulder City Parkway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776109/attachment_0.jpg",
+    "Latitude": 35.973038099999997,
+    "Longitude": -114.9141533
+  },
+  {
+    "UniqueId": 56185,
+    "Timestamp": "2026-09-10 08:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:57 AM, Sep 10 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 56186,
+    "Timestamp": "2026-09-10 08:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:57 AM, Sep 10 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776112/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
   }
 ]
