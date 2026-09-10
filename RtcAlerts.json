@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56106,
-    "Timestamp": "2026-09-09 11:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:19 AM, Sep 09 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775065/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 56107,
     "Timestamp": "2026-09-09 11:51",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776422/attachment_0.jpg",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 56201,
+    "Timestamp": "2026-09-10 11:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Badura Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "11:23 AM, Sep 10 2026 Crash on SB Jones Blvd\u00A0at Badura Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776429/attachment_0.jpg",
+    "Latitude": 36.062004399999999,
+    "Longitude": -115.2246519
   }
 ]
