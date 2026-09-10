@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56114,
-    "Timestamp": "2026-09-09 12:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:52 PM, Sep 09 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775303/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 56115,
-    "Timestamp": "2026-09-09 12:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Reno Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:56 PM, Sep 09 2026 Crash on SB Jones Blvd\u00A0at Reno Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775278/attachment_0.png",
-    "Latitude": 36.0963201,
-    "Longitude": -115.22505390000001
-  },
-  {
-    "UniqueId": 56116,
-    "Timestamp": "2026-09-09 13:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:00 PM, Sep 09 2026 Crash on NB Valley View Blvd\u00A0after Hacienda Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775310/attachment_0.jpg",
-    "Latitude": 36.093673099999997,
-    "Longitude": -115.1899265
-  },
-  {
     "UniqueId": 56117,
     "Timestamp": "2026-09-09 13:26",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776590/attachment_0.jpg",
     "Latitude": 36.009616180087541,
     "Longitude": -115.11710109004405
+  },
+  {
+    "UniqueId": 56207,
+    "Timestamp": "2026-09-10 12:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "12:59 PM, Sep 10 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776623/attachment_0.jpg",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 56208,
+    "Timestamp": "2026-09-10 13:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:00 PM, Sep 10 2026 Crash on WB Craig Rd\u00A0before Losee Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776644/attachment_0.jpg",
+    "Latitude": 36.239773575501886,
+    "Longitude": -115.11682743770037
   }
 ]
