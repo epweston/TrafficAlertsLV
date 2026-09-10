@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56043,
-    "Timestamp": "2026-09-08 19:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:35 PM, Sep 08 2026 Crash on EB Sahara Ave\u00A0after Decatur Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774077/attachment_0.png",
-    "Latitude": 36.144533188965404,
-    "Longitude": -115.20814061164857
-  },
-  {
-    "UniqueId": 56044,
-    "Timestamp": "2026-09-08 20:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:07 PM, Sep 08 2026 Crash on SB Las Vegas Blvd at Cheyenne Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774098/attachment_0.png",
-    "Latitude": 36.2176069,
-    "Longitude": -115.0933543
-  },
-  {
-    "UniqueId": 56045,
-    "Timestamp": "2026-09-08 20:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:16 PM, Sep 08 2026 Crash on EB Sunset Rd\u00A0before I-11. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774100/attachment_0.png",
-    "Latitude": 36.070325995097008,
-    "Longitude": -115.28861636686682
-  },
-  {
-    "UniqueId": 56046,
-    "Timestamp": "2026-09-08 20:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:25 PM, Sep 08 2026 Stalled vehicle on NB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/08/file_attachments/3774080/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 56047,
     "Timestamp": "2026-09-08 21:50",
     "IncidentType": "Crash",
@@ -1482,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775574/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 56153,
+    "Timestamp": "2026-09-09 20:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Owens Ave",
+    "Relationship": "at",
+    "CrossStreet": "Main St",
+    "Impact": "",
+    "Notes": "8:26 PM, Sep 09 2026 Crash on WB Owens Ave\u00A0at Main St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775579/attachment_0.png",
+    "Latitude": 36.188494400000003,
+    "Longitude": -115.1353182
   }
 ]
