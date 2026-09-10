@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56104,
-    "Timestamp": "2026-09-09 10:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:31 AM, Sep 09 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775033/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 56105,
-    "Timestamp": "2026-09-09 10:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:33 AM, Sep 09 2026 Crash on SB Decatur Blvd\u00A0before Warm Springs Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774879/attachment_0.png",
-    "Latitude": 36.057144299999997,
-    "Longitude": -115.2079452
-  },
-  {
     "UniqueId": 56106,
     "Timestamp": "2026-09-09 11:19",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1188,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776290/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 56194,
+    "Timestamp": "2026-09-10 10:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eldorado Lane",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:37 AM, Sep 10 2026 Crash on SB Eastern Ave\u00A0at Eldorado Lane. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776330/attachment_0.png",
+    "Latitude": 36.053209000000003,
+    "Longitude": -115.11825
+  },
+  {
+    "UniqueId": 56195,
+    "Timestamp": "2026-09-10 10:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eldorado Lane",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:37 AM, Sep 10 2026 Crash on SB Eastern Ave\u00A0at Eldorado Lane. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.053209000000003,
+    "Longitude": -115.11825
   }
 ]
