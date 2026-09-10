@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56097,
-    "Timestamp": "2026-09-09 09:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:18 AM, Sep 09 2026 Stalled vehicle on NB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774811/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 56098,
-    "Timestamp": "2026-09-09 09:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "El Capitan Way",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:23 AM, Sep 09 2026 Crash on EB Cheyenne Ave\u00A0at El Capitan Way. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774983/attachment_0.png",
-    "Latitude": 36.218656199999998,
-    "Longitude": -115.2879958
-  },
-  {
-    "UniqueId": 56099,
-    "Timestamp": "2026-09-09 09:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:26 AM, Sep 09 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774820/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 56100,
     "Timestamp": "2026-09-09 09:54",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776123/attachment_0.png",
     "Latitude": 36.078835617458502,
     "Longitude": -115.18136633150022
+  },
+  {
+    "UniqueId": 56188,
+    "Timestamp": "2026-09-10 09:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:47 AM, Sep 10 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776216/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
