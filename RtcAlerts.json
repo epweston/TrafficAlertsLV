@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56061,
-    "Timestamp": "2026-09-09 05:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "5:28 AM, Sep 09 2026 Crash on SB I-15\u00A0before Sahara Ave. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774292/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 56062,
     "Timestamp": "2026-09-09 06:07",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775729/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 56161,
+    "Timestamp": "2026-09-10 05:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Cameron St",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:40 AM, Sep 10 2026 Crash on SB Cameron St\u00A0at Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775740/attachment_0.png",
+    "Latitude": 36.100889799425346,
+    "Longitude": -115.20392417802847
   }
 ]
