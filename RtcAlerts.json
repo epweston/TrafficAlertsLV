@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56064,
-    "Timestamp": "2026-09-09 06:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:27 AM, Sep 09 2026 Crash on EB Tropicana Ave\u00A0at Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3774365/attachment_0.png",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
     "UniqueId": 56065,
     "Timestamp": "2026-09-09 06:32",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775813/attachment_0.png",
     "Latitude": 36.100228899999998,
     "Longitude": -115.0778667
+  },
+  {
+    "UniqueId": 56168,
+    "Timestamp": "2026-09-10 06:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:28 AM, Sep 10 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775821/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
