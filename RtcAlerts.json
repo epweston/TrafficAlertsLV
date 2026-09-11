@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56184,
-    "Timestamp": "2026-09-10 08:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder City Parkway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:54 AM, Sep 10 2026 Crash on NB I-11\u00A0at Boulder City Parkway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776109/attachment_0.jpg",
-    "Latitude": 35.973038099999997,
-    "Longitude": -114.9141533
-  },
-  {
-    "UniqueId": 56185,
-    "Timestamp": "2026-09-10 08:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:57 AM, Sep 10 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
-    "UniqueId": 56186,
-    "Timestamp": "2026-09-10 08:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:57 AM, Sep 10 2026 Crash on NB I-11\u00A0before 215 Southern Beltway. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776112/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 56187,
     "Timestamp": "2026-09-10 09:03",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777439/attachment_0.png",
     "Latitude": 36.115079025217497,
     "Longitude": -115.30254383728953
+  },
+  {
+    "UniqueId": 56294,
+    "Timestamp": "2026-09-11 08:53",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Skye Canyon Park Dr",
+    "Relationship": "after",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:53 AM, Sep 11 2026 Crash on EB Skye Canyon Park Dr\u00A0after Grand Canyon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777459/attachment_0.png",
+    "Latitude": 36.314156599999997,
+    "Longitude": -115.30604580000001
+  },
+  {
+    "UniqueId": 56295,
+    "Timestamp": "2026-09-11 08:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Sloan Ln",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:55 AM, Sep 11 2026 Crash on SB Sloan Ln\u00A0after Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777446/attachment_0.png",
+    "Latitude": 36.159346999999997,
+    "Longitude": -115.0473999
   }
 ]
