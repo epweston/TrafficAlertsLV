@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56223,
-    "Timestamp": "2026-09-10 14:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:50 PM, Sep 10 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776800/attachment_0.jpg",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 56224,
-    "Timestamp": "2026-09-10 14:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:52 PM, Sep 10 2026 Crash on NB Durango Dr\u00A0at Russell Rd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.085291499999997,
-    "Longitude": -115.27931080000001
-  },
-  {
     "UniqueId": 56225,
     "Timestamp": "2026-09-10 15:23",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777989/attachment_0.png",
     "Latitude": 36.122180899999996,
     "Longitude": -115.2164923
+  },
+  {
+    "UniqueId": 56324,
+    "Timestamp": "2026-09-11 14:50",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "to",
+    "CrossStreet": "Sb I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:50 PM, Sep 11 2026 Crash on EB Summerlin Pkwy\u00A0to SB I-11 ramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778015/attachment_0.png",
+    "Latitude": 36.177600959999999,
+    "Longitude": -115.24529482
   }
 ]
