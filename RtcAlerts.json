@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56173,
-    "Timestamp": "2026-09-10 07:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "at",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "Right lane blocked",
-    "Notes": "7:59 AM, Sep 10 2026 Crash on WB Starr Ave\u00A0at Dean Martin Dr. Right lane blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775960/attachment_0.jpg",
-    "Latitude": 35.984226199999988,
-    "Longitude": -115.1837256
-  },
-  {
-    "UniqueId": 56174,
-    "Timestamp": "2026-09-10 08:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:02 AM, Sep 10 2026 Crash on SB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775965/attachment_0.jpg",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 56175,
     "Timestamp": "2026-09-10 08:19",
     "IncidentType": "Crash",
@@ -1566,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777355/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 56286,
+    "Timestamp": "2026-09-11 07:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:59 AM, Sep 11 2026 Crash on WB Washington Ave\u00A0before Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777357/attachment_0.png",
+    "Latitude": 36.181090300000008,
+    "Longitude": -115.1791041
+  },
+  {
+    "UniqueId": 56287,
+    "Timestamp": "2026-09-11 08:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:01 AM, Sep 11 2026 Stalled vehicle on SB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777347/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
