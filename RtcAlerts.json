@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56239,
-    "Timestamp": "2026-09-10 16:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:24 PM, Sep 10 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776860/attachment_0.jpg",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 56240,
-    "Timestamp": "2026-09-10 16:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:26 PM, Sep 10 2026 Crash on NB I-15\u00A0at Washington Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776863/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 56241,
     "Timestamp": "2026-09-10 16:44",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778060/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 56338,
+    "Timestamp": "2026-09-11 16:22",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "over",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:22 PM, Sep 11 2026 Crash on NB Buffalo Dr\u00A0over Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778062/attachment_0.png",
+    "Latitude": 36.178622470000001,
+    "Longitude": -115.25986433
   }
 ]
