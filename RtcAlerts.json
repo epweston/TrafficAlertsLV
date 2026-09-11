@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56183,
-    "Timestamp": "2026-09-10 08:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:52 AM, Sep 10 2026 Stalled vehicle on EB Sahara Ave\u00A0before Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776090/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 56184,
     "Timestamp": "2026-09-10 08:54",
     "IncidentType": "Crash",
@@ -1510,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777388/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 56292,
+    "Timestamp": "2026-09-11 08:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Revere St",
+    "Impact": "Expect Delays",
+    "Notes": "8:47 AM, Sep 11 2026 Crash on WB Cheyenne Ave\u00A0before Revere St. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777432/attachment_0.png",
+    "Latitude": 36.217776000000001,
+    "Longitude": -115.15201329999999
+  },
+  {
+    "UniqueId": 56293,
+    "Timestamp": "2026-09-11 08:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "8:51 AM, Sep 11 2026 Crash on EB Flamingo Rd\u00A0at 215 Western Beltway. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777439/attachment_0.png",
+    "Latitude": 36.115079025217497,
+    "Longitude": -115.30254383728953
   }
 ]
