@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56242,
-    "Timestamp": "2026-09-10 16:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:50 PM, Sep 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776885/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 56243,
     "Timestamp": "2026-09-10 17:08",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778072/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 56345,
+    "Timestamp": "2026-09-11 16:49",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "4:49 PM, Sep 11 2026 Crash on EB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778094/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
