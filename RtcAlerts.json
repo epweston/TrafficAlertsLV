@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56206,
-    "Timestamp": "2026-09-10 12:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Ione Rd",
-    "Impact": "Left lanes blocked. Expect Delays",
-    "Notes": "12:46 PM, Sep 10 2026 Crash on NB Eastern Ave\u00A0at Ione Rd. Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776590/attachment_0.jpg",
-    "Latitude": 36.009616180087541,
-    "Longitude": -115.11710109004405
-  },
-  {
-    "UniqueId": 56207,
-    "Timestamp": "2026-09-10 12:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "12:59 PM, Sep 10 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776623/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 56208,
-    "Timestamp": "2026-09-10 13:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:00 PM, Sep 10 2026 Crash on WB Craig Rd\u00A0before Losee Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776644/attachment_0.jpg",
-    "Latitude": 36.239773575501886,
-    "Longitude": -115.11682743770037
-  },
-  {
-    "UniqueId": 56209,
-    "Timestamp": "2026-09-10 13:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:02 PM, Sep 10 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776627/attachment_0.jpg",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 56210,
     "Timestamp": "2026-09-10 13:07",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777818/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 56313,
+    "Timestamp": "2026-09-11 12:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:59 PM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777865/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
