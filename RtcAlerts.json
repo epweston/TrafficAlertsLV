@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56204,
-    "Timestamp": "2026-09-10 12:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:03 PM, Sep 10 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776533/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 56206,
     "Timestamp": "2026-09-10 12:46",
     "IncidentType": "Crash",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777775/attachment_0.png",
     "Latitude": 36.159173199999998,
     "Longitude": -115.24359750000001
+  },
+  {
+    "UniqueId": 56306,
+    "Timestamp": "2026-09-11 12:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "at",
+    "CrossStreet": "Crestdale Lane",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:00 PM, Sep 11 2026 Crash on SB Hualapai Way\u00A0at Crestdale Lane. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777759/attachment_0.png",
+    "Latitude": 36.183376713421751,
+    "Longitude": -115.32241344451906
   }
 ]
