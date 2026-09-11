@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56153,
-    "Timestamp": "2026-09-09 20:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Owens Ave",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "",
-    "Notes": "8:26 PM, Sep 09 2026 Crash on WB Owens Ave\u00A0at Main St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775579/attachment_0.png",
-    "Latitude": 36.188494400000003,
-    "Longitude": -115.1353182
-  },
-  {
     "UniqueId": 56154,
     "Timestamp": "2026-09-09 20:53",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776953/attachment_0.jpg",
     "Latitude": 36.114641484511473,
     "Longitude": -115.1238816945087
+  },
+  {
+    "UniqueId": 56267,
+    "Timestamp": "2026-09-10 20:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:35 PM, Sep 10 2026 Crash on SB I-11\u00A0before Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776938/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
