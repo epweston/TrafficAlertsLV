@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56140,
-    "Timestamp": "2026-09-09 17:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:27 PM, Sep 09 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775537/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 56141,
     "Timestamp": "2026-09-09 17:41",
     "IncidentType": "Crash",
@@ -1482,5 +1468,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776916/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 56247,
+    "Timestamp": "2026-09-10 17:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Center lanes blocked.",
+    "Notes": "5:29 PM, Sep 10 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776900/attachment_0.jpg",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 56248,
+    "Timestamp": "2026-09-10 17:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:29 PM, Sep 10 2026 Crash on NB Eastern Ave\u00A0at Flamingo Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776899/attachment_0.jpg",
+    "Latitude": 36.114684821466277,
+    "Longitude": -115.11920389996433
+  },
+  {
+    "UniqueId": 56249,
+    "Timestamp": "2026-09-10 17:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:29 PM, Sep 10 2026 Crash on NB Eastern Ave\u00A0at Flamingo Rd. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.114684821466277,
+    "Longitude": -115.11920389996433
   }
 ]
