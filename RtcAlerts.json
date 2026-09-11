@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56231,
-    "Timestamp": "2026-09-10 16:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:06 PM, Sep 10 2026 Crash on WB Blue Diamond Rd\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776850/attachment_0.png",
-    "Latitude": 36.022412007316184,
-    "Longitude": -115.24351356526064
-  },
-  {
-    "UniqueId": 56232,
-    "Timestamp": "2026-09-10 16:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "4:10 PM, Sep 10 2026 Crash on NB Jones Blvd\u00A0at Tropicana Ave. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776832/attachment_0.png",
-    "Latitude": 36.099959300000002,
-    "Longitude": -115.22498229999999
-  },
-  {
     "UniqueId": 56233,
     "Timestamp": "2026-09-10 16:14",
     "IncidentType": "Crash",
@@ -1426,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778031/attachment_0.png",
     "Latitude": 36.122523919999999,
     "Longitude": -115.06509306
+  },
+  {
+    "UniqueId": 56333,
+    "Timestamp": "2026-09-11 16:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:06 PM, Sep 11 2026 Crash on SB I-15\u00A0at Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778054/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 56334,
+    "Timestamp": "2026-09-11 16:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Arroyo Grande Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:09 PM, Sep 11 2026 Crash on EB Sunset Rd\u00A0at Arroyo Grande Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778055/attachment_0.jpg",
+    "Latitude": 36.06369230838731,
+    "Longitude": -115.05865035448754
   }
 ]
