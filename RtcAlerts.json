@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56157,
-    "Timestamp": "2026-09-09 22:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:27 PM, Sep 09 2026 Crash on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775587/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 56158,
     "Timestamp": "2026-09-10 01:56",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776951/attachment_0.jpg",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 56274,
+    "Timestamp": "2026-09-10 22:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:50 PM, Sep 10 2026 Crash on WB Cheyenne Ave\u00A0after Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776952/attachment_0.png",
+    "Latitude": 36.218685299999997,
+    "Longitude": -115.2788607
   }
 ]
