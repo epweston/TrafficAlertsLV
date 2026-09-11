@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56168,
-    "Timestamp": "2026-09-10 06:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:28 AM, Sep 10 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775821/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 56169,
-    "Timestamp": "2026-09-10 06:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:32 AM, Sep 10 2026 Crash on WB Charleston Blvd\u00A0before Rampart Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775798/attachment_0.png",
-    "Latitude": 36.158945099999997,
-    "Longitude": -115.29135580000001
-  },
-  {
-    "UniqueId": 56170,
-    "Timestamp": "2026-09-10 06:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:32 AM, Sep 10 2026 Crash on WB Charleston Blvd\u00A0before Rampart Blvd. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.158945099999997,
-    "Longitude": -115.29135580000001
-  },
-  {
     "UniqueId": 56171,
     "Timestamp": "2026-09-10 07:04",
     "IncidentType": "Crash",
@@ -1594,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777167/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 56283,
+    "Timestamp": "2026-09-11 06:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:52 AM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777236/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
