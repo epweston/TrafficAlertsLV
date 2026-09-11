@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56219,
-    "Timestamp": "2026-09-10 14:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Valley Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "2:21 PM, Sep 10 2026 Crash on EB Cheyenne Ave\u00A0at Valley Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776750/attachment_0.jpg",
-    "Latitude": 36.217469700000002,
-    "Longitude": -115.19739680000001
-  },
-  {
-    "UniqueId": 56220,
-    "Timestamp": "2026-09-10 14:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Valley Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "2:21 PM, Sep 10 2026 Crash on EB Cheyenne Ave\u00A0at Valley Dr. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217469700000002,
-    "Longitude": -115.19739680000001
-  },
-  {
     "UniqueId": 56221,
     "Timestamp": "2026-09-10 14:31",
     "IncidentType": "Vehicle on fire",
@@ -1412,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777968/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 56320,
+    "Timestamp": "2026-09-11 14:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "2:24 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777996/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 56321,
+    "Timestamp": "2026-09-11 14:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:26 PM, Sep 11 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777981/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
