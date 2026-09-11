@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56134,
-    "Timestamp": "2026-09-09 16:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:57 PM, Sep 09 2026 Crash on NB I-15\u00A0at Tropicana Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775510/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 56135,
-    "Timestamp": "2026-09-09 16:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:59 PM, Sep 09 2026 Crash on NB I-15 offramp to Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775512/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 56136,
-    "Timestamp": "2026-09-09 17:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:10 PM, Sep 09 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775531/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 56137,
-    "Timestamp": "2026-09-09 17:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:12 PM, Sep 09 2026 Crash on EB Flamingo Rd\u00A0after University Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775532/attachment_0.png",
-    "Latitude": 36.114693462474712,
-    "Longitude": -115.14635429434829
-  },
-  {
     "UniqueId": 56138,
     "Timestamp": "2026-09-09 17:15",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776885/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 56243,
+    "Timestamp": "2026-09-10 17:08",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:08 PM, Sep 10 2026 Crash on NB I-15\u00A0at Harmon Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776891/attachment_0.jpg",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 56244,
+    "Timestamp": "2026-09-10 17:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:11 PM, Sep 10 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776913/attachment_0.jpg",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
