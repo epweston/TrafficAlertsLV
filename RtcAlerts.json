@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56214,
-    "Timestamp": "2026-09-10 14:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:05 PM, Sep 10 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776738/attachment_0.jpg",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 56215,
-    "Timestamp": "2026-09-10 14:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "2:05 PM, Sep 10 2026 Crash on SB Rainbow Blvd\u00A0at Robindale Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776760/attachment_0.png",
-    "Latitude": 36.048849400000002,
-    "Longitude": -115.2431284
-  },
-  {
-    "UniqueId": 56216,
-    "Timestamp": "2026-09-10 14:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:08 PM, Sep 10 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776742/attachment_0.jpg",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
-    "UniqueId": 56217,
-    "Timestamp": "2026-09-10 14:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:10 PM, Sep 10 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776762/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 56218,
-    "Timestamp": "2026-09-10 14:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:12 PM, Sep 10 2026 Crash on SB Maryland Pkwy\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776765/attachment_0.png",
-    "Latitude": 36.101038899999999,
-    "Longitude": -115.1370057
-  },
-  {
     "UniqueId": 56219,
     "Timestamp": "2026-09-10 14:21",
     "IncidentType": "Crash",
@@ -1468,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777963/attachment_0.png",
     "Latitude": 36.176751852351089,
     "Longitude": -115.24383544921876
+  },
+  {
+    "UniqueId": 56319,
+    "Timestamp": "2026-09-11 14:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "2:12 PM, Sep 11 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777968/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
