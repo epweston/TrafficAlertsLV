@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56141,
-    "Timestamp": "2026-09-09 17:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:41 PM, Sep 09 2026 Crash on NB Paradise Rd\u00A0at Karen Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775560/attachment_0.png",
-    "Latitude": 36.1401976,
-    "Longitude": -115.15489270000001
-  },
-  {
     "UniqueId": 56142,
     "Timestamp": "2026-09-09 17:56",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776919/attachment_0.jpg",
     "Latitude": 36.178483896259188,
     "Longitude": -115.25997161865236
+  },
+  {
+    "UniqueId": 56251,
+    "Timestamp": "2026-09-10 17:42",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "5:42 PM, Sep 10 2026 Crash on WB Sunset Rd\u00A0before Fort Apache Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776903/attachment_0.jpg",
+    "Latitude": 36.070283500000002,
+    "Longitude": -115.2977282
+  },
+  {
+    "UniqueId": 56252,
+    "Timestamp": "2026-09-10 17:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:41 PM, Sep 10 2026 Crash on SB I-15\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776923/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 56253,
+    "Timestamp": "2026-09-10 17:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:41 PM, Sep 10 2026 Crash on SB I-15\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 56254,
+    "Timestamp": "2026-09-10 17:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:43 PM, Sep 10 2026 Crash on NB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
   }
 ]
