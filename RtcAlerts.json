@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56156,
-    "Timestamp": "2026-09-09 22:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:13 PM, Sep 09 2026 Crash on EB Stewart Ave\u00A0at Lamb Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775584/attachment_0.png",
-    "Latitude": 36.166370200000003,
-    "Longitude": -115.0805115
-  },
-  {
     "UniqueId": 56157,
     "Timestamp": "2026-09-09 22:27",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776958/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 56272,
+    "Timestamp": "2026-09-10 22:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:09 PM, Sep 10 2026 Crash on EB Sahara Ave\u00A0before Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776949/attachment_0.png",
+    "Latitude": 36.144174199999988,
+    "Longitude": -115.1731231
   }
 ]
