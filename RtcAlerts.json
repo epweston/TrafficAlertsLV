@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56150,
-    "Timestamp": "2026-09-09 19:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:07 PM, Sep 09 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775570/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 56151,
-    "Timestamp": "2026-09-09 19:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "",
-    "Notes": "7:13 PM, Sep 09 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Charleston Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/09/file_attachments/3775573/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 56152,
     "Timestamp": "2026-09-09 19:30",
     "IncidentType": "Crash",
@@ -1552,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776931/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 56262,
+    "Timestamp": "2026-09-10 19:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "South Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:18 PM, Sep 10 2026 Crash on SB South Rancho Dr\u00A0after Washington Ave. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.181090300000008,
+    "Longitude": -115.1791041
+  },
+  {
+    "UniqueId": 56263,
+    "Timestamp": "2026-09-10 19:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "South Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:18 PM, Sep 10 2026 Crash on SB South Rancho Dr\u00A0after Washington Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776933/attachment_0.jpg",
+    "Latitude": 36.181090300000008,
+    "Longitude": -115.1791041
   }
 ]
