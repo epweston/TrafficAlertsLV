@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56211,
-    "Timestamp": "2026-09-10 13:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "1:45 PM, Sep 10 2026 Crash on EB Sahara Ave\u00A0after Durango Dr. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776698/attachment_0.jpg",
-    "Latitude": 36.144195199999999,
-    "Longitude": -115.27905680000001
-  },
-  {
-    "UniqueId": 56212,
-    "Timestamp": "2026-09-10 13:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 PM, Sep 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776714/attachment_0.jpg",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 56213,
-    "Timestamp": "2026-09-10 13:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 PM, Sep 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 56214,
     "Timestamp": "2026-09-10 14:05",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777903/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 56315,
+    "Timestamp": "2026-09-11 13:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Offramp Right lane blocked.",
+    "Notes": "1:43 PM, Sep 11 2026 Crash on NB I-15\u00A0at Lake Mead Blvd. Offramp Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777934/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
