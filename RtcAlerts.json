@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56162,
-    "Timestamp": "2026-09-10 05:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:43 AM, Sep 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775710/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
-    "UniqueId": 56163,
-    "Timestamp": "2026-09-10 05:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Sammy Davis Junior Dr",
-    "Relationship": "at",
-    "CrossStreet": "Genting Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:45 AM, Sep 10 2026 Crash on NB Sammy Davis Junior Dr\u00A0at Genting Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775742/attachment_0.png",
-    "Latitude": 36.134335145215843,
-    "Longitude": -115.17117442933653
-  },
-  {
-    "UniqueId": 56164,
-    "Timestamp": "2026-09-10 05:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:47 AM, Sep 10 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775755/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 56165,
-    "Timestamp": "2026-09-10 05:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:59 AM, Sep 10 2026 Crash on EB Russell Rd\u00A0after Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3775774/attachment_0.png",
-    "Latitude": 36.085291499999997,
-    "Longitude": -115.27931080000001
-  },
-  {
     "UniqueId": 56166,
     "Timestamp": "2026-09-10 06:19",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777097/attachment_0.png",
     "Latitude": 36.1217398,
     "Longitude": -115.146192
+  },
+  {
+    "UniqueId": 56279,
+    "Timestamp": "2026-09-11 05:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:59 AM, Sep 11 2026 Crash on SB I-15\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777137/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 56280,
+    "Timestamp": "2026-09-11 06:01",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:01 AM, Sep 11 2026 Crash on EB Spring Mountain Rd\u00A0at Decatur Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777138/attachment_0.png",
+    "Latitude": 36.126278200000002,
+    "Longitude": -115.20802190000001
   }
 ]
