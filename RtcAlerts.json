@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56264,
-    "Timestamp": "2026-09-10 19:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:27 PM, Sep 10 2026 Crash on SB I-11\u00A0at Auto Show Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776935/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 56265,
-    "Timestamp": "2026-09-10 19:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:28 PM, Sep 10 2026 Crash on NB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776936/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 56266,
-    "Timestamp": "2026-09-10 19:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "2 Left lanes blocked Right lane blocked.",
-    "Notes": "7:31 PM, Sep 10 2026 Crash on EB Flamingo Rd\u00A0at Burnham Ave. 2 Left lanes blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776953/attachment_0.jpg",
-    "Latitude": 36.114641484511473,
-    "Longitude": -115.1238816945087
-  },
-  {
     "UniqueId": 56267,
     "Timestamp": "2026-09-10 20:35",
     "IncidentType": "Crash",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778173/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 56366,
+    "Timestamp": "2026-09-11 19:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 8",
+    "Impact": "Right shoulder",
+    "Notes": "7:28 PM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0at Mile 8. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778174/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
