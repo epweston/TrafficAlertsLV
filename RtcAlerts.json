@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56256,
-    "Timestamp": "2026-09-10 18:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Arville St 2",
-    "Impact": "",
-    "Notes": "6:28 PM, Sep 10 2026 Crash on EB Tropicana Ave\u00A0at Arville St. 2 Left lanes blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776925/attachment_0.png",
-    "Latitude": 36.100971100000002,
-    "Longitude": -115.199292
-  },
-  {
     "UniqueId": 56257,
     "Timestamp": "2026-09-10 18:32",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778140/attachment_0.png",
     "Latitude": 36.166186199999999,
     "Longitude": -115.0982052
+  },
+  {
+    "UniqueId": 56355,
+    "Timestamp": "2026-09-11 18:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Galleria Dr",
+    "Relationship": "at",
+    "CrossStreet": "Marks St",
+    "Impact": "",
+    "Notes": "6:28 PM, Sep 11 2026 Stalled vehicle on WB Galleria Dr\u00A0at Marks St. Right lane partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778143/attachment_0.png",
+    "Latitude": 36.071437400000001,
+    "Longitude": -115.0405437
   }
 ]
