@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56314,
-    "Timestamp": "2026-09-11 13:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:30 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777903/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 56315,
-    "Timestamp": "2026-09-11 13:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Offramp Right lane blocked.",
-    "Notes": "1:43 PM, Sep 11 2026 Crash on NB I-15\u00A0at Lake Mead Blvd. Offramp Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777934/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 56316,
-    "Timestamp": "2026-09-11 13:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Onramp Right lane blocked.",
-    "Notes": "1:47 PM, Sep 11 2026 Crash on SB I-15\u00A0at Craig Rd. Onramp Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777956/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 56317,
     "Timestamp": "2026-09-11 13:57",
     "IncidentType": "Stalled vehicle",
@@ -1930,5 +1888,19 @@
     "ImagePath": "",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 56452,
+    "Timestamp": "2026-09-12 13:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "1:47 PM, Sep 12 2026 Crash on WB Bonanza Rd\u00A0at Lamb Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778403/attachment_0.jpg",
+    "Latitude": 36.173543799999997,
+    "Longitude": -115.08043429999999
   }
 ]
