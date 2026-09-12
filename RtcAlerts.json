@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56299,
-    "Timestamp": "2026-09-11 09:56",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:56 AM, Sep 11 2026 Police activity on WB Sunset Rd\u00A0after Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777575/attachment_0.png",
-    "Latitude": 36.071824999999997,
-    "Longitude": -115.207977
-  },
-  {
     "UniqueId": 56300,
     "Timestamp": "2026-09-11 10:02",
     "IncidentType": "Crash",
@@ -1886,6 +1872,34 @@
     "Impact": "Right lane blocked.",
     "Notes": "9:51 AM, Sep 12 2026 Crash on WB Flamingo Rd\u00A0over I-15. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778346/attachment_0.png",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
+  },
+  {
+    "UniqueId": 56434,
+    "Timestamp": "2026-09-12 09:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection partially blocked",
+    "Notes": "9:52 AM, Sep 12 2026 Crash on WB Flamingo Rd\u00A0before I-15. Intersection partially blocked",
+    "ImagePath": "",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
+  },
+  {
+    "UniqueId": 56435,
+    "Timestamp": "2026-09-12 09:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection partially blocked",
+    "Notes": "9:52 AM, Sep 12 2026 Crash on WB Flamingo Rd\u00A0before I-15. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778331/attachment_0.jpg",
     "Latitude": 36.114442114154052,
     "Longitude": -115.18066236782498
   }
