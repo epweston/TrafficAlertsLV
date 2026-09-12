@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56326,
-    "Timestamp": "2026-09-11 15:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Vegas Valley Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:03 PM, Sep 11 2026 Crash on SB Nellis Blvd\u00A0at Vegas Valley Dr. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.13697359374855,
-    "Longitude": -115.06562949343491
-  },
-  {
-    "UniqueId": 56327,
-    "Timestamp": "2026-09-11 15:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Nb I-11",
-    "Impact": "Right shoulder",
-    "Notes": "3:08 PM, Sep 11 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0to NB I-11 ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778039/attachment_0.png",
-    "Latitude": 36.277670350000001,
-    "Longitude": -115.26705787
-  },
-  {
     "UniqueId": 56328,
     "Timestamp": "2026-09-11 15:31",
     "IncidentType": "Crash",
@@ -1832,5 +1804,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778425/attachment_0.jpg",
     "Latitude": 36.085212599999998,
     "Longitude": -115.2973982
+  },
+  {
+    "UniqueId": 56458,
+    "Timestamp": "2026-09-12 15:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:12 PM, Sep 12 2026 Stalled vehicle on NB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 56459,
+    "Timestamp": "2026-09-12 15:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:12 PM, Sep 12 2026 Stalled vehicle on NB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778408/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
