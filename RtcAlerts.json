@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56297,
-    "Timestamp": "2026-09-11 09:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:37 AM, Sep 11 2026 Crash on SB Eastern Ave\u00A0after Pebble Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777516/attachment_0.png",
-    "Latitude": 36.02763991790971,
-    "Longitude": -115.1184797391856
-  },
-  {
     "UniqueId": 56298,
     "Timestamp": "2026-09-11 09:43",
     "IncidentType": "Stalled vehicle",
@@ -1888,5 +1874,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778328/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 56432,
+    "Timestamp": "2026-09-12 09:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:33 AM, Sep 12 2026 Stalled vehicle on NB Warm Springs Rd\u00A0before 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778342/attachment_0.png",
+    "Latitude": 36.173663860844933,
+    "Longitude": -115.13790452024138
   }
 ]
