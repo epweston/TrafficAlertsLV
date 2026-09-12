@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56282,
-    "Timestamp": "2026-09-11 06:19",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:19 AM, Sep 11 2026 Police activity on NB I-15\u00A0at Craig Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777167/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 56283,
-    "Timestamp": "2026-09-11 06:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:52 AM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777236/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 56284,
-    "Timestamp": "2026-09-11 07:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:05 AM, Sep 11 2026 Stalled vehicle on SB I-15\u00A0before Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777255/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
     "UniqueId": 56285,
     "Timestamp": "2026-09-11 07:54",
     "IncidentType": "Stalled vehicle",
@@ -1874,5 +1832,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778299/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 56416,
+    "Timestamp": "2026-09-12 07:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:03 AM, Sep 12 2026 Crash on NB 215 Western Beltway\u00A0at Lake Mead Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778304/attachment_0.png",
+    "Latitude": 36.205568079996773,
+    "Longitude": -115.34099578857423
+  },
+  {
+    "UniqueId": 56417,
+    "Timestamp": "2026-09-12 07:04",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:04 AM, Sep 12 2026 Police activity on WB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 56418,
+    "Timestamp": "2026-09-12 07:04",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:04 AM, Sep 12 2026 Police activity on WB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778291/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
