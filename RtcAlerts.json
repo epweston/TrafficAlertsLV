@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56300,
-    "Timestamp": "2026-09-11 10:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Bermuda Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "10:02 AM, Sep 11 2026 Crash on NB Bermuda Rd\u00A0at Pebble Rd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777561/attachment_0.png",
-    "Latitude": 36.027845599999999,
-    "Longitude": -115.1545983
-  },
-  {
-    "UniqueId": 56301,
-    "Timestamp": "2026-09-11 10:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:05 AM, Sep 11 2026 Crash on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777582/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
-    "UniqueId": 56302,
-    "Timestamp": "2026-09-11 10:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:38 AM, Sep 11 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777658/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
-    "UniqueId": 56303,
-    "Timestamp": "2026-09-11 10:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:48 AM, Sep 11 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777648/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 56304,
     "Timestamp": "2026-09-11 11:41",
     "IncidentType": "Police activity",
@@ -1902,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778331/attachment_0.jpg",
     "Latitude": 36.114442114154052,
     "Longitude": -115.18066236782498
+  },
+  {
+    "UniqueId": 56436,
+    "Timestamp": "2026-09-12 10:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:55 AM, Sep 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Jones Blvd. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
