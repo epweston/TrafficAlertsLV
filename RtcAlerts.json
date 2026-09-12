@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56319,
-    "Timestamp": "2026-09-11 14:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "2:12 PM, Sep 11 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777968/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 56320,
-    "Timestamp": "2026-09-11 14:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:24 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777996/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 56321,
-    "Timestamp": "2026-09-11 14:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:26 PM, Sep 11 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777981/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 56322,
-    "Timestamp": "2026-09-11 14:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:32 PM, Sep 11 2026 Crash on NB I-15\u00A0before Neon Gateway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778001/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
-    "UniqueId": 56323,
-    "Timestamp": "2026-09-11 14:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "at",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:39 PM, Sep 11 2026 Crash on WB Twain Ave\u00A0at Lindell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777989/attachment_0.png",
-    "Latitude": 36.122180899999996,
-    "Longitude": -115.2164923
-  },
-  {
     "UniqueId": 56324,
     "Timestamp": "2026-09-11 14:50",
     "IncidentType": "Crash",
@@ -1888,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778421/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 56455,
+    "Timestamp": "2026-09-12 14:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:36 PM, Sep 12 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778405/attachment_0.jpg",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
