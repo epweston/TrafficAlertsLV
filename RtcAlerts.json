@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56276,
-    "Timestamp": "2026-09-11 04:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "4:21 AM, Sep 11 2026 Crash on NB Eastern Ave\u00A0at I-11. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777044/attachment_0.png",
-    "Latitude": 36.167915800000003,
-    "Longitude": -115.11588380000001
-  },
-  {
     "UniqueId": 56277,
     "Timestamp": "2026-09-11 05:13",
     "IncidentType": "Stalled vehicle",
@@ -1916,5 +1902,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778250/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 56413,
+    "Timestamp": "2026-09-12 04:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Resorts World Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:43 AM, Sep 12 2026 Crash on EB Resorts World Ave\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778262/attachment_0.jpg",
+    "Latitude": 36.134456466037953,
+    "Longitude": -115.1634120699965
   }
 ]
