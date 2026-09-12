@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56274,
-    "Timestamp": "2026-09-10 22:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:50 PM, Sep 10 2026 Crash on WB Cheyenne Ave\u00A0after Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776952/attachment_0.png",
-    "Latitude": 36.218685299999997,
-    "Longitude": -115.2788607
-  },
-  {
     "UniqueId": 56275,
     "Timestamp": "2026-09-11 03:19",
     "IncidentType": "Police activity",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778212/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 56397,
+    "Timestamp": "2026-09-11 22:55",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder.",
+    "Notes": "10:55 PM, Sep 11 2026 Police activity on SB I-15\u00A0at Tropicana Ave off-ramp. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778234/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
