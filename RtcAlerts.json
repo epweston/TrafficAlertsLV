@@ -1636,5 +1636,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778203/attachment_0.png",
     "Latitude": 36.219060749999997,
     "Longitude": -115.32765125
+  },
+  {
+    "UniqueId": 56389,
+    "Timestamp": "2026-09-11 21:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Brush St 2",
+    "Impact": "",
+    "Notes": "9:47 PM, Sep 11 2026 Crash on EB Charleston Blvd\u00A0at Brush St. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778204/attachment_0.png",
+    "Latitude": 36.159093599999999,
+    "Longitude": -115.2103205
+  },
+  {
+    "UniqueId": 56390,
+    "Timestamp": "2026-09-11 21:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder",
+    "Notes": "9:47 PM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0to Cheyenne Ave off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778206/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 56391,
+    "Timestamp": "2026-09-11 21:48",
+    "IncidentType": "Update Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Harbor Island Dr",
+    "Impact": "All lanes are open again.",
+    "Notes": "9:48 PM, Sep 11 2026 Update Crash on WB Lake Mead Blvd\u00A0at Harbor Island Dr. All lanes are open again.",
+    "ImagePath": "",
+    "Latitude": 36.197865800000002,
+    "Longitude": -115.2786763
   }
 ]
