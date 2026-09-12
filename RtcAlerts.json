@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56317,
-    "Timestamp": "2026-09-11 13:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:57 PM, Sep 11 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777946/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
-    "UniqueId": 56318,
-    "Timestamp": "2026-09-11 13:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:59 PM, Sep 11 2026 Crash on NB Rainbow Blvd\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777963/attachment_0.png",
-    "Latitude": 36.176751852351089,
-    "Longitude": -115.24383544921876
-  },
-  {
     "UniqueId": 56319,
     "Timestamp": "2026-09-11 14:12",
     "IncidentType": "Stalled vehicle",
@@ -1902,5 +1874,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778403/attachment_0.jpg",
     "Latitude": 36.173543799999997,
     "Longitude": -115.08043429999999
+  },
+  {
+    "UniqueId": 56454,
+    "Timestamp": "2026-09-12 14:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:02 PM, Sep 12 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778421/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
