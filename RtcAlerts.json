@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56306,
-    "Timestamp": "2026-09-11 12:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Crestdale Lane",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:00 PM, Sep 11 2026 Crash on SB Hualapai Way\u00A0at Crestdale Lane. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777759/attachment_0.png",
-    "Latitude": 36.183376713421751,
-    "Longitude": -115.32241344451906
-  },
-  {
-    "UniqueId": 56307,
-    "Timestamp": "2026-09-11 12:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:17 PM, Sep 11 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777770/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 56308,
     "Timestamp": "2026-09-11 12:19",
     "IncidentType": "Stalled vehicle",
@@ -1930,5 +1902,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778387/attachment_0.jpg",
     "Latitude": 36.217594200000001,
     "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 56444,
+    "Timestamp": "2026-09-12 12:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:12 PM, Sep 12 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778388/attachment_0.jpg",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
   }
 ]
