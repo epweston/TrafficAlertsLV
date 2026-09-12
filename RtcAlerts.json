@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56324,
-    "Timestamp": "2026-09-11 14:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:50 PM, Sep 11 2026 Crash on EB Summerlin Pkwy\u00A0to SB I-11 ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778015/attachment_0.png",
-    "Latitude": 36.177600959999999,
-    "Longitude": -115.24529482
-  },
-  {
-    "UniqueId": 56325,
-    "Timestamp": "2026-09-11 14:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:54 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0at Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778017/attachment_0.png",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
     "UniqueId": 56326,
     "Timestamp": "2026-09-11 15:03",
     "IncidentType": "Crash",
@@ -1832,5 +1804,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778405/attachment_0.jpg",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 56456,
+    "Timestamp": "2026-09-12 14:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:51 PM, Sep 12 2026 Stalled vehicle on NB I-11\u00A0after Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778423/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 56457,
+    "Timestamp": "2026-09-12 14:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "2:52 PM, Sep 12 2026 Crash on SB Fort Apache Rd\u00A0after Russell Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778425/attachment_0.jpg",
+    "Latitude": 36.085212599999998,
+    "Longitude": -115.2973982
   }
 ]
