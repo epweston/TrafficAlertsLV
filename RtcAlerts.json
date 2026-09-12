@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56345,
-    "Timestamp": "2026-09-11 16:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "4:49 PM, Sep 11 2026 Crash on EB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778094/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 56346,
     "Timestamp": "2026-09-11 16:53",
     "IncidentType": "Crash",
@@ -1874,5 +1860,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778473/attachment_0.png",
     "Latitude": 36.240214888276881,
     "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 56480,
+    "Timestamp": "2026-09-12 16:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:48 PM, Sep 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778474/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 56481,
+    "Timestamp": "2026-09-12 16:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:49 PM, Sep 12 2026 Crash on NB Las Vegas Blvd\u00A0before Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778468/attachment_0.png",
+    "Latitude": 36.056870840847097,
+    "Longitude": -115.17237723070896
   }
 ]
