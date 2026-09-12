@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56304,
-    "Timestamp": "2026-09-11 11:41",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "11:41 AM, Sep 11 2026 Police activity on SB I-11\u00A0after Tropicana Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777724/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 56305,
     "Timestamp": "2026-09-11 11:54",
     "IncidentType": "Crash",
@@ -1902,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778368/attachment_0.png",
     "Latitude": 36.181257299999999,
     "Longitude": -115.1250246
+  },
+  {
+    "UniqueId": 56440,
+    "Timestamp": "2026-09-12 11:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Cc-215",
+    "Relationship": "before",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:39 AM, Sep 12 2026 Crash on NB CC-215\u00A0before Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778370/attachment_0.png",
+    "Latitude": 36.181247399999997,
+    "Longitude": -115.31318779999999
   }
 ]
