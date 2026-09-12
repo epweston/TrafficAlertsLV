@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56244,
-    "Timestamp": "2026-09-10 17:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:11 PM, Sep 10 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776913/attachment_0.jpg",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 56245,
     "Timestamp": "2026-09-10 17:17",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778087/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 56350,
+    "Timestamp": "2026-09-11 17:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "N Rancho Dr",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "5:08 PM, Sep 11 2026 Stalled vehicle on SB N Rancho Dr\u00A0before Rainbow Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778103/attachment_0.png",
+    "Latitude": 36.250773600000002,
+    "Longitude": -115.2428853
   }
 ]
