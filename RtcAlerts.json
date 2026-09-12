@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56269,
-    "Timestamp": "2026-09-10 21:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:28 PM, Sep 10 2026 Crash on WB Flamingo Rd\u00A0after Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776956/attachment_0.png",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
     "UniqueId": 56270,
     "Timestamp": "2026-09-10 21:34",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778198/attachment_0.png",
     "Latitude": 36.057192800000003,
     "Longitude": -115.1836368
+  },
+  {
+    "UniqueId": 56384,
+    "Timestamp": "2026-09-11 21:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Meadows Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:26 PM, Sep 11 2026 Crash on NB Decatur Blvd\u00A0before Meadows Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778191/attachment_0.png",
+    "Latitude": 36.1701117,
+    "Longitude": -115.2059091
   }
 ]
