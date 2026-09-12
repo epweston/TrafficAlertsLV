@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56262,
-    "Timestamp": "2026-09-10 19:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "South Rancho Dr",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:18 PM, Sep 10 2026 Crash on SB South Rancho Dr\u00A0after Washington Ave. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
-    "UniqueId": 56263,
-    "Timestamp": "2026-09-10 19:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "South Rancho Dr",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:18 PM, Sep 10 2026 Crash on SB South Rancho Dr\u00A0after Washington Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776933/attachment_0.jpg",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
     "UniqueId": 56264,
     "Timestamp": "2026-09-10 19:27",
     "IncidentType": "Crash",
@@ -1440,5 +1412,19 @@
     "ImagePath": "",
     "Latitude": 36.188229999999997,
     "Longitude": -115.1033422
+  },
+  {
+    "UniqueId": 56365,
+    "Timestamp": "2026-09-11 19:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane partially blocked.",
+    "Notes": "7:12 PM, Sep 11 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Left lane partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778173/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
