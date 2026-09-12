@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56271,
-    "Timestamp": "2026-09-10 21:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:42 PM, Sep 10 2026 Stalled vehicle on SB I-15\u00A0to Speedway Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776958/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 56272,
     "Timestamp": "2026-09-10 22:09",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778202/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 56388,
+    "Timestamp": "2026-09-11 21:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:41 PM, Sep 11 2026 Crash on WB Cheyenne Ave\u00A0before 215 Western Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778203/attachment_0.png",
+    "Latitude": 36.219060749999997,
+    "Longitude": -115.32765125
   }
 ]
