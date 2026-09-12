@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56267,
-    "Timestamp": "2026-09-10 20:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:35 PM, Sep 10 2026 Crash on SB I-11\u00A0before Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776938/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 56268,
-    "Timestamp": "2026-09-10 20:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:40 PM, Sep 10 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776939/attachment_0.png",
-    "Latitude": 36.144563512522332,
-    "Longitude": -115.33671498298646
-  },
-  {
     "UniqueId": 56269,
     "Timestamp": "2026-09-10 21:28",
     "IncidentType": "Crash",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778186/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 56378,
+    "Timestamp": "2026-09-11 20:35",
+    "IncidentType": "Update Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "All lanes are open.",
+    "Notes": "8:35 PM, Sep 11 2026 Update Crash on WB Stewart Ave\u00A0at Pecos Rd. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.166186199999999,
+    "Longitude": -115.0982052
   }
 ]
