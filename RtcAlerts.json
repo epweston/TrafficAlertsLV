@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56257,
-    "Timestamp": "2026-09-10 18:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:32 PM, Sep 10 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/10/file_attachments/3776908/attachment_0.png",
-    "Latitude": 36.078835617458502,
-    "Longitude": -115.18136633150022
-  },
-  {
     "UniqueId": 56258,
     "Timestamp": "2026-09-10 18:46",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778143/attachment_0.png",
     "Latitude": 36.071437400000001,
     "Longitude": -115.0405437
+  },
+  {
+    "UniqueId": 56356,
+    "Timestamp": "2026-09-11 18:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder",
+    "Notes": "6:32 PM, Sep 11 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778145/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 56357,
+    "Timestamp": "2026-09-11 18:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left shoulder",
+    "Notes": "6:33 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778147/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
