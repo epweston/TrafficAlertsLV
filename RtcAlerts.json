@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56341,
-    "Timestamp": "2026-09-11 16:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:37 PM, Sep 11 2026 Crash on NB Decatur Blvd\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778068/attachment_0.png",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
-    "UniqueId": 56342,
-    "Timestamp": "2026-09-11 16:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "4:40 PM, Sep 11 2026 Stalled vehicle on SB I-11\u00A0before Lake Mead Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778082/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 56343,
-    "Timestamp": "2026-09-11 16:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "4:43 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778070/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 56344,
-    "Timestamp": "2026-09-11 16:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "4:45 PM, Sep 11 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778072/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 56345,
     "Timestamp": "2026-09-11 16:49",
     "IncidentType": "Crash",
@@ -1902,5 +1846,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778449/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 56478,
+    "Timestamp": "2026-09-12 16:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:40 PM, Sep 12 2026 Crash on EB Tropicana Ave\u00A0at I-15. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778451/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 56479,
+    "Timestamp": "2026-09-12 16:45",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Center lanes blocked.",
+    "Notes": "4:45 PM, Sep 12 2026 Crash on WB Craig Rd\u00A0at I-15. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778473/attachment_0.png",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
   }
 ]
