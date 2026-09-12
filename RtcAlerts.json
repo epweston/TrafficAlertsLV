@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56330,
-    "Timestamp": "2026-09-11 15:42",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Owens Ave",
-    "Relationship": "at",
-    "CrossStreet": "A St",
-    "Impact": "",
-    "Notes": "3:42 PM, Sep 11 2026 Crash on EB Owens Ave\u00A0at A St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778050/attachment_0.png",
-    "Latitude": 36.188418400000003,
-    "Longitude": -115.14236099999999
-  },
-  {
-    "UniqueId": 56331,
-    "Timestamp": "2026-09-11 15:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:44 PM, Sep 11 2026 Crash on NB I-15\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778029/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 56332,
     "Timestamp": "2026-09-11 15:56",
     "IncidentType": "Crash",
@@ -1874,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778453/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 56465,
+    "Timestamp": "2026-09-12 15:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Decatur And Valley View Blvds",
+    "Impact": "Off Ramp is CLOSED. Use other routes",
+    "Notes": "3:41 PM, Sep 12 2026 Crash on SB I-11\u00A0before Decatur and Valley View Blvds. Off Ramp is CLOSED. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778455/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
