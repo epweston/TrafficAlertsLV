@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56296,
-    "Timestamp": "2026-09-11 09:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:14 AM, Sep 11 2026 Stalled vehicle on SB 15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777478/attachment_0.png",
-    "Latitude": 36.013126668091431,
-    "Longitude": -115.18044948577882
-  },
-  {
     "UniqueId": 56297,
     "Timestamp": "2026-09-11 09:37",
     "IncidentType": "Crash",
@@ -1846,5 +1832,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778323/attachment_0.png",
     "Latitude": 36.100124800000003,
     "Longitude": -115.2946044
+  },
+  {
+    "UniqueId": 56428,
+    "Timestamp": "2026-09-12 09:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 4",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:13 AM, Sep 12 2026 Crash on NB I-15\u00A0at Mile 4. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 56429,
+    "Timestamp": "2026-09-12 09:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 4",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:13 AM, Sep 12 2026 Crash on NB I-15\u00A0at Mile 4. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778325/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
