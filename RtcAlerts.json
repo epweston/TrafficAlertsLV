@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56338,
-    "Timestamp": "2026-09-11 16:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "over",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:22 PM, Sep 11 2026 Crash on NB Buffalo Dr\u00A0over Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778062/attachment_0.png",
-    "Latitude": 36.178622470000001,
-    "Longitude": -115.25986433
-  },
-  {
     "UniqueId": 56339,
     "Timestamp": "2026-09-11 16:32",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1818,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778458/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 56470,
+    "Timestamp": "2026-09-12 16:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:22 PM, Sep 12 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778461/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 56471,
+    "Timestamp": "2026-09-12 16:22",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked. Left lane is open.",
+    "Notes": "4:22 PM, Sep 12 2026 Update Crash on SB I-11\u00A0to Decatur Blvd off-ramp. Right lane blocked. Left lane is open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778460/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
