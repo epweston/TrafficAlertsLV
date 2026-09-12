@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56305,
-    "Timestamp": "2026-09-11 11:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "11:54 AM, Sep 11 2026 Crash on SB Rainbow Blvd\u00A0at Charleston Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777775/attachment_0.png",
-    "Latitude": 36.159173199999998,
-    "Longitude": -115.24359750000001
-  },
-  {
     "UniqueId": 56306,
     "Timestamp": "2026-09-11 12:00",
     "IncidentType": "Crash",
@@ -1902,5 +1888,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778370/attachment_0.png",
     "Latitude": 36.181247399999997,
     "Longitude": -115.31318779999999
+  },
+  {
+    "UniqueId": 56441,
+    "Timestamp": "2026-09-12 11:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:52 AM, Sep 12 2026 Crash on WB Cheyenne Ave\u00A0after Civic Center Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 56442,
+    "Timestamp": "2026-09-12 11:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:52 AM, Sep 12 2026 Stalled vehicle on SB I-15\u00A0before Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778395/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 56443,
+    "Timestamp": "2026-09-12 11:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:52 AM, Sep 12 2026 Crash on WB Cheyenne Ave\u00A0after Civic Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778387/attachment_0.jpg",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
   }
 ]
