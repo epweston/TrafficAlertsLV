@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56295,
-    "Timestamp": "2026-09-11 08:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sloan Ln",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:55 AM, Sep 11 2026 Crash on SB Sloan Ln\u00A0after Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3777446/attachment_0.png",
-    "Latitude": 36.159346999999997,
-    "Longitude": -115.0473999
-  },
-  {
     "UniqueId": 56296,
     "Timestamp": "2026-09-11 09:14",
     "IncidentType": "Stalled vehicle",
@@ -1804,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778312/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 56424,
+    "Timestamp": "2026-09-12 08:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:54 AM, Sep 12 2026 Crash on SB Rancho Dr\u00A0at Bonanza Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778335/attachment_0.png",
+    "Latitude": 36.177181599999997,
+    "Longitude": -115.1756073
   }
 ]
