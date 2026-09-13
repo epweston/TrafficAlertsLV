@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56377,
-    "Timestamp": "2026-09-11 20:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:22 PM, Sep 11 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778186/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
-    "UniqueId": 56378,
-    "Timestamp": "2026-09-11 20:35",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "All lanes are open.",
-    "Notes": "8:35 PM, Sep 11 2026 Update Crash on WB Stewart Ave\u00A0at Pecos Rd. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.166186199999999,
-    "Longitude": -115.0982052
-  },
-  {
     "UniqueId": 56379,
     "Timestamp": "2026-09-11 20:47",
     "IncidentType": "Crash",
@@ -1692,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778490/attachment_0.png",
     "Latitude": 36.181006400000001,
     "Longitude": -115.2331827
+  },
+  {
+    "UniqueId": 56499,
+    "Timestamp": "2026-09-12 20:36",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "at",
+    "CrossStreet": "Main St Multiple Lanes",
+    "Impact": "",
+    "Notes": "8:36 PM, Sep 12 2026 Crash on WB Bonneville Ave\u00A0at Main St. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778491/attachment_0.png",
+    "Latitude": 36.1658331,
+    "Longitude": -115.1502643
   }
 ]
