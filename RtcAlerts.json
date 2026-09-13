@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56371,
-    "Timestamp": "2026-09-11 19:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:49 PM, Sep 11 2026 Crash on SB Boulder Hwy\u00A0at Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778169/attachment_0.png",
-    "Latitude": 36.100889813598712,
-    "Longitude": -115.050979239851
-  },
-  {
-    "UniqueId": 56372,
-    "Timestamp": "2026-09-11 19:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:51 PM, Sep 11 2026 Crash on SB I-11\u00A0to Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778170/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 56373,
     "Timestamp": "2026-09-11 19:54",
     "IncidentType": "Crash",
@@ -1636,5 +1608,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778498/attachment_0.png",
     "Latitude": 36.114596900000002,
     "Longitude": -115.1641267
+  },
+  {
+    "UniqueId": 56489,
+    "Timestamp": "2026-09-12 19:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:45 PM, Sep 12 2026 Crash on SB I-15 Collector Distributor\u00A0at Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778481/attachment_0.png",
+    "Latitude": 36.159090499999998,
+    "Longitude": -115.2607228
+  },
+  {
+    "UniqueId": 56490,
+    "Timestamp": "2026-09-12 19:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:49 PM, Sep 12 2026 Crash on NB I-15\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 56491,
+    "Timestamp": "2026-09-12 19:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:49 PM, Sep 12 2026 Crash on NB I-15\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
