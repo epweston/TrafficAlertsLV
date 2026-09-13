@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56362,
-    "Timestamp": "2026-09-11 18:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "",
-    "Notes": "6:58 PM, Sep 11 2026 Crash on WB 215 Southern Beltway\u00A0after Gibson Rd, Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778159/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 56363,
-    "Timestamp": "2026-09-11 19:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Left shoulder",
-    "Notes": "7:01 PM, Sep 11 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Airport Connector. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778152/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
-    "UniqueId": 56364,
-    "Timestamp": "2026-09-11 19:02",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Owens Ave",
-    "Relationship": "at",
-    "CrossStreet": "A St All Lanes Are Open",
-    "Impact": "",
-    "Notes": "7:02 PM, Sep 11 2026 Update Crash on EB Owens Ave\u00A0at A St. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.188229999999997,
-    "Longitude": -115.1033422
-  },
-  {
     "UniqueId": 56365,
     "Timestamp": "2026-09-11 19:12",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778479/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 56486,
+    "Timestamp": "2026-09-12 19:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder",
+    "Notes": "7:03 PM, Sep 12 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778495/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
