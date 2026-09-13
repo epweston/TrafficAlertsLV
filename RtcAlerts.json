@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56410,
-    "Timestamp": "2026-09-12 03:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:27 AM, Sep 12 2026 Stalled vehicle on NB I-11\u00A0after Casino Center Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778259/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
-    "UniqueId": 56411,
-    "Timestamp": "2026-09-12 04:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "4:09 AM, Sep 12 2026 Crash on NB I-15\u00A0at Spring Mountain Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778249/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 56412,
-    "Timestamp": "2026-09-12 04:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:14 AM, Sep 12 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778250/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 56413,
     "Timestamp": "2026-09-12 04:43",
     "IncidentType": "Crash",
@@ -1482,5 +1440,19 @@
     "ImagePath": "",
     "Latitude": 36.114641484511473,
     "Longitude": -115.1238816945087
+  },
+  {
+    "UniqueId": 56519,
+    "Timestamp": "2026-09-13 04:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "4:15 AM, Sep 13 2026 Crash on NB Las Vegas Blvd\u00A0at Sahara Ave. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778549/attachment_0.png",
+    "Latitude": 36.14359315288705,
+    "Longitude": -115.15748977661134
   }
 ]
