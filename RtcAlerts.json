@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56379,
-    "Timestamp": "2026-09-11 20:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:47 PM, Sep 11 2026 Crash on EB Cactus Ave\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778187/attachment_0.png",
-    "Latitude": 35.998667191475242,
-    "Longitude": -115.22549452599732
-  },
-  {
     "UniqueId": 56380,
     "Timestamp": "2026-09-11 20:58",
     "IncidentType": "Crash",
@@ -1692,5 +1678,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778513/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 56501,
+    "Timestamp": "2026-09-12 20:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "8:53 PM, Sep 12 2026 Crash on SB I-15\u00A0before Charleston Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778507/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 56502,
+    "Timestamp": "2026-09-12 20:54",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Simmons St 2",
+    "Impact": "",
+    "Notes": "8:54 PM, Sep 12 2026 Crash on EB Craig Rd\u00A0at Simmons St. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778516/attachment_0.jpg",
+    "Latitude": 36.239531900000003,
+    "Longitude": -115.18004790000001
   }
 ]
