@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56445,
-    "Timestamp": "2026-09-12 12:33",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:33 PM, Sep 12 2026 Crash on WB Sahara Ave\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778398/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 56446,
     "Timestamp": "2026-09-12 12:45",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778685/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 56546,
+    "Timestamp": "2026-09-13 12:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "12:31 PM, Sep 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778689/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
