@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56414,
-    "Timestamp": "2026-09-12 05:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:59 AM, Sep 12 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778288/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 56415,
     "Timestamp": "2026-09-12 06:11",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778589/attachment_0.png",
     "Latitude": 36.168123700000002,
     "Longitude": -115.1534329
+  },
+  {
+    "UniqueId": 56525,
+    "Timestamp": "2026-09-13 06:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:03 AM, Sep 13 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778594/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
   }
 ]
