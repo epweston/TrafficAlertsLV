@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56404,
-    "Timestamp": "2026-09-12 00:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "12:18 AM, Sep 12 2026 Crash on WB Craig Rd\u00A0at I-11. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778238/attachment_0.png",
-    "Latitude": 36.240389716124611,
-    "Longitude": -115.24673541911851
-  },
-  {
-    "UniqueId": 56405,
-    "Timestamp": "2026-09-12 00:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "All lanes are blocked.",
-    "Notes": "12:29 AM, Sep 12 2026 Crash on WB Craig Rd\u00A0at I-11. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240389716124611,
-    "Longitude": -115.24673541911851
-  },
-  {
-    "UniqueId": 56406,
-    "Timestamp": "2026-09-12 00:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "12:39 AM, Sep 12 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778255/attachment_0.png",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
     "UniqueId": 56407,
     "Timestamp": "2026-09-12 02:26",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778539/attachment_0.jpg",
     "Latitude": 36.066602240000002,
     "Longitude": -115.24247282
+  },
+  {
+    "UniqueId": 56513,
+    "Timestamp": "2026-09-13 01:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:33 AM, Sep 13 2026 Crash on NB Decatur Blvd\u00A0after Oakey Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778544/attachment_0.png",
+    "Latitude": 36.151749856190243,
+    "Longitude": -115.20816745156638
   }
 ]
