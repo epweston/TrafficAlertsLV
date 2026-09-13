@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56438,
-    "Timestamp": "2026-09-12 11:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Marks St",
-    "Relationship": "before",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "11:18 AM, Sep 12 2026 Crash on EB Marks St\u00A0before Galleria Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778383/attachment_0.png",
-    "Latitude": 36.071437400000001,
-    "Longitude": -115.0405437
-  },
-  {
     "UniqueId": 56439,
     "Timestamp": "2026-09-12 11:28",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778673/attachment_0.jpg",
     "Latitude": 36.196240299999999,
     "Longitude": -115.05284640000001
+  },
+  {
+    "UniqueId": 56544,
+    "Timestamp": "2026-09-13 11:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "11:18 AM, Sep 13 2026 Crash on NB I-15\u00A0at Lake Mead Blvd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778679/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
