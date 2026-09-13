@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56398,
-    "Timestamp": "2026-09-11 23:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "11:23 PM, Sep 11 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778223/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 56399,
     "Timestamp": "2026-09-11 23:54",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778523/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 56509,
+    "Timestamp": "2026-09-12 23:33",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sunrise Mountain Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "11:33 PM, Sep 12 2026 Crash on WB Charleston Blvd\u00A0after Sunrise Mountain Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778526/attachment_0.jpg",
+    "Latitude": 36.159376600000002,
+    "Longitude": -115.04262490000001
   }
 ]
