@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56432,
-    "Timestamp": "2026-09-12 09:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:33 AM, Sep 12 2026 Stalled vehicle on NB Warm Springs Rd\u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778342/attachment_0.png",
-    "Latitude": 36.173663860844933,
-    "Longitude": -115.13790452024138
-  },
-  {
     "UniqueId": 56433,
     "Timestamp": "2026-09-12 09:51",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778625/attachment_0.png",
     "Latitude": 36.138209000000003,
     "Longitude": -115.19953340000001
+  },
+  {
+    "UniqueId": 56535,
+    "Timestamp": "2026-09-13 09:39",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:39 AM, Sep 13 2026 Crash on WB Charleston Blvd\u00A0at I-15. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778609/attachment_0.png",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
   }
 ]
