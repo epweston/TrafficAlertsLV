@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56382,
-    "Timestamp": "2026-09-11 21:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Spencer St",
-    "Impact": "",
-    "Notes": "9:12 PM, Sep 11 2026 Crash on SB St Rose Pkwy\u00A0at Spencer St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778197/attachment_0.jpg",
-    "Latitude": 35.9989591,
-    "Longitude": -115.126001
-  },
-  {
-    "UniqueId": 56383,
-    "Timestamp": "2026-09-11 21:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:15 PM, Sep 11 2026 Crash on NB Dean Martin Dr\u00A0at Warm Springs Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778198/attachment_0.png",
-    "Latitude": 36.057192800000003,
-    "Longitude": -115.1836368
-  },
-  {
-    "UniqueId": 56384,
-    "Timestamp": "2026-09-11 21:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Meadows Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:26 PM, Sep 11 2026 Crash on NB Decatur Blvd\u00A0before Meadows Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778191/attachment_0.png",
-    "Latitude": 36.1701117,
-    "Longitude": -115.2059091
-  },
-  {
     "UniqueId": 56385,
     "Timestamp": "2026-09-11 21:33",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778518/attachment_0.jpg",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 56504,
+    "Timestamp": "2026-09-12 21:24",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:24 PM, Sep 12 2026 Crash on EB 215 Southern Beltway\u00A0at Warm Springs Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778510/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
   }
 ]
