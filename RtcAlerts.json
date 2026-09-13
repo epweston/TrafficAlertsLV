@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56413,
-    "Timestamp": "2026-09-12 04:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Resorts World Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:43 AM, Sep 12 2026 Crash on EB Resorts World Ave\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778262/attachment_0.jpg",
-    "Latitude": 36.134456466037953,
-    "Longitude": -115.1634120699965
-  },
-  {
     "UniqueId": 56414,
     "Timestamp": "2026-09-12 05:59",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778555/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 56521,
+    "Timestamp": "2026-09-13 04:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Promenade Place",
+    "Relationship": "at",
+    "CrossStreet": "2",
+    "Impact": "",
+    "Notes": "4:43 AM, Sep 13 2026 Crash on NB Promenade Place\u00A0at . 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778552/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
