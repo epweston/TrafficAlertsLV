@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56373,
-    "Timestamp": "2026-09-11 19:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "7:54 PM, Sep 11 2026 Crash on NB Rancho Dr\u00A0at Jones Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778182/attachment_0.png",
-    "Latitude": 36.232990800000003,
-    "Longitude": -115.22647120000001
-  },
-  {
     "UniqueId": 56374,
     "Timestamp": "2026-09-11 19:58",
     "IncidentType": "Crash",
@@ -1650,5 +1636,47 @@
     "ImagePath": "",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 56492,
+    "Timestamp": "2026-09-12 19:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:49 PM, Sep 12 2026 Crash on NB I-15\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778483/attachment_0.jpg",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 56493,
+    "Timestamp": "2026-09-12 19:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:52 PM, Sep 12 2026 Crash on WB 215 Northern Beltway\u00A0to I-11. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 56494,
+    "Timestamp": "2026-09-12 19:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:52 PM, Sep 12 2026 Crash on WB 215 Northern Beltway\u00A0to I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778485/attachment_0.png",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
   }
 ]
