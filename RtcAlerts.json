@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56366,
-    "Timestamp": "2026-09-11 19:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 8",
-    "Impact": "Right shoulder",
-    "Notes": "7:28 PM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0at Mile 8. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778174/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 56367,
-    "Timestamp": "2026-09-11 19:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "7:33 PM, Sep 11 2026 Crash on SB Nellis Blvd\u00A0before Bonanza Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778162/attachment_0.png",
-    "Latitude": 36.173988299999998,
-    "Longitude": -115.0622757
-  },
-  {
-    "UniqueId": 56368,
-    "Timestamp": "2026-09-11 19:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder",
-    "Notes": "7:35 PM, Sep 11 2026 Stalled vehicle on NB I-15\u00A0to Jean off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778165/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 56369,
-    "Timestamp": "2026-09-11 19:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:39 PM, Sep 11 2026 Crash on NB Jones Blvd\u00A0after I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778166/attachment_0.png",
-    "Latitude": 36.174089876760839,
-    "Longitude": -115.22410077507317
-  },
-  {
-    "UniqueId": 56370,
-    "Timestamp": "2026-09-11 19:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "7:39 PM, Sep 11 2026 Crash on NB I-15\u00A0to Flamingo Rd off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778168/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 56371,
     "Timestamp": "2026-09-11 19:49",
     "IncidentType": "Crash",
@@ -1692,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778497/attachment_0.jpg",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 56488,
+    "Timestamp": "2026-09-12 19:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Koval Ln",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "7:37 PM, Sep 12 2026 Crash on EB Flamingo Rd\u00A0at Koval Ln. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778498/attachment_0.png",
+    "Latitude": 36.114596900000002,
+    "Longitude": -115.1641267
   }
 ]
