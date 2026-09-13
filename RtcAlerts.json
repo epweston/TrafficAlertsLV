@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56394,
-    "Timestamp": "2026-09-11 22:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "10:37 PM, Sep 11 2026 Stalled vehicle on SB I-15\u00A0before Russell Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778221/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 56395,
-    "Timestamp": "2026-09-11 22:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:39 PM, Sep 11 2026 Crash on WB Craig Rd\u00A0at I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778211/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
-    "UniqueId": 56396,
-    "Timestamp": "2026-09-11 22:42",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Off-ramp is blocked.",
-    "Notes": "10:42 PM, Sep 11 2026 Police activity on EB 215 Southern Beltway\u00A0at Jones Blvd off-ramp. Off-ramp is blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778212/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 56397,
-    "Timestamp": "2026-09-11 22:55",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "10:55 PM, Sep 11 2026 Police activity on SB I-15\u00A0at Tropicana Ave off-ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/11/file_attachments/3778234/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 56398,
     "Timestamp": "2026-09-11 23:23",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778536/attachment_0.png",
     "Latitude": 36.126371617007422,
     "Longitude": -115.18552422104025
+  },
+  {
+    "UniqueId": 56508,
+    "Timestamp": "2026-09-12 23:03",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "11:03 PM, Sep 12 2026 Police activity on NB I-11\u00A0to Jones Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/12/file_attachments/3778523/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
