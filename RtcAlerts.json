@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56557,
-    "Timestamp": "2026-09-13 16:24",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 5",
-    "Impact": "Right shoulder.",
-    "Notes": "4:24 PM, Sep 13 2026 Police activity on NB I-15\u00A0after Mile 5. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778755/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 56558,
     "Timestamp": "2026-09-13 16:49",
     "IncidentType": "Crash",
@@ -1762,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780155/attachment_0.jpg",
     "Latitude": 36.166451199999997,
     "Longitude": -115.2444019
+  },
+  {
+    "UniqueId": 56685,
+    "Timestamp": "2026-09-14 16:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Alto Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:24 PM, Sep 14 2026 Crash on NB Lamb Blvd\u00A0before Alto Ave (before Cheyenne Ave). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780157/attachment_0.jpg",
+    "Latitude": 36.210321999999998,
+    "Longitude": -115.0801676
   }
 ]
