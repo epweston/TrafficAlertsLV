@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56573,
-    "Timestamp": "2026-09-13 19:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:35 PM, Sep 13 2026 Stalled vehicle on SB Rampart Blvd\u00A0after Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778786/attachment_0.jpg",
-    "Latitude": 36.177835743591984,
-    "Longitude": -115.28722561818798
-  },
-  {
-    "UniqueId": 56574,
-    "Timestamp": "2026-09-13 19:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "7:39 PM, Sep 13 2026 Crash on EB Flamingo Rd\u00A0at I-15. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778770/attachment_0.png",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
     "UniqueId": 56575,
     "Timestamp": "2026-09-13 19:49",
     "IncidentType": "Stalled vehicle",
@@ -1860,5 +1832,19 @@
     "ImagePath": "",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 56708,
+    "Timestamp": "2026-09-14 19:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "7:37 PM, Sep 14 2026 Crash on NB Rainbow Blvd\u00A0at Twain Ave. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780283/attachment_0.png",
+    "Latitude": 36.121982199999998,
+    "Longitude": -115.2430895
   }
 ]
