@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56598,
-    "Timestamp": "2026-09-14 02:44",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:44 AM, Sep 14 2026 Abandoned vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 56599,
-    "Timestamp": "2026-09-14 02:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:56 AM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 56600,
     "Timestamp": "2026-09-14 03:13",
     "IncidentType": "Stalled vehicle",
@@ -1773,6 +1745,34 @@
     "CrossStreet": "Duneville St All Lanes Are",
     "Impact": "Use other routes",
     "Notes": "2:25 AM, Sep 15 2026 Crash on EB Tropicana Ave\u00A0at Duneville St. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.100135199999997,
+    "Longitude": -115.2207914
+  },
+  {
+    "UniqueId": 56727,
+    "Timestamp": "2026-09-15 02:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "2:57 AM, Sep 15 2026 Crash on NB I-11\u00A0at Casino Center Blvd. Right lane blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 56728,
+    "Timestamp": "2026-09-15 02:57",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Duneville St All Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "2:57 AM, Sep 15 2026 Crash on EB Tropicana Ave\u00A0at Duneville St. All lanes are blocked. Use other routes",
     "ImagePath": "",
     "Latitude": 36.100135199999997,
     "Longitude": -115.2207914
