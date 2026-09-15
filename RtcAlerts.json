@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56657,
-    "Timestamp": "2026-09-14 14:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:18 PM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779992/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 56658,
     "Timestamp": "2026-09-14 14:22",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781675/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 56777,
+    "Timestamp": "2026-09-15 14:14",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Christy Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:14 PM, Sep 15 2026 Crash on WB Charleston Blvd\u00A0before Christy Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781679/attachment_0.jpg",
+    "Latitude": 36.159452299999998,
+    "Longitude": -115.0533544
   }
 ]
