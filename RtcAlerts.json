@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56594,
-    "Timestamp": "2026-09-14 00:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:54 AM, Sep 14 2026 Crash on EB Silverado Ranch Blvd\u00A0at Maryland Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3778837/attachment_0.png",
-    "Latitude": 36.013342299999998,
-    "Longitude": -115.13679740000001
-  },
-  {
-    "UniqueId": 56595,
-    "Timestamp": "2026-09-14 01:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "1:02 AM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3778838/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 56596,
-    "Timestamp": "2026-09-14 01:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder",
-    "Notes": "1:08 AM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0after Mile 4 (before Primm). Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3778862/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 56597,
     "Timestamp": "2026-09-14 02:27",
     "IncidentType": "Crash",
@@ -1790,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780312/attachment_0.jpg",
     "Latitude": 36.2147164,
     "Longitude": -115.09863489999999
+  },
+  {
+    "UniqueId": 56724,
+    "Timestamp": "2026-09-15 01:06",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Left lanes open in both directions again.",
+    "Notes": "1:06 AM, Sep 15 2026 Update Crash on SB Nellis Blvd\u00A0after Stewart Ave. Left lanes open in both directions again.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780353/attachment_0.jpg",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
   }
 ]
