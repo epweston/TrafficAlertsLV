@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56683,
-    "Timestamp": "2026-09-14 16:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "4:18 PM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780151/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 56684,
-    "Timestamp": "2026-09-14 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right shoulder",
-    "Notes": "4:19 PM, Sep 14 2026 Stalled vehicle on NB Rainbow Blvd\u00A0after Alta Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780155/attachment_0.jpg",
-    "Latitude": 36.166451199999997,
-    "Longitude": -115.2444019
-  },
-  {
-    "UniqueId": 56685,
-    "Timestamp": "2026-09-14 16:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alto Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:24 PM, Sep 14 2026 Crash on NB Lamb Blvd\u00A0before Alto Ave (before Cheyenne Ave). Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780157/attachment_0.jpg",
-    "Latitude": 36.210321999999998,
-    "Longitude": -115.0801676
-  },
-  {
     "UniqueId": 56686,
     "Timestamp": "2026-09-14 16:28",
     "IncidentType": "Crash",
@@ -1468,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781834/attachment_0.jpg",
     "Latitude": 36.144195199999999,
     "Longitude": -115.27905680000001
+  },
+  {
+    "UniqueId": 56788,
+    "Timestamp": "2026-09-15 16:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:23 PM, Sep 15 2026 Crash on EB Lake Mead Blvd\u00A0at Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781837/attachment_0.jpg",
+    "Latitude": 36.195750279980111,
+    "Longitude": -115.09840610713668
   }
 ]
