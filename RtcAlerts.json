@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56566,
-    "Timestamp": "2026-09-13 18:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 11",
-    "Impact": "Right shoulder.",
-    "Notes": "6:03 PM, Sep 13 2026 Stalled vehicle on SB I-15\u00A0at Mile 11 (after Jean). Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778777/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 56567,
-    "Timestamp": "2026-09-13 18:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:04 PM, Sep 13 2026 Stalled vehicle on SB I-11\u00A0at 215 Southern Beltway ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778779/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 56568,
     "Timestamp": "2026-09-13 18:09",
     "IncidentType": "Stalled vehicle",
@@ -1804,5 +1776,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780231/attachment_0.jpg",
     "Latitude": 35.965910958046543,
     "Longitude": -115.17285344363151
+  },
+  {
+    "UniqueId": 56697,
+    "Timestamp": "2026-09-14 17:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder",
+    "Notes": "5:59 PM, Sep 14 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before St Rose Pkwy. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780233/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 56698,
+    "Timestamp": "2026-09-14 18:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "6:00 PM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780235/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
