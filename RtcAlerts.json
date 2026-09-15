@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56575,
-    "Timestamp": "2026-09-13 19:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:49 PM, Sep 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778789/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
     "UniqueId": 56576,
     "Timestamp": "2026-09-13 20:11",
     "IncidentType": "Crash",
@@ -1846,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780283/attachment_0.png",
     "Latitude": 36.121982199999998,
     "Longitude": -115.2430895
+  },
+  {
+    "UniqueId": 56709,
+    "Timestamp": "2026-09-14 19:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Nb Airport Connector",
+    "Impact": "",
+    "Notes": "7:49 PM, Sep 14 2026 Stalled vehicle on EB 215 Southern Beltway to NB Airport Connector ramp\u00A0 Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780263/attachment_0.png",
+    "Latitude": 40.969371700000004,
+    "Longitude": -98.318565299999989
   }
 ]
