@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56562,
-    "Timestamp": "2026-09-13 17:21",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "after",
-    "CrossStreet": "Ponderosa Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:21 PM, Sep 13 2026 Police activity on NB Dean Martin Dr\u00A0after Ponderosa Way (before Oquendo Rd). Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778749/attachment_0.png",
-    "Latitude": 36.080652299999997,
-    "Longitude": -115.1815352
-  },
-  {
-    "UniqueId": 56563,
-    "Timestamp": "2026-09-13 17:25",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:25 PM, Sep 13 2026 Police activity on SB I-15\u00A0after Cactus Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778751/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
-    "UniqueId": 56564,
-    "Timestamp": "2026-09-13 17:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "Multiple directions blocked.",
-    "Notes": "5:27 PM, Sep 13 2026 Crash on EB Cheyenne Ave\u00A0at Civic Center Dr. Multiple directions blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778773/attachment_0.jpg",
-    "Latitude": 36.217594200000001,
-    "Longitude": -115.12107260000001
-  },
-  {
     "UniqueId": 56565,
     "Timestamp": "2026-09-13 17:37",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1734,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780187/attachment_0.jpg",
     "Latitude": 36.071648699999997,
     "Longitude": -115.14116249999999
+  },
+  {
+    "UniqueId": 56691,
+    "Timestamp": "2026-09-14 17:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:28 PM, Sep 14 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780216/attachment_0.png",
+    "Latitude": 36.191620159999999,
+    "Longitude": -115.34255690000001
+  },
+  {
+    "UniqueId": 56692,
+    "Timestamp": "2026-09-14 17:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:30 PM, Sep 14 2026 Stalled vehicle on WB Lake Mead Pkwy\u00A0before Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780200/attachment_0.png",
+    "Latitude": 36.055479300000002,
+    "Longitude": -114.9678526
   }
 ]
