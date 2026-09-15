@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56623,
-    "Timestamp": "2026-09-14 07:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:21 AM, Sep 14 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before I-15. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779237/attachment_0.jpg",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 56624,
-    "Timestamp": "2026-09-14 07:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "after",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:28 AM, Sep 14 2026 Crash on SB Paradise Rd\u00A0after Karen Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779243/attachment_0.png",
-    "Latitude": 36.1401976,
-    "Longitude": -115.15489270000001
-  },
-  {
     "UniqueId": 56626,
     "Timestamp": "2026-09-14 07:50",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780629/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 56742,
+    "Timestamp": "2026-09-15 07:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:28 AM, Sep 15 2026 Stalled vehicle on SB Boulder Hwy\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780642/attachment_0.png",
+    "Latitude": 36.135517917695289,
+    "Longitude": -115.09028440626055
   }
 ]
