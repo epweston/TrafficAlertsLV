@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56627,
-    "Timestamp": "2026-09-14 07:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:56 AM, Sep 14 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779294/attachment_0.jpg",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 56628,
-    "Timestamp": "2026-09-14 08:00",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:00 AM, Sep 14 2026 Abandoned vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 56629,
     "Timestamp": "2026-09-14 08:19",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1650,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780702/attachment_0.jpg",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 56748,
+    "Timestamp": "2026-09-15 08:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Joe W Brown Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:03 AM, Sep 15 2026 Crash on EB Desert Inn Rd\u00A0at Joe W Brown Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780718/attachment_0.jpg",
+    "Latitude": 36.129755558420179,
+    "Longitude": -115.1459967953781
+  },
+  {
+    "UniqueId": 56749,
+    "Timestamp": "2026-09-15 08:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:02 AM, Sep 15 2026 Crash on WB Craig Rd\u00A0at Losee Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780733/attachment_0.png",
+    "Latitude": 36.239773575501886,
+    "Longitude": -115.11682743770037
   }
 ]
