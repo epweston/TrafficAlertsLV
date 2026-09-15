@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56646,
-    "Timestamp": "2026-09-14 10:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropical Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "10:29 AM, Sep 14 2026 Crash on EB Tropical Pkwy\u00A0at Decatur Blvd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779653/attachment_0.jpg",
-    "Latitude": 36.268979299999998,
-    "Longitude": -115.2069649
-  },
-  {
-    "UniqueId": 56647,
-    "Timestamp": "2026-09-14 10:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "4Th St 2",
-    "Impact": "",
-    "Notes": "10:35 AM, Sep 14 2026 Crash on NB Las Vegas Blvd\u00A0at 4th St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779646/attachment_0.png",
-    "Latitude": 36.169715199999999,
-    "Longitude": -115.14180829999999
-  },
-  {
-    "UniqueId": 56648,
-    "Timestamp": "2026-09-14 10:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:35 AM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779658/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 56649,
     "Timestamp": "2026-09-14 11:15",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780993/attachment_0.png",
     "Latitude": 36.013126668091431,
     "Longitude": -115.18044948577882
+  },
+  {
+    "UniqueId": 56760,
+    "Timestamp": "2026-09-15 10:42",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Lindell Rd",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "10:42 AM, Sep 15 2026 Crash on WB Tropicana Ave\u00A0after Lindell Rd. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781049/attachment_0.png",
+    "Latitude": 36.100459100000002,
+    "Longitude": -115.2165016
   }
 ]
