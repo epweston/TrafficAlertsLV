@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56605,
-    "Timestamp": "2026-09-14 04:37",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "Planet Hollywood Way",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:37 AM, Sep 14 2026 Crash on EB Harmon Ave\u00A0at Planet Hollywood Way. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3778993/attachment_0.jpg",
-    "Latitude": 36.108120300000003,
-    "Longitude": -115.1699191
-  },
-  {
-    "UniqueId": 56606,
-    "Timestamp": "2026-09-14 04:46",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:46 AM, Sep 14 2026 Abandoned vehicle on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
-    "UniqueId": 56607,
-    "Timestamp": "2026-09-14 04:47",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:47 AM, Sep 14 2026 Abandoned vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 56608,
-    "Timestamp": "2026-09-14 04:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Teddy Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:50 AM, Sep 14 2026 Crash on EB Sahara Ave\u00A0at Teddy Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779023/attachment_0.png",
-    "Latitude": 36.144299294499945,
-    "Longitude": -115.17759562167909
-  },
-  {
     "UniqueId": 56609,
     "Timestamp": "2026-09-14 05:12",
     "IncidentType": "Crash",
@@ -1748,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780400/attachment_0.png",
     "Latitude": 36.114871200000003,
     "Longitude": -115.0647175
+  },
+  {
+    "UniqueId": 56732,
+    "Timestamp": "2026-09-15 04:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:59 AM, Sep 15 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780432/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
