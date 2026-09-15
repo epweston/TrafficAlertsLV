@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56631,
-    "Timestamp": "2026-09-14 08:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:31 AM, Sep 14 2026 Crash on WB Tropicana Ave\u00A0before Torrey Pines Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779330/attachment_0.png",
-    "Latitude": 36.0998631,
-    "Longitude": -115.2340538
-  },
-  {
-    "UniqueId": 56632,
-    "Timestamp": "2026-09-14 08:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 27",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:36 AM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0at Mile 27. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779364/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 56633,
     "Timestamp": "2026-09-14 08:39",
     "IncidentType": "Crash",
@@ -1678,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780749/attachment_0.png",
     "Latitude": 36.239778899999997,
     "Longitude": -115.125478
+  },
+  {
+    "UniqueId": 56752,
+    "Timestamp": "2026-09-15 08:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:35 AM, Sep 15 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780814/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
