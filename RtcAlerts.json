@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56616,
-    "Timestamp": "2026-09-14 06:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "6:40 AM, Sep 14 2026 Crash on EB Sahara Ave\u00A0at Paradise Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779135/attachment_0.jpg",
-    "Latitude": 36.143606130000002,
-    "Longitude": -115.15479685
-  },
-  {
-    "UniqueId": 56617,
-    "Timestamp": "2026-09-14 06:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Intersection partially blocked",
-    "Notes": "6:45 AM, Sep 14 2026 Crash on EB Tropicana Ave\u00A0at I-15. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779141/attachment_0.jpg",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
-    "UniqueId": 56618,
-    "Timestamp": "2026-09-14 06:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:52 AM, Sep 14 2026 Crash on SB I-11\u00A0after Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779174/attachment_0.jpg",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 56619,
     "Timestamp": "2026-09-14 06:57",
     "IncidentType": "Crash",
@@ -1664,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780537/attachment_0.jpg",
     "Latitude": 36.033761888112984,
     "Longitude": -115.01539133343376
+  },
+  {
+    "UniqueId": 56737,
+    "Timestamp": "2026-09-15 06:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:47 AM, Sep 15 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780564/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
