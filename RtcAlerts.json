@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56592,
-    "Timestamp": "2026-09-13 23:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:10 PM, Sep 13 2026 Crash on SB I-11\u00A0before Galleria Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778811/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 56593,
     "Timestamp": "2026-09-13 23:56",
     "IncidentType": "Police activity",
@@ -1734,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780320/attachment_0.jpg",
     "Latitude": 36.2147164,
     "Longitude": -115.09863489999999
+  },
+  {
+    "UniqueId": 56718,
+    "Timestamp": "2026-09-14 23:09",
+    "IncidentType": "Update Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Dolly Ln",
+    "Impact": "All lanes are open.",
+    "Notes": "11:09 PM, Sep 14 2026 Update Crash on WB Lake Mead Blvd\u00A0at Dolly Ln. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.195792399999988,
+    "Longitude": -115.07471320000001
   }
 ]
