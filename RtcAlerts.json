@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56630,
-    "Timestamp": "2026-09-14 08:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Boulder City Parkway",
-    "Relationship": "at",
-    "CrossStreet": "Nevada Way",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:21 AM, Sep 14 2026 Stalled vehicle on WB Boulder City Parkway\u00A0at Nevada Way. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779342/attachment_0.png",
-    "Latitude": 35.974198899999998,
-    "Longitude": -114.84623000000001
-  },
-  {
     "UniqueId": 56631,
     "Timestamp": "2026-09-14 08:31",
     "IncidentType": "Crash",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780753/attachment_0.jpg",
     "Latitude": 36.180861052200697,
     "Longitude": -115.16088006783248
+  },
+  {
+    "UniqueId": 56751,
+    "Timestamp": "2026-09-15 08:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Bruce St",
+    "Impact": "",
+    "Notes": "8:21 AM, Sep 15 2026 Crash on WB Craig Rd\u00A0at Bruce St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780749/attachment_0.png",
+    "Latitude": 36.239778899999997,
+    "Longitude": -115.125478
   }
 ]
