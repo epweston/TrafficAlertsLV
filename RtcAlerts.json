@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56558,
-    "Timestamp": "2026-09-13 16:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "4:49 PM, Sep 13 2026 Crash on SB I-15 \u00A0at Sahara Ave. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778744/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 56559,
-    "Timestamp": "2026-09-13 16:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:52 PM, Sep 13 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778759/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 56560,
-    "Timestamp": "2026-09-13 16:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:53 PM, Sep 13 2026 Stalled vehicle on SB I-15\u00A0after Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778760/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
-    "UniqueId": 56561,
-    "Timestamp": "2026-09-13 16:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:54 PM, Sep 13 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778762/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 56562,
     "Timestamp": "2026-09-13 17:21",
     "IncidentType": "Police activity",
@@ -1790,5 +1734,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780161/attachment_0.png",
     "Latitude": 36.274993366998793,
     "Longitude": -115.20657961738746
+  },
+  {
+    "UniqueId": 56688,
+    "Timestamp": "2026-09-14 17:01",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "All lanes are open.",
+    "Notes": "5:01 PM, Sep 14 2026 Update Crash on SB I-11\u00A0after Valley View Blvd. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 56689,
+    "Timestamp": "2026-09-14 17:02",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "5:02 PM, Sep 14 2026 Abandoned vehicle on SB I-11\u00A0after Valley View Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780164/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
