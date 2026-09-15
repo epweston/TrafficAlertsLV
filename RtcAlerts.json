@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56568,
-    "Timestamp": "2026-09-13 18:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:09 PM, Sep 13 2026 Stalled vehicle on SB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778765/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 56569,
     "Timestamp": "2026-09-13 18:16",
     "IncidentType": "Stalled vehicle",
@@ -1804,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780235/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 56699,
+    "Timestamp": "2026-09-14 18:07",
+    "IncidentType": "Hazard",
+    "Direction": "WB",
+    "PrimaryRoad": "Alexander Rd",
+    "Relationship": "before",
+    "CrossStreet": "Cliff Shadows Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:07 PM, Sep 14 2026 Hazard on WB Alexander Rd\u00A0before Cliff Shadows Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780237/attachment_0.jpg",
+    "Latitude": 36.232457699999998,
+    "Longitude": -115.3308289
   }
 ]
