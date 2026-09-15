@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56614,
-    "Timestamp": "2026-09-14 05:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lower Flat Top Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:57 AM, Sep 14 2026 Crash on SB I-15\u00A0before Lower Flat Top Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779084/attachment_0.png",
-    "Latitude": 36.782583331008503,
-    "Longitude": -114.13802574824116
-  },
-  {
     "UniqueId": 56615,
     "Timestamp": "2026-09-14 06:01",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780447/attachment_0.png",
     "Latitude": 36.135517917695289,
     "Longitude": -115.09028440626055
+  },
+  {
+    "UniqueId": 56734,
+    "Timestamp": "2026-09-15 05:55",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:55 AM, Sep 15 2026 Crash on WB Craig Rd\u00A0at Lamb Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780472/attachment_0.png",
+    "Latitude": 36.240452876389568,
+    "Longitude": -115.08002755928754
   }
 ]
