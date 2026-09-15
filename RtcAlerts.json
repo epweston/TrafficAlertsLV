@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56587,
-    "Timestamp": "2026-09-13 22:32",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "after",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:32 PM, Sep 13 2026 Police activity on WB Bonanza Rd\u00A0after Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778806/attachment_0.jpg",
-    "Latitude": 36.177173199999999,
-    "Longitude": -115.1609081
-  },
-  {
-    "UniqueId": 56588,
-    "Timestamp": "2026-09-13 22:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:34 PM, Sep 13 2026 Crash on NB Jones Blvd\u00A0at Robindale Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778826/attachment_0.png",
-    "Latitude": 36.049264299999997,
-    "Longitude": -115.2253971
-  },
-  {
-    "UniqueId": 56589,
-    "Timestamp": "2026-09-13 22:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:49 PM, Sep 13 2026 Crash on SB I-11\u00A0after Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778828/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 56590,
-    "Timestamp": "2026-09-13 22:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:52 PM, Sep 13 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778808/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
-    "UniqueId": 56591,
-    "Timestamp": "2026-09-13 22:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left shoulder.",
-    "Notes": "10:55 PM, Sep 13 2026 Stalled vehicle on NB I-15\u00A0after Washington Ave. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778810/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 56592,
     "Timestamp": "2026-09-13 23:10",
     "IncidentType": "Crash",
@@ -1776,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780272/attachment_0.png",
     "Latitude": 36.195792399999988,
     "Longitude": -115.07471320000001
+  },
+  {
+    "UniqueId": 56716,
+    "Timestamp": "2026-09-14 22:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Caesars Palace Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:51 PM, Sep 14 2026 Crash on SB Las Vegas Blvd\u00A0before Caesars Palace Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780304/attachment_0.jpg",
+    "Latitude": 36.117421499999999,
+    "Longitude": -115.1728189
   }
 ]
