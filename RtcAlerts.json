@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56593,
-    "Timestamp": "2026-09-13 23:56",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:56 PM, Sep 13 2026 Police activity on NB I-15 \u00A0after Neon Gateway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778834/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
     "UniqueId": 56594,
     "Timestamp": "2026-09-14 00:54",
     "IncidentType": "Crash",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780326/attachment_0.jpg",
     "Latitude": 36.2147164,
     "Longitude": -115.09863489999999
+  },
+  {
+    "UniqueId": 56722,
+    "Timestamp": "2026-09-14 23:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "All lanes are blocked from Sir George Dr to Stewart Ave.",
+    "Notes": "11:55 PM, Sep 14 2026 Crash on SB Nellis Blvd\u00A0after Stewart Ave. All lanes are blocked from Sir George Dr to Stewart Ave.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780327/attachment_0.jpg",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
   }
 ]
