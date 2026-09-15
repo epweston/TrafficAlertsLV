@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56675,
-    "Timestamp": "2026-09-14 15:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "before",
-    "CrossStreet": "Roy Horn Way",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:33 PM, Sep 14 2026 Crash on NB Buffalo Dr\u00A0before Roy Horn Way. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780112/attachment_0.png",
-    "Latitude": 36.065144099999998,
-    "Longitude": -115.260508
-  },
-  {
-    "UniqueId": 56676,
-    "Timestamp": "2026-09-14 15:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:35 PM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780134/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 56677,
-    "Timestamp": "2026-09-14 15:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:43 PM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0after Jean (MM12). Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780136/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 56678,
-    "Timestamp": "2026-09-14 15:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:58 PM, Sep 14 2026 Crash on SB I-11\u00A0after Valley View Blvd. Center lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 56679,
-    "Timestamp": "2026-09-14 15:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:58 PM, Sep 14 2026 Crash on SB I-11\u00A0after Valley View Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780142/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 56681,
     "Timestamp": "2026-09-14 16:12",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781788/attachment_0.png",
     "Latitude": 36.168172400000003,
     "Longitude": -115.1486038
+  },
+  {
+    "UniqueId": 56786,
+    "Timestamp": "2026-09-15 16:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:00 PM, Sep 15 2026 Crash on NB I-15\u00A0after Lamb Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781825/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
