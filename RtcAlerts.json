@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56629,
-    "Timestamp": "2026-09-14 08:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:19 AM, Sep 14 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3779340/attachment_0.jpg",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 56630,
     "Timestamp": "2026-09-14 08:21",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780733/attachment_0.png",
     "Latitude": 36.239773575501886,
     "Longitude": -115.11682743770037
+  },
+  {
+    "UniqueId": 56750,
+    "Timestamp": "2026-09-15 08:16",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "8:16 AM, Sep 15 2026 Crash on SB Martin L King Blvd\u00A0after Washington Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780753/attachment_0.jpg",
+    "Latitude": 36.180861052200697,
+    "Longitude": -115.16088006783248
   }
 ]
