@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56601,
-    "Timestamp": "2026-09-14 03:43",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:43 AM, Sep 14 2026 Abandoned vehicle on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
-    "UniqueId": 56602,
-    "Timestamp": "2026-09-14 03:44",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:44 AM, Sep 14 2026 Abandoned vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 56603,
-    "Timestamp": "2026-09-14 04:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:01 AM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 56604,
-    "Timestamp": "2026-09-14 04:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:22 AM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3778928/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 56605,
     "Timestamp": "2026-09-14 04:37",
     "IncidentType": "Crash",
@@ -1790,5 +1734,19 @@
     "ImagePath": "",
     "Latitude": 36.17462138583204,
     "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 56731,
+    "Timestamp": "2026-09-15 04:17",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "4:17 AM, Sep 15 2026 Police activity on WB Flamingo Rd\u00A0at Nellis Blvd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780400/attachment_0.png",
+    "Latitude": 36.114871200000003,
+    "Longitude": -115.0647175
   }
 ]
