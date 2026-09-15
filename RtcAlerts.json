@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56565,
-    "Timestamp": "2026-09-13 17:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder",
-    "Notes": "5:37 PM, Sep 13 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Summerlin Pkwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/13/file_attachments/3778775/attachment_0.png",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
     "UniqueId": 56566,
     "Timestamp": "2026-09-13 18:03",
     "IncidentType": "Stalled vehicle",
@@ -1762,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780200/attachment_0.png",
     "Latitude": 36.055479300000002,
     "Longitude": -114.9678526
+  },
+  {
+    "UniqueId": 56693,
+    "Timestamp": "2026-09-14 17:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder",
+    "Notes": "5:32 PM, Sep 14 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Russell Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780203/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
