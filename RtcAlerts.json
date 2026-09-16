@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56771,
-    "Timestamp": "2026-09-15 12:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "12:59 PM, Sep 15 2026 Crash on SB Jones Blvd\u00A0at I-11. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781618/attachment_0.png",
-    "Latitude": 36.174089876760839,
-    "Longitude": -115.22410077507317
-  },
-  {
-    "UniqueId": 56772,
-    "Timestamp": "2026-09-15 13:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 105",
-    "Impact": "",
-    "Notes": "1:00 PM, Sep 15 2026 Stalled vehicle on NB I-15\u00A0at Mile 105 on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781621/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 56773,
     "Timestamp": "2026-09-15 13:16",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782963/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 56874,
+    "Timestamp": "2026-09-16 12:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:59 PM, Sep 16 2026 Crash on EB Cheyenne Ave\u00A0after Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783013/attachment_0.jpg",
+    "Latitude": 36.21818917814025,
+    "Longitude": -115.24231732625714
+  },
+  {
+    "UniqueId": 56875,
+    "Timestamp": "2026-09-16 13:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "at",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "1:02 PM, Sep 16 2026 Crash on EB Bonanza Rd\u00A0at Martin L King Blvd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783009/attachment_0.jpg",
+    "Latitude": 36.177173199999999,
+    "Longitude": -115.1609081
+  },
+  {
+    "UniqueId": 56876,
+    "Timestamp": "2026-09-16 13:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "1:02 PM, Sep 16 2026 Crash on SB I-15\u00A0at Washington Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783019/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
