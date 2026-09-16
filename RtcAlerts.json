@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56760,
-    "Timestamp": "2026-09-15 10:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "10:42 AM, Sep 15 2026 Crash on WB Tropicana Ave\u00A0after Lindell Rd. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781049/attachment_0.png",
-    "Latitude": 36.100459100000002,
-    "Longitude": -115.2165016
-  },
-  {
     "UniqueId": 56761,
     "Timestamp": "2026-09-15 10:48",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 56859,
+    "Timestamp": "2026-09-16 10:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:38 AM, Sep 16 2026 Stalled vehicle on SB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782703/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
