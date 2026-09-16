@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56699,
-    "Timestamp": "2026-09-14 18:07",
-    "IncidentType": "Hazard",
-    "Direction": "WB",
-    "PrimaryRoad": "Alexander Rd",
-    "Relationship": "before",
-    "CrossStreet": "Cliff Shadows Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:07 PM, Sep 14 2026 Hazard on WB Alexander Rd\u00A0before Cliff Shadows Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780237/attachment_0.jpg",
-    "Latitude": 36.232457699999998,
-    "Longitude": -115.3308289
-  },
-  {
     "UniqueId": 56700,
     "Timestamp": "2026-09-14 18:20",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781878/attachment_0.png",
     "Latitude": 36.002537199999999,
     "Longitude": -115.1896548
+  },
+  {
+    "UniqueId": 56803,
+    "Timestamp": "2026-09-15 18:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:05 PM, Sep 15 2026 Crash on NB I-11\u00A0before Charleston Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781879/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
