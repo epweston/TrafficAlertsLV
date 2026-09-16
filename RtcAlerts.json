@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56695,
-    "Timestamp": "2026-09-14 17:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:54 PM, Sep 14 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780229/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 56696,
-    "Timestamp": "2026-09-14 17:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:58 PM, Sep 14 2026 Crash on SB Las Vegas Blvd\u00A0after St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780231/attachment_0.jpg",
-    "Latitude": 35.965910958046543,
-    "Longitude": -115.17285344363151
-  },
-  {
-    "UniqueId": 56697,
-    "Timestamp": "2026-09-14 17:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder",
-    "Notes": "5:59 PM, Sep 14 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before St Rose Pkwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780233/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
-    "UniqueId": 56698,
-    "Timestamp": "2026-09-14 18:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "6:00 PM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780235/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 56699,
     "Timestamp": "2026-09-14 18:07",
     "IncidentType": "Hazard",
@@ -1482,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781906/attachment_0.png",
     "Latitude": 36.217594200000001,
     "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 56801,
+    "Timestamp": "2026-09-15 17:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:58 PM, Sep 15 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781908/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 56802,
+    "Timestamp": "2026-09-15 18:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Frias Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:00 PM, Sep 15 2026 Crash on NB Valley View Blvd\u00A0at Frias Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781878/attachment_0.png",
+    "Latitude": 36.002537199999999,
+    "Longitude": -115.1896548
   }
 ]
