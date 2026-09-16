@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56740,
-    "Timestamp": "2026-09-15 07:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:00 AM, Sep 15 2026 Stalled vehicle on NB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780614/attachment_0.jpg",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 56741,
     "Timestamp": "2026-09-15 07:12",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782185/attachment_0.jpg",
     "Latitude": 36.099596400000003,
     "Longitude": -115.2611137
+  },
+  {
+    "UniqueId": 56842,
+    "Timestamp": "2026-09-16 07:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Galleria Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:05 AM, Sep 16 2026 Crash on EB Galleria Dr\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782216/attachment_0.png",
+    "Latitude": 36.071592967703758,
+    "Longitude": -115.0366190019961
   }
 ]
