@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56721,
-    "Timestamp": "2026-09-14 23:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:44 PM, Sep 14 2026 Crash on SB Pecos Rd\u00A0after Las Vegas Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780326/attachment_0.jpg",
-    "Latitude": 36.2147164,
-    "Longitude": -115.09863489999999
-  },
-  {
-    "UniqueId": 56722,
-    "Timestamp": "2026-09-14 23:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "All lanes are blocked from Sir George Dr to Stewart Ave.",
-    "Notes": "11:55 PM, Sep 14 2026 Crash on SB Nellis Blvd\u00A0after Stewart Ave. All lanes are blocked from Sir George Dr to Stewart Ave.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780327/attachment_0.jpg",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
     "UniqueId": 56723,
     "Timestamp": "2026-09-15 00:31",
     "IncidentType": "Update Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781931/attachment_0.png",
     "Latitude": 36.0256525,
     "Longitude": -115.2256967
+  },
+  {
+    "UniqueId": 56821,
+    "Timestamp": "2026-09-16 00:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:12 AM, Sep 16 2026 Crash on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781950/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
