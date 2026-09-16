@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56761,
-    "Timestamp": "2026-09-15 10:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:48 AM, Sep 15 2026 Crash on EB Blue Diamond Rd\u00A0at Cimarron Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781101/attachment_0.png",
-    "Latitude": 36.020138506218267,
-    "Longitude": -115.27023912105348
-  },
-  {
     "UniqueId": 56762,
     "Timestamp": "2026-09-15 10:54",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782703/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 56860,
+    "Timestamp": "2026-09-16 10:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:43 AM, Sep 16 2026 Crash on WB Cheyenne Ave\u00A0after Torrey Pines Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782686/attachment_0.jpg",
+    "Latitude": 36.217444759799662,
+    "Longitude": -115.23409366607666
+  },
+  {
+    "UniqueId": 56861,
+    "Timestamp": "2026-09-16 10:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "10:47 AM, Sep 16 2026 Crash on EB Blue Diamond Rd\u00A0at Grand Canyon Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782714/attachment_0.png",
+    "Latitude": 36.021765299999998,
+    "Longitude": -115.3071832
   }
 ]
