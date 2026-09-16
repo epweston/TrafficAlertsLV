@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56731,
-    "Timestamp": "2026-09-15 04:17",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "4:17 AM, Sep 15 2026 Police activity on WB Flamingo Rd\u00A0at Nellis Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780400/attachment_0.png",
-    "Latitude": 36.114871200000003,
-    "Longitude": -115.0647175
-  },
-  {
     "UniqueId": 56732,
     "Timestamp": "2026-09-15 04:59",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782004/attachment_0.png",
     "Latitude": 36.056526900000001,
     "Longitude": -115.22503260000001
+  },
+  {
+    "UniqueId": 56828,
+    "Timestamp": "2026-09-16 04:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:31 AM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0after Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782037/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
