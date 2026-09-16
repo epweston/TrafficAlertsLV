@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56785,
-    "Timestamp": "2026-09-15 15:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "at",
-    "CrossStreet": "Lewis Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:19 PM, Sep 15 2026 Crash on NB Main St\u00A0at Lewis Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781788/attachment_0.png",
-    "Latitude": 36.168172400000003,
-    "Longitude": -115.1486038
-  },
-  {
     "UniqueId": 56786,
     "Timestamp": "2026-09-15 16:00",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783158/attachment_0.png",
     "Latitude": 36.239502199999997,
     "Longitude": -115.16208640000001
+  },
+  {
+    "UniqueId": 56883,
+    "Timestamp": "2026-09-16 15:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:23 PM, Sep 16 2026 Crash on EB St Rose Pkwy\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783173/attachment_0.jpg",
+    "Latitude": 36.007212170000003,
+    "Longitude": -115.11431157
   }
 ]
