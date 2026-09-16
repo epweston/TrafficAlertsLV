@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56700,
-    "Timestamp": "2026-09-14 18:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:20 PM, Sep 14 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780242/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 56701,
-    "Timestamp": "2026-09-14 18:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:21 PM, Sep 14 2026 Stalled vehicle on SB I-15 \u00A0after Sahara Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780254/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 56702,
-    "Timestamp": "2026-09-14 18:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right shoulder",
-    "Notes": "6:23 PM, Sep 14 2026 Stalled vehicle on NB I-11\u00A0before Skye Canyon Park Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780247/attachment_0.jpg",
-    "Latitude": 36.314398977532683,
-    "Longitude": -115.30052669865761
-  },
-  {
     "UniqueId": 56703,
     "Timestamp": "2026-09-14 18:50",
     "IncidentType": "Crash",
@@ -1454,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781879/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 56804,
+    "Timestamp": "2026-09-15 18:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:19 PM, Sep 15 2026 Crash on NB Decatur Blvd\u00A0after Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781881/attachment_0.png",
+    "Latitude": 36.144511529274723,
+    "Longitude": -115.2082051186522
+  },
+  {
+    "UniqueId": 56805,
+    "Timestamp": "2026-09-15 18:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "",
+    "Notes": "6:19 PM, Sep 15 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781883/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
