@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56716,
-    "Timestamp": "2026-09-14 22:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Caesars Palace Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:51 PM, Sep 14 2026 Crash on SB Las Vegas Blvd\u00A0before Caesars Palace Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780304/attachment_0.jpg",
-    "Latitude": 36.117421499999999,
-    "Longitude": -115.1728189
-  },
-  {
-    "UniqueId": 56717,
-    "Timestamp": "2026-09-14 22:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:54 PM, Sep 14 2026 Crash on SB Pecos Rd\u00A0after Las Vegas Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780320/attachment_0.jpg",
-    "Latitude": 36.2147164,
-    "Longitude": -115.09863489999999
-  },
-  {
     "UniqueId": 56718,
     "Timestamp": "2026-09-14 23:09",
     "IncidentType": "Update Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781943/attachment_0.png",
     "Latitude": 36.075394299999999,
     "Longitude": -115.2079976
+  },
+  {
+    "UniqueId": 56817,
+    "Timestamp": "2026-09-15 22:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:50 PM, Sep 15 2026 Stalled vehicle on SB I-11\u00A0at Rainbow Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781929/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
