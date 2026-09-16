@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56713,
-    "Timestamp": "2026-09-14 21:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder",
-    "Notes": "9:24 PM, Sep 14 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780267/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 56714,
     "Timestamp": "2026-09-14 21:41",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781939/attachment_0.png",
     "Latitude": 36.217340299999996,
     "Longitude": -115.2073862
+  },
+  {
+    "UniqueId": 56815,
+    "Timestamp": "2026-09-15 21:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:28 PM, Sep 15 2026 Crash on NB I-15\u00A0after Sloan Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781925/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
