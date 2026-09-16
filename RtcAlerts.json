@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56792,
-    "Timestamp": "2026-09-15 16:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left and Right shoulder blocked.",
-    "Notes": "4:46 PM, Sep 15 2026 Crash on NB 215 Western Beltway\u00A0after Cheyenne Ave. Left and Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781869/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
     "UniqueId": 56793,
     "Timestamp": "2026-09-15 16:53",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783240/attachment_0.png",
     "Latitude": 36.166186199999999,
     "Longitude": -115.0982052
+  },
+  {
+    "UniqueId": 56890,
+    "Timestamp": "2026-09-16 16:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:46 PM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783224/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
