@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56726,
-    "Timestamp": "2026-09-15 02:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Duneville St All Lanes Are",
-    "Impact": "Use other routes",
-    "Notes": "2:25 AM, Sep 15 2026 Crash on EB Tropicana Ave\u00A0at Duneville St. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.100135199999997,
-    "Longitude": -115.2207914
-  },
-  {
     "UniqueId": 56727,
     "Timestamp": "2026-09-15 02:57",
     "IncidentType": "Crash",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781961/attachment_0.png",
     "Latitude": 36.107583900000002,
     "Longitude": -115.0643218
+  },
+  {
+    "UniqueId": 56824,
+    "Timestamp": "2026-09-16 02:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:53 AM, Sep 16 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781996/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 56825,
+    "Timestamp": "2026-09-16 02:54",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "at",
+    "CrossStreet": "Magic Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:54 AM, Sep 16 2026 Police activity on NB Boulder Hwy\u00A0at Magic Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781998/attachment_0.png",
+    "Latitude": 36.004440600000002,
+    "Longitude": -114.9427745
   }
 ]
