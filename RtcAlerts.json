@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56718,
-    "Timestamp": "2026-09-14 23:09",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Dolly Ln",
-    "Impact": "All lanes are open.",
-    "Notes": "11:09 PM, Sep 14 2026 Update Crash on WB Lake Mead Blvd\u00A0at Dolly Ln. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.195792399999988,
-    "Longitude": -115.07471320000001
-  },
-  {
-    "UniqueId": 56719,
-    "Timestamp": "2026-09-14 23:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "All lanes are blocked from Stewart Ave to Sir George Dr",
-    "Notes": "11:09 PM, Sep 14 2026 Crash on SB Nellis Blvd\u00A0after Stewart Ave. All lanes are blocked from Stewart Ave to Sir George Dr",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780306/attachment_0.jpg",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
-    "UniqueId": 56720,
-    "Timestamp": "2026-09-14 23:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Duneville St All Lanes Are",
-    "Impact": "",
-    "Notes": "11:29 PM, Sep 14 2026 Crash on EB Tropicana Ave\u00A0at Duneville St. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780309/attachment_0.jpg",
-    "Latitude": 36.100135199999997,
-    "Longitude": -115.2207914
-  },
-  {
     "UniqueId": 56721,
     "Timestamp": "2026-09-14 23:44",
     "IncidentType": "Crash",
@@ -1412,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781945/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 56819,
+    "Timestamp": "2026-09-15 23:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "11:31 PM, Sep 15 2026 Crash on SB Jones Blvd\u00A0at Blue Diamond Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781931/attachment_0.png",
+    "Latitude": 36.0256525,
+    "Longitude": -115.2256967
   }
 ]
