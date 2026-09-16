@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56768,
-    "Timestamp": "2026-09-15 12:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:08 PM, Sep 15 2026 Crash on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781322/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 56769,
-    "Timestamp": "2026-09-15 12:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "Grand Montecito Parkway",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:08 PM, Sep 15 2026 Crash on NB Durango Dr\u00A0after Grand Montecito Parkway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781283/attachment_0.jpg",
-    "Latitude": 36.272393200000003,
-    "Longitude": -115.2797511
-  },
-  {
     "UniqueId": 56770,
     "Timestamp": "2026-09-15 12:47",
     "IncidentType": "Crash",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782915/attachment_0.png",
     "Latitude": 36.115209200000002,
     "Longitude": -115.1008898
+  },
+  {
+    "UniqueId": 56870,
+    "Timestamp": "2026-09-16 12:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:14 PM, Sep 16 2026 Stalled vehicle on SB I-15\u00A0after Sloan Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782944/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
