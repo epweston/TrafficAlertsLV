@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56714,
-    "Timestamp": "2026-09-14 21:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Duneville St All Eb Lanes Are",
-    "Impact": "",
-    "Notes": "9:41 PM, Sep 14 2026 Crash on EB Tropicana Ave\u00A0at Duneville St. All EB lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780270/attachment_0.png",
-    "Latitude": 36.100135199999997,
-    "Longitude": -115.2207914
-  },
-  {
-    "UniqueId": 56715,
-    "Timestamp": "2026-09-14 21:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Dolly Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:53 PM, Sep 14 2026 Crash on WB Lake Mead Blvd\u00A0at Dolly Ln (before Lamb Blvd). Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780272/attachment_0.png",
-    "Latitude": 36.195792399999988,
-    "Longitude": -115.07471320000001
-  },
-  {
     "UniqueId": 56716,
     "Timestamp": "2026-09-14 22:51",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781925/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 56816,
+    "Timestamp": "2026-09-15 22:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Post Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:46 PM, Sep 15 2026 Crash on NB Decatur Blvd\u00A0after Post Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781943/attachment_0.png",
+    "Latitude": 36.075394299999999,
+    "Longitude": -115.2079976
   }
 ]
