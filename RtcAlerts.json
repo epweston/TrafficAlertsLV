@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56724,
-    "Timestamp": "2026-09-15 01:06",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Left lanes open in both directions again.",
-    "Notes": "1:06 AM, Sep 15 2026 Update Crash on SB Nellis Blvd\u00A0after Stewart Ave. Left lanes open in both directions again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780353/attachment_0.jpg",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
-    "UniqueId": 56725,
-    "Timestamp": "2026-09-15 01:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:19 AM, Sep 15 2026 Crash on NB I-11\u00A0at Casino Center Blvd on-ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780336/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
     "UniqueId": 56726,
     "Timestamp": "2026-09-15 02:25",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781956/attachment_0.png",
     "Latitude": 36.144365100000002,
     "Longitude": -115.21242460000001
+  },
+  {
+    "UniqueId": 56823,
+    "Timestamp": "2026-09-16 01:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "1:37 AM, Sep 16 2026 Crash on NB Nellis Blvd\u00A0at Harmon Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781961/attachment_0.png",
+    "Latitude": 36.107583900000002,
+    "Longitude": -115.0643218
   }
 ]
