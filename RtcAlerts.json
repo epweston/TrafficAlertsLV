@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56787,
-    "Timestamp": "2026-09-15 16:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:13 PM, Sep 15 2026 Crash on NB Durango Dr\u00A0before Sahara Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781834/attachment_0.jpg",
-    "Latitude": 36.144195199999999,
-    "Longitude": -115.27905680000001
-  },
-  {
-    "UniqueId": 56788,
-    "Timestamp": "2026-09-15 16:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:23 PM, Sep 15 2026 Crash on EB Lake Mead Blvd\u00A0at Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781837/attachment_0.jpg",
-    "Latitude": 36.195750279980111,
-    "Longitude": -115.09840610713668
-  },
-  {
-    "UniqueId": 56789,
-    "Timestamp": "2026-09-15 16:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:33 PM, Sep 15 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781859/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 56790,
-    "Timestamp": "2026-09-15 16:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:39 PM, Sep 15 2026 Crash on NB Decatur Blvd\u00A0after Flamingo Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781862/attachment_0.png",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
-    "UniqueId": 56791,
-    "Timestamp": "2026-09-15 16:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "4:42 PM, Sep 15 2026 Crash on NB Rainbow Blvd\u00A0at Tropicana Ave. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781866/attachment_0.png",
-    "Latitude": 36.099861799999999,
-    "Longitude": -115.2429985
-  },
-  {
     "UniqueId": 56792,
     "Timestamp": "2026-09-15 16:46",
     "IncidentType": "Crash",
@@ -1384,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783220/attachment_0.png",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 56889,
+    "Timestamp": "2026-09-16 16:42",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:42 PM, Sep 16 2026 Crash on WB Stewart Ave\u00A0after Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783240/attachment_0.png",
+    "Latitude": 36.166186199999999,
+    "Longitude": -115.0982052
   }
 ]
