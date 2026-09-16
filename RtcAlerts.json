@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56770,
-    "Timestamp": "2026-09-15 12:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Badura Ave",
-    "Impact": "Intersection partially blocked",
-    "Notes": "12:47 PM, Sep 15 2026 Crash on SB Jones Blvd\u00A0at Badura Ave. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781402/attachment_0.jpg",
-    "Latitude": 36.062004399999999,
-    "Longitude": -115.2246519
-  },
-  {
     "UniqueId": 56771,
     "Timestamp": "2026-09-15 12:59",
     "IncidentType": "Crash",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782958/attachment_0.png",
     "Latitude": 36.086320710680873,
     "Longitude": -115.18988014525941
+  },
+  {
+    "UniqueId": 56872,
+    "Timestamp": "2026-09-16 12:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Goldstrike Canyon Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:47 PM, Sep 16 2026 Stalled vehicle on NB I-11\u00A0at Goldstrike Canyon Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782962/attachment_0.jpg",
+    "Latitude": 36.276800299999998,
+    "Longitude": -115.3097531
+  },
+  {
+    "UniqueId": 56873,
+    "Timestamp": "2026-09-16 12:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:47 PM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782963/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
