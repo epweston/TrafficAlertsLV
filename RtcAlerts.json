@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56688,
-    "Timestamp": "2026-09-14 17:01",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "All lanes are open.",
-    "Notes": "5:01 PM, Sep 14 2026 Update Crash on SB I-11\u00A0after Valley View Blvd. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 56689,
-    "Timestamp": "2026-09-14 17:02",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:02 PM, Sep 14 2026 Abandoned vehicle on SB I-11\u00A0after Valley View Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780164/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 56690,
     "Timestamp": "2026-09-14 17:08",
     "IncidentType": "Crash",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781870/attachment_0.png",
     "Latitude": 36.144011200000001,
     "Longitude": -115.2384447
+  },
+  {
+    "UniqueId": 56795,
+    "Timestamp": "2026-09-15 17:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:01 PM, Sep 15 2026 Crash on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781871/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
