@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56692,
-    "Timestamp": "2026-09-14 17:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:30 PM, Sep 14 2026 Stalled vehicle on WB Lake Mead Pkwy\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780200/attachment_0.png",
-    "Latitude": 36.055479300000002,
-    "Longitude": -114.9678526
-  },
-  {
-    "UniqueId": 56693,
-    "Timestamp": "2026-09-14 17:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder",
-    "Notes": "5:32 PM, Sep 14 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Russell Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780203/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 56694,
     "Timestamp": "2026-09-14 17:46",
     "IncidentType": "Crash",
@@ -1468,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781899/attachment_0.jpg",
     "Latitude": 36.239531900000003,
     "Longitude": -115.18004790000001
+  },
+  {
+    "UniqueId": 56797,
+    "Timestamp": "2026-09-15 17:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:28 PM, Sep 15 2026 Crash on EB Charleston Blvd\u00A0after Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781900/attachment_0.png",
+    "Latitude": 36.158840294342966,
+    "Longitude": -115.11887670821717
   }
 ]
