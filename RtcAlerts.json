@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56757,
-    "Timestamp": "2026-09-15 09:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:43 AM, Sep 15 2026 Stalled vehicle on NB I-15\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780901/attachment_0.png",
-    "Latitude": 36.173668758672179,
-    "Longitude": -115.13793117559058
-  },
-  {
-    "UniqueId": 56758,
-    "Timestamp": "2026-09-15 09:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:50 AM, Sep 15 2026 Stalled vehicle on SB I-15\u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780906/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 56759,
     "Timestamp": "2026-09-15 10:09",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782523/attachment_0.png",
     "Latitude": 36.180953799999998,
     "Longitude": -115.2062164
+  },
+  {
+    "UniqueId": 56854,
+    "Timestamp": "2026-09-16 09:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Roy Horn Way",
+    "Impact": "Center lane blocked.",
+    "Notes": "9:47 AM, Sep 16 2026 Stalled vehicle on NB Durango Dr\u00A0before Roy Horn Way. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782556/attachment_0.png",
+    "Latitude": 36.065249041155141,
+    "Longitude": -115.27935326099397
+  },
+  {
+    "UniqueId": 56855,
+    "Timestamp": "2026-09-16 09:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder City Parkway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:48 AM, Sep 16 2026 Stalled vehicle on NB I-11\u00A0at Boulder City Parkway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782541/attachment_0.png",
+    "Latitude": 35.973038099999997,
+    "Longitude": -114.9141533
   }
 ]
