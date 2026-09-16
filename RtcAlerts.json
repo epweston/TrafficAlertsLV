@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56733,
-    "Timestamp": "2026-09-15 05:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:47 AM, Sep 15 2026 Crash on NB Boulder Hwy\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3780447/attachment_0.png",
-    "Latitude": 36.135517917695289,
-    "Longitude": -115.09028440626055
-  },
-  {
     "UniqueId": 56734,
     "Timestamp": "2026-09-15 05:55",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "",
     "Latitude": 36.004440600000002,
     "Longitude": -114.9427745
+  },
+  {
+    "UniqueId": 56834,
+    "Timestamp": "2026-09-16 05:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:45 AM, Sep 16 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782109/attachment_0.png",
+    "Latitude": 36.261508127735802,
+    "Longitude": -115.32678022210708
   }
 ]
