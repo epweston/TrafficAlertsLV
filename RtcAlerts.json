@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56690,
-    "Timestamp": "2026-09-14 17:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:08 PM, Sep 14 2026 Crash on EB Sunset Rd\u00A0after Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780187/attachment_0.jpg",
-    "Latitude": 36.071648699999997,
-    "Longitude": -115.14116249999999
-  },
-  {
-    "UniqueId": 56691,
-    "Timestamp": "2026-09-14 17:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:28 PM, Sep 14 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/14/file_attachments/3780216/attachment_0.png",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
     "UniqueId": 56692,
     "Timestamp": "2026-09-14 17:30",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781871/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 56796,
+    "Timestamp": "2026-09-15 17:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Simmons St 3",
+    "Impact": "",
+    "Notes": "5:26 PM, Sep 15 2026 Crash on EB Craig Rd\u00A0before Simmons St. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781899/attachment_0.jpg",
+    "Latitude": 36.239531900000003,
+    "Longitude": -115.18004790000001
   }
 ]
