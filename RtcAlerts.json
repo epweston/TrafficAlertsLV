@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56803,
-    "Timestamp": "2026-09-15 18:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:05 PM, Sep 15 2026 Crash on NB I-11\u00A0before Charleston Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781879/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 56804,
     "Timestamp": "2026-09-15 18:19",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783318/attachment_0.png",
     "Latitude": 36.1658331,
     "Longitude": -115.1502643
+  },
+  {
+    "UniqueId": 56903,
+    "Timestamp": "2026-09-16 18:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:14 PM, Sep 16 2026 Crash on SB I-11\u00A0before I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783319/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
