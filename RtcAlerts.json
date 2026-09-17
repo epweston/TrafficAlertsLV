@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56889,
-    "Timestamp": "2026-09-16 16:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:42 PM, Sep 16 2026 Crash on WB Stewart Ave\u00A0after Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783240/attachment_0.png",
-    "Latitude": 36.166186199999999,
-    "Longitude": -115.0982052
-  },
-  {
     "UniqueId": 56890,
     "Timestamp": "2026-09-16 16:46",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784786/attachment_0.png",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 56982,
+    "Timestamp": "2026-09-17 16:39",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:39 PM, Sep 17 2026 Crash on SB Eastern Ave\u00A0at 215 Southern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784790/attachment_0.jpg",
+    "Latitude": 36.023704889999998,
+    "Longitude": -115.11844739
+  },
+  {
+    "UniqueId": 56983,
+    "Timestamp": "2026-09-17 16:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:41 PM, Sep 17 2026 Stalled vehicle on NB I-15\u00A0at 215 Northern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784765/attachment_0.png",
+    "Latitude": 36.174083889581247,
+    "Longitude": -115.15534412685216
   }
 ]
