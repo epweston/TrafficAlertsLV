@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56831,
-    "Timestamp": "2026-09-16 05:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:22 AM, Sep 16 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782092/attachment_0.jpg",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
-    "UniqueId": 56832,
-    "Timestamp": "2026-09-16 05:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:33 AM, Sep 16 2026 Crash on NB I-11\u00A0after Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782100/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 56833,
-    "Timestamp": "2026-09-16 05:43",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Magic Way",
-    "Impact": "All NB lanes are blocked. Use other routes",
-    "Notes": "5:43 AM, Sep 16 2026 Police activity on NB Boulder Hwy\u00A0at Magic Way. All NB lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.004440600000002,
-    "Longitude": -114.9427745
-  },
-  {
     "UniqueId": 56834,
     "Timestamp": "2026-09-16 05:45",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783514/attachment_0.png",
     "Latitude": 36.115066053957577,
     "Longitude": -115.30244890820951
+  },
+  {
+    "UniqueId": 56928,
+    "Timestamp": "2026-09-17 05:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:41 AM, Sep 17 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783528/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
