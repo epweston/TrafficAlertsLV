@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56886,
-    "Timestamp": "2026-09-16 15:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:48 PM, Sep 16 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783202/attachment_0.png",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 56887,
     "Timestamp": "2026-09-16 16:07",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784752/attachment_0.jpg",
     "Latitude": 36.159381699999997,
     "Longitude": -115.03985110000001
+  },
+  {
+    "UniqueId": 56978,
+    "Timestamp": "2026-09-17 15:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:55 PM, Sep 17 2026 Stalled vehicle on NB I-15 \u00A0at Neon Gateway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784777/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
   }
 ]
