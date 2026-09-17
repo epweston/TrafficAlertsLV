@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56853,
-    "Timestamp": "2026-09-16 09:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:25 AM, Sep 16 2026 Crash on NB Decatur Blvd\u00A0at Washington Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782523/attachment_0.png",
-    "Latitude": 36.180953799999998,
-    "Longitude": -115.2062164
-  },
-  {
     "UniqueId": 56854,
     "Timestamp": "2026-09-16 09:47",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783935/attachment_0.jpg",
     "Latitude": 36.247911100000003,
     "Longitude": -115.2421914
+  },
+  {
+    "UniqueId": 56953,
+    "Timestamp": "2026-09-17 09:30",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:30 AM, Sep 17 2026 Crash on WB Craig Rd\u00A0before Losee Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783994/attachment_0.png",
+    "Latitude": 36.239773575501886,
+    "Longitude": -115.11682743770037
   }
 ]
