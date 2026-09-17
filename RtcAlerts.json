@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56880,
-    "Timestamp": "2026-09-16 14:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:45 PM, Sep 16 2026 Stalled vehicle on SB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783138/attachment_0.jpg",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 56881,
     "Timestamp": "2026-09-16 14:52",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784697/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 56973,
+    "Timestamp": "2026-09-17 14:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:44 PM, Sep 17 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784704/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
+  },
+  {
+    "UniqueId": 56974,
+    "Timestamp": "2026-09-17 14:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:45 PM, Sep 17 2026 Crash on EB Tropicana Ave \u00A0at 215 Western Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784706/attachment_0.png",
+    "Latitude": 36.100018540000001,
+    "Longitude": -115.29390152000001
+  },
+  {
+    "UniqueId": 56975,
+    "Timestamp": "2026-09-17 14:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:47 PM, Sep 17 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784689/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
