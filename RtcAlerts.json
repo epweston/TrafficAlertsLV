@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56815,
-    "Timestamp": "2026-09-15 21:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:28 PM, Sep 15 2026 Crash on NB I-15\u00A0after Sloan Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781925/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 56816,
     "Timestamp": "2026-09-15 22:46",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783344/attachment_0.png",
     "Latitude": 36.239773575501886,
     "Longitude": -115.11682743770037
+  },
+  {
+    "UniqueId": 56914,
+    "Timestamp": "2026-09-16 21:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "9:24 PM, Sep 16 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783345/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
