@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56844,
-    "Timestamp": "2026-09-16 07:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:22 AM, Sep 16 2026 Stalled vehicle on SB I-15\u00A0after Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782255/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
     "UniqueId": 56845,
     "Timestamp": "2026-09-16 07:47",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783728/attachment_0.jpg",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 56941,
+    "Timestamp": "2026-09-17 07:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:39 AM, Sep 17 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783766/attachment_0.jpg",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
