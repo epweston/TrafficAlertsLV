@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56858,
-    "Timestamp": "2026-09-16 10:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:07 AM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 56859,
     "Timestamp": "2026-09-16 10:38",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784052/attachment_0.jpg",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 56956,
+    "Timestamp": "2026-09-17 10:12",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Wilbur St",
+    "Impact": "",
+    "Notes": "10:12 AM, Sep 17 2026 Crash on EB Tropicana Ave\u00A0at Wilbur St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784109/attachment_0.png",
+    "Latitude": 36.100957899999997,
+    "Longitude": -115.14142750000001
+  },
+  {
+    "UniqueId": 56957,
+    "Timestamp": "2026-09-17 10:12",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:12 AM, Sep 17 2026 Crash on WB Charleston Blvd\u00A0before Rainbow Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784089/attachment_0.jpg",
+    "Latitude": 36.159173199999998,
+    "Longitude": -115.24359750000001
   }
 ]
