@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56881,
-    "Timestamp": "2026-09-16 14:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:52 PM, Sep 16 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783141/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 56882,
-    "Timestamp": "2026-09-16 15:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Camino Al Norte",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:04 PM, Sep 16 2026 Crash on WB Craig Rd\u00A0at Camino Al Norte. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783158/attachment_0.png",
-    "Latitude": 36.239502199999997,
-    "Longitude": -115.16208640000001
-  },
-  {
-    "UniqueId": 56883,
-    "Timestamp": "2026-09-16 15:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:23 PM, Sep 16 2026 Crash on EB St Rose Pkwy\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783173/attachment_0.jpg",
-    "Latitude": 36.007212170000003,
-    "Longitude": -115.11431157
-  },
-  {
-    "UniqueId": 56884,
-    "Timestamp": "2026-09-16 15:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:24 PM, Sep 16 2026 Crash on NB Las Vegas Blvd\u00A0before Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783175/attachment_0.jpg",
-    "Latitude": 36.086214300000002,
-    "Longitude": -115.1730815
-  },
-  {
-    "UniqueId": 56885,
-    "Timestamp": "2026-09-16 15:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:33 PM, Sep 16 2026 Crash on EB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783197/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 56886,
     "Timestamp": "2026-09-16 15:48",
     "IncidentType": "Crash",
@@ -1286,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784689/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 56976,
+    "Timestamp": "2026-09-17 15:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "",
+    "Notes": "3:34 PM, Sep 17 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Sahara Ave on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784748/attachment_0.png",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
