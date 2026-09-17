@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56819,
-    "Timestamp": "2026-09-15 23:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "11:31 PM, Sep 15 2026 Crash on SB Jones Blvd\u00A0at Blue Diamond Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781931/attachment_0.png",
-    "Latitude": 36.0256525,
-    "Longitude": -115.2256967
-  },
-  {
     "UniqueId": 56821,
     "Timestamp": "2026-09-16 00:12",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783370/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 56920,
+    "Timestamp": "2026-09-16 23:36",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "11:36 PM, Sep 16 2026 Crash on NB I-11\u00A0before Tropicana Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783378/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
