@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56801,
-    "Timestamp": "2026-09-15 17:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:58 PM, Sep 15 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781908/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 56802,
-    "Timestamp": "2026-09-15 18:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Frias Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:00 PM, Sep 15 2026 Crash on NB Valley View Blvd\u00A0at Frias Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781878/attachment_0.png",
-    "Latitude": 36.002537199999999,
-    "Longitude": -115.1896548
-  },
-  {
     "UniqueId": 56803,
     "Timestamp": "2026-09-15 18:05",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783315/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 56902,
+    "Timestamp": "2026-09-16 18:00",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "at",
+    "CrossStreet": "Main St",
+    "Impact": "",
+    "Notes": "6:00 PM, Sep 16 2026 Crash on EB Bonneville Ave\u00A0at Main St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783318/attachment_0.png",
+    "Latitude": 36.1658331,
+    "Longitude": -115.1502643
   }
 ]
