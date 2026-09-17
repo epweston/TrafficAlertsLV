@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56823,
-    "Timestamp": "2026-09-16 01:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "1:37 AM, Sep 16 2026 Crash on NB Nellis Blvd\u00A0at Harmon Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781961/attachment_0.png",
-    "Latitude": 36.107583900000002,
-    "Longitude": -115.0643218
-  },
-  {
-    "UniqueId": 56824,
-    "Timestamp": "2026-09-16 02:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:53 AM, Sep 16 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781996/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 56825,
-    "Timestamp": "2026-09-16 02:54",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Magic Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:54 AM, Sep 16 2026 Police activity on NB Boulder Hwy\u00A0at Magic Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3781998/attachment_0.png",
-    "Latitude": 36.004440600000002,
-    "Longitude": -114.9427745
-  },
-  {
-    "UniqueId": 56826,
-    "Timestamp": "2026-09-16 03:00",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Magic Way",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "3:00 AM, Sep 16 2026 Police activity on NB Boulder Hwy\u00A0at Magic Way. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.004440600000002,
-    "Longitude": -114.9427745
-  },
-  {
-    "UniqueId": 56827,
-    "Timestamp": "2026-09-16 03:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:28 AM, Sep 16 2026 Crash on WB Warm Springs Rd\u00A0after Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782004/attachment_0.png",
-    "Latitude": 36.056526900000001,
-    "Longitude": -115.22503260000001
-  },
-  {
     "UniqueId": 56828,
     "Timestamp": "2026-09-16 04:31",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783384/attachment_0.png",
     "Latitude": 36.14425161252003,
     "Longitude": -115.06543636322023
+  },
+  {
+    "UniqueId": 56922,
+    "Timestamp": "2026-09-17 03:43",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Elkhorn Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:43 AM, Sep 17 2026 Abandoned vehicle on EB Elkhorn Rd\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783423/attachment_0.png",
+    "Latitude": 36.292112099999997,
+    "Longitude": -115.317025
   }
 ]
