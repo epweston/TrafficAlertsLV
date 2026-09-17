@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 56810,
-    "Timestamp": "2026-09-15 20:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:31 PM, Sep 15 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781918/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 56811,
-    "Timestamp": "2026-09-15 20:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:34 PM, Sep 15 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781934/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 56812,
-    "Timestamp": "2026-09-15 20:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:55 PM, Sep 15 2026 Crash on EB Tropicana Ave\u00A0before Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781937/attachment_0.png",
-    "Latitude": 36.099966560770525,
-    "Longitude": -115.11896249561603
-  },
-  {
-    "UniqueId": 56813,
-    "Timestamp": "2026-09-15 21:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Koval Ln",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:00 PM, Sep 15 2026 Crash on NB Koval Ln\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781922/attachment_0.png",
-    "Latitude": 36.114596900000002,
-    "Longitude": -115.1641267
-  },
-  {
-    "UniqueId": 56814,
-    "Timestamp": "2026-09-15 21:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "9:13 PM, Sep 15 2026 Crash on EB Cheyenne Ave\u00A0at Decatur Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781939/attachment_0.png",
-    "Latitude": 36.217340299999996,
-    "Longitude": -115.2073862
-  },
-  {
     "UniqueId": 56815,
     "Timestamp": "2026-09-15 21:28",
     "IncidentType": "Crash",
@@ -1370,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783364/attachment_0.png",
     "Latitude": 36.178483896259188,
     "Longitude": -115.25997161865236
+  },
+  {
+    "UniqueId": 56913,
+    "Timestamp": "2026-09-16 21:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:22 PM, Sep 16 2026 Crash on WB Craig Rd\u00A0before Losee Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783344/attachment_0.png",
+    "Latitude": 36.239773575501886,
+    "Longitude": -115.11682743770037
   }
 ]
