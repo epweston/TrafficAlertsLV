@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56816,
-    "Timestamp": "2026-09-15 22:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Post Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:46 PM, Sep 15 2026 Crash on NB Decatur Blvd\u00A0after Post Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781943/attachment_0.png",
-    "Latitude": 36.075394299999999,
-    "Longitude": -115.2079976
-  },
-  {
-    "UniqueId": 56817,
-    "Timestamp": "2026-09-15 22:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:50 PM, Sep 15 2026 Stalled vehicle on SB I-11\u00A0at Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781929/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 56818,
-    "Timestamp": "2026-09-15 22:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:59 PM, Sep 15 2026 Stalled vehicle on SB I-11\u00A0from Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/15/file_attachments/3781945/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 56819,
     "Timestamp": "2026-09-15 23:31",
     "IncidentType": "Crash",
@@ -1328,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783366/attachment_0.png",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 56917,
+    "Timestamp": "2026-09-16 23:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "11:12 PM, Sep 16 2026 Crash on NB I-15\u00A0at Neon Gateway. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783368/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 56918,
+    "Timestamp": "2026-09-16 23:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 21",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:14 PM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0at Mile 21. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783351/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
