@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56842,
-    "Timestamp": "2026-09-16 07:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Galleria Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:05 AM, Sep 16 2026 Crash on EB Galleria Dr\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782216/attachment_0.png",
-    "Latitude": 36.071592967703758,
-    "Longitude": -115.0366190019961
-  },
-  {
     "UniqueId": 56843,
     "Timestamp": "2026-09-16 07:15",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783688/attachment_0.jpg",
     "Latitude": 36.232644700000009,
     "Longitude": -115.0801659
+  },
+  {
+    "UniqueId": 56938,
+    "Timestamp": "2026-09-17 07:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:04 AM, Sep 17 2026 Stalled vehicle on NB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783718/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
