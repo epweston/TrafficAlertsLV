@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56851,
-    "Timestamp": "2026-09-16 08:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:59 AM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782464/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 56852,
-    "Timestamp": "2026-09-16 09:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:03 AM, Sep 16 2026 Crash on SB I-15\u00A0after Washington Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3782466/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 56853,
     "Timestamp": "2026-09-16 09:25",
     "IncidentType": "Crash",
@@ -1342,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783909/attachment_0.png",
     "Latitude": 36.173543799999997,
     "Longitude": -115.08043429999999
+  },
+  {
+    "UniqueId": 56951,
+    "Timestamp": "2026-09-17 09:01",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:01 AM, Sep 17 2026 Crash on WB Charleston Blvd\u00A0before Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783926/attachment_0.jpg",
+    "Latitude": 36.158758200000001,
+    "Longitude": -115.10104
+  },
+  {
+    "UniqueId": 56952,
+    "Timestamp": "2026-09-17 09:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Lone Mountain Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:04 AM, Sep 17 2026 Crash on NB Rainbow Blvd\u00A0before Lone Mountain Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783935/attachment_0.jpg",
+    "Latitude": 36.247911100000003,
+    "Longitude": -115.2421914
   }
 ]
