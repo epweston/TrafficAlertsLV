@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56878,
-    "Timestamp": "2026-09-16 13:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "College Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:59 PM, Sep 16 2026 Crash on SB College Dr\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783080/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 56879,
-    "Timestamp": "2026-09-16 14:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:09 PM, Sep 16 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before Rampart Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783104/attachment_0.png",
-    "Latitude": 36.159022,
-    "Longitude": -115.29140700000001
-  },
-  {
     "UniqueId": 56880,
     "Timestamp": "2026-09-16 14:45",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784628/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 56971,
+    "Timestamp": "2026-09-17 14:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:22 PM, Sep 17 2026 Stalled vehicle on NB I-15 at St. Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784678/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
