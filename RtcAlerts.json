@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56971,
-    "Timestamp": "2026-09-17 14:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:22 PM, Sep 17 2026 Stalled vehicle on NB I-15 at St. Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784678/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 56972,
     "Timestamp": "2026-09-17 14:29",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785960/attachment_0.jpg",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 57061,
+    "Timestamp": "2026-09-18 14:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:19 PM, Sep 18 2026 Crash on EB Summerlin Pkwy\u00A0after Durango Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785962/attachment_0.jpg",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
