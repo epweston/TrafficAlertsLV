@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56935,
-    "Timestamp": "2026-09-17 06:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 AM, Sep 17 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783607/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 56936,
-    "Timestamp": "2026-09-17 06:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Debbie Reynolds Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:24 AM, Sep 17 2026 Crash on WB Desert Inn Rd\u00A0at Debbie Reynolds Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783624/attachment_0.png",
-    "Latitude": 36.129730799999997,
-    "Longitude": -115.15785339999999
-  },
-  {
     "UniqueId": 56937,
     "Timestamp": "2026-09-17 06:51",
     "IncidentType": "Signal out",
@@ -1314,5 +1286,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785069/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 57029,
+    "Timestamp": "2026-09-18 06:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:23 AM, Sep 18 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785084/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 57030,
+    "Timestamp": "2026-09-18 06:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:26 AM, Sep 18 2026 Stalled vehicle on NB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785112/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 57031,
+    "Timestamp": "2026-09-18 06:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Gore blocked.",
+    "Notes": "6:25 AM, Sep 18 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785088/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
