@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56915,
-    "Timestamp": "2026-09-16 21:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:33 PM, Sep 16 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783366/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 56917,
     "Timestamp": "2026-09-16 23:12",
     "IncidentType": "Crash",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784882/attachment_0.png",
     "Latitude": 36.144246600000002,
     "Longitude": -115.0655266
+  },
+  {
+    "UniqueId": 57012,
+    "Timestamp": "2026-09-17 21:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:31 PM, Sep 17 2026 Stalled vehicle on WB Cheyenne Ave\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784884/attachment_0.png",
+    "Latitude": 36.217665489308381,
+    "Longitude": -115.12400501844569
+  },
+  {
+    "UniqueId": 57013,
+    "Timestamp": "2026-09-17 21:35",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "9:35 PM, Sep 17 2026 Crash on EB 215 Southern Beltway\u00A0at Airport Connector. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784874/attachment_0.jpg",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
