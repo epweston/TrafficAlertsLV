@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56898,
-    "Timestamp": "2026-09-16 17:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:17 PM, Sep 16 2026 Crash on WB Flamingo Rd\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783285/attachment_0.png",
-    "Latitude": 36.114511499999999,
-    "Longitude": -115.2248991
-  },
-  {
-    "UniqueId": 56899,
-    "Timestamp": "2026-09-16 17:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:25 PM, Sep 16 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783293/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 56900,
     "Timestamp": "2026-09-16 17:48",
     "IncidentType": "Crash",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784804/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 56992,
+    "Timestamp": "2026-09-17 17:25",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Van Der Meer St",
+    "Impact": "",
+    "Notes": "5:25 PM, Sep 17 2026 Crash on EB Cheyenne Ave\u00A0at Van Der Meer St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784835/attachment_0.png",
+    "Latitude": 36.213745500000002,
+    "Longitude": -115.1066809
   }
 ]
