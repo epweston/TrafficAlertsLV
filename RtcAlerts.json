@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56921,
-    "Timestamp": "2026-09-17 00:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:58 AM, Sep 17 2026 Crash on EB Sahara Ave\u00A0after Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783384/attachment_0.png",
-    "Latitude": 36.14425161252003,
-    "Longitude": -115.06543636322023
-  },
-  {
     "UniqueId": 56922,
     "Timestamp": "2026-09-17 03:43",
     "IncidentType": "Abandoned vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784906/attachment_0.png",
     "Latitude": 36.100031538544258,
     "Longitude": -115.29390153647363
+  },
+  {
+    "UniqueId": 57019,
+    "Timestamp": "2026-09-18 00:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Arville St",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "12:55 AM, Sep 18 2026 Crash on NB Arville St\u00A0at Flamingo Rd. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784918/attachment_0.png",
+    "Latitude": 36.115612499999997,
+    "Longitude": -115.1994991
   }
 ]
