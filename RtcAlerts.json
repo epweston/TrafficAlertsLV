@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56938,
-    "Timestamp": "2026-09-17 07:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:04 AM, Sep 17 2026 Stalled vehicle on NB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783718/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 56939,
     "Timestamp": "2026-09-17 07:11",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785216/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 57036,
+    "Timestamp": "2026-09-18 07:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Intersection partially blocked",
+    "Notes": "7:03 AM, Sep 18 2026 Crash on EB Durango Dr\u00A0at Durango Dr. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785206/attachment_0.png",
+    "Latitude": 36.085134500000002,
+    "Longitude": -115.2791666
   }
 ]
