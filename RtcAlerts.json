@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56962,
-    "Timestamp": "2026-09-17 11:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:29 AM, Sep 17 2026 Stalled vehicle on SB I-11\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784423/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 56963,
     "Timestamp": "2026-09-17 12:09",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785738/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 57058,
+    "Timestamp": "2026-09-18 11:28",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "University Center Dr",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "11:28 AM, Sep 18 2026 Crash on WB Flamingo Rd\u00A0at University Center Dr. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785757/attachment_0.png",
+    "Latitude": 36.114693462474712,
+    "Longitude": -115.14635429434829
   }
 ]
