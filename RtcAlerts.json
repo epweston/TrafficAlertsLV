@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56976,
-    "Timestamp": "2026-09-17 15:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "",
-    "Notes": "3:34 PM, Sep 17 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Sahara Ave on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784748/attachment_0.png",
-    "Latitude": 36.144563512522332,
-    "Longitude": -115.33671498298646
-  },
-  {
-    "UniqueId": 56977,
-    "Timestamp": "2026-09-17 15:37",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tree Line Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:37 PM, Sep 17 2026 Crash on EB Charleston Blvd\u00A0at Tree Line Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784752/attachment_0.jpg",
-    "Latitude": 36.159381699999997,
-    "Longitude": -115.03985110000001
-  },
-  {
     "UniqueId": 56978,
     "Timestamp": "2026-09-17 15:55",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786090/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 57074,
+    "Timestamp": "2026-09-18 15:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "8Th St",
+    "Relationship": "at",
+    "CrossStreet": "Bonneville Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:32 PM, Sep 18 2026 Crash on NB 8th St\u00A0at Bonneville Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786093/attachment_0.jpg",
+    "Latitude": 36.161966999999997,
+    "Longitude": -115.14106580000001
+  },
+  {
+    "UniqueId": 57075,
+    "Timestamp": "2026-09-18 15:35",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Owens Ave",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:35 PM, Sep 18 2026 Crash on WB Owens Ave\u00A0before Pecos Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786071/attachment_0.jpg",
+    "Latitude": 36.188139700000001,
+    "Longitude": -115.0983279
   }
 ]
