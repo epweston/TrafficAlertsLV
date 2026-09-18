@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 56917,
-    "Timestamp": "2026-09-16 23:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "11:12 PM, Sep 16 2026 Crash on NB I-15\u00A0at Neon Gateway. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783368/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
-    "UniqueId": 56918,
-    "Timestamp": "2026-09-16 23:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:14 PM, Sep 16 2026 Stalled vehicle on NB I-15\u00A0at Mile 21. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783351/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 56919,
-    "Timestamp": "2026-09-16 23:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:21 PM, Sep 16 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783370/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 56920,
-    "Timestamp": "2026-09-16 23:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "11:36 PM, Sep 16 2026 Crash on NB I-11\u00A0before Tropicana Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783378/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 56921,
     "Timestamp": "2026-09-17 00:58",
     "IncidentType": "Crash",
@@ -1412,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784891/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 57018,
+    "Timestamp": "2026-09-18 00:16",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "12:16 AM, Sep 18 2026 Crash on SB 215 Western Beltway\u00A0at Tropicana Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784906/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
