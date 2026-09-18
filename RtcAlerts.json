@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56986,
-    "Timestamp": "2026-09-17 16:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:52 PM, Sep 17 2026 Crash on SB I-15\u00A0at Harmon Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784819/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 56987,
-    "Timestamp": "2026-09-17 16:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Wy",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:52 PM, Sep 17 2026 Crash on EB Flamingo Rd\u00A0at Tenaya Wy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784798/attachment_0.png",
-    "Latitude": 36.1146411,
-    "Longitude": -115.2520272
-  },
-  {
     "UniqueId": 56988,
     "Timestamp": "2026-09-17 17:02",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1496,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786156/attachment_0.jpg",
     "Latitude": 36.084834000000001,
     "Longitude": -115.0326537
+  },
+  {
+    "UniqueId": 57095,
+    "Timestamp": "2026-09-18 16:50",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:50 PM, Sep 18 2026 Crash on EB Tropicana Ave\u00A0after University Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786157/attachment_0.png",
+    "Latitude": 36.100972160686119,
+    "Longitude": -115.14593481598045
+  },
+  {
+    "UniqueId": 57096,
+    "Timestamp": "2026-09-18 16:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Grand Central Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Bonneville Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:52 PM, Sep 18 2026 Crash on NB Grand Central Pkwy\u00A0after Bonneville Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786158/attachment_0.jpg",
+    "Latitude": 36.166741899999998,
+    "Longitude": -115.1552349
+  },
+  {
+    "UniqueId": 57097,
+    "Timestamp": "2026-09-18 16:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:53 PM, Sep 18 2026 Crash on NB Valley View Blvd\u00A0before Twain Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786160/attachment_0.jpg",
+    "Latitude": 36.122773000000002,
+    "Longitude": -115.190242
   }
 ]
