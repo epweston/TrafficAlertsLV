@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56902,
-    "Timestamp": "2026-09-16 18:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonneville Ave",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "",
-    "Notes": "6:00 PM, Sep 16 2026 Crash on EB Bonneville Ave\u00A0at Main St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783318/attachment_0.png",
-    "Latitude": 36.1658331,
-    "Longitude": -115.1502643
-  },
-  {
     "UniqueId": 56903,
     "Timestamp": "2026-09-16 18:14",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784811/attachment_0.jpg",
     "Latitude": 36.158894099999998,
     "Longitude": -115.1250332
+  },
+  {
+    "UniqueId": 56997,
+    "Timestamp": "2026-09-17 18:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:03 PM, Sep 17 2026 Stalled vehicle on SB Boulder Hwy\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784813/attachment_0.jpg",
+    "Latitude": 36.135517917695289,
+    "Longitude": -115.09028440626055
   }
 ]
