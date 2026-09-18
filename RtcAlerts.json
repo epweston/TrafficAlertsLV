@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56951,
-    "Timestamp": "2026-09-17 09:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:01 AM, Sep 17 2026 Crash on WB Charleston Blvd\u00A0before Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783926/attachment_0.jpg",
-    "Latitude": 36.158758200000001,
-    "Longitude": -115.10104
-  },
-  {
-    "UniqueId": 56952,
-    "Timestamp": "2026-09-17 09:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:04 AM, Sep 17 2026 Crash on NB Rainbow Blvd\u00A0before Lone Mountain Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783935/attachment_0.jpg",
-    "Latitude": 36.247911100000003,
-    "Longitude": -115.2421914
-  },
-  {
     "UniqueId": 56953,
     "Timestamp": "2026-09-17 09:30",
     "IncidentType": "Crash",
@@ -1300,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785411/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 57044,
+    "Timestamp": "2026-09-18 09:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:18 AM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785471/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
