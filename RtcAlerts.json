@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56983,
-    "Timestamp": "2026-09-17 16:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:41 PM, Sep 17 2026 Stalled vehicle on NB I-15\u00A0at 215 Northern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784765/attachment_0.png",
-    "Latitude": 36.174083889581247,
-    "Longitude": -115.15534412685216
-  },
-  {
     "UniqueId": 56984,
     "Timestamp": "2026-09-17 16:46",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786112/attachment_0.jpg",
     "Latitude": 36.070945500000001,
     "Longitude": -115.0824621
+  },
+  {
+    "UniqueId": 57093,
+    "Timestamp": "2026-09-18 16:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:40 PM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786144/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
   }
 ]
