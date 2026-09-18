@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 56956,
-    "Timestamp": "2026-09-17 10:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Wilbur St",
-    "Impact": "",
-    "Notes": "10:12 AM, Sep 17 2026 Crash on EB Tropicana Ave\u00A0at Wilbur St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784109/attachment_0.png",
-    "Latitude": 36.100957899999997,
-    "Longitude": -115.14142750000001
-  },
-  {
-    "UniqueId": 56957,
-    "Timestamp": "2026-09-17 10:12",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:12 AM, Sep 17 2026 Crash on WB Charleston Blvd\u00A0before Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784089/attachment_0.jpg",
-    "Latitude": 36.159173199999998,
-    "Longitude": -115.24359750000001
-  },
-  {
-    "UniqueId": 56958,
-    "Timestamp": "2026-09-17 10:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:20 AM, Sep 17 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784149/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 56959,
     "Timestamp": "2026-09-17 10:28",
     "IncidentType": "Crash",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785566/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 57048,
+    "Timestamp": "2026-09-18 10:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:20 AM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0before Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785617/attachment_0.png",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
   }
 ]
