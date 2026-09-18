@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56959,
-    "Timestamp": "2026-09-17 10:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:28 AM, Sep 17 2026 Crash on SB Airport Connector\u00A0to 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784255/attachment_0.png",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
     "UniqueId": 56960,
     "Timestamp": "2026-09-17 10:47",
     "IncidentType": "Crash",
@@ -1286,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785607/attachment_0.png",
     "Latitude": 36.245231500000003,
     "Longitude": -115.26036480000001
+  },
+  {
+    "UniqueId": 57051,
+    "Timestamp": "2026-09-18 10:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:37 AM, Sep 18 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785640/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
+  },
+  {
+    "UniqueId": 57052,
+    "Timestamp": "2026-09-18 10:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:38 AM, Sep 18 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785642/attachment_0.jpg",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
