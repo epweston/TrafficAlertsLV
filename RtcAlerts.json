@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56924,
-    "Timestamp": "2026-09-17 04:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:51 AM, Sep 17 2026 Stalled vehicle on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783484/attachment_0.jpg",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 56925,
-    "Timestamp": "2026-09-17 04:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:55 AM, Sep 17 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783459/attachment_0.jpg",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 56926,
     "Timestamp": "2026-09-17 05:00",
     "IncidentType": "Abandoned vehicle",
@@ -1384,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784999/attachment_0.png",
     "Latitude": 36.502189514814987,
     "Longitude": -114.76155817508699
+  },
+  {
+    "UniqueId": 57023,
+    "Timestamp": "2026-09-18 04:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:50 AM, Sep 18 2026 Crash on NB I-15\u00A0before Saint Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784994/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 57024,
+    "Timestamp": "2026-09-18 04:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:53 AM, Sep 18 2026 Crash on NB I-15\u00A0at Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785017/attachment_0.png",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
   }
 ]
