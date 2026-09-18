@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56905,
-    "Timestamp": "2026-09-16 18:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:35 PM, Sep 16 2026 Crash on SB Eastern Ave\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783301/attachment_0.jpg",
-    "Latitude": 36.114684821466277,
-    "Longitude": -115.11920389996433
-  },
-  {
-    "UniqueId": 56907,
-    "Timestamp": "2026-09-16 18:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "",
-    "Notes": "6:53 PM, Sep 16 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Durango Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783323/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 56908,
     "Timestamp": "2026-09-16 19:18",
     "IncidentType": "Crash",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784857/attachment_0.png",
     "Latitude": 36.107976135121646,
     "Longitude": -115.15202879905702
+  },
+  {
+    "UniqueId": 57001,
+    "Timestamp": "2026-09-17 18:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "13Th St",
+    "Relationship": "at",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:57 PM, Sep 17 2026 Crash on SB 13th St\u00A0at Stewart Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784859/attachment_0.png",
+    "Latitude": 36.167660300000001,
+    "Longitude": -115.1300196
+  },
+  {
+    "UniqueId": 57002,
+    "Timestamp": "2026-09-17 18:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "6:57 PM, Sep 17 2026 Crash on WB Sahara Ave\u00A0before Maryland Pkwy. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784860/attachment_0.png",
+    "Latitude": 36.144340100000001,
+    "Longitude": -115.1371013
   }
 ]
