@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56926,
-    "Timestamp": "2026-09-17 05:00",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Way",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:00 AM, Sep 17 2026 Abandoned vehicle on EB Roy Horn Way\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783494/attachment_0.png",
-    "Latitude": 36.065249000000001,
-    "Longitude": -115.27947949999999
-  },
-  {
-    "UniqueId": 56927,
-    "Timestamp": "2026-09-17 05:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:08 AM, Sep 17 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783514/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
     "UniqueId": 56928,
     "Timestamp": "2026-09-17 05:41",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785017/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 57025,
+    "Timestamp": "2026-09-18 05:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cedar Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:27 AM, Sep 18 2026 Crash on WB Cedar Ave\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785053/attachment_0.png",
+    "Latitude": 36.170193900000001,
+    "Longitude": -115.11608270000001
   }
 ]
