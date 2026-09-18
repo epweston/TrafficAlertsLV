@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56972,
-    "Timestamp": "2026-09-17 14:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:29 PM, Sep 17 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784697/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 56973,
     "Timestamp": "2026-09-17 14:44",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785962/attachment_0.jpg",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 57062,
+    "Timestamp": "2026-09-18 14:25",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:25 PM, Sep 18 2026 Crash on EB Flamingo Rd\u00A0at Valley View Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785990/attachment_0.png",
+    "Latitude": 36.115652300000001,
+    "Longitude": -115.1899418
+  },
+  {
+    "UniqueId": 57063,
+    "Timestamp": "2026-09-18 14:27",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:27 PM, Sep 18 2026 Crash on EB Tropicana Ave\u00A0before Paradise Rd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.101028027323217,
+    "Longitude": -115.14987222272508
   }
 ]
