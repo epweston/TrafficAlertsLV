@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56900,
-    "Timestamp": "2026-09-16 17:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:48 PM, Sep 16 2026 Crash on WB Harmon Ave\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783296/attachment_0.png",
-    "Latitude": 36.10813214101082,
-    "Longitude": -115.18071234226228
-  },
-  {
-    "UniqueId": 56901,
-    "Timestamp": "2026-09-16 17:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:52 PM, Sep 16 2026 Stalled vehicle on NB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783315/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 56902,
     "Timestamp": "2026-09-16 18:00",
     "IncidentType": "Crash",
@@ -1286,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784808/attachment_0.png",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 56995,
+    "Timestamp": "2026-09-17 17:39",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:39 PM, Sep 17 2026 Crash on WB Sunset Rd\u00A0before Fort Apache Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784810/attachment_0.png",
+    "Latitude": 36.070283500000002,
+    "Longitude": -115.2977282
+  },
+  {
+    "UniqueId": 56996,
+    "Timestamp": "2026-09-17 17:50",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Bruce St",
+    "Impact": "",
+    "Notes": "5:50 PM, Sep 17 2026 Crash on EB Charleston Blvd\u00A0after Bruce St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784811/attachment_0.jpg",
+    "Latitude": 36.158894099999998,
+    "Longitude": -115.1250332
   }
 ]
