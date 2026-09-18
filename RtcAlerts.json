@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56922,
-    "Timestamp": "2026-09-17 03:43",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Elkhorn Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:43 AM, Sep 17 2026 Abandoned vehicle on EB Elkhorn Rd\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783423/attachment_0.png",
-    "Latitude": 36.292112099999997,
-    "Longitude": -115.317025
-  },
-  {
     "UniqueId": 56923,
     "Timestamp": "2026-09-17 04:37",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784938/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 57021,
+    "Timestamp": "2026-09-18 04:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Valley Of Fire Hwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:00 AM, Sep 18 2026 Crash on SB I-15\u00A0at Valley of Fire Hwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784976/attachment_0.png",
+    "Latitude": 36.502189514814987,
+    "Longitude": -114.76155817508699
   }
 ]
