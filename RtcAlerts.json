@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 56913,
-    "Timestamp": "2026-09-16 21:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:22 PM, Sep 16 2026 Crash on WB Craig Rd\u00A0before Losee Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783344/attachment_0.png",
-    "Latitude": 36.239773575501886,
-    "Longitude": -115.11682743770037
-  },
-  {
-    "UniqueId": 56914,
-    "Timestamp": "2026-09-16 21:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "9:24 PM, Sep 16 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/16/file_attachments/3783345/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 56915,
     "Timestamp": "2026-09-16 21:33",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784881/attachment_0.png",
     "Latitude": 36.240517099999998,
     "Longitude": -115.05455809999999
+  },
+  {
+    "UniqueId": 57011,
+    "Timestamp": "2026-09-17 21:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:28 PM, Sep 17 2026 Crash on NB Nellis Blvd\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784882/attachment_0.png",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
   }
 ]
