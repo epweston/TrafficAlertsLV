@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56923,
-    "Timestamp": "2026-09-17 04:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:37 AM, Sep 17 2026 Stalled vehicle on WB Lake Mead Blvd\u00A0at Nellis Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3783455/attachment_0.png",
-    "Latitude": 36.196300700000002,
-    "Longitude": -115.06222940000001
-  },
-  {
     "UniqueId": 56924,
     "Timestamp": "2026-09-17 04:51",
     "IncidentType": "Stalled vehicle",
@@ -1382,6 +1368,20 @@
     "Impact": "Left lane blocked.",
     "Notes": "4:00 AM, Sep 18 2026 Crash on SB I-15\u00A0at Valley of Fire Hwy. Left lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784976/attachment_0.png",
+    "Latitude": 36.502189514814987,
+    "Longitude": -114.76155817508699
+  },
+  {
+    "UniqueId": 57022,
+    "Timestamp": "2026-09-18 04:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Valley Of Fire Hwy",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "4:37 AM, Sep 18 2026 Crash on SB I-15\u00A0at Valley of Fire Hwy. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3784999/attachment_0.png",
     "Latitude": 36.502189514814987,
     "Longitude": -114.76155817508699
   }
