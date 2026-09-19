@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57092,
-    "Timestamp": "2026-09-18 16:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:33 PM, Sep 18 2026 Crash on EB Sunset Rd\u00A0before Green Valley Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786112/attachment_0.jpg",
-    "Latitude": 36.070945500000001,
-    "Longitude": -115.0824621
-  },
-  {
     "UniqueId": 57093,
     "Timestamp": "2026-09-18 16:40",
     "IncidentType": "Stalled vehicle",
@@ -1790,5 +1776,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786558/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 57225,
+    "Timestamp": "2026-09-19 16:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Cameron St",
+    "Relationship": "before",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:33 PM, Sep 19 2026 Crash on SB Cameron St\u00A0before Harmon Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786560/attachment_0.jpg",
+    "Latitude": 36.108178700000003,
+    "Longitude": -115.20400480000001
+  },
+  {
+    "UniqueId": 57226,
+    "Timestamp": "2026-09-19 16:34",
+    "IncidentType": "Hazard",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "All ramp lanes are blocked.",
+    "Notes": "4:34 PM, Sep 19 2026 Hazard on NB I-11\u00A0at Sunset Rd on-ramp. All ramp lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786562/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
