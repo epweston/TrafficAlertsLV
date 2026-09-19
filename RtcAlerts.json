@@ -1692,5 +1692,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786219/attachment_0.png",
     "Latitude": 36.175254133971912,
     "Longitude": -115.17418362739356
+  },
+  {
+    "UniqueId": 57127,
+    "Timestamp": "2026-09-18 18:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sloan",
+    "Impact": "Right shoulder",
+    "Notes": "6:33 PM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0after Sloan . Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786213/attachment_0.png",
+    "Latitude": 35.930465342305197,
+    "Longitude": -115.19313097000124
+  },
+  {
+    "UniqueId": 57128,
+    "Timestamp": "2026-09-18 18:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pioneer Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:34 PM, Sep 18 2026 Crash on NB Pioneer Blvd\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786221/attachment_0.png",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 57129,
+    "Timestamp": "2026-09-18 18:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:35 PM, Sep 18 2026 Crash on SB Las Vegas Blvd\u00A0before Nellis Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786215/attachment_0.jpg",
+    "Latitude": 36.235863999999999,
+    "Longitude": -115.0622212
   }
 ]
