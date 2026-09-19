@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57045,
-    "Timestamp": "2026-09-18 09:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "9:45 AM, Sep 18 2026 Crash on NB I-15\u00A0at Silverado Ranch Blvd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785539/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 57046,
-    "Timestamp": "2026-09-18 09:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:47 AM, Sep 18 2026 Crash on NB Decatur Blvd\u00A0at Sahara Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785556/attachment_0.jpg",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
     "UniqueId": 57047,
     "Timestamp": "2026-09-18 10:07",
     "IncidentType": "Stalled vehicle",
@@ -1916,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786392/attachment_0.jpg",
     "Latitude": 36.173965099999997,
     "Longitude": -115.2871483
+  },
+  {
+    "UniqueId": 57187,
+    "Timestamp": "2026-09-19 09:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:51 AM, Sep 19 2026 Crash on EB Summerlin Pkwy\u00A0after Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786394/attachment_0.jpg",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
