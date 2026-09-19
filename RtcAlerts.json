@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57015,
-    "Timestamp": "2026-09-17 22:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:31 PM, Sep 17 2026 Stalled vehicle on SB I-11\u00A0before College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784888/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 57016,
-    "Timestamp": "2026-09-17 22:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:34 PM, Sep 17 2026 Crash on NB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784889/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 57017,
     "Timestamp": "2026-09-17 22:37",
     "IncidentType": "Stalled vehicle",
@@ -1860,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786266/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 57153,
+    "Timestamp": "2026-09-18 22:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane partially blocked.",
+    "Notes": "10:32 PM, Sep 18 2026 Crash on WB Cheyenne Ave\u00A0after Rainbow Blvd. Right lane partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786280/attachment_0.png",
+    "Latitude": 36.21818917814025,
+    "Longitude": -115.24231732625714
   }
 ]
