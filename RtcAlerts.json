@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 57084,
-    "Timestamp": "2026-09-18 16:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:13 PM, Sep 18 2026 Crash on NB Eastern Ave\u00A0before St Rose Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786104/attachment_0.jpg",
-    "Latitude": 36.007212199999998,
-    "Longitude": -115.11429010000001
-  },
-  {
-    "UniqueId": 57085,
-    "Timestamp": "2026-09-18 16:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "4:16 PM, Sep 18 2026 Stalled vehicle on SB I-11\u00A0before Charleston Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786131/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 57086,
-    "Timestamp": "2026-09-18 16:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:16 PM, Sep 18 2026 Stalled vehicle on NB I-11\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786106/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 57087,
-    "Timestamp": "2026-09-18 16:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder",
-    "Notes": "4:17 PM, Sep 18 2026 Stalled vehicle on NB I-15\u00A0at Mile 21. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786134/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 57088,
-    "Timestamp": "2026-09-18 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder",
-    "Notes": "4:19 PM, Sep 18 2026 Stalled vehicle on SB I-11\u00A0before Lake Mead Blvd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786107/attachment_0.jpg",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 57089,
     "Timestamp": "2026-09-18 16:22",
     "IncidentType": "Crash",
@@ -1846,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786539/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 57221,
+    "Timestamp": "2026-09-19 16:14",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "John Herbert Dr",
+    "Impact": "Left lane is open.",
+    "Notes": "4:14 PM, Sep 19 2026 Update Crash on EB Centennial Pkwy\u00A0at John Herbert Dr. Left lane is open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786534/attachment_0.jpg",
+    "Latitude": 36.278141499999997,
+    "Longitude": -115.2608053
   }
 ]
