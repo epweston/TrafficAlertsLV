@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57014,
-    "Timestamp": "2026-09-17 22:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:20 PM, Sep 17 2026 Crash on NB Frank Sinatra Dr\u00A0at Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784896/attachment_0.jpg",
-    "Latitude": 36.119762899999998,
-    "Longitude": -115.179997
-  },
-  {
     "UniqueId": 57015,
     "Timestamp": "2026-09-17 22:31",
     "IncidentType": "Stalled vehicle",
@@ -1860,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786263/attachment_0.jpg",
     "Latitude": 36.133605299999999,
     "Longitude": -115.2082017
+  },
+  {
+    "UniqueId": 57152,
+    "Timestamp": "2026-09-18 22:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "10:19 PM, Sep 18 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786266/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
