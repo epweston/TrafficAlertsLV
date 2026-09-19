@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57064,
-    "Timestamp": "2026-09-18 14:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:46 PM, Sep 18 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786000/attachment_0.jpg",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 57065,
-    "Timestamp": "2026-09-18 14:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "2:46 PM, Sep 18 2026 Crash on SB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786017/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 57066,
-    "Timestamp": "2026-09-18 14:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder",
-    "Notes": "2:50 PM, Sep 18 2026 Stalled vehicle on NB I-15\u00A0after Craig Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786027/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 57067,
     "Timestamp": "2026-09-18 14:53",
     "IncidentType": "Crash",
@@ -2056,5 +2014,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786510/attachment_0.jpg",
     "Latitude": 36.502189514814987,
     "Longitude": -114.76155817508699
+  },
+  {
+    "UniqueId": 57216,
+    "Timestamp": "2026-09-19 14:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Sky Pointe Dr",
+    "Impact": "All lanes are blocked.",
+    "Notes": "2:44 PM, Sep 19 2026 Crash on EB Centennial Pkwy\u00A0at Sky Pointe Dr. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786490/attachment_0.jpg",
+    "Latitude": 36.278141499999997,
+    "Longitude": -115.2608053
+  },
+  {
+    "UniqueId": 57217,
+    "Timestamp": "2026-09-19 14:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "John Herbert Dr",
+    "Impact": "All lanes are blocked.",
+    "Notes": "2:45 PM, Sep 19 2026 Crash on EB Centennial Pkwy\u00A0at John Herbert Dr. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.278141499999997,
+    "Longitude": -115.2608053
   }
 ]
