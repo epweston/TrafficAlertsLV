@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57027,
-    "Timestamp": "2026-09-18 05:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Wy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:47 AM, Sep 18 2026 Crash on EB Roy Horn Wy\u00A0at Durango Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785059/attachment_0.png",
-    "Latitude": 36.065249000000001,
-    "Longitude": -115.27947949999999
-  },
-  {
-    "UniqueId": 57028,
-    "Timestamp": "2026-09-18 06:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:02 AM, Sep 18 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785069/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 57029,
     "Timestamp": "2026-09-18 06:23",
     "IncidentType": "Stalled vehicle",
@@ -2014,5 +1986,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786359/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 57176,
+    "Timestamp": "2026-09-19 06:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:01 AM, Sep 19 2026 Crash on NB Buffalo Dr\u00A0at Blue Diamond Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786350/attachment_0.png",
+    "Latitude": 36.020207000000013,
+    "Longitude": -115.2610983
+  },
+  {
+    "UniqueId": 57177,
+    "Timestamp": "2026-09-19 06:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:03 AM, Sep 19 2026 Crash on EB Craig Rd\u00A0at I-15. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786352/attachment_0.png",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
   }
 ]
