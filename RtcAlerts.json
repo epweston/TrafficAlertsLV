@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56996,
-    "Timestamp": "2026-09-17 17:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bruce St",
-    "Impact": "",
-    "Notes": "5:50 PM, Sep 17 2026 Crash on EB Charleston Blvd\u00A0after Bruce St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784811/attachment_0.jpg",
-    "Latitude": 36.158894099999998,
-    "Longitude": -115.1250332
-  },
-  {
     "UniqueId": 56997,
     "Timestamp": "2026-09-17 18:03",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786197/attachment_0.png",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 57115,
+    "Timestamp": "2026-09-18 17:55",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:55 PM, Sep 18 2026 Crash on EB Summerlin Pkwy\u00A0at I-11. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786189/attachment_0.png",
+    "Latitude": 36.176691302008486,
+    "Longitude": -115.24369620296332
   }
 ]
