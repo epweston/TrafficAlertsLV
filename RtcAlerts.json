@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57059,
-    "Timestamp": "2026-09-18 11:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Santa Barbara St",
-    "Impact": "",
-    "Notes": "11:56 AM, Sep 18 2026 Stalled vehicle on WB Tropicana Ave\u00A0at Santa Barbara St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785792/attachment_0.png",
-    "Latitude": 36.100335200000004,
-    "Longitude": -115.0852199
-  },
-  {
     "UniqueId": 57060,
     "Timestamp": "2026-09-18 14:17",
     "IncidentType": "Crash",
@@ -1832,5 +1818,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786462/attachment_0.png",
     "Latitude": 36.1589229,
     "Longitude": -115.1189426
+  },
+  {
+    "UniqueId": 57195,
+    "Timestamp": "2026-09-19 12:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:01 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786444/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 57196,
+    "Timestamp": "2026-09-19 12:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:03 PM, Sep 19 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786464/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
