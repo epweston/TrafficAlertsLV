@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 56991,
-    "Timestamp": "2026-09-17 17:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:12 PM, Sep 17 2026 Crash on SB I-11\u00A0after Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784804/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 56992,
     "Timestamp": "2026-09-17 17:25",
     "IncidentType": "Crash",
@@ -1566,5 +1552,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786154/attachment_0.png",
     "Latitude": 36.143662482122316,
     "Longitude": -115.1573931887723
+  },
+  {
+    "UniqueId": 57105,
+    "Timestamp": "2026-09-18 17:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:14 PM, Sep 18 2026 Crash on NB I-15\u00A0at Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786179/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 57106,
+    "Timestamp": "2026-09-18 17:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:19 PM, Sep 18 2026 Crash on SB I-11\u00A0after Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786180/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 57107,
+    "Timestamp": "2026-09-18 17:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sb I-15",
+    "Impact": "",
+    "Notes": "5:19 PM, Sep 18 2026 Crash on EB Spring Mountain Rd\u00A0at SB I-15 ramp Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786170/attachment_0.jpg",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
   }
 ]
