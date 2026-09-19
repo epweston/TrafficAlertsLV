@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57044,
-    "Timestamp": "2026-09-18 09:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:18 AM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785471/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 57045,
     "Timestamp": "2026-09-18 09:45",
     "IncidentType": "Crash",
@@ -1916,5 +1902,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786390/attachment_0.jpg",
     "Latitude": 36.195762199999997,
     "Longitude": -115.08919690000001
+  },
+  {
+    "UniqueId": 57186,
+    "Timestamp": "2026-09-19 09:20",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Canyon Run Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:20 AM, Sep 19 2026 Crash on NB Rampart Blvd\u00A0before Canyon Run Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786392/attachment_0.jpg",
+    "Latitude": 36.173965099999997,
+    "Longitude": -115.2871483
   }
 ]
