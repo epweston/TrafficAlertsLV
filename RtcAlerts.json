@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57006,
-    "Timestamp": "2026-09-17 20:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:08 PM, Sep 17 2026 Stalled vehicle on NB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784878/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
     "UniqueId": 57007,
     "Timestamp": "2026-09-17 20:45",
     "IncidentType": "Stalled vehicle",
@@ -1818,5 +1804,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786249/attachment_0.png",
     "Latitude": 36.176691302008486,
     "Longitude": -115.24369620296332
+  },
+  {
+    "UniqueId": 57141,
+    "Timestamp": "2026-09-18 20:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:25 PM, Sep 18 2026 Crash on NB I-11\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786232/attachment_0.jpg",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
