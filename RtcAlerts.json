@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57001,
-    "Timestamp": "2026-09-17 18:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "13Th St",
-    "Relationship": "at",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:57 PM, Sep 17 2026 Crash on SB 13th St\u00A0at Stewart Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784859/attachment_0.png",
-    "Latitude": 36.167660300000001,
-    "Longitude": -115.1300196
-  },
-  {
-    "UniqueId": 57002,
-    "Timestamp": "2026-09-17 18:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "6:57 PM, Sep 17 2026 Crash on WB Sahara Ave\u00A0before Maryland Pkwy. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/17/file_attachments/3784860/attachment_0.png",
-    "Latitude": 36.144340100000001,
-    "Longitude": -115.1371013
-  },
-  {
     "UniqueId": 57003,
     "Timestamp": "2026-09-17 19:25",
     "IncidentType": "Crash",
@@ -1818,5 +1790,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786227/attachment_0.jpg",
     "Latitude": 36.1149293,
     "Longitude": -115.0628023
+  },
+  {
+    "UniqueId": 57136,
+    "Timestamp": "2026-09-18 19:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder",
+    "Notes": "7:17 PM, Sep 18 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786228/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 57137,
+    "Timestamp": "2026-09-18 19:18",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "All lanes are open again.",
+    "Notes": "7:18 PM, Sep 18 2026 Update Crash on EB Sunset Rd\u00A0before Green Valley Pkwy. All lanes are open again.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786244/attachment_0.jpg",
+    "Latitude": 36.070945500000001,
+    "Longitude": -115.0824621
   }
 ]
