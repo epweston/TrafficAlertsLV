@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57056,
-    "Timestamp": "2026-09-18 11:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:07 AM, Sep 18 2026 Stalled vehicle on WB Sunset Rd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785722/attachment_0.png",
-    "Latitude": 36.070325995097008,
-    "Longitude": -115.28861636686682
-  },
-  {
-    "UniqueId": 57057,
-    "Timestamp": "2026-09-18 11:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:15 AM, Sep 18 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785738/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 57058,
     "Timestamp": "2026-09-18 11:28",
     "IncidentType": "Crash",
@@ -1846,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786436/attachment_0.png",
     "Latitude": 36.144507300000001,
     "Longitude": -115.29779379999999
+  },
+  {
+    "UniqueId": 57193,
+    "Timestamp": "2026-09-19 11:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:14 AM, Sep 19 2026 Crash on NB 215 Western Beltway\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786457/attachment_0.png",
+    "Latitude": 36.115066053957577,
+    "Longitude": -115.30244890820951
   }
 ]
