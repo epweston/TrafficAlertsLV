@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57048,
-    "Timestamp": "2026-09-18 10:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:20 AM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0before Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785617/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
-    "UniqueId": 57049,
-    "Timestamp": "2026-09-18 10:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "10:22 AM, Sep 18 2026 Crash on WB Sahara Ave\u00A0after Boulder Hwy. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785623/attachment_0.png",
-    "Latitude": 36.145842600000002,
-    "Longitude": -115.10139150000001
-  },
-  {
-    "UniqueId": 57050,
-    "Timestamp": "2026-09-18 10:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:25 AM, Sep 18 2026 Crash on NB Buffalo Dr\u00A0before 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3785607/attachment_0.png",
-    "Latitude": 36.245231500000003,
-    "Longitude": -115.26036480000001
-  },
-  {
     "UniqueId": 57051,
     "Timestamp": "2026-09-18 10:37",
     "IncidentType": "Stalled vehicle",
@@ -1902,5 +1860,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786406/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 57189,
+    "Timestamp": "2026-09-19 10:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:24 AM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786412/attachment_0.jpg",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 57190,
+    "Timestamp": "2026-09-19 10:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:27 AM, Sep 19 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Charleston Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786429/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
   }
 ]
