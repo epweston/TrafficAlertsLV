@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57111,
-    "Timestamp": "2026-09-18 17:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "All eastbound lanes are blocked after Annie Oakley Dr",
-    "Notes": "5:40 PM, Sep 18 2026 Crash on EB Sunset Rd\u00A0before Green Valley Pkwy. All eastbound lanes are blocked after Annie Oakley Dr",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786184/attachment_0.png",
-    "Latitude": 36.070945500000001,
-    "Longitude": -115.0824621
-  },
-  {
     "UniqueId": 57112,
     "Timestamp": "2026-09-18 17:45",
     "IncidentType": "Crash",
@@ -1706,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786553/attachment_0.png",
     "Latitude": 36.086073599999999,
     "Longitude": -115.1757181
+  },
+  {
+    "UniqueId": 57236,
+    "Timestamp": "2026-09-19 17:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder",
+    "Notes": "5:35 PM, Sep 19 2026 Stalled vehicle on NB I-15\u00A0before Flamingo Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786569/attachment_0.jpg",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 57237,
+    "Timestamp": "2026-09-19 17:40",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:40 PM, Sep 19 2026 Crash on WB Craig Rd\u00A0at Losee Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786554/attachment_0.jpg",
+    "Latitude": 36.239773575501886,
+    "Longitude": -115.11682743770037
   }
 ]
