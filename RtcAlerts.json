@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57121,
-    "Timestamp": "2026-09-18 18:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Gibson Rd",
-    "Relationship": "after",
-    "CrossStreet": "Kelso Dunes Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:16 PM, Sep 18 2026 Crash on SB Gibson Rd\u00A0after Kelso Dunes Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786216/attachment_0.jpg",
-    "Latitude": 36.052757799999988,
-    "Longitude": -115.0287706
-  },
-  {
-    "UniqueId": 57122,
-    "Timestamp": "2026-09-18 18:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:19 PM, Sep 18 2026 Crash on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786218/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 57123,
-    "Timestamp": "2026-09-18 18:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Mel Torme Way",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:23 PM, Sep 18 2026 Crash on NB Mel Torme Way\u00A0after Spring Mountain Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786207/attachment_0.jpg",
-    "Latitude": 36.125662800000001,
-    "Longitude": -115.1732894
-  },
-  {
     "UniqueId": 57124,
     "Timestamp": "2026-09-18 18:28",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786572/attachment_0.jpg",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 57243,
+    "Timestamp": "2026-09-19 18:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:19 PM, Sep 19 2026 Crash on EB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786573/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 57244,
+    "Timestamp": "2026-09-19 18:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd North",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:21 PM, Sep 19 2026 Crash on NB Las Vegas Blvd North\u00A0before Washington Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786582/attachment_0.png",
+    "Latitude": 36.181269899999997,
+    "Longitude": -115.1342183
   }
 ]
