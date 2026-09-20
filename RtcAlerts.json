@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57138,
-    "Timestamp": "2026-09-18 19:26",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "",
-    "Notes": "7:26 PM, Sep 18 2026 Crash on EB Lake Mead Blvd after I-15, Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786246/attachment_0.jpg",
-    "Latitude": 36.195751199999997,
-    "Longitude": -115.1382376
-  },
-  {
-    "UniqueId": 57139,
-    "Timestamp": "2026-09-18 19:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:29 PM, Sep 18 2026 Crash on SB I-11\u00A0to Eastern Ave off-ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786230/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 57140,
-    "Timestamp": "2026-09-18 19:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Left shoulder",
-    "Notes": "7:47 PM, Sep 18 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0after I-11. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786249/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
     "UniqueId": 57141,
     "Timestamp": "2026-09-18 20:25",
     "IncidentType": "Crash",
@@ -1636,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786607/attachment_0.jpg",
     "Latitude": 36.262582999999999,
     "Longitude": -115.315054
+  },
+  {
+    "UniqueId": 57255,
+    "Timestamp": "2026-09-19 19:53",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:53 PM, Sep 19 2026 Crash on WB Warm Springs Rd\u00A0at Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786609/attachment_0.png",
+    "Latitude": 36.057119499999999,
+    "Longitude": -115.1002486
   }
 ]
