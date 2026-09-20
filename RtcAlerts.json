@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57170,
-    "Timestamp": "2026-09-19 03:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:59 AM, Sep 19 2026 Crash on EB 215 Southern Beltway\u00A0at Durango Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786306/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
     "UniqueId": 57171,
     "Timestamp": "2026-09-19 04:16",
     "IncidentType": "Crash",
@@ -1776,5 +1762,19 @@
     "ImagePath": "",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 57297,
+    "Timestamp": "2026-09-20 04:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:03 AM, Sep 20 2026 Crash on SB I-11\u00A0before Boulder Hwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786710/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
