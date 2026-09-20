@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57171,
-    "Timestamp": "2026-09-19 04:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:16 AM, Sep 19 2026 Crash on SB I-11\u00A0before Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786307/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 57172,
     "Timestamp": "2026-09-19 04:34",
     "IncidentType": "Vehicle on fire",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786710/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 57298,
+    "Timestamp": "2026-09-20 04:20",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:20 AM, Sep 20 2026 Crash on NB I-15\u00A0at Craig Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786711/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
