@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57156,
-    "Timestamp": "2026-09-18 23:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Ramp lane blocked.",
-    "Notes": "11:43 PM, Sep 18 2026 Crash on NB I-11\u00A0at Las Vegas Blvd on-ramp. Ramp lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786271/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 57157,
-    "Timestamp": "2026-09-18 23:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:50 PM, Sep 18 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786273/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 57158,
-    "Timestamp": "2026-09-18 23:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder.",
-    "Notes": "11:53 PM, Sep 18 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln off-ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786274/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 57159,
     "Timestamp": "2026-09-19 00:02",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786675/attachment_0.jpg",
     "Latitude": 36.1006675,
     "Longitude": -115.17802159999999
+  },
+  {
+    "UniqueId": 57272,
+    "Timestamp": "2026-09-19 23:52",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:52 PM, Sep 19 2026 Police activity on SB University Center Dr\u00A0after Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786654/attachment_0.png",
+    "Latitude": 36.114769000000003,
+    "Longitude": -115.1463734
   }
 ]
