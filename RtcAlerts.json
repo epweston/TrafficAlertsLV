@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57130,
-    "Timestamp": "2026-09-18 18:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:42 PM, Sep 18 2026 Crash on NB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786223/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 57131,
-    "Timestamp": "2026-09-18 18:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Right shoulder",
-    "Notes": "6:42 PM, Sep 18 2026 Stalled vehicle on SB I-11\u00A0before S Rancho Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786237/attachment_0.jpg",
-    "Latitude": 36.175254133971912,
-    "Longitude": -115.17418362739356
-  },
-  {
-    "UniqueId": 57132,
-    "Timestamp": "2026-09-18 18:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:43 PM, Sep 18 2026 Crash on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786225/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 57133,
     "Timestamp": "2026-09-18 18:48",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786588/attachment_0.png",
     "Latitude": 36.115209200000002,
     "Longitude": -115.1008898
+  },
+  {
+    "UniqueId": 57249,
+    "Timestamp": "2026-09-19 18:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:42 PM, Sep 19 2026 Crash on NB I-11\u00A0before Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786589/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 57250,
+    "Timestamp": "2026-09-19 18:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:44 PM, Sep 19 2026 Crash on NB I-11\u00A0at Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786598/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
