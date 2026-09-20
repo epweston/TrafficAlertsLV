@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57159,
-    "Timestamp": "2026-09-19 00:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder",
-    "Notes": "12:02 AM, Sep 19 2026 Stalled vehicle on NB I-15\u00A0after Tropicana Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786286/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 57160,
     "Timestamp": "2026-09-19 00:05",
     "IncidentType": "Stalled vehicle",
@@ -1606,6 +1592,20 @@
     "Impact": "",
     "Notes": "11:53 PM, Sep 19 2026 Crash on EB Flamingo Rd\u00A0at Palos Verdes St. Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786677/attachment_0.png",
+    "Latitude": 36.114831500000001,
+    "Longitude": -115.150556
+  },
+  {
+    "UniqueId": 57274,
+    "Timestamp": "2026-09-19 23:59",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Palos Verdes St All Eastbound Lanes Are",
+    "Impact": "Expect delays",
+    "Notes": "11:59 PM, Sep 19 2026 Update Crash on EB Flamingo Rd\u00A0at Palos Verdes St. All eastbound lanes are blocked for debris clean up. Expect delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786679/attachment_0.jpg",
     "Latitude": 36.114831500000001,
     "Longitude": -115.150556
   }
