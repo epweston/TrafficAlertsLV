@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57172,
-    "Timestamp": "2026-09-19 04:34",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:34 AM, Sep 19 2026 Vehicle on fire on SB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786309/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
-    "UniqueId": 57173,
-    "Timestamp": "2026-09-19 04:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:35 AM, Sep 19 2026 Crash on WB Tropicana Ave\u00A0at University Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786322/attachment_0.png",
-    "Latitude": 36.100972160686119,
-    "Longitude": -115.14593481598045
-  },
-  {
     "UniqueId": 57174,
     "Timestamp": "2026-09-19 04:58",
     "IncidentType": "Abandoned vehicle",
@@ -1818,5 +1790,19 @@
     "ImagePath": "",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 57302,
+    "Timestamp": "2026-09-20 04:35",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "4:35 AM, Sep 20 2026 Crash on EB Flamingo Rd\u00A0at Jones Blvd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786700/attachment_0.png",
+    "Latitude": 36.114511499999999,
+    "Longitude": -115.2248991
   }
 ]
