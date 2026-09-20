@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57167,
-    "Timestamp": "2026-09-19 03:00",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:00 AM, Sep 19 2026 Police activity on SB I-15 \u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786316/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 57168,
     "Timestamp": "2026-09-19 03:20",
     "IncidentType": "Crash",
@@ -1734,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786668/attachment_0.png",
     "Latitude": 36.100972160686119,
     "Longitude": -115.14593481598045
+  },
+  {
+    "UniqueId": 57291,
+    "Timestamp": "2026-09-20 02:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:59 AM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
