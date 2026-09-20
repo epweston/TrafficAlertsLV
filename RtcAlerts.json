@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57191,
-    "Timestamp": "2026-09-19 10:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:43 AM, Sep 19 2026 Crash on EB Charleston Blvd\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786434/attachment_0.png",
-    "Latitude": 36.158996094562028,
-    "Longitude": -115.16085736012774
-  },
-  {
     "UniqueId": 57192,
     "Timestamp": "2026-09-19 10:51",
     "IncidentType": "Crash",
@@ -1986,5 +1972,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786794/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 57333,
+    "Timestamp": "2026-09-20 10:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:44 AM, Sep 20 2026 Crash on SB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786841/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
