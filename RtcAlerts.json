@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57168,
-    "Timestamp": "2026-09-19 03:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:20 AM, Sep 19 2026 Crash on SB 215 Western Beltway\u00A0before Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786318/attachment_0.png",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
-    "UniqueId": 57169,
-    "Timestamp": "2026-09-19 03:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Churchill Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:30 AM, Sep 19 2026 Crash on SB Decatur Blvd\u00A0at Churchill Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786304/attachment_0.png",
-    "Latitude": 36.172243299999998,
-    "Longitude": -115.2060901
-  },
-  {
     "UniqueId": 57170,
     "Timestamp": "2026-09-19 03:59",
     "IncidentType": "Crash",
@@ -1748,5 +1720,19 @@
     "ImagePath": "",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 57293,
+    "Timestamp": "2026-09-20 03:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "3:31 AM, Sep 20 2026 Crash on EB Sahara Ave\u00A0at Jones Blvd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786696/attachment_0.jpg",
+    "Latitude": 36.14420827554261,
+    "Longitude": -115.22528530949943
   }
 ]
