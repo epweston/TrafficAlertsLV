@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57194,
-    "Timestamp": "2026-09-19 11:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "11:49 AM, Sep 19 2026 Crash on NB Eastern Ave\u00A0at Charleston Blvd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786462/attachment_0.png",
-    "Latitude": 36.1589229,
-    "Longitude": -115.1189426
-  },
-  {
     "UniqueId": 57195,
     "Timestamp": "2026-09-19 12:01",
     "IncidentType": "Stalled vehicle",
@@ -2000,5 +1986,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786803/attachment_0.png",
     "Latitude": 36.066602240000002,
     "Longitude": -115.24247282
+  },
+  {
+    "UniqueId": 57337,
+    "Timestamp": "2026-09-20 11:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:49 AM, Sep 20 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786852/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
