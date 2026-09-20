@@ -1748,5 +1748,33 @@
     "ImagePath": "",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 57295,
+    "Timestamp": "2026-09-20 03:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:53 AM, Sep 20 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 57296,
+    "Timestamp": "2026-09-20 03:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:54 AM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
