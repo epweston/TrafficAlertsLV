@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57176,
-    "Timestamp": "2026-09-19 06:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:01 AM, Sep 19 2026 Crash on NB Buffalo Dr\u00A0at Blue Diamond Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786350/attachment_0.png",
-    "Latitude": 36.020207000000013,
-    "Longitude": -115.2610983
-  },
-  {
-    "UniqueId": 57177,
-    "Timestamp": "2026-09-19 06:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:03 AM, Sep 19 2026 Crash on EB Craig Rd\u00A0at I-15. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786352/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
-    "UniqueId": 57178,
-    "Timestamp": "2026-09-19 06:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:08 AM, Sep 19 2026 Crash on NB 215 Western Beltway\u00A0before Lone Mountain Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786353/attachment_0.png",
-    "Latitude": 36.247864105361664,
-    "Longitude": -115.3179235052795
-  },
-  {
     "UniqueId": 57179,
     "Timestamp": "2026-09-19 06:47",
     "IncidentType": "Crash",
@@ -1930,5 +1888,19 @@
     "ImagePath": "",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 57314,
+    "Timestamp": "2026-09-20 06:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "6:18 AM, Sep 20 2026 Crash on EB Sahara Ave\u00A0at Jones Blvd. Left lane blocked Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.14420827554261,
+    "Longitude": -115.22528530949943
   }
 ]
