@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57100,
-    "Timestamp": "2026-09-18 17:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Offramp Off Ramp Completely blocked.",
-    "Notes": "5:04 PM, Sep 18 2026 Crash on NB I-11\u00A0at Rancho Dr. Offramp Off Ramp Completely blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786152/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 57101,
-    "Timestamp": "2026-09-18 17:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Horizon Dr",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:05 PM, Sep 18 2026 Crash on WB Horizon Dr\u00A0after Boulder Hwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786153/attachment_0.jpg",
-    "Latitude": 36.014086499999998,
-    "Longitude": -114.9536061
-  },
-  {
     "UniqueId": 57102,
     "Timestamp": "2026-09-18 17:09",
     "IncidentType": "Crash",
@@ -1720,5 +1692,47 @@
     "ImagePath": "",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 57228,
+    "Timestamp": "2026-09-19 17:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:03 PM, Sep 19 2026 Crash on NB 215 Western Beltway\u00A0before Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786543/attachment_0.png",
+    "Latitude": 36.191620159999999,
+    "Longitude": -115.34255690000001
+  },
+  {
+    "UniqueId": 57229,
+    "Timestamp": "2026-09-19 17:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:04 PM, Sep 19 2026 Crash on NB I-15\u00A0after Spring Mountain Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786545/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 57230,
+    "Timestamp": "2026-09-19 17:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:05 PM, Sep 19 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Green Valley Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786564/attachment_0.jpg",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
