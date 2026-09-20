@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57112,
-    "Timestamp": "2026-09-18 17:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "",
-    "Notes": "5:45 PM, Sep 18 2026 Crash on SB 215 Western Beltway\u00A0after Far Hills Ave Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786197/attachment_0.png",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
     "UniqueId": 57115,
     "Timestamp": "2026-09-18 17:55",
     "IncidentType": "Crash",
@@ -1720,5 +1706,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786554/attachment_0.jpg",
     "Latitude": 36.239773575501886,
     "Longitude": -115.11682743770037
+  },
+  {
+    "UniqueId": 57238,
+    "Timestamp": "2026-09-19 17:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Veterans Memorial Dr",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Way",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "5:43 PM, Sep 19 2026 Crash on SB Veterans Memorial Dr\u00A0at Bonanza Way. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786576/attachment_0.jpg",
+    "Latitude": 36.176602600000002,
+    "Longitude": -115.13984120000001
+  },
+  {
+    "UniqueId": 57239,
+    "Timestamp": "2026-09-19 17:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Veterans Memorial Dr",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Way",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "5:43 PM, Sep 19 2026 Crash on SB Veterans Memorial Dr\u00A0at Bonanza Way. Multiple lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.176602600000002,
+    "Longitude": -115.13984120000001
   }
 ]
