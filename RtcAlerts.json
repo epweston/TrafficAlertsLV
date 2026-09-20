@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57152,
-    "Timestamp": "2026-09-18 22:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "10:19 PM, Sep 18 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786266/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 57153,
-    "Timestamp": "2026-09-18 22:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane partially blocked.",
-    "Notes": "10:32 PM, Sep 18 2026 Crash on WB Cheyenne Ave\u00A0after Rainbow Blvd. Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786280/attachment_0.png",
-    "Latitude": 36.21818917814025,
-    "Longitude": -115.24231732625714
-  },
-  {
-    "UniqueId": 57154,
-    "Timestamp": "2026-09-18 22:55",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Palmyra Ave",
-    "Impact": "All lanes are open again.",
-    "Notes": "10:55 PM, Sep 18 2026 Update Crash on SB Decatur Blvd\u00A0at Palmyra Ave. All lanes are open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786282/attachment_0.jpg",
-    "Latitude": 36.133605299999999,
-    "Longitude": -115.2082017
-  },
-  {
-    "UniqueId": 57155,
-    "Timestamp": "2026-09-18 23:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "before",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:13 PM, Sep 18 2026 Crash on NB Frank Sinatra Dr\u00A0before Hacienda Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786269/attachment_0.png",
-    "Latitude": 36.093341600000002,
-    "Longitude": -115.0956735
-  },
-  {
     "UniqueId": 57156,
     "Timestamp": "2026-09-18 23:43",
     "IncidentType": "Crash",
@@ -1636,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786648/attachment_0.png",
     "Latitude": 36.177878199999988,
     "Longitude": -115.2239687
+  },
+  {
+    "UniqueId": 57269,
+    "Timestamp": "2026-09-19 23:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "11:34 PM, Sep 19 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786671/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
