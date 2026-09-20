@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57175,
-    "Timestamp": "2026-09-19 05:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:40 AM, Sep 19 2026 Crash on SB I-15\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786359/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 57176,
     "Timestamp": "2026-09-19 06:01",
     "IncidentType": "Crash",
@@ -1902,5 +1888,33 @@
     "ImagePath": "",
     "Latitude": 36.292554899999999,
     "Longitude": -115.1838125
+  },
+  {
+    "UniqueId": 57311,
+    "Timestamp": "2026-09-20 05:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rochelle Ave",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "5:37 AM, Sep 20 2026 Crash on NB Eastern Ave\u00A0after Rochelle Ave. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786725/attachment_0.jpg",
+    "Latitude": 36.110975158692483,
+    "Longitude": -115.11916632954413
+  },
+  {
+    "UniqueId": 57312,
+    "Timestamp": "2026-09-20 05:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:38 AM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
