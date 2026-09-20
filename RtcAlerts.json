@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57144,
-    "Timestamp": "2026-09-18 21:21",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder.",
-    "Notes": "9:21 PM, Sep 18 2026 Police activity on NB I-11\u00A0at Tropicana Ave off-ramp. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786253/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 57145,
     "Timestamp": "2026-09-18 21:26",
     "IncidentType": "Crash",
@@ -1692,5 +1678,19 @@
     "ImagePath": "",
     "Latitude": 36.176187900000002,
     "Longitude": -115.1402695
+  },
+  {
+    "UniqueId": 57265,
+    "Timestamp": "2026-09-19 21:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:16 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786628/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
   }
 ]
