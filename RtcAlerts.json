@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57166,
-    "Timestamp": "2026-09-19 02:46",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:46 AM, Sep 19 2026 Vehicle on fire on SB I-11\u00A0at College Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786294/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 57167,
     "Timestamp": "2026-09-19 03:00",
     "IncidentType": "Police activity",
@@ -1706,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786694/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 57288,
+    "Timestamp": "2026-09-20 02:48",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "after",
+    "CrossStreet": "6Th St",
+    "Impact": "",
+    "Notes": "2:48 AM, Sep 20 2026 Police activity on WB Fremont St\u00A0after 6th St. Center lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.168767699999997,
+    "Longitude": -115.1395344
+  },
+  {
+    "UniqueId": 57289,
+    "Timestamp": "2026-09-20 02:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:49 AM, Sep 20 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
   }
 ]
