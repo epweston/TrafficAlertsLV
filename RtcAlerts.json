@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57183,
-    "Timestamp": "2026-09-19 08:14",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:14 AM, Sep 19 2026 Police activity on WB Charleston Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786384/attachment_0.png",
-    "Latitude": 36.158822962125562,
-    "Longitude": -115.09162011384075
-  },
-  {
     "UniqueId": 57184,
     "Timestamp": "2026-09-19 09:07",
     "IncidentType": "Stalled vehicle",
@@ -1944,5 +1930,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786755/attachment_0.png",
     "Latitude": 36.158866499999988,
     "Longitude": -115.08010710000001
+  },
+  {
+    "UniqueId": 57322,
+    "Timestamp": "2026-09-20 08:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Mount Hood St",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:12 AM, Sep 20 2026 Crash on NB Mount Hood St\u00A0at Lake Mead Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786773/attachment_0.png",
+    "Latitude": 36.195920399999999,
+    "Longitude": -115.0353909
   }
 ]
