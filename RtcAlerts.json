@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57110,
-    "Timestamp": "2026-09-18 17:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Simmons St",
-    "Impact": "",
-    "Notes": "5:36 PM, Sep 18 2026 Crash on EB Craig Rd\u00A0at Simmons St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786183/attachment_0.png",
-    "Latitude": 36.239531900000003,
-    "Longitude": -115.18004790000001
-  },
-  {
     "UniqueId": 57111,
     "Timestamp": "2026-09-18 17:40",
     "IncidentType": "Crash",
@@ -1692,5 +1678,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786567/attachment_0.png",
     "Latitude": 36.280443256441266,
     "Longitude": -115.26673062971928
+  },
+  {
+    "UniqueId": 57234,
+    "Timestamp": "2026-09-19 17:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:30 PM, Sep 19 2026 Stalled vehicle on NB I-15\u00A0before Jean. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786551/attachment_0.png",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 57235,
+    "Timestamp": "2026-09-19 17:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:32 PM, Sep 19 2026 Crash on NB Frank Sinatra Dr\u00A0before Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786553/attachment_0.png",
+    "Latitude": 36.086073599999999,
+    "Longitude": -115.1757181
   }
 ]
