@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57189,
-    "Timestamp": "2026-09-19 10:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:24 AM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786412/attachment_0.jpg",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 57190,
-    "Timestamp": "2026-09-19 10:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:27 AM, Sep 19 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786429/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 57191,
     "Timestamp": "2026-09-19 10:43",
     "IncidentType": "Crash",
@@ -2000,5 +1972,19 @@
     "ImagePath": "",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 57332,
+    "Timestamp": "2026-09-20 10:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:26 AM, Sep 20 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786794/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
