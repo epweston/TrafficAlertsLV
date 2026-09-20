@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57188,
-    "Timestamp": "2026-09-19 10:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:08 AM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786406/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 57189,
     "Timestamp": "2026-09-19 10:24",
     "IncidentType": "Stalled vehicle",
@@ -2000,5 +1986,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786787/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 57331,
+    "Timestamp": "2026-09-20 10:08",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:08 AM, Sep 20 2026 Abandoned vehicle on WB 215 Northern Beltway\u00A0before I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
   }
 ]
