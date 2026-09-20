@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57124,
-    "Timestamp": "2026-09-18 18:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left shoulder",
-    "Notes": "6:28 PM, Sep 18 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Decatur Blvd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786209/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 57125,
     "Timestamp": "2026-09-18 18:31",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786582/attachment_0.png",
     "Latitude": 36.181269899999997,
     "Longitude": -115.1342183
+  },
+  {
+    "UniqueId": 57245,
+    "Timestamp": "2026-09-19 18:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder.",
+    "Notes": "6:27 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786584/attachment_0.jpg",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
