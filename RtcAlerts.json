@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57151,
-    "Timestamp": "2026-09-18 22:02",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Palmyra Ave",
-    "Impact": "All lanes are blocked from Palmyra Ave to Mozart Dr (north of Desert Inn Rd).",
-    "Notes": "10:02 PM, Sep 18 2026 Update Crash on SB Decatur Blvd\u00A0at Palmyra Ave. All lanes are blocked from Palmyra Ave to Mozart Dr (north of Desert Inn Rd).",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786263/attachment_0.jpg",
-    "Latitude": 36.133605299999999,
-    "Longitude": -115.2082017
-  },
-  {
     "UniqueId": 57152,
     "Timestamp": "2026-09-18 22:19",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786629/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 57267,
+    "Timestamp": "2026-09-19 22:15",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Patrick Ln",
+    "Impact": "Right lanes blocked.",
+    "Notes": "10:15 PM, Sep 19 2026 Crash on SB Durango Dr\u00A0after Patrick Ln. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786646/attachment_0.png",
+    "Latitude": 36.077816599999998,
+    "Longitude": -115.2793569
+  },
+  {
+    "UniqueId": 57268,
+    "Timestamp": "2026-09-19 22:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Fawn Ave",
+    "Impact": "Right shoulder",
+    "Notes": "10:16 PM, Sep 19 2026 Crash on NB Jones Blvd\u00A0at Fawn Ave (after I-11). Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786648/attachment_0.png",
+    "Latitude": 36.177878199999988,
+    "Longitude": -115.2239687
   }
 ]
