@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57186,
-    "Timestamp": "2026-09-19 09:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Canyon Run Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:20 AM, Sep 19 2026 Crash on NB Rampart Blvd\u00A0before Canyon Run Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786392/attachment_0.jpg",
-    "Latitude": 36.173965099999997,
-    "Longitude": -115.2871483
-  },
-  {
     "UniqueId": 57187,
     "Timestamp": "2026-09-19 09:51",
     "IncidentType": "Crash",
@@ -1972,5 +1958,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786776/attachment_0.png",
     "Latitude": 36.023410016643204,
     "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 57327,
+    "Timestamp": "2026-09-20 09:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:28 AM, Sep 20 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786766/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
