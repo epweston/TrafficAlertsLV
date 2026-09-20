@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57108,
-    "Timestamp": "2026-09-18 17:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "5:21 PM, Sep 18 2026 Crash on SB Lamb Blvd\u00A0at Craig Rd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786172/attachment_0.png",
-    "Latitude": 36.240516800000002,
-    "Longitude": -115.0799215
-  },
-  {
-    "UniqueId": 57109,
-    "Timestamp": "2026-09-18 17:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:22 PM, Sep 18 2026 Crash on NB I-15\u00A0before Lake Mead Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786182/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 57110,
     "Timestamp": "2026-09-18 17:36",
     "IncidentType": "Crash",
@@ -1706,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786565/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 57233,
+    "Timestamp": "2026-09-19 17:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder",
+    "Notes": "5:26 PM, Sep 19 2026 Stalled vehicle on NB I-11\u00A0before Buffalo Dr. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786567/attachment_0.png",
+    "Latitude": 36.280443256441266,
+    "Longitude": -115.26673062971928
   }
 ]
