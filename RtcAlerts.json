@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57165,
-    "Timestamp": "2026-09-19 02:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:02 AM, Sep 19 2026 Crash on SB Nellis Blvd\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786301/attachment_0.png",
-    "Latitude": 36.11485816141586,
-    "Longitude": -115.06471217727307
-  },
-  {
     "UniqueId": 57166,
     "Timestamp": "2026-09-19 02:46",
     "IncidentType": "Vehicle on fire",
@@ -1692,5 +1678,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786692/attachment_0.jpg",
     "Latitude": 36.168767699999997,
     "Longitude": -115.1395344
+  },
+  {
+    "UniqueId": 57286,
+    "Timestamp": "2026-09-20 02:39",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Parkway",
+    "Relationship": "at",
+    "CrossStreet": "Cc-215",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:39 AM, Sep 20 2026 Police activity on WB Summerlin Parkway\u00A0at CC-215. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786666/attachment_0.png",
+    "Latitude": 36.182697699999999,
+    "Longitude": -115.3446513
+  },
+  {
+    "UniqueId": 57287,
+    "Timestamp": "2026-09-20 02:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:44 AM, Sep 20 2026 Stalled vehicle on EB Spring Mountain Rd\u00A0at I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786694/attachment_0.png",
+    "Latitude": 36.126198294845885,
+    "Longitude": -115.1806533378587
   }
 ]
