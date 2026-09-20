@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57160,
-    "Timestamp": "2026-09-19 00:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "12:05 AM, Sep 19 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786298/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 57161,
-    "Timestamp": "2026-09-19 00:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder",
-    "Notes": "12:07 AM, Sep 19 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786288/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 57162,
-    "Timestamp": "2026-09-19 00:10",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:10 AM, Sep 19 2026 Police activity on NB Lamb Blvd\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786290/attachment_0.png",
-    "Latitude": 36.158866499999988,
-    "Longitude": -115.08010710000001
-  },
-  {
     "UniqueId": 57163,
     "Timestamp": "2026-09-19 01:04",
     "IncidentType": "Crash",
@@ -1608,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786679/attachment_0.jpg",
     "Latitude": 36.114831500000001,
     "Longitude": -115.150556
+  },
+  {
+    "UniqueId": 57275,
+    "Timestamp": "2026-09-20 00:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "12:07 AM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786680/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
