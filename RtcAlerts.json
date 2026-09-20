@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57141,
-    "Timestamp": "2026-09-18 20:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:25 PM, Sep 18 2026 Crash on NB I-11\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/18/file_attachments/3786232/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 57142,
     "Timestamp": "2026-09-18 20:57",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786621/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 57257,
+    "Timestamp": "2026-09-19 20:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:24 PM, Sep 19 2026 Crash on NB 215 Western Beltway\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786612/attachment_0.png",
+    "Latitude": 36.115066053957577,
+    "Longitude": -115.30244890820951
   }
 ]
