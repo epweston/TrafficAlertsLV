@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57345,
-    "Timestamp": "2026-09-20 15:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blude Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:41 PM, Sep 20 2026 Crash on WB Blude Diamond Rd\u00A0before Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786877/attachment_0.jpg",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
     "UniqueId": 57346,
     "Timestamp": "2026-09-20 15:45",
     "IncidentType": "Stalled vehicle",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788233/attachment_0.jpg",
     "Latitude": 36.195632400000001,
     "Longitude": -115.1607403
+  },
+  {
+    "UniqueId": 57429,
+    "Timestamp": "2026-09-21 15:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "under",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:38 PM, Sep 21 2026 Crash on SB Durango Dr\u00A0under 215 Northern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788252/attachment_0.png",
+    "Latitude": 36.066225699999997,
+    "Longitude": -115.2791549
   }
 ]
