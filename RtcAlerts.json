@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57258,
-    "Timestamp": "2026-09-19 20:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "8:36 PM, Sep 19 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786613/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 57259,
     "Timestamp": "2026-09-19 20:48",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786916/attachment_0.jpg",
     "Latitude": 36.217590399999999,
     "Longitude": -115.0986585
+  },
+  {
+    "UniqueId": 57364,
+    "Timestamp": "2026-09-20 20:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:43 PM, Sep 20 2026 Crash on SB Decatur Blvd\u00A0after Lake Mead Blvd (at Concord Village Dr). Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786930/attachment_0.png",
+    "Latitude": 36.195557000000001,
+    "Longitude": -115.2060887
   }
 ]
