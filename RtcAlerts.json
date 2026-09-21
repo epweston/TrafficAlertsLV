@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 57245,
-    "Timestamp": "2026-09-19 18:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "6:27 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786584/attachment_0.jpg",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 57246,
-    "Timestamp": "2026-09-19 18:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-11",
-    "Impact": "Right shoulder.",
-    "Notes": "6:28 PM, Sep 19 2026 Stalled vehicle on NB I-15\u00A0to SB I-11 ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786575/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 57247,
-    "Timestamp": "2026-09-19 18:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Resorts World Ave",
-    "Relationship": "at",
-    "CrossStreet": "Sammy Davis Junior Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:31 PM, Sep 19 2026 Crash on EB Resorts World Ave\u00A0at Sammy Davis Junior Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786586/attachment_0.jpg",
-    "Latitude": 36.137308500000003,
-    "Longitude": -115.1691089
-  },
-  {
-    "UniqueId": 57248,
-    "Timestamp": "2026-09-19 18:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:36 PM, Sep 19 2026 Crash on WB Flamingo Rd\u00A0after Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786588/attachment_0.png",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
-    "UniqueId": 57249,
-    "Timestamp": "2026-09-19 18:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:42 PM, Sep 19 2026 Crash on NB I-11\u00A0before Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786589/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 57250,
     "Timestamp": "2026-09-19 18:44",
     "IncidentType": "Crash",
@@ -1538,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786889/attachment_0.png",
     "Latitude": 36.114563099999998,
     "Longitude": -115.1422929
+  },
+  {
+    "UniqueId": 57355,
+    "Timestamp": "2026-09-20 18:38",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "6:38 PM, Sep 20 2026 Police activity on SB I-15 \u00A0at Sahara Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786899/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
