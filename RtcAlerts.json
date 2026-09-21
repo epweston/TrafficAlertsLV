@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57331,
-    "Timestamp": "2026-09-20 10:08",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:08 AM, Sep 20 2026 Abandoned vehicle on WB 215 Northern Beltway\u00A0before I-11. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
-    "UniqueId": 57332,
-    "Timestamp": "2026-09-20 10:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:26 AM, Sep 20 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786794/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
     "UniqueId": 57333,
     "Timestamp": "2026-09-20 10:44",
     "IncidentType": "Crash",
@@ -1034,5 +1006,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787728/attachment_0.jpg",
     "Latitude": 36.066255059042923,
     "Longitude": -115.26065826416017
+  },
+  {
+    "UniqueId": 57407,
+    "Timestamp": "2026-09-21 10:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:33 AM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0at Summerlin Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787804/attachment_0.jpg",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
   }
 ]
