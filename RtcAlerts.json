@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57227,
-    "Timestamp": "2026-09-19 16:59",
-    "IncidentType": "Update Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "",
-    "Notes": "4:59 PM, Sep 19 2026 Update Hazard on NB I-11\u00A0at Sunset Rd on-ramp All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 57228,
-    "Timestamp": "2026-09-19 17:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:03 PM, Sep 19 2026 Crash on NB 215 Western Beltway\u00A0before Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786543/attachment_0.png",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
-    "UniqueId": 57229,
-    "Timestamp": "2026-09-19 17:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:04 PM, Sep 19 2026 Crash on NB I-15\u00A0after Spring Mountain Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786545/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 57230,
     "Timestamp": "2026-09-19 17:05",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786879/attachment_0.jpg",
     "Latitude": 36.105695400000002,
     "Longitude": -115.14983909999999
+  },
+  {
+    "UniqueId": 57349,
+    "Timestamp": "2026-09-20 16:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder",
+    "Notes": "4:59 PM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786882/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
