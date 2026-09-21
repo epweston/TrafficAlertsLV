@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57284,
-    "Timestamp": "2026-09-20 01:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "1:47 AM, Sep 20 2026 Crash on WB Lake Mead Blvd\u00A0at Las Vegas Blvd . Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786690/attachment_0.jpg",
-    "Latitude": 36.195865100000013,
-    "Longitude": -115.1288797
-  },
-  {
-    "UniqueId": 57285,
-    "Timestamp": "2026-09-20 01:49",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "after",
-    "CrossStreet": "6Th St",
-    "Impact": "",
-    "Notes": "1:49 AM, Sep 20 2026 Police activity on WB Fremont St\u00A0after 6th St. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786692/attachment_0.jpg",
-    "Latitude": 36.168767699999997,
-    "Longitude": -115.1395344
-  },
-  {
     "UniqueId": 57286,
     "Timestamp": "2026-09-20 02:39",
     "IncidentType": "Police activity",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3786997/attachment_0.jpg",
     "Latitude": 36.0849823,
     "Longitude": -115.2609581
+  },
+  {
+    "UniqueId": 57377,
+    "Timestamp": "2026-09-21 02:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:18 AM, Sep 21 2026 Crash on SB I-15\u00A0at Cactus Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3786999/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
   }
 ]
