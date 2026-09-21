@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57333,
-    "Timestamp": "2026-09-20 10:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:44 AM, Sep 20 2026 Crash on SB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786841/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 57334,
-    "Timestamp": "2026-09-20 10:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Convention Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Debbie Reynolds Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:56 AM, Sep 20 2026 Crash on EB Convention Center Dr\u00A0at Debbie Reynolds Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786843/attachment_0.png",
-    "Latitude": 36.132291500000001,
-    "Longitude": -115.1580506
-  },
-  {
     "UniqueId": 57335,
     "Timestamp": "2026-09-20 11:07",
     "IncidentType": "Crash",
@@ -1020,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787804/attachment_0.jpg",
     "Latitude": 36.177653931557593,
     "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 57408,
+    "Timestamp": "2026-09-21 10:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:52 AM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0before Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787844/attachment_0.png",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
   }
 ]
