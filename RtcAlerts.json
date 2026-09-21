@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57306,
-    "Timestamp": "2026-09-20 05:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:08 AM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 57307,
     "Timestamp": "2026-09-20 05:16",
     "IncidentType": "Crash",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787152/attachment_0.png",
     "Latitude": 36.114659896847385,
     "Longitude": -115.17288892246221
+  },
+  {
+    "UniqueId": 57388,
+    "Timestamp": "2026-09-21 05:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder City Pkwy",
+    "Impact": "Multiple lanes blocked. Expect Delays Use other routes",
+    "Notes": "5:09 AM, Sep 21 2026 Crash on SB I-11\u00A0at Boulder City Pkwy. Multiple lanes blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 35.968977157769686,
+    "Longitude": -114.91321582177561
   }
 ]
