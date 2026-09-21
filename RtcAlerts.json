@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57311,
-    "Timestamp": "2026-09-20 05:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Rochelle Ave",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "5:37 AM, Sep 20 2026 Crash on NB Eastern Ave\u00A0after Rochelle Ave. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786725/attachment_0.jpg",
-    "Latitude": 36.110975158692483,
-    "Longitude": -115.11916632954413
-  },
-  {
-    "UniqueId": 57312,
-    "Timestamp": "2026-09-20 05:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:38 AM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 57313,
     "Timestamp": "2026-09-20 05:50",
     "IncidentType": "Crash",
@@ -1090,5 +1062,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787183/attachment_0.jpg",
     "Latitude": 36.177653931557593,
     "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 57391,
+    "Timestamp": "2026-09-21 05:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:35 AM, Sep 21 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787191/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 57392,
+    "Timestamp": "2026-09-21 05:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:36 AM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787188/attachment_0.jpg",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
