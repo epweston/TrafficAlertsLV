@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57347,
-    "Timestamp": "2026-09-20 16:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Left lane partially blocked.",
-    "Notes": "4:36 PM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0before S Rancho Dr. Left lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786891/attachment_0.png",
-    "Latitude": 36.175254133971912,
-    "Longitude": -115.17418362739356
-  },
-  {
     "UniqueId": 57348,
     "Timestamp": "2026-09-20 16:46",
     "IncidentType": "Crash",
@@ -1216,5 +1202,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788282/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 57436,
+    "Timestamp": "2026-09-21 16:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "",
+    "Notes": "4:31 PM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0before Sloan Rd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788283/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 57437,
+    "Timestamp": "2026-09-21 16:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "",
+    "Notes": "4:33 PM, Sep 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after I-15 on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788286/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 57438,
+    "Timestamp": "2026-09-21 16:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Simmons St",
+    "Relationship": "at",
+    "CrossStreet": "Cheney Way",
+    "Impact": "",
+    "Notes": "4:34 PM, Sep 21 2026 Crash on SB Simmons St\u00A0at Cheney Way (after Alexander) Northbound and southbound right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788302/attachment_0.png",
+    "Latitude": 36.230203699999997,
+    "Longitude": -115.1800018
   }
 ]
