@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57308,
-    "Timestamp": "2026-09-20 05:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "North Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:31 AM, Sep 20 2026 Crash on SB I-11\u00A0at North Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786723/attachment_0.png",
-    "Latitude": 36.254498550000001,
-    "Longitude": -115.2458097
-  },
-  {
-    "UniqueId": 57309,
-    "Timestamp": "2026-09-20 05:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "5:32 AM, Sep 20 2026 Crash on EB Sahara Ave\u00A0at Jones Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.14420827554261,
-    "Longitude": -115.22528530949943
-  },
-  {
-    "UniqueId": 57310,
-    "Timestamp": "2026-09-20 05:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Elkhorn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:32 AM, Sep 20 2026 Crash on WB Elkhorn Rd\u00A0at Aliante Pkwy. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.292554899999999,
-    "Longitude": -115.1838125
-  },
-  {
     "UniqueId": 57311,
     "Timestamp": "2026-09-20 05:37",
     "IncidentType": "Crash",
@@ -1118,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787159/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 57390,
+    "Timestamp": "2026-09-21 05:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "HOV Ramp blocked Expect Delays",
+    "Notes": "5:27 AM, Sep 21 2026 Crash on NB I-11\u00A0to Summerlin Pkwy. HOV Ramp blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787183/attachment_0.jpg",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
   }
 ]
