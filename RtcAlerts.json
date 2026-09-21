@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57335,
-    "Timestamp": "2026-09-20 11:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:07 AM, Sep 20 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786844/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 57336,
     "Timestamp": "2026-09-20 11:20",
     "IncidentType": "Crash",
@@ -1006,5 +992,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787844/attachment_0.png",
     "Latitude": 35.607225398050609,
     "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 57409,
+    "Timestamp": "2026-09-21 11:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Pinto Ln",
+    "Impact": "Multiple lanes blocked",
+    "Notes": "11:13 AM, Sep 21 2026 Crash on NB Rancho Dr\u00A0at Pinto Ln. Multiple lanes blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787864/attachment_0.jpg",
+    "Latitude": 36.164349799999997,
+    "Longitude": -115.17255849999999
+  },
+  {
+    "UniqueId": 57410,
+    "Timestamp": "2026-09-21 11:08",
+    "IncidentType": "Other",
+    "Direction": "NB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Traffic signal is dark. Treat as an all way stop. Expect Delays",
+    "Notes": "11:08 AM, Sep 21 2026 Other on NB University Center Dr\u00A0at Flamingo Rd. Traffic signal is dark. Treat as an all way stop. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787875/attachment_0.png",
+    "Latitude": 36.114769000000003,
+    "Longitude": -115.1463734
   }
 ]
