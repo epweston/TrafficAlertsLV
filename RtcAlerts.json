@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57305,
-    "Timestamp": "2026-09-20 04:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Elkhorn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:57 AM, Sep 20 2026 Crash on WB Elkhorn Rd\u00A0at Aliante Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786720/attachment_0.jpg",
-    "Latitude": 36.292554899999999,
-    "Longitude": -115.1838125
-  },
-  {
     "UniqueId": 57306,
     "Timestamp": "2026-09-20 05:08",
     "IncidentType": "Stalled vehicle",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787120/attachment_0.jpg",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 57386,
+    "Timestamp": "2026-09-21 04:56",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Us-93",
+    "Relationship": "after",
+    "CrossStreet": "Mile 1",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:56 AM, Sep 21 2026 Crash on SB US-93\u00A0after Mile 1. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787122/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
