@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57255,
-    "Timestamp": "2026-09-19 19:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:53 PM, Sep 19 2026 Crash on WB Warm Springs Rd\u00A0at Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786609/attachment_0.png",
-    "Latitude": 36.057119499999999,
-    "Longitude": -115.1002486
-  },
-  {
     "UniqueId": 57256,
     "Timestamp": "2026-09-19 20:20",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786906/attachment_0.jpg",
     "Latitude": 36.235863999999999,
     "Longitude": -115.0622212
+  },
+  {
+    "UniqueId": 57361,
+    "Timestamp": "2026-09-20 19:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder",
+    "Notes": "7:53 PM, Sep 20 2026 Stalled vehicle on NB I-15\u00A0to Cheyenne Ave off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786913/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
