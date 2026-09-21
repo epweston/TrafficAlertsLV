@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57241,
-    "Timestamp": "2026-09-19 18:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:00 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786579/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 57242,
-    "Timestamp": "2026-09-19 18:07",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:07 PM, Sep 19 2026 Police activity on SB I-15\u00A0at Starr Ave off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786572/attachment_0.jpg",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
-    "UniqueId": 57243,
-    "Timestamp": "2026-09-19 18:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:19 PM, Sep 19 2026 Crash on EB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786573/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 57244,
-    "Timestamp": "2026-09-19 18:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd North",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:21 PM, Sep 19 2026 Crash on NB Las Vegas Blvd North\u00A0before Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786582/attachment_0.png",
-    "Latitude": 36.181269899999997,
-    "Longitude": -115.1342183
-  },
-  {
     "UniqueId": 57245,
     "Timestamp": "2026-09-19 18:27",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786888/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 57354,
+    "Timestamp": "2026-09-20 18:17",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Claymont St 2",
+    "Impact": "Expect Delays",
+    "Notes": "6:17 PM, Sep 20 2026 Crash on EB Flamingo Rd\u00A0at Claymont St. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786889/attachment_0.png",
+    "Latitude": 36.114563099999998,
+    "Longitude": -115.1422929
   }
 ]
