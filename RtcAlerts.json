@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57256,
-    "Timestamp": "2026-09-19 20:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:20 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786621/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 57257,
-    "Timestamp": "2026-09-19 20:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:24 PM, Sep 19 2026 Crash on NB 215 Western Beltway\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786612/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
     "UniqueId": 57258,
     "Timestamp": "2026-09-19 20:36",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786913/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 57362,
+    "Timestamp": "2026-09-20 20:28",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:28 PM, Sep 20 2026 Crash on SB Martin L King Blvd\u00A0before Alexander Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786908/attachment_0.png",
+    "Latitude": 36.2320347,
+    "Longitude": -115.1619213
+  },
+  {
+    "UniqueId": 57363,
+    "Timestamp": "2026-09-20 20:28",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "All lanes are open.",
+    "Notes": "8:28 PM, Sep 20 2026 Update Crash on EB Cheyenne Ave\u00A0after Pecos Rd. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786916/attachment_0.jpg",
+    "Latitude": 36.217590399999999,
+    "Longitude": -115.0986585
   }
 ]
