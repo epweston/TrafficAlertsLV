@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57283,
-    "Timestamp": "2026-09-20 01:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sb I-11",
-    "Impact": "Left lanes blocked.",
-    "Notes": "1:22 AM, Sep 20 2026 Crash on WB Ann Rd\u00A0at SB I-11 ramp. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786689/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 57284,
     "Timestamp": "2026-09-20 01:47",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3786981/attachment_0.jpg",
     "Latitude": 36.049756199999997,
     "Longitude": -115.20787060000001
+  },
+  {
+    "UniqueId": 57375,
+    "Timestamp": "2026-09-21 01:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:38 AM, Sep 21 2026 Crash on NB Buffalo Dr\u00A0after Russell Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3786997/attachment_0.jpg",
+    "Latitude": 36.0849823,
+    "Longitude": -115.2609581
   }
 ]
