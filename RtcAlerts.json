@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57336,
-    "Timestamp": "2026-09-20 11:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "11:20 AM, Sep 20 2026 Crash on NB Rainbow Blvd\u00A0at 215 Southern Beltway. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786803/attachment_0.png",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
     "UniqueId": 57337,
     "Timestamp": "2026-09-20 11:49",
     "IncidentType": "Stalled vehicle",
@@ -1020,5 +1006,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787875/attachment_0.png",
     "Latitude": 36.114769000000003,
     "Longitude": -115.1463734
+  },
+  {
+    "UniqueId": 57411,
+    "Timestamp": "2026-09-21 11:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:19 AM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787882/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
