@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57264,
-    "Timestamp": "2026-09-19 21:14",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Veterans Memorial Dr",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "All lanes are open again.",
-    "Notes": "9:14 PM, Sep 19 2026 Update Crash on SB Veterans Memorial Dr\u00A0at Bonanza Rd. All lanes are open again.",
-    "ImagePath": "",
-    "Latitude": 36.176187900000002,
-    "Longitude": -115.1402695
-  },
-  {
-    "UniqueId": 57265,
-    "Timestamp": "2026-09-19 21:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:16 PM, Sep 19 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786628/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 57266,
     "Timestamp": "2026-09-19 21:57",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786931/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 57367,
+    "Timestamp": "2026-09-20 21:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Eb 215 Southern Beltway",
+    "Impact": "",
+    "Notes": "9:17 PM, Sep 20 2026 Crash on SB Rainbow Blvd\u00A0at EB 215 Southern Beltway ramp Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786932/attachment_0.jpg",
+    "Latitude": 36.066602240000002,
+    "Longitude": -115.24247282
+  },
+  {
+    "UniqueId": 57368,
+    "Timestamp": "2026-09-20 21:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "after",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:21 PM, Sep 20 2026 Crash on EB Stewart Ave\u00A0after Casino Center Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786922/attachment_0.jpg",
+    "Latitude": 36.173040700000001,
+    "Longitude": -115.1425684
   }
 ]
