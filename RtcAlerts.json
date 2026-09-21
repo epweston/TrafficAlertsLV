@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57348,
-    "Timestamp": "2026-09-20 16:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Naples Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:46 PM, Sep 20 2026 Crash on NB University Center Dr\u00A0at Naples Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786879/attachment_0.jpg",
-    "Latitude": 36.105695400000002,
-    "Longitude": -115.14983909999999
-  },
-  {
     "UniqueId": 57349,
     "Timestamp": "2026-09-20 16:59",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788310/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 57441,
+    "Timestamp": "2026-09-21 16:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "",
+    "Notes": "4:42 PM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788309/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 57442,
+    "Timestamp": "2026-09-21 16:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder",
+    "Notes": "4:42 PM, Sep 21 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Decatur Blvd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788307/attachment_0.png",
+    "Latitude": 36.274993366998793,
+    "Longitude": -115.20657961738746
   }
 ]
