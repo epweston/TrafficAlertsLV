@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57307,
-    "Timestamp": "2026-09-20 05:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:16 AM, Sep 20 2026 Crash on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786722/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 57308,
     "Timestamp": "2026-09-20 05:31",
     "IncidentType": "Crash",
@@ -1118,5 +1104,19 @@
     "ImagePath": "",
     "Latitude": 35.968977157769686,
     "Longitude": -114.91321582177561
+  },
+  {
+    "UniqueId": 57389,
+    "Timestamp": "2026-09-21 05:16",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:16 AM, Sep 21 2026 Crash on SB I-11\u00A0before Flamingo Rd.. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787159/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
