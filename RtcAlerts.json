@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 57250,
-    "Timestamp": "2026-09-19 18:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:44 PM, Sep 19 2026 Crash on NB I-11\u00A0at Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786598/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 57251,
-    "Timestamp": "2026-09-19 18:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo",
-    "Relationship": "at",
-    "CrossStreet": "West",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "6:55 PM, Sep 19 2026 Crash on NB Buffalo\u00A0at West. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786594/attachment_0.png",
-    "Latitude": 36.202974400000002,
-    "Longitude": -115.26098140000001
-  },
-  {
-    "UniqueId": 57252,
-    "Timestamp": "2026-09-19 18:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "",
-    "Notes": "6:57 PM, Sep 19 2026 Stalled vehicle on SB I-15\u00A0before Charleston Blvd, Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786617/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 57253,
-    "Timestamp": "2026-09-19 18:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:59 PM, Sep 19 2026 Stalled vehicle on NB I-11\u00A0before Tropicana Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786619/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 57254,
-    "Timestamp": "2026-09-19 19:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "Hualapai Way",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:16 PM, Sep 19 2026 Crash on EB Ann Rd\u00A0at Hualapai Way. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786607/attachment_0.jpg",
-    "Latitude": 36.262582999999999,
-    "Longitude": -115.315054
-  },
-  {
     "UniqueId": 57255,
     "Timestamp": "2026-09-19 19:53",
     "IncidentType": "Crash",
@@ -1482,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786899/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57356,
+    "Timestamp": "2026-09-20 19:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder",
+    "Notes": "7:23 PM, Sep 20 2026 Crash on SB Buffalo Dr\u00A0after 215 Southern Beltway. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786901/attachment_0.png",
+    "Latitude": 36.245231500000003,
+    "Longitude": -115.26036480000001
   }
 ]
