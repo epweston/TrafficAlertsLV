@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57321,
-    "Timestamp": "2026-09-20 08:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:07 AM, Sep 20 2026 Crash on SB Lamb Blvd\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786755/attachment_0.png",
-    "Latitude": 36.158866499999988,
-    "Longitude": -115.08010710000001
-  },
-  {
-    "UniqueId": 57322,
-    "Timestamp": "2026-09-20 08:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Mount Hood St",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:12 AM, Sep 20 2026 Crash on NB Mount Hood St\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786773/attachment_0.png",
-    "Latitude": 36.195920399999999,
-    "Longitude": -115.0353909
-  },
-  {
     "UniqueId": 57323,
     "Timestamp": "2026-09-20 08:24",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787425/attachment_0.jpg",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 57400,
+    "Timestamp": "2026-09-21 08:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:06 AM, Sep 21 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787531/attachment_0.png",
+    "Latitude": 36.261637469999997,
+    "Longitude": -115.32673715999999
   }
 ]
