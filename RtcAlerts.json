@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57261,
-    "Timestamp": "2026-09-19 20:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:58 PM, Sep 19 2026 Stalled vehicle on EB Cactus Ave\u00A0after I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786636/attachment_0.png",
-    "Latitude": 35.999014299999999,
-    "Longitude": -115.18064087000001
-  },
-  {
-    "UniqueId": 57262,
-    "Timestamp": "2026-09-19 21:01",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "after",
-    "CrossStreet": "15Th St",
-    "Impact": "",
-    "Notes": "9:01 PM, Sep 19 2026 Crash on EB Fremont St\u00A0after 15th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786638/attachment_0.png",
-    "Latitude": 36.164328699999999,
-    "Longitude": -115.12925180000001
-  },
-  {
-    "UniqueId": 57263,
-    "Timestamp": "2026-09-19 21:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "at",
-    "CrossStreet": "Bruce St Multiple Lanes",
-    "Impact": "",
-    "Notes": "9:04 PM, Sep 19 2026 Crash on EB Fremont St\u00A0at Bruce St. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786639/attachment_0.png",
-    "Latitude": 36.162531899999998,
-    "Longitude": -115.1250707
-  },
-  {
     "UniqueId": 57264,
     "Timestamp": "2026-09-19 21:14",
     "IncidentType": "Update Crash",
@@ -1468,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786919/attachment_0.png",
     "Latitude": 36.247808599999999,
     "Longitude": -115.2603592
+  },
+  {
+    "UniqueId": 57366,
+    "Timestamp": "2026-09-20 21:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Us-93",
+    "Relationship": "after",
+    "CrossStreet": "Mile 1",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:07 PM, Sep 20 2026 Crash on SB US-93\u00A0after Mile 1 (past NV-AZ Stateline). Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786931/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
