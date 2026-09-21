@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57337,
-    "Timestamp": "2026-09-20 11:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:49 AM, Sep 20 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786852/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 57338,
-    "Timestamp": "2026-09-20 12:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:09 PM, Sep 20 2026 Crash on NB Rancho Dr\u00A0at Torrey Pines Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786854/attachment_0.png",
-    "Latitude": 36.242060100000003,
-    "Longitude": -115.2347303
-  },
-  {
-    "UniqueId": 57339,
-    "Timestamp": "2026-09-20 12:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Alexander Rd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:24 PM, Sep 20 2026 Crash on WB Alexander Rd\u00A0before Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786806/attachment_0.jpg",
-    "Latitude": 36.233802300000001,
-    "Longitude": -115.27923319999999
-  },
-  {
     "UniqueId": 57340,
     "Timestamp": "2026-09-20 14:53",
     "IncidentType": "Stalled vehicle",
@@ -1034,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787913/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 57413,
+    "Timestamp": "2026-09-21 12:25",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Teddy Dr",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "12:25 PM, Sep 21 2026 Crash on EB Sahara Ave\u00A0at Teddy Dr. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787985/attachment_0.png",
+    "Latitude": 36.144299294499945,
+    "Longitude": -115.17759562167909
   }
 ]
