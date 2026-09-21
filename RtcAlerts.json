@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57240,
-    "Timestamp": "2026-09-19 17:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:51 PM, Sep 19 2026 Crash on NB University Center Dr\u00A0at Hacienda Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/19/file_attachments/3786571/attachment_0.png",
-    "Latitude": 36.093606200000004,
-    "Longitude": -115.145799
-  },
-  {
     "UniqueId": 57241,
     "Timestamp": "2026-09-19 18:00",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786896/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 57353,
+    "Timestamp": "2026-09-20 17:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:57 PM, Sep 20 2026 Stalled vehicle on SB I-15 \u00A0after Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786888/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
