@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57391,
-    "Timestamp": "2026-09-21 05:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:35 AM, Sep 21 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787191/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 57392,
-    "Timestamp": "2026-09-21 05:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:36 AM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787188/attachment_0.jpg",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 57393,
-    "Timestamp": "2026-09-21 05:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:41 AM, Sep 21 2026 Crash on NB I-11\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787214/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 57394,
     "Timestamp": "2026-09-21 05:46",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788612/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 57497,
+    "Timestamp": "2026-09-22 05:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "5:38 AM, Sep 22 2026 Crash on NB I-11\u00A0before Las Vegas Blvd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788615/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
