@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57370,
-    "Timestamp": "2026-09-20 21:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder",
-    "Notes": "9:58 PM, Sep 20 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786925/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 57371,
     "Timestamp": "2026-09-20 22:15",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788402/attachment_0.png",
     "Latitude": 36.218311499999999,
     "Longitude": -115.26037169999999
+  },
+  {
+    "UniqueId": 57482,
+    "Timestamp": "2026-09-21 22:00",
+    "IncidentType": "Update Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Lamar Cir",
+    "Impact": "All lanes are open.",
+    "Notes": "10:00 PM, Sep 21 2026 Update Police activity on EB Harmon Ave\u00A0at Lamar Cir. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788425/attachment_0.png",
+    "Latitude": 36.108029500000001,
+    "Longitude": -115.1583298
   }
 ]
