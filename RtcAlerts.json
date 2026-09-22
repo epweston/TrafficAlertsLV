@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57396,
-    "Timestamp": "2026-09-21 06:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 AM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787241/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 57397,
     "Timestamp": "2026-09-21 06:51",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788652/attachment_0.png",
     "Latitude": 36.034325041044013,
     "Longitude": -115.0078868949862
+  },
+  {
+    "UniqueId": 57501,
+    "Timestamp": "2026-09-22 06:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:20 AM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
