@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57409,
-    "Timestamp": "2026-09-21 11:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Pinto Ln",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "11:13 AM, Sep 21 2026 Crash on NB Rancho Dr\u00A0at Pinto Ln. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787864/attachment_0.jpg",
-    "Latitude": 36.164349799999997,
-    "Longitude": -115.17255849999999
-  },
-  {
-    "UniqueId": 57410,
-    "Timestamp": "2026-09-21 11:08",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Traffic signal is dark. Treat as an all way stop. Expect Delays",
-    "Notes": "11:08 AM, Sep 21 2026 Other on NB University Center Dr\u00A0at Flamingo Rd. Traffic signal is dark. Treat as an all way stop. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787875/attachment_0.png",
-    "Latitude": 36.114769000000003,
-    "Longitude": -115.1463734
-  },
-  {
     "UniqueId": 57411,
     "Timestamp": "2026-09-21 11:19",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789218/attachment_0.jpg",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 57527,
+    "Timestamp": "2026-09-22 11:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "11:08 AM, Sep 22 2026 Crash on SB I-15\u00A0at Washington Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789227/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
