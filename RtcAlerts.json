@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57362,
-    "Timestamp": "2026-09-20 20:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:28 PM, Sep 20 2026 Crash on SB Martin L King Blvd\u00A0before Alexander Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786908/attachment_0.png",
-    "Latitude": 36.2320347,
-    "Longitude": -115.1619213
-  },
-  {
-    "UniqueId": 57363,
-    "Timestamp": "2026-09-20 20:28",
-    "IncidentType": "Update Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "All lanes are open.",
-    "Notes": "8:28 PM, Sep 20 2026 Update Crash on EB Cheyenne Ave\u00A0after Pecos Rd. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786916/attachment_0.jpg",
-    "Latitude": 36.217590399999999,
-    "Longitude": -115.0986585
-  },
-  {
     "UniqueId": 57364,
     "Timestamp": "2026-09-20 20:43",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788391/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 57474,
+    "Timestamp": "2026-09-21 20:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Fiore Bella Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:29 PM, Sep 21 2026 Crash on WB Tropicana Ave\u00A0at Fiore Bella Blvd (past Hualapai Way). Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788393/attachment_0.png",
+    "Latitude": 36.100263699999999,
+    "Longitude": -115.3179389
   }
 ]
