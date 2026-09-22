@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57400,
-    "Timestamp": "2026-09-21 08:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:06 AM, Sep 21 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787531/attachment_0.png",
-    "Latitude": 36.261637469999997,
-    "Longitude": -115.32673715999999
-  },
-  {
     "UniqueId": 57401,
     "Timestamp": "2026-09-21 08:37",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788842/attachment_0.png",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 57511,
+    "Timestamp": "2026-09-22 08:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Carp-Elgin Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:24 AM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0at Carp-Elgin Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788875/attachment_0.png",
+    "Latitude": 36.093691200000002,
+    "Longitude": -115.0521665
   }
 ]
