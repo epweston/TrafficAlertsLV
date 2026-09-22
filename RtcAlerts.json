@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57364,
-    "Timestamp": "2026-09-20 20:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:43 PM, Sep 20 2026 Crash on SB Decatur Blvd\u00A0after Lake Mead Blvd (at Concord Village Dr). Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786930/attachment_0.png",
-    "Latitude": 36.195557000000001,
-    "Longitude": -115.2060887
-  },
-  {
     "UniqueId": 57365,
     "Timestamp": "2026-09-20 20:50",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788393/attachment_0.png",
     "Latitude": 36.100263699999999,
     "Longitude": -115.3179389
+  },
+  {
+    "UniqueId": 57475,
+    "Timestamp": "2026-09-21 20:39",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Left turn lane blocked.",
+    "Notes": "8:39 PM, Sep 21 2026 Crash on WB Craig Rd\u00A0at Tenaya Way. Left turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788410/attachment_0.png",
+    "Latitude": 36.240435699999999,
+    "Longitude": -115.25142390000001
   }
 ]
