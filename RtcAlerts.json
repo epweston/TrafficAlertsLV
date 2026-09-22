@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57359,
-    "Timestamp": "2026-09-20 19:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "All eastbound lanes are blocked.",
-    "Notes": "7:36 PM, Sep 20 2026 Crash on EB Cheyenne Ave\u00A0after Pecos Rd. All eastbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786905/attachment_0.jpg",
-    "Latitude": 36.217590399999999,
-    "Longitude": -115.0986585
-  },
-  {
     "UniqueId": 57360,
     "Timestamp": "2026-09-20 19:40",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788381/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57468,
+    "Timestamp": "2026-09-21 19:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "El Capitan Way",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:35 PM, Sep 21 2026 Crash on SB El Capitan Way\u00A0before Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788382/attachment_0.jpg",
+    "Latitude": 36.301360199999998,
+    "Longitude": -115.2826993
   }
 ]
