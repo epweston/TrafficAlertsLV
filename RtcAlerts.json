@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57383,
-    "Timestamp": "2026-09-21 03:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:28 AM, Sep 21 2026 Crash on SB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
     "UniqueId": 57384,
     "Timestamp": "2026-09-21 04:12",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788494/attachment_0.png",
     "Latitude": 36.125680099999997,
     "Longitude": -115.26793360000001
+  },
+  {
+    "UniqueId": 57489,
+    "Timestamp": "2026-09-22 03:58",
+    "IncidentType": "Other",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Traffic signal is dark. Treat as an all-way stop. Expect Delays",
+    "Notes": "3:58 AM, Sep 22 2026 Other on WB Tropicana Ave\u00A0at University Center Dr. Traffic signal is dark. Treat as an all-way stop. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788503/attachment_0.png",
+    "Latitude": 36.100972160686119,
+    "Longitude": -115.14593481598045
   }
 ]
