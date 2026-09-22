@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57366,
-    "Timestamp": "2026-09-20 21:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Us-93",
-    "Relationship": "after",
-    "CrossStreet": "Mile 1",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:07 PM, Sep 20 2026 Crash on SB US-93\u00A0after Mile 1 (past NV-AZ Stateline). Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786931/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 57367,
-    "Timestamp": "2026-09-20 21:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Eb 215 Southern Beltway",
-    "Impact": "",
-    "Notes": "9:17 PM, Sep 20 2026 Crash on SB Rainbow Blvd\u00A0at EB 215 Southern Beltway ramp Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786932/attachment_0.jpg",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
-    "UniqueId": 57368,
-    "Timestamp": "2026-09-20 21:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "after",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:21 PM, Sep 20 2026 Crash on EB Stewart Ave\u00A0after Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786922/attachment_0.jpg",
-    "Latitude": 36.173040700000001,
-    "Longitude": -115.1425684
-  },
-  {
     "UniqueId": 57369,
     "Timestamp": "2026-09-20 21:48",
     "IncidentType": "Crash",
@@ -1552,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788414/attachment_0.jpg",
     "Latitude": 36.174945000000001,
     "Longitude": -115.1371793
+  },
+  {
+    "UniqueId": 57479,
+    "Timestamp": "2026-09-21 21:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Cambridge St",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:35 PM, Sep 21 2026 Crash on NB Cambridge St\u00A0at Twain Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788419/attachment_0.png",
+    "Latitude": 36.122179600000003,
+    "Longitude": -115.1417946
   }
 ]
