@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57414,
-    "Timestamp": "2026-09-21 12:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:35 PM, Sep 21 2026 Crash on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788007/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 57415,
-    "Timestamp": "2026-09-21 12:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:38 PM, Sep 21 2026 Crash on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788016/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 57416,
-    "Timestamp": "2026-09-21 12:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Maule Ave",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:43 PM, Sep 21 2026 Crash on WB Maule Ave\u00A0before Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788023/attachment_0.jpg",
-    "Latitude": 36.061145799999998,
-    "Longitude": -115.27935549999999
-  },
-  {
     "UniqueId": 57417,
     "Timestamp": "2026-09-21 13:21",
     "IncidentType": "Crash",
@@ -1650,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789347/attachment_0.jpg",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 57532,
+    "Timestamp": "2026-09-22 12:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:46 PM, Sep 22 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789375/attachment_0.jpg",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
