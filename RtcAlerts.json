@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57371,
-    "Timestamp": "2026-09-20 22:15",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "10:15 PM, Sep 20 2026 Crash on EB Blue Diamond Rd\u00A0before Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786927/attachment_0.png",
-    "Latitude": 36.022412007316184,
-    "Longitude": -115.24351356526064
-  },
-  {
     "UniqueId": 57372,
     "Timestamp": "2026-09-20 22:56",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788425/attachment_0.png",
     "Latitude": 36.108029500000001,
     "Longitude": -115.1583298
+  },
+  {
+    "UniqueId": 57483,
+    "Timestamp": "2026-09-21 22:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:31 PM, Sep 21 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788406/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
