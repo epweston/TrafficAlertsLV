@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57385,
-    "Timestamp": "2026-09-21 04:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:47 AM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787120/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 57386,
-    "Timestamp": "2026-09-21 04:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Us-93",
-    "Relationship": "after",
-    "CrossStreet": "Mile 1",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:56 AM, Sep 21 2026 Crash on SB US-93\u00A0after Mile 1. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787122/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 57387,
-    "Timestamp": "2026-09-21 05:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:02 AM, Sep 21 2026 Crash on NB Las Vegas Blvd\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787152/attachment_0.png",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
     "UniqueId": 57388,
     "Timestamp": "2026-09-21 05:09",
     "IncidentType": "Crash",
@@ -1494,6 +1452,20 @@
     "Impact": "Right lane blocked.",
     "Notes": "4:24 AM, Sep 22 2026 Police activity on EB Alexander Rd\u00A0at I-11. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788507/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 57492,
+    "Timestamp": "2026-09-22 04:59",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Alexander Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:59 AM, Sep 22 2026 Police activity on EB Alexander Rd\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
   }
