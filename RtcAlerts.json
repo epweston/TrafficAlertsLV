@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57353,
-    "Timestamp": "2026-09-20 17:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:57 PM, Sep 20 2026 Stalled vehicle on SB I-15 \u00A0after Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786888/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 57354,
     "Timestamp": "2026-09-20 18:17",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788353/attachment_0.png",
     "Latitude": 36.136819000000003,
     "Longitude": -115.16177190000001
+  },
+  {
+    "UniqueId": 57457,
+    "Timestamp": "2026-09-21 17:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:59 PM, Sep 21 2026 Crash on SB I-15 Collector Distributor\u00A0before Russell Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788354/attachment_0.jpg",
+    "Latitude": 36.078835617458502,
+    "Longitude": -115.18136633150022
   }
 ]
