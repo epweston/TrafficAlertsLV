@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57408,
-    "Timestamp": "2026-09-21 10:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:52 AM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0before Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787844/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
     "UniqueId": 57409,
     "Timestamp": "2026-09-21 11:13",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789149/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 57526,
+    "Timestamp": "2026-09-22 10:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:57 AM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789218/attachment_0.jpg",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
