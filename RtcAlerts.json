@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57390,
-    "Timestamp": "2026-09-21 05:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "HOV Ramp blocked Expect Delays",
-    "Notes": "5:27 AM, Sep 21 2026 Crash on NB I-11\u00A0to Summerlin Pkwy. HOV Ramp blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787183/attachment_0.jpg",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 57391,
     "Timestamp": "2026-09-21 05:35",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788580/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 57495,
+    "Timestamp": "2026-09-22 05:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "5:27 AM, Sep 22 2026 Crash on SB I-11\u00A0at Ann Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788591/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
