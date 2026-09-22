@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57433,
-    "Timestamp": "2026-09-21 16:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder",
-    "Notes": "4:28 PM, Sep 21 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788296/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 57434,
-    "Timestamp": "2026-09-21 16:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 3",
-    "Impact": "",
-    "Notes": "4:29 PM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0at Mile 3 on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788281/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 57435,
-    "Timestamp": "2026-09-21 16:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder",
-    "Notes": "4:30 PM, Sep 21 2026 Stalled vehicle on NB I-11\u00A0at Sunset Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788282/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 57436,
-    "Timestamp": "2026-09-21 16:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "",
-    "Notes": "4:31 PM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0before Sloan Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788283/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 57437,
     "Timestamp": "2026-09-21 16:33",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789605/attachment_0.png",
     "Latitude": 36.057252200000001,
     "Longitude": -115.1229566
+  },
+  {
+    "UniqueId": 57550,
+    "Timestamp": "2026-09-22 16:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": ".",
+    "Notes": "4:26 PM, Sep 22 2026 Stalled vehicle on SB Jones Blvd\u00A0before 215 Southern Beltway. .",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789621/attachment_0.png",
+    "Latitude": 36.174100794708579,
+    "Longitude": -115.22413731670025
+  },
+  {
+    "UniqueId": 57551,
+    "Timestamp": "2026-09-22 16:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sands Ave",
+    "Relationship": "at",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:26 PM, Sep 22 2026 Crash on EB Sands Ave\u00A0at Koval Ln. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789623/attachment_0.png",
+    "Latitude": 36.122372221074869,
+    "Longitude": -115.16410411872364
   }
 ]
