@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57354,
-    "Timestamp": "2026-09-20 18:17",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Claymont St 2",
-    "Impact": "Expect Delays",
-    "Notes": "6:17 PM, Sep 20 2026 Crash on EB Flamingo Rd\u00A0at Claymont St. 2 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786889/attachment_0.png",
-    "Latitude": 36.114563099999998,
-    "Longitude": -115.1422929
-  },
-  {
     "UniqueId": 57355,
     "Timestamp": "2026-09-20 18:38",
     "IncidentType": "Police activity",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788370/attachment_0.png",
     "Latitude": 36.2463774,
     "Longitude": -115.22552949999999
+  },
+  {
+    "UniqueId": 57459,
+    "Timestamp": "2026-09-21 18:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "to",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:14 PM, Sep 21 2026 Crash on NB Rancho Dr\u00A0to Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788371/attachment_0.png",
+    "Latitude": 36.232990800000003,
+    "Longitude": -115.22647120000001
   }
 ]
