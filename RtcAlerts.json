@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57361,
-    "Timestamp": "2026-09-20 19:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder",
-    "Notes": "7:53 PM, Sep 20 2026 Stalled vehicle on NB I-15\u00A0to Cheyenne Ave off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786913/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 57362,
     "Timestamp": "2026-09-20 20:28",
     "IncidentType": "Crash",
@@ -1496,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788384/attachment_0.png",
     "Latitude": 35.991382399999999,
     "Longitude": -115.234613
+  },
+  {
+    "UniqueId": 57470,
+    "Timestamp": "2026-09-21 19:48",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Lamar Cir",
+    "Impact": "All eastbound lanes are blocked.",
+    "Notes": "7:48 PM, Sep 21 2026 Police activity on EB Harmon Ave\u00A0at Lamar Cir (past Koval Ln). All eastbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788366/attachment_0.png",
+    "Latitude": 36.108029500000001,
+    "Longitude": -115.1583298
+  },
+  {
+    "UniqueId": 57471,
+    "Timestamp": "2026-09-21 19:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left shoulder",
+    "Notes": "7:51 PM, Sep 21 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Flamingo Rd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788386/attachment_0.jpg",
+    "Latitude": 36.115066053957577,
+    "Longitude": -115.30244890820951
   }
 ]
