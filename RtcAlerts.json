@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57350,
-    "Timestamp": "2026-09-20 17:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15 Sb",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:33 PM, Sep 20 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at I-15 SB ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786884/attachment_0.png",
-    "Latitude": 36.162990899999997,
-    "Longitude": -115.1604596
-  },
-  {
-    "UniqueId": 57351,
-    "Timestamp": "2026-09-20 17:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:34 PM, Sep 20 2026 Stalled vehicle on NB I-11\u00A0before Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786886/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 57352,
-    "Timestamp": "2026-09-20 17:40",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:40 PM, Sep 20 2026 Vehicle on fire on NB I-11\u00A0at Valley View Blvd on-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786896/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 57353,
     "Timestamp": "2026-09-20 17:57",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788337/attachment_0.png",
     "Latitude": 36.272856280056651,
     "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 57450,
+    "Timestamp": "2026-09-21 17:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Dewey Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:35 PM, Sep 21 2026 Crash on NB Decatur Blvd\u00A0at Dewey Dr (past Russell Rd). Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788328/attachment_0.png",
+    "Latitude": 36.088172200000002,
+    "Longitude": -115.2078258
+  },
+  {
+    "UniqueId": 57451,
+    "Timestamp": "2026-09-21 17:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Spencer St",
+    "Impact": "",
+    "Notes": "5:38 PM, Sep 21 2026 Stalled vehicle on WB St Rose Pkwy\u00A0before Spencer St. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788340/attachment_0.jpg",
+    "Latitude": 35.9989591,
+    "Longitude": -115.126001
   }
 ]
