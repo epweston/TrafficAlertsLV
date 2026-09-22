@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57369,
-    "Timestamp": "2026-09-20 21:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder",
-    "Notes": "9:48 PM, Sep 20 2026 Crash on SB I-11\u00A0at Horizon Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/20/file_attachments/3786923/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 57370,
     "Timestamp": "2026-09-20 21:58",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788422/attachment_0.png",
     "Latitude": 36.125719799999999,
     "Longitude": -115.2699662
+  },
+  {
+    "UniqueId": 57481,
+    "Timestamp": "2026-09-21 21:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "All westbound lanes are blocked.",
+    "Notes": "9:50 PM, Sep 21 2026 Crash on WB Cheyenne Ave\u00A0after Buffalo Dr. All westbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788402/attachment_0.png",
+    "Latitude": 36.218311499999999,
+    "Longitude": -115.26037169999999
   }
 ]
