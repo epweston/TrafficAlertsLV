@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57413,
-    "Timestamp": "2026-09-21 12:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Teddy Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "12:25 PM, Sep 21 2026 Crash on EB Sahara Ave\u00A0at Teddy Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3787985/attachment_0.png",
-    "Latitude": 36.144299294499945,
-    "Longitude": -115.17759562167909
-  },
-  {
     "UniqueId": 57414,
     "Timestamp": "2026-09-21 12:35",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789277/attachment_0.jpg",
     "Latitude": 36.240214888276881,
     "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 57530,
+    "Timestamp": "2026-09-22 12:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:20 PM, Sep 22 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789355/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
