@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57428,
-    "Timestamp": "2026-09-21 15:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:33 PM, Sep 21 2026 Crash on NB Martin L King Blvd\u00A0before Lake Mead Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788233/attachment_0.jpg",
-    "Latitude": 36.195632400000001,
-    "Longitude": -115.1607403
-  },
-  {
-    "UniqueId": 57429,
-    "Timestamp": "2026-09-21 15:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "under",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:38 PM, Sep 21 2026 Crash on SB Durango Dr\u00A0under 215 Northern Beltway. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788252/attachment_0.png",
-    "Latitude": 36.066225699999997,
-    "Longitude": -115.2791549
-  },
-  {
-    "UniqueId": 57430,
-    "Timestamp": "2026-09-21 15:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:44 PM, Sep 21 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788253/attachment_0.jpg",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
-    "UniqueId": 57431,
-    "Timestamp": "2026-09-21 15:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:45 PM, Sep 21 2026 Crash on EB Starr Ave\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788241/attachment_0.png",
-    "Latitude": 35.984187687094021,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 57432,
     "Timestamp": "2026-09-21 16:24",
     "IncidentType": "Crash",
@@ -1636,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789590/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57546,
+    "Timestamp": "2026-09-22 15:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:44 PM, Sep 22 2026 Crash on NB Frank Sinatra Dr\u00A0before Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789593/attachment_0.jpg",
+    "Latitude": 36.086073599999999,
+    "Longitude": -115.1757181
   }
 ]
