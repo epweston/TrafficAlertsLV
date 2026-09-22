@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57424,
-    "Timestamp": "2026-09-21 14:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:47 PM, Sep 21 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788169/attachment_0.jpg",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 57425,
     "Timestamp": "2026-09-21 15:15",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789508/attachment_0.png",
     "Latitude": 36.167915800000003,
     "Longitude": -115.11588380000001
+  },
+  {
+    "UniqueId": 57540,
+    "Timestamp": "2026-09-22 14:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "2:57 PM, Sep 22 2026 Crash on NB I-11\u00A0at Auto Show Dr. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789570/attachment_0.jpg",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
