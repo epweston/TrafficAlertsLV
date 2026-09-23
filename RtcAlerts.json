@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57464,
-    "Timestamp": "2026-09-21 19:15",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:15 PM, Sep 21 2026 Crash on EB Blue Diamond Rd\u00A0before Fort Apache Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788363/attachment_0.png",
-    "Latitude": 36.020455227926654,
-    "Longitude": -115.29789270648386
-  },
-  {
-    "UniqueId": 57465,
-    "Timestamp": "2026-09-21 19:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Intersection is blocked in all directions. Use other routes",
-    "Notes": "7:16 PM, Sep 21 2026 Crash on WB Spring Mountain Rd\u00A0at Cimarron Rd. Intersection is blocked in all directions. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.125719799999999,
-    "Longitude": -115.2699662
-  },
-  {
     "UniqueId": 57466,
     "Timestamp": "2026-09-21 19:19",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789699/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 57575,
+    "Timestamp": "2026-09-22 19:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:10 PM, Sep 22 2026 Stalled vehicle on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789701/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
