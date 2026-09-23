@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 57517,
-    "Timestamp": "2026-09-22 09:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Serene Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:19 AM, Sep 22 2026 Crash on SB St Rose Pkwy\u00A0at Serene Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788955/attachment_0.png",
-    "Latitude": 36.022084999999997,
-    "Longitude": -115.1007856
-  },
-  {
-    "UniqueId": 57518,
-    "Timestamp": "2026-09-22 09:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "9:25 AM, Sep 22 2026 Crash on EB Cheyenne Ave\u00A0at Jones Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788963/attachment_0.jpg",
-    "Latitude": 36.216817199792388,
-    "Longitude": -115.22581636695935
-  },
-  {
-    "UniqueId": 57519,
-    "Timestamp": "2026-09-22 09:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:29 AM, Sep 22 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0at Rampart Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788966/attachment_0.png",
-    "Latitude": 36.159022,
-    "Longitude": -115.29140700000001
-  },
-  {
-    "UniqueId": 57520,
-    "Timestamp": "2026-09-22 09:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:50 AM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789051/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 57521,
-    "Timestamp": "2026-09-22 10:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Skye Canyon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:06 AM, Sep 22 2026 Stalled vehicle on NB I-11\u00A0at Skye Canyon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789093/attachment_0.png",
-    "Latitude": 36.326246089999998,
-    "Longitude": -115.31129846
-  },
-  {
     "UniqueId": 57522,
     "Timestamp": "2026-09-22 10:14",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1328,19 @@
     "ImagePath": "",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 57621,
+    "Timestamp": "2026-09-23 10:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:06 AM, Sep 23 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790537/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
