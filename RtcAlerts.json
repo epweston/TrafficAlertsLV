@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57531,
-    "Timestamp": "2026-09-22 12:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:29 PM, Sep 22 2026 Crash on NB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789347/attachment_0.jpg",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 57532,
     "Timestamp": "2026-09-22 12:46",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790801/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 57633,
+    "Timestamp": "2026-09-23 12:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "12:29 PM, Sep 23 2026 Crash on NB I-11\u00A0before Cheyenne Ave. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790811/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
