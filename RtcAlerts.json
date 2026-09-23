@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57535,
-    "Timestamp": "2026-09-22 13:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:22 PM, Sep 22 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789440/attachment_0.jpg",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 57536,
     "Timestamp": "2026-09-22 13:51",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790889/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 57636,
+    "Timestamp": "2026-09-23 13:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:32 PM, Sep 23 2026 Crash on NB Hualapai Way\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790899/attachment_0.png",
+    "Latitude": 36.159016100000002,
+    "Longitude": -115.31398280000001
   }
 ]
