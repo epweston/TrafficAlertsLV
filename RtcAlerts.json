@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57513,
-    "Timestamp": "2026-09-22 08:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:40 AM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0at Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788914/attachment_0.jpg",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 57514,
-    "Timestamp": "2026-09-22 08:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:43 AM, Sep 22 2026 Crash on SB Stephanie St\u00A0at 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788899/attachment_0.png",
-    "Latitude": 36.029356880000002,
-    "Longitude": -115.04715435
-  },
-  {
     "UniqueId": 57515,
     "Timestamp": "2026-09-22 08:55",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790362/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57616,
+    "Timestamp": "2026-09-23 08:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Desert Foothills Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:45 AM, Sep 23 2026 Crash on EB Charleston Blvd\u00A0before Desert Foothills Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790401/attachment_0.png",
+    "Latitude": 36.159050100000002,
+    "Longitude": -115.35197700000001
   }
 ]
