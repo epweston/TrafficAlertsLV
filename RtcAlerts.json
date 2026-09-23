@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57536,
-    "Timestamp": "2026-09-22 13:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:51 PM, Sep 22 2026 Crash on NB I-15\u00A0at I-11. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789469/attachment_0.jpg",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 57537,
     "Timestamp": "2026-09-22 13:55",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790987/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 57638,
+    "Timestamp": "2026-09-23 13:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Goodsprings Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:51 PM, Sep 23 2026 Stalled vehicle on NB I-15\u00A0before Goodsprings Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791056/attachment_0.png",
+    "Latitude": 35.780752004513424,
+    "Longitude": -115.32833047101389
   }
 ]
