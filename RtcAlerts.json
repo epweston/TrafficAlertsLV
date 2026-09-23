@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57540,
-    "Timestamp": "2026-09-22 14:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "2:57 PM, Sep 22 2026 Crash on NB I-11\u00A0at Auto Show Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789570/attachment_0.jpg",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 57542,
-    "Timestamp": "2026-09-22 15:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Warbonnet Way On Left",
-    "Impact": "",
-    "Notes": "3:03 PM, Sep 22 2026 Crash on EB Blue Diamond Rd\u00A0at Warbonnet Way on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789578/attachment_0.png",
-    "Latitude": 36.020210300000002,
-    "Longitude": -115.2657016
-  },
-  {
-    "UniqueId": 57543,
-    "Timestamp": "2026-09-22 15:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:04 PM, Sep 22 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789580/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 57544,
     "Timestamp": "2026-09-22 15:14",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791081/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 57645,
+    "Timestamp": "2026-09-23 15:01",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:01 PM, Sep 23 2026 Crash on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791113/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
