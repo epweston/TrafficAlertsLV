@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57546,
-    "Timestamp": "2026-09-22 15:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:44 PM, Sep 22 2026 Crash on NB Frank Sinatra Dr\u00A0before Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789593/attachment_0.jpg",
-    "Latitude": 36.086073599999999,
-    "Longitude": -115.1757181
-  },
-  {
     "UniqueId": 57547,
     "Timestamp": "2026-09-22 16:10",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791163/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 57654,
+    "Timestamp": "2026-09-23 15:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Corporate Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:44 PM, Sep 23 2026 Crash on SB Paradise Rd\u00A0at Corporate Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791165/attachment_0.png",
+    "Latitude": 36.118562400000002,
+    "Longitude": -115.1549283
   }
 ]
