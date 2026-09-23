@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57512,
-    "Timestamp": "2026-09-22 08:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:32 AM, Sep 22 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788894/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 57513,
     "Timestamp": "2026-09-22 08:40",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790336/attachment_0.png",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 57614,
+    "Timestamp": "2026-09-23 08:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Oso Blanca Rd",
+    "Impact": "Left-turn lane blocked.",
+    "Notes": "8:31 AM, Sep 23 2026 Crash on SB Durango Dr\u00A0after Oso Blanca Rd. Left-turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790360/attachment_0.jpg",
+    "Latitude": 36.295123400000001,
+    "Longitude": -115.2881131
+  },
+  {
+    "UniqueId": 57615,
+    "Timestamp": "2026-09-23 08:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:32 AM, Sep 23 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790362/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
