@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57484,
-    "Timestamp": "2026-09-21 23:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fiore Bella Blvd",
-    "Impact": "All westbound lanes are blocked.",
-    "Notes": "11:42 PM, Sep 21 2026 Crash on WB Tropicana Ave\u00A0at Fiore Bella Blvd (past Hualapai Way). All westbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788428/attachment_0.png",
-    "Latitude": 36.100263699999999,
-    "Longitude": -115.3179389
-  },
-  {
-    "UniqueId": 57485,
-    "Timestamp": "2026-09-21 23:44",
-    "IncidentType": "Update Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lanes are open.",
-    "Notes": "11:44 PM, Sep 21 2026 Update Police activity on WB Cheyenne Ave\u00A0after Buffalo Dr. Left lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788430/attachment_0.png",
-    "Latitude": 36.218311499999999,
-    "Longitude": -115.26037169999999
-  },
-  {
-    "UniqueId": 57486,
-    "Timestamp": "2026-09-22 00:29",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fiore Bella Blvd",
-    "Impact": "All lanes are open.",
-    "Notes": "12:29 AM, Sep 22 2026 Update Crash on WB Tropicana Ave\u00A0at Fiore Bella Blvd. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.100263699999999,
-    "Longitude": -115.3179389
-  },
-  {
-    "UniqueId": 57487,
-    "Timestamp": "2026-09-22 00:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane partially blocked.",
-    "Notes": "12:45 AM, Sep 22 2026 Crash on WB Tropicana Ave\u00A0after Paradise Rd. Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3788432/attachment_0.png",
-    "Latitude": 36.101028027323217,
-    "Longitude": -115.14987222272508
-  },
-  {
     "UniqueId": 57488,
     "Timestamp": "2026-09-22 03:07",
     "IncidentType": "Crash",
@@ -1398,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789734/attachment_0.png",
     "Latitude": 36.114676899999999,
     "Longitude": -115.1331813
+  },
+  {
+    "UniqueId": 57588,
+    "Timestamp": "2026-09-23 02:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "2:07 AM, Sep 23 2026 Crash on NB I-15\u00A0to I-11. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3789720/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
