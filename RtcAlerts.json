@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57462,
-    "Timestamp": "2026-09-21 18:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:30 PM, Sep 21 2026 Crash on WB Charleston Blvd\u00A0before Durango Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788375/attachment_0.png",
-    "Latitude": 36.158985100000002,
-    "Longitude": -115.2802104
-  },
-  {
     "UniqueId": 57463,
     "Timestamp": "2026-09-21 18:49",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789669/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 57568,
+    "Timestamp": "2026-09-22 18:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:34 PM, Sep 22 2026 Stalled vehicle on NB I-11\u00A0at Casino Center Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789676/attachment_0.png",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 57569,
+    "Timestamp": "2026-09-22 18:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:36 PM, Sep 22 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789691/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
