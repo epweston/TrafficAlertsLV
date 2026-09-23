@@ -1412,5 +1412,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791155/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 57651,
+    "Timestamp": "2026-09-23 15:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:34 PM, Sep 23 2026 Crash on NB Rainbow Blvd\u00A0before Alta Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791160/attachment_0.png",
+    "Latitude": 36.166451199999997,
+    "Longitude": -115.2444019
+  },
+  {
+    "UniqueId": 57652,
+    "Timestamp": "2026-09-23 15:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:35 PM, Sep 23 2026 Crash on SB I-15\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791171/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57653,
+    "Timestamp": "2026-09-23 15:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:36 PM, Sep 23 2026 Stalled vehicle on NB I-15\u00A0at Mile 56. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791163/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
