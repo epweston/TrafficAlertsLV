@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57553,
-    "Timestamp": "2026-09-22 16:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Horizon Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:51 PM, Sep 22 2026 Stalled vehicle on WB Horizon Dr\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789631/attachment_0.png",
-    "Latitude": 36.011908047333456,
-    "Longitude": -114.99005788396181
-  },
-  {
     "UniqueId": 57554,
     "Timestamp": "2026-09-22 16:55",
     "IncidentType": "Crash",
@@ -1524,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791239/attachment_0.png",
     "Latitude": 36.056949000000003,
     "Longitude": -115.1184136
+  },
+  {
+    "UniqueId": 57666,
+    "Timestamp": "2026-09-23 16:45",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:45 PM, Sep 23 2026 Crash on NB Buffalo Dr\u00A0after Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791220/attachment_0.png",
+    "Latitude": 36.070266099999998,
+    "Longitude": -115.26077119999999
+  },
+  {
+    "UniqueId": 57667,
+    "Timestamp": "2026-09-23 16:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Frank Sinatra Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:47 PM, Sep 23 2026 Crash on WB Russell Rd\u00A0at Frank Sinatra Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791241/attachment_0.jpg",
+    "Latitude": 36.086073589295651,
+    "Longitude": -115.17571806907655
   }
 ]
