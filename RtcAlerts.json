@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57544,
-    "Timestamp": "2026-09-22 15:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:14 PM, Sep 22 2026 Crash on SB Stephanie St\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789584/attachment_0.png",
-    "Latitude": 36.029356880000002,
-    "Longitude": -115.04715435
-  },
-  {
     "UniqueId": 57545,
     "Timestamp": "2026-09-22 15:29",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791116/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 57647,
+    "Timestamp": "2026-09-23 15:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Cc-215",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:10 PM, Sep 23 2026 Crash on WB Charleston Blvd\u00A0at CC-215. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791119/attachment_0.png",
+    "Latitude": 36.158983159999998,
+    "Longitude": -115.33725155000001
   }
 ]
