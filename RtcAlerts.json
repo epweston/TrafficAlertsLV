@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57473,
-    "Timestamp": "2026-09-21 20:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:07 PM, Sep 21 2026 Stalled vehicle on SB I-11\u00A0after Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788391/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 57474,
-    "Timestamp": "2026-09-21 20:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fiore Bella Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:29 PM, Sep 21 2026 Crash on WB Tropicana Ave\u00A0at Fiore Bella Blvd (past Hualapai Way). Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788393/attachment_0.png",
-    "Latitude": 36.100263699999999,
-    "Longitude": -115.3179389
-  },
-  {
-    "UniqueId": 57475,
-    "Timestamp": "2026-09-21 20:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "8:39 PM, Sep 21 2026 Crash on WB Craig Rd\u00A0at Tenaya Way. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788410/attachment_0.png",
-    "Latitude": 36.240435699999999,
-    "Longitude": -115.25142390000001
-  },
-  {
     "UniqueId": 57476,
     "Timestamp": "2026-09-21 20:56",
     "IncidentType": "Crash",
@@ -1468,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789682/attachment_0.png",
     "Latitude": 36.173668758672179,
     "Longitude": -115.13793117559058
+  },
+  {
+    "UniqueId": 57580,
+    "Timestamp": "2026-09-22 20:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "8:40 PM, Sep 22 2026 Crash on NB Durango Dr\u00A0after Charleston Blvd. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.158985100000002,
+    "Longitude": -115.2802104
+  },
+  {
+    "UniqueId": 57581,
+    "Timestamp": "2026-09-22 20:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:43 PM, Sep 22 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789709/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
