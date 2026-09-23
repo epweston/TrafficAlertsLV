@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57459,
-    "Timestamp": "2026-09-21 18:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "to",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:14 PM, Sep 21 2026 Crash on NB Rancho Dr\u00A0to Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788371/attachment_0.png",
-    "Latitude": 36.232990800000003,
-    "Longitude": -115.22647120000001
-  },
-  {
-    "UniqueId": 57460,
-    "Timestamp": "2026-09-21 18:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left shoulder",
-    "Notes": "6:20 PM, Sep 21 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Charleston Blvd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788372/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 57461,
     "Timestamp": "2026-09-21 18:23",
     "IncidentType": "Crash",
@@ -1454,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789671/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57564,
+    "Timestamp": "2026-09-22 18:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:16 PM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789673/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 57565,
+    "Timestamp": "2026-09-22 18:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:19 PM, Sep 22 2026 Stalled vehicle on SB I-15\u00A0before Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789675/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
