@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57454,
-    "Timestamp": "2026-09-21 17:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "before",
-    "CrossStreet": "11Th St",
-    "Impact": "",
-    "Notes": "5:49 PM, Sep 21 2026 Crash on EB Fremont St\u00A0before 11th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788347/attachment_0.jpg",
-    "Latitude": 36.166299899999998,
-    "Longitude": -115.1338172
-  },
-  {
-    "UniqueId": 57455,
-    "Timestamp": "2026-09-21 17:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Tenaya Way",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:52 PM, Sep 21 2026 Crash on NB Tenaya Way\u00A0before Cheyenne Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788351/attachment_0.jpg",
-    "Latitude": 36.218143099999999,
-    "Longitude": -115.2513635
-  },
-  {
-    "UniqueId": 57456,
-    "Timestamp": "2026-09-21 17:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Circus Circus Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:55 PM, Sep 21 2026 Crash on SB Las Vegas Blvd\u00A0before Circus Circus Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/21/file_attachments/3788353/attachment_0.png",
-    "Latitude": 36.136819000000003,
-    "Longitude": -115.16177190000001
-  },
-  {
     "UniqueId": 57457,
     "Timestamp": "2026-09-21 17:59",
     "IncidentType": "Crash",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789646/attachment_0.png",
     "Latitude": 36.240214888276881,
     "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 57561,
+    "Timestamp": "2026-09-22 17:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:53 PM, Sep 22 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Hualapai Way. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789648/attachment_0.png",
+    "Latitude": 36.281605159999998,
+    "Longitude": -115.3151178
   }
 ]
