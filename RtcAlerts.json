@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57582,
-    "Timestamp": "2026-09-22 22:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:19 PM, Sep 22 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789730/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 57583,
-    "Timestamp": "2026-09-22 22:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:52 PM, Sep 22 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789732/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 57584,
-    "Timestamp": "2026-09-22 22:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:54 PM, Sep 22 2026 Stalled vehicle on NB I-15\u00A0before Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789715/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
-    "UniqueId": 57585,
-    "Timestamp": "2026-09-22 23:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Tamarus St",
-    "Impact": "",
-    "Notes": "11:03 PM, Sep 22 2026 Crash on WB Flamingo Rd\u00A0before Tamarus St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789734/attachment_0.png",
-    "Latitude": 36.114676899999999,
-    "Longitude": -115.1331813
-  },
-  {
     "UniqueId": 57588,
     "Timestamp": "2026-09-23 02:07",
     "IncidentType": "Crash",
@@ -1482,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791305/attachment_0.png",
     "Latitude": 36.114320797279156,
     "Longitude": -115.15402971020316
+  },
+  {
+    "UniqueId": 57691,
+    "Timestamp": "2026-09-23 23:23",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:23 PM, Sep 23 2026 Police activity on NB I-15\u00A0to Charleston Blvd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 57692,
+    "Timestamp": "2026-09-23 23:23",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:23 PM, Sep 23 2026 Police activity on NB I-15\u00A0to Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791307/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
