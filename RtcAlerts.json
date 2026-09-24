@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57623,
-    "Timestamp": "2026-09-23 10:51",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sr157 - Kyle Canyon Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:51 AM, Sep 23 2026 Police activity on NB I-11\u00A0at SR157 - Kyle Canyon Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790610/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 57624,
     "Timestamp": "2026-09-23 10:55",
     "IncidentType": "Police activity",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792185/attachment_0.png",
     "Latitude": 36.130053699999998,
     "Longitude": -115.1903196
+  },
+  {
+    "UniqueId": 57729,
+    "Timestamp": "2026-09-24 10:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:47 AM, Sep 24 2026 Crash on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792223/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 57730,
+    "Timestamp": "2026-09-24 10:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:51 AM, Sep 24 2026 Stalled vehicle on NB I-11\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792225/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
