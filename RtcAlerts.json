@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57618,
-    "Timestamp": "2026-09-23 08:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "D St",
-    "Impact": "",
-    "Notes": "8:59 AM, Sep 23 2026 Crash on EB Washington Ave\u00A0at D St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790426/attachment_0.png",
-    "Latitude": 36.180947600000003,
-    "Longitude": -115.1468617
-  },
-  {
-    "UniqueId": 57619,
-    "Timestamp": "2026-09-23 09:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:03 AM, Sep 23 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790430/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 57620,
-    "Timestamp": "2026-09-23 09:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:07 AM, Sep 23 2026 Crash on SB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 57621,
     "Timestamp": "2026-09-23 10:06",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791957/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 57719,
+    "Timestamp": "2026-09-24 09:04",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:04 AM, Sep 24 2026 Police activity on SB I-11\u00A0at Wagon Wheel Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791976/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
