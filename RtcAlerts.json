@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57645,
-    "Timestamp": "2026-09-23 15:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:01 PM, Sep 23 2026 Crash on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791113/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 57646,
     "Timestamp": "2026-09-23 15:07",
     "IncidentType": "Crash",
@@ -1510,5 +1496,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792685/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57753,
+    "Timestamp": "2026-09-24 14:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "to",
+    "CrossStreet": "I-15 Sb",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:54 PM, Sep 24 2026 Crash on NB Lamb Blvd\u00A0to I-15 SB onramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792688/attachment_0.png",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 57754,
+    "Timestamp": "2026-09-24 14:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:56 PM, Sep 24 2026 Crash on WB Washington Ave\u00A0after Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792709/attachment_0.png",
+    "Latitude": 36.181090300000008,
+    "Longitude": -115.1791041
+  },
+  {
+    "UniqueId": 57755,
+    "Timestamp": "2026-09-24 14:58",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "2:58 PM, Sep 24 2026 Crash on WB Saint Rose Pkwy\u00A0at Maryland Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792712/attachment_0.png",
+    "Latitude": 35.991393000000002,
+    "Longitude": -115.1365311
   }
 ]
