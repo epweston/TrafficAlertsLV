@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57592,
-    "Timestamp": "2026-09-23 02:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Alper Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:55 AM, Sep 23 2026 Crash on NB Alper Center Dr\u00A0at Saint Rose Pkwy. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 35.994473599999999,
-    "Longitude": -115.1314177
-  },
-  {
     "UniqueId": 57593,
     "Timestamp": "2026-09-23 04:03",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791364/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 57696,
+    "Timestamp": "2026-09-24 03:17",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sands Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:17 AM, Sep 24 2026 Police activity on SB Paradise Rd\u00A0at Sands Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791390/attachment_0.png",
+    "Latitude": 36.121315799999998,
+    "Longitude": -115.155061
+  },
+  {
+    "UniqueId": 57697,
+    "Timestamp": "2026-09-24 03:19",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Hart Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:19 AM, Sep 24 2026 Police activity on NB Martin L King Blvd\u00A0before Hart Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791374/attachment_0.png",
+    "Latitude": 36.196651299999999,
+    "Longitude": -115.16072920000001
   }
 ]
