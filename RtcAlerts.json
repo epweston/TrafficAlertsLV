@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57557,
-    "Timestamp": "2026-09-22 17:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:25 PM, Sep 22 2026 Crash on SB I-11\u00A0at Charleston Blvd off ramp. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789641/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 57558,
     "Timestamp": "2026-09-22 17:31",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791251/attachment_0.png",
     "Latitude": 36.186849129215581,
     "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 57672,
+    "Timestamp": "2026-09-23 17:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Coronado Center Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:24 PM, Sep 23 2026 Crash on SB Eastern Ave\u00A0after Coronado Center Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791273/attachment_0.png",
+    "Latitude": 36.002564409146181,
+    "Longitude": -115.10892569074953
   }
 ]
