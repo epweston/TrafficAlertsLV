@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57611,
-    "Timestamp": "2026-09-23 08:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:15 AM, Sep 23 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790329/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 57612,
     "Timestamp": "2026-09-23 08:24",
     "IncidentType": "Crash",
@@ -1412,5 +1398,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791810/attachment_0.png",
     "Latitude": 36.100859441550384,
     "Longitude": -115.16388414057163
+  },
+  {
+    "UniqueId": 57713,
+    "Timestamp": "2026-09-24 08:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:16 AM, Sep 24 2026 Crash on NB Jones Blvd\u00A0at Oakey Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791855/attachment_0.png",
+    "Latitude": 36.151719544127992,
+    "Longitude": -115.22561788558961
+  },
+  {
+    "UniqueId": 57714,
+    "Timestamp": "2026-09-24 08:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:17 AM, Sep 24 2026 Crash on NB Eastern Ave\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791858/attachment_0.png",
+    "Latitude": 36.023704889999998,
+    "Longitude": -115.11844739
+  },
+  {
+    "UniqueId": 57715,
+    "Timestamp": "2026-09-24 08:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:19 AM, Sep 24 2026 Crash on NB Buffalo Dr\u00A0at Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791860/attachment_0.png",
+    "Latitude": 36.125551000000002,
+    "Longitude": -115.2610938
   }
 ]
