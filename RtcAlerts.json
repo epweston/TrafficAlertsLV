@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57608,
-    "Timestamp": "2026-09-23 07:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:39 AM, Sep 23 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3790244/attachment_0.png",
-    "Latitude": 36.274993366998793,
-    "Longitude": -115.20657961738746
-  },
-  {
     "UniqueId": 57609,
     "Timestamp": "2026-09-23 07:43",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791727/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 57711,
+    "Timestamp": "2026-09-24 07:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Dorrell Ln",
+    "Relationship": "before",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:37 AM, Sep 24 2026 Crash on EB Dorrell Ln\u00A0before Hualapai Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791758/attachment_0.png",
+    "Latitude": 36.288301799999999,
+    "Longitude": -115.315022
   }
 ]
