@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57563,
-    "Timestamp": "2026-09-22 18:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:10 PM, Sep 22 2026 Crash on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/22/file_attachments/3789671/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 57564,
     "Timestamp": "2026-09-22 18:16",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791265/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 57679,
+    "Timestamp": "2026-09-23 18:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Maule Ave",
+    "Relationship": "at",
+    "CrossStreet": "Quarterhorse La",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:11 PM, Sep 23 2026 Crash on WB Maule Ave\u00A0at Quarterhorse La. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791267/attachment_0.png",
+    "Latitude": 36.0628964,
+    "Longitude": -115.2930011
+  },
+  {
+    "UniqueId": 57680,
+    "Timestamp": "2026-09-23 18:12",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Neon Gateway",
+    "Relationship": "at",
+    "CrossStreet": "Western Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:12 PM, Sep 23 2026 Crash on WB Neon Gateway\u00A0at Western Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791293/attachment_0.png",
+    "Latitude": 36.154844799999999,
+    "Longitude": -115.159863
   }
 ]
