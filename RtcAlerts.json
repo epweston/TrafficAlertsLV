@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57694,
-    "Timestamp": "2026-09-24 02:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:29 AM, Sep 24 2026 Stalled vehicle on WB Ann Rd\u00A0at 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791345/attachment_0.png",
-    "Latitude": 36.261413900000008,
-    "Longitude": -115.14247690000001
-  },
-  {
     "UniqueId": 57695,
     "Timestamp": "2026-09-24 02:49",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792974/attachment_0.png",
     "Latitude": 36.173040700000001,
     "Longitude": -115.1425684
+  },
+  {
+    "UniqueId": 57810,
+    "Timestamp": "2026-09-25 02:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:25 AM, Sep 25 2026 Crash on NB Valley View Blvd\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792977/attachment_0.png",
+    "Latitude": 36.176219719999999,
+    "Longitude": -115.19255696000001
   }
 ]
