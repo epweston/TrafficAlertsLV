@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57764,
-    "Timestamp": "2026-09-24 16:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:24 PM, Sep 24 2026 Crash on SB Rainbow Blvd\u00A0before 215 Southern Beltway Off Ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792786/attachment_0.jpg",
-    "Latitude": 36.066602240000002,
-    "Longitude": -115.24247282
-  },
-  {
-    "UniqueId": 57765,
-    "Timestamp": "2026-09-24 16:27",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:27 PM, Sep 24 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792788/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 57766,
     "Timestamp": "2026-09-24 16:32",
     "IncidentType": "Crash",
@@ -1566,5 +1538,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794177/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 57877,
+    "Timestamp": "2026-09-25 16:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder",
+    "Notes": "4:22 PM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0before Cheyenne Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794181/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 57878,
+    "Timestamp": "2026-09-25 16:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:23 PM, Sep 25 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0to Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794182/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 57879,
+    "Timestamp": "2026-09-25 16:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder before the SB and NB I-11 Ramps",
+    "Notes": "4:24 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0to I-11. Right shoulder before the SB and NB I-11 Ramps",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794168/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 57880,
+    "Timestamp": "2026-09-25 16:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:26 PM, Sep 25 2026 Stalled vehicle on NB I-11\u00A0before Wagon Wheel Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794189/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
