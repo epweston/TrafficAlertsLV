@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57717,
-    "Timestamp": "2026-09-24 08:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:47 AM, Sep 24 2026 Crash on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791931/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
     "UniqueId": 57718,
     "Timestamp": "2026-09-24 08:54",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793427/attachment_0.png",
     "Latitude": 36.126834100000004,
     "Longitude": -115.15505899999999
+  },
+  {
+    "UniqueId": 57833,
+    "Timestamp": "2026-09-25 08:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Spruce Goose St",
+    "Impact": "",
+    "Notes": "8:51 AM, Sep 25 2026 Stalled vehicle on WB Sahara Ave\u00A0at Spruce Goose St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793459/attachment_0.png",
+    "Latitude": 36.144493699999998,
+    "Longitude": -115.32888800000001
   }
 ]
