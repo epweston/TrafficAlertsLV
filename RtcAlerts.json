@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57714,
-    "Timestamp": "2026-09-24 08:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:17 AM, Sep 24 2026 Crash on NB Eastern Ave\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791858/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
-    "UniqueId": 57715,
-    "Timestamp": "2026-09-24 08:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:19 AM, Sep 24 2026 Crash on NB Buffalo Dr\u00A0at Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791860/attachment_0.png",
-    "Latitude": 36.125551000000002,
-    "Longitude": -115.2610938
-  },
-  {
-    "UniqueId": 57716,
-    "Timestamp": "2026-09-24 08:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:23 AM, Sep 24 2026 Crash on SB Rainbow Blvd\u00A0at Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791872/attachment_0.png",
-    "Latitude": 36.099861799999999,
-    "Longitude": -115.2429985
-  },
-  {
     "UniqueId": 57717,
     "Timestamp": "2026-09-24 08:47",
     "IncidentType": "Crash",
@@ -1594,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793390/attachment_0.jpg",
     "Latitude": 36.105713600000001,
     "Longitude": -115.151354
+  },
+  {
+    "UniqueId": 57828,
+    "Timestamp": "2026-09-25 08:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Mountain Vista St",
+    "Relationship": "after",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:21 AM, Sep 25 2026 Crash on NB Mountain Vista St\u00A0after Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793395/attachment_0.jpg",
+    "Latitude": 36.107594596857723,
+    "Longitude": -115.07350778548742
+  },
+  {
+    "UniqueId": 57829,
+    "Timestamp": "2026-09-25 08:22",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Four Seasons Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:22 AM, Sep 25 2026 Crash on SB Las Vegas Blvd\u00A0at Four Seasons Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793386/attachment_0.jpg",
+    "Latitude": 36.089767633615281,
+    "Longitude": -115.17273374029794
   }
 ]
