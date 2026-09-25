@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57760,
-    "Timestamp": "2026-09-24 15:38",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "D St Intersection",
-    "Impact": "",
-    "Notes": "3:38 PM, Sep 24 2026 Crash on EB Washington Ave\u00A0at D St. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792772/attachment_0.png",
-    "Latitude": 36.180947600000003,
-    "Longitude": -115.1468617
-  },
-  {
-    "UniqueId": 57761,
-    "Timestamp": "2026-09-24 15:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "D St",
-    "Impact": "",
-    "Notes": "3:41 PM, Sep 24 2026 Crash on EB Washington Ave\u00A0at D St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792774/attachment_0.png",
-    "Latitude": 36.180947600000003,
-    "Longitude": -115.1468617
-  },
-  {
-    "UniqueId": 57762,
-    "Timestamp": "2026-09-24 16:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:00 PM, Sep 24 2026 Crash on EB Summerlin Pkwy\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792782/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
-    "UniqueId": 57763,
-    "Timestamp": "2026-09-24 16:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:00 PM, Sep 24 2026 Stalled vehicle on NB I-15\u00A0at Mile 4. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792804/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 57764,
     "Timestamp": "2026-09-24 16:24",
     "IncidentType": "Crash",
@@ -1566,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794142/attachment_0.jpg",
     "Latitude": 36.2403622,
     "Longitude": -115.0774713
+  },
+  {
+    "UniqueId": 57873,
+    "Timestamp": "2026-09-25 15:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:58 PM, Sep 25 2026 Crash on EB 215 Southern Beltway\u00A0after Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794149/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
