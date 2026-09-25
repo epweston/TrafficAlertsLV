@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57708,
-    "Timestamp": "2026-09-24 07:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:08 AM, Sep 24 2026 Crash on NB Paradise Rd\u00A0after Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791664/attachment_0.png",
-    "Latitude": 36.143519699999999,
-    "Longitude": -115.1548787
-  },
-  {
     "UniqueId": 57709,
     "Timestamp": "2026-09-24 07:18",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793177/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 57821,
+    "Timestamp": "2026-09-25 07:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "7:07 AM, Sep 25 2026 Crash on SB Decatur Blvd\u00A0before Hacienda Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793229/attachment_0.jpg",
+    "Latitude": 36.093534051830723,
+    "Longitude": -115.20808696746828
   }
 ]
