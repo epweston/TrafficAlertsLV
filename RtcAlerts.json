@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57757,
-    "Timestamp": "2026-09-24 15:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Sunridge Heights Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:04 PM, Sep 24 2026 Crash on SB Eastern Ave\u00A0after Sunridge Heights Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792717/attachment_0.png",
-    "Latitude": 35.9925693,
-    "Longitude": -115.1008617
-  },
-  {
-    "UniqueId": 57758,
-    "Timestamp": "2026-09-24 15:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Aviary Way",
-    "Relationship": "after",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:08 PM, Sep 24 2026 Crash on NB Aviary Way\u00A0after 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792723/attachment_0.png",
-    "Latitude": 36.294506599999998,
-    "Longitude": -115.198295
-  },
-  {
-    "UniqueId": 57759,
-    "Timestamp": "2026-09-24 15:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:13 PM, Sep 24 2026 Crash on EB 215 Southern Beltway\u00A0to I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792725/attachment_0.png",
-    "Latitude": 36.277381871493823,
-    "Longitude": -115.26709154723478
-  },
-  {
     "UniqueId": 57760,
     "Timestamp": "2026-09-24 15:38",
     "IncidentType": "Crash",
@@ -1538,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794088/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 57868,
+    "Timestamp": "2026-09-25 15:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "S Rancho Dr",
+    "Impact": "Center lanes blocked.",
+    "Notes": "3:08 PM, Sep 25 2026 Crash on SB I-11\u00A0at S Rancho Dr. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794113/attachment_0.jpg",
+    "Latitude": 36.175254133971912,
+    "Longitude": -115.17418362739356
   }
 ]
