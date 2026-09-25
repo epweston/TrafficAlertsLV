@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57689,
-    "Timestamp": "2026-09-23 22:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin Luther King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:09 PM, Sep 23 2026 Crash on SB Martin Luther King Blvd\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791324/attachment_0.png",
-    "Latitude": 36.195632400000001,
-    "Longitude": -115.1607403
-  },
-  {
-    "UniqueId": 57690,
-    "Timestamp": "2026-09-23 22:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:13 PM, Sep 23 2026 Crash on EB Flamingo Rd\u00A0at Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791305/attachment_0.png",
-    "Latitude": 36.114320797279156,
-    "Longitude": -115.15402971020316
-  },
-  {
     "UniqueId": 57691,
     "Timestamp": "2026-09-23 23:23",
     "IncidentType": "Police activity",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792897/attachment_0.png",
     "Latitude": 36.121397100000003,
     "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 57796,
+    "Timestamp": "2026-09-24 22:35",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Hotel Rio Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "10:35 PM, Sep 24 2026 Crash on WB Flamingo Rd\u00A0before Hotel Rio Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792902/attachment_0.jpg",
+    "Latitude": 36.115285299999996,
+    "Longitude": -115.18716740000001
   }
 ]
