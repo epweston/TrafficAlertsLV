@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57699,
-    "Timestamp": "2026-09-24 05:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "over",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:29 AM, Sep 24 2026 Crash on EB Cheyenne Ave\u00A0over I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791510/attachment_0.png",
-    "Latitude": 36.217665489308381,
-    "Longitude": -115.12400501844569
-  },
-  {
-    "UniqueId": 57700,
-    "Timestamp": "2026-09-24 05:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "5:32 AM, Sep 24 2026 Crash on SB I-15\u00A0at Cheyenne Ave. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791506/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 57701,
-    "Timestamp": "2026-09-24 05:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "5:38 AM, Sep 24 2026 Crash on WB Cheyenne Ave\u00A0to I-15. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791515/attachment_0.png",
-    "Latitude": 36.217665489308381,
-    "Longitude": -115.12400501844569
-  },
-  {
-    "UniqueId": 57702,
-    "Timestamp": "2026-09-24 05:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:49 AM, Sep 24 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791523/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 57703,
     "Timestamp": "2026-09-24 05:51",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793089/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 57818,
+    "Timestamp": "2026-09-25 05:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:44 AM, Sep 25 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793109/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
