@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57727,
-    "Timestamp": "2026-09-24 10:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:28 AM, Sep 24 2026 Crash on WB Flamingo Rd\u00A0at 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792190/attachment_0.png",
-    "Latitude": 36.115079025217497,
-    "Longitude": -115.30254383728953
-  },
-  {
-    "UniqueId": 57728,
-    "Timestamp": "2026-09-24 10:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:29 AM, Sep 24 2026 Crash on SB Valley View Blvd\u00A0after Desert Inn Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792185/attachment_0.png",
-    "Latitude": 36.130053699999998,
-    "Longitude": -115.1903196
-  },
-  {
     "UniqueId": 57729,
     "Timestamp": "2026-09-24 10:47",
     "IncidentType": "Crash",
@@ -1650,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793683/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 57845,
+    "Timestamp": "2026-09-25 10:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Wagonwheel Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:34 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0after Wagonwheel Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793724/attachment_0.png",
+    "Latitude": 35.995474915586584,
+    "Longitude": -114.93421517814367
   }
 ]
