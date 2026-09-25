@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57749,
-    "Timestamp": "2026-09-24 14:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:02 PM, Sep 24 2026 Crash on NB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792626/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 57750,
-    "Timestamp": "2026-09-24 14:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Left - Right Shoulders Blocked.",
-    "Notes": "2:02 PM, Sep 24 2026 Crash on NB I-15\u00A0at Silverado Ranch Blvd. Left - Right Shoulders Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792627/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 57751,
-    "Timestamp": "2026-09-24 14:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:05 PM, Sep 24 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792629/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 57752,
     "Timestamp": "2026-09-24 14:48",
     "IncidentType": "Crash",
@@ -1552,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793995/attachment_0.jpg",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 57861,
+    "Timestamp": "2026-09-25 14:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:38 PM, Sep 25 2026 Crash on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794068/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57862,
+    "Timestamp": "2026-09-25 14:38",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Teco Ave",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "2:38 PM, Sep 25 2026 Crash on EB Teco Ave\u00A0after Decatur Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794090/attachment_0.jpg",
+    "Latitude": 36.0735612,
+    "Longitude": -115.2078076
   }
 ]
