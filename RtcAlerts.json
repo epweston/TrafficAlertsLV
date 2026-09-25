@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57691,
-    "Timestamp": "2026-09-23 23:23",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:23 PM, Sep 23 2026 Police activity on NB I-15\u00A0to Charleston Blvd. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 57692,
-    "Timestamp": "2026-09-23 23:23",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:23 PM, Sep 23 2026 Police activity on NB I-15\u00A0to Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791307/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 57693,
     "Timestamp": "2026-09-23 23:27",
     "IncidentType": "Crash",
@@ -1496,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792906/attachment_0.jpg",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 57798,
+    "Timestamp": "2026-09-24 23:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "11:24 PM, Sep 24 2026 Crash on WB Summerlin Pkwy\u00A0at Rampart Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792908/attachment_0.png",
+    "Latitude": 36.159022,
+    "Longitude": -115.29140700000001
+  },
+  {
+    "UniqueId": 57799,
+    "Timestamp": "2026-09-24 23:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:24 PM, Sep 24 2026 Crash on NB Paradise Rd\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792921/attachment_0.jpg",
+    "Latitude": 36.143519699999999,
+    "Longitude": -115.1548787
   }
 ]
