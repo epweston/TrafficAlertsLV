@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57733,
-    "Timestamp": "2026-09-24 11:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:29 AM, Sep 24 2026 Crash on EB Flamingo Rd\u00A0before Maryland Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792289/attachment_0.jpg",
-    "Latitude": 36.114655800000001,
-    "Longitude": -115.1379192
-  },
-  {
     "UniqueId": 57734,
     "Timestamp": "2026-09-24 11:48",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793788/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 57851,
+    "Timestamp": "2026-09-25 11:35",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:35 AM, Sep 25 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793831/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
