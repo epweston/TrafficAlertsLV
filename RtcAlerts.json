@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57729,
-    "Timestamp": "2026-09-24 10:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:47 AM, Sep 24 2026 Crash on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792223/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 57730,
     "Timestamp": "2026-09-24 10:51",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793724/attachment_0.png",
     "Latitude": 35.995474915586584,
     "Longitude": -114.93421517814367
+  },
+  {
+    "UniqueId": 57846,
+    "Timestamp": "2026-09-25 10:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Commerce St",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "10:47 AM, Sep 25 2026 Crash on NB Commerce St\u00A0at Craig Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793749/attachment_0.jpg",
+    "Latitude": 36.239424999999997,
+    "Longitude": -115.1437603
   }
 ]
