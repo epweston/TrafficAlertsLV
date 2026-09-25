@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57725,
-    "Timestamp": "2026-09-24 10:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "before",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:08 AM, Sep 24 2026 Stalled vehicle on SB Hualapai Way\u00A0before Elkhorn Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792116/attachment_0.png",
-    "Latitude": 36.292091497722872,
-    "Longitude": -115.3149140038437
-  },
-  {
-    "UniqueId": 57726,
-    "Timestamp": "2026-09-24 10:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Renaissance Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "10:13 AM, Sep 24 2026 Crash on WB Tropicana Ave\u00A0at Renaissance Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792140/attachment_0.png",
-    "Latitude": 36.100454499999998,
-    "Longitude": -115.1228455
-  },
-  {
     "UniqueId": 57727,
     "Timestamp": "2026-09-24 10:28",
     "IncidentType": "Crash",
@@ -1622,5 +1594,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793606/attachment_0.png",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 57841,
+    "Timestamp": "2026-09-25 10:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Commerce St",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:12 AM, Sep 25 2026 Crash on NB Commerce St\u00A0at Craig Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793671/attachment_0.png",
+    "Latitude": 36.239424999999997,
+    "Longitude": -115.1437603
+  },
+  {
+    "UniqueId": 57842,
+    "Timestamp": "2026-09-25 10:14",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "at",
+    "CrossStreet": "Santa Flora Ct",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "10:14 AM, Sep 25 2026 Crash on WB Ann Rd\u00A0at Santa Flora Ct. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793661/attachment_0.png",
+    "Latitude": 36.261741499999999,
+    "Longitude": -115.1513116
+  },
+  {
+    "UniqueId": 57843,
+    "Timestamp": "2026-09-25 10:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:15 AM, Sep 25 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Decatur Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793664/attachment_0.png",
+    "Latitude": 36.274993366998793,
+    "Longitude": -115.20657961738746
   }
 ]
