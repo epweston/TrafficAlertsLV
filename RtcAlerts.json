@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57687,
-    "Timestamp": "2026-09-23 20:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:44 PM, Sep 23 2026 Crash on SB I-15 \u00A0after Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791300/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 57688,
     "Timestamp": "2026-09-23 21:58",
     "IncidentType": "Crash",
@@ -1454,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792886/attachment_0.png",
     "Latitude": 36.1888723,
     "Longitude": -115.0622758
+  },
+  {
+    "UniqueId": 57791,
+    "Timestamp": "2026-09-24 20:53",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Audrie St",
+    "Impact": "",
+    "Notes": "8:53 PM, Sep 24 2026 Crash on EB Harmon Ave\u00A0at Audrie St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792891/attachment_0.png",
+    "Latitude": 36.108093099999998,
+    "Longitude": -115.16762249999999
+  },
+  {
+    "UniqueId": 57792,
+    "Timestamp": "2026-09-24 20:57",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:57 PM, Sep 24 2026 Crash on EB Blue Diamond Rd\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792892/attachment_0.png",
+    "Latitude": 36.043447336539366,
+    "Longitude": -115.18079292179071
   }
 ]
