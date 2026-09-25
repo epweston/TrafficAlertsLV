@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57734,
-    "Timestamp": "2026-09-24 11:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:48 AM, Sep 24 2026 Crash on EB Sahara Ave\u00A0at Cimarron Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792319/attachment_0.jpg",
-    "Latitude": 36.143967000000004,
-    "Longitude": -115.2699695
-  },
-  {
     "UniqueId": 57735,
     "Timestamp": "2026-09-24 12:01",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793831/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 57852,
+    "Timestamp": "2026-09-25 11:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:45 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793847/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
