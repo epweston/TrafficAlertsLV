@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57672,
-    "Timestamp": "2026-09-23 17:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Coronado Center Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:24 PM, Sep 23 2026 Crash on SB Eastern Ave\u00A0after Coronado Center Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791273/attachment_0.png",
-    "Latitude": 36.002564409146181,
-    "Longitude": -115.10892569074953
-  },
-  {
     "UniqueId": 57673,
     "Timestamp": "2026-09-23 17:44",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792824/attachment_0.png",
     "Latitude": 36.0849823,
     "Longitude": -115.2609581
+  },
+  {
+    "UniqueId": 57775,
+    "Timestamp": "2026-09-24 17:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:30 PM, Sep 24 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792843/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 57776,
+    "Timestamp": "2026-09-24 17:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:32 PM, Sep 24 2026 Crash on SB Martin L King Blvd\u00A0at Washington Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792845/attachment_0.jpg",
+    "Latitude": 36.180861052200697,
+    "Longitude": -115.16088006783248
   }
 ]
