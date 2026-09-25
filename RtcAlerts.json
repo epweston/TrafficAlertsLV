@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57674,
-    "Timestamp": "2026-09-23 17:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Harris Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:53 PM, Sep 23 2026 Crash on SB Pecos Rd\u00A0at Harris Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/23/file_attachments/3791261/attachment_0.png",
-    "Latitude": 36.177156099999998,
-    "Longitude": -115.0981852
-  },
-  {
     "UniqueId": 57675,
     "Timestamp": "2026-09-23 17:57",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792851/attachment_0.png",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 57779,
+    "Timestamp": "2026-09-24 17:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "",
+    "Notes": "5:53 PM, Sep 24 2026 Stalled vehicle on SB I-11\u00A0after Ann Rd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792853/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
