@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57735,
-    "Timestamp": "2026-09-24 12:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Meadows Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:01 PM, Sep 24 2026 Crash on SB Decatur Blvd\u00A0at Meadows Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792379/attachment_0.jpg",
-    "Latitude": 36.1701117,
-    "Longitude": -115.2059091
-  },
-  {
-    "UniqueId": 57736,
-    "Timestamp": "2026-09-24 12:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:03 PM, Sep 24 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792368/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 57737,
-    "Timestamp": "2026-09-24 12:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:06 PM, Sep 24 2026 Crash on SB I-15\u00A0at Harmon Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792392/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
     "UniqueId": 57738,
     "Timestamp": "2026-09-24 12:13",
     "IncidentType": "Vehicle on fire",
@@ -1678,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793855/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 57855,
+    "Timestamp": "2026-09-25 12:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:07 PM, Sep 25 2026 Crash on NB 215 Western Beltway\u00A0at Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793862/attachment_0.png",
+    "Latitude": 36.261637469999997,
+    "Longitude": -115.32673715999999
   }
 ]
