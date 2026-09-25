@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57730,
-    "Timestamp": "2026-09-24 10:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:51 AM, Sep 24 2026 Stalled vehicle on NB I-11\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792225/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 57731,
     "Timestamp": "2026-09-24 10:56",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793749/attachment_0.jpg",
     "Latitude": 36.239424999999997,
     "Longitude": -115.1437603
+  },
+  {
+    "UniqueId": 57847,
+    "Timestamp": "2026-09-25 10:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:50 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0before Wagon Wheel Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793736/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
