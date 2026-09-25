@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57698,
-    "Timestamp": "2026-09-24 05:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:23 AM, Sep 24 2026 Stalled vehicle on NB Rainbow Blvd\u00A0at Desert Inn Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791486/attachment_0.png",
-    "Latitude": 36.12947394310789,
-    "Longitude": -115.24300934562113
-  },
-  {
     "UniqueId": 57699,
     "Timestamp": "2026-09-24 05:29",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793058/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 57817,
+    "Timestamp": "2026-09-25 05:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:22 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793089/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
