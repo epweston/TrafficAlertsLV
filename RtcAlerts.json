@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57731,
-    "Timestamp": "2026-09-24 10:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:56 AM, Sep 24 2026 Crash on EB Tropicana Ave\u00A0before Paradise Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792227/attachment_0.png",
-    "Latitude": 36.101028027323217,
-    "Longitude": -115.14987222272508
-  },
-  {
-    "UniqueId": 57732,
-    "Timestamp": "2026-09-24 11:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Valley Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:03 AM, Sep 24 2026 Crash on SB Nellis Blvd\u00A0before Vegas Valley Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792244/attachment_0.jpg",
-    "Latitude": 36.13697359374855,
-    "Longitude": -115.06562949343491
-  },
-  {
     "UniqueId": 57733,
     "Timestamp": "2026-09-24 11:29",
     "IncidentType": "Crash",
@@ -1636,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793736/attachment_0.png",
     "Latitude": 35.99545027410926,
     "Longitude": -114.93416109029313
+  },
+  {
+    "UniqueId": 57848,
+    "Timestamp": "2026-09-25 11:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:01 AM, Sep 25 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0after Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793746/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
