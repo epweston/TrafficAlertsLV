@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57721,
-    "Timestamp": "2026-09-24 09:46",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:46 AM, Sep 24 2026 Police activity on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792044/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 57722,
     "Timestamp": "2026-09-24 09:54",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793534/attachment_0.png",
     "Latitude": 36.167773199999999,
     "Longitude": -115.11272080000001
+  },
+  {
+    "UniqueId": 57839,
+    "Timestamp": "2026-09-25 09:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Deactur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:49 AM, Sep 25 2026 Crash on NB Deactur Blvd\u00A0after Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793611/attachment_0.jpg",
+    "Latitude": 36.209657399999998,
+    "Longitude": -115.2053971
   }
 ]
