@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57738,
-    "Timestamp": "2026-09-24 12:13",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:13 PM, Sep 24 2026 Vehicle on fire on NB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792404/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 57739,
     "Timestamp": "2026-09-24 12:28",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793862/attachment_0.png",
     "Latitude": 36.261637469999997,
     "Longitude": -115.32673715999999
+  },
+  {
+    "UniqueId": 57856,
+    "Timestamp": "2026-09-25 12:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Left lanes blocked.",
+    "Notes": "12:23 PM, Sep 25 2026 Crash on NB I-11\u00A0before I-15. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793912/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
