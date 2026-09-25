@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57743,
-    "Timestamp": "2026-09-24 13:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "1:17 PM, Sep 24 2026 Crash on NB Jones Blvd\u00A0at Blue Diamond Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792573/attachment_0.jpg",
-    "Latitude": 36.0256525,
-    "Longitude": -115.2256967
-  },
-  {
-    "UniqueId": 57744,
-    "Timestamp": "2026-09-24 13:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "Left and Right lanes blocked.",
-    "Notes": "1:30 PM, Sep 24 2026 Crash on SB I-11\u00A0before Horizon Ridge Pkwy. Left and Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792567/attachment_0.jpg",
-    "Latitude": 36.010619300000002,
-    "Longitude": -114.9938854
-  },
-  {
-    "UniqueId": 57745,
-    "Timestamp": "2026-09-24 13:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:42 PM, Sep 24 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792609/attachment_0.jpg",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
     "UniqueId": 57746,
     "Timestamp": "2026-09-24 13:49",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793933/attachment_0.jpg",
     "Latitude": 36.114610499999998,
     "Longitude": -115.2339222
+  },
+  {
+    "UniqueId": 57859,
+    "Timestamp": "2026-09-25 13:39",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 9",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:39 PM, Sep 25 2026 Crash on SB I-15\u00A0before Mile 9. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793991/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
