@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57712,
-    "Timestamp": "2026-09-24 07:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:53 AM, Sep 24 2026 Crash on WB Tropicana Ave\u00A0before Koval Ln. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791810/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
     "UniqueId": 57713,
     "Timestamp": "2026-09-24 08:16",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793305/attachment_0.jpg",
     "Latitude": 36.123068099999998,
     "Longitude": -115.07616419999999
+  },
+  {
+    "UniqueId": 57824,
+    "Timestamp": "2026-09-25 08:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:01 AM, Sep 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793351/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
