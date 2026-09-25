@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57766,
-    "Timestamp": "2026-09-24 16:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:32 PM, Sep 24 2026 Crash on NB Decatur Blvd\u00A0before Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792811/attachment_0.jpg",
-    "Latitude": 36.122551399999999,
-    "Longitude": -115.2080967
-  },
-  {
     "UniqueId": 57767,
     "Timestamp": "2026-09-24 16:46",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794189/attachment_0.png",
     "Latitude": 35.99545027410926,
     "Longitude": -114.93416109029313
+  },
+  {
+    "UniqueId": 57881,
+    "Timestamp": "2026-09-25 16:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Left shoulder",
+    "Notes": "4:26 PM, Sep 25 2026 Crash on NB I-15\u00A0at Sloan Rd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794185/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
