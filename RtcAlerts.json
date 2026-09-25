@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57767,
-    "Timestamp": "2026-09-24 16:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:46 PM, Sep 24 2026 Stalled vehicle on SB I-11\u00A0before Flamingo Rd.. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792812/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 57768,
     "Timestamp": "2026-09-24 17:08",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794211/attachment_0.jpg",
     "Latitude": 36.114596900000002,
     "Longitude": -115.1641267
+  },
+  {
+    "UniqueId": 57884,
+    "Timestamp": "2026-09-25 16:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:43 PM, Sep 25 2026 Crash on EB Sahara Ave\u00A0before Decatur Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794215/attachment_0.png",
+    "Latitude": 36.144533188965404,
+    "Longitude": -115.20814061164857
+  },
+  {
+    "UniqueId": 57885,
+    "Timestamp": "2026-09-25 16:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Left shoulder",
+    "Notes": "4:45 PM, Sep 25 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794218/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 57886,
+    "Timestamp": "2026-09-25 16:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Owens Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "4:48 PM, Sep 25 2026 Crash on SB Lamb Blvd\u00A0after Owens Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794219/attachment_0.jpg",
+    "Latitude": 36.188495600000003,
+    "Longitude": -115.0799213
   }
 ]
