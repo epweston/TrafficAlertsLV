@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57713,
-    "Timestamp": "2026-09-24 08:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:16 AM, Sep 24 2026 Crash on NB Jones Blvd\u00A0at Oakey Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3791855/attachment_0.png",
-    "Latitude": 36.151719544127992,
-    "Longitude": -115.22561788558961
-  },
-  {
     "UniqueId": 57714,
     "Timestamp": "2026-09-24 08:17",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793370/attachment_0.jpg",
     "Latitude": 36.166451199999997,
     "Longitude": -115.2444019
+  },
+  {
+    "UniqueId": 57827,
+    "Timestamp": "2026-09-25 08:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "before",
+    "CrossStreet": "Naples Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:14 AM, Sep 25 2026 Crash on SB Paradise Rd\u00A0before Naples Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793390/attachment_0.jpg",
+    "Latitude": 36.105713600000001,
+    "Longitude": -115.151354
   }
 ]
