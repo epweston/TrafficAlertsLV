@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57838,
-    "Timestamp": "2026-09-25 09:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Nevada State Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:10 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0at Nevada State Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793534/attachment_0.png",
-    "Latitude": 36.167773199999999,
-    "Longitude": -115.11272080000001
-  },
-  {
     "UniqueId": 57839,
     "Timestamp": "2026-09-25 09:49",
     "IncidentType": "Crash",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794425/attachment_0.jpg",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 57961,
+    "Timestamp": "2026-09-26 09:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:18 AM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794428/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
