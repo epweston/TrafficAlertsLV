@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57787,
-    "Timestamp": "2026-09-24 20:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:06 PM, Sep 24 2026 Stalled vehicle on NB Pecos Rd\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792866/attachment_0.png",
-    "Latitude": 36.289791190000003,
-    "Longitude": -115.09897463999999
-  },
-  {
     "UniqueId": 57788,
     "Timestamp": "2026-09-24 20:17",
     "IncidentType": "Crash",
@@ -1860,5 +1846,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794310/attachment_0.png",
     "Latitude": 36.129250999999996,
     "Longitude": -115.2610777
+  },
+  {
+    "UniqueId": 57921,
+    "Timestamp": "2026-09-25 20:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "8:10 PM, Sep 25 2026 Crash on NB Decatur Blvd\u00A0after Charleston Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794312/attachment_0.jpg",
+    "Latitude": 36.159069000000002,
+    "Longitude": -115.2059539
+  },
+  {
+    "UniqueId": 57922,
+    "Timestamp": "2026-09-25 20:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:13 PM, Sep 25 2026 Crash on NB Lamb Blvd\u00A0at Las Vegas Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794313/attachment_0.jpg",
+    "Latitude": 36.2254231,
+    "Longitude": -115.08002999999999
   }
 ]
