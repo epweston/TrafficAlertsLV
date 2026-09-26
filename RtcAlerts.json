@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57839,
-    "Timestamp": "2026-09-25 09:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Deactur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:49 AM, Sep 25 2026 Crash on NB Deactur Blvd\u00A0after Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793611/attachment_0.jpg",
-    "Latitude": 36.209657399999998,
-    "Longitude": -115.2053971
-  },
-  {
     "UniqueId": 57840,
     "Timestamp": "2026-09-25 10:03",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794442/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 57963,
+    "Timestamp": "2026-09-26 09:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Spring Mtn Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:46 AM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0after Spring Mtn Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794443/attachment_0.jpg",
+    "Latitude": 36.125444299999998,
+    "Longitude": -115.1701368
+  },
+  {
+    "UniqueId": 57964,
+    "Timestamp": "2026-09-26 09:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:51 AM, Sep 26 2026 Stalled vehicle on SB I-11\u00A0after Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794453/attachment_0.jpg",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
