@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57874,
-    "Timestamp": "2026-09-25 16:01",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sierra Vista Dr",
-    "Relationship": "before",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:01 PM, Sep 25 2026 Crash on EB Sierra Vista Dr\u00A0before University Center Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794170/attachment_0.png",
-    "Latitude": 36.1269274,
-    "Longitude": -115.1460917
-  },
-  {
     "UniqueId": 57875,
     "Timestamp": "2026-09-25 16:20",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794573/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 58000,
+    "Timestamp": "2026-09-26 16:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:00 PM, Sep 26 2026 Crash on SB I-15\u00A0to Martin L King Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794576/attachment_0.png",
+    "Latitude": 36.174652500000001,
+    "Longitude": -115.16061550000001
   }
 ]
