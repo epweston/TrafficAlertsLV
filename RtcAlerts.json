@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57791,
-    "Timestamp": "2026-09-24 20:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "at",
-    "CrossStreet": "Audrie St",
-    "Impact": "",
-    "Notes": "8:53 PM, Sep 24 2026 Crash on EB Harmon Ave\u00A0at Audrie St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792891/attachment_0.png",
-    "Latitude": 36.108093099999998,
-    "Longitude": -115.16762249999999
-  },
-  {
-    "UniqueId": 57792,
-    "Timestamp": "2026-09-24 20:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:57 PM, Sep 24 2026 Crash on EB Blue Diamond Rd\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792892/attachment_0.png",
-    "Latitude": 36.043447336539366,
-    "Longitude": -115.18079292179071
-  },
-  {
-    "UniqueId": 57793,
-    "Timestamp": "2026-09-24 21:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:06 PM, Sep 24 2026 Crash on SB Paradise Rd\u00A0after Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792893/attachment_0.png",
-    "Latitude": 36.089409500000002,
-    "Longitude": -115.1461541
-  },
-  {
     "UniqueId": 57794,
     "Timestamp": "2026-09-24 21:58",
     "IncidentType": "Crash",
@@ -1888,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794280/attachment_0.png",
     "Latitude": 36.101074300000001,
     "Longitude": -115.1459157
+  },
+  {
+    "UniqueId": 57927,
+    "Timestamp": "2026-09-25 21:22",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left shoulder",
+    "Notes": "9:22 PM, Sep 25 2026 Police activity on NB I-15\u00A0before Craig Rd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794283/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
