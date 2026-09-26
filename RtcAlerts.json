@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57846,
-    "Timestamp": "2026-09-25 10:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Commerce St",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "10:47 AM, Sep 25 2026 Crash on NB Commerce St\u00A0at Craig Rd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793749/attachment_0.jpg",
-    "Latitude": 36.239424999999997,
-    "Longitude": -115.1437603
-  },
-  {
     "UniqueId": 57847,
     "Timestamp": "2026-09-25 10:50",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794475/attachment_0.jpg",
     "Latitude": 36.263208200000001,
     "Longitude": -115.246979
+  },
+  {
+    "UniqueId": 57970,
+    "Timestamp": "2026-09-26 10:47",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:47 AM, Sep 26 2026 Crash on SB Lamb Blvd\u00A0after Lake Mead Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794480/attachment_0.jpg",
+    "Latitude": 36.195577399999998,
+    "Longitude": -115.0800359
   }
 ]
