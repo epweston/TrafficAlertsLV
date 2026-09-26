@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57849,
-    "Timestamp": "2026-09-25 11:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:17 AM, Sep 25 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793781/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
     "UniqueId": 57850,
     "Timestamp": "2026-09-25 11:25",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794485/attachment_0.jpg",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 57974,
+    "Timestamp": "2026-09-26 11:10",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:10 AM, Sep 26 2026 Crash on SB Las Vegas Blvd\u00A0before Silverado Ranch Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794487/attachment_0.jpg",
+    "Latitude": 36.013793100000001,
+    "Longitude": -115.1722729
   }
 ]
