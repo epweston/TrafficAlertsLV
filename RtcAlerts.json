@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57868,
-    "Timestamp": "2026-09-25 15:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Center lanes blocked.",
-    "Notes": "3:08 PM, Sep 25 2026 Crash on SB I-11\u00A0at S Rancho Dr. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794113/attachment_0.jpg",
-    "Latitude": 36.175254133971912,
-    "Longitude": -115.17418362739356
-  },
-  {
-    "UniqueId": 57869,
-    "Timestamp": "2026-09-25 15:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "3:13 PM, Sep 25 2026 Crash on NB I-11\u00A0at Valley View Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794119/attachment_0.jpg",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 57870,
-    "Timestamp": "2026-09-25 15:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:21 PM, Sep 25 2026 Crash on SB Rainbow Blvd\u00A0at I-11. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794137/attachment_0.png",
-    "Latitude": 36.176751852351089,
-    "Longitude": -115.24383544921876
-  },
-  {
-    "UniqueId": 57871,
-    "Timestamp": "2026-09-25 15:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Crest Ln",
-    "Impact": "Left lanes blocked.",
-    "Notes": "3:24 PM, Sep 25 2026 Crash on NB Eastern Ave\u00A0after Buffalo Crest Ln. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794139/attachment_0.png",
-    "Latitude": 35.986030599999999,
-    "Longitude": -115.1009214
-  },
-  {
     "UniqueId": 57872,
     "Timestamp": "2026-09-25 15:32",
     "IncidentType": "Crash",
@@ -1720,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794551/attachment_0.png",
     "Latitude": 35.984309228710906,
     "Longitude": -115.18096446990968
+  },
+  {
+    "UniqueId": 57993,
+    "Timestamp": "2026-09-26 15:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:22 PM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794546/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57994,
+    "Timestamp": "2026-09-26 15:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Harmon Ave",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:27 PM, Sep 26 2026 Crash on WB Harmon Ave\u00A0at Boulder Hwy. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794548/attachment_0.png",
+    "Latitude": 36.108172039487279,
+    "Longitude": -115.05921456916923
   }
 ]
