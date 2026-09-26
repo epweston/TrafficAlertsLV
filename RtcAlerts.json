@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57847,
-    "Timestamp": "2026-09-25 10:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:50 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0before Wagon Wheel Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793736/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
-    "UniqueId": 57848,
-    "Timestamp": "2026-09-25 11:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:01 AM, Sep 25 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793746/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 57849,
     "Timestamp": "2026-09-25 11:17",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1692,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794480/attachment_0.jpg",
     "Latitude": 36.195577399999998,
     "Longitude": -115.0800359
+  },
+  {
+    "UniqueId": 57971,
+    "Timestamp": "2026-09-26 11:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "under",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection partially blocked",
+    "Notes": "11:00 AM, Sep 26 2026 Crash on WB Charleston Blvd\u00A0under I-15. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794496/attachment_0.png",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
+  },
+  {
+    "UniqueId": 57972,
+    "Timestamp": "2026-09-26 11:01",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "under",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection partially blocked",
+    "Notes": "11:01 AM, Sep 26 2026 Crash on EB Charleston Blvd\u00A0under I-15. Intersection partially blocked",
+    "ImagePath": "",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
+  },
+  {
+    "UniqueId": 57973,
+    "Timestamp": "2026-09-26 11:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "11:01 AM, Sep 26 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794485/attachment_0.jpg",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
