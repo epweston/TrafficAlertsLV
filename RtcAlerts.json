@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57770,
-    "Timestamp": "2026-09-24 17:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "EB Right lane blocked. WB Left lane blocked.",
-    "Notes": "5:13 PM, Sep 24 2026 Crash on EB Craig Rd\u00A0at Pecos Rd. EB Right lane blocked. WB Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792837/attachment_0.png",
-    "Latitude": 36.240223548101632,
-    "Longitude": -115.09733314258013
-  },
-  {
-    "UniqueId": 57771,
-    "Timestamp": "2026-09-24 17:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:14 PM, Sep 24 2026 Crash on NB Las Vegas Blvd\u00A0after Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792838/attachment_0.png",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
     "UniqueId": 57772,
     "Timestamp": "2026-09-24 17:17",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794226/attachment_0.png",
     "Latitude": 36.21922790273323,
     "Longitude": -115.32768125268741
+  },
+  {
+    "UniqueId": 57889,
+    "Timestamp": "2026-09-25 17:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 21",
+    "Impact": "",
+    "Notes": "5:09 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Mile 21 (past Sloan Rd),\u00A0 Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794231/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
