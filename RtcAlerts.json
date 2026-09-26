@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57883,
-    "Timestamp": "2026-09-25 16:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:39 PM, Sep 25 2026 Crash on WB Flamingo Rd\u00A0after Koval Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794211/attachment_0.jpg",
-    "Latitude": 36.114596900000002,
-    "Longitude": -115.1641267
-  },
-  {
-    "UniqueId": 57884,
-    "Timestamp": "2026-09-25 16:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:43 PM, Sep 25 2026 Crash on EB Sahara Ave\u00A0before Decatur Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794215/attachment_0.png",
-    "Latitude": 36.144533188965404,
-    "Longitude": -115.20814061164857
-  },
-  {
-    "UniqueId": 57885,
-    "Timestamp": "2026-09-25 16:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "Left shoulder",
-    "Notes": "4:45 PM, Sep 25 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794218/attachment_0.png",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
-    "UniqueId": 57886,
-    "Timestamp": "2026-09-25 16:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Owens Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:48 PM, Sep 25 2026 Crash on SB Lamb Blvd\u00A0after Owens Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794219/attachment_0.jpg",
-    "Latitude": 36.188495600000003,
-    "Longitude": -115.0799213
-  },
-  {
     "UniqueId": 57887,
     "Timestamp": "2026-09-25 17:06",
     "IncidentType": "Crash",
@@ -1678,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794589/attachment_0.png",
     "Latitude": 36.298386639861533,
     "Longitude": -115.28597831726076
+  },
+  {
+    "UniqueId": 58007,
+    "Timestamp": "2026-09-26 16:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder",
+    "Notes": "4:48 PM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0before 215 Northern Beltway. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794587/attachment_0.png",
+    "Latitude": 36.174083889581247,
+    "Longitude": -115.15534412685216
   }
 ]
