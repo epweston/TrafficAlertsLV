@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57796,
-    "Timestamp": "2026-09-24 22:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Hotel Rio Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:35 PM, Sep 24 2026 Crash on WB Flamingo Rd\u00A0before Hotel Rio Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792902/attachment_0.jpg",
-    "Latitude": 36.115285299999996,
-    "Longitude": -115.18716740000001
-  },
-  {
     "UniqueId": 57797,
     "Timestamp": "2026-09-24 23:18",
     "IncidentType": "Stalled vehicle",
@@ -1888,5 +1874,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794288/attachment_0.png",
     "Latitude": 36.159693484322958,
     "Longitude": -115.11848508367861
+  },
+  {
+    "UniqueId": 57932,
+    "Timestamp": "2026-09-25 22:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:36 PM, Sep 25 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 57933,
+    "Timestamp": "2026-09-25 22:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:36 PM, Sep 25 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794329/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
