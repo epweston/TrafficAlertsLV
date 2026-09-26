@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57788,
-    "Timestamp": "2026-09-24 20:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:17 PM, Sep 24 2026 Crash on SB Rancho Dr\u00A0before Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792884/attachment_0.png",
-    "Latitude": 36.1885677,
-    "Longitude": -115.18592959999999
-  },
-  {
-    "UniqueId": 57789,
-    "Timestamp": "2026-09-24 20:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:24 PM, Sep 24 2026 Crash on SB Buffalo Dr\u00A0after Blue Diamond Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792889/attachment_0.png",
-    "Latitude": 36.020207000000013,
-    "Longitude": -115.2610983
-  },
-  {
     "UniqueId": 57790,
     "Timestamp": "2026-09-24 20:34",
     "IncidentType": "Crash",
@@ -1874,5 +1846,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794313/attachment_0.jpg",
     "Latitude": 36.2254231,
     "Longitude": -115.08002999999999
+  },
+  {
+    "UniqueId": 57923,
+    "Timestamp": "2026-09-25 20:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:26 PM, Sep 25 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794315/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 57924,
+    "Timestamp": "2026-09-25 20:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:27 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794278/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
