@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57781,
-    "Timestamp": "2026-09-24 18:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Clark Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:19 PM, Sep 24 2026 Crash on WB Clark Ave\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792871/attachment_0.png",
-    "Latitude": 36.1645672,
-    "Longitude": -115.1436787
-  },
-  {
     "UniqueId": 57782,
     "Timestamp": "2026-09-24 18:49",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794243/attachment_0.jpg",
     "Latitude": 36.217665489308381,
     "Longitude": -115.12400501844569
+  },
+  {
+    "UniqueId": 57902,
+    "Timestamp": "2026-09-25 18:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder",
+    "Notes": "6:15 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794264/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 57903,
+    "Timestamp": "2026-09-25 18:16",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "All westbound lanes are blocked.",
+    "Notes": "6:16 PM, Sep 25 2026 Crash on WB Spring Mountain Rd\u00A0after Decatur Blvd. All westbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794245/attachment_0.jpg",
+    "Latitude": 36.126278200000002,
+    "Longitude": -115.20802190000001
   }
 ]
