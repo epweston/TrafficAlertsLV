@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57775,
-    "Timestamp": "2026-09-24 17:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:30 PM, Sep 24 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792843/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 57776,
     "Timestamp": "2026-09-24 17:32",
     "IncidentType": "Crash",
@@ -1608,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794228/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 57891,
+    "Timestamp": "2026-09-25 17:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:30 PM, Sep 25 2026 Stalled vehicle on EB Flamingo Rd\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794233/attachment_0.jpg",
+    "Latitude": 36.114676128133588,
+    "Longitude": -115.17288565635683
+  },
+  {
+    "UniqueId": 57892,
+    "Timestamp": "2026-09-25 17:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder",
+    "Notes": "5:30 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794252/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
