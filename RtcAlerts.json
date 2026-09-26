@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57782,
-    "Timestamp": "2026-09-24 18:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Riverside Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:49 PM, Sep 24 2026 Stalled vehicle on NB Rancho Dr\u00A0at Riverside Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792859/attachment_0.png",
-    "Latitude": 36.185169600000002,
-    "Longitude": -115.183008
-  },
-  {
     "UniqueId": 57783,
     "Timestamp": "2026-09-24 19:17",
     "IncidentType": "Crash",
@@ -1776,5 +1762,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794293/attachment_0.jpg",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 57910,
+    "Timestamp": "2026-09-25 18:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lanes blocked.",
+    "Notes": "6:46 PM, Sep 25 2026 Crash on NB I-15\u00A0at Sahara Ave. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794295/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 57911,
+    "Timestamp": "2026-09-25 18:48",
+    "IncidentType": "Update Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder.",
+    "Notes": "6:48 PM, Sep 25 2026 Update Crash on NB I-15\u00A0at Sahara Ave. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794296/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
