@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57817,
-    "Timestamp": "2026-09-25 05:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:22 AM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793089/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 57818,
     "Timestamp": "2026-09-25 05:44",
     "IncidentType": "Stalled vehicle",
@@ -1804,5 +1790,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794384/attachment_0.jpg",
     "Latitude": 36.043447336539366,
     "Longitude": -115.18079292179071
+  },
+  {
+    "UniqueId": 57947,
+    "Timestamp": "2026-09-26 05:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:26 AM, Sep 26 2026 Crash on NB Lamb Blvd\u00A0before Stewart Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794387/attachment_0.jpg",
+    "Latitude": 36.166370200000003,
+    "Longitude": -115.0805115
+  },
+  {
+    "UniqueId": 57948,
+    "Timestamp": "2026-09-26 05:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:30 AM, Sep 26 2026 Crash on SB I-11\u00A0to Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794400/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
