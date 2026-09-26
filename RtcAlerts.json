@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57786,
-    "Timestamp": "2026-09-24 19:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:50 PM, Sep 24 2026 Crash on SB Decatur Blvd\u00A0before 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792865/attachment_0.png",
-    "Latitude": 36.269200300000001,
-    "Longitude": -115.2071053
-  },
-  {
     "UniqueId": 57787,
     "Timestamp": "2026-09-24 20:06",
     "IncidentType": "Stalled vehicle",
@@ -1860,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794275/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 57920,
+    "Timestamp": "2026-09-25 19:54",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:54 PM, Sep 25 2026 Crash on EB Desert Inn Rd\u00A0before Buffalo Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794310/attachment_0.png",
+    "Latitude": 36.129250999999996,
+    "Longitude": -115.2610777
   }
 ]
