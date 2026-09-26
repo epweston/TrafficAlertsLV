@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57821,
-    "Timestamp": "2026-09-25 07:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "7:07 AM, Sep 25 2026 Crash on SB Decatur Blvd\u00A0before Hacienda Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3793229/attachment_0.jpg",
-    "Latitude": 36.093534051830723,
-    "Longitude": -115.20808696746828
-  },
-  {
     "UniqueId": 57822,
     "Timestamp": "2026-09-25 07:20",
     "IncidentType": "Crash",
@@ -1846,5 +1832,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794408/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 57954,
+    "Timestamp": "2026-09-26 07:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:11 AM, Sep 26 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794430/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
