@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57768,
-    "Timestamp": "2026-09-24 17:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:08 PM, Sep 24 2026 Stalled vehicle on NB I-15\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792833/attachment_0.png",
-    "Latitude": 36.173668758672179,
-    "Longitude": -115.13793117559058
-  },
-  {
-    "UniqueId": 57769,
-    "Timestamp": "2026-09-24 17:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:09 PM, Sep 24 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792835/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 57770,
     "Timestamp": "2026-09-24 17:13",
     "IncidentType": "Crash",
@@ -1650,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794219/attachment_0.jpg",
     "Latitude": 36.188495600000003,
     "Longitude": -115.0799213
+  },
+  {
+    "UniqueId": 57887,
+    "Timestamp": "2026-09-25 17:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:06 PM, Sep 25 2026 Crash on NB Buffalo Dr\u00A0before Craig Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794225/attachment_0.jpg",
+    "Latitude": 36.240508499999997,
+    "Longitude": -115.2604087
+  },
+  {
+    "UniqueId": 57888,
+    "Timestamp": "2026-09-25 17:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Left shoulder",
+    "Notes": "5:08 PM, Sep 25 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Cheyenne Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794226/attachment_0.png",
+    "Latitude": 36.21922790273323,
+    "Longitude": -115.32768125268741
   }
 ]
