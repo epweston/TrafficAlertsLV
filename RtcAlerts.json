@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57800,
-    "Timestamp": "2026-09-25 00:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Circus Circus Dr",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "12:03 AM, Sep 25 2026 Crash on NB Las Vegas Blvd\u00A0after Circus Circus Dr. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792935/attachment_0.jpg",
-    "Latitude": 36.136819000000003,
-    "Longitude": -115.16177190000001
-  },
-  {
-    "UniqueId": 57801,
-    "Timestamp": "2026-09-25 00:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:28 AM, Sep 25 2026 Crash on SB Boulder Hwy\u00A0at Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792938/attachment_0.png",
-    "Latitude": 36.113265400000003,
-    "Longitude": -115.06468529999999
-  },
-  {
     "UniqueId": 57802,
     "Timestamp": "2026-09-25 00:43",
     "IncidentType": "Crash",
@@ -1902,5 +1874,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794350/attachment_0.jpg",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 57937,
+    "Timestamp": "2026-09-26 00:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "from",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:27 AM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0from Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794352/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
