@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57785,
-    "Timestamp": "2026-09-24 19:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:46 PM, Sep 24 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/24/file_attachments/3792881/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 57786,
     "Timestamp": "2026-09-24 19:50",
     "IncidentType": "Crash",
@@ -1860,5 +1846,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794307/attachment_0.png",
     "Latitude": 36.115088299999996,
     "Longitude": -115.0558965
+  },
+  {
+    "UniqueId": 57919,
+    "Timestamp": "2026-09-25 19:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "7:46 PM, Sep 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794275/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
