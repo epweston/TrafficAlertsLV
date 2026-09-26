@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57864,
-    "Timestamp": "2026-09-25 14:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "2:50 PM, Sep 25 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794084/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 57865,
-    "Timestamp": "2026-09-25 14:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Cimarron Rd",
-    "Relationship": "after",
-    "CrossStreet": "Grand Teton Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:51 PM, Sep 25 2026 Crash on SB Cimarron Rd\u00A0after Grand Teton Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794085/attachment_0.jpg",
-    "Latitude": 36.305796639392121,
-    "Longitude": -115.26937010137178
-  },
-  {
-    "UniqueId": 57866,
-    "Timestamp": "2026-09-25 14:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "2:52 PM, Sep 25 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0after Jones Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794100/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 57867,
-    "Timestamp": "2026-09-25 14:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "2:59 PM, Sep 25 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794088/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 57868,
     "Timestamp": "2026-09-25 15:08",
     "IncidentType": "Crash",
@@ -1762,5 +1706,19 @@
     "ImagePath": "",
     "Latitude": 36.173772499999998,
     "Longitude": -115.07131630000001
+  },
+  {
+    "UniqueId": 57990,
+    "Timestamp": "2026-09-26 15:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder",
+    "Notes": "3:00 PM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794551/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
   }
 ]
