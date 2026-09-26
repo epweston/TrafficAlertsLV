@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57808,
-    "Timestamp": "2026-09-25 02:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Caesars Palace Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:14 AM, Sep 25 2026 Stalled vehicle on SB Las Vegas Blvd\u00A0at Caesars Palace Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792972/attachment_0.jpg",
-    "Latitude": 36.117421499999999,
-    "Longitude": -115.1728189
-  },
-  {
-    "UniqueId": 57809,
-    "Timestamp": "2026-09-25 02:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:19 AM, Sep 25 2026 Crash on WB Stewart Ave\u00A0at Casino Center Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792974/attachment_0.png",
-    "Latitude": 36.173040700000001,
-    "Longitude": -115.1425684
-  },
-  {
-    "UniqueId": 57810,
-    "Timestamp": "2026-09-25 02:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:25 AM, Sep 25 2026 Crash on NB Valley View Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3792977/attachment_0.png",
-    "Latitude": 36.176219719999999,
-    "Longitude": -115.19255696000001
-  },
-  {
     "UniqueId": 57811,
     "Timestamp": "2026-09-25 04:38",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1790,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794354/attachment_0.png",
     "Latitude": 36.1692362,
     "Longitude": -115.14061959999999
+  },
+  {
+    "UniqueId": 57940,
+    "Timestamp": "2026-09-26 03:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "3:06 AM, Sep 26 2026 Crash on NB Rancho Dr\u00A0at Decatur Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794338/attachment_0.png",
+    "Latitude": 36.209657399999998,
+    "Longitude": -115.2053971
   }
 ]
