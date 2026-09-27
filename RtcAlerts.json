@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57920,
-    "Timestamp": "2026-09-25 19:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:54 PM, Sep 25 2026 Crash on EB Desert Inn Rd\u00A0before Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794310/attachment_0.png",
-    "Latitude": 36.129250999999996,
-    "Longitude": -115.2610777
-  },
-  {
     "UniqueId": 57921,
     "Timestamp": "2026-09-25 20:10",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794640/attachment_0.png",
     "Latitude": 36.126834100000004,
     "Longitude": -115.15505899999999
+  },
+  {
+    "UniqueId": 58039,
+    "Timestamp": "2026-09-26 20:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left shoulder",
+    "Notes": "8:04 PM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794643/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
