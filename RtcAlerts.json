@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57944,
-    "Timestamp": "2026-09-26 04:27",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:27 AM, Sep 26 2026 Police activity on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794343/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 57945,
     "Timestamp": "2026-09-26 04:53",
     "IncidentType": "Crash",
@@ -1678,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794732/attachment_0.png",
     "Latitude": 35.780752004513424,
     "Longitude": -115.32833047101389
+  },
+  {
+    "UniqueId": 58071,
+    "Timestamp": "2026-09-27 04:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:40 AM, Sep 27 2026 Crash on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794734/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 58072,
+    "Timestamp": "2026-09-27 04:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Casino Dr",
+    "Relationship": "at",
+    "CrossStreet": "Colorado River Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:41 AM, Sep 27 2026 Crash on NB Casino Dr\u00A0at Colorado River Hwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
