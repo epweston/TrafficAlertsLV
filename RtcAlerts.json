@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57913,
-    "Timestamp": "2026-09-25 19:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sacramento Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:09 PM, Sep 25 2026 Crash on EB Charleston Blvd\u00A0before Sacramento Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794299/attachment_0.jpg",
-    "Latitude": 36.158839899999997,
-    "Longitude": -115.0873266
-  },
-  {
-    "UniqueId": 57914,
-    "Timestamp": "2026-09-25 19:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Karen Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "7:09 PM, Sep 25 2026 Crash on NB Eastern Ave\u00A0at Karen Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794301/attachment_0.png",
-    "Latitude": 36.140701499999999,
-    "Longitude": -115.11871669999999
-  },
-  {
-    "UniqueId": 57915,
-    "Timestamp": "2026-09-25 19:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder",
-    "Notes": "7:14 PM, Sep 25 2026 Stalled vehicle on NB I-11\u00A0before 215 Northern Beltway. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794302/attachment_0.png",
-    "Latitude": 36.033552862846953,
-    "Longitude": -115.01434604859962
-  },
-  {
-    "UniqueId": 57916,
-    "Timestamp": "2026-09-25 19:18",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "All lanes are open",
-    "Notes": "7:18 PM, Sep 25 2026 Update Crash on WB Spring Mountain Rd\u00A0after Decatur Blvd. All lanes are open",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794273/attachment_0.jpg",
-    "Latitude": 36.126278200000002,
-    "Longitude": -115.20802190000001
-  },
-  {
     "UniqueId": 57917,
     "Timestamp": "2026-09-25 19:24",
     "IncidentType": "Crash",
@@ -1580,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794652/attachment_0.jpg",
     "Latitude": 36.217665489308381,
     "Longitude": -115.12400501844569
+  },
+  {
+    "UniqueId": 58032,
+    "Timestamp": "2026-09-26 19:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "7:16 PM, Sep 26 2026 Crash on NB I-15\u00A0after Lake Mead Blvd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794632/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58033,
+    "Timestamp": "2026-09-26 19:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder",
+    "Notes": "7:21 PM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0at Washington Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794633/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
