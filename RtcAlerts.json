@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57921,
-    "Timestamp": "2026-09-25 20:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:10 PM, Sep 25 2026 Crash on NB Decatur Blvd\u00A0after Charleston Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794312/attachment_0.jpg",
-    "Latitude": 36.159069000000002,
-    "Longitude": -115.2059539
-  },
-  {
-    "UniqueId": 57922,
-    "Timestamp": "2026-09-25 20:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:13 PM, Sep 25 2026 Crash on NB Lamb Blvd\u00A0at Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794313/attachment_0.jpg",
-    "Latitude": 36.2254231,
-    "Longitude": -115.08002999999999
-  },
-  {
     "UniqueId": 57923,
     "Timestamp": "2026-09-25 20:26",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794643/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 58040,
+    "Timestamp": "2026-09-26 20:10",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Right shoulder",
+    "Notes": "8:10 PM, Sep 26 2026 Crash on SB I-11\u00A0after Elkhorn Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794661/attachment_0.png",
+    "Latitude": 36.291693742081051,
+    "Longitude": -115.2797598374233
   }
 ]
