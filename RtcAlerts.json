@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57937,
-    "Timestamp": "2026-09-26 00:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:27 AM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0from Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794352/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 57938,
     "Timestamp": "2026-09-26 01:31",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794681/attachment_0.jpg",
     "Latitude": 36.070365750000001,
     "Longitude": -115.27946056
+  },
+  {
+    "UniqueId": 58061,
+    "Timestamp": "2026-09-27 01:21",
+    "IncidentType": "Update Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pavilion Center Dr",
+    "Impact": "All lanes are open.",
+    "Notes": "1:21 AM, Sep 27 2026 Update Crash on WB Charleston Blvd\u00A0before Pavilion Center Dr. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794683/attachment_0.jpg",
+    "Latitude": 36.159071500000003,
+    "Longitude": -115.3307282
   }
 ]
