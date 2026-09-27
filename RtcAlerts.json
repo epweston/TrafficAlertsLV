@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57989,
-    "Timestamp": "2026-09-26 14:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Marion Dr",
-    "Impact": "The intersection is close in all directions of travel Use other routes",
-    "Notes": "2:45 PM, Sep 26 2026 Crash on EB Bonanza Rd\u00A0at Marion Dr. The intersection is close in all directions of travel Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.173772499999998,
-    "Longitude": -115.07131630000001
-  },
-  {
     "UniqueId": 57990,
     "Timestamp": "2026-09-26 15:00",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794876/attachment_0.jpg",
     "Latitude": 36.059283399999998,
     "Longitude": -115.29762289999999
+  },
+  {
+    "UniqueId": 58105,
+    "Timestamp": "2026-09-27 14:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:45 PM, Sep 27 2026 Crash on EB Flamingo Rd\u00A0before Maryland Pkwy. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794877/attachment_0.png",
+    "Latitude": 36.114655800000001,
+    "Longitude": -115.1379192
   }
 ]
