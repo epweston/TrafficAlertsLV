@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57947,
-    "Timestamp": "2026-09-26 05:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:26 AM, Sep 26 2026 Crash on NB Lamb Blvd\u00A0before Stewart Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794387/attachment_0.jpg",
-    "Latitude": 36.166370200000003,
-    "Longitude": -115.0805115
-  },
-  {
     "UniqueId": 57948,
     "Timestamp": "2026-09-26 05:30",
     "IncidentType": "Crash",
@@ -1706,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794756/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 58076,
+    "Timestamp": "2026-09-27 05:22",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "All NB lanes are blocked. Expect Delays Use other routes",
+    "Notes": "5:22 AM, Sep 27 2026 Police activity on NB I-15\u00A0at Flamingo Rd. All NB lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794757/attachment_0.jpg",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 58077,
+    "Timestamp": "2026-09-27 05:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "5:27 AM, Sep 27 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
   }
 ]
