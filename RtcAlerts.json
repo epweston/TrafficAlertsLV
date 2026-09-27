@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57939,
-    "Timestamp": "2026-09-26 02:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "2:02 AM, Sep 26 2026 Crash on EB Fremont St\u00A0at Las Vegas Blvd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794354/attachment_0.png",
-    "Latitude": 36.1692362,
-    "Longitude": -115.14061959999999
-  },
-  {
     "UniqueId": 57940,
     "Timestamp": "2026-09-26 03:06",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794711/attachment_0.png",
     "Latitude": 36.043447336539366,
     "Longitude": -115.18079292179071
+  },
+  {
+    "UniqueId": 58064,
+    "Timestamp": "2026-09-27 02:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "2:11 AM, Sep 27 2026 Crash on NB Durango Dr\u00A0before Sunset Rd. 3 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.070365750000001,
+    "Longitude": -115.27946056
   }
 ]
