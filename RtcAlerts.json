@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57958,
-    "Timestamp": "2026-09-26 08:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:03 AM, Sep 26 2026 Crash on NB Decatur Blvd\u00A0before Bonanza Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794438/attachment_0.jpg",
-    "Latitude": 36.177328299999999,
-    "Longitude": -115.206138
-  },
-  {
-    "UniqueId": 57959,
-    "Timestamp": "2026-09-26 08:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:10 AM, Sep 26 2026 Stalled vehicle on NB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794439/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 57960,
     "Timestamp": "2026-09-26 09:06",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794789/attachment_0.jpg",
     "Latitude": 36.284672,
     "Longitude": -115.3148812
+  },
+  {
+    "UniqueId": 58086,
+    "Timestamp": "2026-09-27 08:14",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Revere St All Lanes Are",
+    "Impact": "",
+    "Notes": "8:14 AM, Sep 27 2026 Crash on WB Cheyenne Ave\u00A0before Revere St. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217776000000001,
+    "Longitude": -115.15201329999999
   }
 ]
