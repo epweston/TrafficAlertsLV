@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57899,
-    "Timestamp": "2026-09-25 18:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "before",
-    "CrossStreet": "Colorado Ave",
-    "Impact": "Right shoulder",
-    "Notes": "6:07 PM, Sep 25 2026 Crash on NB Main St\u00A0before Colorado Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794261/attachment_0.jpg",
-    "Latitude": 36.156117199999997,
-    "Longitude": -115.1537788
-  },
-  {
-    "UniqueId": 57900,
-    "Timestamp": "2026-09-25 18:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left shoulder",
-    "Notes": "6:10 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794263/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 57901,
-    "Timestamp": "2026-09-25 18:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "6:12 PM, Sep 25 2026 Stalled vehicle on WB Cheyenne Ave\u00A0before I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794243/attachment_0.jpg",
-    "Latitude": 36.217665489308381,
-    "Longitude": -115.12400501844569
-  },
-  {
-    "UniqueId": 57902,
-    "Timestamp": "2026-09-25 18:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder",
-    "Notes": "6:15 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Tropicana Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794264/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 57903,
     "Timestamp": "2026-09-25 18:16",
     "IncidentType": "Crash",
@@ -1622,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794622/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 58020,
+    "Timestamp": "2026-09-26 18:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:09 PM, Sep 26 2026 Crash on EB St Rose Pkwy\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794623/attachment_0.png",
+    "Latitude": 35.961795100000003,
+    "Longitude": -115.18179547
   }
 ]
