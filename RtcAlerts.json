@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57948,
-    "Timestamp": "2026-09-26 05:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:30 AM, Sep 26 2026 Crash on SB I-11\u00A0to Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794400/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 57949,
     "Timestamp": "2026-09-26 06:00",
     "IncidentType": "Crash",
@@ -1720,5 +1706,19 @@
     "ImagePath": "",
     "Latitude": 36.144246600000002,
     "Longitude": -115.0655266
+  },
+  {
+    "UniqueId": 58078,
+    "Timestamp": "2026-09-27 05:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Casino Dr",
+    "Relationship": "at",
+    "CrossStreet": "Colorado River Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:28 AM, Sep 27 2026 Crash on NB Casino Dr\u00A0at Colorado River Hwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
