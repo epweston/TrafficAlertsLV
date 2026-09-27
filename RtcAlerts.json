@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 57890,
-    "Timestamp": "2026-09-25 17:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:19 PM, Sep 25 2026 Crash on EB 215 Southern Beltway\u00A0at Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794228/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 57891,
-    "Timestamp": "2026-09-25 17:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:30 PM, Sep 25 2026 Stalled vehicle on EB Flamingo Rd\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794233/attachment_0.jpg",
-    "Latitude": 36.114676128133588,
-    "Longitude": -115.17288565635683
-  },
-  {
-    "UniqueId": 57892,
-    "Timestamp": "2026-09-25 17:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder",
-    "Notes": "5:30 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794252/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 57893,
-    "Timestamp": "2026-09-25 17:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:35 PM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0before Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794254/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 57894,
     "Timestamp": "2026-09-25 17:41",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794615/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 58013,
+    "Timestamp": "2026-09-26 17:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder",
+    "Notes": "5:29 PM, Sep 26 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0at Eastern Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794594/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
