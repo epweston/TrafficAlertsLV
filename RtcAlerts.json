@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57927,
-    "Timestamp": "2026-09-25 21:22",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder",
-    "Notes": "9:22 PM, Sep 25 2026 Police activity on NB I-15\u00A0before Craig Rd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794283/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 57928,
     "Timestamp": "2026-09-25 21:40",
     "IncidentType": "Update Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794691/attachment_0.png",
     "Latitude": 36.17468015,
     "Longitude": -115.15834839
+  },
+  {
+    "UniqueId": 58049,
+    "Timestamp": "2026-09-26 21:34",
+    "IncidentType": "Update Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "All lanes are open.",
+    "Notes": "9:34 PM, Sep 26 2026 Update Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794693/attachment_0.png",
+    "Latitude": 36.195559803377257,
+    "Longitude": -115.08015630322291
   }
 ]
