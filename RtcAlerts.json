@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57894,
-    "Timestamp": "2026-09-25 17:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Right shoulder",
-    "Notes": "5:41 PM, Sep 25 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0after Lone Mountain Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794236/attachment_0.png",
-    "Latitude": 36.248089800000002,
-    "Longitude": -115.2702895
-  },
-  {
-    "UniqueId": 57895,
-    "Timestamp": "2026-09-25 17:44",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:44 PM, Sep 25 2026 Vehicle on fire on SB I-15\u00A0after Sahara Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794255/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 57896,
     "Timestamp": "2026-09-25 17:52",
     "IncidentType": "Crash",
@@ -1608,5 +1580,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794594/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 58014,
+    "Timestamp": "2026-09-26 17:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Symphony Park Ave",
+    "Impact": "4 Right lanes blocked.",
+    "Notes": "5:41 PM, Sep 26 2026 Crash on NB Martin L King Blvd\u00A0at Symphony Park Ave. 4 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.171713699999998,
+    "Longitude": -115.16090939999999
+  },
+  {
+    "UniqueId": 58015,
+    "Timestamp": "2026-09-26 17:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Symphony Park Ave",
+    "Impact": "4 Right lanes blocked.",
+    "Notes": "5:41 PM, Sep 26 2026 Crash on NB Martin L King Blvd\u00A0at Symphony Park Ave. 4 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794596/attachment_0.jpg",
+    "Latitude": 36.171713699999998,
+    "Longitude": -115.16090939999999
+  },
+  {
+    "UniqueId": 58016,
+    "Timestamp": "2026-09-26 17:44",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:44 PM, Sep 26 2026 Police activity on WB 215 Southern Beltway\u00A0at Jones Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794597/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
