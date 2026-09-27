@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 57935,
-    "Timestamp": "2026-09-25 23:15",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Mystere Dreams Ave",
-    "Impact": "",
-    "Notes": "11:15 PM, Sep 25 2026 Police activity on SB Las Vegas Blvd\u00A0after Mystere Dreams Ave (past Spring Mountain Rd) Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794331/attachment_0.jpg",
-    "Latitude": 36.123467400000003,
-    "Longitude": -115.17048730000001
-  },
-  {
-    "UniqueId": 57936,
-    "Timestamp": "2026-09-25 23:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:23 PM, Sep 25 2026 Stalled vehicle on SB I-11\u00A0before Jones Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794350/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 57937,
     "Timestamp": "2026-09-26 00:27",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794699/attachment_0.jpg",
     "Latitude": 36.181090300000008,
     "Longitude": -115.1791041
+  },
+  {
+    "UniqueId": 58055,
+    "Timestamp": "2026-09-26 23:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pavilion Center Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "11:48 PM, Sep 26 2026 Crash on WB Charleston Blvd\u00A0before Pavilion Center Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794701/attachment_0.jpg",
+    "Latitude": 36.159071500000003,
+    "Longitude": -115.3307282
   }
 ]
