@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57997,
-    "Timestamp": "2026-09-26 15:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Civic Center Dr",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:48 PM, Sep 26 2026 Crash on NB Civic Center Dr\u00A0before Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794561/attachment_0.png",
-    "Latitude": 36.217594200000001,
-    "Longitude": -115.12107260000001
-  },
-  {
     "UniqueId": 57998,
     "Timestamp": "2026-09-26 15:52",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794894/attachment_0.png",
     "Latitude": 36.063631899999997,
     "Longitude": -115.046273
+  },
+  {
+    "UniqueId": 58111,
+    "Timestamp": "2026-09-27 15:45",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Arby Ave",
+    "Impact": "north and southbound Fort Apache Rd is shutdown between Maule Ave and Boulder Opal Ave",
+    "Notes": "3:45 PM, Sep 27 2026 Crash on NB Ft Apache Rd\u00A0at Arby Ave. north and southbound Fort Apache Rd is shutdown between Maule Ave and Boulder Opal Ave",
+    "ImagePath": "",
+    "Latitude": 36.059283399999998,
+    "Longitude": -115.29762289999999
   }
 ]
