@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 57981,
-    "Timestamp": "2026-09-26 13:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:30 PM, Sep 26 2026 Crash on SB Rainbow Blvd\u00A0before Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794534/attachment_0.jpg",
-    "Latitude": 36.085185000000003,
-    "Longitude": -115.24271880000001
-  },
-  {
-    "UniqueId": 57982,
-    "Timestamp": "2026-09-26 13:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Torrey Pines Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:33 PM, Sep 26 2026 Crash on NB Torrey Pines Dr\u00A0at Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794518/attachment_0.png",
-    "Latitude": 36.159086599999988,
-    "Longitude": -115.2347213
-  },
-  {
-    "UniqueId": 57983,
-    "Timestamp": "2026-09-26 13:37",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:37 PM, Sep 26 2026 Crash on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794519/attachment_0.jpg",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 57984,
-    "Timestamp": "2026-09-26 13:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:41 PM, Sep 26 2026 Stalled vehicle on SB I-11\u00A0after Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794520/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 57985,
-    "Timestamp": "2026-09-26 13:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:55 PM, Sep 26 2026 Crash on SB I-15\u00A0before Spring Mountain Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794537/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 57986,
     "Timestamp": "2026-09-26 14:06",
     "IncidentType": "Crash",
@@ -1566,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794839/attachment_0.jpg",
     "Latitude": 36.0267239,
     "Longitude": -115.2433958
+  },
+  {
+    "UniqueId": 58101,
+    "Timestamp": "2026-09-27 14:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:01 PM, Sep 27 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794843/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
