@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57938,
-    "Timestamp": "2026-09-26 01:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Walnut Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cecile Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "1:31 AM, Sep 26 2026 Crash on NB Walnut Rd\u00A0at Cecile Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794336/attachment_0.png",
-    "Latitude": 36.214040300000001,
-    "Longitude": -115.08932299999999
-  },
-  {
     "UniqueId": 57939,
     "Timestamp": "2026-09-26 02:02",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794683/attachment_0.jpg",
     "Latitude": 36.159071500000003,
     "Longitude": -115.3307282
+  },
+  {
+    "UniqueId": 58062,
+    "Timestamp": "2026-09-27 01:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder",
+    "Notes": "1:48 AM, Sep 27 2026 Stalled vehicle on NB I-15\u00A0after Spring Mountain Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794709/attachment_0.jpg",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
