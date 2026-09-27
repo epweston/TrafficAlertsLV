@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57975,
-    "Timestamp": "2026-09-26 11:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:56 AM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794509/attachment_0.jpg",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 57976,
-    "Timestamp": "2026-09-26 11:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:58 AM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794505/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 57977,
-    "Timestamp": "2026-09-26 12:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Corporate Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:09 PM, Sep 26 2026 Crash on SB Paradise Rd\u00A0at Corporate Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794507/attachment_0.png",
-    "Latitude": 36.118562400000002,
-    "Longitude": -115.1549283
-  },
-  {
     "UniqueId": 57978,
     "Timestamp": "2026-09-26 12:41",
     "IncidentType": "Crash",
@@ -1594,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794831/attachment_0.png",
     "Latitude": 36.195708000000003,
     "Longitude": -115.12759490000001
+  },
+  {
+    "UniqueId": 58097,
+    "Timestamp": "2026-09-27 12:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "12:10 PM, Sep 27 2026 Crash on NB I-11\u00A0after Auto Show Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794832/attachment_0.jpg",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
