@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57980,
-    "Timestamp": "2026-09-26 13:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Marion Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:00 PM, Sep 26 2026 Crash on EB Bonanza Rd\u00A0at Marion Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794514/attachment_0.jpg",
-    "Latitude": 36.173772499999998,
-    "Longitude": -115.07131630000001
-  },
-  {
     "UniqueId": 57981,
     "Timestamp": "2026-09-26 13:30",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794836/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58100,
+    "Timestamp": "2026-09-27 13:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "1:12 PM, Sep 27 2026 Crash on NB Rainbow Blvd\u00A0before Pebble Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794839/attachment_0.jpg",
+    "Latitude": 36.0267239,
+    "Longitude": -115.2433958
   }
 ]
