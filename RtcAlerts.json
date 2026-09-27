@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57887,
-    "Timestamp": "2026-09-25 17:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:06 PM, Sep 25 2026 Crash on NB Buffalo Dr\u00A0before Craig Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794225/attachment_0.jpg",
-    "Latitude": 36.240508499999997,
-    "Longitude": -115.2604087
-  },
-  {
-    "UniqueId": 57888,
-    "Timestamp": "2026-09-25 17:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder",
-    "Notes": "5:08 PM, Sep 25 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Cheyenne Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794226/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
-    "UniqueId": 57889,
-    "Timestamp": "2026-09-25 17:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "",
-    "Notes": "5:09 PM, Sep 25 2026 Stalled vehicle on SB I-15\u00A0at Mile 21 (past Sloan Rd),\u00A0 Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794231/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 57890,
     "Timestamp": "2026-09-25 17:19",
     "IncidentType": "Crash",
@@ -1650,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794590/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 58010,
+    "Timestamp": "2026-09-26 17:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left shoulder",
+    "Notes": "5:10 PM, Sep 26 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794591/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
