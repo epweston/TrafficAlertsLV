@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57926,
-    "Timestamp": "2026-09-25 20:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:40 PM, Sep 25 2026 Crash on NB University Center Dr\u00A0at Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794280/attachment_0.png",
-    "Latitude": 36.101074300000001,
-    "Longitude": -115.1459157
-  },
-  {
     "UniqueId": 57927,
     "Timestamp": "2026-09-25 21:22",
     "IncidentType": "Police activity",
@@ -1564,6 +1550,34 @@
     "Impact": "All westbound lanes are blocked.",
     "Notes": "8:34 PM, Sep 26 2026 Update Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. All westbound lanes are blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794663/attachment_0.png",
+    "Latitude": 36.195559803377257,
+    "Longitude": -115.08015630322291
+  },
+  {
+    "UniqueId": 58044,
+    "Timestamp": "2026-09-26 20:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:37 PM, Sep 26 2026 Crash on WB Tropicana Ave\u00A0before I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794664/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 58045,
+    "Timestamp": "2026-09-26 20:37",
+    "IncidentType": "Update Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:37 PM, Sep 26 2026 Update Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794666/attachment_0.jpg",
     "Latitude": 36.195559803377257,
     "Longitude": -115.08015630322291
   }
