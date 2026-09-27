@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 57917,
-    "Timestamp": "2026-09-25 19:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane partially blocked.",
-    "Notes": "7:24 PM, Sep 25 2026 Crash on SB I-15 Collector Distributor\u00A0before 215 Southern Beltway. Right lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794305/attachment_0.jpg",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 57918,
     "Timestamp": "2026-09-25 19:34",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794633/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 58034,
+    "Timestamp": "2026-09-26 19:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder",
+    "Notes": "7:24 PM, Sep 26 2026 Stalled vehicle on SB I-11\u00A0at I-15. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794635/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
