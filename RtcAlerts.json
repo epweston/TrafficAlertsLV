@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 57907,
-    "Timestamp": "2026-09-25 18:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:33 PM, Sep 25 2026 Stalled vehicle on NB I-11\u00A0to I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794289/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 57908,
-    "Timestamp": "2026-09-25 18:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:35 PM, Sep 25 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794291/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
-    "UniqueId": 57909,
-    "Timestamp": "2026-09-25 18:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Nb I-11 Hov",
-    "Impact": "Right shoulder.",
-    "Notes": "6:38 PM, Sep 25 2026 Stalled vehicle on NB I-15\u00A0to NB I-11 HOV ramp. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/25/file_attachments/3794293/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 57910,
     "Timestamp": "2026-09-25 18:46",
     "IncidentType": "Crash",
@@ -1566,5 +1524,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794625/attachment_0.png",
     "Latitude": 36.195774299999997,
     "Longitude": -115.09656099999999
+  },
+  {
+    "UniqueId": 58024,
+    "Timestamp": "2026-09-26 18:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Casino Center Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:33 PM, Sep 26 2026 Crash on NB I-11\u00A0at Casino Center Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794627/attachment_0.jpg",
+    "Latitude": 36.17462138583204,
+    "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 58025,
+    "Timestamp": "2026-09-26 18:36",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:36 PM, Sep 26 2026 Crash on WB Lake Mead Blvd\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.196000602251971,
+    "Longitude": -115.24454390895161
+  },
+  {
+    "UniqueId": 58026,
+    "Timestamp": "2026-09-26 18:36",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:36 PM, Sep 26 2026 Crash on WB Lake Mead Blvd\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794606/attachment_0.png",
+    "Latitude": 36.196000602251971,
+    "Longitude": -115.24454390895161
   }
 ]
