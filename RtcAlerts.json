@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58091,
-    "Timestamp": "2026-09-27 09:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:35 AM, Sep 27 2026 Stalled vehicle on SB Airport Connector\u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794793/attachment_0.png",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
     "UniqueId": 58092,
     "Timestamp": "2026-09-27 09:53",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795730/attachment_0.jpg",
     "Latitude": 36.039436100000003,
     "Longitude": -114.982083
+  },
+  {
+    "UniqueId": 58185,
+    "Timestamp": "2026-09-28 09:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Rafael Rivera Way",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:41 AM, Sep 28 2026 Crash on WB Rafael Rivera Way\u00A0before Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795769/attachment_0.png",
+    "Latitude": 36.067459900000003,
+    "Longitude": -115.2423379
   }
 ]
