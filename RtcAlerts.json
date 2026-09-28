@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58094,
-    "Timestamp": "2026-09-27 10:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:19 AM, Sep 27 2026 Crash on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794814/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 58095,
     "Timestamp": "2026-09-27 11:09",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795837/attachment_0.png",
     "Latitude": 36.070465899999988,
     "Longitude": -115.27951229999999
+  },
+  {
+    "UniqueId": 58190,
+    "Timestamp": "2026-09-28 10:20",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:20 AM, Sep 28 2026 Crash on NB I-15\u00A0before Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795857/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
