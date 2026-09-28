@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58021,
-    "Timestamp": "2026-09-26 18:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:15 PM, Sep 26 2026 Stalled vehicle on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794624/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 58022,
     "Timestamp": "2026-09-26 18:20",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794936/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 58129,
+    "Timestamp": "2026-09-27 18:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "to",
+    "CrossStreet": "Nb I-15",
+    "Impact": "Right shoulder",
+    "Notes": "6:12 PM, Sep 27 2026 Stalled vehicle on EB Blue Diamond Rd\u00A0to NB I-15 ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794938/attachment_0.png",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 58130,
+    "Timestamp": "2026-09-27 18:14",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:14 PM, Sep 27 2026 Crash on EB 215 Northern Beltway\u00A0at Pecos Rd on-ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794917/attachment_0.png",
+    "Latitude": 36.289687579999999,
+    "Longitude": -115.09891034
   }
 ]
