@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58099,
-    "Timestamp": "2026-09-27 12:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:47 PM, Sep 27 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794836/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58100,
     "Timestamp": "2026-09-27 13:12",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796549/attachment_0.png",
     "Latitude": 36.067459900000003,
     "Longitude": -115.2423379
+  },
+  {
+    "UniqueId": 58204,
+    "Timestamp": "2026-09-28 12:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "at",
+    "CrossStreet": "Wynn Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "12:54 PM, Sep 28 2026 Crash on WB Twain Ave\u00A0at Wynn Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796560/attachment_0.png",
+    "Latitude": 36.122711500000001,
+    "Longitude": -115.1947215
   }
 ]
