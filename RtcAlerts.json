@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58095,
-    "Timestamp": "2026-09-27 11:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "at",
-    "CrossStreet": "Wigwam Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "11:09 AM, Sep 27 2026 Crash on SB Dean Martin Dr\u00A0at Wigwam Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794849/attachment_0.png",
-    "Latitude": 36.0354405,
-    "Longitude": -115.1834732
-  },
-  {
     "UniqueId": 58096,
     "Timestamp": "2026-09-27 11:47",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795971/attachment_0.png",
     "Latitude": 36.071546221107518,
     "Longitude": -115.14626596347613
+  },
+  {
+    "UniqueId": 58195,
+    "Timestamp": "2026-09-28 11:28",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:28 AM, Sep 28 2026 Crash on SB Fort Apache Rd\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796054/attachment_0.jpg",
+    "Latitude": 36.144507300000001,
+    "Longitude": -115.29779379999999
   }
 ]
