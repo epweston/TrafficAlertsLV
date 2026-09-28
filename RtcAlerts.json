@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58100,
-    "Timestamp": "2026-09-27 13:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "1:12 PM, Sep 27 2026 Crash on NB Rainbow Blvd\u00A0before Pebble Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794839/attachment_0.jpg",
-    "Latitude": 36.0267239,
-    "Longitude": -115.2433958
-  },
-  {
     "UniqueId": 58101,
     "Timestamp": "2026-09-27 14:01",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796661/attachment_0.png",
     "Latitude": 36.085262499999999,
     "Longitude": -115.2901459
+  },
+  {
+    "UniqueId": 58206,
+    "Timestamp": "2026-09-28 13:13",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:13 PM, Sep 28 2026 Crash on WB Sunset Rd\u00A0before Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796572/attachment_0.jpg",
+    "Latitude": 36.071844499999997,
+    "Longitude": -115.1900349
   }
 ]
