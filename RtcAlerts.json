@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58116,
-    "Timestamp": "2026-09-27 16:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:21 PM, Sep 27 2026 Crash on SB Valley View Blvd\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794900/attachment_0.jpg",
-    "Latitude": 36.144334299999997,
-    "Longitude": -115.1908894
-  },
-  {
     "UniqueId": 58118,
     "Timestamp": "2026-09-27 16:53",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796956/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 58228,
+    "Timestamp": "2026-09-28 16:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:18 PM, Sep 28 2026 Crash on EB 215 Southern Beltway\u00A0before Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796971/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
