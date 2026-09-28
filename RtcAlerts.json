@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58041,
-    "Timestamp": "2026-09-26 20:27",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:27 PM, Sep 26 2026 Update Crash on NB I-15\u00A0after Lake Mead Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794644/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 58042,
-    "Timestamp": "2026-09-26 20:32",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:32 PM, Sep 26 2026 Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794646/attachment_0.jpg",
-    "Latitude": 36.195559803377257,
-    "Longitude": -115.08015630322291
-  },
-  {
     "UniqueId": 58043,
     "Timestamp": "2026-09-26 20:34",
     "IncidentType": "Update Police activity",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794957/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 58144,
+    "Timestamp": "2026-09-27 20:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:29 PM, Sep 27 2026 Crash on EB Russell Rd\u00A0before Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794958/attachment_0.png",
+    "Latitude": 36.086214300000002,
+    "Longitude": -115.1730815
   }
 ]
