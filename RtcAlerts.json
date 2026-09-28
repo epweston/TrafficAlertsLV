@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58034,
-    "Timestamp": "2026-09-26 19:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "7:24 PM, Sep 26 2026 Stalled vehicle on SB I-11\u00A0at I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794635/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 58035,
     "Timestamp": "2026-09-26 19:30",
     "IncidentType": "Crash",
@@ -1370,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794925/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 58136,
+    "Timestamp": "2026-09-27 19:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "7:23 PM, Sep 27 2026 Stalled vehicle on SB I-15\u00A0to Charleston Blvd off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794927/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 58137,
+    "Timestamp": "2026-09-27 19:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Bellagio Dr",
+    "Impact": "Center lanes blocked.",
+    "Notes": "7:26 PM, Sep 27 2026 Crash on SB Las Vegas Blvd\u00A0after Bellagio Dr. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794928/attachment_0.jpg",
+    "Latitude": 36.111131200000003,
+    "Longitude": -115.17297687999999
   }
 ]
