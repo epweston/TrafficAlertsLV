@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58086,
-    "Timestamp": "2026-09-27 08:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Revere St All Lanes Are",
-    "Impact": "",
-    "Notes": "8:14 AM, Sep 27 2026 Crash on WB Cheyenne Ave\u00A0before Revere St. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217776000000001,
-    "Longitude": -115.15201329999999
-  },
-  {
-    "UniqueId": 58087,
-    "Timestamp": "2026-09-27 08:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:19 AM, Sep 27 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794791/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 58088,
     "Timestamp": "2026-09-27 08:41",
     "IncidentType": "Crash",
@@ -1230,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795472/attachment_0.png",
     "Latitude": 36.1167965,
     "Longitude": -115.2969593
+  },
+  {
+    "UniqueId": 58177,
+    "Timestamp": "2026-09-28 08:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "8:18 AM, Sep 28 2026 Crash on EB 215 Southern Beltway\u00A0after Stephanie St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795508/attachment_0.png",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
   }
 ]
