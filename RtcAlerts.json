@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58084,
-    "Timestamp": "2026-09-27 07:42",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:42 AM, Sep 27 2026 Abandoned vehicle on SB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 58085,
     "Timestamp": "2026-09-27 07:56",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795410/attachment_0.jpg",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 58173,
+    "Timestamp": "2026-09-28 07:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Reno Ave",
+    "Impact": "Intersection partially blocked",
+    "Notes": "7:40 AM, Sep 28 2026 Crash on SB Jones Blvd\u00A0at Reno Ave. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795401/attachment_0.jpg",
+    "Latitude": 36.0963201,
+    "Longitude": -115.22505390000001
   }
 ]
