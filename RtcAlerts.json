@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58110,
-    "Timestamp": "2026-09-27 15:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "3:39 PM, Sep 27 2026 Crash on WB Sunset Rd\u00A0after Stephanie St. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794894/attachment_0.png",
-    "Latitude": 36.063631899999997,
-    "Longitude": -115.046273
-  },
-  {
-    "UniqueId": 58111,
-    "Timestamp": "2026-09-27 15:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arby Ave",
-    "Impact": "north and southbound Fort Apache Rd is shutdown between Maule Ave and Boulder Opal Ave",
-    "Notes": "3:45 PM, Sep 27 2026 Crash on NB Ft Apache Rd\u00A0at Arby Ave. north and southbound Fort Apache Rd is shutdown between Maule Ave and Boulder Opal Ave",
-    "ImagePath": "",
-    "Latitude": 36.059283399999998,
-    "Longitude": -115.29762289999999
-  },
-  {
-    "UniqueId": 58112,
-    "Timestamp": "2026-09-27 15:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "3:56 PM, Sep 27 2026 Crash on NB Rainbow Blvd\u00A0at Sunset Rd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794897/attachment_0.png",
-    "Latitude": 36.070543507237815,
-    "Longitude": -115.24253723908187
-  },
-  {
     "UniqueId": 58113,
     "Timestamp": "2026-09-27 16:02",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796926/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 58222,
+    "Timestamp": "2026-09-28 15:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:58 PM, Sep 28 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796915/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
