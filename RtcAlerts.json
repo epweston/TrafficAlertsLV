@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58103,
-    "Timestamp": "2026-09-27 14:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "University Ctr Dr",
-    "Impact": "Intersection partially blocked",
-    "Notes": "2:34 PM, Sep 27 2026 Crash on EB Flamingo Rd\u00A0at University Ctr Dr. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794875/attachment_0.jpg",
-    "Latitude": 36.114769000000003,
-    "Longitude": -115.1463734
-  },
-  {
-    "UniqueId": 58104,
-    "Timestamp": "2026-09-27 14:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arby Ave",
-    "Impact": "Intersection partially blocked",
-    "Notes": "2:38 PM, Sep 27 2026 Crash on NB Ft Apache Rd\u00A0at Arby Ave. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794876/attachment_0.jpg",
-    "Latitude": 36.059283399999998,
-    "Longitude": -115.29762289999999
-  },
-  {
     "UniqueId": 58105,
     "Timestamp": "2026-09-27 14:45",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796804/attachment_0.jpg",
     "Latitude": 36.217594200000001,
     "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 58215,
+    "Timestamp": "2026-09-28 14:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "before",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:34 PM, Sep 28 2026 Crash on SB Paradise Rd\u00A0before Desert Inn Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796821/attachment_0.jpg",
+    "Latitude": 36.12951294782809,
+    "Longitude": -115.15485582743371
   }
 ]
