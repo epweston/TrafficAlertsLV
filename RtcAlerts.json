@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58058,
-    "Timestamp": "2026-09-26 23:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:59 PM, Sep 26 2026 Crash on EB Russell Rd\u00A0before Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794705/attachment_0.png",
-    "Latitude": 36.086265099999999,
-    "Longitude": -115.11888639999999
-  },
-  {
-    "UniqueId": 58059,
-    "Timestamp": "2026-09-27 00:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "12:20 AM, Sep 27 2026 Crash on NB Durango Dr\u00A0before Sunset Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794681/attachment_0.jpg",
-    "Latitude": 36.070365750000001,
-    "Longitude": -115.27946056
-  },
-  {
     "UniqueId": 58061,
     "Timestamp": "2026-09-27 01:21",
     "IncidentType": "Update Crash",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794968/attachment_0.png",
     "Latitude": 36.180239,
     "Longitude": -115.140789
+  },
+  {
+    "UniqueId": 58153,
+    "Timestamp": "2026-09-28 00:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pueblo Vista Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:21 AM, Sep 28 2026 Crash on WB Lake Mead Blvd\u00A0before Pueblo Vista Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3794991/attachment_0.png",
+    "Latitude": 36.197035996907253,
+    "Longitude": -115.26999770965793
   }
 ]
