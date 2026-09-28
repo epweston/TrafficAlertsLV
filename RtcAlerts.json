@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58048,
-    "Timestamp": "2026-09-26 21:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-15",
-    "Impact": "Right shoulder",
-    "Notes": "9:15 PM, Sep 26 2026 Stalled vehicle on NB I-11\u00A0to SB I-15 ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794691/attachment_0.png",
-    "Latitude": 36.17468015,
-    "Longitude": -115.15834839
-  },
-  {
-    "UniqueId": 58049,
-    "Timestamp": "2026-09-26 21:34",
-    "IncidentType": "Update Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are open.",
-    "Notes": "9:34 PM, Sep 26 2026 Update Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794693/attachment_0.png",
-    "Latitude": 36.195559803377257,
-    "Longitude": -115.08015630322291
-  },
-  {
-    "UniqueId": 58050,
-    "Timestamp": "2026-09-26 22:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Caesars Palace Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:40 PM, Sep 26 2026 Crash on SB Las Vegas Blvd\u00A0before Caesars Palace Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794697/attachment_0.jpg",
-    "Latitude": 36.117421499999999,
-    "Longitude": -115.1728189
-  },
-  {
-    "UniqueId": 58051,
-    "Timestamp": "2026-09-26 22:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "10:43 PM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0after Silverado Ranch Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794672/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 58052,
     "Timestamp": "2026-09-26 23:01",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794962/attachment_0.png",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 58149,
+    "Timestamp": "2026-09-27 22:41",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Main St",
+    "Relationship": "at",
+    "CrossStreet": "Sycamore Ln",
+    "Impact": "All lanes are blocked.",
+    "Notes": "10:41 PM, Sep 27 2026 Police activity on NB Main St\u00A0at Sycamore Ln (before Washington Ave). All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794979/attachment_0.png",
+    "Latitude": 36.180239,
+    "Longitude": -115.140789
   }
 ]
