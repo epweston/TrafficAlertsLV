@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58085,
-    "Timestamp": "2026-09-27 07:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Deer Springs Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:56 AM, Sep 27 2026 Crash on SB Hualapai Way\u00A0at Deer Springs Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794789/attachment_0.jpg",
-    "Latitude": 36.284672,
-    "Longitude": -115.3148812
-  },
-  {
     "UniqueId": 58086,
     "Timestamp": "2026-09-27 08:14",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795406/attachment_0.png",
     "Latitude": 36.065891399999998,
     "Longitude": -115.24823170000001
+  },
+  {
+    "UniqueId": 58175,
+    "Timestamp": "2026-09-28 08:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Horizon Ridge Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:00 AM, Sep 28 2026 Crash on WB Horizon Ridge Pkwy\u00A0after Valle Verde Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795448/attachment_0.jpg",
+    "Latitude": 36.0115798,
+    "Longitude": -115.0621469
+  },
+  {
+    "UniqueId": 58176,
+    "Timestamp": "2026-09-28 08:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Saddle Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:03 AM, Sep 28 2026 Crash on SB Ft Apache Rd\u00A0after Saddle Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795472/attachment_0.png",
+    "Latitude": 36.1167965,
+    "Longitude": -115.2969593
   }
 ]
