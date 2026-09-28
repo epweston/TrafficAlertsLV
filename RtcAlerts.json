@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58039,
-    "Timestamp": "2026-09-26 20:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left shoulder",
-    "Notes": "8:04 PM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794643/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 58040,
-    "Timestamp": "2026-09-26 20:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right shoulder",
-    "Notes": "8:10 PM, Sep 26 2026 Crash on SB I-11\u00A0after Elkhorn Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794661/attachment_0.png",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
     "UniqueId": 58041,
     "Timestamp": "2026-09-26 20:27",
     "IncidentType": "Update Crash",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794972/attachment_0.jpg",
     "Latitude": 36.092590299999998,
     "Longitude": -115.147316
+  },
+  {
+    "UniqueId": 58143,
+    "Timestamp": "2026-09-27 20:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder.",
+    "Notes": "8:05 PM, Sep 27 2026 Stalled vehicle on NB I-11\u00A0before Boulder Hwy. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794957/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
