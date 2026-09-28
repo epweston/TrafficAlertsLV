@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58036,
-    "Timestamp": "2026-09-26 19:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder",
-    "Notes": "7:35 PM, Sep 26 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794638/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 58037,
-    "Timestamp": "2026-09-26 19:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Topaz St",
-    "Impact": "",
-    "Notes": "7:43 PM, Sep 26 2026 Crash on EB Tropicana Ave\u00A0at Topaz St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794639/attachment_0.png",
-    "Latitude": 36.100036899999999,
-    "Longitude": -115.1144807
-  },
-  {
-    "UniqueId": 58038,
-    "Timestamp": "2026-09-26 19:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sierra Vista Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:49 PM, Sep 26 2026 Stalled vehicle on SB Paradise Rd\u00A0at Sierra Vista Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794640/attachment_0.png",
-    "Latitude": 36.126834100000004,
-    "Longitude": -115.15505899999999
-  },
-  {
     "UniqueId": 58039,
     "Timestamp": "2026-09-26 20:04",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794950/attachment_0.png",
     "Latitude": 36.059283399999998,
     "Longitude": -115.29762289999999
+  },
+  {
+    "UniqueId": 58139,
+    "Timestamp": "2026-09-27 19:43",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Bellagio Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:43 PM, Sep 27 2026 Update Crash on SB Las Vegas Blvd\u00A0after Bellagio Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794947/attachment_0.png",
+    "Latitude": 36.111131200000003,
+    "Longitude": -115.17297687999999
+  },
+  {
+    "UniqueId": 58140,
+    "Timestamp": "2026-09-27 19:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:47 PM, Sep 27 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794969/attachment_0.png",
+    "Latitude": 36.159048129218675,
+    "Longitude": -115.160685082124
   }
 ]
