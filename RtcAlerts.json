@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58096,
-    "Timestamp": "2026-09-27 11:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hoover St",
-    "Impact": "",
-    "Notes": "11:47 AM, Sep 27 2026 Stalled vehicle on EB Lake Mead Blvd\u00A0at Hoover St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794831/attachment_0.png",
-    "Latitude": 36.195708000000003,
-    "Longitude": -115.12759490000001
-  },
-  {
     "UniqueId": 58097,
     "Timestamp": "2026-09-27 12:10",
     "IncidentType": "Crash",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796073/attachment_0.jpg",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 58200,
+    "Timestamp": "2026-09-28 11:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:55 AM, Sep 28 2026 Crash on SB I-15 \u00A0after Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796111/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 58201,
+    "Timestamp": "2026-09-28 11:56",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "11:56 AM, Sep 28 2026 Vehicle on fire on NB I-11\u00A0at Tropicana Ave. Right lanes blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
