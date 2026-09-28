@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58043,
-    "Timestamp": "2026-09-26 20:34",
-    "IncidentType": "Update Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All westbound lanes are blocked.",
-    "Notes": "8:34 PM, Sep 26 2026 Update Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. All westbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794663/attachment_0.png",
-    "Latitude": 36.195559803377257,
-    "Longitude": -115.08015630322291
-  },
-  {
-    "UniqueId": 58044,
-    "Timestamp": "2026-09-26 20:37",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:37 PM, Sep 26 2026 Crash on WB Tropicana Ave\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794664/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
-    "UniqueId": 58045,
-    "Timestamp": "2026-09-26 20:37",
-    "IncidentType": "Update Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:37 PM, Sep 26 2026 Update Police activity on WB Lake Mead Blvd\u00A0after Lamb Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794666/attachment_0.jpg",
-    "Latitude": 36.195559803377257,
-    "Longitude": -115.08015630322291
-  },
-  {
-    "UniqueId": 58046,
-    "Timestamp": "2026-09-26 20:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder",
-    "Notes": "8:42 PM, Sep 26 2026 Crash on WB 215 Northern Beltway\u00A0before Durango Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794668/attachment_0.jpg",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 58047,
     "Timestamp": "2026-09-26 20:51",
     "IncidentType": "Update Police activity",
@@ -1370,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794958/attachment_0.png",
     "Latitude": 36.086214300000002,
     "Longitude": -115.1730815
+  },
+  {
+    "UniqueId": 58145,
+    "Timestamp": "2026-09-27 20:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Tamarus St",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder",
+    "Notes": "8:38 PM, Sep 27 2026 Crash on SB Tamarus St\u00A0after Flamingo Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794959/attachment_0.png",
+    "Latitude": 36.114676899999999,
+    "Longitude": -115.1331813
+  },
+  {
+    "UniqueId": 58146,
+    "Timestamp": "2026-09-27 20:40",
+    "IncidentType": "Update Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Arby Ave",
+    "Impact": "All lanes are open.",
+    "Notes": "8:40 PM, Sep 27 2026 Update Crash on NB Ft Apache Rd\u00A0at Arby Ave. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794976/attachment_0.jpg",
+    "Latitude": 36.059283399999998,
+    "Longitude": -115.29762289999999
   }
 ]
