@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58101,
-    "Timestamp": "2026-09-27 14:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:01 PM, Sep 27 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794843/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 58102,
-    "Timestamp": "2026-09-27 14:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Center lanes blocked.",
-    "Notes": "2:08 PM, Sep 27 2026 Crash on SB Decatur Blvd\u00A0before Twain Ave. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794845/attachment_0.jpg",
-    "Latitude": 36.122551399999999,
-    "Longitude": -115.2080967
-  },
-  {
     "UniqueId": 58103,
     "Timestamp": "2026-09-27 14:34",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796599/attachment_0.jpg",
     "Latitude": 36.235863999999999,
     "Longitude": -115.0622212
+  },
+  {
+    "UniqueId": 58213,
+    "Timestamp": "2026-09-28 14:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:02 PM, Sep 28 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796755/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
