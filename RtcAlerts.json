@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58105,
-    "Timestamp": "2026-09-27 14:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "2:45 PM, Sep 27 2026 Crash on EB Flamingo Rd\u00A0before Maryland Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794877/attachment_0.png",
-    "Latitude": 36.114655800000001,
-    "Longitude": -115.1379192
-  },
-  {
     "UniqueId": 58106,
     "Timestamp": "2026-09-27 15:13",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796824/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58217,
+    "Timestamp": "2026-09-28 14:44",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:44 PM, Sep 28 2026 Crash on WB Sunset Rd\u00A0before Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796830/attachment_0.png",
+    "Latitude": 36.071844499999997,
+    "Longitude": -115.1900349
   }
 ]
