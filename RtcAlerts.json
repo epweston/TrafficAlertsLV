@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58082,
-    "Timestamp": "2026-09-27 05:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:49 AM, Sep 27 2026 Crash on WB Sahara Ave\u00A0at I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794759/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
-    "UniqueId": 58083,
-    "Timestamp": "2026-09-27 05:49",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "5:49 AM, Sep 27 2026 Police activity on NB I-15\u00A0at Flamingo Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 58084,
     "Timestamp": "2026-09-27 07:42",
     "IncidentType": "Abandoned vehicle",
@@ -1062,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795164/attachment_0.jpg",
     "Latitude": 35.968342972997235,
     "Longitude": -114.91009383325343
+  },
+  {
+    "UniqueId": 58161,
+    "Timestamp": "2026-09-28 05:49",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Lane blocked. Expect Delays",
+    "Notes": "5:49 AM, Sep 28 2026 Crash on WB Flamingo Rd\u00A0after Las Vegas Blvd. Lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795177/attachment_0.jpg",
+    "Latitude": 36.114680487880882,
+    "Longitude": -115.1728856710384
   }
 ]
