@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58052,
-    "Timestamp": "2026-09-26 23:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder",
-    "Notes": "11:01 PM, Sep 26 2026 Stalled vehicle on SB I-15\u00A0before Tropicana Ave. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794674/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 58053,
-    "Timestamp": "2026-09-26 23:03",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "11:03 PM, Sep 26 2026 Police activity on NB I-15\u00A0at Flamingo Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794698/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 58054,
-    "Timestamp": "2026-09-26 23:05",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:05 PM, Sep 26 2026 Police activity on SB Rancho Dr\u00A0before Washington Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/26/file_attachments/3794699/attachment_0.jpg",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
     "UniqueId": 58055,
     "Timestamp": "2026-09-26 23:48",
     "IncidentType": "Crash",
@@ -1314,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794979/attachment_0.png",
     "Latitude": 36.180239,
     "Longitude": -115.140789
+  },
+  {
+    "UniqueId": 58150,
+    "Timestamp": "2026-09-27 23:12",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder",
+    "Notes": "11:12 PM, Sep 27 2026 Police activity on SB I-15\u00A0at Russell Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794983/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
