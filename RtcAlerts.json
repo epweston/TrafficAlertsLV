@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58139,
-    "Timestamp": "2026-09-27 19:43",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bellagio Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:43 PM, Sep 27 2026 Update Crash on SB Las Vegas Blvd\u00A0after Bellagio Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794947/attachment_0.png",
-    "Latitude": 36.111131200000003,
-    "Longitude": -115.17297687999999
-  },
-  {
-    "UniqueId": 58140,
-    "Timestamp": "2026-09-27 19:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:47 PM, Sep 27 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794969/attachment_0.png",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
-    "UniqueId": 58141,
-    "Timestamp": "2026-09-27 19:52",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder",
-    "Notes": "7:52 PM, Sep 27 2026 Abandoned vehicle on SB I-11\u00A0at Eastern Ave off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794951/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 58142,
-    "Timestamp": "2026-09-27 19:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "after",
-    "CrossStreet": "Kitty Hawk Way",
-    "Impact": "Left lane partially blocked.",
-    "Notes": "7:54 PM, Sep 27 2026 Stalled vehicle on SB Paradise Rd\u00A0after Kitty Hawk Way. Left lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794972/attachment_0.jpg",
-    "Latitude": 36.092590299999998,
-    "Longitude": -115.147316
-  },
-  {
     "UniqueId": 58143,
     "Timestamp": "2026-09-27 20:05",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797089/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 58245,
+    "Timestamp": "2026-09-28 19:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Blude Diamond Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:55 PM, Sep 28 2026 Stalled vehicle on WB Blude Diamond Rd\u00A0before Rainbow Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797078/attachment_0.png",
+    "Latitude": 36.022550799999998,
+    "Longitude": -115.2434145
   }
 ]
