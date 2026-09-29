@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58158,
-    "Timestamp": "2026-09-28 05:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "at",
-    "CrossStreet": "Airport Tunnel",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:33 AM, Sep 28 2026 Crash on NB Airport Connector\u00A0at Airport Tunnel. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795136/attachment_0.jpg",
-    "Latitude": 36.070912589999999,
-    "Longitude": -115.14622432
-  },
-  {
-    "UniqueId": 58159,
-    "Timestamp": "2026-09-28 05:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:36 AM, Sep 28 2026 Crash on NB I-11\u00A0before Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795158/attachment_0.jpg",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 58160,
     "Timestamp": "2026-09-28 05:40",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797281/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 58273,
+    "Timestamp": "2026-09-29 05:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:31 AM, Sep 29 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797284/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 58274,
+    "Timestamp": "2026-09-29 05:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Old Gibson Rd",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "5:34 AM, Sep 29 2026 Crash on EB Sunset Rd\u00A0at Old Gibson Rd. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797303/attachment_0.png",
+    "Latitude": 36.063742400000002,
+    "Longitude": -115.0286547
   }
 ]
