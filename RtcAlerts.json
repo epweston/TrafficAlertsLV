@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58178,
-    "Timestamp": "2026-09-28 08:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Roy Horn Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:21 AM, Sep 28 2026 Crash on NB Rainbow Blvd\u00A0before Roy Horn Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795523/attachment_0.png",
-    "Latitude": 36.0654945,
-    "Longitude": -115.242318
-  },
-  {
     "UniqueId": 58179,
     "Timestamp": "2026-09-28 08:31",
     "IncidentType": "Crash",
@@ -1608,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797588/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58296,
+    "Timestamp": "2026-09-29 08:27",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tonopah Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "8:27 AM, Sep 29 2026 Crash on EB Lake Mead Blvd\u00A0at Tonopah Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797604/attachment_0.png",
+    "Latitude": 36.195630700000002,
+    "Longitude": -115.16981850000001
+  },
+  {
+    "UniqueId": 58297,
+    "Timestamp": "2026-09-29 08:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:28 AM, Sep 29 2026 Crash on EB Blue Diamond Rd\u00A0after Rainbow Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797597/attachment_0.png",
+    "Latitude": 36.022412007316184,
+    "Longitude": -115.24351356526064
   }
 ]
