@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 58134,
-    "Timestamp": "2026-09-27 19:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:06 PM, Sep 27 2026 Stalled vehicle on SB I-11\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794944/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 58135,
-    "Timestamp": "2026-09-27 19:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:18 PM, Sep 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794925/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 58136,
-    "Timestamp": "2026-09-27 19:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "7:23 PM, Sep 27 2026 Stalled vehicle on SB I-15\u00A0to Charleston Blvd off-ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794927/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 58137,
-    "Timestamp": "2026-09-27 19:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bellagio Dr",
-    "Impact": "Center lanes blocked.",
-    "Notes": "7:26 PM, Sep 27 2026 Crash on SB Las Vegas Blvd\u00A0after Bellagio Dr. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794928/attachment_0.jpg",
-    "Latitude": 36.111131200000003,
-    "Longitude": -115.17297687999999
-  },
-  {
-    "UniqueId": 58138,
-    "Timestamp": "2026-09-27 19:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arby Ave",
-    "Impact": "All lanes are blocked between Maule Ave and Warm Springs Rd. Use other routes.",
-    "Notes": "7:28 PM, Sep 27 2026 Crash on NB Ft Apache Rd\u00A0at Arby Ave. All lanes are blocked between Maule Ave and Warm Springs Rd. Use other routes.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794950/attachment_0.png",
-    "Latitude": 36.059283399999998,
-    "Longitude": -115.29762289999999
-  },
-  {
     "UniqueId": 58139,
     "Timestamp": "2026-09-27 19:43",
     "IncidentType": "Update Crash",
@@ -1538,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797072/attachment_0.png",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 58244,
+    "Timestamp": "2026-09-28 19:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Mile 3",
+    "Impact": "Right shoulder",
+    "Notes": "7:26 PM, Sep 28 2026 Stalled vehicle on NB I-11\u00A0after Mile 3. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797089/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
