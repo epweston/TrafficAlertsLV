@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58213,
-    "Timestamp": "2026-09-28 14:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:02 PM, Sep 28 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796755/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 58214,
     "Timestamp": "2026-09-28 14:22",
     "IncidentType": "Crash",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798835/attachment_0.jpg",
     "Latitude": 36.129609100000003,
     "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 58317,
+    "Timestamp": "2026-09-29 14:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "2:02 PM, Sep 29 2026 Crash on SB 215 Western Beltway\u00A0after Sahara Ave. Right lanes blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
