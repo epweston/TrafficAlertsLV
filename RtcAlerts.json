@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58148,
-    "Timestamp": "2026-09-27 21:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-11",
-    "Impact": "Right shoulder",
-    "Notes": "9:08 PM, Sep 27 2026 Stalled vehicle on NB I-15\u00A0to SB I-11 ramp. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794962/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 58149,
     "Timestamp": "2026-09-27 22:41",
     "IncidentType": "Police activity",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797120/attachment_0.jpg",
     "Latitude": 36.286358499999999,
     "Longitude": -115.2879204
+  },
+  {
+    "UniqueId": 58250,
+    "Timestamp": "2026-09-28 21:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "HOV lane blocked.",
+    "Notes": "9:13 PM, Sep 28 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. HOV lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797102/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 58251,
+    "Timestamp": "2026-09-28 21:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:14 PM, Sep 28 2026 Crash on SB Paradise Rd\u00A0before Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797104/attachment_0.png",
+    "Latitude": 36.101024170590854,
+    "Longitude": -115.14982939081087
   }
 ]
