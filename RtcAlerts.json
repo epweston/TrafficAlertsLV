@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58211,
-    "Timestamp": "2026-09-28 13:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:32 PM, Sep 28 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796687/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 58212,
-    "Timestamp": "2026-09-28 13:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:37 PM, Sep 28 2026 Crash on SB Las Vegas Blvd\u00A0before Nellis Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796599/attachment_0.jpg",
-    "Latitude": 36.235863999999999,
-    "Longitude": -115.0622212
-  },
-  {
     "UniqueId": 58213,
     "Timestamp": "2026-09-28 14:02",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798771/attachment_0.png",
     "Latitude": 36.199951899999988,
     "Longitude": -115.28239290000001
+  },
+  {
+    "UniqueId": 58315,
+    "Timestamp": "2026-09-29 13:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:47 PM, Sep 29 2026 Crash on NB I-11\u00A0at Cheyenne Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798820/attachment_0.jpg",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
