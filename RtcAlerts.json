@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58150,
-    "Timestamp": "2026-09-27 23:12",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder",
-    "Notes": "11:12 PM, Sep 27 2026 Police activity on SB I-15\u00A0at Russell Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794983/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 58151,
     "Timestamp": "2026-09-27 23:29",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797118/attachment_0.png",
     "Latitude": 36.101074300000001,
     "Longitude": -115.1459157
+  },
+  {
+    "UniqueId": 58263,
+    "Timestamp": "2026-09-28 23:13",
+    "IncidentType": "Update Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "All lanes are open.",
+    "Notes": "11:13 PM, Sep 28 2026 Update Police activity on SB Rancho Dr\u00A0after Sahara Ave. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.144174199999988,
+    "Longitude": -115.1731231
   }
 ]
