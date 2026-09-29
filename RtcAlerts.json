@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58120,
-    "Timestamp": "2026-09-27 17:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Spencer St",
-    "Impact": "",
-    "Notes": "5:05 PM, Sep 27 2026 Crash on EB Warm Springs Rd\u00A0before Spencer St. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794888/attachment_0.png",
-    "Latitude": 36.057628800000003,
-    "Longitude": -115.1276196
-  },
-  {
     "UniqueId": 58121,
     "Timestamp": "2026-09-27 17:11",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797018/attachment_0.png",
     "Latitude": 36.012645700000007,
     "Longitude": -114.9766364
+  },
+  {
+    "UniqueId": 58234,
+    "Timestamp": "2026-09-28 17:06",
+    "IncidentType": "Flooding on the road",
+    "Direction": "SB",
+    "PrimaryRoad": "Casino Dr",
+    "Relationship": "at",
+    "CrossStreet": "Bruce Woodbury Dr",
+    "Impact": "Use caution in the area.",
+    "Notes": "5:06 PM, Sep 28 2026 Flooding on the road on SB Casino Dr\u00A0at Bruce Woodbury Dr. Use caution in the area.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797026/attachment_0.jpg",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
