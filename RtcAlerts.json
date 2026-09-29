@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58215,
-    "Timestamp": "2026-09-28 14:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:34 PM, Sep 28 2026 Crash on SB Paradise Rd\u00A0before Desert Inn Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796821/attachment_0.jpg",
-    "Latitude": 36.12951294782809,
-    "Longitude": -115.15485582743371
-  },
-  {
     "UniqueId": 58216,
     "Timestamp": "2026-09-28 14:39",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798869/attachment_0.jpg",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 58323,
+    "Timestamp": "2026-09-29 14:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "2:34 PM, Sep 29 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798895/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
