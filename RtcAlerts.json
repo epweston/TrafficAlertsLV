@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58151,
-    "Timestamp": "2026-09-27 23:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Sb I-11",
-    "Impact": "",
-    "Notes": "11:29 PM, Sep 27 2026 Crash on NB I-15\u00A0to SB I-11 ramp Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794966/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 58152,
-    "Timestamp": "2026-09-27 23:50",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "at",
-    "CrossStreet": "Sycamore Ln",
-    "Impact": "All lanes are open.",
-    "Notes": "11:50 PM, Sep 27 2026 Update Crash on NB Main St\u00A0at Sycamore Ln. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794968/attachment_0.png",
-    "Latitude": 36.180239,
-    "Longitude": -115.140789
-  },
-  {
     "UniqueId": 58153,
     "Timestamp": "2026-09-28 00:21",
     "IncidentType": "Crash",
@@ -1566,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797144/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 58265,
+    "Timestamp": "2026-09-28 23:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "11:51 PM, Sep 28 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797137/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
