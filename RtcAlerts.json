@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58204,
-    "Timestamp": "2026-09-28 12:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "at",
-    "CrossStreet": "Wynn Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "12:54 PM, Sep 28 2026 Crash on WB Twain Ave\u00A0at Wynn Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796560/attachment_0.png",
-    "Latitude": 36.122711500000001,
-    "Longitude": -115.1947215
-  },
-  {
-    "UniqueId": 58205,
-    "Timestamp": "2026-09-28 13:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "Jerry Tarkanian Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:02 PM, Sep 28 2026 Crash on EB Russell Rd\u00A0after Jerry Tarkanian Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796661/attachment_0.png",
-    "Latitude": 36.085262499999999,
-    "Longitude": -115.2901459
-  },
-  {
-    "UniqueId": 58206,
-    "Timestamp": "2026-09-28 13:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:13 PM, Sep 28 2026 Crash on WB Sunset Rd\u00A0before Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796572/attachment_0.jpg",
-    "Latitude": 36.071844499999997,
-    "Longitude": -115.1900349
-  },
-  {
     "UniqueId": 58207,
     "Timestamp": "2026-09-28 13:15",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798724/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 58312,
+    "Timestamp": "2026-09-29 13:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Transition Ramp left lane blocked. Expect Delays",
+    "Notes": "1:11 PM, Sep 29 2026 Crash on SB I-11\u00A0to Lake Mead Blvd. Transition Ramp left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798777/attachment_0.jpg",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
