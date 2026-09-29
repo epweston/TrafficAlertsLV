@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58216,
-    "Timestamp": "2026-09-28 14:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Center lanes blocked.",
-    "Notes": "2:39 PM, Sep 28 2026 Crash on NB I-15\u00A0before Lake Mead Blvd. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796824/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 58217,
     "Timestamp": "2026-09-28 14:44",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798895/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58324,
+    "Timestamp": "2026-09-29 14:38",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:38 PM, Sep 29 2026 Crash on WB 215 Southern Beltway on ramp at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798899/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 58325,
+    "Timestamp": "2026-09-29 14:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "2:39 PM, Sep 29 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Town Center Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798901/attachment_0.jpg",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
