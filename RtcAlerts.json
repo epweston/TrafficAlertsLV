@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58196,
-    "Timestamp": "2026-09-28 11:33",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:33 AM, Sep 28 2026 Vehicle on fire on NB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796048/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 58197,
     "Timestamp": "2026-09-28 11:41",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798585/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 58307,
+    "Timestamp": "2026-09-29 11:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Arby Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:35 AM, Sep 29 2026 Crash on NB Durango Dr\u00A0after Arby Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798616/attachment_0.jpg",
+    "Latitude": 36.0594629,
+    "Longitude": -115.2793265
   }
 ]
