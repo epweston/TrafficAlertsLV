@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58181,
-    "Timestamp": "2026-09-28 09:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Gore blocked",
-    "Notes": "9:12 AM, Sep 28 2026 Crash on SB I-15\u00A0after Flamingo Rd. Gore blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795681/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 58182,
-    "Timestamp": "2026-09-28 09:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "9:22 AM, Sep 28 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795702/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 58183,
-    "Timestamp": "2026-09-28 09:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:22 AM, Sep 28 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795706/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 58184,
-    "Timestamp": "2026-09-28 09:24",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:24 AM, Sep 28 2026 Crash on EB Lake Mead Pkwy\u00A0at Boulder Hwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795730/attachment_0.jpg",
-    "Latitude": 36.039436100000003,
-    "Longitude": -114.982083
-  },
-  {
     "UniqueId": 58185,
     "Timestamp": "2026-09-28 09:41",
     "IncidentType": "Crash",
@@ -1622,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797729/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 58300,
+    "Timestamp": "2026-09-29 09:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:27 AM, Sep 29 2026 Stalled vehicle on SB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798024/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
