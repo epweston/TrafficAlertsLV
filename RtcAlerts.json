@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 58190,
-    "Timestamp": "2026-09-28 10:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:20 AM, Sep 28 2026 Crash on NB I-15\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795857/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 58191,
-    "Timestamp": "2026-09-28 10:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Off-ramp temporarily closed. Use other routes",
-    "Notes": "10:27 AM, Sep 28 2026 Crash on SB I-15\u00A0to Flamingo Rd. Off-ramp temporarily closed. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795890/attachment_0.jpg",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 58192,
-    "Timestamp": "2026-09-28 10:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Claymont St",
-    "Impact": "",
-    "Notes": "10:35 AM, Sep 28 2026 Crash on EB Flamingo Rd\u00A0after Claymont St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795926/attachment_0.png",
-    "Latitude": 36.114563099999998,
-    "Longitude": -115.1422929
-  },
-  {
-    "UniqueId": 58193,
-    "Timestamp": "2026-09-28 10:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:39 AM, Sep 28 2026 Crash on EB Sunset Rd\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795934/attachment_0.png",
-    "Latitude": 36.070465899999988,
-    "Longitude": -115.27951229999999
-  },
-  {
-    "UniqueId": 58194,
-    "Timestamp": "2026-09-28 10:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:52 AM, Sep 28 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795971/attachment_0.png",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 58195,
     "Timestamp": "2026-09-28 11:28",
     "IncidentType": "Crash",
@@ -1566,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798329/attachment_0.png",
     "Latitude": 35.961751371359661,
     "Longitude": -115.18186569213869
+  },
+  {
+    "UniqueId": 58305,
+    "Timestamp": "2026-09-29 11:05",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "11:05 AM, Sep 29 2026 Crash on WB Charleston Blvd\u00A0at 215 Western Beltway. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798454/attachment_0.jpg",
+    "Latitude": 36.159048129218675,
+    "Longitude": -115.160685082124
   }
 ]
