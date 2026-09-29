@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58144,
-    "Timestamp": "2026-09-27 20:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:29 PM, Sep 27 2026 Crash on EB Russell Rd\u00A0before Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794958/attachment_0.png",
-    "Latitude": 36.086214300000002,
-    "Longitude": -115.1730815
-  },
-  {
-    "UniqueId": 58145,
-    "Timestamp": "2026-09-27 20:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Tamarus St",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder",
-    "Notes": "8:38 PM, Sep 27 2026 Crash on SB Tamarus St\u00A0after Flamingo Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794959/attachment_0.png",
-    "Latitude": 36.114676899999999,
-    "Longitude": -115.1331813
-  },
-  {
-    "UniqueId": 58146,
-    "Timestamp": "2026-09-27 20:40",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arby Ave",
-    "Impact": "All lanes are open.",
-    "Notes": "8:40 PM, Sep 27 2026 Update Crash on NB Ft Apache Rd\u00A0at Arby Ave. All lanes are open.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794976/attachment_0.jpg",
-    "Latitude": 36.059283399999998,
-    "Longitude": -115.29762289999999
-  },
-  {
     "UniqueId": 58147,
     "Timestamp": "2026-09-27 20:47",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797099/attachment_0.png",
     "Latitude": 36.056545700000001,
     "Longitude": -115.0843165
+  },
+  {
+    "UniqueId": 58247,
+    "Timestamp": "2026-09-28 20:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Left shoulder",
+    "Notes": "8:41 PM, Sep 28 2026 Crash on SB I-11\u00A0at Cheyenne Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797096/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 58248,
+    "Timestamp": "2026-09-28 20:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:44 PM, Sep 28 2026 Crash on EB 215 Northern Beltway offramp to Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797098/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
