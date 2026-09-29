@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58171,
-    "Timestamp": "2026-09-28 07:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:22 AM, Sep 28 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795380/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58172,
     "Timestamp": "2026-09-28 07:37",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "",
     "Latitude": 36.113265400000003,
     "Longitude": -115.06468529999999
+  },
+  {
+    "UniqueId": 58289,
+    "Timestamp": "2026-09-29 07:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "7:30 AM, Sep 29 2026 Crash on EB Ann Rd\u00A0before Rainbow Blvd. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797547/attachment_0.jpg",
+    "Latitude": 36.263265599999997,
+    "Longitude": -115.2424312
   }
 ]
