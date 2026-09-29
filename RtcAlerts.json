@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58214,
-    "Timestamp": "2026-09-28 14:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Civic Center Dr",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:22 PM, Sep 28 2026 Crash on NB Civic Center Dr\u00A0before Cheyenne Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3796804/attachment_0.jpg",
-    "Latitude": 36.217594200000001,
-    "Longitude": -115.12107260000001
-  },
-  {
     "UniqueId": 58215,
     "Timestamp": "2026-09-28 14:34",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798845/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 58320,
+    "Timestamp": "2026-09-29 14:17",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "2:17 PM, Sep 29 2026 Crash on WB Tropicana Ave\u00A0at I-15. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798850/attachment_0.jpg",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 58321,
+    "Timestamp": "2026-09-29 14:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "before",
+    "CrossStreet": "Airport Tunnel",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:19 PM, Sep 29 2026 Crash on NB Airport Connector\u00A0before Airport Tunnel. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798852/attachment_0.jpg",
+    "Latitude": 36.070912589999999,
+    "Longitude": -115.14622432
   }
 ]
