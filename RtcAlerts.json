@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58143,
-    "Timestamp": "2026-09-27 20:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder.",
-    "Notes": "8:05 PM, Sep 27 2026 Stalled vehicle on NB I-11\u00A0before Boulder Hwy. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794957/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 58144,
     "Timestamp": "2026-09-27 20:29",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797078/attachment_0.png",
     "Latitude": 36.022550799999998,
     "Longitude": -115.2434145
+  },
+  {
+    "UniqueId": 58246,
+    "Timestamp": "2026-09-28 20:20",
+    "IncidentType": "Update Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "after",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "All lanes are open.",
+    "Notes": "8:20 PM, Sep 28 2026 Update Crash on EB Warm Springs Rd\u00A0after Green Valley Pkwy. All lanes are open.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797099/attachment_0.png",
+    "Latitude": 36.056545700000001,
+    "Longitude": -115.0843165
   }
 ]
