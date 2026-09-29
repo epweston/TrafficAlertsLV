@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58127,
-    "Timestamp": "2026-09-27 18:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:09 PM, Sep 27 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794935/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 58128,
-    "Timestamp": "2026-09-27 18:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder",
-    "Notes": "6:09 PM, Sep 27 2026 Stalled vehicle on SB I-11\u00A0after College Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/27/file_attachments/3794936/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 58129,
     "Timestamp": "2026-09-27 18:12",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797079/attachment_0.jpg",
     "Latitude": 36.056545700000001,
     "Longitude": -115.0843165
+  },
+  {
+    "UniqueId": 58238,
+    "Timestamp": "2026-09-28 18:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Soneto Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:07 PM, Sep 28 2026 Crash on SB Durango Dr\u00A0at Soneto Ln (past Charleston Blvd). Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797065/attachment_0.png",
+    "Latitude": 36.156936899999998,
+    "Longitude": -115.2801066
   }
 ]
