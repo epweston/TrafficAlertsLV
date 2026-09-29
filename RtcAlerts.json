@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58154,
-    "Timestamp": "2026-09-28 00:52",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "",
-    "Notes": "12:52 AM, Sep 28 2026 Police activity on NB I-15\u00A0at Flamingo Rd off-ramp, Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3794993/attachment_0.jpg",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 58155,
     "Timestamp": "2026-09-28 03:16",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797151/attachment_0.jpg",
     "Latitude": 36.277337699999997,
     "Longitude": -115.28777220000001
+  },
+  {
+    "UniqueId": 58267,
+    "Timestamp": "2026-09-29 02:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "All lanes are blocked from Spring Mountain to Twain Ave.",
+    "Notes": "2:05 AM, Sep 29 2026 Crash on SB Valley View Blvd\u00A0after Spring Mountain Rd. All lanes are blocked from Spring Mountain to Twain Ave.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797185/attachment_0.png",
+    "Latitude": 36.126599400000003,
+    "Longitude": -115.19028729999999
   }
 ]
