@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58175,
-    "Timestamp": "2026-09-28 08:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Horizon Ridge Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:00 AM, Sep 28 2026 Crash on WB Horizon Ridge Pkwy\u00A0after Valle Verde Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795448/attachment_0.jpg",
-    "Latitude": 36.0115798,
-    "Longitude": -115.0621469
-  },
-  {
-    "UniqueId": 58176,
-    "Timestamp": "2026-09-28 08:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "after",
-    "CrossStreet": "Saddle Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:03 AM, Sep 28 2026 Crash on SB Ft Apache Rd\u00A0after Saddle Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795472/attachment_0.png",
-    "Latitude": 36.1167965,
-    "Longitude": -115.2969593
-  },
-  {
-    "UniqueId": 58177,
-    "Timestamp": "2026-09-28 08:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "8:18 AM, Sep 28 2026 Crash on EB 215 Southern Beltway\u00A0after Stephanie St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795508/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 58178,
     "Timestamp": "2026-09-28 08:21",
     "IncidentType": "Crash",
@@ -1608,5 +1566,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797535/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58293,
+    "Timestamp": "2026-09-29 08:14",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:14 AM, Sep 29 2026 Crash on EB Tropicana Ave\u00A0at Eastern Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797572/attachment_0.png",
+    "Latitude": 36.099966560770525,
+    "Longitude": -115.11896249561603
+  },
+  {
+    "UniqueId": 58294,
+    "Timestamp": "2026-09-29 08:15",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:15 AM, Sep 29 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd off ramp. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797587/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 58295,
+    "Timestamp": "2026-09-29 08:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:17 AM, Sep 29 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797588/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
