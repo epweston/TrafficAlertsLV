@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58160,
-    "Timestamp": "2026-09-28 05:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:40 AM, Sep 28 2026 Stalled vehicle on NB I-11\u00A0at Railroad Pass Casino Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795164/attachment_0.jpg",
-    "Latitude": 35.968342972997235,
-    "Longitude": -114.91009383325343
-  },
-  {
-    "UniqueId": 58161,
-    "Timestamp": "2026-09-28 05:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Lane blocked. Expect Delays",
-    "Notes": "5:49 AM, Sep 28 2026 Crash on WB Flamingo Rd\u00A0after Las Vegas Blvd. Lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795177/attachment_0.jpg",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
     "UniqueId": 58162,
     "Timestamp": "2026-09-28 06:19",
     "IncidentType": "Crash",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797303/attachment_0.png",
     "Latitude": 36.063742400000002,
     "Longitude": -115.0286547
+  },
+  {
+    "UniqueId": 58275,
+    "Timestamp": "2026-09-29 05:55",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "5:55 AM, Sep 29 2026 Crash on WB Summerlin Pkwy\u00A0at I-11. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797308/attachment_0.png",
+    "Latitude": 36.176691302008486,
+    "Longitude": -115.24369620296332
   }
 ]
