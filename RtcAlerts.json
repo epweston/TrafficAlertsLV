@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58162,
-    "Timestamp": "2026-09-28 06:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "WB Flamingo Rd at Las Vegas Blvd is closed due to a traffic accident",
-    "Notes": "6:19 AM, Sep 28 2026 Crash on WB Flamingo Rd\u00A0after Las Vegas Blvd. WB Flamingo Rd at Las Vegas Blvd is closed due to a traffic accident",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795222/attachment_0.png",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
-    "UniqueId": 58163,
-    "Timestamp": "2026-09-28 06:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:24 AM, Sep 28 2026 Crash on SB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3795225/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 58164,
     "Timestamp": "2026-09-28 06:26",
     "IncidentType": "Crash",
@@ -1594,5 +1566,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797341/attachment_0.png",
     "Latitude": 36.114511499999999,
     "Longitude": -115.2248991
+  },
+  {
+    "UniqueId": 58278,
+    "Timestamp": "2026-09-29 06:20",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:20 AM, Sep 29 2026 Crash on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797357/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 58279,
+    "Timestamp": "2026-09-29 06:20",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:20 AM, Sep 29 2026 Crash on NB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 58280,
+    "Timestamp": "2026-09-29 06:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Owens Ave",
+    "Relationship": "before",
+    "CrossStreet": "Main St All Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "6:22 AM, Sep 29 2026 Crash on EB Owens Ave\u00A0before Main St. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797358/attachment_0.png",
+    "Latitude": 36.188522800000001,
+    "Longitude": -115.1354401
+  },
+  {
+    "UniqueId": 58281,
+    "Timestamp": "2026-09-29 06:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Owens Ave",
+    "Relationship": "before",
+    "CrossStreet": "Main St All Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "6:22 AM, Sep 29 2026 Crash on EB Owens Ave\u00A0before Main St. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797379/attachment_0.jpg",
+    "Latitude": 36.188522800000001,
+    "Longitude": -115.1354401
   }
 ]
