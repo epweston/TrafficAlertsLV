@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58265,
-    "Timestamp": "2026-09-28 23:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "11:51 PM, Sep 28 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797137/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 58266,
     "Timestamp": "2026-09-29 00:28",
     "IncidentType": "Police activity",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799082/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 58359,
+    "Timestamp": "2026-09-29 23:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "11:51 PM, Sep 29 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799101/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
