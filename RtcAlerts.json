@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58292,
-    "Timestamp": "2026-09-29 07:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "7:48 AM, Sep 29 2026 Crash on SB I-11\u00A0at Eastern Ave. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797535/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58293,
     "Timestamp": "2026-09-29 08:14",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799515/attachment_0.jpg",
     "Latitude": 36.284558099999998,
     "Longitude": -115.2879646
+  },
+  {
+    "UniqueId": 58381,
+    "Timestamp": "2026-09-30 07:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:43 AM, Sep 30 2026 Crash on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799536/attachment_0.jpg",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
