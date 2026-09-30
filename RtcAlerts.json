@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58327,
-    "Timestamp": "2026-09-29 15:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Coronado Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:26 PM, Sep 29 2026 Crash on NB Eastern Ave\u00A0at Coronado Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798943/attachment_0.png",
-    "Latitude": 36.002564409146181,
-    "Longitude": -115.10892569074953
-  },
-  {
-    "UniqueId": 58328,
-    "Timestamp": "2026-09-29 15:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:35 PM, Sep 29 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798948/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 58330,
     "Timestamp": "2026-09-29 15:54",
     "IncidentType": "Crash",
@@ -1202,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800920/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58416,
+    "Timestamp": "2026-09-30 15:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:34 PM, Sep 30 2026 Crash on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800936/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
