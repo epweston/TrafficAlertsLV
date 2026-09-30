@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58237,
-    "Timestamp": "2026-09-28 18:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "after",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "All eastbound lanes are blocked.",
-    "Notes": "6:03 PM, Sep 28 2026 Crash on EB Warm Springs Rd\u00A0after Green Valley Pkwy. All eastbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797079/attachment_0.jpg",
-    "Latitude": 36.056545700000001,
-    "Longitude": -115.0843165
-  },
-  {
-    "UniqueId": 58238,
-    "Timestamp": "2026-09-28 18:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Soneto Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:07 PM, Sep 28 2026 Crash on SB Durango Dr\u00A0at Soneto Ln (past Charleston Blvd). Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797065/attachment_0.png",
-    "Latitude": 36.156936899999998,
-    "Longitude": -115.2801066
-  },
-  {
     "UniqueId": 58239,
     "Timestamp": "2026-09-28 18:31",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799058/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 58342,
+    "Timestamp": "2026-09-29 18:21",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:21 PM, Sep 29 2026 Vehicle on fire on NB I-15\u00A0after Silverado Ranch Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799038/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
