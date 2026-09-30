@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58242,
-    "Timestamp": "2026-09-28 18:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sands Ave",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:46 PM, Sep 28 2026 Crash on WB Sands Ave\u00A0after Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797071/attachment_0.png",
-    "Latitude": 36.121315799999998,
-    "Longitude": -115.155061
-  },
-  {
-    "UniqueId": 58243,
-    "Timestamp": "2026-09-28 18:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy On Left",
-    "Impact": "",
-    "Notes": "6:54 PM, Sep 28 2026 Stalled vehicle on SB I-11\u00A0before Boulder Hwy on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797072/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 58244,
     "Timestamp": "2026-09-28 19:26",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799061/attachment_0.png",
     "Latitude": 36.151011799999999,
     "Longitude": -115.295265
+  },
+  {
+    "UniqueId": 58344,
+    "Timestamp": "2026-09-29 18:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:58 PM, Sep 29 2026 Stalled vehicle on NB I-15\u00A0before Flamingo Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799042/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
