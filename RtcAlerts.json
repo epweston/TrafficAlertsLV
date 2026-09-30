@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58298,
-    "Timestamp": "2026-09-29 08:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Center lanes blocked. Expect Delays",
-    "Notes": "8:54 AM, Sep 29 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Center lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797746/attachment_0.jpg",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 58299,
     "Timestamp": "2026-09-29 08:58",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799697/attachment_0.png",
     "Latitude": 36.298386639861533,
     "Longitude": -115.28597831726076
+  },
+  {
+    "UniqueId": 58388,
+    "Timestamp": "2026-09-30 08:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Sumnmerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:52 AM, Sep 30 2026 Stalled vehicle on EB Sumnmerlin Pkwy\u00A0at Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799681/attachment_0.png",
+    "Latitude": 36.183238600000003,
+    "Longitude": -115.30132519999999
+  },
+  {
+    "UniqueId": 58389,
+    "Timestamp": "2026-09-30 08:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:53 AM, Sep 30 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799703/attachment_0.png",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
