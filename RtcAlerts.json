@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58296,
-    "Timestamp": "2026-09-29 08:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tonopah Dr",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "8:27 AM, Sep 29 2026 Crash on EB Lake Mead Blvd\u00A0at Tonopah Dr. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797604/attachment_0.png",
-    "Latitude": 36.195630700000002,
-    "Longitude": -115.16981850000001
-  },
-  {
-    "UniqueId": 58297,
-    "Timestamp": "2026-09-29 08:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:28 AM, Sep 29 2026 Crash on EB Blue Diamond Rd\u00A0after Rainbow Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797597/attachment_0.png",
-    "Latitude": 36.022412007316184,
-    "Longitude": -115.24351356526064
-  },
-  {
     "UniqueId": 58298,
     "Timestamp": "2026-09-29 08:54",
     "IncidentType": "Crash",
@@ -1188,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799613/attachment_0.jpg",
     "Latitude": 36.070465899999988,
     "Longitude": -115.27951229999999
+  },
+  {
+    "UniqueId": 58384,
+    "Timestamp": "2026-09-30 08:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:32 AM, Sep 30 2026 Crash on WB Blue Diamond Rd\u00A0before Jones Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799656/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 58385,
+    "Timestamp": "2026-09-30 08:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:32 AM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799654/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
