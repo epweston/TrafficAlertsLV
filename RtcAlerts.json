@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58331,
-    "Timestamp": "2026-09-29 16:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:38 PM, Sep 29 2026 Crash on NB Rainbow Blvd\u00A0before Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798996/attachment_0.png",
-    "Latitude": 36.070543507237815,
-    "Longitude": -115.24253723908187
-  },
-  {
     "UniqueId": 58332,
     "Timestamp": "2026-09-29 17:08",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801007/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 58425,
+    "Timestamp": "2026-09-30 16:38",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "4:38 PM, Sep 30 2026 Crash on WB 215 Southern Beltway\u00A0at Stephanie St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801015/attachment_0.png",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
   }
 ]
