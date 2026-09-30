@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58235,
-    "Timestamp": "2026-09-28 17:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:36 PM, Sep 28 2026 Crash on NB Martin L King Blvd\u00A0before Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797050/attachment_0.jpg",
-    "Latitude": 36.217924657099459,
-    "Longitude": -115.16123683006892
-  },
-  {
     "UniqueId": 58236,
     "Timestamp": "2026-09-28 17:52",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799031/attachment_0.jpg",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58338,
+    "Timestamp": "2026-09-29 17:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:41 PM, Sep 29 2026 Crash on WB Flamingo Rd\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799011/attachment_0.png",
+    "Latitude": 36.114511499999999,
+    "Longitude": -115.2248991
   }
 ]
