@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58312,
-    "Timestamp": "2026-09-29 13:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Transition Ramp left lane blocked. Expect Delays",
-    "Notes": "1:11 PM, Sep 29 2026 Crash on SB I-11\u00A0to Lake Mead Blvd. Transition Ramp left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798777/attachment_0.jpg",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 58313,
-    "Timestamp": "2026-09-29 13:12",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Blue Willow La",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:12 PM, Sep 29 2026 Crash on WB Sahara Ave\u00A0at Blue Willow La. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798780/attachment_0.jpg",
-    "Latitude": 36.144478700000001,
-    "Longitude": -115.3198878
-  },
-  {
     "UniqueId": 58314,
     "Timestamp": "2026-09-29 13:19",
     "IncidentType": "Crash",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800705/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 58407,
+    "Timestamp": "2026-09-30 13:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:10 PM, Sep 30 2026 Crash on WB Cheyenne Ave\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800708/attachment_0.png",
+    "Latitude": 36.216817199792388,
+    "Longitude": -115.22581636695935
   }
 ]
