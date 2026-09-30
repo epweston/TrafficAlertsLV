@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58236,
-    "Timestamp": "2026-09-28 17:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:52 PM, Sep 28 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Decatur Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797054/attachment_0.png",
-    "Latitude": 36.274993366998793,
-    "Longitude": -115.20657961738746
-  },
-  {
     "UniqueId": 58237,
     "Timestamp": "2026-09-28 18:03",
     "IncidentType": "Crash",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799011/attachment_0.png",
     "Latitude": 36.114511499999999,
     "Longitude": -115.2248991
+  },
+  {
+    "UniqueId": 58339,
+    "Timestamp": "2026-09-29 17:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "before",
+    "CrossStreet": "Spencer St",
+    "Impact": "",
+    "Notes": "5:47 PM, Sep 29 2026 Crash on EB Warm Springs Rd\u00A0before Spencer St. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799055/attachment_0.png",
+    "Latitude": 36.057628800000003,
+    "Longitude": -115.1276196
+  },
+  {
+    "UniqueId": 58340,
+    "Timestamp": "2026-09-29 17:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:50 PM, Sep 29 2026 Crash on NB I-11\u00A0at Lake Mead Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799057/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
