@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58245,
-    "Timestamp": "2026-09-28 19:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blude Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:55 PM, Sep 28 2026 Stalled vehicle on WB Blude Diamond Rd\u00A0before Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797078/attachment_0.png",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
     "UniqueId": 58246,
     "Timestamp": "2026-09-28 20:20",
     "IncidentType": "Update Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799049/attachment_0.png",
     "Latitude": 36.2397007,
     "Longitude": -115.23257750000001
+  },
+  {
+    "UniqueId": 58351,
+    "Timestamp": "2026-09-29 20:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:03 PM, Sep 29 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799068/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
