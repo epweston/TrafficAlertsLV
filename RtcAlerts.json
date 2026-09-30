@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58289,
-    "Timestamp": "2026-09-29 07:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "7:30 AM, Sep 29 2026 Crash on EB Ann Rd\u00A0before Rainbow Blvd. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797547/attachment_0.jpg",
-    "Latitude": 36.263265599999997,
-    "Longitude": -115.2424312
-  },
-  {
-    "UniqueId": 58290,
-    "Timestamp": "2026-09-29 07:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "7:32 AM, Sep 29 2026 Crash on NB I-11\u00A0before Lake Mead Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797527/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 58292,
     "Timestamp": "2026-09-29 07:48",
     "IncidentType": "Crash",
@@ -1188,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799476/attachment_0.png",
     "Latitude": 36.144160499999998,
     "Longitude": -115.2362969
+  },
+  {
+    "UniqueId": 58378,
+    "Timestamp": "2026-09-30 07:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:27 AM, Sep 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799499/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 58379,
+    "Timestamp": "2026-09-30 07:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:29 AM, Sep 30 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799501/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
