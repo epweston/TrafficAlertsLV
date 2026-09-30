@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58244,
-    "Timestamp": "2026-09-28 19:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Mile 3",
-    "Impact": "Right shoulder",
-    "Notes": "7:26 PM, Sep 28 2026 Stalled vehicle on NB I-11\u00A0after Mile 3. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797089/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58245,
     "Timestamp": "2026-09-28 19:55",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799065/attachment_0.jpg",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 58348,
+    "Timestamp": "2026-09-29 19:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:41 PM, Sep 29 2026 Crash on EB Russell Rd\u00A0after I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799046/attachment_0.png",
+    "Latitude": 36.085986896880186,
+    "Longitude": -115.18073380622651
   }
 ]
