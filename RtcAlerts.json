@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58302,
-    "Timestamp": "2026-09-29 09:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "9:59 AM, Sep 29 2026 Crash on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798138/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 58303,
     "Timestamp": "2026-09-29 10:05",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799781/attachment_0.png",
     "Latitude": 36.803092804844013,
     "Longitude": -114.1074702572607
+  },
+  {
+    "UniqueId": 58394,
+    "Timestamp": "2026-09-30 09:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:57 AM, Sep 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after I-15. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799810/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
