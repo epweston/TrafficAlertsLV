@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58287,
-    "Timestamp": "2026-09-29 07:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:03 AM, Sep 29 2026 Crash on NB I-15\u00A0at Speedway Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797460/attachment_0.jpg",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 58288,
     "Timestamp": "2026-09-29 07:07",
     "IncidentType": "UPDATE: Crash",
@@ -1146,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799399/attachment_0.jpg",
     "Latitude": 36.066225699999997,
     "Longitude": -115.2791549
+  },
+  {
+    "UniqueId": 58373,
+    "Timestamp": "2026-09-30 07:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:02 AM, Sep 30 2026 Crash on EB 215 Northern Beltway\u00A0before I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799402/attachment_0.jpg",
+    "Latitude": 36.271455539999998,
+    "Longitude": -115.05661742
+  },
+  {
+    "UniqueId": 58374,
+    "Timestamp": "2026-09-30 07:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:05 AM, Sep 30 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799411/attachment_0.png",
+    "Latitude": 36.289875459999998,
+    "Longitude": -115.07998461
   }
 ]
