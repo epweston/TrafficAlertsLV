@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58267,
-    "Timestamp": "2026-09-29 02:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "All lanes are blocked from Spring Mountain to Twain Ave.",
-    "Notes": "2:05 AM, Sep 29 2026 Crash on SB Valley View Blvd\u00A0after Spring Mountain Rd. All lanes are blocked from Spring Mountain to Twain Ave.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3797185/attachment_0.png",
-    "Latitude": 36.126599400000003,
-    "Longitude": -115.19028729999999
-  },
-  {
     "UniqueId": 58268,
     "Timestamp": "2026-09-29 02:47",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799092/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 58362,
+    "Timestamp": "2026-09-30 02:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:41 AM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0before Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799158/attachment_0.jpg",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
