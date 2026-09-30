@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58326,
-    "Timestamp": "2026-09-29 15:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:03 PM, Sep 29 2026 Crash on NB Eastern Ave\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3798912/attachment_0.png",
-    "Latitude": 36.167915800000003,
-    "Longitude": -115.11588380000001
-  },
-  {
     "UniqueId": 58327,
     "Timestamp": "2026-09-29 15:26",
     "IncidentType": "Crash",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800887/attachment_0.png",
     "Latitude": 36.153772099999998,
     "Longitude": -115.1585238
+  },
+  {
+    "UniqueId": 58414,
+    "Timestamp": "2026-09-30 15:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Hassett Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:07 PM, Sep 30 2026 Crash on SB Eastern Ave\u00A0at Hassett Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800906/attachment_0.png",
+    "Latitude": 36.150380300000002,
+    "Longitude": -115.1189231
+  },
+  {
+    "UniqueId": 58415,
+    "Timestamp": "2026-09-30 15:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:10 PM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800920/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
