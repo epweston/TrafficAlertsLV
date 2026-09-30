@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58239,
-    "Timestamp": "2026-09-28 18:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Ann Rd",
-    "Impact": "",
-    "Notes": "6:31 PM, Sep 28 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0before Ann Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797080/attachment_0.png",
-    "Latitude": 36.261508127735802,
-    "Longitude": -115.32678022210708
-  },
-  {
-    "UniqueId": 58240,
-    "Timestamp": "2026-09-28 18:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "",
-    "Notes": "6:36 PM, Sep 28 2026 Stalled vehicle on NB I-15\u00A0after Silverado Ranch Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797068/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 58241,
-    "Timestamp": "2026-09-28 18:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "",
-    "Notes": "6:39 PM, Sep 28 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797083/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 58242,
     "Timestamp": "2026-09-28 18:46",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799038/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 58343,
+    "Timestamp": "2026-09-29 18:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Red Hills Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:43 PM, Sep 29 2026 Crash on SB Fort Apache Rd\u00A0at Red Hills Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799061/attachment_0.png",
+    "Latitude": 36.151011799999999,
+    "Longitude": -115.295265
   }
 ]
