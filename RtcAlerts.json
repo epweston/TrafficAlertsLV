@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58250,
-    "Timestamp": "2026-09-28 21:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "HOV lane blocked.",
-    "Notes": "9:13 PM, Sep 28 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. HOV lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797102/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 58251,
-    "Timestamp": "2026-09-28 21:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:14 PM, Sep 28 2026 Crash on SB Paradise Rd\u00A0before Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797104/attachment_0.png",
-    "Latitude": 36.101024170590854,
-    "Longitude": -115.14982939081087
-  },
-  {
-    "UniqueId": 58252,
-    "Timestamp": "2026-09-28 21:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:20 PM, Sep 28 2026 Stalled vehicle on SB I-15\u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797106/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 58253,
-    "Timestamp": "2026-09-28 21:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:23 PM, Sep 28 2026 Crash on NB I-15\u00A0before Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/28/file_attachments/3797108/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 58254,
     "Timestamp": "2026-09-28 21:43",
     "IncidentType": "Flooding on the road",
@@ -1398,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799070/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58354,
+    "Timestamp": "2026-09-29 21:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:27 PM, Sep 29 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799094/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
