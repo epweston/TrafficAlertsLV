@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58421,
-    "Timestamp": "2026-09-30 16:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:11 PM, Sep 30 2026 Crash on SB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800996/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 58422,
     "Timestamp": "2026-09-30 16:21",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802628/attachment_0.png",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 58505,
+    "Timestamp": "2026-10-01 16:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:09 PM, Oct 01 2026 Stalled vehicle on WB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802691/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
