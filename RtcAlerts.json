@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58400,
-    "Timestamp": "2026-09-30 11:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mountain Vista St Right-Turn Lane",
-    "Impact": "",
-    "Notes": "11:48 AM, Sep 30 2026 Stalled vehicle on EB Flamingo Rd\u00A0at Mountain Vista St. Right-turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800275/attachment_0.jpg",
-    "Latitude": 36.114978399999998,
-    "Longitude": -115.0737826
-  },
-  {
-    "UniqueId": 58401,
-    "Timestamp": "2026-09-30 11:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:52 AM, Sep 30 2026 Crash on SB I-11\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800390/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 58402,
-    "Timestamp": "2026-09-30 11:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "11:53 AM, Sep 30 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Stephanie St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800302/attachment_0.jpg",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 58403,
-    "Timestamp": "2026-09-30 11:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:57 AM, Sep 30 2026 Crash on SB Eastern Ave\u00A0after Warm Springs Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800453/attachment_0.jpg",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 58404,
     "Timestamp": "2026-09-30 12:14",
     "IncidentType": "Stalled vehicle",
@@ -1132,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802203/attachment_0.png",
     "Latitude": 36.02763991790971,
     "Longitude": -115.1184797391856
+  },
+  {
+    "UniqueId": 58483,
+    "Timestamp": "2026-10-01 12:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:05 PM, Oct 01 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802260/attachment_0.jpg",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
