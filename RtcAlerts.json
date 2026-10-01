@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58399,
-    "Timestamp": "2026-09-30 11:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:39 AM, Sep 30 2026 Stalled vehicle on SB I-11\u00A0before I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800242/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 58400,
     "Timestamp": "2026-09-30 11:48",
     "IncidentType": "Stalled vehicle",
@@ -1132,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802108/attachment_0.jpg",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 58482,
+    "Timestamp": "2026-10-01 11:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "11:37 AM, Oct 01 2026 Crash on NB Eastern Ave\u00A0at Pebble Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802203/attachment_0.png",
+    "Latitude": 36.02763991790971,
+    "Longitude": -115.1184797391856
   }
 ]
