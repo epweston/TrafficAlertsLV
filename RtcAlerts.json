@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58335,
-    "Timestamp": "2026-09-29 17:15",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Spencer St",
-    "Impact": "",
-    "Notes": "5:15 PM, Sep 29 2026 Crash on WB Tropicana Ave\u00A0at Spencer St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799027/attachment_0.png",
-    "Latitude": 36.101021600000003,
-    "Longitude": -115.1279854
-  },
-  {
     "UniqueId": 58336,
     "Timestamp": "2026-09-29 17:25",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801043/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 58434,
+    "Timestamp": "2026-09-30 17:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Center median blocked.",
+    "Notes": "5:12 PM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0at Charleston Blvd. Center median blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801025/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 58435,
+    "Timestamp": "2026-09-30 17:15",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "Lanes blocked.",
+    "Notes": "5:15 PM, Sep 30 2026 Crash on SB Martin L King Blvd\u00A0after Alexander Rd. Lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801046/attachment_0.png",
+    "Latitude": 36.2320347,
+    "Longitude": -115.1619213
   }
 ]
