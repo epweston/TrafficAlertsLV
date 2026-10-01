@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58364,
-    "Timestamp": "2026-09-30 04:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:11 AM, Sep 30 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799186/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 58365,
     "Timestamp": "2026-09-30 05:36",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801188/attachment_0.jpg",
     "Latitude": 36.239485899999998,
     "Longitude": -115.1390476
+  },
+  {
+    "UniqueId": 58458,
+    "Timestamp": "2026-10-01 04:08",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:08 AM, Oct 01 2026 Crash on WB Blue Diamond Rd\u00A0at Torrey Pines Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801216/attachment_0.png",
+    "Latitude": 36.023982587519889,
+    "Longitude": -115.23457645845593
   }
 ]
