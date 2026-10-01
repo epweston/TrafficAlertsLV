@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58360,
-    "Timestamp": "2026-09-30 00:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:43 AM, Sep 30 2026 Stalled vehicle on NB I-11\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799092/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 58362,
     "Timestamp": "2026-09-30 02:41",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801121/attachment_0.jpg",
     "Latitude": 36.112973083499654,
     "Longitude": -115.0646209842639
+  },
+  {
+    "UniqueId": 58454,
+    "Timestamp": "2026-10-01 01:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:14 AM, Oct 01 2026 Crash on SB Buffalo Dr\u00A0at Buffalo Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801133/attachment_0.png",
+    "Latitude": 36.281804899999997,
+    "Longitude": -115.2613104
   }
 ]
