@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58344,
-    "Timestamp": "2026-09-29 18:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:58 PM, Sep 29 2026 Stalled vehicle on NB I-15\u00A0before Flamingo Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799042/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 58345,
-    "Timestamp": "2026-09-29 19:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:01 PM, Sep 29 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799062/attachment_0.png",
-    "Latitude": 36.274993366998793,
-    "Longitude": -115.20657961738746
-  },
-  {
-    "UniqueId": 58346,
-    "Timestamp": "2026-09-29 19:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:07 PM, Sep 29 2026 Stalled vehicle on NB I-15\u00A0before 215 Northern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799064/attachment_0.png",
-    "Latitude": 36.174083889581247,
-    "Longitude": -115.15534412685216
-  },
-  {
-    "UniqueId": 58347,
-    "Timestamp": "2026-09-29 19:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "7:16 PM, Sep 29 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799065/attachment_0.jpg",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 58348,
     "Timestamp": "2026-09-29 19:41",
     "IncidentType": "Crash",
@@ -1300,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801080/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 58441,
+    "Timestamp": "2026-09-30 19:24",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Arroyo Crossing Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:24 PM, Sep 30 2026 Police activity on SB Rainbow Blvd\u00A0at Arroyo Crossing Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801086/attachment_0.jpg",
+    "Latitude": 36.063226100000001,
+    "Longitude": -115.2425344
   }
 ]
