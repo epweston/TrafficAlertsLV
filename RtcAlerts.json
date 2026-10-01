@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58384,
-    "Timestamp": "2026-09-30 08:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:32 AM, Sep 30 2026 Crash on WB Blue Diamond Rd\u00A0before Jones Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799656/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
-    "UniqueId": 58385,
-    "Timestamp": "2026-09-30 08:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:32 AM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799654/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 58386,
     "Timestamp": "2026-09-30 08:44",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801734/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 58473,
+    "Timestamp": "2026-10-01 08:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:30 AM, Oct 01 2026 Crash on EB Craig Rd\u00A0before I-15. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801762/attachment_0.png",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
   }
 ]
