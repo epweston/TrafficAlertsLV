@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58416,
-    "Timestamp": "2026-09-30 15:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:34 PM, Sep 30 2026 Crash on NB I-15\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800936/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 58417,
     "Timestamp": "2026-09-30 15:54",
     "IncidentType": "Crash",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802650/attachment_0.png",
     "Latitude": 35.963010799999999,
     "Longitude": -115.17930800000001
+  },
+  {
+    "UniqueId": 58502,
+    "Timestamp": "2026-10-01 15:44",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:44 PM, Oct 01 2026 Crash on WB Ann Rd\u00A0at Jones Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802673/attachment_0.png",
+    "Latitude": 36.260987399999998,
+    "Longitude": -115.22539430000001
   }
 ]
