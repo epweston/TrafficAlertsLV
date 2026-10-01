@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58406,
-    "Timestamp": "2026-09-30 13:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "",
-    "Notes": "1:03 PM, Sep 30 2026 Stalled vehicle on SB I-11\u00A0at Russell Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800705/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 58407,
     "Timestamp": "2026-09-30 13:10",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802367/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 58490,
+    "Timestamp": "2026-10-01 13:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:03 PM, Oct 01 2026 Crash on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802415/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
