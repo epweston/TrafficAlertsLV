@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58339,
-    "Timestamp": "2026-09-29 17:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Spencer St",
-    "Impact": "",
-    "Notes": "5:47 PM, Sep 29 2026 Crash on EB Warm Springs Rd\u00A0before Spencer St. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799055/attachment_0.png",
-    "Latitude": 36.057628800000003,
-    "Longitude": -115.1276196
-  },
-  {
-    "UniqueId": 58340,
-    "Timestamp": "2026-09-29 17:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:50 PM, Sep 29 2026 Crash on NB I-11\u00A0at Lake Mead Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799057/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 58341,
-    "Timestamp": "2026-09-29 17:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:52 PM, Sep 29 2026 Crash on NB I-11\u00A0before Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799058/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 58342,
     "Timestamp": "2026-09-29 18:21",
     "IncidentType": "Vehicle on fire",
@@ -1342,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801069/attachment_0.png",
     "Latitude": 36.125536599999997,
     "Longitude": -115.16914730000001
+  },
+  {
+    "UniqueId": 58437,
+    "Timestamp": "2026-09-30 18:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:00 PM, Sep 30 2026 Crash on SB I-15 Collector Distributor\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801052/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
