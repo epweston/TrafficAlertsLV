@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58332,
-    "Timestamp": "2026-09-29 17:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "5:08 PM, Sep 29 2026 Crash on WB Charleston Blvd\u00A0after Arville St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799021/attachment_0.png",
-    "Latitude": 36.159109600000001,
-    "Longitude": -115.1997406
-  },
-  {
     "UniqueId": 58333,
     "Timestamp": "2026-09-29 17:09",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1314,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801034/attachment_0.png",
     "Latitude": 36.176691302008486,
     "Longitude": -115.24369620296332
+  },
+  {
+    "UniqueId": 58429,
+    "Timestamp": "2026-09-30 17:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:02 PM, Sep 30 2026 Crash on WB Saint Rose Pkwy\u00A0after Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801019/attachment_0.png",
+    "Latitude": 36.007212170000003,
+    "Longitude": -115.11431157
+  },
+  {
+    "UniqueId": 58430,
+    "Timestamp": "2026-09-30 17:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:02 PM, Sep 30 2026 Crash on SB I-15\u00A0after Lake Mead Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801038/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58431,
+    "Timestamp": "2026-09-30 17:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:04 PM, Sep 30 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801020/attachment_0.png",
+    "Latitude": 36.070274645187922,
+    "Longitude": -115.28855877956086
   }
 ]
