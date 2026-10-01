@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58409,
-    "Timestamp": "2026-09-30 14:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "over",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:13 PM, Sep 30 2026 Crash on WB Sahara Ave\u00A0over 215 Western Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800857/attachment_0.png",
-    "Latitude": 36.144633843380831,
-    "Longitude": -115.336660986448
-  },
-  {
-    "UniqueId": 58410,
-    "Timestamp": "2026-09-30 14:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:41 PM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800891/attachment_0.jpg",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 58411,
-    "Timestamp": "2026-09-30 14:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:43 PM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0after Las Vegas Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800894/attachment_0.png",
-    "Latitude": 36.173668758672179,
-    "Longitude": -115.13793117559058
-  },
-  {
-    "UniqueId": 58412,
-    "Timestamp": "2026-09-30 14:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "2:46 PM, Sep 30 2026 Crash on WB 215 Southern Beltway\u00A0before . Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800896/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58413,
     "Timestamp": "2026-09-30 14:56",
     "IncidentType": "Crash",
@@ -1160,5 +1104,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802534/attachment_0.jpg",
     "Latitude": 36.009616180087541,
     "Longitude": -115.11710109004405
+  },
+  {
+    "UniqueId": 58494,
+    "Timestamp": "2026-10-01 14:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Us-93",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:48 PM, Oct 01 2026 Stalled vehicle on SB I-15\u00A0after US-93. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802568/attachment_0.jpg",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 58495,
+    "Timestamp": "2026-10-01 14:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "before",
+    "CrossStreet": "Maule Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:49 PM, Oct 01 2026 Crash on NB Ft Apache Rd\u00A0before Maule Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802600/attachment_0.png",
+    "Latitude": 36.062921299999999,
+    "Longitude": -115.29773729999999
   }
 ]
