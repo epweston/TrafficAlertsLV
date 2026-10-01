@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58333,
-    "Timestamp": "2026-09-29 17:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:09 PM, Sep 29 2026 Stalled vehicle on SB I-11\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799023/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 58334,
-    "Timestamp": "2026-09-29 17:10",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Mount Hood St",
-    "Impact": "",
-    "Notes": "5:10 PM, Sep 29 2026 Crash on WB Lake Mead Blvd\u00A0after Mount Hood St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799000/attachment_0.png",
-    "Latitude": 36.195920399999999,
-    "Longitude": -115.0353909
-  },
-  {
     "UniqueId": 58335,
     "Timestamp": "2026-09-29 17:15",
     "IncidentType": "Crash",
@@ -1356,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801020/attachment_0.png",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 58432,
+    "Timestamp": "2026-09-30 17:10",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:10 PM, Sep 30 2026 Crash on SB Rainbow Blvd\u00A0before Charleston Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801024/attachment_0.jpg",
+    "Latitude": 36.159173199999998,
+    "Longitude": -115.24359750000001
+  },
+  {
+    "UniqueId": 58433,
+    "Timestamp": "2026-09-30 17:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Us-93",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:10 PM, Sep 30 2026 Stalled vehicle on NB I-15\u00A0at US-93. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801043/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
