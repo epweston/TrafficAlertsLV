@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58413,
-    "Timestamp": "2026-09-30 14:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Industrial Rd",
-    "Relationship": "at",
-    "CrossStreet": "Utah Ave",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "2:56 PM, Sep 30 2026 Crash on NB Industrial Rd\u00A0at Utah Ave. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800887/attachment_0.png",
-    "Latitude": 36.153772099999998,
-    "Longitude": -115.1585238
-  },
-  {
-    "UniqueId": 58414,
-    "Timestamp": "2026-09-30 15:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Hassett Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:07 PM, Sep 30 2026 Crash on SB Eastern Ave\u00A0at Hassett Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800906/attachment_0.png",
-    "Latitude": 36.150380300000002,
-    "Longitude": -115.1189231
-  },
-  {
-    "UniqueId": 58415,
-    "Timestamp": "2026-09-30 15:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:10 PM, Sep 30 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3800920/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 58416,
     "Timestamp": "2026-09-30 15:34",
     "IncidentType": "Crash",
@@ -1132,5 +1090,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802600/attachment_0.png",
     "Latitude": 36.062921299999999,
     "Longitude": -115.29773729999999
+  },
+  {
+    "UniqueId": 58496,
+    "Timestamp": "2026-10-01 15:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Robindale Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:07 PM, Oct 01 2026 Crash on SB Rainbow Blvd\u00A0at Robindale Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802632/attachment_0.png",
+    "Latitude": 36.04851352,
+    "Longitude": -115.24323998
+  },
+  {
+    "UniqueId": 58497,
+    "Timestamp": "2026-10-01 15:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left and right shoulders blocked.",
+    "Notes": "3:10 PM, Oct 01 2026 Crash on NB I-11\u00A0before Lake Mead Blvd. Left and right shoulders blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802638/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
