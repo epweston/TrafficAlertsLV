@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58354,
-    "Timestamp": "2026-09-29 21:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:27 PM, Sep 29 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799094/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 58355,
     "Timestamp": "2026-09-29 21:49",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801094/attachment_0.jpg",
     "Latitude": 36.129981600000001,
     "Longitude": -115.20814
+  },
+  {
+    "UniqueId": 58447,
+    "Timestamp": "2026-09-30 21:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:40 PM, Sep 30 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801109/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 58448,
+    "Timestamp": "2026-09-30 21:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "",
+    "Notes": "9:41 PM, Sep 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801111/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
