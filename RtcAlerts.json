@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58348,
-    "Timestamp": "2026-09-29 19:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:41 PM, Sep 29 2026 Crash on EB Russell Rd\u00A0after I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799046/attachment_0.png",
-    "Latitude": 36.085986896880186,
-    "Longitude": -115.18073380622651
-  },
-  {
-    "UniqueId": 58349,
-    "Timestamp": "2026-09-29 19:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:49 PM, Sep 29 2026 Crash on NB Las Vegas Blvd\u00A0before Tropicana Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799048/attachment_0.png",
-    "Latitude": 36.100850795749203,
-    "Longitude": -115.17295000315606
-  },
-  {
-    "UniqueId": 58350,
-    "Timestamp": "2026-09-29 19:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:51 PM, Sep 29 2026 Crash on WB Craig Rd\u00A0at Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799049/attachment_0.png",
-    "Latitude": 36.2397007,
-    "Longitude": -115.23257750000001
-  },
-  {
-    "UniqueId": 58351,
-    "Timestamp": "2026-09-29 20:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:03 PM, Sep 29 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/29/file_attachments/3799068/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 58352,
     "Timestamp": "2026-09-29 20:33",
     "IncidentType": "Crash",
@@ -1258,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801086/attachment_0.jpg",
     "Latitude": 36.063226100000001,
     "Longitude": -115.2425344
+  },
+  {
+    "UniqueId": 58442,
+    "Timestamp": "2026-09-30 19:58",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:58 PM, Sep 30 2026 Crash on WB Washington Ave\u00A0at Martin L King Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801063/attachment_0.png",
+    "Latitude": 36.180812699999997,
+    "Longitude": -115.1607751
   }
 ]
