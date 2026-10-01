@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58365,
-    "Timestamp": "2026-09-30 05:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave Wb",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:36 AM, Sep 30 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave WB off ramp. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799263/attachment_0.jpg",
-    "Latitude": 36.2175893,
-    "Longitude": -115.1387424
-  },
-  {
-    "UniqueId": 58366,
-    "Timestamp": "2026-09-30 05:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "5:41 AM, Sep 30 2026 Crash on NB I-11\u00A0at Las Vegas Blvd . Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3799240/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 58367,
     "Timestamp": "2026-09-30 05:58",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801319/attachment_0.jpg",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 58461,
+    "Timestamp": "2026-10-01 05:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:35 AM, Oct 01 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801335/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 58462,
+    "Timestamp": "2026-10-01 05:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:37 AM, Oct 01 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801338/attachment_0.jpg",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
