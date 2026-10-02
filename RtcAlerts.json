@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58472,
-    "Timestamp": "2026-10-01 08:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:25 AM, Oct 01 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801734/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 58473,
-    "Timestamp": "2026-10-01 08:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:30 AM, Oct 01 2026 Crash on EB Craig Rd\u00A0before I-15. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801762/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
-    "UniqueId": 58474,
-    "Timestamp": "2026-10-01 08:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Swenson St",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:33 AM, Oct 01 2026 Crash on NB Swenson St\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801744/attachment_0.jpg",
-    "Latitude": 36.1006675,
-    "Longitude": -115.17802159999999
-  },
-  {
-    "UniqueId": 58475,
-    "Timestamp": "2026-10-01 08:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "8:36 AM, Oct 01 2026 Crash on WB Bonanza Rd\u00A0at Lamb Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801768/attachment_0.jpg",
-    "Latitude": 36.173543799999997,
-    "Longitude": -115.08043429999999
-  },
-  {
     "UniqueId": 58476,
     "Timestamp": "2026-10-01 08:56",
     "IncidentType": "Stalled vehicle",
@@ -1132,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803234/attachment_0.png",
     "Latitude": 36.188139700000001,
     "Longitude": -115.0983279
+  },
+  {
+    "UniqueId": 58553,
+    "Timestamp": "2026-10-02 08:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:37 AM, Oct 02 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803246/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
   }
 ]
