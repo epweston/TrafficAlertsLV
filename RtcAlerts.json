@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58479,
-    "Timestamp": "2026-10-01 09:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:43 AM, Oct 01 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0after Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801909/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 58480,
-    "Timestamp": "2026-10-01 09:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:45 AM, Oct 01 2026 Stalled vehicle on SB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801905/attachment_0.jpg",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 58481,
     "Timestamp": "2026-10-01 11:11",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803345/attachment_0.png",
     "Latitude": 36.071189599999997,
     "Longitude": -115.17228350000001
+  },
+  {
+    "UniqueId": 58562,
+    "Timestamp": "2026-10-02 10:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Railroad Pass Casino Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:03 AM, Oct 02 2026 Stalled vehicle on SB I-11\u00A0at Railroad Pass Casino Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803424/attachment_0.png",
+    "Latitude": 35.968342972997235,
+    "Longitude": -114.91009383325343
+  },
+  {
+    "UniqueId": 58563,
+    "Timestamp": "2026-10-02 10:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "to",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:03 AM, Oct 02 2026 Crash on NB Airport Connector\u00A0to Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803423/attachment_0.jpg",
+    "Latitude": 36.071546221107518,
+    "Longitude": -115.14626596347613
   }
 ]
