@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58494,
-    "Timestamp": "2026-10-01 14:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Us-93",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:48 PM, Oct 01 2026 Stalled vehicle on SB I-15\u00A0after US-93. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802568/attachment_0.jpg",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 58495,
-    "Timestamp": "2026-10-01 14:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Maule Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:49 PM, Oct 01 2026 Crash on NB Ft Apache Rd\u00A0before Maule Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802600/attachment_0.png",
-    "Latitude": 36.062921299999999,
-    "Longitude": -115.29773729999999
-  },
-  {
     "UniqueId": 58496,
     "Timestamp": "2026-10-01 15:07",
     "IncidentType": "Crash",
@@ -1244,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803890/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58583,
+    "Timestamp": "2026-10-02 14:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Eastgate Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:50 PM, Oct 02 2026 Stalled vehicle on EB Lake Mead Pkwy\u00A0at Eastgate Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803902/attachment_0.png",
+    "Latitude": 36.034325041044013,
+    "Longitude": -115.0078868949862
+  },
+  {
+    "UniqueId": 58584,
+    "Timestamp": "2026-10-02 14:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:52 PM, Oct 02 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803904/attachment_0.jpg",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
