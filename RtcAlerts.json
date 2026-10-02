@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58457,
-    "Timestamp": "2026-10-01 03:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Craig",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:54 AM, Oct 01 2026 Stalled vehicle on SB I-11\u00A0after Craig. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801188/attachment_0.jpg",
-    "Latitude": 36.239485899999998,
-    "Longitude": -115.1390476
-  },
-  {
-    "UniqueId": 58458,
-    "Timestamp": "2026-10-01 04:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:08 AM, Oct 01 2026 Crash on WB Blue Diamond Rd\u00A0at Torrey Pines Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801216/attachment_0.png",
-    "Latitude": 36.023982587519889,
-    "Longitude": -115.23457645845593
-  },
-  {
-    "UniqueId": 58459,
-    "Timestamp": "2026-10-01 04:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:27 AM, Oct 01 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801237/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 58460,
     "Timestamp": "2026-10-01 05:30",
     "IncidentType": "Stalled vehicle",
@@ -1090,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3802817/attachment_0.png",
     "Latitude": 36.1665402,
     "Longitude": -115.2061514
+  },
+  {
+    "UniqueId": 58535,
+    "Timestamp": "2026-10-02 04:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:40 AM, Oct 02 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3802844/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
