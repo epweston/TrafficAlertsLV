@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58481,
-    "Timestamp": "2026-10-01 11:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:11 AM, Oct 01 2026 Stalled vehicle on SB I-15\u00A0after Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802108/attachment_0.jpg",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
     "UniqueId": 58482,
     "Timestamp": "2026-10-01 11:37",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803570/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58567,
+    "Timestamp": "2026-10-02 11:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "under",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:20 AM, Oct 02 2026 Crash on SB St Rose Pkwy\u00A0under 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803563/attachment_0.png",
+    "Latitude": 35.961751371359661,
+    "Longitude": -115.18186569213869
   }
 ]
