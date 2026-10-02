@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58506,
-    "Timestamp": "2026-10-01 16:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Anasazi Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:17 PM, Oct 01 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before Anasazi Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802710/attachment_0.png",
-    "Latitude": 36.193165999999998,
-    "Longitude": -115.32371600000001
-  },
-  {
     "UniqueId": 58507,
     "Timestamp": "2026-10-01 16:19",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803983/attachment_0.jpg",
     "Latitude": 35.999231399999999,
     "Longitude": -115.15506480000001
+  },
+  {
+    "UniqueId": 58605,
+    "Timestamp": "2026-10-02 16:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "4:11 PM, Oct 02 2026 Crash on NB I-15\u00A0at Sahara Ave. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803996/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
