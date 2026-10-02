@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58503,
-    "Timestamp": "2026-10-01 15:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:58 PM, Oct 01 2026 Crash on SB Summerlin Pkwy\u00A0at Rainbow Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802678/attachment_0.png",
-    "Latitude": 36.176409839999998,
-    "Longitude": -115.24399628000001
-  },
-  {
-    "UniqueId": 58504,
-    "Timestamp": "2026-10-01 16:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:02 PM, Oct 01 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802628/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 58505,
     "Timestamp": "2026-10-01 16:09",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803979/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 58601,
+    "Timestamp": "2026-10-02 16:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:02 PM, Oct 02 2026 Crash on NB I-15\u00A0at Flamingo Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803992/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 58602,
+    "Timestamp": "2026-10-02 16:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "4:04 PM, Oct 02 2026 Crash on NB University Center Dr\u00A0at Tropicana Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803993/attachment_0.png",
+    "Latitude": 36.101074300000001,
+    "Longitude": -115.1459157
   }
 ]
