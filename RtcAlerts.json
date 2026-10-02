@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58498,
-    "Timestamp": "2026-10-01 15:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:13 PM, Oct 01 2026 Crash on SB I-11\u00A0after Wagon Wheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802640/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
-    "UniqueId": 58499,
-    "Timestamp": "2026-10-01 15:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "3:13 PM, Oct 01 2026 Crash on NB I-11\u00A0at Lake Mead Blvd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802641/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 58500,
-    "Timestamp": "2026-10-01 15:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 3",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:15 PM, Oct 01 2026 Stalled vehicle on NB I-11\u00A0at Mile 3. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802646/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58501,
     "Timestamp": "2026-10-01 15:18",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803938/attachment_0.jpg",
     "Latitude": 36.108132148641936,
     "Longitude": -115.20802793789625
+  },
+  {
+    "UniqueId": 58588,
+    "Timestamp": "2026-10-02 15:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "after",
+    "CrossStreet": "Missouri Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:11 PM, Oct 02 2026 Crash on EB Boulder Hwy\u00A0after Missouri Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803926/attachment_0.png",
+    "Latitude": 36.096667600000004,
+    "Longitude": -115.04597990000001
   }
 ]
