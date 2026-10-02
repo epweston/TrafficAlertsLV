@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58493,
-    "Timestamp": "2026-10-01 14:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Ione Rd",
-    "Impact": "All SB lanes are blocked.",
-    "Notes": "2:05 PM, Oct 01 2026 Crash on SB Eastern Ave\u00A0at Ione Rd. All SB lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802534/attachment_0.jpg",
-    "Latitude": 36.009616180087541,
-    "Longitude": -115.11710109004405
-  },
-  {
     "UniqueId": 58494,
     "Timestamp": "2026-10-01 14:48",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803836/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 58578,
+    "Timestamp": "2026-10-02 14:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Windmill Ln",
+    "Relationship": "at",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:04 PM, Oct 02 2026 Crash on WB Windmill Ln\u00A0at Maryland Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803839/attachment_0.png",
+    "Latitude": 36.0426316,
+    "Longitude": -115.1362153
+  },
+  {
+    "UniqueId": 58579,
+    "Timestamp": "2026-10-02 14:07",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:07 PM, Oct 02 2026 Crash on WB Tropicana Ave\u00A0at Paradise Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803841/attachment_0.png",
+    "Latitude": 36.101028027323217,
+    "Longitude": -115.14987222272508
   }
 ]
