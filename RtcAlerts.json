@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58439,
-    "Timestamp": "2026-09-30 18:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:42 PM, Sep 30 2026 Stalled vehicle on SB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801080/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 58441,
     "Timestamp": "2026-09-30 19:24",
     "IncidentType": "Police activity",
@@ -1090,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802738/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 58518,
+    "Timestamp": "2026-10-01 18:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Town Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Park Run Dr",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "6:38 PM, Oct 01 2026 Crash on SB Town Center Dr\u00A0at Park Run Dr. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802756/attachment_0.png",
+    "Latitude": 36.160792299999997,
+    "Longitude": -115.3230109
   }
 ]
