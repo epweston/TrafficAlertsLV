@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58501,
-    "Timestamp": "2026-10-01 15:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Parkway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:18 PM, Oct 01 2026 Stalled vehicle on NB I-15\u00A0at St. Rose Parkway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802650/attachment_0.png",
-    "Latitude": 35.963010799999999,
-    "Longitude": -115.17930800000001
-  },
-  {
     "UniqueId": 58502,
     "Timestamp": "2026-10-01 15:44",
     "IncidentType": "Crash",
@@ -1230,5 +1216,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803926/attachment_0.png",
     "Latitude": 36.096667600000004,
     "Longitude": -115.04597990000001
+  },
+  {
+    "UniqueId": 58589,
+    "Timestamp": "2026-10-02 15:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pavilion Center Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "3:21 PM, Oct 02 2026 Crash on WB Charleston Blvd\u00A0at Pavilion Center Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803927/attachment_0.jpg",
+    "Latitude": 36.159071500000003,
+    "Longitude": -115.3307282
+  },
+  {
+    "UniqueId": 58590,
+    "Timestamp": "2026-10-02 15:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:23 PM, Oct 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803944/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 58591,
+    "Timestamp": "2026-10-02 15:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Camino Al Norte",
+    "Relationship": "at",
+    "CrossStreet": "Washburn Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "3:23 PM, Oct 02 2026 Crash on SB Camino Al Norte\u00A0at Washburn Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803946/attachment_0.jpg",
+    "Latitude": 36.254366900000001,
+    "Longitude": -115.1530484
   }
 ]
