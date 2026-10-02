@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58436,
-    "Timestamp": "2026-09-30 17:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sands Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:39 PM, Sep 30 2026 Crash on WB Sands Ave\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801069/attachment_0.png",
-    "Latitude": 36.125536599999997,
-    "Longitude": -115.16914730000001
-  },
-  {
     "UniqueId": 58437,
     "Timestamp": "2026-09-30 18:00",
     "IncidentType": "Crash",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802726/attachment_0.png",
     "Latitude": 36.254498550000001,
     "Longitude": -115.2458097
+  },
+  {
+    "UniqueId": 58512,
+    "Timestamp": "2026-10-01 17:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:39 PM, Oct 01 2026 Crash on NB Rainbow Blvd\u00A0at Lake Mead Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802732/attachment_0.png",
+    "Latitude": 36.195871494894334,
+    "Longitude": -115.24199008941652
   }
 ]
