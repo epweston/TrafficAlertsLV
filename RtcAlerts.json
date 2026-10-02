@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58477,
-    "Timestamp": "2026-10-01 09:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Westcliff Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:22 AM, Oct 01 2026 Crash on SB Buffalo Dr\u00A0at Westcliff Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801849/attachment_0.png",
-    "Latitude": 36.174088699999999,
-    "Longitude": -115.25966940000001
-  },
-  {
     "UniqueId": 58478,
     "Timestamp": "2026-10-01 09:36",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803325/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 58560,
+    "Timestamp": "2026-10-02 09:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "El Capitan Way",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:17 AM, Oct 02 2026 Crash on NB El Capitan Way\u00A0before Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803328/attachment_0.png",
+    "Latitude": 36.020405099999998,
+    "Longitude": -115.288556
   }
 ]
