@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58447,
-    "Timestamp": "2026-09-30 21:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:40 PM, Sep 30 2026 Stalled vehicle on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801109/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 58448,
-    "Timestamp": "2026-09-30 21:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "",
-    "Notes": "9:41 PM, Sep 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801111/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 58449,
-    "Timestamp": "2026-09-30 21:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:53 PM, Sep 30 2026 Stalled vehicle on SB Airport Connector\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801097/attachment_0.png",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
-    "UniqueId": 58450,
-    "Timestamp": "2026-09-30 22:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:01 PM, Sep 30 2026 Crash on WB Lake Mead Blvd\u00A0at Rainbow Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801113/attachment_0.png",
-    "Latitude": 36.196001385231483,
-    "Longitude": -115.24201153240706
-  },
-  {
     "UniqueId": 58451,
     "Timestamp": "2026-09-30 22:39",
     "IncidentType": "Crash",
@@ -1146,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802774/attachment_0.png",
     "Latitude": 36.265237800000001,
     "Longitude": -115.2602576
+  },
+  {
+    "UniqueId": 58529,
+    "Timestamp": "2026-10-01 22:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rochelle Ave",
+    "Impact": "All NB lanes are blocked.",
+    "Notes": "10:00 PM, Oct 01 2026 Crash on NB Jones Blvd\u00A0at Rochelle Ave. All NB lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802789/attachment_0.png",
+    "Latitude": 36.110813999999998,
+    "Longitude": -115.2249308
   }
 ]
