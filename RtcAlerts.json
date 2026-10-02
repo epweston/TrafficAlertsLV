@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58483,
-    "Timestamp": "2026-10-01 12:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:05 PM, Oct 01 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802260/attachment_0.jpg",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 58484,
-    "Timestamp": "2026-10-01 12:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Range Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:22 PM, Oct 01 2026 Stalled vehicle on NB I-15\u00A0at Range Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802299/attachment_0.jpg",
-    "Latitude": 36.269471439999997,
-    "Longitude": -115.06105909999999
-  },
-  {
     "UniqueId": 58485,
     "Timestamp": "2026-10-01 12:26",
     "IncidentType": "Crash",
@@ -1216,5 +1188,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803648/attachment_0.png",
     "Latitude": 36.149007400000002,
     "Longitude": -115.1189171
+  },
+  {
+    "UniqueId": 58570,
+    "Timestamp": "2026-10-02 12:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "over",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:16 PM, Oct 02 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0over Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 58571,
+    "Timestamp": "2026-10-02 12:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "12:20 PM, Oct 02 2026 Crash on WB St Rose Pkwy\u00A0after Maryland Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803713/attachment_0.png",
+    "Latitude": 35.991393000000002,
+    "Longitude": -115.1365311
   }
 ]
