@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58443,
-    "Timestamp": "2026-09-30 20:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:31 PM, Sep 30 2026 Crash on NB I-15\u00A0at Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/09/30/file_attachments/3801089/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 58444,
-    "Timestamp": "2026-09-30 20:49",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 16",
-    "Impact": "All NB lanes are blocked.",
-    "Notes": "8:49 PM, Sep 30 2026 Vehicle on fire on NB I-15\u00A0after Mile 16. All NB lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58445,
     "Timestamp": "2026-09-30 21:03",
     "IncidentType": "Crash",
@@ -1146,5 +1118,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802770/attachment_0.png",
     "Latitude": 36.155120340540229,
     "Longitude": -115.16167235444229
+  },
+  {
+    "UniqueId": 58525,
+    "Timestamp": "2026-10-01 20:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:57 PM, Oct 01 2026 Crash on SB I-15 Collector Distributor\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802764/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 58526,
+    "Timestamp": "2026-10-01 20:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:59 PM, Oct 01 2026 Crash on WB Flamingo Rd\u00A0at I-11. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802765/attachment_0.png",
+    "Latitude": 36.114676128133588,
+    "Longitude": -115.17288565635683
   }
 ]
