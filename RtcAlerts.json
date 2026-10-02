@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58487,
-    "Timestamp": "2026-10-01 12:34",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:34 PM, Oct 01 2026 Abandoned vehicle on SB I-11\u00A0before Elkhorn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802351/attachment_0.jpg",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
     "UniqueId": 58488,
     "Timestamp": "2026-10-01 12:46",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803705/attachment_0.png",
     "Latitude": 36.061163299999997,
     "Longitude": -115.2607964
+  },
+  {
+    "UniqueId": 58573,
+    "Timestamp": "2026-10-02 12:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:40 PM, Oct 02 2026 Crash on SB Buffalo Dr\u00A0after Lake Mead Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803733/attachment_0.jpg",
+    "Latitude": 36.196118272847883,
+    "Longitude": -115.26036856461288
   }
 ]
