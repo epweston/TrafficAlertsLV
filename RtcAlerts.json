@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58478,
-    "Timestamp": "2026-10-01 09:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:36 AM, Oct 01 2026 Crash on NB Las Vegas Blvd\u00A0at Starr Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3801893/attachment_0.jpg",
-    "Latitude": 35.984751500000002,
-    "Longitude": -115.1727827
-  },
-  {
     "UniqueId": 58479,
     "Timestamp": "2026-10-01 09:43",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803328/attachment_0.png",
     "Latitude": 36.020405099999998,
     "Longitude": -115.288556
+  },
+  {
+    "UniqueId": 58561,
+    "Timestamp": "2026-10-02 09:35",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:35 AM, Oct 02 2026 Crash on WB Sunset Rd\u00A0before Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803345/attachment_0.png",
+    "Latitude": 36.071189599999997,
+    "Longitude": -115.17228350000001
   }
 ]
