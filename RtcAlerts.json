@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58482,
-    "Timestamp": "2026-10-01 11:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "11:37 AM, Oct 01 2026 Crash on NB Eastern Ave\u00A0at Pebble Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802203/attachment_0.png",
-    "Latitude": 36.02763991790971,
-    "Longitude": -115.1184797391856
-  },
-  {
     "UniqueId": 58483,
     "Timestamp": "2026-10-01 12:05",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803563/attachment_0.png",
     "Latitude": 35.961751371359661,
     "Longitude": -115.18186569213869
+  },
+  {
+    "UniqueId": 58568,
+    "Timestamp": "2026-10-02 11:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:50 AM, Oct 02 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803644/attachment_0.jpg",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
