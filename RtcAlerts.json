@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58496,
-    "Timestamp": "2026-10-01 15:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:07 PM, Oct 01 2026 Crash on SB Rainbow Blvd\u00A0at Robindale Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802632/attachment_0.png",
-    "Latitude": 36.04851352,
-    "Longitude": -115.24323998
-  },
-  {
-    "UniqueId": 58497,
-    "Timestamp": "2026-10-01 15:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left and right shoulders blocked.",
-    "Notes": "3:10 PM, Oct 01 2026 Crash on NB I-11\u00A0before Lake Mead Blvd. Left and right shoulders blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802638/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 58498,
     "Timestamp": "2026-10-01 15:13",
     "IncidentType": "Crash",
@@ -1258,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803918/attachment_0.png",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 58586,
+    "Timestamp": "2026-10-02 15:06",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Speedway Blvd",
+    "Relationship": "under",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:06 PM, Oct 02 2026 Crash on WB Speedway Blvd\u00A0under I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803936/attachment_0.png",
+    "Latitude": 36.277450399999999,
+    "Longitude": -115.0166152
+  },
+  {
+    "UniqueId": 58587,
+    "Timestamp": "2026-10-02 15:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "3:08 PM, Oct 02 2026 Crash on SB Decatur Blvd\u00A0at Harmon Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803938/attachment_0.jpg",
+    "Latitude": 36.108132148641936,
+    "Longitude": -115.20802793789625
   }
 ]
