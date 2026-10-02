@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58509,
-    "Timestamp": "2026-10-01 16:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:52 PM, Oct 01 2026 Stalled vehicle on NB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802724/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 58510,
     "Timestamp": "2026-10-01 16:59",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804033/attachment_0.png",
     "Latitude": 36.175244799226355,
     "Longitude": -115.16081567593977
+  },
+  {
+    "UniqueId": 58614,
+    "Timestamp": "2026-10-02 16:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:49 PM, Oct 02 2026 Stalled vehicle on NB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804035/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
