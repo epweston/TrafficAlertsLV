@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58485,
-    "Timestamp": "2026-10-01 12:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left-turn lane blocked.",
-    "Notes": "12:26 PM, Oct 01 2026 Crash on SB Tropicana Ave\u00A0before Paradise Rd. Left-turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802331/attachment_0.png",
-    "Latitude": 36.101028027323217,
-    "Longitude": -115.14987222272508
-  },
-  {
-    "UniqueId": 58486,
-    "Timestamp": "2026-10-01 12:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:28 PM, Oct 01 2026 Stalled vehicle on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802335/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 58487,
     "Timestamp": "2026-10-01 12:34",
     "IncidentType": "Abandoned vehicle",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803713/attachment_0.png",
     "Latitude": 35.991393000000002,
     "Longitude": -115.1365311
+  },
+  {
+    "UniqueId": 58572,
+    "Timestamp": "2026-10-02 12:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Badura Ave",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:29 PM, Oct 02 2026 Crash on WB Badura Ave\u00A0before Buffalo Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803705/attachment_0.png",
+    "Latitude": 36.061163299999997,
+    "Longitude": -115.2607964
   }
 ]
