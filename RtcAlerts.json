@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58508,
-    "Timestamp": "2026-10-01 16:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:44 PM, Oct 01 2026 Crash on SB I-11\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802722/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 58509,
     "Timestamp": "2026-10-01 16:52",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804030/attachment_0.png",
     "Latitude": 36.100781423246033,
     "Longitude": -115.17291721759118
+  },
+  {
+    "UniqueId": 58613,
+    "Timestamp": "2026-10-02 16:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:43 PM, Oct 02 2026 Crash on NB I-11\u00A0at Martin L King Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804033/attachment_0.png",
+    "Latitude": 36.175244799226355,
+    "Longitude": -115.16081567593977
   }
 ]
