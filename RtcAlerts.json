@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58517,
-    "Timestamp": "2026-10-01 18:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "6:24 PM, Oct 01 2026 Crash on SB I-11\u00A0at Rancho Dr. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802738/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 58518,
     "Timestamp": "2026-10-01 18:38",
     "IncidentType": "Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804070/attachment_0.png",
     "Latitude": 36.159152115630107,
     "Longitude": -115.2239227294922
+  },
+  {
+    "UniqueId": 58629,
+    "Timestamp": "2026-10-02 18:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:22 PM, Oct 02 2026 Stalled vehicle on NB I-15\u00A0at Jean. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804071/attachment_0.png",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 58630,
+    "Timestamp": "2026-10-02 18:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "6:24 PM, Oct 02 2026 Crash on WB Tropicana Ave\u00A0after Paradise Rd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804073/attachment_0.png",
+    "Latitude": 36.101028027323217,
+    "Longitude": -115.14987222272508
   }
 ]
