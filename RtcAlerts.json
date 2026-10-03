@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58552,
-    "Timestamp": "2026-10-02 08:21",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Owens Ave",
-    "Relationship": "before",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:21 AM, Oct 02 2026 Crash on WB Owens Ave\u00A0before Pecos Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803234/attachment_0.png",
-    "Latitude": 36.188139700000001,
-    "Longitude": -115.0983279
-  },
-  {
     "UniqueId": 58553,
     "Timestamp": "2026-10-02 08:37",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "",
     "Latitude": 36.154855519034463,
     "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 58667,
+    "Timestamp": "2026-10-03 08:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:23 AM, Oct 03 2026 Stalled vehicle on SB I-11\u00A0before Wagon Wheel Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804178/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
