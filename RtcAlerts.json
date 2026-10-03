@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58573,
-    "Timestamp": "2026-10-02 12:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:40 PM, Oct 02 2026 Crash on SB Buffalo Dr\u00A0after Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803733/attachment_0.jpg",
-    "Latitude": 36.196118272847883,
-    "Longitude": -115.26036856461288
-  },
-  {
     "UniqueId": 58574,
     "Timestamp": "2026-10-02 13:48",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804261/attachment_0.jpg",
     "Latitude": 36.177181599999997,
     "Longitude": -115.1756073
+  },
+  {
+    "UniqueId": 58692,
+    "Timestamp": "2026-10-03 12:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:46 PM, Oct 03 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804263/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
