@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58510,
-    "Timestamp": "2026-10-01 16:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "at",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "4:59 PM, Oct 01 2026 Crash on EB Starr Ave\u00A0at Bermuda Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802707/attachment_0.png",
-    "Latitude": 35.984861700000003,
-    "Longitude": -115.1546704
-  },
-  {
     "UniqueId": 58511,
     "Timestamp": "2026-10-01 17:16",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804037/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 58616,
+    "Timestamp": "2026-10-02 16:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:58 PM, Oct 02 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at Airport Connector. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804014/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
