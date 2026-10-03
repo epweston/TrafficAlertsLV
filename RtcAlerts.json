@@ -1594,5 +1594,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804263/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 58693,
+    "Timestamp": "2026-10-03 12:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "12:56 PM, Oct 03 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804277/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 58694,
+    "Timestamp": "2026-10-03 12:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:57 PM, Oct 03 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 58695,
+    "Timestamp": "2026-10-03 12:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "under",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:58 PM, Oct 03 2026 Crash on EB Charleston Blvd\u00A0under I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804278/attachment_0.png",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
   }
 ]
