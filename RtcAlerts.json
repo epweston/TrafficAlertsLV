@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58570,
-    "Timestamp": "2026-10-02 12:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "over",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:16 PM, Oct 02 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0over Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 58571,
-    "Timestamp": "2026-10-02 12:20",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "12:20 PM, Oct 02 2026 Crash on WB St Rose Pkwy\u00A0after Maryland Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803713/attachment_0.png",
-    "Latitude": 35.991393000000002,
-    "Longitude": -115.1365311
-  },
-  {
-    "UniqueId": 58572,
-    "Timestamp": "2026-10-02 12:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:29 PM, Oct 02 2026 Crash on WB Badura Ave\u00A0before Buffalo Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803705/attachment_0.png",
-    "Latitude": 36.061163299999997,
-    "Longitude": -115.2607964
-  },
-  {
     "UniqueId": 58573,
     "Timestamp": "2026-10-02 12:40",
     "IncidentType": "Crash",
@@ -1622,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804259/attachment_0.png",
     "Latitude": 36.166891999999997,
     "Longitude": -115.1421349
+  },
+  {
+    "UniqueId": 58691,
+    "Timestamp": "2026-10-03 12:25",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:25 PM, Oct 03 2026 Police activity on WB Bonanza Rd\u00A0before Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804261/attachment_0.jpg",
+    "Latitude": 36.177181599999997,
+    "Longitude": -115.1756073
   }
 ]
