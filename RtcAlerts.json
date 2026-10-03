@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58567,
-    "Timestamp": "2026-10-02 11:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "under",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:20 AM, Oct 02 2026 Crash on SB St Rose Pkwy\u00A0under 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803563/attachment_0.png",
-    "Latitude": 35.961751371359661,
-    "Longitude": -115.18186569213869
-  },
-  {
     "UniqueId": 58568,
     "Timestamp": "2026-10-02 11:50",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804250/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 58687,
+    "Timestamp": "2026-10-03 11:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Gore Blocked",
+    "Notes": "11:17 AM, Oct 03 2026 Crash on NB I-15\u00A0before Neon Gateway. Gore Blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804253/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
   }
 ]
