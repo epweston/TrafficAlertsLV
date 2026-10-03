@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58585,
-    "Timestamp": "2026-10-02 15:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:01 PM, Oct 02 2026 Crash on NB I-11\u00A0at Auto Show Dr on ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803918/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 58586,
     "Timestamp": "2026-10-02 15:06",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804301/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 58703,
+    "Timestamp": "2026-10-03 15:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:00 PM, Oct 03 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804303/attachment_0.png",
+    "Latitude": 36.071546221107518,
+    "Longitude": -115.14626596347613
   }
 ]
