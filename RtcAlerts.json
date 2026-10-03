@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58512,
-    "Timestamp": "2026-10-01 17:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:39 PM, Oct 01 2026 Crash on NB Rainbow Blvd\u00A0at Lake Mead Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802732/attachment_0.png",
-    "Latitude": 36.195871494894334,
-    "Longitude": -115.24199008941652
-  },
-  {
     "UniqueId": 58513,
     "Timestamp": "2026-10-01 17:56",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804020/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 58621,
+    "Timestamp": "2026-10-02 17:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "5:46 PM, Oct 02 2026 Crash on SB Rainbow Blvd\u00A0before Sahara Ave. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804043/attachment_0.jpg",
+    "Latitude": 36.144077500000002,
+    "Longitude": -115.24303310000001
   }
 ]
