@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58598,
-    "Timestamp": "2026-10-02 15:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "3:50 PM, Oct 02 2026 Crash on EB Tropicana Ave\u00A0before I-11. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803989/attachment_0.png",
-    "Latitude": 36.10072919730861,
-    "Longitude": -115.18071603717371
-  },
-  {
-    "UniqueId": 58599,
-    "Timestamp": "2026-10-02 15:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:51 PM, Oct 02 2026 Crash on SB I-11\u00A0before\u00A0 Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803990/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58600,
     "Timestamp": "2026-10-02 15:53",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804324/attachment_0.jpg",
     "Latitude": 36.670656356017403,
     "Longitude": -114.5219135284424
+  },
+  {
+    "UniqueId": 58716,
+    "Timestamp": "2026-10-03 15:46",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:46 PM, Oct 03 2026 Crash on EB Flamingo Rd\u00A0at Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804325/attachment_0.jpg",
+    "Latitude": 36.115652300000001,
+    "Longitude": -115.1899418
   }
 ]
