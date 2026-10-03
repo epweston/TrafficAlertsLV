@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58540,
-    "Timestamp": "2026-10-02 06:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Gore blocked.",
-    "Notes": "6:55 AM, Oct 02 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0before I-11. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803002/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
-    "UniqueId": 58541,
-    "Timestamp": "2026-10-02 06:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:56 AM, Oct 02 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803004/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 58542,
-    "Timestamp": "2026-10-02 07:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:05 AM, Oct 02 2026 Crash on NB Airport Connector\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803034/attachment_0.png",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
     "UniqueId": 58543,
     "Timestamp": "2026-10-02 07:31",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804158/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 58662,
+    "Timestamp": "2026-10-03 07:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Reduced lanes. Expect Delays",
+    "Notes": "7:04 AM, Oct 03 2026 Crash on SB I-15\u00A0at Neon Gateway. Reduced lanes. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
   }
 ]
