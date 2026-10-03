@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58554,
-    "Timestamp": "2026-10-02 08:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:42 AM, Oct 02 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Aliante Pkwy . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803270/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 58555,
-    "Timestamp": "2026-10-02 08:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:43 AM, Oct 02 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0before Aliante Pkwy . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803272/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 58556,
     "Timestamp": "2026-10-02 08:52",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804180/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 58669,
+    "Timestamp": "2026-10-03 08:38",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:38 AM, Oct 03 2026 Crash on EB Sahara Ave\u00A0at Las Vegas Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804181/attachment_0.jpg",
+    "Latitude": 36.143662482122316,
+    "Longitude": -115.1573931887723
   }
 ]
