@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 58606,
-    "Timestamp": "2026-10-02 16:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Polaris Ave",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "4:19 PM, Oct 02 2026 Crash on EB Russell Rd\u00A0at Polaris Ave. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803985/attachment_0.jpg",
-    "Latitude": 36.086235899999998,
-    "Longitude": -115.1856117
-  },
-  {
-    "UniqueId": 58607,
-    "Timestamp": "2026-10-02 16:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "4:22 PM, Oct 02 2026 Stalled vehicle on SB I-15\u00A0after Sloan Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804002/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
-    "UniqueId": 58608,
-    "Timestamp": "2026-10-02 16:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "4:25 PM, Oct 02 2026 Crash on NB Nellis Blvd\u00A0at Charleston Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804003/attachment_0.jpg",
-    "Latitude": 36.158926896541821,
-    "Longitude": -115.06236791610719
-  },
-  {
-    "UniqueId": 58609,
-    "Timestamp": "2026-10-02 16:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "4:28 PM, Oct 02 2026 Crash on NB Jones Blvd\u00A0at Tropicana Ave. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804010/attachment_0.jpg",
-    "Latitude": 36.099959300000002,
-    "Longitude": -115.22498229999999
-  },
-  {
-    "UniqueId": 58610,
-    "Timestamp": "2026-10-02 16:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:29 PM, Oct 02 2026 Crash on NB I-11\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804005/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 58611,
     "Timestamp": "2026-10-02 16:33",
     "IncidentType": "Crash",
@@ -1482,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804349/attachment_0.png",
     "Latitude": 36.150287800000001,
     "Longitude": -115.0454342
+  },
+  {
+    "UniqueId": 58721,
+    "Timestamp": "2026-10-03 16:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Hacienda",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:23 PM, Oct 03 2026 Crash on NB Jones Blvd\u00A0before Hacienda. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804331/attachment_0.jpg",
+    "Latitude": 36.092623499999988,
+    "Longitude": -115.2249889
   }
 ]
