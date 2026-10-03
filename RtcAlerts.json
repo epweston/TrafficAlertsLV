@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58566,
-    "Timestamp": "2026-10-02 10:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:57 AM, Oct 02 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803570/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 58567,
     "Timestamp": "2026-10-02 11:20",
     "IncidentType": "Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804236/attachment_0.png",
     "Latitude": 36.100174500000001,
     "Longitude": -115.0877678
+  },
+  {
+    "UniqueId": 58683,
+    "Timestamp": "2026-10-03 10:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "All NB lanes are blocked.\u00A0 Multiple WB lanes are blocked.",
+    "Notes": "10:54 AM, Oct 03 2026 Crash on NB Jones Blvd\u00A0at Rancho Dr. All NB lanes are blocked.\u00A0 Multiple WB lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804237/attachment_0.png",
+    "Latitude": 36.232990800000003,
+    "Longitude": -115.22647120000001
+  },
+  {
+    "UniqueId": 58684,
+    "Timestamp": "2026-10-03 10:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "10:57 AM, Oct 03 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804208/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
