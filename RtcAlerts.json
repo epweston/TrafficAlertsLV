@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58532,
-    "Timestamp": "2026-10-01 22:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:30 PM, Oct 01 2026 Crash on NB Martin L King Blvd\u00A0before Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802795/attachment_0.png",
-    "Latitude": 36.1883999,
-    "Longitude": -115.1607734
-  },
-  {
-    "UniqueId": 58533,
-    "Timestamp": "2026-10-01 22:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "And Wb Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:34 PM, Oct 01 2026 Crash on EB and WB Tropicana Ave\u00A0at Duke Ellington Way to Koval Ln. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802796/attachment_0.jpg",
-    "Latitude": 36.100998199999999,
-    "Longitude": -115.16558000000001
-  },
-  {
     "UniqueId": 58534,
     "Timestamp": "2026-10-02 03:42",
     "IncidentType": "Crash",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804089/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 58643,
+    "Timestamp": "2026-10-02 22:43",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "And Eb Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Art Way",
+    "Impact": "All lanes are blocked.",
+    "Notes": "10:43 PM, Oct 02 2026 Police activity on WB and EB Charleston Blvd\u00A0at Art Way to Grand Central. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804091/attachment_0.jpg",
+    "Latitude": 36.158899599999998,
+    "Longitude": -115.1523543
   }
 ]
