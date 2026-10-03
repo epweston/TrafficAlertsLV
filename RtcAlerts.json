@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58600,
-    "Timestamp": "2026-10-02 15:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:53 PM, Oct 02 2026 Crash on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803979/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 58601,
     "Timestamp": "2026-10-02 16:02",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804325/attachment_0.jpg",
     "Latitude": 36.115652300000001,
     "Longitude": -115.1899418
+  },
+  {
+    "UniqueId": 58717,
+    "Timestamp": "2026-10-03 15:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:51 PM, Oct 03 2026 Stalled vehicle on EB Lake Mead Pkwy\u00A0after Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804327/attachment_0.png",
+    "Latitude": 36.039436100000003,
+    "Longitude": -114.982083
   }
 ]
