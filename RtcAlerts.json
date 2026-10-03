@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58531,
-    "Timestamp": "2026-10-01 22:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:24 PM, Oct 01 2026 Crash on NB Airport Connector\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802793/attachment_0.png",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
     "UniqueId": 58532,
     "Timestamp": "2026-10-01 22:30",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804084/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 58642,
+    "Timestamp": "2026-10-02 22:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:27 PM, Oct 02 2026 Stalled vehicle on NB I-11\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804089/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
