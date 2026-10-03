@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58562,
-    "Timestamp": "2026-10-02 10:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:03 AM, Oct 02 2026 Stalled vehicle on SB I-11\u00A0at Railroad Pass Casino Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803424/attachment_0.png",
-    "Latitude": 35.968342972997235,
-    "Longitude": -114.91009383325343
-  },
-  {
-    "UniqueId": 58563,
-    "Timestamp": "2026-10-02 10:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "to",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:03 AM, Oct 02 2026 Crash on NB Airport Connector\u00A0to Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803423/attachment_0.jpg",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
-    "UniqueId": 58564,
-    "Timestamp": "2026-10-02 10:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:18 AM, Oct 02 2026 Crash on SB I-15\u00A0at Charleston Blvd off ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803491/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 58565,
     "Timestamp": "2026-10-02 10:46",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804213/attachment_0.png",
     "Latitude": 36.071546221107518,
     "Longitude": -115.14626596347613
+  },
+  {
+    "UniqueId": 58678,
+    "Timestamp": "2026-10-03 10:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:16 AM, Oct 03 2026 Stalled vehicle on NB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804223/attachment_0.jpg",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
