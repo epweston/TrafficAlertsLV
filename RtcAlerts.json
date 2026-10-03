@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58558,
-    "Timestamp": "2026-10-02 09:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:08 AM, Oct 02 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Aliante Pkwy . Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 58559,
     "Timestamp": "2026-10-02 09:13",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804190/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 58671,
+    "Timestamp": "2026-10-03 09:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 114",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:06 AM, Oct 03 2026 Stalled vehicle on SB I-15\u00A0at Mile 114. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804182/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
