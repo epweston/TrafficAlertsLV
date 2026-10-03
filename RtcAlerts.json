@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58560,
-    "Timestamp": "2026-10-02 09:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "El Capitan Way",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:17 AM, Oct 02 2026 Crash on NB El Capitan Way\u00A0before Blue Diamond Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803328/attachment_0.png",
-    "Latitude": 36.020405099999998,
-    "Longitude": -115.288556
-  },
-  {
-    "UniqueId": 58561,
-    "Timestamp": "2026-10-02 09:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:35 AM, Oct 02 2026 Crash on WB Sunset Rd\u00A0before Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803345/attachment_0.png",
-    "Latitude": 36.071189599999997,
-    "Longitude": -115.17228350000001
-  },
-  {
     "UniqueId": 58562,
     "Timestamp": "2026-10-02 10:03",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804184/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 58673,
+    "Timestamp": "2026-10-03 09:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Cc-215",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "off ramp. Right shoulder blocked.",
+    "Notes": "9:30 AM, Oct 03 2026 Stalled vehicle on EB CC-215\u00A0at Town Center Dr. off ramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804193/attachment_0.png",
+    "Latitude": 36.121600839999999,
+    "Longitude": -115.32651194
   }
 ]
