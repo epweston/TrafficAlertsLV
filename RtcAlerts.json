@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58594,
-    "Timestamp": "2026-10-02 15:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:33 PM, Oct 02 2026 Crash on SB I-11\u00A0at Russell Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803956/attachment_0.jpg",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 58595,
-    "Timestamp": "2026-10-02 15:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:34 PM, Oct 02 2026 Crash on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803957/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 58596,
-    "Timestamp": "2026-10-02 15:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:35 PM, Oct 02 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd on ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803959/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 58597,
     "Timestamp": "2026-10-02 15:40",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804317/attachment_0.jpg",
     "Latitude": 36.061311589035434,
     "Longitude": -115.24259087906742
+  },
+  {
+    "UniqueId": 58712,
+    "Timestamp": "2026-10-03 15:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Badura Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:31 PM, Oct 03 2026 Crash on SB Rainbow Blvd\u00A0before Badura Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804319/attachment_0.jpg",
+    "Latitude": 36.061311589035434,
+    "Longitude": -115.24259087906742
+  },
+  {
+    "UniqueId": 58713,
+    "Timestamp": "2026-10-03 15:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "3:32 PM, Oct 03 2026 Stalled vehicle on NB I-11\u00A0at Galleria Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804321/attachment_0.png",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
