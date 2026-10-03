@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58511,
-    "Timestamp": "2026-10-01 17:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "North Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:16 PM, Oct 01 2026 Stalled vehicle on NB I-11\u00A0to North Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802726/attachment_0.png",
-    "Latitude": 36.254498550000001,
-    "Longitude": -115.2458097
-  },
-  {
     "UniqueId": 58512,
     "Timestamp": "2026-10-01 17:39",
     "IncidentType": "Crash",
@@ -1482,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804014/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 58617,
+    "Timestamp": "2026-10-02 17:12",
+    "IncidentType": "UPDATE: Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Camino Al Norte",
+    "Relationship": "at",
+    "CrossStreet": "Washburn Rd",
+    "Impact": "All lanes are now open",
+    "Notes": "5:12 PM, Oct 02 2026 UPDATE: Crash on SB Camino Al Norte\u00A0at Washburn Rd. All lanes are now open",
+    "ImagePath": "",
+    "Latitude": 36.254366900000001,
+    "Longitude": -115.1530484
+  },
+  {
+    "UniqueId": 58618,
+    "Timestamp": "2026-10-02 17:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:14 PM, Oct 02 2026 Crash on SB Rainbow Blvd\u00A0at Oakey Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804040/attachment_0.png",
+    "Latitude": 36.151616300000001,
+    "Longitude": -115.24343039999999
   }
 ]
