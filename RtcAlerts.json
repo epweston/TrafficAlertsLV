@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58515,
-    "Timestamp": "2026-10-01 18:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:15 PM, Oct 01 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802755/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 58516,
-    "Timestamp": "2026-10-01 18:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "6:19 PM, Oct 01 2026 Crash on WB Silverado Ranch Blvd\u00A0at I-15. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802736/attachment_0.png",
-    "Latitude": 36.013639499999996,
-    "Longitude": -115.1715914
-  },
-  {
     "UniqueId": 58517,
     "Timestamp": "2026-10-01 18:24",
     "IncidentType": "Crash",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804049/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 58628,
+    "Timestamp": "2026-10-02 18:16",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "6:16 PM, Oct 02 2026 Crash on SB Jones Blvd\u00A0before Charleston Blvd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804070/attachment_0.png",
+    "Latitude": 36.159152115630107,
+    "Longitude": -115.2239227294922
   }
 ]
