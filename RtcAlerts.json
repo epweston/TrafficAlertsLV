@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58513,
-    "Timestamp": "2026-10-01 17:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:56 PM, Oct 01 2026 Stalled vehicle on SB I-11\u00A0before Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/01/file_attachments/3802733/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 58514,
     "Timestamp": "2026-10-01 18:12",
     "IncidentType": "Crash",
@@ -1538,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804044/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 58623,
+    "Timestamp": "2026-10-02 17:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "5:53 PM, Oct 02 2026 Crash on NB Durango Dr\u00A0at Pebble Rd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804025/attachment_0.png",
+    "Latitude": 36.026146300000001,
+    "Longitude": -115.2786598
+  },
+  {
+    "UniqueId": 58624,
+    "Timestamp": "2026-10-02 17:55",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "5:55 PM, Oct 02 2026 Crash on EB Tropicana Ave\u00A0before I-11. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804046/attachment_0.png",
+    "Latitude": 36.10072919730861,
+    "Longitude": -115.18071603717371
   }
 ]
