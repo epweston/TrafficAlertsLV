@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58556,
-    "Timestamp": "2026-10-02 08:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Simmons St",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:52 AM, Oct 02 2026 Crash on SB Simmons St\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803294/attachment_0.png",
-    "Latitude": 36.197566600000002,
-    "Longitude": -115.17884479999999
-  },
-  {
-    "UniqueId": 58557,
-    "Timestamp": "2026-10-02 08:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:57 AM, Oct 02 2026 Crash on SB Jones Blvd\u00A0before Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3803303/attachment_0.png",
-    "Latitude": 36.159152115630107,
-    "Longitude": -115.2239227294922
-  },
-  {
     "UniqueId": 58558,
     "Timestamp": "2026-10-02 09:08",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804181/attachment_0.jpg",
     "Latitude": 36.143662482122316,
     "Longitude": -115.1573931887723
+  },
+  {
+    "UniqueId": 58670,
+    "Timestamp": "2026-10-03 08:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:59 AM, Oct 03 2026 Crash on SB I-15\u00A0at Sahara Ave off ramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804190/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
