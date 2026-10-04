@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58651,
-    "Timestamp": "2026-10-03 01:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:33 AM, Oct 03 2026 Crash on SB I-15\u00A0at Neon Gateway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804096/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
-    "UniqueId": 58652,
-    "Timestamp": "2026-10-03 02:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:14 AM, Oct 03 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Charleston Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804098/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 58655,
     "Timestamp": "2026-10-03 03:03",
     "IncidentType": "Crash",
@@ -1328,5 +1300,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804405/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 58753,
+    "Timestamp": "2026-10-04 02:15",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bonneville Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "2:15 AM, Oct 04 2026 Crash on SB Las Vegas Blvd\u00A0at Bonneville Ave. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.1634064,
+    "Longitude": -115.14443850000001
+  },
+  {
+    "UniqueId": 58754,
+    "Timestamp": "2026-10-04 02:15",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "2:15 AM, Oct 04 2026 Crash on WB Tropicana Ave\u00A0at Valley View Blvd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.100984799999999,
+    "Longitude": -115.1899141
+  },
+  {
+    "UniqueId": 58755,
+    "Timestamp": "2026-10-04 02:16",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm Bblvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:16 AM, Oct 04 2026 Vehicle on fire on NB I-15\u00A0at Primm Bblvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
