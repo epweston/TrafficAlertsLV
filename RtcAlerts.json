@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58619,
-    "Timestamp": "2026-10-02 17:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:29 PM, Oct 02 2026 Crash on WB Craig Rd\u00A0at I-11. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804018/attachment_0.png",
-    "Latitude": 36.240389716124611,
-    "Longitude": -115.24673541911851
-  },
-  {
-    "UniqueId": 58620,
-    "Timestamp": "2026-10-02 17:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:32 PM, Oct 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804020/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
     "UniqueId": 58621,
     "Timestamp": "2026-10-02 17:46",
     "IncidentType": "Crash",
@@ -1356,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804356/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 58725,
+    "Timestamp": "2026-10-03 17:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Moapa Valley Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:27 PM, Oct 03 2026 Stalled vehicle on NB I-15\u00A0after Moapa Valley Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804334/attachment_0.jpg",
+    "Latitude": 36.670656356017403,
+    "Longitude": -114.5219135284424
   }
 ]
