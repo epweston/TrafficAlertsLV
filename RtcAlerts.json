@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58650,
-    "Timestamp": "2026-10-03 01:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "And Sb Main St",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "1:23 AM, Oct 03 2026 Crash on NB and SB Main St\u00A0at Washington Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804116/attachment_0.png",
-    "Latitude": 36.181250200000001,
-    "Longitude": -115.1401274
-  },
-  {
     "UniqueId": 58651,
     "Timestamp": "2026-10-03 01:33",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804404/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 58752,
+    "Timestamp": "2026-10-04 01:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:23 AM, Oct 04 2026 Crash on SB I-15\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804405/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
