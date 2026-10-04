@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58691,
-    "Timestamp": "2026-10-03 12:25",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:25 PM, Oct 03 2026 Police activity on WB Bonanza Rd\u00A0before Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804261/attachment_0.jpg",
-    "Latitude": 36.177181599999997,
-    "Longitude": -115.1756073
-  },
-  {
     "UniqueId": 58692,
     "Timestamp": "2026-10-03 12:46",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804579/attachment_0.png",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 58805,
+    "Timestamp": "2026-10-04 12:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "12:26 PM, Oct 04 2026 Crash on NB Nellis Blvd\u00A0at Charleston Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804562/attachment_0.jpg",
+    "Latitude": 36.158926896541821,
+    "Longitude": -115.06236791610719
   }
 ]
