@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58701,
-    "Timestamp": "2026-10-03 14:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:36 PM, Oct 03 2026 Stalled vehicle on SB I-11\u00A0after Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804286/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 58702,
     "Timestamp": "2026-10-03 14:41",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804590/attachment_0.jpg",
     "Latitude": 36.004440600000002,
     "Longitude": -114.9427745
+  },
+  {
+    "UniqueId": 58811,
+    "Timestamp": "2026-10-04 14:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:34 PM, Oct 04 2026 Stalled vehicle on NB I-11\u00A0to Summerlin Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804568/attachment_0.png",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
   }
 ]
