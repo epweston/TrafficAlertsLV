@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58662,
-    "Timestamp": "2026-10-03 07:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Reduced lanes. Expect Delays",
-    "Notes": "7:04 AM, Oct 03 2026 Crash on SB I-15\u00A0at Neon Gateway. Reduced lanes. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
     "UniqueId": 58663,
     "Timestamp": "2026-10-03 07:15",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804470/attachment_0.jpg",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 58785,
+    "Timestamp": "2026-10-04 07:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:10 AM, Oct 04 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804472/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
