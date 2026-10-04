@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58617,
-    "Timestamp": "2026-10-02 17:12",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Camino Al Norte",
-    "Relationship": "at",
-    "CrossStreet": "Washburn Rd",
-    "Impact": "All lanes are now open",
-    "Notes": "5:12 PM, Oct 02 2026 UPDATE: Crash on SB Camino Al Norte\u00A0at Washburn Rd. All lanes are now open",
-    "ImagePath": "",
-    "Latitude": 36.254366900000001,
-    "Longitude": -115.1530484
-  },
-  {
-    "UniqueId": 58618,
-    "Timestamp": "2026-10-02 17:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:14 PM, Oct 02 2026 Crash on SB Rainbow Blvd\u00A0at Oakey Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/02/file_attachments/3804040/attachment_0.png",
-    "Latitude": 36.151616300000001,
-    "Longitude": -115.24343039999999
-  },
-  {
     "UniqueId": 58619,
     "Timestamp": "2026-10-02 17:29",
     "IncidentType": "Crash",
@@ -1356,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804353/attachment_0.png",
     "Latitude": 36.1807935,
     "Longitude": -115.15184650000001
+  },
+  {
+    "UniqueId": 58723,
+    "Timestamp": "2026-10-03 17:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:12 PM, Oct 03 2026 Crash on NB Las Vegas Blvd\u00A0before Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804355/attachment_0.jpg",
+    "Latitude": 36.086214300000002,
+    "Longitude": -115.1730815
   }
 ]
