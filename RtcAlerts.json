@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58656,
-    "Timestamp": "2026-10-03 03:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:25 AM, Oct 03 2026 Crash on NB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804101/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 58657,
-    "Timestamp": "2026-10-03 03:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "4Th St",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "3:27 AM, Oct 03 2026 Crash on NB 4th St\u00A0at Las Vegas Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804102/attachment_0.jpg",
-    "Latitude": 36.153303700000002,
-    "Longitude": -115.1510431
-  },
-  {
     "UniqueId": 58659,
     "Timestamp": "2026-10-03 06:06",
     "IncidentType": "Crash",
@@ -1454,5 +1426,47 @@
     "ImagePath": "",
     "Latitude": 36.174089876760839,
     "Longitude": -115.22410077507317
+  },
+  {
+    "UniqueId": 58765,
+    "Timestamp": "2026-10-04 03:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:42 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.272856280056651,
+    "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 58766,
+    "Timestamp": "2026-10-04 03:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Moapa Valley Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:44 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0after Moapa Valley Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.670656356017403,
+    "Longitude": -114.5219135284424
+  },
+  {
+    "UniqueId": 58767,
+    "Timestamp": "2026-10-04 03:45",
+    "IncidentType": "Other",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Patrick Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:45 AM, Oct 04 2026 Other on NB Eastern Ave\u00A0at Patrick Ln. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.078885564886015,
+    "Longitude": -115.11877475491141
   }
 ]
