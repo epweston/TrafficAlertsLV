@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58718,
-    "Timestamp": "2026-10-03 15:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Walnut Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:59 PM, Oct 03 2026 Crash on EB Lake Mead Blvd\u00A0at Walnut Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804306/attachment_0.png",
-    "Latitude": 36.195762199999997,
-    "Longitude": -115.08919690000001
-  },
-  {
-    "UniqueId": 58719,
-    "Timestamp": "2026-10-03 16:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:07 PM, Oct 03 2026 Crash on SB Rainbow Blvd\u00A0at Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804308/attachment_0.png",
-    "Latitude": 36.121982199999998,
-    "Longitude": -115.2430895
-  },
-  {
-    "UniqueId": 58720,
-    "Timestamp": "2026-10-03 16:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Falcon Ridge",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:12 PM, Oct 03 2026 Stalled vehicle on SB I-15\u00A0after Falcon Ridge. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804349/attachment_0.png",
-    "Latitude": 36.150287800000001,
-    "Longitude": -115.0454342
-  },
-  {
-    "UniqueId": 58721,
-    "Timestamp": "2026-10-03 16:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Hacienda",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:23 PM, Oct 03 2026 Crash on NB Jones Blvd\u00A0before Hacienda. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804331/attachment_0.jpg",
-    "Latitude": 36.092623499999988,
-    "Longitude": -115.2249889
-  },
-  {
     "UniqueId": 58722,
     "Timestamp": "2026-10-03 17:05",
     "IncidentType": "Crash",
@@ -1398,5 +1342,19 @@
     "ImagePath": "",
     "Latitude": 35.968342972997235,
     "Longitude": -114.91009383325343
+  },
+  {
+    "UniqueId": 58818,
+    "Timestamp": "2026-10-04 16:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway Eb",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:35 PM, Oct 04 2026 Crash on NB I-11\u00A0at 215 Northern Beltway EB ramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804596/attachment_0.jpg",
+    "Latitude": 36.033552862846953,
+    "Longitude": -115.01434604859962
   }
 ]
