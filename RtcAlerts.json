@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58659,
-    "Timestamp": "2026-10-03 06:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "before",
-    "CrossStreet": "Pearlite Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:06 AM, Oct 03 2026 Crash on EB Russell Rd\u00A0before Pearlite Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804154/attachment_0.png",
-    "Latitude": 36.085680799999999,
-    "Longitude": -115.07648450000001
-  },
-  {
     "UniqueId": 58660,
     "Timestamp": "2026-10-03 06:16",
     "IncidentType": "Crash",
@@ -1580,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804457/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 58776,
+    "Timestamp": "2026-10-04 06:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:05 AM, Oct 04 2026 Crash on NB Jones Blvd\u00A0at 215 Northern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804459/attachment_0.png",
+    "Latitude": 36.1702978,
+    "Longitude": -115.2241887
+  },
+  {
+    "UniqueId": 58777,
+    "Timestamp": "2026-10-04 06:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:07 AM, Oct 04 2026 Stalled vehicle on NB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804440/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
