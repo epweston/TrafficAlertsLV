@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58792,
-    "Timestamp": "2026-10-04 09:28",
-    "IncidentType": "All lanes closed",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 12 Due",
-    "Impact": "Expect Delays Use other routes",
-    "Notes": "9:28 AM, Oct 04 2026 All lanes closed on NB I-15\u00A0at Mile 12 due to closure near mile 21 Must exit at Jean. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804496/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 58793,
-    "Timestamp": "2026-10-04 09:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:31 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804497/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 58794,
     "Timestamp": "2026-10-04 09:38",
     "IncidentType": "Stalled vehicle",
@@ -908,5 +880,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805388/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58861,
+    "Timestamp": "2026-10-05 09:28",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Conquistador St 2",
+    "Impact": "",
+    "Notes": "9:28 AM, Oct 05 2026 Crash on WB Tropicana Ave\u00A0at Conquistador St. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805433/attachment_0.png",
+    "Latitude": 36.100198300000002,
+    "Longitude": -115.31084060000001
   }
 ]
