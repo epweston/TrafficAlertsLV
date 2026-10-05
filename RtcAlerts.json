@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58741,
-    "Timestamp": "2026-10-03 22:19",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Patrick Ln",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:19 PM, Oct 03 2026 Other on NB Eastern Ave\u00A0at Patrick Ln. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804374/attachment_0.png",
-    "Latitude": 36.078885564886015,
-    "Longitude": -115.11877475491141
-  },
-  {
-    "UniqueId": 58742,
-    "Timestamp": "2026-10-03 22:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Alta Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "10:51 PM, Oct 03 2026 Crash on NB Rainbow Blvd\u00A0at Alta Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804375/attachment_0.jpg",
-    "Latitude": 36.166451199999997,
-    "Longitude": -115.2444019
-  },
-  {
-    "UniqueId": 58743,
-    "Timestamp": "2026-10-03 23:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:17 PM, Oct 03 2026 Crash on NB Las Vegas Blvd\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804394/attachment_0.jpg",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
     "UniqueId": 58744,
     "Timestamp": "2026-10-03 23:32",
     "IncidentType": "Crash",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804656/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 58835,
+    "Timestamp": "2026-10-04 23:12",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:12 PM, Oct 04 2026 Crash on SB I-11\u00A0before Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804660/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
