@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58776,
-    "Timestamp": "2026-10-04 06:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:05 AM, Oct 04 2026 Crash on NB Jones Blvd\u00A0at 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804459/attachment_0.png",
-    "Latitude": 36.1702978,
-    "Longitude": -115.2241887
-  },
-  {
-    "UniqueId": 58777,
-    "Timestamp": "2026-10-04 06:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:07 AM, Oct 04 2026 Stalled vehicle on NB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804440/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 58778,
-    "Timestamp": "2026-10-04 06:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:17 AM, Oct 04 2026 Stalled vehicle on SB I-11\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804441/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 58779,
-    "Timestamp": "2026-10-04 06:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 21",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:29 AM, Oct 04 2026 Crash on NB I-15\u00A0before Mile 21. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804464/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58780,
     "Timestamp": "2026-10-04 06:37",
     "IncidentType": "Crash",
@@ -936,5 +880,19 @@
     "ImagePath": "",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 58847,
+    "Timestamp": "2026-10-05 06:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:25 AM, Oct 05 2026 Stalled vehicle on NB I-15\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804910/attachment_0.jpg",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
