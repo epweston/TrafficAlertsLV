@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58732,
-    "Timestamp": "2026-10-03 17:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hallston",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:48 PM, Oct 03 2026 Crash on EB Lake Mead Blvd\u00A0at Hallston. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804363/attachment_0.jpg",
-    "Latitude": 36.204799899999998,
-    "Longitude": -115.32548079999999
-  },
-  {
     "UniqueId": 58733,
     "Timestamp": "2026-10-03 18:02",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804626/attachment_0.png",
     "Latitude": 36.130135899999999,
     "Longitude": -115.1946758
+  },
+  {
+    "UniqueId": 58821,
+    "Timestamp": "2026-10-04 17:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:48 PM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804627/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
