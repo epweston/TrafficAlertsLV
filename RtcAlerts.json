@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58733,
-    "Timestamp": "2026-10-03 18:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:02 PM, Oct 03 2026 Crash on SB I-15\u00A0at Harmon Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/03/file_attachments/3804342/attachment_0.jpg",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
     "UniqueId": 58734,
     "Timestamp": "2026-10-03 18:08",
     "IncidentType": "Crash",
@@ -1244,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804627/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 58822,
+    "Timestamp": "2026-10-04 17:58",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:58 PM, Oct 04 2026 Vehicle on fire on NB I-15\u00A0after Craig Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804629/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 58823,
+    "Timestamp": "2026-10-04 18:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:00 PM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804630/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
