@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58809,
-    "Timestamp": "2026-10-04 13:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:59 PM, Oct 04 2026 Crash on SB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804588/attachment_0.jpg",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 58810,
-    "Timestamp": "2026-10-04 14:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "before",
-    "CrossStreet": "Magic Way",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:24 PM, Oct 04 2026 Crash on NB Boulder Hwy\u00A0before Magic Way. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804590/attachment_0.jpg",
-    "Latitude": 36.004440600000002,
-    "Longitude": -114.9427745
-  },
-  {
     "UniqueId": 58811,
     "Timestamp": "2026-10-04 14:34",
     "IncidentType": "Stalled vehicle",
@@ -936,5 +908,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806034/attachment_0.jpg",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 58880,
+    "Timestamp": "2026-10-05 14:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Indigo Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "2:21 PM, Oct 05 2026 Crash on WB Charleston Blvd\u00A0after Indigo Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806107/attachment_0.png",
+    "Latitude": 36.1589016,
+    "Longitude": -115.3185885
+  },
+  {
+    "UniqueId": 58881,
+    "Timestamp": "2026-10-05 14:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:22 PM, Oct 05 2026 Crash on EB Cheyenne Ave\u00A0before Civic Center Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806108/attachment_0.jpg",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 58882,
+    "Timestamp": "2026-10-05 14:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "",
+    "Notes": "2:23 PM, Oct 05 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Charleston Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806129/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
   }
 ]
