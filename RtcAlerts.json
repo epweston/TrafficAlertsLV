@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58765,
-    "Timestamp": "2026-10-04 03:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:42 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 58766,
-    "Timestamp": "2026-10-04 03:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Moapa Valley Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:44 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0after Moapa Valley Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.670656356017403,
-    "Longitude": -114.5219135284424
-  },
-  {
     "UniqueId": 58767,
     "Timestamp": "2026-10-04 03:45",
     "IncidentType": "Other",
@@ -992,5 +964,19 @@
     "ImagePath": "",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58840,
+    "Timestamp": "2026-10-05 03:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "3:41 AM, Oct 05 2026 Crash on WB Tropicana Ave\u00A0at I-15. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804686/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
