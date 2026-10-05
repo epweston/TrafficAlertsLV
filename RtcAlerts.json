@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58813,
-    "Timestamp": "2026-10-04 14:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "2:51 PM, Oct 04 2026 Stalled vehicle on SB I-11\u00A0at Railroad Pass Casino Rd on ramp. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804614/attachment_0.png",
-    "Latitude": 35.968342972997235,
-    "Longitude": -114.91009383325343
-  },
-  {
-    "UniqueId": 58814,
-    "Timestamp": "2026-10-04 14:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:57 PM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804616/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 58815,
     "Timestamp": "2026-10-04 15:19",
     "IncidentType": "Stalled vehicle",
@@ -950,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806149/attachment_0.jpg",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 58885,
+    "Timestamp": "2026-10-05 14:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:56 PM, Oct 05 2026 Crash on WB 215 Northern Beltway\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806156/attachment_0.jpg",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
   }
 ]
