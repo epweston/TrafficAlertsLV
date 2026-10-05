@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 58781,
-    "Timestamp": "2026-10-04 06:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:48 AM, Oct 04 2026 Crash on WB Warm Springs Rd\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.057144299999997,
-    "Longitude": -115.2079452
-  },
-  {
-    "UniqueId": 58782,
-    "Timestamp": "2026-10-04 06:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:49 AM, Oct 04 2026 Crash on WB Warm Springs Rd\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804468/attachment_0.jpg",
-    "Latitude": 36.057144299999997,
-    "Longitude": -115.2079452
-  },
-  {
-    "UniqueId": 58783,
-    "Timestamp": "2026-10-04 06:54",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 95",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:54 AM, Oct 04 2026 Abandoned vehicle on NB I-15\u00A0after Mile 95. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 58784,
-    "Timestamp": "2026-10-04 06:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 21",
-    "Impact": "All Northbound - Southbound traffic are temporarily closed. Expect Delays Use other routes",
-    "Notes": "6:58 AM, Oct 04 2026 Crash on SB I-15\u00A0after Mile 21. All Northbound - Southbound traffic are temporarily closed. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804470/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 58785,
-    "Timestamp": "2026-10-04 07:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:10 AM, Oct 04 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804472/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 58786,
     "Timestamp": "2026-10-04 08:07",
     "IncidentType": "Stalled vehicle",
@@ -908,5 +838,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804951/attachment_0.jpg",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 58850,
+    "Timestamp": "2026-10-05 07:07",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:07 AM, Oct 05 2026 Crash on EB Charleston Blvd\u00A0after 215 Western Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805022/attachment_0.png",
+    "Latitude": 36.159048129218675,
+    "Longitude": -115.160685082124
   }
 ]
