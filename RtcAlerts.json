@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58767,
-    "Timestamp": "2026-10-04 03:45",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Patrick Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:45 AM, Oct 04 2026 Other on NB Eastern Ave\u00A0at Patrick Ln. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.078885564886015,
-    "Longitude": -115.11877475491141
-  },
-  {
-    "UniqueId": 58768,
-    "Timestamp": "2026-10-04 03:50",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Bblvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:50 AM, Oct 04 2026 Vehicle on fire on NB I-15\u00A0at Primm Bblvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 58769,
     "Timestamp": "2026-10-04 04:40",
     "IncidentType": "Stalled vehicle",
@@ -978,5 +950,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804686/attachment_0.png",
     "Latitude": 36.100703197714246,
     "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 58841,
+    "Timestamp": "2026-10-05 04:17",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:17 AM, Oct 05 2026 Abandoned vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.272856280056651,
+    "Longitude": -115.26267889281597
   }
 ]
