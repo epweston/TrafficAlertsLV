@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58796,
-    "Timestamp": "2026-10-04 10:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:11 AM, Oct 04 2026 Crash on SB I-11\u00A0at College Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804484/attachment_0.jpg",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 58797,
-    "Timestamp": "2026-10-04 10:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:20 AM, Oct 04 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804514/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
-    "UniqueId": 58798,
-    "Timestamp": "2026-10-04 10:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "10:25 AM, Oct 04 2026 Crash on EB Charleston Blvd\u00A0at 215 Western Beltway. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804535/attachment_0.png",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
     "UniqueId": 58799,
     "Timestamp": "2026-10-04 10:44",
     "IncidentType": "Stalled vehicle",
@@ -922,5 +880,19 @@
     "ImagePath": "",
     "Latitude": 36.100198300000002,
     "Longitude": -115.31084060000001
+  },
+  {
+    "UniqueId": 58866,
+    "Timestamp": "2026-10-05 10:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "under",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:30 AM, Oct 05 2026 Crash on SB I-15\u00A0under Blue Diamond Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805561/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
