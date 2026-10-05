@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58816,
-    "Timestamp": "2026-10-04 15:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:43 PM, Oct 04 2026 Stalled vehicle on SB I-11\u00A0after Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804622/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 58817,
     "Timestamp": "2026-10-04 15:47",
     "IncidentType": "UPDATE: Stalled vehicle",
@@ -1020,5 +1006,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806219/attachment_0.png",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 58893,
+    "Timestamp": "2026-10-05 15:42",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:42 PM, Oct 05 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806204/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
