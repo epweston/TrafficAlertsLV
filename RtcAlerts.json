@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58769,
-    "Timestamp": "2026-10-04 04:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:40 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 58770,
-    "Timestamp": "2026-10-04 04:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Moapa Valley Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:42 AM, Oct 04 2026 Stalled vehicle on NB I-15\u00A0after Moapa Valley Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.670656356017403,
-    "Longitude": -114.5219135284424
-  },
-  {
-    "UniqueId": 58771,
-    "Timestamp": "2026-10-04 04:52",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Bblvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:52 AM, Oct 04 2026 Vehicle on fire on NB I-15\u00A0at Primm Bblvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
-    "UniqueId": 58772,
-    "Timestamp": "2026-10-04 05:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "5:09 AM, Oct 04 2026 Crash on EB 215 Southern Beltway\u00A0at I-11. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804437/attachment_0.png",
-    "Latitude": 36.277381871493823,
-    "Longitude": -115.26709154723478
-  },
-  {
     "UniqueId": 58773,
     "Timestamp": "2026-10-04 05:35",
     "IncidentType": "Crash",
@@ -978,5 +922,19 @@
     "ImagePath": "",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58843,
+    "Timestamp": "2026-10-05 05:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:14 AM, Oct 05 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804769/attachment_0.png",
+    "Latitude": 36.078835617458502,
+    "Longitude": -115.18136633150022
   }
 ]
