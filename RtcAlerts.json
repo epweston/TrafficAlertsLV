@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58780,
-    "Timestamp": "2026-10-04 06:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 21",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "6:37 AM, Oct 04 2026 Crash on SB I-15\u00A0after Mile 21. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804443/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58781,
     "Timestamp": "2026-10-04 06:48",
     "IncidentType": "Crash",
@@ -908,5 +894,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804934/attachment_0.jpg",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 58849,
+    "Timestamp": "2026-10-05 06:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:42 AM, Oct 05 2026 Stalled vehicle on NB I-15\u00A0after Tropicana Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804951/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
