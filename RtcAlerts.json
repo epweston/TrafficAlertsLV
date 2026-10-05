@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58773,
-    "Timestamp": "2026-10-04 05:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Joe W Brown Dr",
-    "Relationship": "at",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:35 AM, Oct 04 2026 Crash on SB Joe W Brown Dr\u00A0at Karen Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804451/attachment_0.png",
-    "Latitude": 36.1402894,
-    "Longitude": -115.1518124
-  },
-  {
-    "UniqueId": 58774,
-    "Timestamp": "2026-10-04 05:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:55 AM, Oct 04 2026 Crash on EB Sahara Ave\u00A0after Burnham Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804455/attachment_0.png",
-    "Latitude": 36.1442403,
-    "Longitude": -115.12326520000001
-  },
-  {
     "UniqueId": 58775,
     "Timestamp": "2026-10-04 06:02",
     "IncidentType": "Crash",
@@ -950,5 +922,19 @@
     "ImagePath": "",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58845,
+    "Timestamp": "2026-10-05 05:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "5:57 AM, Oct 05 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804871/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
