@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58894,
-    "Timestamp": "2026-10-05 15:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:46 PM, Oct 05 2026 Crash on EB Lake Mead Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806205/attachment_0.png",
-    "Latitude": 36.196000602251971,
-    "Longitude": -115.24454390895161
-  },
-  {
-    "UniqueId": 58895,
-    "Timestamp": "2026-10-05 15:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:47 PM, Oct 05 2026 Crash on EB 215 Northern Beltway\u00A0after Aliante Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806222/attachment_0.jpg",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 58896,
     "Timestamp": "2026-10-05 15:59",
     "IncidentType": "Crash",
@@ -1398,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808128/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 58996,
+    "Timestamp": "2026-10-06 15:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "before",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:43 PM, Oct 06 2026 Stalled vehicle on EB Sunset Rd\u00A0before 215 Western Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808131/attachment_0.png",
+    "Latitude": 36.070283269266724,
+    "Longitude": -115.28855873027267
+  },
+  {
+    "UniqueId": 58997,
+    "Timestamp": "2026-10-06 15:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Sandhill Rd",
+    "Impact": "Intersection partially blocked.",
+    "Notes": "3:45 PM, Oct 06 2026 Crash on EB Washington Ave\u00A0at Sandhill Rd. Intersection partially blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808110/attachment_0.png",
+    "Latitude": 36.180818199999997,
+    "Longitude": -115.08920879999999
   }
 ]
