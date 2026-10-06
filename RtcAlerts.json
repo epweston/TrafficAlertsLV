@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58863,
-    "Timestamp": "2026-10-05 09:59",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:59 AM, Oct 05 2026 Abandoned vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 58864,
-    "Timestamp": "2026-10-05 10:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "10:02 AM, Oct 05 2026 Crash on SB Pecos Rd\u00A0at Hacienda Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.093508800000002,
-    "Longitude": -115.1010242
-  },
-  {
     "UniqueId": 58865,
     "Timestamp": "2026-10-05 10:05",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807019/attachment_0.jpg",
     "Latitude": 36.159022,
     "Longitude": -115.29140700000001
+  },
+  {
+    "UniqueId": 58974,
+    "Timestamp": "2026-10-06 09:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "9:57 AM, Oct 06 2026 Crash on WB Lake Mead Blvd\u00A0at Tenaya Way. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807040/attachment_0.png",
+    "Latitude": 36.196142600000002,
+    "Longitude": -115.2512959
   }
 ]
