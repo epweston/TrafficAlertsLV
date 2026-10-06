@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58897,
-    "Timestamp": "2026-10-05 16:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:12 PM, Oct 05 2026 Crash on SB Pecos Rd\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806226/attachment_0.png",
-    "Latitude": 36.289791190000003,
-    "Longitude": -115.09897463999999
-  },
-  {
-    "UniqueId": 58898,
-    "Timestamp": "2026-10-05 16:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Tomsik St",
-    "Impact": "",
-    "Notes": "4:18 PM, Oct 05 2026 Crash on EB Sahara Ave\u00A0at Tomsik St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806228/attachment_0.png",
-    "Latitude": 36.143852899999999,
-    "Longitude": -115.2722141
-  },
-  {
-    "UniqueId": 58899,
-    "Timestamp": "2026-10-05 16:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:20 PM, Oct 05 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0before Buffalo Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806242/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
     "UniqueId": 58900,
     "Timestamp": "2026-10-05 16:30",
     "IncidentType": "Crash",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808155/attachment_0.png",
     "Latitude": 35.968342972997235,
     "Longitude": -114.91009383325343
+  },
+  {
+    "UniqueId": 59001,
+    "Timestamp": "2026-10-06 16:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:19 PM, Oct 06 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808159/attachment_0.jpg",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
