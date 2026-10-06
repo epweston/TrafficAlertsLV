@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58868,
-    "Timestamp": "2026-10-05 10:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:58 AM, Oct 05 2026 Crash on SB Dean Martin Dr\u00A0after Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805637/attachment_0.jpg",
-    "Latitude": 36.1008578,
-    "Longitude": -115.1827169
-  },
-  {
-    "UniqueId": 58869,
-    "Timestamp": "2026-10-05 11:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:08 AM, Oct 05 2026 Crash on SB I-15\u00A0to Sahara Ave Off ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805622/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 58870,
     "Timestamp": "2026-10-05 11:38",
     "IncidentType": "Crash",
@@ -1566,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807500/attachment_0.png",
     "Latitude": 36.12947394310789,
     "Longitude": -115.24300934562113
+  },
+  {
+    "UniqueId": 58981,
+    "Timestamp": "2026-10-06 11:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Mm 6",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:27 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0at MM 6. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807673/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 58982,
+    "Timestamp": "2026-10-06 11:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Hoover Dam",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:26 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0before Hoover Dam . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807671/attachment_0.jpg",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
