@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58847,
-    "Timestamp": "2026-10-05 06:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:25 AM, Oct 05 2026 Stalled vehicle on NB I-15\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804910/attachment_0.jpg",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 58848,
     "Timestamp": "2026-10-05 06:32",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806546/attachment_0.png",
     "Latitude": 36.262293700000001,
     "Longitude": -115.0433524
+  },
+  {
+    "UniqueId": 58952,
+    "Timestamp": "2026-10-06 06:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:22 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
