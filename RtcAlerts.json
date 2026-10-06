@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58891,
-    "Timestamp": "2026-10-05 15:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:34 PM, Oct 05 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806218/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 58892,
-    "Timestamp": "2026-10-05 15:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Gore blocked.",
-    "Notes": "3:36 PM, Oct 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806219/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 58893,
-    "Timestamp": "2026-10-05 15:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:42 PM, Oct 05 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806204/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 58894,
     "Timestamp": "2026-10-05 15:46",
     "IncidentType": "Crash",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808103/attachment_0.jpg",
     "Latitude": 36.02763991790971,
     "Longitude": -115.1184797391856
+  },
+  {
+    "UniqueId": 58995,
+    "Timestamp": "2026-10-06 15:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:38 PM, Oct 06 2026 Crash on SB I-15\u00A0at St Rose Pkwy. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808128/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
