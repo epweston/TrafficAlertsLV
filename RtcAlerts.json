@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58827,
-    "Timestamp": "2026-10-04 19:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:04 PM, Oct 04 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/04/file_attachments/3804604/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58828,
     "Timestamp": "2026-10-04 19:34",
     "IncidentType": "Crash",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806289/attachment_0.png",
     "Latitude": 36.032555177363861,
     "Longitude": -115.2078938274455
+  },
+  {
+    "UniqueId": 58911,
+    "Timestamp": "2026-10-05 19:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Owens Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:08 PM, Oct 05 2026 Crash on SB Las Vegas Blvd\u00A0after Owens Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806298/attachment_0.png",
+    "Latitude": 36.188501600000002,
+    "Longitude": -115.1341261
   }
 ]
