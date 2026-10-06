@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58867,
-    "Timestamp": "2026-10-05 10:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spring Valley Parkway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:49 AM, Oct 05 2026 Crash on NB Rainbow Blvd\u00A0at Spring Valley Parkway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805609/attachment_0.jpg",
-    "Latitude": 36.110628699999999,
-    "Longitude": -115.24309150000001
-  },
-  {
     "UniqueId": 58868,
     "Timestamp": "2026-10-05 10:58",
     "IncidentType": "Crash",
@@ -1552,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807494/attachment_0.jpg",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 58979,
+    "Timestamp": "2026-10-06 10:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Hoover Dam Access Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:49 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0at Hoover Dam Access Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807497/attachment_0.jpg",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 58980,
+    "Timestamp": "2026-10-06 10:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:51 AM, Oct 06 2026 Crash on SB Rainbow Blvd\u00A0at Desert Inn Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807500/attachment_0.png",
+    "Latitude": 36.12947394310789,
+    "Longitude": -115.24300934562113
   }
 ]
