@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58851,
-    "Timestamp": "2026-10-05 07:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Intersection partially blocked",
-    "Notes": "7:17 AM, Oct 05 2026 Crash on SB Pecos Rd\u00A0at Hacienda Ave. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805098/attachment_0.jpg",
-    "Latitude": 36.093508800000002,
-    "Longitude": -115.1010242
-  },
-  {
     "UniqueId": 58852,
     "Timestamp": "2026-10-05 07:47",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806648/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 58960,
+    "Timestamp": "2026-10-06 07:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:20 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58961,
+    "Timestamp": "2026-10-06 07:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:21 AM, Oct 06 2026 Crash on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806669/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
