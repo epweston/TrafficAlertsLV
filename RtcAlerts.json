@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58845,
-    "Timestamp": "2026-10-05 05:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "5:57 AM, Oct 05 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804871/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 58846,
-    "Timestamp": "2026-10-05 06:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:03 AM, Oct 05 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 58847,
     "Timestamp": "2026-10-05 06:25",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1440,19 @@
     "ImagePath": "",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 58951,
+    "Timestamp": "2026-10-06 06:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Sloan Lane",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:18 AM, Oct 06 2026 Crash on SB Sloan Lane\u00A0at Ann Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806546/attachment_0.png",
+    "Latitude": 36.262293700000001,
+    "Longitude": -115.0433524
   }
 ]
