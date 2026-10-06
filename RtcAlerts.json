@@ -1440,5 +1440,33 @@
     "ImagePath": "",
     "Latitude": 36.272856280056651,
     "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 58942,
+    "Timestamp": "2026-10-06 03:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 21",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:00 AM, Oct 06 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 58943,
+    "Timestamp": "2026-10-06 03:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:00 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
