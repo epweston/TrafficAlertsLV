@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58900,
-    "Timestamp": "2026-10-05 16:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Wilbur St",
-    "Impact": "",
-    "Notes": "4:30 PM, Oct 05 2026 Crash on WB Tropicana Ave\u00A0before Wilbur St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806234/attachment_0.png",
-    "Latitude": 36.100957899999997,
-    "Longitude": -115.14142750000001
-  },
-  {
-    "UniqueId": 58901,
-    "Timestamp": "2026-10-05 16:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:48 PM, Oct 05 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806237/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 58902,
     "Timestamp": "2026-10-05 16:52",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808159/attachment_0.jpg",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 59002,
+    "Timestamp": "2026-10-06 16:44",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "4:44 PM, Oct 06 2026 Crash on WB 215 Southern Beltway\u00A0before Valle Verde Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808151/attachment_0.jpg",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 59003,
+    "Timestamp": "2026-10-06 16:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Bermuda Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:47 PM, Oct 06 2026 Crash on EB Silverado Ranch Blvd\u00A0after Bermuda Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808153/attachment_0.png",
+    "Latitude": 35.977797807041192,
+    "Longitude": -115.15525817871095
   }
 ]
