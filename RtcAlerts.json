@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58866,
-    "Timestamp": "2026-10-05 10:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "under",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:30 AM, Oct 05 2026 Crash on SB I-15\u00A0under Blue Diamond Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3805561/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 58867,
     "Timestamp": "2026-10-05 10:49",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807280/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58977,
+    "Timestamp": "2026-10-06 10:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:35 AM, Oct 06 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807484/attachment_0.png",
+    "Latitude": 36.274993366998793,
+    "Longitude": -115.20657961738746
   }
 ]
