@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58865,
-    "Timestamp": "2026-10-05 10:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Conquistador St 2",
-    "Impact": "",
-    "Notes": "10:05 AM, Oct 05 2026 Crash on WB Tropicana Ave\u00A0at Conquistador St. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.100198300000002,
-    "Longitude": -115.31084060000001
-  },
-  {
     "UniqueId": 58866,
     "Timestamp": "2026-10-05 10:30",
     "IncidentType": "Crash",
@@ -1524,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807040/attachment_0.png",
     "Latitude": 36.196142600000002,
     "Longitude": -115.2512959
+  },
+  {
+    "UniqueId": 58975,
+    "Timestamp": "2026-10-06 10:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:10 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58976,
+    "Timestamp": "2026-10-06 10:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:10 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807280/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
