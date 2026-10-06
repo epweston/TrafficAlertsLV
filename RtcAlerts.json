@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58838,
-    "Timestamp": "2026-10-05 03:14",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:14 AM, Oct 05 2026 Abandoned vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 58839,
-    "Timestamp": "2026-10-05 03:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:14 AM, Oct 05 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 58840,
-    "Timestamp": "2026-10-05 03:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "3:41 AM, Oct 05 2026 Crash on WB Tropicana Ave\u00A0at I-15. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3804686/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 58841,
     "Timestamp": "2026-10-05 04:17",
     "IncidentType": "Abandoned vehicle",
@@ -1482,5 +1440,47 @@
     "ImagePath": "",
     "Latitude": 36.101021600000003,
     "Longitude": -115.1279854
+  },
+  {
+    "UniqueId": 58945,
+    "Timestamp": "2026-10-06 04:06",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:06 AM, Oct 06 2026 Abandoned vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.272856280056651,
+    "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 58946,
+    "Timestamp": "2026-10-06 04:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:07 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 58947,
+    "Timestamp": "2026-10-06 04:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 21",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:07 AM, Oct 06 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
