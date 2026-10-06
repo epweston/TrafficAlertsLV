@@ -1160,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806321/attachment_0.png",
     "Latitude": 36.009616180087541,
     "Longitude": -115.11710109004405
+  },
+  {
+    "UniqueId": 58922,
+    "Timestamp": "2026-10-05 23:38",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:38 PM, Oct 05 2026 Abandoned vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.272856280056651,
+    "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 58923,
+    "Timestamp": "2026-10-05 23:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 21",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:39 PM, Oct 05 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
