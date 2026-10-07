@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58949,
-    "Timestamp": "2026-10-06 05:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:22 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0at Las Vegas Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806490/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 58950,
     "Timestamp": "2026-10-06 05:46",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1188,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808369/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 59036,
+    "Timestamp": "2026-10-07 05:33",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Mojave Rd",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "5:33 AM, Oct 07 2026 Crash on WB Charleston Blvd\u00A0at Mojave Rd. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808377/attachment_0.jpg",
+    "Latitude": 36.158831611348177,
+    "Longitude": -115.10551943989164
+  },
+  {
+    "UniqueId": 59037,
+    "Timestamp": "2026-10-07 05:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sacramento Dr",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "5:37 AM, Oct 07 2026 Crash on WB Charleston Blvd\u00A0before Sacramento Dr. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808380/attachment_0.png",
+    "Latitude": 36.158839899999997,
+    "Longitude": -115.0873266
+  },
+  {
+    "UniqueId": 59038,
+    "Timestamp": "2026-10-07 05:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:37 AM, Oct 07 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808396/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
