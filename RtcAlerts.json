@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58965,
-    "Timestamp": "2026-10-06 07:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:56 AM, Oct 06 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Losee Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806748/attachment_0.jpg",
-    "Latitude": 36.194565900000001,
-    "Longitude": -115.142901
-  },
-  {
     "UniqueId": 58966,
     "Timestamp": "2026-10-06 08:07",
     "IncidentType": "Crash",
@@ -1174,5 +1160,33 @@
     "ImagePath": "",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 59050,
+    "Timestamp": "2026-10-07 07:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:56 AM, Oct 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Durango Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808725/attachment_0.png",
+    "Latitude": 36.066203023950436,
+    "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 59051,
+    "Timestamp": "2026-10-07 07:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:57 AM, Oct 07 2026 Crash on WB Russell Rd\u00A0at 215 Western Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808712/attachment_0.png",
+    "Latitude": 36.084920609999998,
+    "Longitude": -115.2889589
   }
 ]
