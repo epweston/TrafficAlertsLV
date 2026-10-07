@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58915,
-    "Timestamp": "2026-10-05 20:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:53 PM, Oct 05 2026 Crash on NB University Center Dr\u00A0after Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806309/attachment_0.png",
-    "Latitude": 36.101074300000001,
-    "Longitude": -115.1459157
-  },
-  {
     "UniqueId": 58916,
     "Timestamp": "2026-10-05 22:29",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808229/attachment_0.png",
     "Latitude": 36.071722914345003,
     "Longitude": -115.20788313845949
+  },
+  {
+    "UniqueId": 59022,
+    "Timestamp": "2026-10-06 22:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:08 PM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808231/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
