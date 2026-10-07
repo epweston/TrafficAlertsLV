@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58981,
-    "Timestamp": "2026-10-06 11:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mm 6",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:27 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0at MM 6. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807673/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
-    "UniqueId": 58982,
-    "Timestamp": "2026-10-06 11:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Hoover Dam",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:26 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0before Hoover Dam . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807671/attachment_0.jpg",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 58983,
     "Timestamp": "2026-10-06 11:40",
     "IncidentType": "Crash",
@@ -1202,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809399/attachment_0.png",
     "Latitude": 36.097267000000002,
     "Longitude": -115.1459371
+  },
+  {
+    "UniqueId": 59070,
+    "Timestamp": "2026-10-07 11:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "11:32 AM, Oct 07 2026 Crash on WB Desert Inn Rd\u00A0after Las Vegas Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809456/attachment_0.png",
+    "Latitude": 36.131069769358227,
+    "Longitude": -115.16572637959325
   }
 ]
