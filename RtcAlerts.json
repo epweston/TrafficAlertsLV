@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58909,
-    "Timestamp": "2026-10-05 18:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15 Nb",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:25 PM, Oct 05 2026 Crash on WB Charleston Blvd\u00A0at I-15 NB onramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806287/attachment_0.png",
-    "Latitude": 36.158593400000001,
-    "Longitude": -115.15435890000001
-  },
-  {
     "UniqueId": 58910,
     "Timestamp": "2026-10-05 18:43",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808215/attachment_0.png",
     "Latitude": 36.025615794939291,
     "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 59013,
+    "Timestamp": "2026-10-06 18:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:31 PM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808218/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
