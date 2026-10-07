@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58922,
-    "Timestamp": "2026-10-05 23:38",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:38 PM, Oct 05 2026 Abandoned vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 58923,
-    "Timestamp": "2026-10-05 23:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:39 PM, Oct 05 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58924,
     "Timestamp": "2026-10-06 00:20",
     "IncidentType": "Crash",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808262/attachment_0.png",
     "Latitude": 36.040631599999998,
     "Longitude": -115.19019710000001
+  },
+  {
+    "UniqueId": 59030,
+    "Timestamp": "2026-10-07 00:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:14 AM, Oct 07 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808246/attachment_0.png",
+    "Latitude": 36.070274645187922,
+    "Longitude": -115.28855877956086
   }
 ]
