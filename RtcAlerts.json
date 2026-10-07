@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59003,
-    "Timestamp": "2026-10-06 16:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:47 PM, Oct 06 2026 Crash on EB Silverado Ranch Blvd\u00A0after Bermuda Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808153/attachment_0.png",
-    "Latitude": 35.977797807041192,
-    "Longitude": -115.15525817871095
-  },
-  {
     "UniqueId": 59004,
     "Timestamp": "2026-10-06 17:06",
     "IncidentType": "Crash",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809962/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 59102,
+    "Timestamp": "2026-10-07 16:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Spring Mtn Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:52 PM, Oct 07 2026 Crash on NB I-15 offramp to Spring Mtn Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809942/attachment_0.png",
+    "Latitude": 36.125444299999998,
+    "Longitude": -115.1701368
+  },
+  {
+    "UniqueId": 59103,
+    "Timestamp": "2026-10-07 16:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:54 PM, Oct 07 2026 Crash on WB Charleston Blvd\u00A0at Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809965/attachment_0.png",
+    "Latitude": 36.158829400000002,
+    "Longitude": -115.1728904
   }
 ]
