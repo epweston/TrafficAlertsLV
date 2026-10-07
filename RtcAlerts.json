@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58975,
-    "Timestamp": "2026-10-06 10:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:10 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 58976,
-    "Timestamp": "2026-10-06 10:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:10 AM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807280/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58977,
     "Timestamp": "2026-10-06 10:35",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808995/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59064,
+    "Timestamp": "2026-10-07 10:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:09 AM, Oct 07 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Hualapai Way. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809026/attachment_0.png",
+    "Latitude": 36.281605159999998,
+    "Longitude": -115.3151178
+  },
+  {
+    "UniqueId": 59065,
+    "Timestamp": "2026-10-07 10:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:10 AM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809005/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
