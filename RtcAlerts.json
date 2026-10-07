@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58910,
-    "Timestamp": "2026-10-05 18:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:43 PM, Oct 05 2026 Crash on WB Blue Diamond Rd\u00A0before Decatur Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806289/attachment_0.png",
-    "Latitude": 36.032555177363861,
-    "Longitude": -115.2078938274455
-  },
-  {
-    "UniqueId": 58911,
-    "Timestamp": "2026-10-05 19:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Owens Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:08 PM, Oct 05 2026 Crash on SB Las Vegas Blvd\u00A0after Owens Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806298/attachment_0.png",
-    "Latitude": 36.188501600000002,
-    "Longitude": -115.1341261
-  },
-  {
-    "UniqueId": 58912,
-    "Timestamp": "2026-10-05 19:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:25 PM, Oct 05 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806302/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58913,
     "Timestamp": "2026-10-05 19:53",
     "IncidentType": "Crash",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808218/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 59014,
+    "Timestamp": "2026-10-06 19:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:21 PM, Oct 06 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808220/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
