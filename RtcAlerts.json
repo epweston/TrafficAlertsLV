@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58951,
-    "Timestamp": "2026-10-06 06:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sloan Lane",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:18 AM, Oct 06 2026 Crash on SB Sloan Lane\u00A0at Ann Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806546/attachment_0.png",
-    "Latitude": 36.262293700000001,
-    "Longitude": -115.0433524
-  },
-  {
-    "UniqueId": 58952,
-    "Timestamp": "2026-10-06 06:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58953,
     "Timestamp": "2026-10-06 06:32",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808413/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 59042,
+    "Timestamp": "2026-10-07 06:21",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Westcliff Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:21 AM, Oct 07 2026 Police activity on NB Rainbow Blvd\u00A0after Westcliff Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808431/attachment_0.png",
+    "Latitude": 36.173828941432035,
+    "Longitude": -115.24431824265436
   }
 ]
