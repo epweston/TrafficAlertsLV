@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58950,
-    "Timestamp": "2026-10-06 05:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:46 AM, Oct 06 2026 Stalled vehicle on SB I-15\u00A0at Mile 21. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 58951,
     "Timestamp": "2026-10-06 06:18",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808396/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 59039,
+    "Timestamp": "2026-10-07 05:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:47 AM, Oct 07 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808404/attachment_0.jpg",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
