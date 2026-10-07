@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 58924,
-    "Timestamp": "2026-10-06 00:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "All ramp lanes are blocked. Use other routes",
-    "Notes": "12:20 AM, Oct 06 2026 Crash on NB I-11\u00A0at Rancho Dr. All ramp lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806340/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 58925,
-    "Timestamp": "2026-10-06 00:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "12:23 AM, Oct 06 2026 Crash on NB I-11\u00A0at Rancho Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 58926,
-    "Timestamp": "2026-10-06 00:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:27 AM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 58927,
     "Timestamp": "2026-10-06 00:41",
     "IncidentType": "Crash",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808246/attachment_0.png",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 59031,
+    "Timestamp": "2026-10-07 00:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "12:29 AM, Oct 07 2026 Crash on WB Charleston Blvd\u00A0at I-15. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808270/attachment_0.png",
+    "Latitude": 36.158996094562028,
+    "Longitude": -115.16085736012774
   }
 ]
