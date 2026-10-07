@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58967,
-    "Timestamp": "2026-10-06 08:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:18 AM, Oct 06 2026 Crash on EB Cheyenne Ave\u00A0at Rainbow Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806785/attachment_0.jpg",
-    "Latitude": 36.21818917814025,
-    "Longitude": -115.24231732625714
-  },
-  {
     "UniqueId": 58968,
     "Timestamp": "2026-10-06 08:34",
     "IncidentType": "Vehicle on fire",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808778/attachment_0.png",
     "Latitude": 36.129531700000001,
     "Longitude": -115.2430957
+  },
+  {
+    "UniqueId": 59055,
+    "Timestamp": "2026-10-07 08:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:17 AM, Oct 07 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808767/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
