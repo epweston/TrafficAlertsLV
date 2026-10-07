@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58906,
-    "Timestamp": "2026-10-05 17:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:35 PM, Oct 05 2026 Crash on SB I-15\u00A0before Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806268/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 58907,
-    "Timestamp": "2026-10-05 17:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:42 PM, Oct 05 2026 Crash on SB I-11\u00A0to Rainbow Blvd off ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806283/attachment_0.jpg",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 58908,
     "Timestamp": "2026-10-05 17:49",
     "IncidentType": "Crash",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808167/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 59008,
+    "Timestamp": "2026-10-06 17:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:42 PM, Oct 06 2026 Crash on NB I-11\u00A0before Decatur Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808187/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
