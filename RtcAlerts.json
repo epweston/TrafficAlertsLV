@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58990,
-    "Timestamp": "2026-10-06 13:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Honolulu St",
-    "Impact": "",
-    "Notes": "1:58 PM, Oct 06 2026 Crash on EB Charleston Blvd\u00A0before Honolulu St. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808008/attachment_0.png",
-    "Latitude": 36.158926000000001,
-    "Longitude": -115.0935965
-  },
-  {
     "UniqueId": 58991,
     "Timestamp": "2026-10-06 14:52",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809766/attachment_0.jpg",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 59080,
+    "Timestamp": "2026-10-07 13:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "from",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:59 PM, Oct 07 2026 Crash on SB I-15 onramp from Cheyenne Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809803/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
