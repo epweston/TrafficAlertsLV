@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58919,
-    "Timestamp": "2026-10-05 23:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:06 PM, Oct 05 2026 Crash on WB Cactus Ave\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 35.999014299999999,
-    "Longitude": -115.18064087000001
-  },
-  {
     "UniqueId": 58920,
     "Timestamp": "2026-10-05 23:21",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808236/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 59026,
+    "Timestamp": "2026-10-06 23:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Commerce St 3",
+    "Impact": "",
+    "Notes": "11:02 PM, Oct 06 2026 Crash on WB Craig Rd\u00A0at Commerce St. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808238/attachment_0.jpg",
+    "Latitude": 36.239424999999997,
+    "Longitude": -115.1437603
   }
 ]
