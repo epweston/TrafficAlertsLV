@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58988,
-    "Timestamp": "2026-10-06 13:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:03 PM, Oct 06 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807915/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 58989,
-    "Timestamp": "2026-10-06 13:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:08 PM, Oct 06 2026 Crash on WB Flamingo Rd\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807926/attachment_0.png",
-    "Latitude": 36.114910159946909,
-    "Longitude": -115.06676135245121
-  },
-  {
     "UniqueId": 58990,
     "Timestamp": "2026-10-06 13:58",
     "IncidentType": "Crash",
@@ -1202,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809562/attachment_0.jpg",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 59076,
+    "Timestamp": "2026-10-07 13:21",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:21 PM, Oct 07 2026 Crash on SB Paradise Rd\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809690/attachment_0.png",
+    "Latitude": 36.089409500000002,
+    "Longitude": -115.1461541
   }
 ]
