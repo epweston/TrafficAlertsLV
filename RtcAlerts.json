@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58964,
-    "Timestamp": "2026-10-06 07:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Obannon Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:38 AM, Oct 06 2026 Crash on NB Durango Dr\u00A0at Obannon Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806734/attachment_0.jpg",
-    "Latitude": 36.147814199999999,
-    "Longitude": -115.2793053
-  },
-  {
     "UniqueId": 58965,
     "Timestamp": "2026-10-06 07:56",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808593/attachment_0.png",
     "Latitude": 36.071562900000004,
     "Longitude": -115.1878632
+  },
+  {
+    "UniqueId": 59049,
+    "Timestamp": "2026-10-07 07:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:37 AM, Oct 07 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
