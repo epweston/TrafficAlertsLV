@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58968,
-    "Timestamp": "2026-10-06 08:34",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "8:34 AM, Oct 06 2026 Vehicle on fire on SB I-11\u00A0at Cheyenne Ave. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806841/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 58969,
     "Timestamp": "2026-10-06 08:45",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808792/attachment_0.png",
     "Latitude": 36.125568999999999,
     "Longitude": -115.1769268
+  },
+  {
+    "UniqueId": 59058,
+    "Timestamp": "2026-10-07 08:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:39 AM, Oct 07 2026 Stalled vehicle on WB Sunset Rd\u00A0at I-11. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808817/attachment_0.png",
+    "Latitude": 36.070325995097008,
+    "Longitude": -115.28861636686682
   }
 ]
