@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58970,
-    "Timestamp": "2026-10-06 09:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Riverside Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:00 AM, Oct 06 2026 Crash on SB Rancho Dr\u00A0at Riverside Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3806900/attachment_0.jpg",
-    "Latitude": 36.185169600000002,
-    "Longitude": -115.183008
-  },
-  {
     "UniqueId": 58971,
     "Timestamp": "2026-10-06 09:32",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808846/attachment_0.jpg",
     "Latitude": 36.164328699999999,
     "Longitude": -115.12925180000001
+  },
+  {
+    "UniqueId": 59061,
+    "Timestamp": "2026-10-07 09:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Stephanie St",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:21 AM, Oct 07 2026 Stalled vehicle on NB Stephanie St\u00A0at Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808938/attachment_0.png",
+    "Latitude": 36.083983199999999,
+    "Longitude": -115.04395289999999
   }
 ]
