@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58908,
-    "Timestamp": "2026-10-05 17:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:49 PM, Oct 05 2026 Crash on NB I-15 \u00A0before I-11. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806274/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 58909,
     "Timestamp": "2026-10-05 18:25",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808187/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 59009,
+    "Timestamp": "2026-10-06 17:54",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:54 PM, Oct 06 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808171/attachment_0.png",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
