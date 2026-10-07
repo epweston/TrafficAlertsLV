@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 58913,
-    "Timestamp": "2026-10-05 19:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left and right shoulders blocked.",
-    "Notes": "7:53 PM, Oct 05 2026 Crash on SB I-11\u00A0at Decatur Blvd. Left and right shoulders blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/05/file_attachments/3806304/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 58915,
     "Timestamp": "2026-10-05 20:53",
     "IncidentType": "Crash",
@@ -1412,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808221/attachment_0.png",
     "Latitude": 35.99545027410926,
     "Longitude": -114.93416109029313
+  },
+  {
+    "UniqueId": 59016,
+    "Timestamp": "2026-10-06 20:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:02 PM, Oct 06 2026 Crash on NB Jones Blvd\u00A0before Cheyenne Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808201/attachment_0.png",
+    "Latitude": 36.216773099999998,
+    "Longitude": -115.2258042
+  },
+  {
+    "UniqueId": 59017,
+    "Timestamp": "2026-10-06 20:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:03 PM, Oct 06 2026 Crash on WB Silverado Ranch Blvd\u00A0after Maryland Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808202/attachment_0.png",
+    "Latitude": 36.013342299999998,
+    "Longitude": -115.13679740000001
   }
 ]
