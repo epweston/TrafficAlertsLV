@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59001,
-    "Timestamp": "2026-10-06 16:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:19 PM, Oct 06 2026 Crash on SB I-11\u00A0at Rancho Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808159/attachment_0.jpg",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 59002,
     "Timestamp": "2026-10-06 16:44",
     "IncidentType": "Crash",
@@ -1300,5 +1286,33 @@
     "ImagePath": "",
     "Latitude": 36.195828187540954,
     "Longitude": -115.12068987207307
+  },
+  {
+    "UniqueId": 59096,
+    "Timestamp": "2026-10-07 16:20",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Marion Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:20 PM, Oct 07 2026 Crash on EB Lake Mead Blvd\u00A0at Marion Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809929/attachment_0.png",
+    "Latitude": 36.195929499999998,
+    "Longitude": -115.0710338
+  },
+  {
+    "UniqueId": 59097,
+    "Timestamp": "2026-10-07 16:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:19 PM, Oct 07 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809931/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
