@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 58986,
-    "Timestamp": "2026-10-06 12:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right-turn lane blocked.",
-    "Notes": "12:45 PM, Oct 06 2026 Crash on EB Cactus Ave\u00A0at Las Vegas Blvd. Right-turn lane blocked.",
-    "ImagePath": "",
-    "Latitude": 35.999254200000003,
-    "Longitude": -115.1726451
-  },
-  {
-    "UniqueId": 58987,
-    "Timestamp": "2026-10-06 12:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Apex",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:47 PM, Oct 06 2026 Stalled vehicle on SB I-15\u00A0at Apex. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3807864/attachment_0.jpg",
-    "Latitude": 36.1113748,
-    "Longitude": -115.2603953
-  },
-  {
     "UniqueId": 58988,
     "Timestamp": "2026-10-06 13:03",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809532/attachment_0.png",
     "Latitude": 36.159088099999998,
     "Longitude": -115.2168951
+  },
+  {
+    "UniqueId": 59075,
+    "Timestamp": "2026-10-07 12:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:48 PM, Oct 07 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809562/attachment_0.jpg",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
