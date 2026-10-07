@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59002,
-    "Timestamp": "2026-10-06 16:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:44 PM, Oct 06 2026 Crash on WB 215 Southern Beltway\u00A0before Valle Verde Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808151/attachment_0.jpg",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 59003,
     "Timestamp": "2026-10-06 16:47",
     "IncidentType": "Crash",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809937/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 59100,
+    "Timestamp": "2026-10-07 16:39",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:39 PM, Oct 07 2026 Crash on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809940/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 59101,
+    "Timestamp": "2026-10-07 16:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:42 PM, Oct 07 2026 Crash on SB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809962/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
