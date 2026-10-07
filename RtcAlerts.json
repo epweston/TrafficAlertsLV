@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59000,
-    "Timestamp": "2026-10-06 16:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Railroad Pass Casino Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:06 PM, Oct 06 2026 Stalled vehicle on NB I-11 \u00A0at Railroad Pass Casino Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808155/attachment_0.png",
-    "Latitude": 35.968342972997235,
-    "Longitude": -114.91009383325343
-  },
-  {
     "UniqueId": 59001,
     "Timestamp": "2026-10-06 16:19",
     "IncidentType": "Crash",
@@ -1286,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809906/attachment_0.jpg",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 59094,
+    "Timestamp": "2026-10-07 16:10",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Mcdaniel St",
+    "Impact": "",
+    "Notes": "4:10 PM, Oct 07 2026 Crash on EB Lake Mead Blvd\u00A0at McDaniel St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809910/attachment_0.png",
+    "Latitude": 36.195828187540954,
+    "Longitude": -115.12068987207307
+  },
+  {
+    "UniqueId": 59095,
+    "Timestamp": "2026-10-07 16:10",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Mcdaniel St",
+    "Impact": "",
+    "Notes": "4:10 PM, Oct 07 2026 Crash on EB Lake Mead Blvd\u00A0at McDaniel St. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195828187540954,
+    "Longitude": -115.12068987207307
   }
 ]
