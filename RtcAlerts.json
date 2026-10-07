@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 58995,
-    "Timestamp": "2026-10-06 15:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:38 PM, Oct 06 2026 Crash on SB I-15\u00A0at St Rose Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808128/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 58996,
-    "Timestamp": "2026-10-06 15:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:43 PM, Oct 06 2026 Stalled vehicle on EB Sunset Rd\u00A0before 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808131/attachment_0.png",
-    "Latitude": 36.070283269266724,
-    "Longitude": -115.28855873027267
-  },
-  {
-    "UniqueId": 58997,
-    "Timestamp": "2026-10-06 15:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Sandhill Rd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "3:45 PM, Oct 06 2026 Crash on EB Washington Ave\u00A0at Sandhill Rd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808110/attachment_0.png",
-    "Latitude": 36.180818199999997,
-    "Longitude": -115.08920879999999
-  },
-  {
-    "UniqueId": 58998,
-    "Timestamp": "2026-10-06 15:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:53 PM, Oct 06 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808138/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 58999,
     "Timestamp": "2026-10-06 15:57",
     "IncidentType": "Crash",
@@ -1300,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809884/attachment_0.png",
     "Latitude": 36.10072919730861,
     "Longitude": -115.18071603717371
+  },
+  {
+    "UniqueId": 59090,
+    "Timestamp": "2026-10-07 15:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:47 PM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809890/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 59091,
+    "Timestamp": "2026-10-07 15:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Eb 215 Northern Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:49 PM, Oct 07 2026 Crash on NB I-11\u00A0to EB 215 Northern Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809913/attachment_0.png",
+    "Latitude": 36.033552862846953,
+    "Longitude": -115.01434604859962
   }
 ]
