@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59040,
-    "Timestamp": "2026-10-07 06:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:09 AM, Oct 07 2026 Crash on NB I-15\u00A0after Lamb Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808420/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 59041,
-    "Timestamp": "2026-10-07 06:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:10 AM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808413/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 59042,
-    "Timestamp": "2026-10-07 06:21",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Westcliff Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:21 AM, Oct 07 2026 Police activity on NB Rainbow Blvd\u00A0after Westcliff Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808431/attachment_0.png",
-    "Latitude": 36.173828941432035,
-    "Longitude": -115.24431824265436
-  },
-  {
-    "UniqueId": 59043,
-    "Timestamp": "2026-10-07 06:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:35 AM, Oct 07 2026 Crash on WB Tropicana Ave\u00A0before 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808469/attachment_0.png",
-    "Latitude": 36.100018540000001,
-    "Longitude": -115.29390152000001
-  },
-  {
     "UniqueId": 59044,
     "Timestamp": "2026-10-07 06:44",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810217/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 59142,
+    "Timestamp": "2026-10-08 06:33",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Lone Mountain Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:33 AM, Oct 08 2026 Abandoned vehicle on NB 215 Western Beltway\u00A0at Lone Mountain Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810267/attachment_0.jpg",
+    "Latitude": 36.247864105361664,
+    "Longitude": -115.3179235052795
+  },
+  {
+    "UniqueId": 59143,
+    "Timestamp": "2026-10-08 06:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:34 AM, Oct 08 2026 Crash on SB Rancho Dr\u00A0after Washington Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810287/attachment_0.png",
+    "Latitude": 36.181090300000008,
+    "Longitude": -115.1791041
   }
 ]
