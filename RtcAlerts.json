@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59044,
-    "Timestamp": "2026-10-07 06:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:44 AM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808502/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 59045,
     "Timestamp": "2026-10-07 06:55",
     "IncidentType": "Crash",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810287/attachment_0.png",
     "Latitude": 36.181090300000008,
     "Longitude": -115.1791041
+  },
+  {
+    "UniqueId": 59144,
+    "Timestamp": "2026-10-08 06:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:46 AM, Oct 08 2026 Crash on SB Airport Connector\u00A0before 215 Southern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810296/attachment_0.jpg",
+    "Latitude": 36.062835170418339,
+    "Longitude": -115.14972675273315
+  },
+  {
+    "UniqueId": 59145,
+    "Timestamp": "2026-10-08 06:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Elkhorn Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:47 AM, Oct 08 2026 Crash on EB Elkhorn Rd\u00A0at I-11. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810315/attachment_0.png",
+    "Latitude": 36.292112099999997,
+    "Longitude": -115.317025
   }
 ]
