@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59014,
-    "Timestamp": "2026-10-06 19:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:21 PM, Oct 06 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808220/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 59015,
-    "Timestamp": "2026-10-06 19:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:24 PM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0from Wagon Wheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808221/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 59016,
     "Timestamp": "2026-10-06 20:02",
     "IncidentType": "Crash",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810021/attachment_0.png",
     "Latitude": 36.299418699999997,
     "Longitude": -115.3148379
+  },
+  {
+    "UniqueId": 59120,
+    "Timestamp": "2026-10-07 19:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Middle lane blocked.",
+    "Notes": "7:32 PM, Oct 07 2026 Stalled vehicle on NB I-11 offramp to Rainbow Blvd. Middle lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810011/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
