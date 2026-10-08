@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59101,
-    "Timestamp": "2026-10-07 16:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:42 PM, Oct 07 2026 Crash on SB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809962/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 59102,
     "Timestamp": "2026-10-07 16:52",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811435/attachment_0.png",
     "Latitude": 36.291693742081051,
     "Longitude": -115.2797598374233
+  },
+  {
+    "UniqueId": 59187,
+    "Timestamp": "2026-10-08 16:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:43 PM, Oct 08 2026 Crash on SB I-15\u00A0before Spring Mountain Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811438/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
