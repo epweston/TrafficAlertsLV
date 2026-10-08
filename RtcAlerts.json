@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59094,
-    "Timestamp": "2026-10-07 16:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Mcdaniel St",
-    "Impact": "",
-    "Notes": "4:10 PM, Oct 07 2026 Crash on EB Lake Mead Blvd\u00A0at McDaniel St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809910/attachment_0.png",
-    "Latitude": 36.195828187540954,
-    "Longitude": -115.12068987207307
-  },
-  {
-    "UniqueId": 59095,
-    "Timestamp": "2026-10-07 16:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Mcdaniel St",
-    "Impact": "",
-    "Notes": "4:10 PM, Oct 07 2026 Crash on EB Lake Mead Blvd\u00A0at McDaniel St. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195828187540954,
-    "Longitude": -115.12068987207307
-  },
-  {
     "UniqueId": 59096,
     "Timestamp": "2026-10-07 16:20",
     "IncidentType": "Crash",
@@ -40,20 +12,6 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809929/attachment_0.png",
     "Latitude": 36.195929499999998,
     "Longitude": -115.0710338
-  },
-  {
-    "UniqueId": 59097,
-    "Timestamp": "2026-10-07 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:19 PM, Oct 07 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809931/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
   },
   {
     "UniqueId": 59098,
@@ -1174,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811418/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 59181,
+    "Timestamp": "2026-10-08 16:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:14 PM, Oct 08 2026 Stalled vehicle on SB I-11\u00A0to 215 Northern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811409/attachment_0.png",
+    "Latitude": 36.033552862846953,
+    "Longitude": -115.01434604859962
   }
 ]
