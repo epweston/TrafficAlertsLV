@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59028,
-    "Timestamp": "2026-10-06 23:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:30 PM, Oct 06 2026 Stalled vehicle on NB I-11\u00A0to Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808239/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 59029,
-    "Timestamp": "2026-10-06 23:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "4 Right lanes blocked.",
-    "Notes": "11:32 PM, Oct 06 2026 Crash on EB Blue Diamond Rd\u00A0at Valley View Blvd. 4 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808262/attachment_0.png",
-    "Latitude": 36.040631599999998,
-    "Longitude": -115.19019710000001
-  },
-  {
-    "UniqueId": 59030,
-    "Timestamp": "2026-10-07 00:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:14 AM, Oct 07 2026 Stalled vehicle on SB 215 Western Beltway\u00A0after Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808246/attachment_0.png",
-    "Latitude": 36.070274645187922,
-    "Longitude": -115.28855877956086
-  },
-  {
-    "UniqueId": 59031,
-    "Timestamp": "2026-10-07 00:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "12:29 AM, Oct 07 2026 Crash on WB Charleston Blvd\u00A0at I-15. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808270/attachment_0.png",
-    "Latitude": 36.158996094562028,
-    "Longitude": -115.16085736012774
-  },
-  {
     "UniqueId": 59032,
     "Timestamp": "2026-10-07 02:24",
     "IncidentType": "Crash",
@@ -1426,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810059/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 59133,
+    "Timestamp": "2026-10-08 00:27",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:27 AM, Oct 08 2026 Crash on EB 215 Southern Beltway\u00A0to Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810065/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
