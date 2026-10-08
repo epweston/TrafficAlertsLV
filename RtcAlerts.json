@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59068,
-    "Timestamp": "2026-10-07 10:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:34 AM, Oct 07 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809115/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 59069,
     "Timestamp": "2026-10-07 11:00",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810787/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 59155,
+    "Timestamp": "2026-10-08 10:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:54 AM, Oct 08 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810863/attachment_0.png",
+    "Latitude": 36.261637469999997,
+    "Longitude": -115.32673715999999
   }
 ]
