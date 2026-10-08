@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59008,
-    "Timestamp": "2026-10-06 17:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:42 PM, Oct 06 2026 Crash on NB I-11\u00A0before Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808187/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 59009,
-    "Timestamp": "2026-10-06 17:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:54 PM, Oct 06 2026 Crash on EB 215 Southern Beltway\u00A0at Green Valley Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808171/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 59010,
-    "Timestamp": "2026-10-06 18:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:00 PM, Oct 06 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808193/attachment_0.jpg",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 59011,
     "Timestamp": "2026-10-06 18:05",
     "IncidentType": "Vehicle on fire",
@@ -1384,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809951/attachment_0.png",
     "Latitude": 36.272856280056651,
     "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 59109,
+    "Timestamp": "2026-10-07 18:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm",
+    "Impact": "MM1 Right shoulder blocked.",
+    "Notes": "6:01 PM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at Primm. MM1 Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809999/attachment_0.png",
+    "Latitude": 35.607103427439853,
+    "Longitude": -115.39133563837639
   }
 ]
