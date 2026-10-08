@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59018,
-    "Timestamp": "2026-10-06 20:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:06 PM, Oct 06 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808225/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 59019,
     "Timestamp": "2026-10-06 20:15",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810012/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 59122,
+    "Timestamp": "2026-10-07 20:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "4 Left lanes blocked.",
+    "Notes": "8:11 PM, Oct 07 2026 Crash on SB Rainbow Blvd\u00A0at Sunset Rd. 4 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810025/attachment_0.png",
+    "Latitude": 36.070543507237815,
+    "Longitude": -115.24253723908187
   }
 ]
