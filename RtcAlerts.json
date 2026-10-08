@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59016,
-    "Timestamp": "2026-10-06 20:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:02 PM, Oct 06 2026 Crash on NB Jones Blvd\u00A0before Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808201/attachment_0.png",
-    "Latitude": 36.216773099999998,
-    "Longitude": -115.2258042
-  },
-  {
-    "UniqueId": 59017,
-    "Timestamp": "2026-10-06 20:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:03 PM, Oct 06 2026 Crash on WB Silverado Ranch Blvd\u00A0after Maryland Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/06/file_attachments/3808202/attachment_0.png",
-    "Latitude": 36.013342299999998,
-    "Longitude": -115.13679740000001
-  },
-  {
     "UniqueId": 59018,
     "Timestamp": "2026-10-06 20:06",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810011/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 59121,
+    "Timestamp": "2026-10-07 19:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:58 PM, Oct 07 2026 Stalled vehicle on SB I-15 Ramp at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810012/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
