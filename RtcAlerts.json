@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59070,
-    "Timestamp": "2026-10-07 11:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "11:32 AM, Oct 07 2026 Crash on WB Desert Inn Rd\u00A0after Las Vegas Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809456/attachment_0.png",
-    "Latitude": 36.131069769358227,
-    "Longitude": -115.16572637959325
-  },
-  {
     "UniqueId": 59071,
     "Timestamp": "2026-10-07 12:00",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810875/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 59157,
+    "Timestamp": "2026-10-08 11:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:32 AM, Oct 08 2026 Crash on SB Las Vegas Blvd\u00A0before Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810930/attachment_0.png",
+    "Latitude": 36.114659896847385,
+    "Longitude": -115.17288892246221
   }
 ]
