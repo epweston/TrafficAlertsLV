@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59081,
-    "Timestamp": "2026-10-07 14:11",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Somerset Hills Ave",
-    "Relationship": "at",
-    "CrossStreet": "Balmoral St",
-    "Impact": "",
-    "Notes": "2:11 PM, Oct 07 2026 Crash on WB Somerset Hills Ave\u00A0at Balmoral St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809819/attachment_0.jpg",
-    "Latitude": 35.995063799999997,
-    "Longitude": -115.22323059999999
-  },
-  {
-    "UniqueId": 59082,
-    "Timestamp": "2026-10-07 14:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:18 PM, Oct 07 2026 Stalled vehicle on NB I-15\u00A0after Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809834/attachment_0.png",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
-    "UniqueId": 59083,
-    "Timestamp": "2026-10-07 14:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:24 PM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0to 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809826/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 59084,
     "Timestamp": "2026-10-07 14:27",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811276/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 59168,
+    "Timestamp": "2026-10-08 14:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "",
+    "Notes": "2:22 PM, Oct 08 2026 Stalled vehicle on SB I-15\u00A0before St. Rose Pkwy Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811289/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
