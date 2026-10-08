@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59048,
-    "Timestamp": "2026-10-07 07:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Procyon St",
-    "Impact": "",
-    "Notes": "7:31 AM, Oct 07 2026 Crash on EB Sunset Rd\u00A0at Procyon St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3808593/attachment_0.png",
-    "Latitude": 36.071562900000004,
-    "Longitude": -115.1878632
-  },
-  {
-    "UniqueId": 59049,
-    "Timestamp": "2026-10-07 07:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:37 AM, Oct 07 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 59050,
     "Timestamp": "2026-10-07 07:56",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810359/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59147,
+    "Timestamp": "2026-10-08 07:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Garces Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:41 AM, Oct 08 2026 Crash on WB Garces Ave\u00A0at Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810411/attachment_0.png",
+    "Latitude": 36.162279599999998,
+    "Longitude": -115.1452867
   }
 ]
