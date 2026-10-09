@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59134,
-    "Timestamp": "2026-10-08 00:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:50 AM, Oct 08 2026 Stalled vehicle on SB I-11\u00A0to 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810047/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 59136,
     "Timestamp": "2026-10-08 04:09",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811542/attachment_0.jpg",
     "Latitude": 36.144334299999997,
     "Longitude": -115.1908894
+  },
+  {
+    "UniqueId": 59225,
+    "Timestamp": "2026-10-09 00:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blude Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:48 AM, Oct 09 2026 Crash on WB Blude Diamond Rd\u00A0at Rainbow Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811544/attachment_0.png",
+    "Latitude": 36.022550799999998,
+    "Longitude": -115.2434145
   }
 ]
