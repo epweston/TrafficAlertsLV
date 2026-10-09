@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59124,
-    "Timestamp": "2026-10-07 20:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "",
-    "Notes": "8:41 PM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at Main St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810028/attachment_0.png",
-    "Latitude": 36.175399899145084,
-    "Longitude": -115.14399336646459
-  },
-  {
     "UniqueId": 59125,
     "Timestamp": "2026-10-07 20:50",
     "IncidentType": "Crash",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811507/attachment_0.png",
     "Latitude": 36.108088801530357,
     "Longitude": -115.05910634994508
+  },
+  {
+    "UniqueId": 59217,
+    "Timestamp": "2026-10-08 20:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "8:42 PM, Oct 08 2026 Crash on NB Rainbow Blvd\u00A0before Blue Diamond Rd. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811508/attachment_0.png",
+    "Latitude": 36.022550799999998,
+    "Longitude": -115.2434145
   }
 ]
