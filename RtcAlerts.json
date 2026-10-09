@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59144,
-    "Timestamp": "2026-10-08 06:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:46 AM, Oct 08 2026 Crash on SB Airport Connector\u00A0before 215 Southern Beltway. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810296/attachment_0.jpg",
-    "Latitude": 36.062835170418339,
-    "Longitude": -115.14972675273315
-  },
-  {
-    "UniqueId": 59145,
-    "Timestamp": "2026-10-08 06:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Elkhorn Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:47 AM, Oct 08 2026 Crash on EB Elkhorn Rd\u00A0at I-11. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810315/attachment_0.png",
-    "Latitude": 36.292112099999997,
-    "Longitude": -115.317025
-  },
-  {
     "UniqueId": 59146,
     "Timestamp": "2026-10-08 07:22",
     "IncidentType": "Stalled vehicle",
@@ -1256,6 +1228,20 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "6:33 AM, Oct 09 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811759/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 59235,
+    "Timestamp": "2026-10-09 06:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:54 AM, Oct 09 2026 Crash on SB I-15\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811814/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
   }
