@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59138,
-    "Timestamp": "2026-10-08 04:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:38 AM, Oct 08 2026 Crash on WB Flamingo Rd\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810127/attachment_0.png",
-    "Latitude": 36.114684821466277,
-    "Longitude": -115.11920926333367
-  },
-  {
-    "UniqueId": 59139,
-    "Timestamp": "2026-10-08 04:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Oso Blanca Rd",
-    "Relationship": "after",
-    "CrossStreet": "Farm Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:40 AM, Oct 08 2026 Crash on SB Oso Blanca Rd\u00A0after Farm Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810136/attachment_0.png",
-    "Latitude": 36.299093200000002,
-    "Longitude": -115.2890927
-  },
-  {
     "UniqueId": 59140,
     "Timestamp": "2026-10-08 06:02",
     "IncidentType": "Crash",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811618/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 59231,
+    "Timestamp": "2026-10-09 05:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Maule Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "5:39 AM, Oct 09 2026 Crash on NB Eastern Ave\u00A0at Maule Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811678/attachment_0.png",
+    "Latitude": 36.064393000000003,
+    "Longitude": -115.1185065
   }
 ]
