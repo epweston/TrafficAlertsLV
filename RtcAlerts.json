@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59130,
-    "Timestamp": "2026-10-07 23:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "11:07 PM, Oct 07 2026 Crash on EB Cactus Ave\u00A0at Jones Blvd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810044/attachment_0.jpg",
-    "Latitude": 35.998667191475242,
-    "Longitude": -115.22549452599732
-  },
-  {
-    "UniqueId": 59131,
-    "Timestamp": "2026-10-07 23:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:15 PM, Oct 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810059/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 59133,
-    "Timestamp": "2026-10-08 00:27",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:27 AM, Oct 08 2026 Crash on EB 215 Southern Beltway\u00A0to Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810065/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 59134,
     "Timestamp": "2026-10-08 00:50",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811534/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59222,
+    "Timestamp": "2026-10-09 00:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bridger Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:24 AM, Oct 09 2026 Crash on SB Las Vegas Blvd\u00A0at Bridger Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811527/attachment_0.png",
+    "Latitude": 36.166891999999997,
+    "Longitude": -115.1421349
+  },
+  {
+    "UniqueId": 59223,
+    "Timestamp": "2026-10-09 00:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Cedar Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:26 AM, Oct 09 2026 Crash on SB Eastern Ave\u00A0at Cedar Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811528/attachment_0.png",
+    "Latitude": 36.170193900000001,
+    "Longitude": -115.11608270000001
   }
 ]
