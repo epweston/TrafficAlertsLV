@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59102,
-    "Timestamp": "2026-10-07 16:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Spring Mtn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:52 PM, Oct 07 2026 Crash on NB I-15 offramp to Spring Mtn Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809942/attachment_0.png",
-    "Latitude": 36.125444299999998,
-    "Longitude": -115.1701368
-  },
-  {
-    "UniqueId": 59103,
-    "Timestamp": "2026-10-07 16:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:54 PM, Oct 07 2026 Crash on WB Charleston Blvd\u00A0at Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809965/attachment_0.png",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
-    "UniqueId": 59104,
-    "Timestamp": "2026-10-07 16:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Farm Rd",
-    "Relationship": "after",
-    "CrossStreet": "Oso Blanca Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:57 PM, Oct 07 2026 Crash on WB Farm Rd\u00A0after Oso Blanca Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809968/attachment_0.png",
-    "Latitude": 36.299093200000002,
-    "Longitude": -115.2890927
-  },
-  {
-    "UniqueId": 59105,
-    "Timestamp": "2026-10-07 16:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:58 PM, Oct 07 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809944/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 59106,
     "Timestamp": "2026-10-07 17:18",
     "IncidentType": "Crash",
@@ -1174,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811431/attachment_0.png",
     "Latitude": 36.502189514814987,
     "Longitude": -114.76155817508699
+  },
+  {
+    "UniqueId": 59189,
+    "Timestamp": "2026-10-08 16:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:59 PM, Oct 08 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811443/attachment_0.jpg",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
