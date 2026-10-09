@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59119,
-    "Timestamp": "2026-10-07 19:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Farm Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:04 PM, Oct 07 2026 Crash on SB Hualapai Way\u00A0at Farm Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810021/attachment_0.png",
-    "Latitude": 36.299418699999997,
-    "Longitude": -115.3148379
-  },
-  {
     "UniqueId": 59120,
     "Timestamp": "2026-10-07 19:32",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811501/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 59213,
+    "Timestamp": "2026-10-08 19:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:13 PM, Oct 08 2026 Stalled vehicle on SB I-11\u00A0before Summerlin Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811485/attachment_0.png",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
   }
 ]
