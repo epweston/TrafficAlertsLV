@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59110,
-    "Timestamp": "2026-10-07 18:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left - Right shoulder blocked.",
-    "Notes": "6:05 PM, Oct 07 2026 Crash on WB 215 Southern Beltway\u00A0at Jones Blvd. Left - Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809988/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 59111,
     "Timestamp": "2026-10-07 18:11",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811464/attachment_0.png",
     "Latitude": 36.217594200000001,
     "Longitude": -115.12107260000001
+  },
+  {
+    "UniqueId": 59201,
+    "Timestamp": "2026-10-08 18:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:05 PM, Oct 08 2026 Crash on EB Tropicana Ave\u00A0before Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811478/attachment_0.jpg",
+    "Latitude": 36.100984799999999,
+    "Longitude": -115.1899141
   }
 ]
