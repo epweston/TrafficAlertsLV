@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59172,
-    "Timestamp": "2026-10-08 15:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:11 PM, Oct 08 2026 Stalled vehicle on NB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811369/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 59173,
-    "Timestamp": "2026-10-08 15:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:13 PM, Oct 08 2026 Crash on WB Flamingo Rd\u00A0at Valley View Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811370/attachment_0.png",
-    "Latitude": 36.115652300000001,
-    "Longitude": -115.1899418
-  },
-  {
     "UniqueId": 59174,
     "Timestamp": "2026-10-08 15:19",
     "IncidentType": "Crash",
@@ -1636,5 +1608,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812763/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 59290,
+    "Timestamp": "2026-10-09 15:09",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Sammy Davis Junior Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:09 PM, Oct 09 2026 Crash on EB Desert Inn Rd\u00A0at Sammy Davis Junior Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812769/attachment_0.png",
+    "Latitude": 36.129505100000003,
+    "Longitude": -115.1745394
+  },
+  {
+    "UniqueId": 59291,
+    "Timestamp": "2026-10-09 15:10",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:10 PM, Oct 09 2026 Crash on EB Ann Rd\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812773/attachment_0.jpg",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
