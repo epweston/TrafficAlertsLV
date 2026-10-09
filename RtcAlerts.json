@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59165,
-    "Timestamp": "2026-10-08 13:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "after",
-    "CrossStreet": "Searchlight",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:37 PM, Oct 08 2026 Stalled vehicle on NB US-95\u00A0after Searchlight. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811229/attachment_0.jpg",
-    "Latitude": 36.167716400000003,
-    "Longitude": -115.04541330000001
-  },
-  {
     "UniqueId": 59166,
     "Timestamp": "2026-10-08 13:57",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1370,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812589/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 59265,
+    "Timestamp": "2026-10-09 13:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:36 PM, Oct 09 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812614/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59266,
+    "Timestamp": "2026-10-09 13:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:38 PM, Oct 09 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812604/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 59267,
+    "Timestamp": "2026-10-09 13:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Bermuda Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:40 PM, Oct 09 2026 Crash on EB Cactus Ave\u00A0at Bermuda Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812610/attachment_0.jpg",
+    "Latitude": 35.999231399999999,
+    "Longitude": -115.15506480000001
   }
 ]
