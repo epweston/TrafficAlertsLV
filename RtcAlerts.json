@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59106,
-    "Timestamp": "2026-10-07 17:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15 Nb",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:18 PM, Oct 07 2026 Crash on EB Craig Rd\u00A0at I-15 NB offramp. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809946/attachment_0.png",
-    "Latitude": 36.239482099999996,
-    "Longitude": -115.1392876
-  },
-  {
-    "UniqueId": 59107,
-    "Timestamp": "2026-10-07 17:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:18 PM, Oct 07 2026 Crash on SB I-11\u00A0after I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809975/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 59108,
-    "Timestamp": "2026-10-07 17:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:23 PM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809951/attachment_0.png",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
     "UniqueId": 59109,
     "Timestamp": "2026-10-07 18:01",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1118,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811446/attachment_0.jpg",
     "Latitude": 36.171602300000004,
     "Longitude": -115.13921499999999
+  },
+  {
+    "UniqueId": 59192,
+    "Timestamp": "2026-10-08 17:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Mile 8",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:31 PM, Oct 08 2026 Crash on NB I-11\u00A0at Mile 8. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811457/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 59193,
+    "Timestamp": "2026-10-08 17:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:32 PM, Oct 08 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811449/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 59194,
+    "Timestamp": "2026-10-08 17:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "5:32 PM, Oct 08 2026 Crash on WB 215 Northern Beltway\u00A0after Jones Blvd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811450/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
