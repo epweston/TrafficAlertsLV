@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59161,
-    "Timestamp": "2026-10-08 12:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:28 PM, Oct 08 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811052/attachment_0.jpg",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
-    "UniqueId": 59162,
-    "Timestamp": "2026-10-08 12:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "WB Cheyenne Ave Blocked Use other routes",
-    "Notes": "12:31 PM, Oct 08 2026 Crash on WB Cheyenne Ave\u00A0at Fort Apache Rd. WB Cheyenne Ave Blocked Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811074/attachment_0.jpg",
-    "Latitude": 36.218583005373844,
-    "Longitude": -115.297195312215
-  },
-  {
     "UniqueId": 59163,
     "Timestamp": "2026-10-08 13:00",
     "IncidentType": "Crash",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812450/attachment_0.png",
     "Latitude": 36.242060100000003,
     "Longitude": -115.2347303
+  },
+  {
+    "UniqueId": 59256,
+    "Timestamp": "2026-10-09 12:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Tenaya Way",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:43 PM, Oct 09 2026 Crash on NB Tenaya Way\u00A0after Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812524/attachment_0.png",
+    "Latitude": 36.1146411,
+    "Longitude": -115.2520272
+  },
+  {
+    "UniqueId": 59257,
+    "Timestamp": "2026-10-09 12:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:44 PM, Oct 09 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812504/attachment_0.png",
+    "Latitude": 36.21922790273323,
+    "Longitude": -115.32768125268741
   }
 ]
