@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59177,
-    "Timestamp": "2026-10-08 16:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Commercial Center",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:02 PM, Oct 08 2026 Crash on EB Sahara Ave\u00A0after Commercial Center. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811404/attachment_0.png",
-    "Latitude": 36.143966300000002,
-    "Longitude": -115.1425003
-  },
-  {
-    "UniqueId": 59178,
-    "Timestamp": "2026-10-08 16:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:03 PM, Oct 08 2026 Stalled vehicle on NB I-11\u00A0after Mile 4. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811417/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 59179,
-    "Timestamp": "2026-10-08 16:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 6",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:06 PM, Oct 08 2026 Stalled vehicle on NB I-15\u00A0at Mile 6. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811406/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 59180,
     "Timestamp": "2026-10-08 16:08",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1734,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812844/attachment_0.jpg",
     "Latitude": 36.079141100000001,
     "Longitude": -115.10103530000001
+  },
+  {
+    "UniqueId": 59304,
+    "Timestamp": "2026-10-09 16:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "before",
+    "CrossStreet": "Mountain Vista",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:02 PM, Oct 09 2026 Crash on EB Russell Rd\u00A0before Mountain Vista . Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812846/attachment_0.png",
+    "Latitude": 36.085704799999988,
+    "Longitude": -115.0731581
   }
 ]
