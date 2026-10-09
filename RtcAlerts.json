@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59169,
-    "Timestamp": "2026-10-08 14:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "All lanes are blocked. Use other routes.",
-    "Notes": "2:30 PM, Oct 08 2026 Crash on SB Jones Blvd\u00A0at Washington Ave. All lanes are blocked. Use other routes.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811314/attachment_0.png",
-    "Latitude": 36.180754299999997,
-    "Longitude": -115.2237837
-  },
-  {
     "UniqueId": 59170,
     "Timestamp": "2026-10-08 14:50",
     "IncidentType": "Crash",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812700/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59280,
+    "Timestamp": "2026-10-09 14:35",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Walnut Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:35 PM, Oct 09 2026 Crash on WB Cheyenne Ave\u00A0after Walnut Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812701/attachment_0.jpg",
+    "Latitude": 36.217682794356257,
+    "Longitude": -115.08932948112489
   }
 ]
