@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59159,
-    "Timestamp": "2026-10-08 12:01",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:01 PM, Oct 08 2026 Vehicle on fire on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811017/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 59160,
-    "Timestamp": "2026-10-08 12:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:08 PM, Oct 08 2026 Crash on WB Cheyenne Ave\u00A0at Fort Apache Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811010/attachment_0.png",
-    "Latitude": 36.218583005373844,
-    "Longitude": -115.297195312215
-  },
-  {
     "UniqueId": 59161,
     "Timestamp": "2026-10-08 12:28",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812399/attachment_0.jpg",
     "Latitude": 36.1255715,
     "Longitude": -115.1693689
+  },
+  {
+    "UniqueId": 59254,
+    "Timestamp": "2026-10-09 12:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Ridge Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:03 PM, Oct 09 2026 Crash on SB Decatur Blvd\u00A0at Ridge Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812425/attachment_0.png",
+    "Latitude": 36.254595299999998,
+    "Longitude": -115.20742869999999
+  },
+  {
+    "UniqueId": 59255,
+    "Timestamp": "2026-10-09 12:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "before",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "12:07 PM, Oct 09 2026 Crash on NB Rancho Dr\u00A0before Torrey Pines Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812450/attachment_0.png",
+    "Latitude": 36.242060100000003,
+    "Longitude": -115.2347303
   }
 ]
