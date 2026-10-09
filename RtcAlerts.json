@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59140,
-    "Timestamp": "2026-10-08 06:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Gore blocked.",
-    "Notes": "6:02 AM, Oct 08 2026 Crash on SB I-15\u00A0at Neon Gateway. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810209/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
-    "UniqueId": 59141,
-    "Timestamp": "2026-10-08 06:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:03 AM, Oct 08 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810217/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 59142,
     "Timestamp": "2026-10-08 06:33",
     "IncidentType": "Abandoned vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811678/attachment_0.png",
     "Latitude": 36.064393000000003,
     "Longitude": -115.1185065
+  },
+  {
+    "UniqueId": 59232,
+    "Timestamp": "2026-10-09 06:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:05 AM, Oct 09 2026 Crash on EB Flamingo Rd\u00A0before I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811714/attachment_0.jpg",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
   }
 ]
