@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59111,
-    "Timestamp": "2026-10-07 18:11",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:11 PM, Oct 07 2026 Crash on NB Rancho Dr\u00A0at Lake Mead Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810002/attachment_0.png",
-    "Latitude": 36.200338999381579,
-    "Longitude": -115.19667148590089
-  },
-  {
-    "UniqueId": 59112,
-    "Timestamp": "2026-10-07 18:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:15 PM, Oct 07 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809991/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
-    "UniqueId": 59113,
-    "Timestamp": "2026-10-07 18:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:18 PM, Oct 07 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809992/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 59114,
     "Timestamp": "2026-10-07 18:24",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1188,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811478/attachment_0.jpg",
     "Latitude": 36.100984799999999,
     "Longitude": -115.1899141
+  },
+  {
+    "UniqueId": 59202,
+    "Timestamp": "2026-10-08 18:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:09 PM, Oct 08 2026 Stalled vehicle on SB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811465/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 59203,
+    "Timestamp": "2026-10-08 18:15",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:15 PM, Oct 08 2026 Crash on EB 215 Northern Beltway\u00A0before Hualapai Way. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811467/attachment_0.png",
+    "Latitude": 36.281605159999998,
+    "Longitude": -115.3151178
   }
 ]
