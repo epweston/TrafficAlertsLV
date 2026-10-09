@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59170,
-    "Timestamp": "2026-10-08 14:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:50 PM, Oct 08 2026 Crash on WB Sahara Ave\u00A0at 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811345/attachment_0.jpg",
-    "Latitude": 36.144633843380831,
-    "Longitude": -115.336660986448
-  },
-  {
     "UniqueId": 59171,
     "Timestamp": "2026-10-08 15:02",
     "IncidentType": "Crash",
@@ -1538,5 +1524,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812701/attachment_0.jpg",
     "Latitude": 36.217682794356257,
     "Longitude": -115.08932948112489
+  },
+  {
+    "UniqueId": 59281,
+    "Timestamp": "2026-10-09 14:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Smoke Ranch Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:49 PM, Oct 09 2026 Stalled vehicle on NB I-11\u00A0at Smoke Ranch Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812710/attachment_0.png",
+    "Latitude": 36.2032247,
+    "Longitude": -115.2330071
+  },
+  {
+    "UniqueId": 59282,
+    "Timestamp": "2026-10-09 14:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:51 PM, Oct 09 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812737/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 59283,
+    "Timestamp": "2026-10-09 14:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:52 PM, Oct 09 2026 Crash on NB I-15\u00A0before Sahara Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812738/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
