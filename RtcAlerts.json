@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59109,
-    "Timestamp": "2026-10-07 18:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm",
-    "Impact": "MM1 Right shoulder blocked.",
-    "Notes": "6:01 PM, Oct 07 2026 Stalled vehicle on SB I-15\u00A0at Primm. MM1 Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3809999/attachment_0.png",
-    "Latitude": 35.607103427439853,
-    "Longitude": -115.39133563837639
-  },
-  {
     "UniqueId": 59110,
     "Timestamp": "2026-10-07 18:05",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811463/attachment_0.jpg",
     "Latitude": 36.2978448,
     "Longitude": -115.2512158
+  },
+  {
+    "UniqueId": 59200,
+    "Timestamp": "2026-10-08 18:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:00 PM, Oct 08 2026 Crash on WB Cheyenne Ave\u00A0after Civic Center Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811464/attachment_0.png",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
   }
 ]
