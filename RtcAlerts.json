@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59158,
-    "Timestamp": "2026-10-08 11:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:45 AM, Oct 08 2026 Crash on WB Sahara Ave\u00A0at Tenaya Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810988/attachment_0.png",
-    "Latitude": 36.143827199999997,
-    "Longitude": -115.2519236
-  },
-  {
     "UniqueId": 59159,
     "Timestamp": "2026-10-08 12:01",
     "IncidentType": "Vehicle on fire",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812357/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 59253,
+    "Timestamp": "2026-10-09 11:53",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mtn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Intersection partially blocked",
+    "Notes": "11:53 AM, Oct 09 2026 Crash on EB Spring Mtn Rd\u00A0at Las Vegas Blvd. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812399/attachment_0.jpg",
+    "Latitude": 36.1255715,
+    "Longitude": -115.1693689
   }
 ]
