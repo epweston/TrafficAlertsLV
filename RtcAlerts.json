@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59176,
-    "Timestamp": "2026-10-08 15:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:50 PM, Oct 08 2026 Crash on EB Russell Rd\u00A0at Tenaya Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811399/attachment_0.png",
-    "Latitude": 36.085259800000003,
-    "Longitude": -115.2518996
-  },
-  {
     "UniqueId": 59177,
     "Timestamp": "2026-10-08 16:02",
     "IncidentType": "Crash",
@@ -1706,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812808/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 59298,
+    "Timestamp": "2026-10-09 15:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Sandhill Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "NB Left lane blocked. SB right lane blocked.",
+    "Notes": "3:45 PM, Oct 09 2026 Crash on SB Sandhill Rd\u00A0at Flamingo Rd. NB Left lane blocked. SB right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812792/attachment_0.png",
+    "Latitude": 36.115366999999999,
+    "Longitude": -115.09190150000001
+  },
+  {
+    "UniqueId": 59299,
+    "Timestamp": "2026-10-09 15:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "3:48 PM, Oct 09 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812817/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
