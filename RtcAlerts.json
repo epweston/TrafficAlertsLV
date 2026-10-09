@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59125,
-    "Timestamp": "2026-10-07 20:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Bruce Woodbury Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:50 PM, Oct 07 2026 Crash on NB Bruce Woodbury Beltway\u00A0before Russell Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810029/attachment_0.png",
-    "Latitude": 36.085086099999998,
-    "Longitude": -115.2466233
-  },
-  {
     "UniqueId": 59126,
     "Timestamp": "2026-10-07 21:38",
     "IncidentType": "Crash",
@@ -1258,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811508/attachment_0.png",
     "Latitude": 36.022550799999998,
     "Longitude": -115.2434145
+  },
+  {
+    "UniqueId": 59218,
+    "Timestamp": "2026-10-08 21:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "",
+    "Notes": "9:18 PM, Oct 08 2026 Stalled vehicle on SB I-15\u00A0after Lake Mead Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811513/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59219,
+    "Timestamp": "2026-10-08 21:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:18 PM, Oct 08 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811491/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
