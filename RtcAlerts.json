@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59116,
-    "Timestamp": "2026-10-07 18:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:29 PM, Oct 07 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810006/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 59117,
-    "Timestamp": "2026-10-07 18:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:33 PM, Oct 07 2026 Stalled vehicle on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/07/file_attachments/3810017/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 59118,
     "Timestamp": "2026-10-07 18:58",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811469/attachment_0.jpg",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 59205,
+    "Timestamp": "2026-10-08 18:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Vegas Dr",
+    "Relationship": "before",
+    "CrossStreet": "Tonopah",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:31 PM, Oct 08 2026 Crash on EB Vegas Dr\u00A0before Tonopah. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811470/attachment_0.png",
+    "Latitude": 36.188558899999997,
+    "Longitude": -115.1698351
+  },
+  {
+    "UniqueId": 59206,
+    "Timestamp": "2026-10-08 18:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Losee Rd",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:32 PM, Oct 08 2026 Crash on NB Losee Rd\u00A0before Craig Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811472/attachment_0.png",
+    "Latitude": 36.239903400000003,
+    "Longitude": -115.1168479
   }
 ]
