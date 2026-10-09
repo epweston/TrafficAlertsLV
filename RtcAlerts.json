@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59151,
-    "Timestamp": "2026-10-08 09:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "9:57 AM, Oct 08 2026 Crash on WB Washington Ave\u00A0at Las Vegas Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810702/attachment_0.png",
-    "Latitude": 36.181269899999997,
-    "Longitude": -115.1342183
-  },
-  {
-    "UniqueId": 59152,
-    "Timestamp": "2026-10-08 10:06",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:06 AM, Oct 08 2026 Vehicle on fire on WB 215 Northern Beltway\u00A0at Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3810710/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 59153,
     "Timestamp": "2026-10-08 10:13",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812101/attachment_0.png",
     "Latitude": 36.298464445139153,
     "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 59248,
+    "Timestamp": "2026-10-09 10:09",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:09 AM, Oct 09 2026 Crash on WB Ann Rd\u00A0after Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812180/attachment_0.png",
+    "Latitude": 36.263265599999997,
+    "Longitude": -115.2424312
   }
 ]
