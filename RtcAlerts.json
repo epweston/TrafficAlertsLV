@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59231,
-    "Timestamp": "2026-10-09 05:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Maule Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:39 AM, Oct 09 2026 Crash on NB Eastern Ave\u00A0at Maule Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811678/attachment_0.png",
-    "Latitude": 36.064393000000003,
-    "Longitude": -115.1185065
-  },
-  {
-    "UniqueId": 59232,
-    "Timestamp": "2026-10-09 06:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:05 AM, Oct 09 2026 Crash on EB Flamingo Rd\u00A0before I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811714/attachment_0.jpg",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
-    "UniqueId": 59233,
-    "Timestamp": "2026-10-09 06:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Losee Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:12 AM, Oct 09 2026 Crash on SB Losee Rd\u00A0at Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811724/attachment_0.png",
-    "Latitude": 36.217633300000003,
-    "Longitude": -115.12719300000001
-  },
-  {
     "UniqueId": 59234,
     "Timestamp": "2026-10-09 06:33",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813003/attachment_0.png",
     "Latitude": 36.167915800000003,
     "Longitude": -115.11588380000001
+  },
+  {
+    "UniqueId": 59358,
+    "Timestamp": "2026-10-10 06:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Grand Cadence Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:22 AM, Oct 10 2026 Crash on EB Warm Springs Rd\u00A0at Grand Cadence Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813017/attachment_0.png",
+    "Latitude": 36.051910499999998,
+    "Longitude": -114.98711830000001
+  },
+  {
+    "UniqueId": 59359,
+    "Timestamp": "2026-10-10 06:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:24 AM, Oct 10 2026 Stalled vehicle on SB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813019/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
