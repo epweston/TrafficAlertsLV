@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59222,
-    "Timestamp": "2026-10-09 00:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bridger Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:24 AM, Oct 09 2026 Crash on SB Las Vegas Blvd\u00A0at Bridger Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811527/attachment_0.png",
-    "Latitude": 36.166891999999997,
-    "Longitude": -115.1421349
-  },
-  {
-    "UniqueId": 59223,
-    "Timestamp": "2026-10-09 00:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Cedar Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:26 AM, Oct 09 2026 Crash on SB Eastern Ave\u00A0at Cedar Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811528/attachment_0.png",
-    "Latitude": 36.170193900000001,
-    "Longitude": -115.11608270000001
-  },
-  {
     "UniqueId": 59224,
     "Timestamp": "2026-10-09 00:46",
     "IncidentType": "Crash",
@@ -1762,5 +1734,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3812994/attachment_0.png",
     "Latitude": 36.045907399999997,
     "Longitude": -115.07242720000001
+  },
+  {
+    "UniqueId": 59350,
+    "Timestamp": "2026-10-10 00:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Sky Pointe Dr",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "All lanes are blocked.",
+    "Notes": "12:23 AM, Oct 10 2026 Crash on SB Sky Pointe Dr\u00A0before Buffalo Dr. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3812984/attachment_0.png",
+    "Latitude": 36.280433300000013,
+    "Longitude": -115.26681069999999
   }
 ]
