@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59216,
-    "Timestamp": "2026-10-08 20:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "8:35 PM, Oct 08 2026 Crash on SB Boulder Hwy\u00A0at Harmon Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811507/attachment_0.png",
-    "Latitude": 36.108088801530357,
-    "Longitude": -115.05910634994508
-  },
-  {
-    "UniqueId": 59217,
-    "Timestamp": "2026-10-08 20:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "8:42 PM, Oct 08 2026 Crash on NB Rainbow Blvd\u00A0before Blue Diamond Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811508/attachment_0.png",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
     "UniqueId": 59218,
     "Timestamp": "2026-10-08 21:18",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812948/attachment_0.png",
     "Latitude": 36.174100794708579,
     "Longitude": -115.22413731670025
+  },
+  {
+    "UniqueId": 59337,
+    "Timestamp": "2026-10-09 20:51",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:51 PM, Oct 09 2026 Police activity on NB 215 Western Beltway\u00A0to Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812950/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 59338,
+    "Timestamp": "2026-10-09 20:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Collector Distributor",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:53 PM, Oct 09 2026 Stalled vehicle on NB Collector Distributor\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812973/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
