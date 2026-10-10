@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59224,
-    "Timestamp": "2026-10-09 00:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:46 AM, Oct 09 2026 Crash on EB Sahara Ave\u00A0after Valley View Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811542/attachment_0.jpg",
-    "Latitude": 36.144334299999997,
-    "Longitude": -115.1908894
-  },
-  {
-    "UniqueId": 59225,
-    "Timestamp": "2026-10-09 00:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blude Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:48 AM, Oct 09 2026 Crash on WB Blude Diamond Rd\u00A0at Rainbow Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811544/attachment_0.png",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
-    "UniqueId": 59226,
-    "Timestamp": "2026-10-09 01:36",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:36 AM, Oct 09 2026 Crash on EB Harmon Ave\u00A0after I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811552/attachment_0.png",
-    "Latitude": 36.10813214101082,
-    "Longitude": -115.18071234226228
-  },
-  {
-    "UniqueId": 59227,
-    "Timestamp": "2026-10-09 01:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "4Th St",
-    "Impact": "",
-    "Notes": "1:44 AM, Oct 09 2026 Crash on WB Charleston Blvd\u00A0at 4th St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3811575/attachment_0.png",
-    "Latitude": 36.158919699999998,
-    "Longitude": -115.14887659999999
-  },
-  {
     "UniqueId": 59228,
     "Timestamp": "2026-10-09 03:24",
     "IncidentType": "Crash",
@@ -1762,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3812995/attachment_0.png",
     "Latitude": 36.108379100000001,
     "Longitude": -115.1993289
+  },
+  {
+    "UniqueId": 59353,
+    "Timestamp": "2026-10-10 02:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:16 AM, Oct 10 2026 Stalled vehicle on SB Las Vegas Blvd\u00A0after Starr Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3812988/attachment_0.png",
+    "Latitude": 35.984751500000002,
+    "Longitude": -115.1727827
   }
 ]
