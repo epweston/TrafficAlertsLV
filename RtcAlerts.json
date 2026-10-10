@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59220,
-    "Timestamp": "2026-10-08 21:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:37 PM, Oct 08 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811511/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 59221,
     "Timestamp": "2026-10-08 22:43",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812975/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 59341,
+    "Timestamp": "2026-10-09 22:20",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:20 PM, Oct 09 2026 Crash on EB Charleston Blvd\u00A0after I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812967/attachment_0.png",
+    "Latitude": 36.158822962125562,
+    "Longitude": -115.09162011384075
   }
 ]
