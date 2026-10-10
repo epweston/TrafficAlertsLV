@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59209,
-    "Timestamp": "2026-10-08 18:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Cimarron Rd",
-    "Relationship": "at",
-    "CrossStreet": "Badura Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:42 PM, Oct 08 2026 Crash on NB Cimarron Rd\u00A0at Badura Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/08/file_attachments/3811496/attachment_0.png",
-    "Latitude": 36.061117099999997,
-    "Longitude": -115.2700859
-  },
-  {
     "UniqueId": 59210,
     "Timestamp": "2026-10-08 18:49",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812938/attachment_0.png",
     "Latitude": 36.289687579999999,
     "Longitude": -115.09891034
+  },
+  {
+    "UniqueId": 59327,
+    "Timestamp": "2026-10-09 18:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:38 PM, Oct 09 2026 Crash on NB I-15\u00A0before Lake Mead Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812926/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59328,
+    "Timestamp": "2026-10-09 18:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:40 PM, Oct 09 2026 Stalled vehicle on NB I-15\u00A0at Washington Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812927/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 59329,
+    "Timestamp": "2026-10-09 18:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 8",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:42 PM, Oct 09 2026 Crash on NB I-15\u00A0at Mile 8. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812929/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
