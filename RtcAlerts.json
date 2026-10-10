@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59247,
-    "Timestamp": "2026-10-09 09:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:30 AM, Oct 09 2026 Stalled vehicle on SB I-11\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812101/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
     "UniqueId": 59248,
     "Timestamp": "2026-10-09 10:09",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813038/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 59366,
+    "Timestamp": "2026-10-10 09:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Left - Right lanes blocked.",
+    "Notes": "9:54 AM, Oct 10 2026 Crash on SB Rainbow Blvd\u00A0at Sunset Rd. Left - Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813060/attachment_0.png",
+    "Latitude": 36.070543507237815,
+    "Longitude": -115.24253723908187
   }
 ]
