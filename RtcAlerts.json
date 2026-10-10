@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59292,
-    "Timestamp": "2026-10-09 15:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:26 PM, Oct 09 2026 Crash on NB Rainbow Blvd\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812795/attachment_0.png",
-    "Latitude": 36.099861799999999,
-    "Longitude": -115.2429985
-  },
-  {
-    "UniqueId": 59293,
-    "Timestamp": "2026-10-09 15:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:29 PM, Oct 09 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812798/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 59294,
     "Timestamp": "2026-10-09 15:32",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813136/attachment_0.png",
     "Latitude": 35.607225398050609,
     "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 59390,
+    "Timestamp": "2026-10-10 15:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:26 PM, Oct 10 2026 Stalled vehicle on NB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813154/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
   }
 ]
