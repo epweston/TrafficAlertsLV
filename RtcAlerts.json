@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59244,
-    "Timestamp": "2026-10-09 08:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:40 AM, Oct 09 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812000/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 59245,
-    "Timestamp": "2026-10-09 09:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:12 AM, Oct 09 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812047/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 59246,
-    "Timestamp": "2026-10-09 09:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "9:22 AM, Oct 09 2026 Crash on WB Tropicana Ave\u00A0before Paradise Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812083/attachment_0.png",
-    "Latitude": 36.101028027323217,
-    "Longitude": -115.14987222272508
-  },
-  {
     "UniqueId": 59247,
     "Timestamp": "2026-10-09 09:30",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813030/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59364,
+    "Timestamp": "2026-10-10 09:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:21 AM, Oct 10 2026 Stalled vehicle on NB I-15 (CD Rd) \u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813056/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59365,
+    "Timestamp": "2026-10-10 09:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:22 AM, Oct 10 2026 Stalled vehicle on SB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813038/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
