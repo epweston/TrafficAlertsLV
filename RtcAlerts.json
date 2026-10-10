@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59294,
-    "Timestamp": "2026-10-09 15:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:32 PM, Oct 09 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812787/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 59295,
-    "Timestamp": "2026-10-09 15:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Grand Montecito Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Centennial Center Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:35 PM, Oct 09 2026 Crash on SB Grand Montecito Pkwy\u00A0after Centennial Center Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812803/attachment_0.png",
-    "Latitude": 36.277287800000003,
-    "Longitude": -115.2787958
-  },
-  {
     "UniqueId": 59296,
     "Timestamp": "2026-10-09 15:40",
     "IncidentType": "Police activity",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813154/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 59391,
+    "Timestamp": "2026-10-10 15:32",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Alta Dr",
+    "Relationship": "at",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:32 PM, Oct 10 2026 Crash on EB Alta Dr\u00A0at Torrey Pines Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813138/attachment_0.png",
+    "Latitude": 36.166412899999997,
+    "Longitude": -115.2330317
   }
 ]
