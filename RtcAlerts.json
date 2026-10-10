@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59291,
-    "Timestamp": "2026-10-09 15:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:10 PM, Oct 09 2026 Crash on EB Ann Rd\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812773/attachment_0.jpg",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 59292,
     "Timestamp": "2026-10-09 15:26",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813133/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59389,
+    "Timestamp": "2026-10-10 15:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:08 PM, Oct 10 2026 Stalled vehicle on NB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813136/attachment_0.png",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
   }
 ]
