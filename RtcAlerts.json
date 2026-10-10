@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59303,
-    "Timestamp": "2026-10-09 15:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Patrick Lane",
-    "Impact": "NB - SB Left lanes blocked.",
-    "Notes": "3:58 PM, Oct 09 2026 Crash on SB Pecos Rd\u00A0at Patrick Lane. NB - SB Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812844/attachment_0.jpg",
-    "Latitude": 36.079141100000001,
-    "Longitude": -115.10103530000001
-  },
-  {
-    "UniqueId": 59304,
-    "Timestamp": "2026-10-09 16:02",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "before",
-    "CrossStreet": "Mountain Vista",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:02 PM, Oct 09 2026 Crash on EB Russell Rd\u00A0before Mountain Vista . Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812846/attachment_0.png",
-    "Latitude": 36.085704799999988,
-    "Longitude": -115.0731581
-  },
-  {
-    "UniqueId": 59305,
-    "Timestamp": "2026-10-09 16:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:12 PM, Oct 09 2026 Stalled vehicle on SB I-15\u00A0after Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812849/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 59306,
     "Timestamp": "2026-10-09 16:18",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813140/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 59394,
+    "Timestamp": "2026-10-10 16:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "4:10 PM, Oct 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813141/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
