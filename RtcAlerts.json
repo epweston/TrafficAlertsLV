@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59357,
-    "Timestamp": "2026-10-10 05:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:28 AM, Oct 10 2026 Crash on NB Eastern Ave\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813003/attachment_0.png",
-    "Latitude": 36.167915800000003,
-    "Longitude": -115.11588380000001
-  },
-  {
     "UniqueId": 59358,
     "Timestamp": "2026-10-10 06:22",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 59457,
+    "Timestamp": "2026-10-11 05:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:29 AM, Oct 11 2026 Crash on NB I-11\u00A0at Boulder Hwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813286/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
