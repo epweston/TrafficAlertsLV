@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59356,
-    "Timestamp": "2026-10-10 04:56",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:56 AM, Oct 10 2026 Crash on WB Washington Ave\u00A0at Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813013/attachment_0.png",
-    "Latitude": 36.181244800000002,
-    "Longitude": -115.11595819999999
-  },
-  {
     "UniqueId": 59357,
     "Timestamp": "2026-10-10 05:28",
     "IncidentType": "Crash",
@@ -1300,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813283/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 59455,
+    "Timestamp": "2026-10-11 05:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:21 AM, Oct 11 2026 Crash on NB I-15\u00A0at Silverado Ranch Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813285/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 59456,
+    "Timestamp": "2026-10-11 05:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:23 AM, Oct 11 2026 Crash on NB I-15\u00A0at Lamb Blvd. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
