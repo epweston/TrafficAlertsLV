@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59375,
-    "Timestamp": "2026-10-10 11:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:52 AM, Oct 10 2026 Stalled vehicle on NB I-11\u00A0before Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813116/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 59376,
     "Timestamp": "2026-10-10 11:59",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,19 @@
     "ImagePath": "",
     "Latitude": 35.607225398050609,
     "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 59499,
+    "Timestamp": "2026-10-11 11:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Indigo Dr",
+    "Impact": "Intersection partially blocked",
+    "Notes": "11:52 AM, Oct 11 2026 Crash on EB Charleston Blvd\u00A0at Indigo Dr. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813397/attachment_0.jpg",
+    "Latitude": 36.1589016,
+    "Longitude": -115.3185885
   }
 ]
