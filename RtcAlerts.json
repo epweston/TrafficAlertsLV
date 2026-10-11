@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59361,
-    "Timestamp": "2026-10-10 06:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 AM, Oct 10 2026 Crash on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813023/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 59362,
     "Timestamp": "2026-10-10 08:12",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813299/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 59470,
+    "Timestamp": "2026-10-11 06:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:45 AM, Oct 11 2026 Crash on SB I-11\u00A0before Summerlin Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813300/attachment_0.png",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
   }
 ]
