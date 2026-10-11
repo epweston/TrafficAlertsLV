@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59313,
-    "Timestamp": "2026-10-09 17:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:02 PM, Oct 09 2026 Crash on SB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812913/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
-    "UniqueId": 59314,
-    "Timestamp": "2026-10-09 17:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "5:04 PM, Oct 09 2026 Crash on WB 215 Southern Beltway\u00A0at Stephanie St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812897/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 59315,
     "Timestamp": "2026-10-09 17:12",
     "IncidentType": "Stalled vehicle",
@@ -1146,5 +1118,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813167/attachment_0.png",
     "Latitude": 36.115066053957577,
     "Longitude": -115.30244890820951
+  },
+  {
+    "UniqueId": 59402,
+    "Timestamp": "2026-10-10 16:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right Lane Blocked.",
+    "Notes": "4:59 PM, Oct 10 2026 Crash on WB Cheyenne Ave\u00A0at I-11. Right Lane Blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813168/attachment_0.png",
+    "Latitude": 36.228234499999999,
+    "Longitude": -115.3060631
+  },
+  {
+    "UniqueId": 59403,
+    "Timestamp": "2026-10-10 17:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:01 PM, Oct 10 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813169/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
