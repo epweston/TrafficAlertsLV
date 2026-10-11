@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59364,
-    "Timestamp": "2026-10-10 09:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:21 AM, Oct 10 2026 Stalled vehicle on NB I-15 (CD Rd) \u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813056/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 59365,
-    "Timestamp": "2026-10-10 09:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:22 AM, Oct 10 2026 Stalled vehicle on SB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813038/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 59366,
     "Timestamp": "2026-10-10 09:54",
     "IncidentType": "Crash",
@@ -1608,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813335/attachment_0.png",
     "Latitude": 36.026113299999999,
     "Longitude": -115.20792179999999
+  },
+  {
+    "UniqueId": 59485,
+    "Timestamp": "2026-10-11 09:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:18 AM, Oct 11 2026 Crash on NB 215 Western Beltway\u00A0before Far Hills Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813354/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 59486,
+    "Timestamp": "2026-10-11 09:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:20 AM, Oct 11 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813355/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
