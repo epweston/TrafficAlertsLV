@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59350,
-    "Timestamp": "2026-10-10 00:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sky Pointe Dr",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "All lanes are blocked.",
-    "Notes": "12:23 AM, Oct 10 2026 Crash on SB Sky Pointe Dr\u00A0before Buffalo Dr. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3812984/attachment_0.png",
-    "Latitude": 36.280433300000013,
-    "Longitude": -115.26681069999999
-  },
-  {
     "UniqueId": 59351,
     "Timestamp": "2026-10-10 00:30",
     "IncidentType": "Crash",
@@ -1006,5 +992,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813239/attachment_0.png",
     "Latitude": 36.158919699999998,
     "Longitude": -115.14887659999999
+  },
+  {
+    "UniqueId": 59429,
+    "Timestamp": "2026-10-11 00:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:21 AM, Oct 11 2026 Crash on WB Lake Mead Blvd\u00A0after Torrey Pines Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813224/attachment_0.png",
+    "Latitude": 36.195802299999997,
+    "Longitude": -115.23308539999999
+  },
+  {
+    "UniqueId": 59430,
+    "Timestamp": "2026-10-11 00:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "12:22 AM, Oct 11 2026 Crash on WB Charleston Blvd\u00A0at Grand Central Pkwy. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813226/attachment_0.png",
+    "Latitude": 36.158865800000001,
+    "Longitude": -115.1586595
   }
 ]
