@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59366,
-    "Timestamp": "2026-10-10 09:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left - Right lanes blocked.",
-    "Notes": "9:54 AM, Oct 10 2026 Crash on SB Rainbow Blvd\u00A0at Sunset Rd. Left - Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813060/attachment_0.png",
-    "Latitude": 36.070543507237815,
-    "Longitude": -115.24253723908187
-  },
-  {
     "UniqueId": 59367,
     "Timestamp": "2026-10-10 10:15",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813359/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 59490,
+    "Timestamp": "2026-10-11 09:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:55 AM, Oct 11 2026 Crash on NB Fort Apache Rd\u00A0after Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813343/attachment_0.png",
+    "Latitude": 36.100018597507436,
+    "Longitude": -115.29730798072389
   }
 ]
