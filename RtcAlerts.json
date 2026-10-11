@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59351,
-    "Timestamp": "2026-10-10 00:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "before",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "12:30 AM, Oct 10 2026 Crash on EB Harmon Ave\u00A0before Arville St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3812995/attachment_0.png",
-    "Latitude": 36.108379100000001,
-    "Longitude": -115.1993289
-  },
-  {
     "UniqueId": 59353,
     "Timestamp": "2026-10-10 02:16",
     "IncidentType": "Stalled vehicle",
@@ -1020,5 +1006,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813226/attachment_0.png",
     "Latitude": 36.158865800000001,
     "Longitude": -115.1586595
+  },
+  {
+    "UniqueId": 59431,
+    "Timestamp": "2026-10-11 00:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:41 AM, Oct 11 2026 Crash on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813241/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
