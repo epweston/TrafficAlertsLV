@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59321,
-    "Timestamp": "2026-10-09 17:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:49 PM, Oct 09 2026 Crash on NB Las Vegas Blvd\u00A0at Charleston Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812923/attachment_0.jpg",
-    "Latitude": 36.158766900000003,
-    "Longitude": -115.1474163
-  },
-  {
-    "UniqueId": 59322,
-    "Timestamp": "2026-10-09 17:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Four Seasons Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:50 PM, Oct 09 2026 Crash on SB Las Vegas Blvd\u00A0before Four Seasons Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812911/attachment_0.png",
-    "Latitude": 36.089767633615281,
-    "Longitude": -115.17273374029794
-  },
-  {
-    "UniqueId": 59323,
-    "Timestamp": "2026-10-09 17:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:51 PM, Oct 09 2026 Crash on WB Sahara Ave\u00A0at Grand Canyon rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812933/attachment_0.png",
-    "Latitude": 36.144313599999997,
-    "Longitude": -115.30662770000001
-  },
-  {
-    "UniqueId": 59324,
-    "Timestamp": "2026-10-09 17:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:59 PM, Oct 09 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812935/attachment_0.png",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
     "UniqueId": 59325,
     "Timestamp": "2026-10-09 18:01",
     "IncidentType": "Stalled vehicle",
@@ -1090,5 +1034,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813172/attachment_0.png",
     "Latitude": 36.070325995097008,
     "Longitude": -115.28861636686682
+  },
+  {
+    "UniqueId": 59406,
+    "Timestamp": "2026-10-10 17:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:53 PM, Oct 10 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813194/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59407,
+    "Timestamp": "2026-10-10 17:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Great Basin Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:57 PM, Oct 10 2026 Stalled vehicle on SB I-15\u00A0at Great Basin Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813177/attachment_0.png",
+    "Latitude": 36.380911730000001,
+    "Longitude": -114.89164009
   }
 ]
