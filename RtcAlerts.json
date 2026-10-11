@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59347,
-    "Timestamp": "2026-10-09 23:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:54 PM, Oct 09 2026 Crash on EB Flamingo Rd\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812971/attachment_0.png",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
     "UniqueId": 59348,
     "Timestamp": "2026-10-10 00:02",
     "IncidentType": "Crash",
@@ -1020,5 +1006,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813235/attachment_0.png",
     "Latitude": 36.293459499999997,
     "Longitude": -115.18487740000001
+  },
+  {
+    "UniqueId": 59427,
+    "Timestamp": "2026-10-10 23:50",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "from",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "11:50 PM, Oct 10 2026 Crash on SB 215 Western Beltway\u00A0from Tropicana Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813238/attachment_0.jpg",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
