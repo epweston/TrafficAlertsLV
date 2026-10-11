@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59379,
-    "Timestamp": "2026-10-10 12:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:37 PM, Oct 10 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813107/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
-    "UniqueId": 59384,
-    "Timestamp": "2026-10-10 13:18",
-    "IncidentType": "Fire Activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "4Th St All Nb Lanes Are",
-    "Impact": "",
-    "Notes": "1:18 PM, Oct 10 2026 Fire Activity on NB Las Vegas Blvd\u00A0at 4th St. All NB lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813124/attachment_0.png",
-    "Latitude": 36.153303700000002,
-    "Longitude": -115.1510431
-  },
-  {
     "UniqueId": 59385,
     "Timestamp": "2026-10-10 13:25",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813416/attachment_0.png",
     "Latitude": 36.180754299999997,
     "Longitude": -115.2237837
+  },
+  {
+    "UniqueId": 59501,
+    "Timestamp": "2026-10-11 13:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "after",
+    "CrossStreet": "Mel Torme Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:18 PM, Oct 11 2026 Stalled vehicle on WB Spring Mountain Rd\u00A0after Mel Torme Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813420/attachment_0.jpg",
+    "Latitude": 36.12558859559698,
+    "Longitude": -115.17317023475012
+  },
+  {
+    "UniqueId": 59502,
+    "Timestamp": "2026-10-11 13:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:22 PM, Oct 11 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813421/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
