@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59355,
-    "Timestamp": "2026-10-10 04:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:32 AM, Oct 10 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813001/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 59356,
     "Timestamp": "2026-10-10 04:56",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813279/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 59452,
+    "Timestamp": "2026-10-11 04:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "4:31 AM, Oct 11 2026 Crash on SB Rainbow Blvd\u00A0at Desert Inn Rd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813266/attachment_0.png",
+    "Latitude": 36.12947394310789,
+    "Longitude": -115.24300934562113
   }
 ]
