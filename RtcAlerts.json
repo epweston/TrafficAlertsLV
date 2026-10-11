@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59327,
-    "Timestamp": "2026-10-09 18:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:38 PM, Oct 09 2026 Crash on NB I-15\u00A0before Lake Mead Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812926/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 59328,
-    "Timestamp": "2026-10-09 18:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:40 PM, Oct 09 2026 Stalled vehicle on NB I-15\u00A0at Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812927/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 59329,
     "Timestamp": "2026-10-09 18:42",
     "IncidentType": "Crash",
@@ -1062,5 +1034,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813180/attachment_0.jpg",
     "Latitude": 36.158781900000001,
     "Longitude": -115.1535739
+  },
+  {
+    "UniqueId": 59410,
+    "Timestamp": "2026-10-10 18:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:36 PM, Oct 10 2026 Crash on SB Rampart Blvd\u00A0after Summerlin Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813181/attachment_0.png",
+    "Latitude": 36.177835743591984,
+    "Longitude": -115.28722561818798
+  },
+  {
+    "UniqueId": 59411,
+    "Timestamp": "2026-10-10 18:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "All WB lanes are blocked.",
+    "Notes": "6:40 PM, Oct 10 2026 Crash on NB Jones Blvd\u00A0at Hacienda Ave. All WB lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813198/attachment_0.jpg",
+    "Latitude": 36.092563061347661,
+    "Longitude": -115.22510286237913
   }
 ]
