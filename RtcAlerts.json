@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59388,
-    "Timestamp": "2026-10-10 15:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left - Right lanes blocked.",
-    "Notes": "3:06 PM, Oct 10 2026 Crash on SB I-15\u00A0after Lake Mead Blvd. Left - Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813133/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 59389,
-    "Timestamp": "2026-10-10 15:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:08 PM, Oct 10 2026 Stalled vehicle on NB I-15\u00A0at Primm Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813136/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
     "UniqueId": 59390,
     "Timestamp": "2026-10-10 15:26",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813435/attachment_0.png",
     "Latitude": 36.176219719999999,
     "Longitude": -115.19255696000001
+  },
+  {
+    "UniqueId": 59508,
+    "Timestamp": "2026-10-11 15:13",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:13 PM, Oct 11 2026 Crash on EB Blue Diamond Rd\u00A0after Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813453/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
   }
 ]
