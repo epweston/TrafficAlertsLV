@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59362,
-    "Timestamp": "2026-10-10 08:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:12 AM, Oct 10 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813012/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 59363,
     "Timestamp": "2026-10-10 08:36",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813307/attachment_0.jpg",
     "Latitude": 36.191620159999999,
     "Longitude": -115.34255690000001
+  },
+  {
+    "UniqueId": 59479,
+    "Timestamp": "2026-10-11 08:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:10 AM, Oct 11 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813330/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 59480,
+    "Timestamp": "2026-10-11 08:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:13 AM, Oct 11 2026 Stalled vehicle on SB Decatur Blvd\u00A0before Warm Springs Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813309/attachment_0.png",
+    "Latitude": 36.057144299999997,
+    "Longitude": -115.2079452
   }
 ]
