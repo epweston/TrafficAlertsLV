@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59358,
-    "Timestamp": "2026-10-10 06:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Cadence Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:22 AM, Oct 10 2026 Crash on EB Warm Springs Rd\u00A0at Grand Cadence Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813017/attachment_0.png",
-    "Latitude": 36.051910499999998,
-    "Longitude": -114.98711830000001
-  },
-  {
-    "UniqueId": 59359,
-    "Timestamp": "2026-10-10 06:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:24 AM, Oct 10 2026 Stalled vehicle on SB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813019/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 59360,
-    "Timestamp": "2026-10-10 06:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:32 AM, Oct 10 2026 Crash on EB Sahara Ave\u00A0before Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813021/attachment_0.jpg",
-    "Latitude": 36.144334299999997,
-    "Longitude": -115.1908894
-  },
-  {
     "UniqueId": 59361,
     "Timestamp": "2026-10-10 06:45",
     "IncidentType": "Crash",
@@ -1426,5 +1384,33 @@
     "ImagePath": "",
     "Latitude": 36.12947394310789,
     "Longitude": -115.24300934562113
+  },
+  {
+    "UniqueId": 59466,
+    "Timestamp": "2026-10-11 06:30",
+    "IncidentType": "Hazard",
+    "Direction": "WB",
+    "PrimaryRoad": "Winnick Ave",
+    "Relationship": "at",
+    "CrossStreet": "Koval Ln",
+    "Impact": "All lanes are blocked.",
+    "Notes": "6:30 AM, Oct 11 2026 Hazard on WB Winnick Ave\u00A0at Koval Ln. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.117297100000002,
+    "Longitude": -115.1641261
+  },
+  {
+    "UniqueId": 59467,
+    "Timestamp": "2026-10-11 06:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Kyle Canyon Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:31 AM, Oct 11 2026 Crash on SB I-11\u00A0at Kyle Canyon Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.2701554,
+    "Longitude": -115.5937345
   }
 ]
