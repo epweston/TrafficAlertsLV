@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59341,
-    "Timestamp": "2026-10-09 22:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:20 PM, Oct 09 2026 Crash on EB Charleston Blvd\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/09/file_attachments/3812967/attachment_0.png",
-    "Latitude": 36.158822962125562,
-    "Longitude": -115.09162011384075
-  },
-  {
     "UniqueId": 59343,
     "Timestamp": "2026-10-09 23:08",
     "IncidentType": "Crash",
@@ -950,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813187/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 59416,
+    "Timestamp": "2026-10-10 22:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:18 PM, Oct 10 2026 Crash on SB Boulder Hwy\u00A0at Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813190/attachment_0.png",
+    "Latitude": 36.084834000000001,
+    "Longitude": -115.0326537
   }
 ]
