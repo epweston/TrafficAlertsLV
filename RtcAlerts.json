@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59390,
-    "Timestamp": "2026-10-10 15:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:26 PM, Oct 10 2026 Stalled vehicle on NB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813154/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 59391,
     "Timestamp": "2026-10-10 15:32",
     "IncidentType": "Crash",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813453/attachment_0.png",
     "Latitude": 36.025615794939291,
     "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 59509,
+    "Timestamp": "2026-10-11 15:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:23 PM, Oct 11 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813445/attachment_0.jpg",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
