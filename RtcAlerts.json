@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59471,
-    "Timestamp": "2026-10-11 06:52",
-    "IncidentType": "Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spring Valley Parkway N",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "6:52 AM, Oct 11 2026 Hazard on NB Rainbow Blvd\u00A0at Spring Valley Parkway N. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813301/attachment_0.png",
-    "Latitude": 36.110628699999999,
-    "Longitude": -115.24309150000001
-  },
-  {
-    "UniqueId": 59472,
-    "Timestamp": "2026-10-11 06:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Gore blocked.",
-    "Notes": "6:59 AM, Oct 11 2026 Crash on EB 215 Northern Beltway\u00A0before I-11. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813320/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
-    "UniqueId": 59473,
-    "Timestamp": "2026-10-11 07:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "over",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:04 AM, Oct 11 2026 Crash on NB I-11\u00A0over Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813302/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 59474,
-    "Timestamp": "2026-10-11 07:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:09 AM, Oct 11 2026 Crash on SB 215 Western Beltway\u00A0before Lake Mead Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813303/attachment_0.png",
-    "Latitude": 36.205568079996773,
-    "Longitude": -115.34099578857423
-  },
-  {
     "UniqueId": 59475,
     "Timestamp": "2026-10-11 07:13",
     "IncidentType": "Crash",
@@ -1020,5 +964,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813696/attachment_0.jpg",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 59546,
+    "Timestamp": "2026-10-12 07:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:06 AM, Oct 12 2026 Stalled vehicle on NB I-11\u00A0after Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813759/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
