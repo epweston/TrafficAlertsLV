@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59448,
-    "Timestamp": "2026-10-11 03:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:56 AM, Oct 11 2026 Crash on NB I-15\u00A0at Lamb Blvd. Left shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 59449,
-    "Timestamp": "2026-10-11 04:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:08 AM, Oct 11 2026 Crash on NB I-11\u00A0at Rancho Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813276/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 59450,
     "Timestamp": "2026-10-11 04:21",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1202,19 @@
     "ImagePath": "",
     "Latitude": 36.175301233937589,
     "Longitude": -115.17409268502011
+  },
+  {
+    "UniqueId": 59538,
+    "Timestamp": "2026-10-12 04:12",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "4:12 AM, Oct 12 2026 Police activity on SB Valley View Blvd\u00A0at Flamingo Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813572/attachment_0.png",
+    "Latitude": 36.115652300000001,
+    "Longitude": -115.1899418
   }
 ]
