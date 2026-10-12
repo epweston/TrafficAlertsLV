@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59465,
-    "Timestamp": "2026-10-11 06:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "6:16 AM, Oct 11 2026 Crash on SB Rainbow Blvd\u00A0at Desert Inn Rd. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.12947394310789,
-    "Longitude": -115.24300934562113
-  },
-  {
     "UniqueId": 59466,
     "Timestamp": "2026-10-11 06:30",
     "IncidentType": "Hazard",
@@ -1062,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813678/attachment_0.png",
     "Latitude": 36.298464445139153,
     "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 59543,
+    "Timestamp": "2026-10-12 06:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:19 AM, Oct 12 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813679/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
