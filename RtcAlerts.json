@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59415,
-    "Timestamp": "2026-10-10 21:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:54 PM, Oct 10 2026 Crash on NB 215 Western Beltway\u00A0after Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813187/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 59416,
     "Timestamp": "2026-10-10 22:18",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "",
     "Latitude": 36.021765299999998,
     "Longitude": -115.3071832
+  },
+  {
+    "UniqueId": 59525,
+    "Timestamp": "2026-10-11 22:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:11 PM, Oct 11 2026 Crash on WB 215 Southern Beltway\u00A0before Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813485/attachment_0.png",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
