@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59447,
-    "Timestamp": "2026-10-11 03:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:42 AM, Oct 11 2026 Crash on SB I-15\u00A0at Charleston Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813274/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 59448,
     "Timestamp": "2026-10-11 03:56",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "",
     "Latitude": 36.033552862846953,
     "Longitude": -115.01434604859962
+  },
+  {
+    "UniqueId": 59537,
+    "Timestamp": "2026-10-12 03:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "South Rancho Dr",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "3:42 AM, Oct 12 2026 Crash on SB I-11 ramp at South Rancho Dr. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.175301233937589,
+    "Longitude": -115.17409268502011
   }
 ]
