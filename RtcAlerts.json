@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59494,
-    "Timestamp": "2026-10-11 11:12",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:12 AM, Oct 11 2026 Crash on WB Cactus Ave\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.9986356,
-    "Longitude": -115.2074791
-  },
-  {
     "UniqueId": 59495,
     "Timestamp": "2026-10-11 11:33",
     "IncidentType": "Stalled vehicle",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814062/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 59568,
+    "Timestamp": "2026-10-12 11:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "11:14 AM, Oct 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814073/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
