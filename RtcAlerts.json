@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59478,
-    "Timestamp": "2026-10-11 08:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:04 AM, Oct 11 2026 Crash on SB 215 Western Beltway\u00A0after Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813307/attachment_0.jpg",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
-    "UniqueId": 59479,
-    "Timestamp": "2026-10-11 08:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:10 AM, Oct 11 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813330/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 59480,
     "Timestamp": "2026-10-11 08:13",
     "IncidentType": "Stalled vehicle",
@@ -964,5 +936,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813810/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 59549,
+    "Timestamp": "2026-10-12 08:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Paseo Verde Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Desert Shadow Trail",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:03 AM, Oct 12 2026 Crash on WB Paseo Verde Pkwy\u00A0at Desert Shadow Trail. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813828/attachment_0.png",
+    "Latitude": 36.022718800000007,
+    "Longitude": -115.0669753
+  },
+  {
+    "UniqueId": 59550,
+    "Timestamp": "2026-10-12 08:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "over",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:06 AM, Oct 12 2026 Crash on SB Hualapai Way\u00A0over 215 Northern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813843/attachment_0.jpg",
+    "Latitude": 36.118875250000002,
+    "Longitude": -115.314973
   }
 ]
