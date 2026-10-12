@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59421,
-    "Timestamp": "2026-10-10 23:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:23 PM, Oct 10 2026 Crash on EB Tropicana Ave\u00A0after 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813215/attachment_0.png",
-    "Latitude": 36.100018540000001,
-    "Longitude": -115.29390152000001
-  },
-  {
     "UniqueId": 59423,
     "Timestamp": "2026-10-10 23:32",
     "IncidentType": "Crash",
@@ -1424,6 +1410,20 @@
     "Impact": "All lanes are blocked. Use other routes",
     "Notes": "11:17 PM, Oct 11 2026 Crash on NB Decatur Blvd\u00A0before Robindale Rd. All lanes are blocked. Use other routes",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813486/attachment_0.png",
+    "Latitude": 36.049756199999997,
+    "Longitude": -115.20787060000001
+  },
+  {
+    "UniqueId": 59527,
+    "Timestamp": "2026-10-11 23:28",
+    "IncidentType": "UPDATE: Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Robindale Rd",
+    "Impact": "Left lanes now open",
+    "Notes": "11:28 PM, Oct 11 2026 \u00A0UPDATE: Crash on NB Decatur Blvd\u00A0before Robindale Rd. Left lanes now open",
+    "ImagePath": "",
     "Latitude": 36.049756199999997,
     "Longitude": -115.20787060000001
   }
