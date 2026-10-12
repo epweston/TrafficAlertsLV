@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59413,
-    "Timestamp": "2026-10-10 18:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Balzar Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:53 PM, Oct 10 2026 Crash on NB Martin L King Blvd\u00A0at Balzar Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813201/attachment_0.png",
-    "Latitude": 36.199392099999997,
-    "Longitude": -115.1607319
-  },
-  {
-    "UniqueId": 59414,
-    "Timestamp": "2026-10-10 18:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Salmon Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:58 PM, Oct 10 2026 Crash on WB Craig Rd\u00A0at Salmon Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813184/attachment_0.png",
-    "Latitude": 36.240503699999998,
-    "Longitude": -115.06802260000001
-  },
-  {
     "UniqueId": 59415,
     "Timestamp": "2026-10-10 21:54",
     "IncidentType": "Crash",
@@ -1382,6 +1354,20 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "6:38 PM, Oct 11 2026 Crash on EB Russell Rd\u00A0at Annie Oakley Dr. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813474/attachment_0.png",
+    "Latitude": 36.085683500000002,
+    "Longitude": -115.0867511
+  },
+  {
+    "UniqueId": 59516,
+    "Timestamp": "2026-10-11 18:57",
+    "IncidentType": "UPDATE: Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Annie Oakley Dr",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "6:57 PM, Oct 11 2026 UPDATE: Crash on WB Russell Rd\u00A0at Annie Oakley Dr. All lanes are blocked. Use other routes",
+    "ImagePath": "",
     "Latitude": 36.085683500000002,
     "Longitude": -115.0867511
   }
