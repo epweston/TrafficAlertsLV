@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59500,
-    "Timestamp": "2026-10-11 12:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:19 PM, Oct 11 2026 Crash on NB Jones Blvd\u00A0at Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813416/attachment_0.png",
-    "Latitude": 36.180754299999997,
-    "Longitude": -115.2237837
-  },
-  {
     "UniqueId": 59501,
     "Timestamp": "2026-10-11 13:18",
     "IncidentType": "Stalled vehicle",
@@ -1048,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814111/attachment_0.jpg",
     "Latitude": 36.166587100000001,
     "Longitude": -115.0621689
+  },
+  {
+    "UniqueId": 59575,
+    "Timestamp": "2026-10-12 12:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:33 PM, Oct 12 2026 Crash on SB Rainbow Blvd\u00A0before Sahara Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814151/attachment_0.jpg",
+    "Latitude": 36.144077500000002,
+    "Longitude": -115.24303310000001
   }
 ]
