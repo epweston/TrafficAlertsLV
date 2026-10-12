@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59506,
-    "Timestamp": "2026-10-11 14:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:13 PM, Oct 11 2026 Crash on SB I-11\u00A0to Galleria Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813428/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 59507,
     "Timestamp": "2026-10-11 14:32",
     "IncidentType": "Crash",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814237/attachment_0.png",
     "Latitude": 36.196118272847883,
     "Longitude": -115.26036856461288
+  },
+  {
+    "UniqueId": 59580,
+    "Timestamp": "2026-10-12 14:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:19 PM, Oct 12 2026 Crash on NB Rainbow Blvd\u00A0before Twain Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814241/attachment_0.jpg",
+    "Latitude": 36.121982199999998,
+    "Longitude": -115.2430895
   }
 ]
