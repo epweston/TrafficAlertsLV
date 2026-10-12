@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59489,
-    "Timestamp": "2026-10-11 09:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "93",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:38 AM, Oct 11 2026 Stalled vehicle on SB I-15\u00A0at 93. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813359/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 59490,
     "Timestamp": "2026-10-11 09:55",
     "IncidentType": "Crash",
@@ -908,5 +894,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813925/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 59556,
+    "Timestamp": "2026-10-12 09:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 105",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:33 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0at Mile 105. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813935/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 59557,
+    "Timestamp": "2026-10-12 09:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Windmill Ln",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:34 AM, Oct 12 2026 Crash on EB Windmill Ln\u00A0at Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813938/attachment_0.png",
+    "Latitude": 36.042256799999997,
+    "Longitude": -115.1182422
+  },
+  {
+    "UniqueId": 59558,
+    "Timestamp": "2026-10-12 09:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:37 AM, Oct 12 2026 Crash on NB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813929/attachment_0.jpg",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
