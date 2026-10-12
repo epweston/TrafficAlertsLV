@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59480,
-    "Timestamp": "2026-10-11 08:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:13 AM, Oct 11 2026 Stalled vehicle on SB Decatur Blvd\u00A0before Warm Springs Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813309/attachment_0.png",
-    "Latitude": 36.057144299999997,
-    "Longitude": -115.2079452
-  },
-  {
     "UniqueId": 59481,
     "Timestamp": "2026-10-11 08:24",
     "IncidentType": "Crash",
@@ -964,5 +950,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813843/attachment_0.jpg",
     "Latitude": 36.118875250000002,
     "Longitude": -115.314973
+  },
+  {
+    "UniqueId": 59551,
+    "Timestamp": "2026-10-12 08:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:16 AM, Oct 12 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813830/attachment_0.jpg",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
