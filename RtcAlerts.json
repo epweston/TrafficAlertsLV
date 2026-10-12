@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59485,
-    "Timestamp": "2026-10-11 09:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:18 AM, Oct 11 2026 Crash on NB 215 Western Beltway\u00A0before Far Hills Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813354/attachment_0.png",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
-    "UniqueId": 59486,
-    "Timestamp": "2026-10-11 09:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:20 AM, Oct 11 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813355/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 59487,
-    "Timestamp": "2026-10-11 09:24",
-    "IncidentType": "Hazard",
-    "Direction": "WB",
-    "PrimaryRoad": "Primm Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "All lanes are flooded.",
-    "Notes": "9:24 AM, Oct 11 2026 Hazard on WB Primm Blvd\u00A0at I-15. All lanes are flooded.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813356/attachment_0.jpg",
-    "Latitude": 35.61240753063931,
-    "Longitude": -115.38916269319185
-  },
-  {
-    "UniqueId": 59488,
-    "Timestamp": "2026-10-11 09:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:29 AM, Oct 11 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813358/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 59489,
     "Timestamp": "2026-10-11 09:38",
     "IncidentType": "Stalled vehicle",
@@ -950,5 +894,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813886/attachment_0.jpg",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 59555,
+    "Timestamp": "2026-10-12 09:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:27 AM, Oct 12 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813925/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
