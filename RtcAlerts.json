@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59495,
-    "Timestamp": "2026-10-11 11:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:33 AM, Oct 11 2026 Stalled vehicle on SB I-15\u00A0at Mile 4. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813395/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 59496,
     "Timestamp": "2026-10-11 11:36",
     "IncidentType": "Hazard",
@@ -1048,5 +1034,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814072/attachment_0.png",
     "Latitude": 36.115066053957577,
     "Longitude": -115.30244890820951
+  },
+  {
+    "UniqueId": 59570,
+    "Timestamp": "2026-10-12 11:30",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:30 AM, Oct 12 2026 Crash on NB Tropicana Ave\u00A0before Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814082/attachment_0.jpg",
+    "Latitude": 36.100984799999999,
+    "Longitude": -115.1899141
+  },
+  {
+    "UniqueId": 59571,
+    "Timestamp": "2026-10-12 11:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:31 AM, Oct 12 2026 Stalled vehicle on SB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814095/attachment_0.jpg",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 59572,
+    "Timestamp": "2026-10-12 11:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Koval Ln",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:31 AM, Oct 12 2026 Crash on NB Koval Ln\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814084/attachment_0.png",
+    "Latitude": 36.100994,
+    "Longitude": -115.1639284
+  },
+  {
+    "UniqueId": 59573,
+    "Timestamp": "2026-10-12 11:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:33 AM, Oct 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
