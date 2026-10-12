@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 59416,
-    "Timestamp": "2026-10-10 22:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:18 PM, Oct 10 2026 Crash on SB Boulder Hwy\u00A0at Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813190/attachment_0.png",
-    "Latitude": 36.084834000000001,
-    "Longitude": -115.0326537
-  },
-  {
-    "UniqueId": 59417,
-    "Timestamp": "2026-10-10 22:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "10:46 PM, Oct 10 2026 Crash on WB Blue Diamond Rd\u00A0at I-15. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813192/attachment_0.png",
-    "Latitude": 36.043447336539366,
-    "Longitude": -115.18079292179071
-  },
-  {
-    "UniqueId": 59418,
-    "Timestamp": "2026-10-10 22:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Multiple lanes blocked. Expect Delays",
-    "Notes": "10:49 PM, Oct 10 2026 Crash on SB I-15\u00A0at Lamb Blvd. Multiple lanes blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 59419,
-    "Timestamp": "2026-10-10 22:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:57 PM, Oct 10 2026 Crash on SB Buffalo Dr\u00A0at Elkhorn Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813209/attachment_0.png",
-    "Latitude": 36.290615500000001,
-    "Longitude": -115.26024820000001
-  },
-  {
-    "UniqueId": 59420,
-    "Timestamp": "2026-10-10 23:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "at",
-    "CrossStreet": "8Th St",
-    "Impact": "",
-    "Notes": "11:18 PM, Oct 10 2026 Crash on EB Stewart Ave\u00A0at 8th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/10/file_attachments/3813210/attachment_0.png",
-    "Latitude": 36.170135500000001,
-    "Longitude": -115.1358006
-  },
-  {
     "UniqueId": 59421,
     "Timestamp": "2026-10-10 23:23",
     "IncidentType": "Crash",
@@ -1482,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813485/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 59526,
+    "Timestamp": "2026-10-11 23:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Robindale Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "11:17 PM, Oct 11 2026 Crash on NB Decatur Blvd\u00A0before Robindale Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813486/attachment_0.png",
+    "Latitude": 36.049756199999997,
+    "Longitude": -115.20787060000001
   }
 ]
