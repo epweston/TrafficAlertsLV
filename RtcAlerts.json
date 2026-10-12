@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59484,
-    "Timestamp": "2026-10-11 08:51",
-    "IncidentType": "Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Raven Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "8:51 AM, Oct 11 2026 Hazard on NB Decatur Blvd\u00A0at Raven Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813335/attachment_0.png",
-    "Latitude": 36.026113299999999,
-    "Longitude": -115.20792179999999
-  },
-  {
     "UniqueId": 59485,
     "Timestamp": "2026-10-11 09:18",
     "IncidentType": "Crash",
@@ -950,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813863/attachment_0.jpg",
     "Latitude": 36.042256799999997,
     "Longitude": -115.1182422
+  },
+  {
+    "UniqueId": 59554,
+    "Timestamp": "2026-10-12 08:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "8:53 AM, Oct 12 2026 Crash on SB I-15\u00A0before Charleston Blvd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813886/attachment_0.jpg",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
