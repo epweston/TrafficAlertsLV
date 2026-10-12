@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59481,
-    "Timestamp": "2026-10-11 08:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "8:24 AM, Oct 11 2026 Crash on NB Lamb Blvd\u00A0at Bonanza Rd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813311/attachment_0.png",
-    "Latitude": 36.173543799999997,
-    "Longitude": -115.08043429999999
-  },
-  {
-    "UniqueId": 59482,
-    "Timestamp": "2026-10-11 08:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:29 AM, Oct 11 2026 Crash on SB I-11\u00A0before Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 59483,
     "Timestamp": "2026-10-11 08:44",
     "IncidentType": "Stalled vehicle",
@@ -964,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813830/attachment_0.jpg",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 59552,
+    "Timestamp": "2026-10-12 08:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Windmill Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:28 AM, Oct 12 2026 Crash on EB Windmill Pkwy\u00A0at Eastern Ave. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813853/attachment_0.png",
+    "Latitude": 36.042256799999997,
+    "Longitude": -115.1182422
   }
 ]
