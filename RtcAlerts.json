@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59490,
-    "Timestamp": "2026-10-11 09:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:55 AM, Oct 11 2026 Crash on NB Fort Apache Rd\u00A0after Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813343/attachment_0.png",
-    "Latitude": 36.100018597507436,
-    "Longitude": -115.29730798072389
-  },
-  {
     "UniqueId": 59493,
     "Timestamp": "2026-10-11 10:25",
     "IncidentType": "Crash",
@@ -950,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813932/attachment_0.jpg",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 59560,
+    "Timestamp": "2026-10-12 09:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mm 107",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:51 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0at MM 107. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813945/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
