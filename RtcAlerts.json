@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59542,
-    "Timestamp": "2026-10-12 06:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Gore blocked.",
-    "Notes": "6:10 AM, Oct 12 2026 Crash on SB I-11\u00A0before Durango Dr. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813678/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
     "UniqueId": 59543,
     "Timestamp": "2026-10-12 06:19",
     "IncidentType": "Stalled vehicle",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814705/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 59625,
+    "Timestamp": "2026-10-13 06:12",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:12 AM, Oct 13 2026 Crash on WB Summerlin Pkwy\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814712/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
