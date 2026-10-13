@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59565,
-    "Timestamp": "2026-10-12 10:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:54 AM, Oct 12 2026 Stalled vehicle on SB I-15\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814057/attachment_0.png",
-    "Latitude": 36.173668758672179,
-    "Longitude": -115.13793117559058
-  },
-  {
-    "UniqueId": 59566,
-    "Timestamp": "2026-10-12 10:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:57 AM, Oct 12 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814045/attachment_0.jpg",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
-    "UniqueId": 59567,
-    "Timestamp": "2026-10-12 11:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Us-93",
-    "Impact": "On ramp partially blocked.",
-    "Notes": "11:06 AM, Oct 12 2026 Stalled vehicle on SB I-15 on ramp at US-93. On ramp partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814062/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 59568,
-    "Timestamp": "2026-10-12 11:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "11:14 AM, Oct 12 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814073/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 59569,
     "Timestamp": "2026-10-12 11:25",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815404/attachment_0.jpg",
     "Latitude": 36.049720700000002,
     "Longitude": -115.1003826
+  },
+  {
+    "UniqueId": 59652,
+    "Timestamp": "2026-10-13 11:12",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:12 AM, Oct 13 2026 Crash on WB Silverado Ranch Blvd\u00A0at Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815480/attachment_0.png",
+    "Latitude": 36.013793100000001,
+    "Longitude": -115.1722729
   }
 ]
