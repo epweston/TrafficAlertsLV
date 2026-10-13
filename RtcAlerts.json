@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59562,
-    "Timestamp": "2026-10-12 10:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:27 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814019/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 59563,
-    "Timestamp": "2026-10-12 10:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:28 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814021/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 59564,
     "Timestamp": "2026-10-12 10:33",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815271/attachment_0.png",
     "Latitude": 36.246219400000001,
     "Longitude": -115.0445976
+  },
+  {
+    "UniqueId": 59649,
+    "Timestamp": "2026-10-13 10:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "10:27 AM, Oct 13 2026 Crash on NB Rainbow Blvd\u00A0at Twain Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815364/attachment_0.png",
+    "Latitude": 36.121982199999998,
+    "Longitude": -115.2430895
   }
 ]
