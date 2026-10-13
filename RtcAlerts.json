@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59529,
-    "Timestamp": "2026-10-12 00:37",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "And Sb Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Hickam Ave",
-    "Impact": "All lanes are now open",
-    "Notes": "12:37 AM, Oct 12 2026 UPDATE: Crash on NB and SB Buffalo Dr\u00A0at Hickam Ave. All lanes are now open",
-    "ImagePath": "",
-    "Latitude": 36.236845500000001,
-    "Longitude": -115.260559
-  },
-  {
-    "UniqueId": 59530,
-    "Timestamp": "2026-10-12 02:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Silverstream Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:44 AM, Oct 12 2026 Crash on NB Rainbow Blvd\u00A0at Silverstream Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813521/attachment_0.png",
-    "Latitude": 36.178903900000002,
-    "Longitude": -115.2423885
-  },
-  {
-    "UniqueId": 59531,
-    "Timestamp": "2026-10-12 02:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "2:49 AM, Oct 12 2026 Crash on WB Blue Diamond Rd\u00A0at Grand Canyon Dr. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.021765299999998,
-    "Longitude": -115.3071832
-  },
-  {
-    "UniqueId": 59532,
-    "Timestamp": "2026-10-12 02:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:57 AM, Oct 12 2026 Crash on NB I-11\u00A0at 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813508/attachment_0.png",
-    "Latitude": 36.033552862846953,
-    "Longitude": -115.01434604859962
-  },
-  {
     "UniqueId": 59533,
     "Timestamp": "2026-10-12 03:05",
     "IncidentType": "Crash",
@@ -1230,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814521/attachment_0.png",
     "Latitude": 36.125662800000001,
     "Longitude": -115.1732894
+  },
+  {
+    "UniqueId": 59620,
+    "Timestamp": "2026-10-13 03:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "3:02 AM, Oct 13 2026 Crash on SB Las Vegas Blvd\u00A0at Harmon Ave. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814544/attachment_0.jpg",
+    "Latitude": 36.108816901628572,
+    "Longitude": -115.17299294471742
   }
 ]
