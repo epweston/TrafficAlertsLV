@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59564,
-    "Timestamp": "2026-10-12 10:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:33 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814029/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 59565,
     "Timestamp": "2026-10-12 10:54",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815364/attachment_0.png",
     "Latitude": 36.121982199999998,
     "Longitude": -115.2430895
+  },
+  {
+    "UniqueId": 59650,
+    "Timestamp": "2026-10-13 10:33",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:33 AM, Oct 13 2026 Crash on EB Blue Diamond Rd\u00A0at Valley View Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815388/attachment_0.png",
+    "Latitude": 36.040631599999998,
+    "Longitude": -115.19019710000001
   }
 ]
