@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 59555,
-    "Timestamp": "2026-10-12 09:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:27 AM, Oct 12 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813925/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 59556,
-    "Timestamp": "2026-10-12 09:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 105",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:33 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0at Mile 105. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813935/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 59557,
-    "Timestamp": "2026-10-12 09:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:34 AM, Oct 12 2026 Crash on EB Windmill Ln\u00A0at Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813938/attachment_0.png",
-    "Latitude": 36.042256799999997,
-    "Longitude": -115.1182422
-  },
-  {
-    "UniqueId": 59558,
-    "Timestamp": "2026-10-12 09:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:37 AM, Oct 12 2026 Crash on NB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813929/attachment_0.jpg",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
-    "UniqueId": 59559,
-    "Timestamp": "2026-10-12 09:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:40 AM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813932/attachment_0.jpg",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 59560,
     "Timestamp": "2026-10-12 09:51",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815227/attachment_0.jpg",
     "Latitude": 36.254366900000001,
     "Longitude": -115.1530484
+  },
+  {
+    "UniqueId": 59646,
+    "Timestamp": "2026-10-13 09:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "9:46 AM, Oct 13 2026 Stalled vehicle on SB I-15 \u00A0at Sahara Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815192/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
