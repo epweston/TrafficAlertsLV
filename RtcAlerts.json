@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59561,
-    "Timestamp": "2026-10-12 10:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:02 AM, Oct 12 2026 Stalled vehicle on SB I-11\u00A0after Wagon Wheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813974/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 59562,
     "Timestamp": "2026-10-12 10:27",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815257/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 59648,
+    "Timestamp": "2026-10-13 10:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Range Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:05 AM, Oct 13 2026 Crash on NB Las Vegas Blvd \u00A0at Range Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815271/attachment_0.png",
+    "Latitude": 36.246219400000001,
+    "Longitude": -115.0445976
   }
 ]
