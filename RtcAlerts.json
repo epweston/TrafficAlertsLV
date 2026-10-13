@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59540,
-    "Timestamp": "2026-10-12 05:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:26 AM, Oct 12 2026 Crash on NB I-15\u00A0before Washington Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 59541,
-    "Timestamp": "2026-10-12 05:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:41 AM, Oct 12 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813649/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 59542,
     "Timestamp": "2026-10-12 06:10",
     "IncidentType": "Crash",
@@ -1104,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814591/attachment_0.png",
     "Latitude": 35.998819051283071,
     "Longitude": -115.12598454113294
+  },
+  {
+    "UniqueId": 59622,
+    "Timestamp": "2026-10-13 05:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:40 AM, Oct 13 2026 Stalled vehicle on SB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814679/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
