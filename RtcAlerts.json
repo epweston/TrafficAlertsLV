@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59516,
-    "Timestamp": "2026-10-11 18:57",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Annie Oakley Dr",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "6:57 PM, Oct 11 2026 UPDATE: Crash on WB Russell Rd\u00A0at Annie Oakley Dr. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.085683500000002,
-    "Longitude": -115.0867511
-  },
-  {
     "UniqueId": 59517,
     "Timestamp": "2026-10-11 19:05",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814480/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 59609,
+    "Timestamp": "2026-10-12 18:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:52 PM, Oct 12 2026 Crash on EB Desert Inn Rd\u00A0after Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814482/attachment_0.png",
+    "Latitude": 36.12983354794379,
+    "Longitude": -115.11856560125827
   }
 ]
