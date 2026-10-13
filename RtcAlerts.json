@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59512,
-    "Timestamp": "2026-10-11 18:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 PM, Oct 11 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 59513,
-    "Timestamp": "2026-10-11 18:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 PM, Oct 11 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813464/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 59514,
-    "Timestamp": "2026-10-11 18:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:23 PM, Oct 11 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813466/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 59515,
-    "Timestamp": "2026-10-11 18:38",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Annie Oakley Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:38 PM, Oct 11 2026 Crash on EB Russell Rd\u00A0at Annie Oakley Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813474/attachment_0.png",
-    "Latitude": 36.085683500000002,
-    "Longitude": -115.0867511
-  },
-  {
     "UniqueId": 59516,
     "Timestamp": "2026-10-11 18:57",
     "IncidentType": "UPDATE: Crash",
@@ -1314,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814447/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 59606,
+    "Timestamp": "2026-10-12 18:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy South",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:44 PM, Oct 12 2026 Crash on NB I-11\u00A0at Boulder Hwy South offramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814459/attachment_0.png",
+    "Latitude": 36.039185499999988,
+    "Longitude": -114.98180910000001
   }
 ]
