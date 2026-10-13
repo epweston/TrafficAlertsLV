@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 59584,
-    "Timestamp": "2026-10-12 16:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:12 PM, Oct 12 2026 Crash on NB I-11\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814387/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 59585,
-    "Timestamp": "2026-10-12 16:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:26 PM, Oct 12 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814371/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 59586,
-    "Timestamp": "2026-10-12 16:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Riverside Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:30 PM, Oct 12 2026 Stalled vehicle on SB I-15\u00A0at Riverside Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814393/attachment_0.png",
-    "Latitude": 36.185387800000001,
-    "Longitude": -115.1826497
-  },
-  {
-    "UniqueId": 59587,
-    "Timestamp": "2026-10-12 16:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:34 PM, Oct 12 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814394/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 59588,
-    "Timestamp": "2026-10-12 16:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Center lanes blocked.",
-    "Notes": "4:34 PM, Oct 12 2026 Crash on WB Flamingo Rd\u00A0before Decatur Blvd. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814395/attachment_0.png",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
     "UniqueId": 59589,
     "Timestamp": "2026-10-12 16:39",
     "IncidentType": "Crash",
@@ -1076,5 +1006,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816017/attachment_0.jpg",
     "Latitude": 36.1692362,
     "Longitude": -115.14061959999999
+  },
+  {
+    "UniqueId": 59664,
+    "Timestamp": "2026-10-13 16:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:31 PM, Oct 13 2026 Crash on SB I-11\u00A0after I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816026/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
