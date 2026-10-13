@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59546,
-    "Timestamp": "2026-10-12 07:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:06 AM, Oct 12 2026 Stalled vehicle on NB I-11\u00A0after Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813759/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 59547,
     "Timestamp": "2026-10-12 07:29",
     "IncidentType": "Crash",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814830/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59633,
+    "Timestamp": "2026-10-13 07:23",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "7:23 AM, Oct 13 2026 Crash on WB 215 Southern Beltway\u00A0at Windmill Ln. Left lane blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
