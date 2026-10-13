@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59547,
-    "Timestamp": "2026-10-12 07:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:29 AM, Oct 12 2026 Crash on SB Maryland Pkwy\u00A0at Silverado Ranch Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3813783/attachment_0.png",
-    "Latitude": 36.013342299999998,
-    "Longitude": -115.13679740000001
-  },
-  {
     "UniqueId": 59548,
     "Timestamp": "2026-10-12 07:49",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,47 @@
     "ImagePath": "",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 59634,
+    "Timestamp": "2026-10-13 07:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:37 AM, Oct 13 2026 Crash on SB I-11\u00A0at Rancho Dr. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814915/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 59635,
+    "Timestamp": "2026-10-13 07:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:38 AM, Oct 13 2026 Crash on SB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814917/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 59636,
+    "Timestamp": "2026-10-13 07:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Seven Hills Dr",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "7:39 AM, Oct 13 2026 Crash on NB Saint Rose Pkwy\u00A0at Seven Hills Dr. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 35.998819051283071,
+    "Longitude": -115.12598454113294
   }
 ]
