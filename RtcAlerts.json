@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59574,
-    "Timestamp": "2026-10-12 12:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:06 PM, Oct 12 2026 Crash on NB Nellis Blvd\u00A0before Stewart Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814111/attachment_0.jpg",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
-    "UniqueId": 59575,
-    "Timestamp": "2026-10-12 12:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:33 PM, Oct 12 2026 Crash on SB Rainbow Blvd\u00A0before Sahara Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814151/attachment_0.jpg",
-    "Latitude": 36.144077500000002,
-    "Longitude": -115.24303310000001
-  },
-  {
-    "UniqueId": 59576,
-    "Timestamp": "2026-10-12 12:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:43 PM, Oct 12 2026 Stalled vehicle on SB I-11\u00A0before College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814156/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 59577,
     "Timestamp": "2026-10-12 14:01",
     "IncidentType": "Crash",
@@ -1118,5 +1076,19 @@
     "ImagePath": "",
     "Latitude": 36.000228253121982,
     "Longitude": -115.12739998639472
+  },
+  {
+    "UniqueId": 59657,
+    "Timestamp": "2026-10-13 12:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Wigwam Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:45 PM, Oct 13 2026 Crash on SB Decatur Blvd\u00A0at Wigwam Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815663/attachment_0.png",
+    "Latitude": 36.035216300000009,
+    "Longitude": -115.2079986
   }
 ]
