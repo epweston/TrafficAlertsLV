@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59518,
-    "Timestamp": "2026-10-11 19:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "7:24 PM, Oct 11 2026 Crash on WB Blue Diamond Rd\u00A0at Grand Canyon Dr. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813471/attachment_0.png",
-    "Latitude": 36.021765299999998,
-    "Longitude": -115.3071832
-  },
-  {
-    "UniqueId": 59519,
-    "Timestamp": "2026-10-11 19:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Intersection partially blocked. Expect Delays",
-    "Notes": "7:35 PM, Oct 11 2026 Crash on NB Hualapai Way\u00A0at Charleston Blvd. Intersection partially blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/11/file_attachments/3813477/attachment_0.png",
-    "Latitude": 36.159016100000002,
-    "Longitude": -115.31398280000001
-  },
-  {
     "UniqueId": 59520,
     "Timestamp": "2026-10-11 19:46",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814469/attachment_0.png",
     "Latitude": 36.115562400000009,
     "Longitude": -115.208167
+  },
+  {
+    "UniqueId": 59612,
+    "Timestamp": "2026-10-12 19:36",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Tule Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "New Leaf Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "7:36 PM, Oct 12 2026 Crash on NB Tule Springs Rd\u00A0at New Leaf Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814485/attachment_0.png",
+    "Latitude": 36.292524,
+    "Longitude": -115.27870900000001
+  },
+  {
+    "UniqueId": 59613,
+    "Timestamp": "2026-10-12 19:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:37 PM, Oct 12 2026 Crash on WB Sahara Ave\u00A0before I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814493/attachment_0.png",
+    "Latitude": 36.144043678496175,
+    "Longitude": -115.17114596721193
   }
 ]
