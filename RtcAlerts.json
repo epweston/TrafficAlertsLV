@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59644,
-    "Timestamp": "2026-10-13 09:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:14 AM, Oct 13 2026 Stalled vehicle on NB 215 Northern Beltway\u00A0at Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815167/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 59645,
-    "Timestamp": "2026-10-13 09:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Camino Al Norte",
-    "Relationship": "at",
-    "CrossStreet": "Washburn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:22 AM, Oct 13 2026 Crash on NB Camino Al Norte\u00A0at Washburn Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815227/attachment_0.jpg",
-    "Latitude": 36.254366900000001,
-    "Longitude": -115.1530484
-  },
-  {
     "UniqueId": 59646,
     "Timestamp": "2026-10-13 09:46",
     "IncidentType": "Stalled vehicle",
@@ -1062,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816633/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 59722,
+    "Timestamp": "2026-10-14 09:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:19 AM, Oct 14 2026 Stalled vehicle on SB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816799/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
