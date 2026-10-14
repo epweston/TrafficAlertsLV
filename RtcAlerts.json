@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59595,
-    "Timestamp": "2026-10-12 17:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:12 PM, Oct 12 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814429/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 59596,
-    "Timestamp": "2026-10-12 17:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:24 PM, Oct 12 2026 Crash on SB I-11\u00A0at Rancho Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814409/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 59597,
     "Timestamp": "2026-10-12 17:30",
     "IncidentType": "Crash",
@@ -1048,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816052/attachment_0.png",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 59674,
+    "Timestamp": "2026-10-13 17:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:23 PM, Oct 13 2026 Crash on EB Charleston Blvd\u00A0before Buffalo Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816061/attachment_0.png",
+    "Latitude": 36.159044199999997,
+    "Longitude": -115.2623966
   }
 ]
