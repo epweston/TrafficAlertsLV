@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59665,
-    "Timestamp": "2026-10-13 16:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "4:50 PM, Oct 13 2026 Crash on WB Craig Rd\u00A0before Lamb Blvd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816044/attachment_0.png",
-    "Latitude": 36.240452876389568,
-    "Longitude": -115.08002755928754
-  },
-  {
-    "UniqueId": 59666,
-    "Timestamp": "2026-10-13 16:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:52 PM, Oct 13 2026 Crash on SB Durango Dr\u00A0before 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816035/attachment_0.png",
-    "Latitude": 36.066225699999997,
-    "Longitude": -115.2791549
-  },
-  {
     "UniqueId": 59667,
     "Timestamp": "2026-10-13 16:56",
     "IncidentType": "Crash",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817842/attachment_0.png",
     "Latitude": 36.1665572,
     "Longitude": -115.26004070000001
+  },
+  {
+    "UniqueId": 59758,
+    "Timestamp": "2026-10-14 16:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:49 PM, Oct 14 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817844/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
