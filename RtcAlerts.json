@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59597,
-    "Timestamp": "2026-10-12 17:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:30 PM, Oct 12 2026 Crash on NB I-11\u00A0after Las Vegas Blvd . Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814434/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 59598,
-    "Timestamp": "2026-10-12 17:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:38 PM, Oct 12 2026 Crash on SB Eastern Ave\u00A0before Sunset Rd. Center lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.071651799999998,
-    "Longitude": -115.1187552
-  },
-  {
-    "UniqueId": 59599,
-    "Timestamp": "2026-10-12 17:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:38 PM, Oct 12 2026 Crash on SB Eastern Ave\u00A0before Sunset Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814438/attachment_0.png",
-    "Latitude": 36.071651799999998,
-    "Longitude": -115.1187552
-  },
-  {
     "UniqueId": 59600,
     "Timestamp": "2026-10-12 17:46",
     "IncidentType": "Crash",
@@ -1034,5 +992,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816061/attachment_0.png",
     "Latitude": 36.159044199999997,
     "Longitude": -115.2623966
+  },
+  {
+    "UniqueId": 59675,
+    "Timestamp": "2026-10-13 17:39",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:39 PM, Oct 13 2026 Crash on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816080/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 59676,
+    "Timestamp": "2026-10-13 17:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:40 PM, Oct 13 2026 Crash on EB 215 Southern Beltway\u00A0before St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816085/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
   }
 ]
