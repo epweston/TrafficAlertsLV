@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59660,
-    "Timestamp": "2026-10-13 15:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Spanish Oaks Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:44 PM, Oct 13 2026 Crash on WB Sahara Ave\u00A0before Spanish Oaks Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815959/attachment_0.png",
-    "Latitude": 36.144398898786768,
-    "Longitude": -115.18550777747298
-  },
-  {
     "UniqueId": 59661,
     "Timestamp": "2026-10-13 15:47",
     "IncidentType": "Crash",
@@ -1160,5 +1146,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817765/attachment_0.png",
     "Latitude": 36.115562400000009,
     "Longitude": -115.208167
+  },
+  {
+    "UniqueId": 59745,
+    "Timestamp": "2026-10-14 15:39",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:39 PM, Oct 14 2026 Crash on EB Spring Mountain Rd\u00A0at I-15 on ramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817767/attachment_0.png",
+    "Latitude": 36.126198294845885,
+    "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 59746,
+    "Timestamp": "2026-10-14 15:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "3:40 PM, Oct 14 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817769/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 59747,
+    "Timestamp": "2026-10-14 15:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:44 PM, Oct 14 2026 Crash on NB I-11\u00A0at Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817793/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
