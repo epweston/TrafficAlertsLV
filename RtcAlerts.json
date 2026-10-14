@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59635,
-    "Timestamp": "2026-10-13 07:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:38 AM, Oct 13 2026 Crash on SB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814917/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 59636,
-    "Timestamp": "2026-10-13 07:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Seven Hills Dr",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "7:39 AM, Oct 13 2026 Crash on NB Saint Rose Pkwy\u00A0at Seven Hills Dr. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 35.998819051283071,
-    "Longitude": -115.12598454113294
-  },
-  {
-    "UniqueId": 59637,
-    "Timestamp": "2026-10-13 07:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lower Flat Top Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:42 AM, Oct 13 2026 Stalled vehicle on SB I-15\u00A0at Lower Flat Top Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.782583331008503,
-    "Longitude": -114.13802574824116
-  },
-  {
     "UniqueId": 59638,
     "Timestamp": "2026-10-13 07:56",
     "IncidentType": "Crash",
@@ -1048,5 +1006,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816449/attachment_0.png",
     "Latitude": 36.121504899999998,
     "Longitude": -115.0769566
+  },
+  {
+    "UniqueId": 59712,
+    "Timestamp": "2026-10-14 07:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:40 AM, Oct 14 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816453/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 59713,
+    "Timestamp": "2026-10-14 07:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Donovan Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:41 AM, Oct 14 2026 Crash on WB Craig Rd\u00A0at Donovan Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816457/attachment_0.png",
+    "Latitude": 36.2402534,
+    "Longitude": -115.10440800000001
   }
 ]
