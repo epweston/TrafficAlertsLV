@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59663,
-    "Timestamp": "2026-10-13 15:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "",
-    "Notes": "3:59 PM, Oct 13 2026 Crash on NB Las Vegas Blvd\u00A0at Fremont St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816017/attachment_0.jpg",
-    "Latitude": 36.1692362,
-    "Longitude": -115.14061959999999
-  },
-  {
     "UniqueId": 59664,
     "Timestamp": "2026-10-13 16:31",
     "IncidentType": "Crash",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817798/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 59750,
+    "Timestamp": "2026-10-14 16:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "4:03 PM, Oct 14 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd off-ramp. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817821/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 59751,
+    "Timestamp": "2026-10-14 16:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Us-93",
+    "Impact": "Right shoulder.",
+    "Notes": "4:05 PM, Oct 14 2026 Stalled vehicle on NB I-15\u00A0after US-93. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817805/attachment_0.jpg",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
