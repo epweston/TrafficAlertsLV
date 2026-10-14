@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59594,
-    "Timestamp": "2026-10-12 17:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:09 PM, Oct 12 2026 Crash on SB I-11\u00A0before Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814428/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 59595,
     "Timestamp": "2026-10-12 17:12",
     "IncidentType": "Stalled vehicle",
@@ -1020,5 +1006,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816048/attachment_0.png",
     "Latitude": 36.129609100000003,
     "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 59670,
+    "Timestamp": "2026-10-13 17:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:05 PM, Oct 13 2026 Crash on EB Cheyenne Ave\u00A0after Nellis Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816051/attachment_0.png",
+    "Latitude": 36.218293025093082,
+    "Longitude": -115.06223920636269
+  },
+  {
+    "UniqueId": 59671,
+    "Timestamp": "2026-10-13 17:06",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:06 PM, Oct 13 2026 Crash on WB 215 Northern Beltway\u00A0before Fort Apache Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816043/attachment_0.png",
+    "Latitude": 36.144311000000002,
+    "Longitude": -115.29760039999999
+  },
+  {
+    "UniqueId": 59672,
+    "Timestamp": "2026-10-13 17:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "5:08 PM, Oct 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Stephanie St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816052/attachment_0.png",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
   }
 ]
