@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59656,
-    "Timestamp": "2026-10-13 11:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Spencer St",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:50 AM, Oct 13 2026 Crash on SB Spencer St\u00A0at Cactus Ave. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.000228253121982,
-    "Longitude": -115.12739998639472
-  },
-  {
     "UniqueId": 59657,
     "Timestamp": "2026-10-13 12:45",
     "IncidentType": "Crash",
@@ -992,5 +978,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817442/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 59729,
+    "Timestamp": "2026-10-14 11:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "11:47 AM, Oct 14 2026 Crash on WB Flamingo Rd\u00A0at Las Vegas Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817432/attachment_0.png",
+    "Latitude": 36.114680487880882,
+    "Longitude": -115.1728856710384
   }
 ]
