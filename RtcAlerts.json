@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59640,
-    "Timestamp": "2026-10-13 08:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Seven Hills Dr",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "8:56 AM, Oct 13 2026 Crash on NB Saint Rose Pkwy\u00A0at Seven Hills Dr. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 35.998819051283071,
-    "Longitude": -115.12598454113294
-  },
-  {
-    "UniqueId": 59641,
-    "Timestamp": "2026-10-13 08:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:58 AM, Oct 13 2026 Crash on EB Flamingo Rd\u00A0before I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815075/attachment_0.png",
-    "Latitude": 36.114676128133588,
-    "Longitude": -115.17288565635683
-  },
-  {
-    "UniqueId": 59642,
-    "Timestamp": "2026-10-13 09:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:01 AM, Oct 13 2026 Crash on NB Las Vegas Blvd\u00A0after Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815079/attachment_0.jpg",
-    "Latitude": 36.1255715,
-    "Longitude": -115.1693689
-  },
-  {
-    "UniqueId": 59643,
-    "Timestamp": "2026-10-13 09:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:03 AM, Oct 13 2026 Crash on WB Sunset Rd\u00A0at Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3815083/attachment_0.jpg",
-    "Latitude": 36.071651899999999,
-    "Longitude": -115.1009116
-  },
-  {
     "UniqueId": 59644,
     "Timestamp": "2026-10-13 09:14",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1020,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816620/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 59719,
+    "Timestamp": "2026-10-14 09:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:00 AM, Oct 14 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816602/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59720,
+    "Timestamp": "2026-10-14 09:01",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:01 AM, Oct 14 2026 Crash on EB Desert Inn Rd\u00A0before Paradise Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816628/attachment_0.png",
+    "Latitude": 36.129609100000003,
+    "Longitude": -115.1547559
   }
 ]
