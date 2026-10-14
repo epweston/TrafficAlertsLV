@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59614,
-    "Timestamp": "2026-10-12 20:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:23 PM, Oct 12 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814487/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 59616,
-    "Timestamp": "2026-10-12 21:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:04 PM, Oct 12 2026 Crash on WB Russell Rd\u00A0at Maryland Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814514/attachment_0.png",
-    "Latitude": 36.0889928,
-    "Longitude": -115.1369655
-  },
-  {
     "UniqueId": 59619,
     "Timestamp": "2026-10-13 00:29",
     "IncidentType": "Crash",
@@ -950,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816102/attachment_0.jpg",
     "Latitude": 36.180861052200697,
     "Longitude": -115.16088006783248
+  },
+  {
+    "UniqueId": 59687,
+    "Timestamp": "2026-10-13 21:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd On Left",
+    "Impact": "",
+    "Notes": "9:05 PM, Oct 13 2026 Crash on SB I-11\u00A0before Jones Blvd on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816115/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
