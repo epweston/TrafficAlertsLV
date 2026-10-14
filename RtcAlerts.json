@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59606,
-    "Timestamp": "2026-10-12 18:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy South",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:44 PM, Oct 12 2026 Crash on NB I-11\u00A0at Boulder Hwy South offramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814459/attachment_0.png",
-    "Latitude": 36.039185499999988,
-    "Longitude": -114.98180910000001
-  },
-  {
-    "UniqueId": 59607,
-    "Timestamp": "2026-10-12 18:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:47 PM, Oct 12 2026 Crash on SB I-15\u00A0before Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814461/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 59608,
-    "Timestamp": "2026-10-12 18:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:49 PM, Oct 12 2026 Stalled vehicle on SB I-11 offramp to Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814480/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 59609,
-    "Timestamp": "2026-10-12 18:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:52 PM, Oct 12 2026 Crash on EB Desert Inn Rd\u00A0after Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814482/attachment_0.png",
-    "Latitude": 36.12983354794379,
-    "Longitude": -115.11856560125827
-  },
-  {
     "UniqueId": 59610,
     "Timestamp": "2026-10-12 19:09",
     "IncidentType": "Crash",
@@ -1020,5 +964,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816095/attachment_0.png",
     "Latitude": 36.272856280056651,
     "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 59683,
+    "Timestamp": "2026-10-13 19:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Eastgate Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:03 PM, Oct 13 2026 Crash on EB Lake Mead Pkwy\u00A0before Eastgate Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816098/attachment_0.png",
+    "Latitude": 36.034325041044013,
+    "Longitude": -115.0078868949862
+  },
+  {
+    "UniqueId": 59684,
+    "Timestamp": "2026-10-13 19:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Roy Horn Wy",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:06 PM, Oct 13 2026 Crash on EB Roy Horn Wy\u00A0before Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816100/attachment_0.png",
+    "Latitude": 36.065249000000001,
+    "Longitude": -115.27947949999999
   }
 ]
