@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59623,
-    "Timestamp": "2026-10-13 05:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:49 AM, Oct 13 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814695/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 59624,
-    "Timestamp": "2026-10-13 05:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked 3 Center lanes blocked. Expect Delays",
-    "Notes": "5:55 AM, Oct 13 2026 Crash on SB I-11\u00A0at Rancho Dr. Left lane blocked 3 Center lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3814705/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 59625,
     "Timestamp": "2026-10-13 06:12",
     "IncidentType": "Crash",
@@ -1076,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816291/attachment_0.png",
     "Latitude": 36.275373984021336,
     "Longitude": -115.24246214142418
+  },
+  {
+    "UniqueId": 59702,
+    "Timestamp": "2026-10-14 06:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rogers St 2",
+    "Impact": "",
+    "Notes": "6:08 AM, Oct 14 2026 Crash on EB Tropicana Ave\u00A0at Rogers St. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816327/attachment_0.png",
+    "Latitude": 36.098101900000003,
+    "Longitude": -115.2018669
   }
 ]
