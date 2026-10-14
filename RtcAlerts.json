@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59593,
-    "Timestamp": "2026-10-12 17:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Transiti",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:03 PM, Oct 12 2026 Crash on SB I-15 transition ramp to 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/12/file_attachments/3814426/attachment_0.png",
-    "Latitude": 36.128090999999998,
-    "Longitude": -115.1503924
-  },
-  {
     "UniqueId": 59594,
     "Timestamp": "2026-10-12 17:09",
     "IncidentType": "Crash",
@@ -1006,5 +992,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816037/attachment_0.png",
     "Latitude": 36.144533188965404,
     "Longitude": -115.20814061164857
+  },
+  {
+    "UniqueId": 59668,
+    "Timestamp": "2026-10-13 17:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:03 PM, Oct 13 2026 Crash on WB 215 Southern Beltway\u00A0to Jones Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816050/attachment_0.jpg",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 59669,
+    "Timestamp": "2026-10-13 17:03",
+    "IncidentType": "Structure Fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "after",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:03 PM, Oct 13 2026 Structure Fire on WB Desert Inn Rd\u00A0after Paradise Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816048/attachment_0.png",
+    "Latitude": 36.129609100000003,
+    "Longitude": -115.1547559
   }
 ]
