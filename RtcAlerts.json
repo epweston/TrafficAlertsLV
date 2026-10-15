@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 59668,
-    "Timestamp": "2026-10-13 17:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:03 PM, Oct 13 2026 Crash on WB 215 Southern Beltway\u00A0to Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816050/attachment_0.jpg",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 59669,
-    "Timestamp": "2026-10-13 17:03",
-    "IncidentType": "Structure Fire",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:03 PM, Oct 13 2026 Structure Fire on WB Desert Inn Rd\u00A0after Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816048/attachment_0.png",
-    "Latitude": 36.129609100000003,
-    "Longitude": -115.1547559
-  },
-  {
-    "UniqueId": 59670,
-    "Timestamp": "2026-10-13 17:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:05 PM, Oct 13 2026 Crash on EB Cheyenne Ave\u00A0after Nellis Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816051/attachment_0.png",
-    "Latitude": 36.218293025093082,
-    "Longitude": -115.06223920636269
-  },
-  {
-    "UniqueId": 59671,
-    "Timestamp": "2026-10-13 17:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:06 PM, Oct 13 2026 Crash on WB 215 Northern Beltway\u00A0before Fort Apache Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816043/attachment_0.png",
-    "Latitude": 36.144311000000002,
-    "Longitude": -115.29760039999999
-  },
-  {
-    "UniqueId": 59672,
-    "Timestamp": "2026-10-13 17:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "5:08 PM, Oct 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Stephanie St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816052/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 59674,
     "Timestamp": "2026-10-13 17:23",
     "IncidentType": "Crash",
@@ -1258,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817846/attachment_0.jpg",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 59760,
+    "Timestamp": "2026-10-14 17:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Ridge Pkwy",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "5:16 PM, Oct 14 2026 Crash on NB Eastern Ave\u00A0before Horizon Ridge Pkwy. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817853/attachment_0.png",
+    "Latitude": 35.999189399999999,
+    "Longitude": -115.1048687
   }
 ]
