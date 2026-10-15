@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59740,
-    "Timestamp": "2026-10-14 14:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Mt Hood St",
-    "Impact": "",
-    "Notes": "2:50 PM, Oct 14 2026 Crash on SB Las Vegas Blvd\u00A0at Mt Hood St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817729/attachment_0.png",
-    "Latitude": 36.252639599999988,
-    "Longitude": -115.03374820000001
-  },
-  {
     "UniqueId": 59741,
     "Timestamp": "2026-10-14 14:52",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819352/attachment_0.png",
     "Latitude": 36.114676128133588,
     "Longitude": -115.17288565635683
+  },
+  {
+    "UniqueId": 59844,
+    "Timestamp": "2026-10-15 14:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:45 PM, Oct 15 2026 Crash on SB Las Vegas Blvd\u00A0at Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819356/attachment_0.jpg",
+    "Latitude": 36.1255715,
+    "Longitude": -115.1693689
   }
 ]
