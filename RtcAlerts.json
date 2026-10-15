@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59687,
-    "Timestamp": "2026-10-13 21:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd On Left",
-    "Impact": "",
-    "Notes": "9:05 PM, Oct 13 2026 Crash on SB I-11\u00A0before Jones Blvd on left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816115/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 59688,
-    "Timestamp": "2026-10-13 22:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:04 PM, Oct 13 2026 Stalled vehicle on NB I-11\u00A0after Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816126/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 59689,
-    "Timestamp": "2026-10-13 22:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:07 PM, Oct 13 2026 Crash on NB Decatur Blvd\u00A0before Alta Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816128/attachment_0.jpg",
-    "Latitude": 36.1665402,
-    "Longitude": -115.2061514
-  },
-  {
     "UniqueId": 59690,
     "Timestamp": "2026-10-13 22:42",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817963/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 59791,
+    "Timestamp": "2026-10-14 22:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Lone Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:03 PM, Oct 14 2026 Stalled vehicle on EB Lone Mountain Rd\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817947/attachment_0.png",
+    "Latitude": 36.2463774,
+    "Longitude": -115.22552949999999
+  },
+  {
+    "UniqueId": 59792,
+    "Timestamp": "2026-10-14 22:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lower Flat Top Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:06 PM, Oct 14 2026 Stalled vehicle on NB I-15\u00A0at Lower Flat Top Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817965/attachment_0.png",
+    "Latitude": 36.782583331008503,
+    "Longitude": -114.13802574824116
   }
 ]
