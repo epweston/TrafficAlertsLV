@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59757,
-    "Timestamp": "2026-10-14 16:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:37 PM, Oct 14 2026 Crash on SB Buffalo Dr\u00A0at Alta Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817842/attachment_0.png",
-    "Latitude": 36.1665572,
-    "Longitude": -115.26004070000001
-  },
-  {
     "UniqueId": 59758,
     "Timestamp": "2026-10-14 16:49",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819519/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 59873,
+    "Timestamp": "2026-10-15 16:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:36 PM, Oct 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819514/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 59874,
+    "Timestamp": "2026-10-15 16:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Bruce Woodbury Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:38 PM, Oct 15 2026 Crash on NB Bruce Woodbury Beltway\u00A0at Russell Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819516/attachment_0.png",
+    "Latitude": 36.085086099999998,
+    "Longitude": -115.2466233
+  },
+  {
+    "UniqueId": 59875,
+    "Timestamp": "2026-10-15 16:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:39 PM, Oct 15 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819517/attachment_0.png",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
