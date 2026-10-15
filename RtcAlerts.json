@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59741,
-    "Timestamp": "2026-10-14 14:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder.",
-    "Notes": "2:52 PM, Oct 14 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817705/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 59742,
-    "Timestamp": "2026-10-14 14:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right shoulder.",
-    "Notes": "2:54 PM, Oct 14 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Pecos Rd. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817739/attachment_0.png",
-    "Latitude": 36.289687579999999,
-    "Longitude": -115.09891034
-  },
-  {
     "UniqueId": 59743,
     "Timestamp": "2026-10-14 15:04",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819356/attachment_0.jpg",
     "Latitude": 36.1255715,
     "Longitude": -115.1693689
+  },
+  {
+    "UniqueId": 59846,
+    "Timestamp": "2026-10-15 14:55",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:55 PM, Oct 15 2026 Crash on EB Summerlin Pkwy\u00A0after Buffalo Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819385/attachment_0.jpg",
+    "Latitude": 36.178483896259188,
+    "Longitude": -115.25997161865236
   }
 ]
