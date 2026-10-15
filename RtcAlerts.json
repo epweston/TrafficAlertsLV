@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59755,
-    "Timestamp": "2026-10-14 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Left shoulder",
-    "Notes": "4:19 PM, Oct 14 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Windmill Ln. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817815/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 59756,
     "Timestamp": "2026-10-14 16:31",
     "IncidentType": "Crash",
@@ -1454,5 +1440,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819499/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 59864,
+    "Timestamp": "2026-10-15 16:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Right lane blocked. Use caution.",
+    "Notes": "4:15 PM, Oct 15 2026 Stalled vehicle on SB I-15\u00A0before Neon Gateway. Right lane blocked. Use caution.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819489/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
+  },
+  {
+    "UniqueId": 59865,
+    "Timestamp": "2026-10-15 16:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:16 PM, Oct 15 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819502/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 59866,
+    "Timestamp": "2026-10-15 16:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "from",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:19 PM, Oct 15 2026 Crash on NB 215 Western Beltway\u00A0from Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819505/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
