@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59674,
-    "Timestamp": "2026-10-13 17:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:23 PM, Oct 13 2026 Crash on EB Charleston Blvd\u00A0before Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816061/attachment_0.png",
-    "Latitude": 36.159044199999997,
-    "Longitude": -115.2623966
-  },
-  {
     "UniqueId": 59675,
     "Timestamp": "2026-10-13 17:39",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817853/attachment_0.png",
     "Latitude": 35.999189399999999,
     "Longitude": -115.1048687
+  },
+  {
+    "UniqueId": 59761,
+    "Timestamp": "2026-10-14 17:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:19 PM, Oct 14 2026 Crash on WB Tropicana Ave\u00A0at I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817867/attachment_0.jpg",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
