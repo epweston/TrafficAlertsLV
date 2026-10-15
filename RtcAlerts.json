@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59711,
-    "Timestamp": "2026-10-14 07:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Mountain Vista St 2",
-    "Impact": "",
-    "Notes": "7:32 AM, Oct 14 2026 Crash on WB Tropicana Ave\u00A0at Mountain Vista St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816449/attachment_0.png",
-    "Latitude": 36.121504899999998,
-    "Longitude": -115.0769566
-  },
-  {
     "UniqueId": 59712,
     "Timestamp": "2026-10-14 07:40",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818360/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 59809,
+    "Timestamp": "2026-10-15 07:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:34 AM, Oct 15 2026 Crash on SB 215 Northern Beltway\u00A0before Ann Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818357/attachment_0.png",
+    "Latitude": 36.261508127735802,
+    "Longitude": -115.32678022210708
   }
 ]
