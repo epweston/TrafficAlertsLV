@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59717,
-    "Timestamp": "2026-10-14 08:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Judson Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:25 AM, Oct 14 2026 Crash on SB Lamb Blvd\u00A0at Judson Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816555/attachment_0.png",
-    "Latitude": 36.199338599999997,
-    "Longitude": -115.08015399999999
-  },
-  {
-    "UniqueId": 59718,
-    "Timestamp": "2026-10-14 08:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:47 AM, Oct 14 2026 Crash on SB I-15\u00A0after Russell Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816620/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 59719,
     "Timestamp": "2026-10-14 09:00",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818442/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 59812,
+    "Timestamp": "2026-10-15 08:42",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:42 AM, Oct 15 2026 Crash on EB Blue Diamond Rd\u00A0at Decatur Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818485/attachment_0.png",
+    "Latitude": 36.032555177363861,
+    "Longitude": -115.2078938274455
+  },
+  {
+    "UniqueId": 59813,
+    "Timestamp": "2026-10-15 08:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:46 AM, Oct 15 2026 Crash on SB I-11\u00A0before Lake Mead Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818503/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
