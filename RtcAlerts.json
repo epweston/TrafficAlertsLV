@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59732,
-    "Timestamp": "2026-10-14 13:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:42 PM, Oct 14 2026 Crash on SB Eastern Ave\u00A0before 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817595/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
     "UniqueId": 59733,
     "Timestamp": "2026-10-14 13:47",
     "IncidentType": "Crash",
@@ -1370,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819223/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 59832,
+    "Timestamp": "2026-10-15 13:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:39 PM, Oct 15 2026 Stalled vehicle on SB I-11\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819252/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 59833,
+    "Timestamp": "2026-10-15 13:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:41 PM, Oct 15 2026 Crash on NB Buffalo Dr\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819279/attachment_0.jpg",
+    "Latitude": 36.143581699999999,
+    "Longitude": -115.2608621
   }
 ]
