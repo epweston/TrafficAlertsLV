@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 59704,
-    "Timestamp": "2026-10-14 06:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:45 AM, Oct 14 2026 Crash on WB Tropicana Ave\u00A0at Dean Martin Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816398/attachment_0.png",
-    "Latitude": 36.1008578,
-    "Longitude": -115.1827169
-  },
-  {
-    "UniqueId": 59705,
-    "Timestamp": "2026-10-14 06:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:49 AM, Oct 14 2026 Stalled vehicle on SB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816404/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
-    "UniqueId": 59706,
-    "Timestamp": "2026-10-14 06:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:54 AM, Oct 14 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816424/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 59707,
-    "Timestamp": "2026-10-14 06:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "6:59 AM, Oct 14 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Stephanie St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816428/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 59708,
-    "Timestamp": "2026-10-14 07:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Laughlin Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Us-95",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:04 AM, Oct 14 2026 Crash on EB Laughlin Hwy\u00A0at US-95. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3816419/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
     "UniqueId": 59709,
     "Timestamp": "2026-10-14 07:08",
     "IncidentType": "Crash",
@@ -1412,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818210/attachment_0.png",
     "Latitude": 36.185528699999999,
     "Longitude": -115.3292939
+  },
+  {
+    "UniqueId": 59806,
+    "Timestamp": "2026-10-15 07:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:01 AM, Oct 15 2026 Stalled vehicle on NB I-15\u00A0at Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818286/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
