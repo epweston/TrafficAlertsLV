@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59681,
-    "Timestamp": "2026-10-13 18:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:27 PM, Oct 13 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816093/attachment_0.png",
-    "Latitude": 36.289875459999998,
-    "Longitude": -115.07998461
-  },
-  {
-    "UniqueId": 59682,
-    "Timestamp": "2026-10-13 18:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:28 PM, Oct 13 2026 Stalled vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816095/attachment_0.png",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
     "UniqueId": 59683,
     "Timestamp": "2026-10-13 19:03",
     "IncidentType": "Crash",
@@ -1230,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817890/attachment_0.png",
     "Latitude": 36.114659896847385,
     "Longitude": -115.17288892246221
+  },
+  {
+    "UniqueId": 59770,
+    "Timestamp": "2026-10-14 18:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:23 PM, Oct 14 2026 Crash on NB I-11\u00A0to Ann Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817892/attachment_0.png",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
