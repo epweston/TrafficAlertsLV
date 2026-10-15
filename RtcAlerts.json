@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59736,
-    "Timestamp": "2026-10-14 14:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Moapa Valley Blvd",
-    "Impact": "Ramp lane partially blocked.",
-    "Notes": "2:17 PM, Oct 14 2026 Stalled vehicle on NB I-15\u00A0to Moapa Valley Blvd off-ramp (Mile 93). Ramp lane partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817683/attachment_0.png",
-    "Latitude": 36.670656356017403,
-    "Longitude": -114.5219135284424
-  },
-  {
-    "UniqueId": 59737,
-    "Timestamp": "2026-10-14 14:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "2:20 PM, Oct 14 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Stephanie St. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817665/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 59738,
-    "Timestamp": "2026-10-14 14:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:20 PM, Oct 14 2026 Crash on NB Jones Blvd\u00A0after Alta Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817668/attachment_0.jpg",
-    "Latitude": 36.1663827,
-    "Longitude": -115.2237853
-  },
-  {
-    "UniqueId": 59739,
-    "Timestamp": "2026-10-14 14:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:22 PM, Oct 14 2026 Crash on WB Blue Diamond Rd\u00A0at Lindell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817688/attachment_0.jpg",
-    "Latitude": 36.028711399999999,
-    "Longitude": -115.21678830000001
-  },
-  {
     "UniqueId": 59740,
     "Timestamp": "2026-10-14 14:50",
     "IncidentType": "Crash",
@@ -1412,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819323/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 59840,
+    "Timestamp": "2026-10-15 14:24",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:24 PM, Oct 15 2026 Crash on EB Lake Mead Blvd\u00A0before Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819329/attachment_0.jpg",
+    "Latitude": 36.195750279980111,
+    "Longitude": -115.09840610713668
   }
 ]
