@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59683,
-    "Timestamp": "2026-10-13 19:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Eastgate Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:03 PM, Oct 13 2026 Crash on EB Lake Mead Pkwy\u00A0before Eastgate Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816098/attachment_0.png",
-    "Latitude": 36.034325041044013,
-    "Longitude": -115.0078868949862
-  },
-  {
-    "UniqueId": 59684,
-    "Timestamp": "2026-10-13 19:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Wy",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:06 PM, Oct 13 2026 Crash on EB Roy Horn Wy\u00A0before Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816100/attachment_0.png",
-    "Latitude": 36.065249000000001,
-    "Longitude": -115.27947949999999
-  },
-  {
     "UniqueId": 59686,
     "Timestamp": "2026-10-13 20:11",
     "IncidentType": "Crash",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817923/attachment_0.png",
     "Latitude": 35.607225398050609,
     "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 59779,
+    "Timestamp": "2026-10-14 19:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "7:08 PM, Oct 14 2026 Crash on EB 215 Southern Beltway\u00A0at Gibson Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817906/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
