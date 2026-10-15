@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59743,
-    "Timestamp": "2026-10-14 15:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 106",
-    "Impact": "Right shoulder.",
-    "Notes": "3:04 PM, Oct 14 2026 Stalled vehicle on NB I-15\u00A0at Mile 106. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817714/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 59744,
     "Timestamp": "2026-10-14 15:37",
     "IncidentType": "Crash",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819385/attachment_0.jpg",
     "Latitude": 36.178483896259188,
     "Longitude": -115.25997161865236
+  },
+  {
+    "UniqueId": 59847,
+    "Timestamp": "2026-10-15 15:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:08 PM, Oct 15 2026 Crash on EB Flamingo Rd\u00A0after Nellis Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819372/attachment_0.jpg",
+    "Latitude": 36.114871200000003,
+    "Longitude": -115.0647175
   }
 ]
