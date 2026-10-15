@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59680,
-    "Timestamp": "2026-10-13 17:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:56 PM, Oct 13 2026 Crash on SB Las Vegas Blvd\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/13/file_attachments/3816090/attachment_0.png",
-    "Latitude": 36.063540607409585,
-    "Longitude": -115.17238147551866
-  },
-  {
     "UniqueId": 59681,
     "Timestamp": "2026-10-13 18:27",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817884/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 59768,
+    "Timestamp": "2026-10-14 18:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:06 PM, Oct 14 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817888/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
