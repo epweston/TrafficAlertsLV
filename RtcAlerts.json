@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59856,
-    "Timestamp": "2026-10-15 15:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:54 PM, Oct 15 2026 Crash on SB Stephanie St\u00A0after 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819453/attachment_0.png",
-    "Latitude": 36.029356880000002,
-    "Longitude": -115.04715435
-  },
-  {
-    "UniqueId": 59857,
-    "Timestamp": "2026-10-15 15:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:55 PM, Oct 15 2026 Crash on SB Hualapai Way\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819470/attachment_0.png",
-    "Latitude": 36.115357500000002,
-    "Longitude": -115.314774
-  },
-  {
-    "UniqueId": 59858,
-    "Timestamp": "2026-10-15 15:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:57 PM, Oct 15 2026 Crash on SB I-11\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819454/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 59859,
-    "Timestamp": "2026-10-15 16:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "from",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:02 PM, Oct 15 2026 Crash on WB 215 Southern Beltway onramp from Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819457/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 59860,
     "Timestamp": "2026-10-15 16:09",
     "IncidentType": "Crash",
@@ -1748,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820956/attachment_0.jpg",
     "Latitude": 36.188139700000001,
     "Longitude": -115.0983279
+  },
+  {
+    "UniqueId": 59984,
+    "Timestamp": "2026-10-16 16:01",
+    "IncidentType": "Other",
+    "Direction": "NB",
+    "PrimaryRoad": "13Th St",
+    "Relationship": "before",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "All lanes are blocked.",
+    "Notes": "4:01 PM, Oct 16 2026 Other on NB 13th St\u00A0before Stewart Ave. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820960/attachment_0.jpg",
+    "Latitude": 36.167660300000001,
+    "Longitude": -115.1300196
   }
 ]
