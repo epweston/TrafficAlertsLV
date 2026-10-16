@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59848,
-    "Timestamp": "2026-10-15 15:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:21 PM, Oct 15 2026 Crash on NB Lamb Blvd\u00A0at Lone Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819407/attachment_0.jpg",
-    "Latitude": 36.247336234578057,
-    "Longitude": -115.07996320305016
-  },
-  {
     "UniqueId": 59849,
     "Timestamp": "2026-10-15 15:25",
     "IncidentType": "Crash",
@@ -1734,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820944/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 59975,
+    "Timestamp": "2026-10-16 15:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:14 PM, Oct 16 2026 Crash on SB Rainbow Blvd\u00A0before Hacienda Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820923/attachment_0.jpg",
+    "Latitude": 36.092429699999997,
+    "Longitude": -115.24293179999999
+  },
+  {
+    "UniqueId": 59976,
+    "Timestamp": "2026-10-16 15:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "3:15 PM, Oct 16 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Decatur Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820924/attachment_0.png",
+    "Latitude": 36.274993366998793,
+    "Longitude": -115.20657961738746
   }
 ]
