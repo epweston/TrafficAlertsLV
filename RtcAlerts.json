@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59809,
-    "Timestamp": "2026-10-15 07:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:34 AM, Oct 15 2026 Crash on SB 215 Northern Beltway\u00A0before Ann Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818357/attachment_0.png",
-    "Latitude": 36.261508127735802,
-    "Longitude": -115.32678022210708
-  },
-  {
     "UniqueId": 59810,
     "Timestamp": "2026-10-15 07:55",
     "IncidentType": "Crash",
@@ -1706,5 +1692,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820080/attachment_0.png",
     "Latitude": 36.115066053957577,
     "Longitude": -115.30244890820951
+  },
+  {
+    "UniqueId": 59937,
+    "Timestamp": "2026-10-16 07:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:34 AM, Oct 16 2026 Crash on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 59938,
+    "Timestamp": "2026-10-16 07:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "over",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:34 AM, Oct 16 2026 Crash on NB I-11\u00A0over Las Vegas Blvd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820089/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
