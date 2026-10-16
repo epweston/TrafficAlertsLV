@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59786,
-    "Timestamp": "2026-10-14 20:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Marion Dr",
-    "Relationship": "at",
-    "CrossStreet": "Owens Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "8:23 PM, Oct 14 2026 Crash on NB Marion Dr\u00A0at Owens Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817916/attachment_0.png",
-    "Latitude": 36.1884953,
-    "Longitude": -115.07085789999999
-  },
-  {
     "UniqueId": 59787,
     "Timestamp": "2026-10-14 20:40",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819596/attachment_0.png",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 59906,
+    "Timestamp": "2026-10-15 20:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:27 PM, Oct 15 2026 Crash on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819618/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 59908,
+    "Timestamp": "2026-10-15 20:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Sumnmerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:28 PM, Oct 15 2026 Stalled vehicle on EB Sumnmerlin Pkwy\u00A0at Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819620/attachment_0.png",
+    "Latitude": 36.183238600000003,
+    "Longitude": -115.30132519999999
   }
 ]
