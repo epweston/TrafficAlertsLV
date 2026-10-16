@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59827,
-    "Timestamp": "2026-10-15 12:27",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 21",
-    "Impact": "",
-    "Notes": "12:27 PM, Oct 15 2026 Police activity on SB I-15\u00A0after Mile 21 (past Sloan Rd), Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819116/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 59828,
-    "Timestamp": "2026-10-15 12:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:32 PM, Oct 15 2026 Crash on WB Flamingo Rd\u00A0before Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819122/attachment_0.png",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
     "UniqueId": 59830,
     "Timestamp": "2026-10-15 13:06",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820657/attachment_0.png",
     "Latitude": 36.097323899999999,
     "Longitude": -115.13682110000001
+  },
+  {
+    "UniqueId": 59960,
+    "Timestamp": "2026-10-16 12:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:33 PM, Oct 16 2026 Crash on NB I-15\u00A0before Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820714/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
