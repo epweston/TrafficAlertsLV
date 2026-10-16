@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59849,
-    "Timestamp": "2026-10-15 15:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:25 PM, Oct 15 2026 Crash on EB Flamingo Rd\u00A0before I-11. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819429/attachment_0.jpg",
-    "Latitude": 36.114676128133588,
-    "Longitude": -115.17288565635683
-  },
-  {
-    "UniqueId": 59850,
-    "Timestamp": "2026-10-15 15:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:25 PM, Oct 15 2026 Stalled vehicle on EB 215 Southern Beltway at Eastern Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819413/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 59851,
     "Timestamp": "2026-10-15 15:34",
     "IncidentType": "Stalled vehicle",
@@ -1748,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820924/attachment_0.png",
     "Latitude": 36.274993366998793,
     "Longitude": -115.20657961738746
+  },
+  {
+    "UniqueId": 59977,
+    "Timestamp": "2026-10-16 15:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "4Th St",
+    "Impact": "",
+    "Notes": "3:29 PM, Oct 16 2026 Crash on WB Charleston Blvd\u00A0at 4th St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820928/attachment_0.png",
+    "Latitude": 36.158919699999998,
+    "Longitude": -115.14887659999999
   }
 ]
