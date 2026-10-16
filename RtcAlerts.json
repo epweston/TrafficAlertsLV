@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59811,
-    "Timestamp": "2026-10-15 08:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:13 AM, Oct 15 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818442/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 59812,
-    "Timestamp": "2026-10-15 08:42",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:42 AM, Oct 15 2026 Crash on EB Blue Diamond Rd\u00A0at Decatur Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818485/attachment_0.png",
-    "Latitude": 36.032555177363861,
-    "Longitude": -115.2078938274455
-  },
-  {
-    "UniqueId": 59813,
-    "Timestamp": "2026-10-15 08:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:46 AM, Oct 15 2026 Crash on SB I-11\u00A0before Lake Mead Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818503/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 59814,
     "Timestamp": "2026-10-15 08:50",
     "IncidentType": "Crash",
@@ -1748,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820160/attachment_0.png",
     "Latitude": 36.189898800000002,
     "Longitude": -115.1337771
+  },
+  {
+    "UniqueId": 59942,
+    "Timestamp": "2026-10-16 08:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:42 AM, Oct 16 2026 Crash on SB Durango Dr\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820246/attachment_0.png",
+    "Latitude": 36.298196408901752,
+    "Longitude": -115.28604269027711
   }
 ]
