@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59830,
-    "Timestamp": "2026-10-15 13:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "",
-    "Notes": "1:06 PM, Oct 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Gibson Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819198/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 59831,
-    "Timestamp": "2026-10-15 13:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Eb 215 Southern Beltway",
-    "Impact": "",
-    "Notes": "1:10 PM, Oct 15 2026 Stalled vehicle on SB I-15\u00A0to EB 215 Southern Beltway on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819223/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 59832,
     "Timestamp": "2026-10-15 13:39",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820693/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 59962,
+    "Timestamp": "2026-10-16 13:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "El Capitan Way",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:04 PM, Oct 16 2026 Crash on EB Cheyenne Ave\u00A0after El Capitan Way. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820754/attachment_0.jpg",
+    "Latitude": 36.218656199999998,
+    "Longitude": -115.2879958
   }
 ]
