@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59779,
-    "Timestamp": "2026-10-14 19:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "7:08 PM, Oct 14 2026 Crash on EB 215 Southern Beltway\u00A0at Gibson Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817906/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 59780,
-    "Timestamp": "2026-10-14 19:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "I-11",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:10 PM, Oct 14 2026 Crash on SB I-15\u00A0to I-11. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817925/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 59781,
     "Timestamp": "2026-10-14 19:29",
     "IncidentType": "Crash",
@@ -1636,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819592/attachment_0.png",
     "Latitude": 36.118875250000002,
     "Longitude": -115.314973
+  },
+  {
+    "UniqueId": 59902,
+    "Timestamp": "2026-10-15 19:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:07 PM, Oct 15 2026 Stalled vehicle on NB I-11\u00A0after Valley View Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819599/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
   }
 ]
