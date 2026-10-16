@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59760,
-    "Timestamp": "2026-10-14 17:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "5:16 PM, Oct 14 2026 Crash on NB Eastern Ave\u00A0before Horizon Ridge Pkwy. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817853/attachment_0.png",
-    "Latitude": 35.999189399999999,
-    "Longitude": -115.1048687
-  },
-  {
     "UniqueId": 59761,
     "Timestamp": "2026-10-14 17:19",
     "IncidentType": "Crash",
@@ -1636,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819532/attachment_0.png",
     "Latitude": 36.100067600000003,
     "Longitude": -115.10999150000001
+  },
+  {
+    "UniqueId": 59882,
+    "Timestamp": "2026-10-15 17:12",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:12 PM, Oct 15 2026 Crash on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819544/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 59883,
+    "Timestamp": "2026-10-15 17:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:17 PM, Oct 15 2026 Stalled vehicle on SB I-15\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819547/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
