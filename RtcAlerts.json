@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59844,
-    "Timestamp": "2026-10-15 14:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:45 PM, Oct 15 2026 Crash on SB Las Vegas Blvd\u00A0at Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819356/attachment_0.jpg",
-    "Latitude": 36.1255715,
-    "Longitude": -115.1693689
-  },
-  {
     "UniqueId": 59846,
     "Timestamp": "2026-10-15 14:55",
     "IncidentType": "Crash",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820911/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 59971,
+    "Timestamp": "2026-10-16 14:46",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:46 PM, Oct 16 2026 Crash on WB Cheyenne Ave\u00A0before Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820915/attachment_0.png",
+    "Latitude": 36.218685299999997,
+    "Longitude": -115.2788607
   }
 ]
