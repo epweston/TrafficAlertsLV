@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59821,
-    "Timestamp": "2026-10-15 09:42",
-    "IncidentType": "Update Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "All lanes are open.",
-    "Notes": "9:42 AM, Oct 15 2026 Update Police activity on SB Nellis Blvd\u00A0at Twain Ave. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.122523919999999,
-    "Longitude": -115.06509306
-  },
-  {
-    "UniqueId": 59822,
-    "Timestamp": "2026-10-15 09:55",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:55 AM, Oct 15 2026 Crash on WB 215 Southern Beltway\u00A0before Valle Verde Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818646/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 59823,
     "Timestamp": "2026-10-15 11:18",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820335/attachment_0.png",
     "Latitude": 36.148524100000003,
     "Longitude": -115.1048411
+  },
+  {
+    "UniqueId": 59947,
+    "Timestamp": "2026-10-16 09:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:57 AM, Oct 16 2026 Crash on WB Flamingo Rd\u00A0before Pecos Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820390/attachment_0.png",
+    "Latitude": 36.115209200000002,
+    "Longitude": -115.1008898
   }
 ]
