@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59777,
-    "Timestamp": "2026-10-14 18:56",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:56 PM, Oct 14 2026 Crash on WB Washington Ave\u00A0at Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817904/attachment_0.png",
-    "Latitude": 36.181169099999998,
-    "Longitude": -115.1924709
-  },
-  {
     "UniqueId": 59778,
     "Timestamp": "2026-10-14 18:57",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819572/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 59900,
+    "Timestamp": "2026-10-15 18:53",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropical Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Intersection Partially Blocked.",
+    "Notes": "6:53 PM, Oct 15 2026 Crash on EB Tropical Pkwy\u00A0at I-15. Intersection Partially Blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819574/attachment_0.png",
+    "Latitude": 36.271334600290096,
+    "Longitude": -115.05659580230714
   }
 ]
