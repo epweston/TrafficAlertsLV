@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59823,
-    "Timestamp": "2026-10-15 11:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:18 AM, Oct 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818918/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 59824,
     "Timestamp": "2026-10-15 11:33",
     "IncidentType": "Crash",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820576/attachment_0.png",
     "Latitude": 36.121982199999998,
     "Longitude": -115.2430895
+  },
+  {
+    "UniqueId": 59956,
+    "Timestamp": "2026-10-16 11:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "over",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:24 AM, Oct 16 2026 Crash on NB I-11\u00A0over Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820591/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
