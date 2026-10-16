@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59799,
-    "Timestamp": "2026-10-15 04:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "4:21 AM, Oct 15 2026 Crash on NB Decatur Blvd\u00A0at I-11. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818028/attachment_0.png",
-    "Latitude": 36.174238600000002,
-    "Longitude": -115.2060639
-  },
-  {
-    "UniqueId": 59800,
-    "Timestamp": "2026-10-15 04:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "4:23 AM, Oct 15 2026 Crash on NB I-15\u00A0before Lamb Blvd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818040/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 59801,
-    "Timestamp": "2026-10-15 04:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fifth St",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:39 AM, Oct 15 2026 Crash on SB Fifth St\u00A0before Craig Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818036/attachment_0.png",
-    "Latitude": 36.239609185733798,
-    "Longitude": -115.1343852113781
-  },
-  {
     "UniqueId": 59802,
     "Timestamp": "2026-10-15 05:56",
     "IncidentType": "Crash",
@@ -1706,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819692/attachment_0.png",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 59927,
+    "Timestamp": "2026-10-16 05:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:18 AM, Oct 16 2026 Crash on SB I-15 off ramp to Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819782/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
