@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59814,
-    "Timestamp": "2026-10-15 08:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Yale St",
-    "Impact": "",
-    "Notes": "8:50 AM, Oct 15 2026 Crash on EB Washington Ave\u00A0at Yale St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818511/attachment_0.png",
-    "Latitude": 36.180954100000001,
-    "Longitude": -115.206879
-  },
-  {
-    "UniqueId": 59815,
-    "Timestamp": "2026-10-15 08:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:50 AM, Oct 15 2026 Crash on WB Desert Inn Rd\u00A0before Valley View Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818491/attachment_0.png",
-    "Latitude": 36.130102165943548,
-    "Longitude": -115.19025029115214
-  },
-  {
-    "UniqueId": 59816,
-    "Timestamp": "2026-10-15 08:57",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "8:57 AM, Oct 15 2026 Police activity on SB Nellis Blvd\u00A0at Twain Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3818494/attachment_0.jpg",
-    "Latitude": 36.122523919999999,
-    "Longitude": -115.06509306
-  },
-  {
     "UniqueId": 59817,
     "Timestamp": "2026-10-15 09:20",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820246/attachment_0.png",
     "Latitude": 36.298196408901752,
     "Longitude": -115.28604269027711
+  },
+  {
+    "UniqueId": 59943,
+    "Timestamp": "2026-10-16 08:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:52 AM, Oct 16 2026 Stalled vehicle on SB I-15 \u00A0before 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820257/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
