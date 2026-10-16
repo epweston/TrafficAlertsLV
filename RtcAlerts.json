@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59770,
-    "Timestamp": "2026-10-14 18:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:23 PM, Oct 14 2026 Crash on NB I-11\u00A0to Ann Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817892/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
     "UniqueId": 59771,
     "Timestamp": "2026-10-14 18:40",
     "IncidentType": "Crash",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819584/attachment_0.png",
     "Latitude": 36.289791190000003,
     "Longitude": -115.09897463999999
+  },
+  {
+    "UniqueId": 59898,
+    "Timestamp": "2026-10-15 18:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Reno Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:32 PM, Oct 15 2026 Crash on NB Jones Blvd\u00A0at Reno Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819570/attachment_0.jpg",
+    "Latitude": 36.0963201,
+    "Longitude": -115.22505390000001
   }
 ]
