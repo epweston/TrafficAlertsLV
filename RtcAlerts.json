@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59852,
-    "Timestamp": "2026-10-15 15:44",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:44 PM, Oct 15 2026 Crash on EB Sahara Ave\u00A0at Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819460/attachment_0.png",
-    "Latitude": 36.143649451295026,
-    "Longitude": -115.26096401606286
-  },
-  {
-    "UniqueId": 59853,
-    "Timestamp": "2026-10-15 15:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:45 PM, Oct 15 2026 Crash on WB Cheyenne Ave\u00A0before Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819463/attachment_0.jpg",
-    "Latitude": 36.217751300000003,
-    "Longitude": -115.1611446
-  },
-  {
-    "UniqueId": 59855,
-    "Timestamp": "2026-10-15 15:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:47 PM, Oct 15 2026 Crash on NB Nellis Blvd\u00A0before Boulder Hwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819465/attachment_0.jpg",
-    "Latitude": 36.112973083499654,
-    "Longitude": -115.0646209842639
-  },
-  {
     "UniqueId": 59856,
     "Timestamp": "2026-10-15 15:54",
     "IncidentType": "Crash",
@@ -1776,5 +1734,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820937/attachment_0.jpg",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 59983,
+    "Timestamp": "2026-10-16 15:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "after",
+    "CrossStreet": "Owens Ave",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "3:46 PM, Oct 16 2026 Crash on SB Pecos Rd\u00A0after Owens Ave. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820956/attachment_0.jpg",
+    "Latitude": 36.188139700000001,
+    "Longitude": -115.0983279
   }
 ]
