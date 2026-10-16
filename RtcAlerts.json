@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59759,
-    "Timestamp": "2026-10-14 17:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:00 PM, Oct 14 2026 Crash on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/14/file_attachments/3817846/attachment_0.jpg",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 59760,
     "Timestamp": "2026-10-14 17:16",
     "IncidentType": "Crash",
@@ -1594,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819526/attachment_0.jpg",
     "Latitude": 36.100957899999997,
     "Longitude": -115.14142750000001
+  },
+  {
+    "UniqueId": 59878,
+    "Timestamp": "2026-10-15 16:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "4:59 PM, Oct 15 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.129981600000001,
+    "Longitude": -115.20814
+  },
+  {
+    "UniqueId": 59879,
+    "Timestamp": "2026-10-15 17:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Belmont St",
+    "Impact": "",
+    "Notes": "5:00 PM, Oct 15 2026 Crash on WB Lake Mead Blvd\u00A0at Belmont St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819530/attachment_0.jpg",
+    "Latitude": 36.1958871,
+    "Longitude": -115.1068702
   }
 ]
