@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59851,
-    "Timestamp": "2026-10-15 15:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:34 PM, Oct 15 2026 Stalled vehicle on NB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819439/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 59852,
     "Timestamp": "2026-10-15 15:44",
     "IncidentType": "Crash",
@@ -1734,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820928/attachment_0.png",
     "Latitude": 36.158919699999998,
     "Longitude": -115.14887659999999
+  },
+  {
+    "UniqueId": 59978,
+    "Timestamp": "2026-10-16 15:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:32 PM, Oct 16 2026 Stalled vehicle on SB I-11\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820950/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 59979,
+    "Timestamp": "2026-10-16 15:33",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "5Th St",
+    "Impact": "",
+    "Notes": "3:33 PM, Oct 16 2026 Crash on EB Craig Rd\u00A0before 5th St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820931/attachment_0.jpg",
+    "Latitude": 36.2397049,
+    "Longitude": -115.13429979999999
   }
 ]
