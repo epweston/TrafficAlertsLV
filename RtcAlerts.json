@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59942,
-    "Timestamp": "2026-10-16 08:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:42 AM, Oct 16 2026 Crash on SB Durango Dr\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820246/attachment_0.png",
-    "Latitude": 36.298196408901752,
-    "Longitude": -115.28604269027711
-  },
-  {
-    "UniqueId": 59943,
-    "Timestamp": "2026-10-16 08:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:52 AM, Oct 16 2026 Stalled vehicle on SB I-15 \u00A0before 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820257/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 59944,
-    "Timestamp": "2026-10-16 09:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:03 AM, Oct 16 2026 Stalled vehicle on SB I-11\u00A0to I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820270/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 59945,
-    "Timestamp": "2026-10-16 09:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:04 AM, Oct 16 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820287/attachment_0.jpg",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 59946,
     "Timestamp": "2026-10-16 09:31",
     "IncidentType": "Crash",
@@ -1566,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821205/attachment_0.png",
     "Latitude": 36.099120999999997,
     "Longitude": -115.1492777
+  },
+  {
+    "UniqueId": 60055,
+    "Timestamp": "2026-10-17 09:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Chicago Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:08 AM, Oct 17 2026 Crash on SB Nellis Blvd\u00A0at Chicago Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821206/attachment_0.png",
+    "Latitude": 36.1505133,
+    "Longitude": -115.0654509
+  },
+  {
+    "UniqueId": 60056,
+    "Timestamp": "2026-10-17 09:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:10 AM, Oct 17 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821208/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
