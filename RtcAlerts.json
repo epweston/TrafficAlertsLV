@@ -1580,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821191/attachment_0.png",
     "Latitude": 36.175245009999998,
     "Longitude": -115.16082640000001
+  },
+  {
+    "UniqueId": 60062,
+    "Timestamp": "2026-10-17 10:00",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Bonneville Ave",
+    "Relationship": "before",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Right lanes blocked.",
+    "Notes": "10:00 AM, Oct 17 2026 Crash on EB Bonneville Ave\u00A0before Grand Central Pkwy. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821193/attachment_0.jpg",
+    "Latitude": 36.166670614356832,
+    "Longitude": -115.15533862505639
+  },
+  {
+    "UniqueId": 60063,
+    "Timestamp": "2026-10-17 10:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "under",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:01 AM, Oct 17 2026 Crash on NB Martin L King Blvd\u00A0under I-11. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.175245009999998,
+    "Longitude": -115.16082640000001
   }
 ]
