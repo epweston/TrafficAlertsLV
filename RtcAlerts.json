@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59909,
-    "Timestamp": "2026-10-15 21:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "9:00 PM, Oct 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Stephanie St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819603/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 59910,
     "Timestamp": "2026-10-15 21:41",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821069/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 60012,
+    "Timestamp": "2026-10-16 21:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Ridge Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:06 PM, Oct 16 2026 Stalled vehicle on SB I-11\u00A0before Horizon Ridge Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821045/attachment_0.png",
+    "Latitude": 36.010619300000002,
+    "Longitude": -114.9938854
   }
 ]
