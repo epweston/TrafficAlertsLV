@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59932,
-    "Timestamp": "2026-10-16 06:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:46 AM, Oct 16 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819916/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 59933,
-    "Timestamp": "2026-10-16 06:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:57 AM, Oct 16 2026 Stalled vehicle on SB I-15\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819969/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 59934,
-    "Timestamp": "2026-10-16 07:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:02 AM, Oct 16 2026 Crash on SB I-11\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819973/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 59935,
     "Timestamp": "2026-10-16 07:15",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821170/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 60046,
+    "Timestamp": "2026-10-17 07:07",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:07 AM, Oct 17 2026 Police activity on SB 215 Western Beltway\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821154/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
   }
 ]
