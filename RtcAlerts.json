@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59926,
-    "Timestamp": "2026-10-16 04:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:11 AM, Oct 16 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819692/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 59927,
     "Timestamp": "2026-10-16 05:18",
     "IncidentType": "Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821125/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 60039,
+    "Timestamp": "2026-10-17 04:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Camino Al Norte",
+    "Relationship": "at",
+    "CrossStreet": "Craig Ranch Parkway",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:09 AM, Oct 17 2026 Crash on SB Camino Al Norte\u00A0at Craig Ranch Parkway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821112/attachment_0.png",
+    "Latitude": 36.243419000000003,
+    "Longitude": -115.1598403
+  },
+  {
+    "UniqueId": 60040,
+    "Timestamp": "2026-10-17 04:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:12 AM, Oct 17 2026 Crash on NB I-15\u00A0at Sahara Ave Onramp. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821127/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
