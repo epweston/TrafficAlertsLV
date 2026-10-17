@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59910,
-    "Timestamp": "2026-10-15 21:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lone Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:41 PM, Oct 15 2026 Crash on WB Lone Mountain Rd\u00A0at Decatur Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819605/attachment_0.png",
-    "Latitude": 36.246738399999998,
-    "Longitude": -115.2076361
-  },
-  {
-    "UniqueId": 59911,
-    "Timestamp": "2026-10-15 21:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "El Capitan Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:41 PM, Oct 15 2026 Crash on WB Blue Diamond Rd\u00A0at El Capitan Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819622/attachment_0.png",
-    "Latitude": 36.020405099999998,
-    "Longitude": -115.288556
-  },
-  {
-    "UniqueId": 59912,
-    "Timestamp": "2026-10-15 21:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Nb I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:52 PM, Oct 15 2026 Crash on NB I-15 ramp to NB I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819607/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 59913,
-    "Timestamp": "2026-10-15 21:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St 2",
-    "Impact": "",
-    "Notes": "9:53 PM, Oct 15 2026 Crash on WB Sunset Rd\u00A0at Stephanie St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819624/attachment_0.png",
-    "Latitude": 36.055369300000002,
-    "Longitude": -115.0468958
-  },
-  {
     "UniqueId": 59914,
     "Timestamp": "2026-10-15 22:34",
     "IncidentType": "Crash",
@@ -1440,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821047/attachment_0.png",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 60014,
+    "Timestamp": "2026-10-16 21:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "from",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "9:49 PM, Oct 16 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0from St Rose Pkwy. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821073/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
   }
 ]
