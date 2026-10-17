@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59987,
-    "Timestamp": "2026-10-16 16:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder.",
-    "Notes": "4:23 PM, Oct 16 2026 Crash on SB I-15\u00A0after Cheyenne Ave. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820983/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 59988,
-    "Timestamp": "2026-10-16 16:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:25 PM, Oct 16 2026 Stalled vehicle on NB I-11\u00A0before Cheyenne. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820966/attachment_0.png",
-    "Latitude": 36.217686800000003,
-    "Longitude": -115.1384317
-  },
-  {
-    "UniqueId": 59989,
-    "Timestamp": "2026-10-16 16:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:34 PM, Oct 16 2026 Crash on SB Jones Blvd\u00A0after Charleston Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820970/attachment_0.jpg",
-    "Latitude": 36.159152115630107,
-    "Longitude": -115.2239227294922
-  },
-  {
-    "UniqueId": 59990,
-    "Timestamp": "2026-10-16 16:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:36 PM, Oct 16 2026 Crash on NB I-15\u00A0after Silverado Ranch. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820991/attachment_0.jpg",
-    "Latitude": 36.013137628740573,
-    "Longitude": -115.18044046310412
-  },
-  {
     "UniqueId": 59991,
     "Timestamp": "2026-10-16 17:34",
     "IncidentType": "Crash",
@@ -1426,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821350/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 60090,
+    "Timestamp": "2026-10-17 16:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Twain Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:48 PM, Oct 17 2026 Crash on SB University Center Dr\u00A0at Twain Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821353/attachment_0.jpg",
+    "Latitude": 36.1217398,
+    "Longitude": -115.146192
   }
 ]
