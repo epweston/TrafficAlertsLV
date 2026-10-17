@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59966,
-    "Timestamp": "2026-10-16 13:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:29 PM, Oct 16 2026 Stalled vehicle on SB I-15\u00A0after I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820802/attachment_0.jpg",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 59967,
     "Timestamp": "2026-10-16 13:53",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821322/attachment_0.jpg",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 60078,
+    "Timestamp": "2026-10-17 13:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "before",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:27 PM, Oct 17 2026 Crash on SB Boulder Hwy\u00A0before Nellis Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821324/attachment_0.jpg",
+    "Latitude": 36.113265400000003,
+    "Longitude": -115.06468529999999
   }
 ]
