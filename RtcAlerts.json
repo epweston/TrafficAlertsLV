@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59916,
-    "Timestamp": "2026-10-15 22:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "",
-    "Notes": "10:42 PM, Oct 15 2026 Stalled vehicle on NB I-11 onramp from Auto Show Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819629/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 59917,
-    "Timestamp": "2026-10-15 22:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:46 PM, Oct 15 2026 Crash on NB Jones Blvd\u00A0after Blue Diamond Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819631/attachment_0.png",
-    "Latitude": 36.0256525,
-    "Longitude": -115.2256967
-  },
-  {
-    "UniqueId": 59918,
-    "Timestamp": "2026-10-15 22:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:50 PM, Oct 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819635/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 59919,
     "Timestamp": "2026-10-15 23:20",
     "IncidentType": "Crash",
@@ -1454,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821055/attachment_0.jpg",
     "Latitude": 36.114680487880882,
     "Longitude": -115.1728856710384
+  },
+  {
+    "UniqueId": 60021,
+    "Timestamp": "2026-10-16 22:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Town Center Dr",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:58 PM, Oct 16 2026 Crash on SB Town Center Dr\u00A0after Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821082/attachment_0.png",
+    "Latitude": 36.158865100000007,
+    "Longitude": -115.3229869
   }
 ]
