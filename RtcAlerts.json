@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59898,
-    "Timestamp": "2026-10-15 18:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Reno Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:32 PM, Oct 15 2026 Crash on NB Jones Blvd\u00A0at Reno Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819570/attachment_0.jpg",
-    "Latitude": 36.0963201,
-    "Longitude": -115.22505390000001
-  },
-  {
     "UniqueId": 59899,
     "Timestamp": "2026-10-15 18:50",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821008/attachment_0.png",
     "Latitude": 36.002564409146181,
     "Longitude": -115.10892569074953
+  },
+  {
+    "UniqueId": 59995,
+    "Timestamp": "2026-10-16 18:31",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:31 PM, Oct 16 2026 Crash on SB 215 Western Beltway\u00A0at Charleston Blvd. Center lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 59996,
+    "Timestamp": "2026-10-16 18:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:34 PM, Oct 16 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821010/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
