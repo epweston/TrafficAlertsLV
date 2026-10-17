@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59984,
-    "Timestamp": "2026-10-16 16:01",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "13Th St",
-    "Relationship": "before",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "4:01 PM, Oct 16 2026 Other on NB 13th St\u00A0before Stewart Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820960/attachment_0.jpg",
-    "Latitude": 36.167660300000001,
-    "Longitude": -115.1300196
-  },
-  {
     "UniqueId": 59985,
     "Timestamp": "2026-10-16 16:11",
     "IncidentType": "Crash",
@@ -1426,5 +1412,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821345/attachment_0.png",
     "Latitude": 36.195946300000003,
     "Longitude": -115.11643030000001
+  },
+  {
+    "UniqueId": 60087,
+    "Timestamp": "2026-10-17 16:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:05 PM, Oct 17 2026 Crash on NB Rampart Blvd\u00A0after Alta Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821346/attachment_0.png",
+    "Latitude": 36.166804848968461,
+    "Longitude": -115.28802752494813
+  },
+  {
+    "UniqueId": 60088,
+    "Timestamp": "2026-10-17 16:07",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 19",
+    "Impact": "Right shoulder",
+    "Notes": "4:07 PM, Oct 17 2026 Police activity on NB I-15\u00A0at Mile 19. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821348/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
