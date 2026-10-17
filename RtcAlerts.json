@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59957,
-    "Timestamp": "2026-10-16 11:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:39 AM, Oct 16 2026 Stalled vehicle on SB I-11\u00A0before Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820626/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 59958,
     "Timestamp": "2026-10-16 11:49",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821293/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 60074,
+    "Timestamp": "2026-10-17 11:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:36 AM, Oct 17 2026 Stalled vehicle on NB Durango Dr\u00A0at 215 Southern Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821275/attachment_0.png",
+    "Latitude": 36.066225699999997,
+    "Longitude": -115.2791549
   }
 ]
