@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59946,
-    "Timestamp": "2026-10-16 09:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "at",
-    "CrossStreet": "Saint Louis Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:31 AM, Oct 16 2026 Crash on NB Fremont St\u00A0at Saint Louis Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820335/attachment_0.png",
-    "Latitude": 36.148524100000003,
-    "Longitude": -115.1048411
-  },
-  {
     "UniqueId": 59947,
     "Timestamp": "2026-10-16 09:57",
     "IncidentType": "Crash",
@@ -1538,5 +1524,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821208/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 60057,
+    "Timestamp": "2026-10-17 09:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:26 AM, Oct 17 2026 Crash on SB 215 Western Beltway\u00A0before Charleston Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821210/attachment_0.jpg",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 60058,
+    "Timestamp": "2026-10-17 09:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:28 AM, Oct 17 2026 Crash on NB 215 Western Beltway\u00A0before Charleston Blvd. Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 60059,
+    "Timestamp": "2026-10-17 09:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:29 AM, Oct 17 2026 Stalled vehicle on SB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821211/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
