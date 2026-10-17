@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59914,
-    "Timestamp": "2026-10-15 22:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:34 PM, Oct 15 2026 Crash on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819615/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 59915,
     "Timestamp": "2026-10-15 22:39",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821079/attachment_0.png",
     "Latitude": 36.129609100000003,
     "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 60019,
+    "Timestamp": "2026-10-16 22:30",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:30 PM, Oct 16 2026 Crash on WB Lake Mead Blvd\u00A0after Rancho Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821053/attachment_0.png",
+    "Latitude": 36.200295199999999,
+    "Longitude": -115.19687399999999
   }
 ]
