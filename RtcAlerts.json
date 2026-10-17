@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 59928,
-    "Timestamp": "2026-10-16 05:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:45 AM, Oct 16 2026 Crash on SB I-15\u00A0before Harmon Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819822/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 59929,
-    "Timestamp": "2026-10-16 05:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:47 AM, Oct 16 2026 Stalled vehicle on SB I-11\u00A0to I-15. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819810/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 59930,
-    "Timestamp": "2026-10-16 06:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Casa Linda Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:08 AM, Oct 16 2026 Crash on NB Rainbow Blvd\u00A0before Casa Linda Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819836/attachment_0.png",
-    "Latitude": 36.123786899999999,
-    "Longitude": -115.2430811
-  },
-  {
-    "UniqueId": 59931,
-    "Timestamp": "2026-10-16 06:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Chalreston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:34 AM, Oct 16 2026 Crash on EB Chalreston Blvd\u00A0after Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819925/attachment_0.png",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
     "UniqueId": 59932,
     "Timestamp": "2026-10-16 06:46",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821166/attachment_0.png",
     "Latitude": 36.174010299999999,
     "Longitude": -115.1161199
+  },
+  {
+    "UniqueId": 60045,
+    "Timestamp": "2026-10-17 06:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:38 AM, Oct 17 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821170/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
