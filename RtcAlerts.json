@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59936,
-    "Timestamp": "2026-10-16 07:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:31 AM, Oct 16 2026 Crash on NB 215 Western Beltway\u00A0to Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820080/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
-    "UniqueId": 59937,
-    "Timestamp": "2026-10-16 07:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:34 AM, Oct 16 2026 Crash on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 59938,
-    "Timestamp": "2026-10-16 07:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "over",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:34 AM, Oct 16 2026 Crash on NB I-11\u00A0over Las Vegas Blvd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820089/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 59939,
     "Timestamp": "2026-10-16 07:49",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821156/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 60048,
+    "Timestamp": "2026-10-17 07:44",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "7:44 AM, Oct 17 2026 Police activity on NB Jones Blvd\u00A0before Flamingo Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821180/attachment_0.png",
+    "Latitude": 36.114589600000002,
+    "Longitude": -115.2249535
   }
 ]
