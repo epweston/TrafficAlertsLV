@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59919,
-    "Timestamp": "2026-10-15 23:20",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "11:20 PM, Oct 15 2026 Crash on WB Tropicana Ave\u00A0before I-15. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819658/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
-    "UniqueId": 59920,
-    "Timestamp": "2026-10-15 23:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Joe W Brown Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:57 PM, Oct 15 2026 Crash on EB Desert Inn Rd\u00A0after Joe W Brown Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819661/attachment_0.png",
-    "Latitude": 36.129755558420179,
-    "Longitude": -115.1459967953781
-  },
-  {
     "UniqueId": 59921,
     "Timestamp": "2026-10-16 00:35",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821082/attachment_0.png",
     "Latitude": 36.158865100000007,
     "Longitude": -115.3229869
+  },
+  {
+    "UniqueId": 60022,
+    "Timestamp": "2026-10-17 00:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:04 AM, Oct 17 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821083/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
