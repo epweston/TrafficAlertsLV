@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59935,
-    "Timestamp": "2026-10-16 07:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:15 AM, Oct 16 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820005/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 59936,
     "Timestamp": "2026-10-16 07:31",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821154/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 60047,
+    "Timestamp": "2026-10-17 07:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:12 AM, Oct 17 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0before Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821156/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
