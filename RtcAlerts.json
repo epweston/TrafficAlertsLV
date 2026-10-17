@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 59968,
-    "Timestamp": "2026-10-16 13:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "All lanes are blocked.",
-    "Notes": "1:59 PM, Oct 16 2026 Crash on SB Durango Dr\u00A0before 215 Southern Beltway. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.066225699999997,
-    "Longitude": -115.2791549
-  },
-  {
-    "UniqueId": 59969,
-    "Timestamp": "2026-10-16 14:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hollywood Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:06 PM, Oct 16 2026 Crash on SB Hollywood Blvd\u00A0after Lake Mead Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820867/attachment_0.png",
-    "Latitude": 36.195669100000003,
-    "Longitude": -115.0263638
-  },
-  {
     "UniqueId": 59970,
     "Timestamp": "2026-10-16 14:39",
     "IncidentType": "Crash",
@@ -1552,5 +1524,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821327/attachment_0.jpg",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 60080,
+    "Timestamp": "2026-10-17 14:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Smoke Ranch Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:10 PM, Oct 17 2026 Crash on NB Jones Blvd\u00A0after Smoke Ranch Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821329/attachment_0.png",
+    "Latitude": 36.203011099999998,
+    "Longitude": -115.2238052
+  },
+  {
+    "UniqueId": 60081,
+    "Timestamp": "2026-10-17 14:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:11 PM, Oct 17 2026 Crash on SB Rainbow Blvd\u00A0before Warm Springs Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821330/attachment_0.png",
+    "Latitude": 36.0558555,
+    "Longitude": -115.24294310000001
   }
 ]
