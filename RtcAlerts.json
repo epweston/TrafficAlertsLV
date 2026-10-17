@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59924,
-    "Timestamp": "2026-10-16 03:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:12 AM, Oct 16 2026 Crash on SB I-11\u00A0at Valley View Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3819698/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 59925,
     "Timestamp": "2026-10-16 03:27",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821121/attachment_0.png",
     "Latitude": 36.157025099999998,
     "Longitude": -115.16176729999999
+  },
+  {
+    "UniqueId": 60037,
+    "Timestamp": "2026-10-17 03:14",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:14 AM, Oct 17 2026 Vehicle on fire on SB I-15\u00A0before Spring Mountain Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821122/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
