@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59952,
-    "Timestamp": "2026-10-16 10:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Kell Ln",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:53 AM, Oct 16 2026 Crash on NB Nellis Blvd\u00A0before Kell Ln. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820541/attachment_0.jpg",
-    "Latitude": 36.192530300000001,
-    "Longitude": -115.0622551
-  },
-  {
-    "UniqueId": 59953,
-    "Timestamp": "2026-10-16 10:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Kell Ln",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:54 AM, Oct 16 2026 Crash on SB Nellis Blvd\u00A0before Kell Ln. Center lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.192530300000001,
-    "Longitude": -115.0622551
-  },
-  {
-    "UniqueId": 59954,
-    "Timestamp": "2026-10-16 10:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:54 AM, Oct 16 2026 Crash on NB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3820543/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 59955,
     "Timestamp": "2026-10-16 11:09",
     "IncidentType": "Crash",
@@ -1594,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821251/attachment_0.jpg",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 60067,
+    "Timestamp": "2026-10-17 10:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:52 AM, Oct 17 2026 Crash on EB Flamingo Rd\u00A0after Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821255/attachment_0.png",
+    "Latitude": 36.115209200000002,
+    "Longitude": -115.1008898
   }
 ]
