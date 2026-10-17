@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 59900,
-    "Timestamp": "2026-10-15 18:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropical Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Intersection Partially Blocked.",
-    "Notes": "6:53 PM, Oct 15 2026 Crash on EB Tropical Pkwy\u00A0at I-15. Intersection Partially Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819574/attachment_0.png",
-    "Latitude": 36.271334600290096,
-    "Longitude": -115.05659580230714
-  },
-  {
-    "UniqueId": 59901,
-    "Timestamp": "2026-10-15 19:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "after",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:04 PM, Oct 15 2026 Crash on SB Hualapai Way\u00A0after 215 Northern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819592/attachment_0.png",
-    "Latitude": 36.118875250000002,
-    "Longitude": -115.314973
-  },
-  {
-    "UniqueId": 59902,
-    "Timestamp": "2026-10-15 19:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:07 PM, Oct 15 2026 Stalled vehicle on NB I-11\u00A0after Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/15/file_attachments/3819599/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 59903,
     "Timestamp": "2026-10-15 20:00",
     "IncidentType": "Crash",
@@ -1370,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821024/attachment_0.png",
     "Latitude": 36.115066053957577,
     "Longitude": -115.30244890820951
+  },
+  {
+    "UniqueId": 60000,
+    "Timestamp": "2026-10-16 19:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:08 PM, Oct 16 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Gibson Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821030/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
