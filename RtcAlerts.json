@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60028,
-    "Timestamp": "2026-10-17 01:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 AM, Oct 17 2026 Stalled vehicle on SB I-11\u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821091/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 60029,
-    "Timestamp": "2026-10-17 01:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:57 AM, Oct 17 2026 Crash on SB Paradise Rd\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821092/attachment_0.png",
-    "Latitude": 36.143519699999999,
-    "Longitude": -115.1548787
-  },
-  {
     "UniqueId": 60030,
     "Timestamp": "2026-10-17 02:31",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821440/attachment_0.jpg",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 60115,
+    "Timestamp": "2026-10-18 02:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Revere St All Lanes Are",
+    "Impact": "",
+    "Notes": "2:18 AM, Oct 18 2026 Crash on WB Cheyenne Ave\u00A0at Revere St. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821427/attachment_0.png",
+    "Latitude": 36.217776000000001,
+    "Longitude": -115.15201329999999
   }
 ]
