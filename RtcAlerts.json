@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60066,
-    "Timestamp": "2026-10-17 10:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:47 AM, Oct 17 2026 Crash on NB 215 Western Beltway\u00A0before Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821251/attachment_0.jpg",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 60067,
     "Timestamp": "2026-10-17 10:52",
     "IncidentType": "Crash",
@@ -1048,5 +1034,19 @@
     "ImagePath": "",
     "Latitude": 36.203193900000002,
     "Longitude": -115.1183314
+  },
+  {
+    "UniqueId": 60148,
+    "Timestamp": "2026-10-18 10:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Spencer St",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:44 AM, Oct 18 2026 Crash on NB Spencer St\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821571/attachment_0.jpg",
+    "Latitude": 36.114709099999999,
+    "Longitude": -115.1285419
   }
 ]
