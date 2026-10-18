@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 59993,
-    "Timestamp": "2026-10-16 18:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Neon Gateway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:11 PM, Oct 16 2026 Crash on SB I-15\u00A0before Neon Gateway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821005/attachment_0.png",
-    "Latitude": 36.154855519034463,
-    "Longitude": -115.16114824468919
-  },
-  {
     "UniqueId": 59994,
     "Timestamp": "2026-10-16 18:17",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821372/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 60097,
+    "Timestamp": "2026-10-17 18:10",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:10 PM, Oct 17 2026 Crash on EB Tropicana Ave\u00A0before Las Vegas Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821375/attachment_0.jpg",
+    "Latitude": 36.100781423246033,
+    "Longitude": -115.17291721759118
+  },
+  {
+    "UniqueId": 60098,
+    "Timestamp": "2026-10-17 18:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:12 PM, Oct 17 2026 Stalled vehicle on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821377/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
