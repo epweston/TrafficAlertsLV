@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 60061,
-    "Timestamp": "2026-10-17 09:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:57 AM, Oct 17 2026 Crash on NB Martin L King Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821191/attachment_0.png",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
-    "UniqueId": 60062,
-    "Timestamp": "2026-10-17 10:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonneville Ave",
-    "Relationship": "before",
-    "CrossStreet": "Grand Central Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:00 AM, Oct 17 2026 Crash on EB Bonneville Ave\u00A0before Grand Central Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821193/attachment_0.jpg",
-    "Latitude": 36.166670614356832,
-    "Longitude": -115.15533862505639
-  },
-  {
-    "UniqueId": 60063,
-    "Timestamp": "2026-10-17 10:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "under",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:01 AM, Oct 17 2026 Crash on NB Martin L King Blvd\u00A0under I-11. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
-    "UniqueId": 60064,
-    "Timestamp": "2026-10-17 10:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:06 AM, Oct 17 2026 Stalled vehicle on SB I-11\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821216/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 60065,
-    "Timestamp": "2026-10-17 10:16",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:16 AM, Oct 17 2026 Vehicle on fire on NB I-11\u00A0before Martin L King Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821195/attachment_0.png",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
     "UniqueId": 60066,
     "Timestamp": "2026-10-17 10:47",
     "IncidentType": "Crash",
@@ -1048,5 +978,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821516/attachment_0.png",
     "Latitude": 36.158769599999999,
     "Longitude": -115.0984516
+  },
+  {
+    "UniqueId": 60143,
+    "Timestamp": "2026-10-18 10:14",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Post Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:14 AM, Oct 18 2026 Police activity on NB Buffalo Dr\u00A0at Post Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821523/attachment_0.png",
+    "Latitude": 36.073878399999998,
+    "Longitude": -115.26075760000001
   }
 ]
