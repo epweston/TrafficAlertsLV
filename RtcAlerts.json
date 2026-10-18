@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60019,
-    "Timestamp": "2026-10-16 22:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:30 PM, Oct 16 2026 Crash on WB Lake Mead Blvd\u00A0after Rancho Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821053/attachment_0.png",
-    "Latitude": 36.200295199999999,
-    "Longitude": -115.19687399999999
-  },
-  {
-    "UniqueId": 60020,
-    "Timestamp": "2026-10-16 22:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:39 PM, Oct 16 2026 Crash on EB Flamingo Rd\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821055/attachment_0.jpg",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
-    "UniqueId": 60021,
-    "Timestamp": "2026-10-16 22:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Town Center Dr",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:58 PM, Oct 16 2026 Crash on SB Town Center Dr\u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821082/attachment_0.png",
-    "Latitude": 36.158865100000007,
-    "Longitude": -115.3229869
-  },
-  {
     "UniqueId": 60022,
     "Timestamp": "2026-10-17 00:04",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821391/attachment_0.png",
     "Latitude": 36.2033214,
     "Longitude": -115.24223550000001
+  },
+  {
+    "UniqueId": 60109,
+    "Timestamp": "2026-10-17 23:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:20 PM, Oct 17 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821393/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
