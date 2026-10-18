@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60080,
-    "Timestamp": "2026-10-17 14:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Smoke Ranch Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "2:10 PM, Oct 17 2026 Crash on NB Jones Blvd\u00A0after Smoke Ranch Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821329/attachment_0.png",
-    "Latitude": 36.203011099999998,
-    "Longitude": -115.2238052
-  },
-  {
-    "UniqueId": 60081,
-    "Timestamp": "2026-10-17 14:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "2:11 PM, Oct 17 2026 Crash on SB Rainbow Blvd\u00A0before Warm Springs Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821330/attachment_0.png",
-    "Latitude": 36.0558555,
-    "Longitude": -115.24294310000001
-  },
-  {
     "UniqueId": 60082,
     "Timestamp": "2026-10-17 14:43",
     "IncidentType": "Crash",
@@ -1132,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821615/attachment_0.png",
     "Latitude": 36.173828941432035,
     "Longitude": -115.24431824265436
+  },
+  {
+    "UniqueId": 60170,
+    "Timestamp": "2026-10-18 14:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:40 PM, Oct 18 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821625/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
