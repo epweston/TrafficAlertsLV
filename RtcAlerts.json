@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60018,
-    "Timestamp": "2026-10-16 22:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:16 PM, Oct 16 2026 Crash on WB Desert Inn Rd\u00A0after Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821079/attachment_0.png",
-    "Latitude": 36.129609100000003,
-    "Longitude": -115.1547559
-  },
-  {
     "UniqueId": 60019,
     "Timestamp": "2026-10-16 22:30",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821416/attachment_0.png",
     "Latitude": 36.121249918899821,
     "Longitude": -115.15500606155041
+  },
+  {
+    "UniqueId": 60108,
+    "Timestamp": "2026-10-17 22:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Smoke Ranch Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:18 PM, Oct 17 2026 Crash on NB Rainbow Blvd\u00A0before Smoke Ranch Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821391/attachment_0.png",
+    "Latitude": 36.2033214,
+    "Longitude": -115.24223550000001
   }
 ]
