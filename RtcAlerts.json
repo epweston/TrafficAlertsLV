@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60011,
-    "Timestamp": "2026-10-16 20:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:46 PM, Oct 16 2026 Crash on SB I-15\u00A0to Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821069/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 60012,
     "Timestamp": "2026-10-16 21:06",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821411/attachment_0.jpg",
     "Latitude": 36.177173199999999,
     "Longitude": -115.1609081
+  },
+  {
+    "UniqueId": 60105,
+    "Timestamp": "2026-10-17 20:54",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Arville St 2",
+    "Impact": "",
+    "Notes": "8:54 PM, Oct 17 2026 Crash on NB Flamingo Rd\u00A0at Arville St. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821412/attachment_0.png",
+    "Latitude": 36.115612499999997,
+    "Longitude": -115.1994991
   }
 ]
