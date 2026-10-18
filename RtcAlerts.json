@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60067,
-    "Timestamp": "2026-10-17 10:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:52 AM, Oct 17 2026 Crash on EB Flamingo Rd\u00A0after Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821255/attachment_0.png",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
     "UniqueId": 60068,
     "Timestamp": "2026-10-17 11:17",
     "IncidentType": "Crash",
@@ -1048,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821571/attachment_0.jpg",
     "Latitude": 36.114709099999999,
     "Longitude": -115.1285419
+  },
+  {
+    "UniqueId": 60150,
+    "Timestamp": "2026-10-18 10:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Buchanan Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:55 AM, Oct 18 2026 Stalled vehicle on SB I-11\u00A0at Buchanan Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821575/attachment_0.png",
+    "Latitude": 35.934200883777393,
+    "Longitude": -114.84135389747479
   }
 ]
