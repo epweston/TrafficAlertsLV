@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60000,
-    "Timestamp": "2026-10-16 19:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:08 PM, Oct 16 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Gibson Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821030/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 60001,
-    "Timestamp": "2026-10-16 19:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:24 PM, Oct 16 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821033/attachment_0.png",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
-    "UniqueId": 60002,
-    "Timestamp": "2026-10-16 19:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Collector Distributor",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:27 PM, Oct 16 2026 Stalled vehicle on NB Collector Distributor\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/16/file_attachments/3821036/attachment_0.png",
-    "Latitude": 36.043451602042566,
-    "Longitude": -115.18027844102868
-  },
-  {
     "UniqueId": 60003,
     "Timestamp": "2026-10-16 19:30",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821401/attachment_0.png",
     "Latitude": 36.11485816141586,
     "Longitude": -115.06471217727307
+  },
+  {
+    "UniqueId": 60101,
+    "Timestamp": "2026-10-17 19:24",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Gilespie St",
+    "Impact": "",
+    "Notes": "7:24 PM, Oct 17 2026 Vehicle on fire on WB Silverado Ranch Blvd\u00A0at Gilespie St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821405/attachment_0.png",
+    "Latitude": 36.013572000000003,
+    "Longitude": -115.16344530000001
   }
 ]
