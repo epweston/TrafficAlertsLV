@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60078,
-    "Timestamp": "2026-10-17 13:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:27 PM, Oct 17 2026 Crash on SB Boulder Hwy\u00A0before Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821324/attachment_0.jpg",
-    "Latitude": 36.113265400000003,
-    "Longitude": -115.06468529999999
-  },
-  {
     "UniqueId": 60079,
     "Timestamp": "2026-10-17 13:52",
     "IncidentType": "Crash",
@@ -1090,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821619/attachment_0.png",
     "Latitude": 36.101074300000001,
     "Longitude": -115.1459157
+  },
+  {
+    "UniqueId": 60165,
+    "Timestamp": "2026-10-18 13:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sun Valley Dr",
+    "Impact": "Intersection partially blocked",
+    "Notes": "1:25 PM, Oct 18 2026 Crash on NB Nellis Blvd\u00A0at Sun Valley Dr. Intersection partially blocked",
+    "ImagePath": "",
+    "Latitude": 36.104828500000004,
+    "Longitude": -115.0641864
   }
 ]
