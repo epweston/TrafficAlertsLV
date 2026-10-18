@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60035,
-    "Timestamp": "2026-10-17 03:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Spring Mountain Rd Wb",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:02 AM, Oct 17 2026 Crash on NB I-15\u00A0to Spring Mountain Rd WB. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821108/attachment_0.png",
-    "Latitude": 36.125444299999998,
-    "Longitude": -115.1701368
-  },
-  {
     "UniqueId": 60036,
     "Timestamp": "2026-10-17 03:07",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.217776000000001,
     "Longitude": -115.15201329999999
+  },
+  {
+    "UniqueId": 60119,
+    "Timestamp": "2026-10-18 02:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bridger Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:59 AM, Oct 18 2026 Crash on SB Las Vegas Blvd\u00A0at Bridger Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821445/attachment_0.png",
+    "Latitude": 36.166891999999997,
+    "Longitude": -115.1421349
   }
 ]
