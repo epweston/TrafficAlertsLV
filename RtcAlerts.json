@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60044,
-    "Timestamp": "2026-10-17 05:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:38 AM, Oct 17 2026 Crash on NB Eastern Ave\u00A0at Bonanza Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821166/attachment_0.png",
-    "Latitude": 36.174010299999999,
-    "Longitude": -115.1161199
-  },
-  {
     "UniqueId": 60045,
     "Timestamp": "2026-10-17 06:38",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,19 @@
     "ImagePath": "",
     "Latitude": 36.173040700000001,
     "Longitude": -115.1425684
+  },
+  {
+    "UniqueId": 60130,
+    "Timestamp": "2026-10-18 05:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Carey Ave",
+    "Impact": "All lanes are blocked.",
+    "Notes": "5:35 AM, Oct 18 2026 Crash on NB Las Vegas Blvd\u00A0at Carey Ave. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.203193900000002,
+    "Longitude": -115.1183314
   }
 ]
