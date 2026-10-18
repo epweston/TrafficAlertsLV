@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60039,
-    "Timestamp": "2026-10-17 04:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Camino Al Norte",
-    "Relationship": "at",
-    "CrossStreet": "Craig Ranch Parkway",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:09 AM, Oct 17 2026 Crash on SB Camino Al Norte\u00A0at Craig Ranch Parkway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821112/attachment_0.png",
-    "Latitude": 36.243419000000003,
-    "Longitude": -115.1598403
-  },
-  {
-    "UniqueId": 60040,
-    "Timestamp": "2026-10-17 04:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:12 AM, Oct 17 2026 Crash on NB I-15\u00A0at Sahara Ave Onramp. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821127/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 60041,
     "Timestamp": "2026-10-17 04:19",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1174,19 @@
     "ImagePath": "",
     "Latitude": 36.217776000000001,
     "Longitude": -115.15201329999999
+  },
+  {
+    "UniqueId": 60126,
+    "Timestamp": "2026-10-18 04:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:11 AM, Oct 18 2026 Crash on NB I-11\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821435/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
