@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60036,
-    "Timestamp": "2026-10-17 03:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Ellis Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:07 AM, Oct 17 2026 Crash on NB Martin L King Blvd\u00A0after Ellis Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821121/attachment_0.png",
-    "Latitude": 36.157025099999998,
-    "Longitude": -115.16176729999999
-  },
-  {
     "UniqueId": 60037,
     "Timestamp": "2026-10-17 03:14",
     "IncidentType": "Vehicle on fire",
@@ -1160,5 +1146,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821445/attachment_0.png",
     "Latitude": 36.166891999999997,
     "Longitude": -115.1421349
+  },
+  {
+    "UniqueId": 60120,
+    "Timestamp": "2026-10-18 03:06",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:06 AM, Oct 18 2026 Police activity on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821431/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 60121,
+    "Timestamp": "2026-10-18 03:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "3:08 AM, Oct 18 2026 Crash on SB 215 Western Beltway\u00A0at Far Hills Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
