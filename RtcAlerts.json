@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60030,
-    "Timestamp": "2026-10-17 02:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:31 AM, Oct 17 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821095/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 60031,
-    "Timestamp": "2026-10-17 02:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "2:35 AM, Oct 17 2026 Crash on WB Lake Mead Blvd\u00A0after Civic Center Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821097/attachment_0.png",
-    "Latitude": 36.195946300000003,
-    "Longitude": -115.11643030000001
-  },
-  {
-    "UniqueId": 60032,
-    "Timestamp": "2026-10-17 02:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "2:38 AM, Oct 17 2026 Crash on SB Decatur Blvd\u00A0at Hacienda Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821104/attachment_0.jpg",
-    "Latitude": 36.093534051830723,
-    "Longitude": -115.20808696746828
-  },
-  {
     "UniqueId": 60033,
     "Timestamp": "2026-10-17 02:43",
     "IncidentType": "Crash",
@@ -1188,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821427/attachment_0.png",
     "Latitude": 36.217776000000001,
     "Longitude": -115.15201329999999
+  },
+  {
+    "UniqueId": 60116,
+    "Timestamp": "2026-10-18 02:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:35 AM, Oct 18 2026 Crash on SB 215 Western Beltway\u00A0at Far Hills Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821442/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
