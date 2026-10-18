@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60037,
-    "Timestamp": "2026-10-17 03:14",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:14 AM, Oct 17 2026 Vehicle on fire on SB I-15\u00A0before Spring Mountain Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821122/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 60038,
-    "Timestamp": "2026-10-17 03:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:33 AM, Oct 17 2026 Crash on SB I-15\u00A0after Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821125/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 60039,
     "Timestamp": "2026-10-17 04:09",
     "IncidentType": "Crash",
@@ -1174,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 60122,
+    "Timestamp": "2026-10-18 03:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Revere St All Lanes Are",
+    "Impact": "Expect Delays Use other routes",
+    "Notes": "3:31 AM, Oct 18 2026 Crash on WB Cheyenne Ave\u00A0at Revere St. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.217776000000001,
+    "Longitude": -115.15201329999999
   }
 ]
