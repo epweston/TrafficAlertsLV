@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60145,
-    "Timestamp": "2026-10-18 10:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:27 AM, Oct 18 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821554/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 60146,
-    "Timestamp": "2026-10-18 10:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "May Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:28 AM, Oct 18 2026 Crash on EB Charleston Blvd\u00A0at May Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.158769599999999,
-    "Longitude": -115.0984516
-  },
-  {
     "UniqueId": 60147,
     "Timestamp": "2026-10-18 10:34",
     "IncidentType": "Crash",
@@ -1160,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822591/attachment_0.jpg",
     "Latitude": 36.171562999999999,
     "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 60230,
+    "Timestamp": "2026-10-19 10:28",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "F St 2",
+    "Impact": "",
+    "Notes": "10:28 AM, Oct 19 2026 Crash on WB Washington Ave\u00A0at F St. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822490/attachment_0.png",
+    "Latitude": 36.180844999999998,
+    "Longitude": -115.149463
   }
 ]
