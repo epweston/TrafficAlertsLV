@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 60156,
-    "Timestamp": "2026-10-18 12:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:04 PM, Oct 18 2026 Crash on EB Tropicana Ave\u00A0at Koval Ln. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821584/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 60157,
-    "Timestamp": "2026-10-18 12:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:08 PM, Oct 18 2026 Crash on SB Paradise Rd\u00A0at Harmon Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821604/attachment_0.png",
-    "Latitude": 36.108041800000002,
-    "Longitude": -115.15202669999999
-  },
-  {
-    "UniqueId": 60158,
-    "Timestamp": "2026-10-18 12:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:21 PM, Oct 18 2026 Crash on EB Harmon Ave\u00A0before Decatur Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821587/attachment_0.png",
-    "Latitude": 36.108160499999997,
-    "Longitude": -115.20792230000001
-  },
-  {
-    "UniqueId": 60159,
-    "Timestamp": "2026-10-18 12:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Sun Valley Dr",
-    "Relationship": "at",
-    "CrossStreet": "Sun Valley Dr",
-    "Impact": "Intersection partially blocked",
-    "Notes": "12:24 PM, Oct 18 2026 Crash on NB Sun Valley Dr\u00A0at Sun Valley Dr. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821588/attachment_0.jpg",
-    "Latitude": 36.104863299999998,
-    "Longitude": -115.0596288
-  },
-  {
-    "UniqueId": 60160,
-    "Timestamp": "2026-10-18 12:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:26 PM, Oct 18 2026 Stalled vehicle on SB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821608/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 60161,
     "Timestamp": "2026-10-18 12:53",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822854/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 60241,
+    "Timestamp": "2026-10-19 12:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:37 PM, Oct 19 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822923/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
