@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60096,
-    "Timestamp": "2026-10-17 18:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:05 PM, Oct 17 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821372/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 60097,
-    "Timestamp": "2026-10-17 18:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:10 PM, Oct 17 2026 Crash on EB Tropicana Ave\u00A0before Las Vegas Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821375/attachment_0.jpg",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
-    "UniqueId": 60098,
-    "Timestamp": "2026-10-17 18:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:12 PM, Oct 17 2026 Stalled vehicle on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821377/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 60099,
     "Timestamp": "2026-10-17 18:42",
     "IncidentType": "Crash",
@@ -1006,5 +964,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821648/attachment_0.png",
     "Latitude": 36.129627200000002,
     "Longitude": -115.2789708
+  },
+  {
+    "UniqueId": 60176,
+    "Timestamp": "2026-10-18 18:17",
+    "IncidentType": "Stadium Event",
+    "Direction": "WB",
+    "PrimaryRoad": "Mandalay Bay Rd",
+    "Relationship": "before",
+    "CrossStreet": "Luxor Dr",
+    "Impact": "All lanes are now open.",
+    "Notes": "6:17 PM, Oct 18 2026 Stadium Event on WB Mandalay Bay Rd\u00A0before Luxor Dr. All lanes are now open.",
+    "ImagePath": "",
+    "Latitude": 36.0937488,
+    "Longitude": -115.17797450000001
   }
 ]
