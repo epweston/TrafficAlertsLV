@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60093,
-    "Timestamp": "2026-10-17 17:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:44 PM, Oct 17 2026 Stalled vehicle on NB I-11\u00A0before Eastern. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821368/attachment_0.jpg",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 60094,
     "Timestamp": "2026-10-17 17:53",
     "IncidentType": "Crash",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821643/attachment_0.png",
     "Latitude": 36.108041800000002,
     "Longitude": -115.15202669999999
+  },
+  {
+    "UniqueId": 60173,
+    "Timestamp": "2026-10-18 17:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "5:41 PM, Oct 18 2026 Crash on SB I-11\u00A0before Russell Rd. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821644/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
