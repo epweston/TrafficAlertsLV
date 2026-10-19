@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60125,
-    "Timestamp": "2026-10-18 04:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Revere St All Lanes Are",
-    "Impact": "Expect Delays Use other routes",
-    "Notes": "4:04 AM, Oct 18 2026 Crash on WB Cheyenne Ave\u00A0at Revere St. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.217776000000001,
-    "Longitude": -115.15201329999999
-  },
-  {
     "UniqueId": 60126,
     "Timestamp": "2026-10-18 04:11",
     "IncidentType": "Crash",
@@ -824,5 +810,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821744/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 60192,
+    "Timestamp": "2026-10-19 04:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:05 AM, Oct 19 2026 Crash on SB Jones Blvd\u00A0at Charleston Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821748/attachment_0.png",
+    "Latitude": 36.159152115630107,
+    "Longitude": -115.2239227294922
   }
 ]
