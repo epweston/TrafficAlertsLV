@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60166,
-    "Timestamp": "2026-10-18 13:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Merialdo Ln",
-    "Impact": "Intersection partially blocked",
-    "Notes": "1:39 PM, Oct 18 2026 Crash on WB Charleston Blvd\u00A0at Merialdo Ln. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821612/attachment_0.jpg",
-    "Latitude": 36.159115900000003,
-    "Longitude": -115.2847337
-  },
-  {
-    "UniqueId": 60167,
-    "Timestamp": "2026-10-18 13:45",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Arby Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "1:45 PM, Oct 18 2026 Police activity on SB Las Vegas Blvd\u00A0after Arby Ave. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.060437,
-    "Longitude": -115.1722711
-  },
-  {
-    "UniqueId": 60168,
-    "Timestamp": "2026-10-18 13:45",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "1:45 PM, Oct 18 2026 Police activity on NB Las Vegas Blvd\u00A0at Warm Springs Rd. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.056870840847097,
-    "Longitude": -115.17237723070896
-  },
-  {
-    "UniqueId": 60169,
-    "Timestamp": "2026-10-18 13:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Westcliff Dr",
-    "Impact": "Center lanes blocked.",
-    "Notes": "1:55 PM, Oct 18 2026 Crash on NB Rainbow Blvd\u00A0before Westcliff Dr. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821615/attachment_0.png",
-    "Latitude": 36.173828941432035,
-    "Longitude": -115.24431824265436
-  },
-  {
     "UniqueId": 60170,
     "Timestamp": "2026-10-18 14:40",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823077/attachment_0.jpg",
     "Latitude": 36.100859441550384,
     "Longitude": -115.16388414057163
+  },
+  {
+    "UniqueId": 60243,
+    "Timestamp": "2026-10-19 13:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "On-ramp right lane blocked.",
+    "Notes": "1:58 PM, Oct 19 2026 Crash on NB I-11\u00A0at Boulder Hwy. On-ramp right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823158/attachment_0.jpg",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
