@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60143,
-    "Timestamp": "2026-10-18 10:14",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Post Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:14 AM, Oct 18 2026 Police activity on NB Buffalo Dr\u00A0at Post Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821523/attachment_0.png",
-    "Latitude": 36.073878399999998,
-    "Longitude": -115.26075760000001
-  },
-  {
     "UniqueId": 60144,
     "Timestamp": "2026-10-18 10:21",
     "IncidentType": "Stalled vehicle",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822555/attachment_0.jpg",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 60227,
+    "Timestamp": "2026-10-19 10:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:10 AM, Oct 19 2026 Stalled vehicle on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822558/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
