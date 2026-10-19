@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60102,
-    "Timestamp": "2026-10-17 20:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:18 PM, Oct 17 2026 Crash on WB St Rose Pkwy\u00A0at Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821409/attachment_0.jpg",
-    "Latitude": 36.007212170000003,
-    "Longitude": -115.11431157
-  },
-  {
-    "UniqueId": 60103,
-    "Timestamp": "2026-10-17 20:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:27 PM, Oct 17 2026 Crash on SB I-15\u00A0after Flamingo Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821389/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 60104,
-    "Timestamp": "2026-10-17 20:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "8:37 PM, Oct 17 2026 Crash on SB Martin L King Blvd\u00A0at Bonanza Rd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821411/attachment_0.jpg",
-    "Latitude": 36.177173199999999,
-    "Longitude": -115.1609081
-  },
-  {
-    "UniqueId": 60105,
-    "Timestamp": "2026-10-17 20:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Arville St 2",
-    "Impact": "",
-    "Notes": "8:54 PM, Oct 17 2026 Crash on NB Flamingo Rd\u00A0at Arville St. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821412/attachment_0.png",
-    "Latitude": 36.115612499999997,
-    "Longitude": -115.1994991
-  },
-  {
     "UniqueId": 60106,
     "Timestamp": "2026-10-17 21:00",
     "IncidentType": "Crash",
@@ -1020,5 +964,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821658/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 60183,
+    "Timestamp": "2026-10-18 20:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:53 PM, Oct 18 2026 Crash on SB I-11\u00A0before Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821660/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
