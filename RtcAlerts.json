@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60128,
-    "Timestamp": "2026-10-18 05:03",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Carey Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "5:03 AM, Oct 18 2026 Crash on NB Las Vegas Blvd\u00A0at Carey Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821501/attachment_0.jpg",
-    "Latitude": 36.203193900000002,
-    "Longitude": -115.1183314
-  },
-  {
     "UniqueId": 60129,
     "Timestamp": "2026-10-18 05:28",
     "IncidentType": "Crash",
@@ -810,5 +796,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821842/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 60194,
+    "Timestamp": "2026-10-19 05:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:07 AM, Oct 19 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821844/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 60195,
+    "Timestamp": "2026-10-19 05:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "5:07 AM, Oct 19 2026 Crash on SB Jones Blvd\u00A0at Charleston Blvd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.159152115630107,
+    "Longitude": -115.2239227294922
   }
 ]
