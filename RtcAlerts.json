@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 60161,
-    "Timestamp": "2026-10-18 12:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:53 PM, Oct 18 2026 Stalled vehicle on NB I-11\u00A0before Sunset Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821594/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 60162,
-    "Timestamp": "2026-10-18 13:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 64",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:10 PM, Oct 18 2026 Stalled vehicle on SB I-15\u00A0at Mile 64. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821596/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 60163,
-    "Timestamp": "2026-10-18 13:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:21 PM, Oct 18 2026 Stalled vehicle on NB I-11\u00A0after Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821611/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 60164,
-    "Timestamp": "2026-10-18 13:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Ctr Dr",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Center lanes blocked.",
-    "Notes": "1:23 PM, Oct 18 2026 Crash on NB University Ctr Dr\u00A0before Tropicana Ave. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821619/attachment_0.png",
-    "Latitude": 36.101074300000001,
-    "Longitude": -115.1459157
-  },
-  {
-    "UniqueId": 60165,
-    "Timestamp": "2026-10-18 13:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sun Valley Dr",
-    "Impact": "Intersection partially blocked",
-    "Notes": "1:25 PM, Oct 18 2026 Crash on NB Nellis Blvd\u00A0at Sun Valley Dr. Intersection partially blocked",
-    "ImagePath": "",
-    "Latitude": 36.104828500000004,
-    "Longitude": -115.0641864
-  },
-  {
     "UniqueId": 60166,
     "Timestamp": "2026-10-18 13:39",
     "IncidentType": "Crash",
@@ -1132,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822923/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 60242,
+    "Timestamp": "2026-10-19 13:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:22 PM, Oct 19 2026 Crash on EB Tropicana Ave\u00A0after Koval Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823077/attachment_0.jpg",
+    "Latitude": 36.100859441550384,
+    "Longitude": -115.16388414057163
   }
 ]
