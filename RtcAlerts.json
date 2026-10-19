@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60106,
-    "Timestamp": "2026-10-17 21:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Central Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:00 PM, Oct 17 2026 Crash on WB Charleston Blvd\u00A0at Grand Central Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821414/attachment_0.png",
-    "Latitude": 36.158865800000001,
-    "Longitude": -115.1586595
-  },
-  {
     "UniqueId": 60107,
     "Timestamp": "2026-10-17 21:58",
     "IncidentType": "Crash",
@@ -978,5 +964,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821660/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 60184,
+    "Timestamp": "2026-10-18 21:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:16 PM, Oct 18 2026 Stalled vehicle on NB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821654/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
