@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60109,
-    "Timestamp": "2026-10-17 23:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:20 PM, Oct 17 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821393/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 60110,
     "Timestamp": "2026-10-17 23:27",
     "IncidentType": "Crash",
@@ -978,5 +964,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821678/attachment_0.png",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 60187,
+    "Timestamp": "2026-10-18 23:16",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "3 Left lanes blocked. Expect Delays",
+    "Notes": "11:16 PM, Oct 18 2026 Crash on EB Cactus Ave\u00A0at I-15. 3 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821683/attachment_0.png",
+    "Latitude": 35.999014299999999,
+    "Longitude": -115.18064087000001
   }
 ]
