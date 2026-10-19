@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60092,
-    "Timestamp": "2026-10-17 17:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "4 Left lanes blocked.",
-    "Notes": "5:40 PM, Oct 17 2026 Crash on NB I-15\u00A0after Lake Mead Blvd. 4 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821366/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 60093,
     "Timestamp": "2026-10-17 17:44",
     "IncidentType": "Stalled vehicle",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821627/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 60172,
+    "Timestamp": "2026-10-18 17:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "5:35 PM, Oct 18 2026 Crash on SB Paradise Rd\u00A0at Harmon Ave. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821643/attachment_0.png",
+    "Latitude": 36.108041800000002,
+    "Longitude": -115.15202669999999
   }
 ]
