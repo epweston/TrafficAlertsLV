@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60136,
-    "Timestamp": "2026-10-18 09:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Carey Ave",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "9:28 AM, Oct 18 2026 Crash on NB Las Vegas Blvd\u00A0at Carey Ave. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.203193900000002,
-    "Longitude": -115.1183314
-  },
-  {
     "UniqueId": 60140,
     "Timestamp": "2026-10-18 09:37",
     "IncidentType": "Stalled vehicle",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822329/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 60221,
+    "Timestamp": "2026-10-19 09:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:24 AM, Oct 19 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822414/attachment_0.jpg",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
