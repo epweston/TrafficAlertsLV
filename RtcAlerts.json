@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60153,
-    "Timestamp": "2026-10-18 11:51",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Coronado Ctr Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "11:51 AM, Oct 18 2026 Crash on EB St Rose Pkwy\u00A0before Coronado Ctr Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821599/attachment_0.png",
-    "Latitude": 36.015730400000002,
-    "Longitude": -115.1020003
-  },
-  {
-    "UniqueId": 60154,
-    "Timestamp": "2026-10-18 11:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake S Dr",
-    "Relationship": "after",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:53 AM, Oct 18 2026 Crash on WB Lake S Dr\u00A0after Fort Apache Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821601/attachment_0.jpg",
-    "Latitude": 36.133473899999998,
-    "Longitude": -115.29720500000001
-  },
-  {
-    "UniqueId": 60155,
-    "Timestamp": "2026-10-18 12:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "5Th St",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:00 PM, Oct 18 2026 Crash on NB 5th St\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821583/attachment_0.jpg",
-    "Latitude": 36.196914831708639,
-    "Longitude": -115.13399363403036
-  },
-  {
     "UniqueId": 60156,
     "Timestamp": "2026-10-18 12:04",
     "IncidentType": "Crash",
@@ -1216,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822827/attachment_0.png",
     "Latitude": 36.0788084,
     "Longitude": -115.297511
+  },
+  {
+    "UniqueId": 60240,
+    "Timestamp": "2026-10-19 12:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:02 PM, Oct 19 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822854/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
