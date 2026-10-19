@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60147,
-    "Timestamp": "2026-10-18 10:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Carey Ave",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "10:34 AM, Oct 18 2026 Crash on NB Las Vegas Blvd\u00A0at Carey Ave. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.203193900000002,
-    "Longitude": -115.1183314
-  },
-  {
     "UniqueId": 60148,
     "Timestamp": "2026-10-18 10:44",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822490/attachment_0.png",
     "Latitude": 36.180844999999998,
     "Longitude": -115.149463
+  },
+  {
+    "UniqueId": 60231,
+    "Timestamp": "2026-10-19 10:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:34 AM, Oct 19 2026 Crash on NB Rainbow Blvd\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822613/attachment_0.jpg",
+    "Latitude": 36.041321500000002,
+    "Longitude": -115.2433135
   }
 ]
