@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60140,
-    "Timestamp": "2026-10-18 09:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:37 AM, Oct 18 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821496/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 60142,
     "Timestamp": "2026-10-18 09:48",
     "IncidentType": "Crash",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822424/attachment_0.png",
     "Latitude": 36.188771000000003,
     "Longitude": -115.2599802
+  },
+  {
+    "UniqueId": 60223,
+    "Timestamp": "2026-10-19 09:39",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "3 Right lanes blocked. Expect Delays",
+    "Notes": "9:39 AM, Oct 19 2026 Crash on EB Cactus Ave\u00A0at I-15. 3 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822514/attachment_0.png",
+    "Latitude": 35.999014299999999,
+    "Longitude": -115.18064087000001
   }
 ]
