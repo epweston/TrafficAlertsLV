@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60150,
-    "Timestamp": "2026-10-18 10:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Buchanan Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:55 AM, Oct 18 2026 Stalled vehicle on SB I-11\u00A0at Buchanan Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821575/attachment_0.png",
-    "Latitude": 35.934200883777393,
-    "Longitude": -114.84135389747479
-  },
-  {
     "UniqueId": 60152,
     "Timestamp": "2026-10-18 11:30",
     "IncidentType": "Crash",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822707/attachment_0.jpg",
     "Latitude": 36.188771000000003,
     "Longitude": -115.2599802
+  },
+  {
+    "UniqueId": 60235,
+    "Timestamp": "2026-10-19 10:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:55 AM, Oct 19 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Decatur Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822781/attachment_0.jpg",
+    "Latitude": 36.274993366998793,
+    "Longitude": -115.20657961738746
   }
 ]
