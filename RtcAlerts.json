@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60142,
-    "Timestamp": "2026-10-18 09:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "May Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:48 AM, Oct 18 2026 Crash on EB Charleston Blvd\u00A0at May Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821516/attachment_0.png",
-    "Latitude": 36.158769599999999,
-    "Longitude": -115.0984516
-  },
-  {
     "UniqueId": 60143,
     "Timestamp": "2026-10-18 10:14",
     "IncidentType": "Police activity",
@@ -1132,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822436/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 60225,
+    "Timestamp": "2026-10-19 09:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:58 AM, Oct 19 2026 Crash on NB I-11\u00A0after Russell Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822452/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
