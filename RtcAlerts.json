@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60107,
-    "Timestamp": "2026-10-17 21:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:58 PM, Oct 17 2026 Crash on SB Paradise Rd\u00A0before Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821416/attachment_0.png",
-    "Latitude": 36.121249918899821,
-    "Longitude": -115.15500606155041
-  },
-  {
-    "UniqueId": 60108,
-    "Timestamp": "2026-10-17 22:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Smoke Ranch Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:18 PM, Oct 17 2026 Crash on NB Rainbow Blvd\u00A0before Smoke Ranch Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/17/file_attachments/3821391/attachment_0.png",
-    "Latitude": 36.2033214,
-    "Longitude": -115.24223550000001
-  },
-  {
     "UniqueId": 60109,
     "Timestamp": "2026-10-17 23:20",
     "IncidentType": "Stalled vehicle",
@@ -978,5 +950,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821654/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 60185,
+    "Timestamp": "2026-10-18 22:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "10:43 PM, Oct 18 2026 Crash on NB Nellis Blvd\u00A0at Boulder Hwy. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821656/attachment_0.png",
+    "Latitude": 36.112973083499654,
+    "Longitude": -115.0646209842639
   }
 ]
