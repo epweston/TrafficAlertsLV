@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60189,
-    "Timestamp": "2026-10-19 02:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:42 AM, Oct 19 2026 Crash on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821725/attachment_0.png",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
     "UniqueId": 60190,
     "Timestamp": "2026-10-19 03:46",
     "IncidentType": "Crash",
@@ -1426,5 +1412,33 @@
     "ImagePath": "",
     "Latitude": 36.195751199999997,
     "Longitude": -115.1382376
+  },
+  {
+    "UniqueId": 60292,
+    "Timestamp": "2026-10-20 02:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:57 AM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 60293,
+    "Timestamp": "2026-10-20 02:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:58 AM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
