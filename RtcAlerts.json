@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60185,
-    "Timestamp": "2026-10-18 22:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "10:43 PM, Oct 18 2026 Crash on NB Nellis Blvd\u00A0at Boulder Hwy. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821656/attachment_0.png",
-    "Latitude": 36.112973083499654,
-    "Longitude": -115.0646209842639
-  },
-  {
-    "UniqueId": 60186,
-    "Timestamp": "2026-10-18 23:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "11:00 PM, Oct 18 2026 Crash on SB I-15\u00A0at Tropicana Ave. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821678/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 60187,
     "Timestamp": "2026-10-18 23:16",
     "IncidentType": "Crash",
@@ -1244,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823380/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 60275,
+    "Timestamp": "2026-10-19 22:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Maule Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:59 PM, Oct 19 2026 Crash on SB Fort Apache Rd\u00A0at Maule Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823399/attachment_0.png",
+    "Latitude": 36.062921299999999,
+    "Longitude": -115.29773729999999
   }
 ]
