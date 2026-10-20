@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60192,
-    "Timestamp": "2026-10-19 04:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:05 AM, Oct 19 2026 Crash on SB Jones Blvd\u00A0at Charleston Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821748/attachment_0.png",
-    "Latitude": 36.159152115630107,
-    "Longitude": -115.2239227294922
-  },
-  {
     "UniqueId": 60193,
     "Timestamp": "2026-10-19 04:59",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1426,19 @@
     "ImagePath": "",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 60296,
+    "Timestamp": "2026-10-20 04:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd North",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "4:28 AM, Oct 20 2026 Crash on NB Nellis Blvd\u00A0at Las Vegas Blvd North. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823486/attachment_0.png",
+    "Latitude": 36.235863999999999,
+    "Longitude": -115.0622212
   }
 ]
