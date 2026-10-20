@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60193,
-    "Timestamp": "2026-10-19 04:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:59 AM, Oct 19 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821842/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 60194,
-    "Timestamp": "2026-10-19 05:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:07 AM, Oct 19 2026 Crash on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821844/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 60195,
-    "Timestamp": "2026-10-19 05:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:07 AM, Oct 19 2026 Crash on SB Jones Blvd\u00A0at Charleston Blvd. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.159152115630107,
-    "Longitude": -115.2239227294922
-  },
-  {
     "UniqueId": 60196,
     "Timestamp": "2026-10-19 05:52",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823486/attachment_0.png",
     "Latitude": 36.235863999999999,
     "Longitude": -115.0622212
+  },
+  {
+    "UniqueId": 60297,
+    "Timestamp": "2026-10-20 05:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:23 AM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823572/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
