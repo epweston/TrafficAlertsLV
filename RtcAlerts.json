@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60214,
-    "Timestamp": "2026-10-19 08:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:07 AM, Oct 19 2026 Crash on NB I-15\u00A0at Washington Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822240/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 60215,
     "Timestamp": "2026-10-19 08:13",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823810/attachment_0.jpg",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 60312,
+    "Timestamp": "2026-10-20 08:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "8:03 AM, Oct 20 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Summerlin Pkwy. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823820/attachment_0.jpg",
+    "Latitude": 36.191620159999999,
+    "Longitude": -115.34255690000001
   }
 ]
