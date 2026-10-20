@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60171,
-    "Timestamp": "2026-10-18 17:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:31 PM, Oct 18 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821627/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
-    "UniqueId": 60172,
-    "Timestamp": "2026-10-18 17:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "5:35 PM, Oct 18 2026 Crash on SB Paradise Rd\u00A0at Harmon Ave. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821643/attachment_0.png",
-    "Latitude": 36.108041800000002,
-    "Longitude": -115.15202669999999
-  },
-  {
-    "UniqueId": 60173,
-    "Timestamp": "2026-10-18 17:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "5:41 PM, Oct 18 2026 Crash on SB I-11\u00A0before Russell Rd. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821644/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 60174,
     "Timestamp": "2026-10-18 17:52",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823343/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 60264,
+    "Timestamp": "2026-10-19 17:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Commerce St",
+    "Impact": "",
+    "Notes": "5:41 PM, Oct 19 2026 Crash on EB Craig Rd\u00A0before Commerce St. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823346/attachment_0.jpg",
+    "Latitude": 36.239392827432852,
+    "Longitude": -115.14375686645509
   }
 ]
