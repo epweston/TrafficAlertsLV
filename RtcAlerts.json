@@ -1286,5 +1286,33 @@
     "ImagePath": "",
     "Latitude": 36.176751852351089,
     "Longitude": -115.24383544921876
+  },
+  {
+    "UniqueId": 60281,
+    "Timestamp": "2026-10-20 00:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:24 AM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 60282,
+    "Timestamp": "2026-10-20 00:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:24 AM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
