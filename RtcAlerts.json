@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60179,
-    "Timestamp": "2026-10-18 19:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:28 PM, Oct 18 2026 Stalled vehicle on SB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821634/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 60180,
-    "Timestamp": "2026-10-18 19:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:41 PM, Oct 18 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821636/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 60181,
     "Timestamp": "2026-10-18 20:04",
     "IncidentType": "Stalled vehicle",
@@ -1256,6 +1228,20 @@
     "Impact": "Left lane blocked.",
     "Notes": "7:15 PM, Oct 19 2026 Crash on NB I-11\u00A0after Rancho Dr. Left lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823364/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 60270,
+    "Timestamp": "2026-10-19 19:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Center lanes blocked.",
+    "Notes": "7:55 PM, Oct 19 2026 Crash on NB I-11\u00A0after Rancho Dr. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823352/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
   }
