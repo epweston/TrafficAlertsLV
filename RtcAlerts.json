@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60228,
-    "Timestamp": "2026-10-19 10:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:16 AM, Oct 19 2026 Crash on EB Sahara Ave\u00A0before Buffalo Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822477/attachment_0.jpg",
-    "Latitude": 36.143649451295026,
-    "Longitude": -115.26096401606286
-  },
-  {
-    "UniqueId": 60229,
-    "Timestamp": "2026-10-19 10:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:23 AM, Oct 19 2026 Crash on EB Windmill Ln\u00A0after 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822591/attachment_0.jpg",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
-    "UniqueId": 60230,
-    "Timestamp": "2026-10-19 10:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "F St 2",
-    "Impact": "",
-    "Notes": "10:28 AM, Oct 19 2026 Crash on WB Washington Ave\u00A0at F St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822490/attachment_0.png",
-    "Latitude": 36.180844999999998,
-    "Longitude": -115.149463
-  },
-  {
     "UniqueId": 60231,
     "Timestamp": "2026-10-19 10:34",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824182/attachment_0.png",
     "Latitude": 36.010619300000002,
     "Longitude": -114.9938854
+  },
+  {
+    "UniqueId": 60329,
+    "Timestamp": "2026-10-20 10:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "3 Left lanes blocked. Expect Delays",
+    "Notes": "10:24 AM, Oct 20 2026 Crash on NB I-11\u00A0at Desert Inn Rd. 3 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824177/attachment_0.jpg",
+    "Latitude": 36.131413799999997,
+    "Longitude": -115.177605
   }
 ]
