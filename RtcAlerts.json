@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 60244,
-    "Timestamp": "2026-10-19 14:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:09 PM, Oct 19 2026 Crash on NB I-11\u00A0after Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823182/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 60245,
-    "Timestamp": "2026-10-19 14:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Gore blocked.",
-    "Notes": "2:12 PM, Oct 19 2026 Crash on NB I-11\u00A0before I-15. Gore blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 60246,
-    "Timestamp": "2026-10-19 14:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Gore blocked.",
-    "Notes": "2:19 PM, Oct 19 2026 Stalled vehicle on SB I-15\u00A0before 215 Southern Beltway. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823188/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 60247,
-    "Timestamp": "2026-10-19 14:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Bermuda Rd",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:25 PM, Oct 19 2026 Crash on SB Bermuda Rd\u00A0at St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823176/attachment_0.jpg",
-    "Latitude": 35.978025199999998,
-    "Longitude": -115.1551843
-  },
-  {
-    "UniqueId": 60248,
-    "Timestamp": "2026-10-19 14:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Gore blocked.",
-    "Notes": "2:38 PM, Oct 19 2026 Stalled vehicle on SB I-15\u00A0before Cheyenne Ave. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823211/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 60249,
     "Timestamp": "2026-10-19 15:03",
     "IncidentType": "Crash",
@@ -1454,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824593/attachment_0.jpg",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 60349,
+    "Timestamp": "2026-10-20 14:54",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:54 PM, Oct 20 2026 Crash on EB 215 Southern Beltway\u00A0after Green Valley Pkwy. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824639/attachment_0.png",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
