@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60241,
-    "Timestamp": "2026-10-19 12:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:37 PM, Oct 19 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822923/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 60242,
     "Timestamp": "2026-10-19 13:22",
     "IncidentType": "Crash",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824455/attachment_0.jpg",
     "Latitude": 36.0826797,
     "Longitude": -115.1899134
+  },
+  {
+    "UniqueId": 60342,
+    "Timestamp": "2026-10-20 12:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "On-ramp is blocked.",
+    "Notes": "12:33 PM, Oct 20 2026 Crash on SB I-11\u00A0at Elkhorn Rd on-ramp. On-ramp is blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824457/attachment_0.png",
+    "Latitude": 36.291693742081051,
+    "Longitude": -115.2797598374233
+  },
+  {
+    "UniqueId": 60343,
+    "Timestamp": "2026-10-20 12:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "12:34 PM, Oct 20 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824481/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
