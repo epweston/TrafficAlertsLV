@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60221,
-    "Timestamp": "2026-10-19 09:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:24 AM, Oct 19 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822414/attachment_0.jpg",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
-    "UniqueId": 60222,
-    "Timestamp": "2026-10-19 09:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Intersection is blocked. Use other routes",
-    "Notes": "9:29 AM, Oct 19 2026 Crash on NB Buffalo Dr\u00A0at Vegas Dr. Intersection is blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822424/attachment_0.png",
-    "Latitude": 36.188771000000003,
-    "Longitude": -115.2599802
-  },
-  {
     "UniqueId": 60223,
     "Timestamp": "2026-10-19 09:39",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824041/attachment_0.png",
     "Latitude": 36.298386639861533,
     "Longitude": -115.28597831726076
+  },
+  {
+    "UniqueId": 60321,
+    "Timestamp": "2026-10-20 09:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Aliante Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:27 AM, Oct 20 2026 Crash on SB 215 Northern Beltway\u00A0at Aliante Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824076/attachment_0.png",
+    "Latitude": 36.293459499999997,
+    "Longitude": -115.18487740000001
   }
 ]
