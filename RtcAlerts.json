@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60239,
-    "Timestamp": "2026-10-19 11:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:37 AM, Oct 19 2026 Crash on SB Fort Apache Rd\u00A0before Fort Apache Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822827/attachment_0.png",
-    "Latitude": 36.0788084,
-    "Longitude": -115.297511
-  },
-  {
-    "UniqueId": 60240,
-    "Timestamp": "2026-10-19 12:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:02 PM, Oct 19 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822854/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 60241,
     "Timestamp": "2026-10-19 12:37",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824345/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 60335,
+    "Timestamp": "2026-10-20 12:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sky Pointe Dr",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "12:04 PM, Oct 20 2026 Crash on EB 215 Northern Beltway\u00A0at Sky Pointe Dr. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824393/attachment_0.jpg",
+    "Latitude": 36.279313100000003,
+    "Longitude": -115.2648477
   }
 ]
