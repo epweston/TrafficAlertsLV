@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60187,
-    "Timestamp": "2026-10-18 23:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "3 Left lanes blocked. Expect Delays",
-    "Notes": "11:16 PM, Oct 18 2026 Crash on EB Cactus Ave\u00A0at I-15. 3 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821683/attachment_0.png",
-    "Latitude": 35.999014299999999,
-    "Longitude": -115.18064087000001
-  },
-  {
     "UniqueId": 60188,
     "Timestamp": "2026-10-19 01:47",
     "IncidentType": "Crash",
@@ -1230,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823399/attachment_0.png",
     "Latitude": 36.062921299999999,
     "Longitude": -115.29773729999999
+  },
+  {
+    "UniqueId": 60276,
+    "Timestamp": "2026-10-19 23:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:23 PM, Oct 19 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 60277,
+    "Timestamp": "2026-10-19 23:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:23 PM, Oct 19 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
