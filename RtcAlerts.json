@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60188,
-    "Timestamp": "2026-10-19 01:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 AM, Oct 19 2026 Crash on NB I-15\u00A0after 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3821694/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 60189,
     "Timestamp": "2026-10-19 02:42",
     "IncidentType": "Crash",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823398/attachment_0.png",
     "Latitude": 36.140884399999997,
     "Longitude": -115.208035
+  },
+  {
+    "UniqueId": 60288,
+    "Timestamp": "2026-10-20 01:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:54 AM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 60289,
+    "Timestamp": "2026-10-20 01:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:54 AM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
