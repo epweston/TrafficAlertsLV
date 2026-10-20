@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60233,
-    "Timestamp": "2026-10-19 10:44",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Skye Canyon Park Dr",
-    "Relationship": "at",
-    "CrossStreet": "Skye Village Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:44 AM, Oct 19 2026 Crash on EB Skye Canyon Park Dr\u00A0at Skye Village Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822758/attachment_0.jpg",
-    "Latitude": 36.3142584,
-    "Longitude": -115.3147937
-  },
-  {
     "UniqueId": 60234,
     "Timestamp": "2026-10-19 10:47",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824235/attachment_0.png",
     "Latitude": 36.188501600000002,
     "Longitude": -115.1341261
+  },
+  {
+    "UniqueId": 60331,
+    "Timestamp": "2026-10-20 10:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:43 AM, Oct 20 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824260/attachment_0.png",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
   }
 ]
