@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60260,
-    "Timestamp": "2026-10-19 16:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "",
-    "Notes": "4:10 PM, Oct 19 2026 Crash on NB I-15\u00A0after Sahara Ave on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823304/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 60261,
     "Timestamp": "2026-10-19 16:24",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824687/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 60353,
+    "Timestamp": "2026-10-20 16:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:06 PM, Oct 20 2026 Crash on SB Rampart Blvd\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824670/attachment_0.jpg",
+    "Latitude": 36.158945099999997,
+    "Longitude": -115.29135580000001
   }
 ]
