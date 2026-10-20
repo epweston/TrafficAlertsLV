@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60215,
-    "Timestamp": "2026-10-19 08:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:13 AM, Oct 19 2026 Stalled vehicle on NB Rainbow Blvd\u00A0at Warm Springs Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822248/attachment_0.png",
-    "Latitude": 36.0558555,
-    "Longitude": -115.24294310000001
-  },
-  {
     "UniqueId": 60216,
     "Timestamp": "2026-10-19 08:26",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823820/attachment_0.jpg",
     "Latitude": 36.191620159999999,
     "Longitude": -115.34255690000001
+  },
+  {
+    "UniqueId": 60313,
+    "Timestamp": "2026-10-20 08:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:08 AM, Oct 20 2026 Crash on SB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823839/attachment_0.jpg",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
