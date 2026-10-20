@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60174,
-    "Timestamp": "2026-10-18 17:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11 Nb",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:52 PM, Oct 18 2026 Stalled vehicle on NB I-15\u00A0at I-11 NB ramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821646/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
-    "UniqueId": 60175,
-    "Timestamp": "2026-10-18 17:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "5:59 PM, Oct 18 2026 Crash on WB Desert Inn Rd\u00A0before Durango Dr. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/18/file_attachments/3821648/attachment_0.png",
-    "Latitude": 36.129627200000002,
-    "Longitude": -115.2789708
-  },
-  {
     "UniqueId": 60176,
     "Timestamp": "2026-10-18 18:17",
     "IncidentType": "Stadium Event",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823346/attachment_0.jpg",
     "Latitude": 36.239392827432852,
     "Longitude": -115.14375686645509
+  },
+  {
+    "UniqueId": 60265,
+    "Timestamp": "2026-10-19 18:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:04 PM, Oct 19 2026 Crash on NB I-15\u00A0after Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823347/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
