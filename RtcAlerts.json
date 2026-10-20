@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60223,
-    "Timestamp": "2026-10-19 09:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "3 Right lanes blocked. Expect Delays",
-    "Notes": "9:39 AM, Oct 19 2026 Crash on EB Cactus Ave\u00A0at I-15. 3 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822514/attachment_0.png",
-    "Latitude": 35.999014299999999,
-    "Longitude": -115.18064087000001
-  },
-  {
-    "UniqueId": 60224,
-    "Timestamp": "2026-10-19 09:42",
-    "IncidentType": "Hazard",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:42 AM, Oct 19 2026 Hazard on SB I-11\u00A0at Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822436/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 60225,
     "Timestamp": "2026-10-19 09:58",
     "IncidentType": "Crash",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824076/attachment_0.png",
     "Latitude": 36.293459499999997,
     "Longitude": -115.18487740000001
+  },
+  {
+    "UniqueId": 60322,
+    "Timestamp": "2026-10-20 09:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Main St",
+    "Relationship": "at",
+    "CrossStreet": "Bonneville Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:38 AM, Oct 20 2026 Crash on NB Main St\u00A0at Bonneville Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824098/attachment_0.png",
+    "Latitude": 36.1658331,
+    "Longitude": -115.1502643
   }
 ]
