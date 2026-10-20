@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60213,
-    "Timestamp": "2026-10-19 08:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Commerce St",
-    "Impact": "",
-    "Notes": "8:00 AM, Oct 19 2026 Crash on EB Craig Rd\u00A0before Commerce St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822213/attachment_0.jpg",
-    "Latitude": 36.239392827432852,
-    "Longitude": -115.14375686645509
-  },
-  {
     "UniqueId": 60214,
     "Timestamp": "2026-10-19 08:07",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823805/attachment_0.png",
     "Latitude": 36.16654933682149,
     "Longitude": -115.11579751968384
+  },
+  {
+    "UniqueId": 60311,
+    "Timestamp": "2026-10-20 07:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:59 AM, Oct 20 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823810/attachment_0.jpg",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
