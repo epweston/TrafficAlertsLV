@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60207,
-    "Timestamp": "2026-10-19 07:29",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:29 AM, Oct 19 2026 Crash on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3822160/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 60208,
-    "Timestamp": "2026-10-19 07:32",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:32 AM, Oct 19 2026 Crash on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 60209,
     "Timestamp": "2026-10-19 07:44",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 60307,
+    "Timestamp": "2026-10-20 07:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:29 AM, Oct 20 2026 Crash on SB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823752/attachment_0.jpg",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
