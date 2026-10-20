@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60242,
-    "Timestamp": "2026-10-19 13:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:22 PM, Oct 19 2026 Crash on EB Tropicana Ave\u00A0after Koval Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823077/attachment_0.jpg",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
     "UniqueId": 60243,
     "Timestamp": "2026-10-19 13:58",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824490/attachment_0.jpg",
     "Latitude": 36.174073999999997,
     "Longitude": -115.05609699999999
+  },
+  {
+    "UniqueId": 60345,
+    "Timestamp": "2026-10-20 13:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "from",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "",
+    "Notes": "1:26 PM, Oct 20 2026 Crash on WB 215 Southern Beltway onramp from Eastern Ave on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824560/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
