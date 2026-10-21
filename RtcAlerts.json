@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60301,
-    "Timestamp": "2026-10-20 06:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "6:45 AM, Oct 20 2026 Crash on SB Decatur Blvd\u00A0at Valley View Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823683/attachment_0.png",
-    "Latitude": 36.1529296,
-    "Longitude": -115.19082450000001
-  },
-  {
     "UniqueId": 60302,
     "Timestamp": "2026-10-20 06:59",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825218/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 60411,
+    "Timestamp": "2026-10-21 06:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "6:40 AM, Oct 21 2026 Crash on NB I-15\u00A0at Cactus Ave. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825221/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 60412,
+    "Timestamp": "2026-10-21 06:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:42 AM, Oct 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825225/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
   }
 ]
