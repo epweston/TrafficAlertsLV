@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60335,
-    "Timestamp": "2026-10-20 12:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Sky Pointe Dr",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "12:04 PM, Oct 20 2026 Crash on EB 215 Northern Beltway\u00A0at Sky Pointe Dr. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824393/attachment_0.jpg",
-    "Latitude": 36.279313100000003,
-    "Longitude": -115.2648477
-  },
-  {
-    "UniqueId": 60336,
-    "Timestamp": "2026-10-20 12:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:08 PM, Oct 20 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824407/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 60337,
     "Timestamp": "2026-10-20 12:22",
     "IncidentType": "Crash",
@@ -1300,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826134/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 60433,
+    "Timestamp": "2026-10-21 12:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:20 PM, Oct 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826170/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
