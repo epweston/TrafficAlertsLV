@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60333,
-    "Timestamp": "2026-10-20 11:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Dr",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:14 AM, Oct 20 2026 Crash on WB Lake Dr\u00A0at Fort Apache Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824324/attachment_0.png",
-    "Latitude": 36.133473899999998,
-    "Longitude": -115.29720500000001
-  },
-  {
     "UniqueId": 60334,
     "Timestamp": "2026-10-20 11:29",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 60431,
+    "Timestamp": "2026-10-21 11:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:12 AM, Oct 21 2026 Stalled vehicle on SB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826072/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
