@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60315,
-    "Timestamp": "2026-10-20 08:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:30 AM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0after College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823865/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 60316,
-    "Timestamp": "2026-10-20 08:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:36 AM, Oct 20 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823878/attachment_0.jpg",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 60317,
-    "Timestamp": "2026-10-20 08:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:39 AM, Oct 20 2026 Crash on WB 215 Southern Beltway\u00A0at Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823901/attachment_0.jpg",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 60318,
     "Timestamp": "2026-10-20 08:58",
     "IncidentType": "Crash",
@@ -1370,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825472/attachment_0.png",
     "Latitude": 36.1150941,
     "Longitude": -115.1098504
+  },
+  {
+    "UniqueId": 60418,
+    "Timestamp": "2026-10-21 08:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Industrial Rd",
+    "Relationship": "after",
+    "CrossStreet": "Utah Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:38 AM, Oct 21 2026 Crash on NB Industrial Rd\u00A0after Utah Ave. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.153772099999998,
+    "Longitude": -115.1585238
   }
 ]
