@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60263,
-    "Timestamp": "2026-10-19 17:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "from",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:02 PM, Oct 19 2026 Crash on WB 215 Southern Beltway On Ramp\u00A0from Decatur Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823343/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 60264,
     "Timestamp": "2026-10-19 17:41",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824773/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 60361,
+    "Timestamp": "2026-10-20 17:11",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:11 PM, Oct 20 2026 Crash on WB Russell Rd\u00A0after Durango Dr. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824958/attachment_0.png",
+    "Latitude": 36.085291499999997,
+    "Longitude": -115.27931080000001
   }
 ]
