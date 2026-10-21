@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60276,
-    "Timestamp": "2026-10-19 23:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:23 PM, Oct 19 2026 Stalled vehicle on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 60277,
-    "Timestamp": "2026-10-19 23:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:23 PM, Oct 19 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 60278,
-    "Timestamp": "2026-10-19 23:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "11:44 PM, Oct 19 2026 Crash on NB Rainbow Blvd\u00A0at I-11. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823403/attachment_0.png",
-    "Latitude": 36.176751852351089,
-    "Longitude": -115.24383544921876
-  },
-  {
     "UniqueId": 60279,
     "Timestamp": "2026-10-20 00:04",
     "IncidentType": "Vehicle on fire",
@@ -1566,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3825017/attachment_0.png",
     "Latitude": 36.166451199999997,
     "Longitude": -115.2444019
+  },
+  {
+    "UniqueId": 60393,
+    "Timestamp": "2026-10-20 23:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "11:40 PM, Oct 20 2026 Stalled vehicle on SB Rancho Dr\u00A0at Rainbow Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3825019/attachment_0.png",
+    "Latitude": 36.250773600000002,
+    "Longitude": -115.2428853
   }
 ]
