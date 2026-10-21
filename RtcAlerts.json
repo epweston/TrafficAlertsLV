@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60274,
-    "Timestamp": "2026-10-19 22:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:32 PM, Oct 19 2026 Crash on NB I-11 onramp from Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823380/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 60275,
-    "Timestamp": "2026-10-19 22:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Maule Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:59 PM, Oct 19 2026 Crash on SB Fort Apache Rd\u00A0at Maule Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823399/attachment_0.png",
-    "Latitude": 36.062921299999999,
-    "Longitude": -115.29773729999999
-  },
-  {
     "UniqueId": 60276,
     "Timestamp": "2026-10-19 23:23",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824911/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 60392,
+    "Timestamp": "2026-10-20 23:15",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Alta Dr",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "11:15 PM, Oct 20 2026 Crash on EB Alta Dr\u00A0at Rainbow Blvd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3825017/attachment_0.png",
+    "Latitude": 36.166451199999997,
+    "Longitude": -115.2444019
   }
 ]
