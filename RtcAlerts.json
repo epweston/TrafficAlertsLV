@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60325,
-    "Timestamp": "2026-10-20 10:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:00 AM, Oct 20 2026 Crash on NB 215 Western Beltway\u00A0at Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
-    "UniqueId": 60326,
-    "Timestamp": "2026-10-20 10:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:00 AM, Oct 20 2026 Crash on NB 215 Western Beltway\u00A0at Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824145/attachment_0.jpg",
-    "Latitude": 36.191620159999999,
-    "Longitude": -115.34255690000001
-  },
-  {
-    "UniqueId": 60327,
-    "Timestamp": "2026-10-20 10:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:07 AM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0at Sloan Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824158/attachment_0.jpg",
-    "Latitude": 35.930534841935703,
-    "Longitude": -115.193088054657
-  },
-  {
-    "UniqueId": 60328,
-    "Timestamp": "2026-10-20 10:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:10 AM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0at Horizon Ridge Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824182/attachment_0.png",
-    "Latitude": 36.010619300000002,
-    "Longitude": -114.9938854
-  },
-  {
     "UniqueId": 60329,
     "Timestamp": "2026-10-20 10:24",
     "IncidentType": "Crash",
@@ -1342,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825771/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 60426,
+    "Timestamp": "2026-10-21 10:15",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:15 AM, Oct 21 2026 Crash on SB I-15\u00A0after Washington Ave. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
