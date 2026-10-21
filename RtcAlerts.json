@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60352,
-    "Timestamp": "2026-10-20 15:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:56 PM, Oct 20 2026 Crash on EB Summerlin Pkwy\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824687/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
-    "UniqueId": 60353,
-    "Timestamp": "2026-10-20 16:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:06 PM, Oct 20 2026 Crash on SB Rampart Blvd\u00A0before Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824670/attachment_0.jpg",
-    "Latitude": 36.158945099999997,
-    "Longitude": -115.29135580000001
-  },
-  {
     "UniqueId": 60354,
     "Timestamp": "2026-10-20 16:10",
     "IncidentType": "Crash",
@@ -1300,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826443/attachment_0.png",
     "Latitude": 36.144043678496175,
     "Longitude": -115.17114596721193
+  },
+  {
+    "UniqueId": 60450,
+    "Timestamp": "2026-10-21 16:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:03 PM, Oct 21 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
