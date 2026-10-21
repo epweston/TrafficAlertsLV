@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60345,
-    "Timestamp": "2026-10-20 13:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "from",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "",
-    "Notes": "1:26 PM, Oct 20 2026 Crash on WB 215 Southern Beltway onramp from Eastern Ave on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824560/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 60346,
-    "Timestamp": "2026-10-20 13:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:29 PM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0to Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824545/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 60347,
     "Timestamp": "2026-10-20 13:34",
     "IncidentType": "Crash",
@@ -1230,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826270/attachment_0.jpg",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 60438,
+    "Timestamp": "2026-10-21 13:25",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Patrick Lane",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "1:25 PM, Oct 21 2026 Crash on SB Rainbow Blvd\u00A0at Patrick Lane. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826285/attachment_0.png",
+    "Latitude": 36.077859799999999,
+    "Longitude": -115.2426871
   }
 ]
