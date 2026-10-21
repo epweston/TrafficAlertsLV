@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60350,
-    "Timestamp": "2026-10-20 15:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Middle lane blocked.",
-    "Notes": "3:25 PM, Oct 20 2026 Crash on SB I-15\u00A0at Charleston Blvd. Middle lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824655/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 60351,
     "Timestamp": "2026-10-20 15:41",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826391/attachment_0.png",
     "Latitude": 36.14425161252003,
     "Longitude": -115.06543636322023
+  },
+  {
+    "UniqueId": 60446,
+    "Timestamp": "2026-10-21 15:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Grand Teton Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:29 PM, Oct 21 2026 Crash on NB Durango Dr\u00A0before Grand Teton Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826417/attachment_0.png",
+    "Latitude": 36.306577799999999,
+    "Longitude": -115.27855580000001
   }
 ]
