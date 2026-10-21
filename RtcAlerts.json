@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60270,
-    "Timestamp": "2026-10-19 19:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Center lanes blocked.",
-    "Notes": "7:55 PM, Oct 19 2026 Crash on NB I-11\u00A0after Rancho Dr. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823352/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 60271,
-    "Timestamp": "2026-10-19 20:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:06 PM, Oct 19 2026 Crash on NB I-15 onramp from Flamingo Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823369/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 60272,
     "Timestamp": "2026-10-19 20:46",
     "IncidentType": "Crash",
@@ -1566,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824900/attachment_0.png",
     "Latitude": 36.162577900000002,
     "Longitude": -115.1494649
+  },
+  {
+    "UniqueId": 60384,
+    "Timestamp": "2026-10-20 20:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "All SB lanes are blocked. Use other routes.",
+    "Notes": "8:06 PM, Oct 20 2026 Crash on SB I-11\u00A0at Craig Rd. All SB lanes are blocked. Use other routes.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3825007/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
