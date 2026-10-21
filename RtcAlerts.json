@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60354,
-    "Timestamp": "2026-10-20 16:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:10 PM, Oct 20 2026 Crash on SB I-11\u00A0at Rancho Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824709/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 60355,
     "Timestamp": "2026-10-20 16:12",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 60451,
+    "Timestamp": "2026-10-21 16:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 71",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:06 PM, Oct 21 2026 Stalled vehicle on SB I-15\u00A0at Mile 71. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826448/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
