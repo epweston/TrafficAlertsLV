@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60314,
-    "Timestamp": "2026-10-20 08:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:21 AM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823838/attachment_0.jpg",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 60315,
     "Timestamp": "2026-10-20 08:30",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825423/attachment_0.png",
     "Latitude": 36.143662482122316,
     "Longitude": -115.1573931887723
+  },
+  {
+    "UniqueId": 60417,
+    "Timestamp": "2026-10-21 08:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Mcleod Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:24 AM, Oct 21 2026 Crash on WB Flamingo Rd\u00A0before McLeod Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825472/attachment_0.png",
+    "Latitude": 36.1150941,
+    "Longitude": -115.1098504
   }
 ]
