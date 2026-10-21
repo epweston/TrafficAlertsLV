@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60302,
-    "Timestamp": "2026-10-20 06:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "8Th St",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:59 AM, Oct 20 2026 Crash on WB Charleston Blvd\u00A0at 8th St.. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823700/attachment_0.png",
-    "Latitude": 36.158898999999998,
-    "Longitude": -115.14306430000001
-  },
-  {
-    "UniqueId": 60303,
-    "Timestamp": "2026-10-20 07:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:18 AM, Oct 20 2026 Stalled vehicle on NB I-15\u00A0at Starr Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3823739/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 60304,
     "Timestamp": "2026-10-20 07:24",
     "IncidentType": "Abandoned vehicle",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825234/attachment_0.png",
     "Latitude": 36.125444299999998,
     "Longitude": -115.1701368
+  },
+  {
+    "UniqueId": 60415,
+    "Timestamp": "2026-10-21 07:17",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "7:17 AM, Oct 21 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825290/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
