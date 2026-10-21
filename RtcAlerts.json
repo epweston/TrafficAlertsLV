@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60360,
-    "Timestamp": "2026-10-20 16:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:47 PM, Oct 20 2026 Crash on NB I-11\u00A0at Cheyenne Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824773/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 60361,
     "Timestamp": "2026-10-20 17:11",
     "IncidentType": "Crash",
@@ -1286,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826462/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 60457,
+    "Timestamp": "2026-10-21 16:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oquendo Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:43 PM, Oct 21 2026 Crash on SB Jones Blvd\u00A0at Oquendo Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826465/attachment_0.png",
+    "Latitude": 36.081764300000003,
+    "Longitude": -115.22500719999999
+  },
+  {
+    "UniqueId": 60458,
+    "Timestamp": "2026-10-21 16:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:47 PM, Oct 21 2026 Crash on EB Lake Mead Blvd\u00A0at Tenaya Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826467/attachment_0.png",
+    "Latitude": 36.196142600000002,
+    "Longitude": -115.2512959
   }
 ]
