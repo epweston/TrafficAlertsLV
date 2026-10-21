@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60320,
-    "Timestamp": "2026-10-20 09:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:06 AM, Oct 20 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824041/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 60321,
     "Timestamp": "2026-10-20 09:27",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825685/attachment_0.png",
     "Latitude": 36.027994100000001,
     "Longitude": -115.2079159
+  },
+  {
+    "UniqueId": 60421,
+    "Timestamp": "2026-10-21 09:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cabana Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:04 AM, Oct 21 2026 Crash on WB Flamingo Rd\u00A0at Cabana Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825665/attachment_0.png",
+    "Latitude": 36.115088299999996,
+    "Longitude": -115.0558965
   }
 ]
