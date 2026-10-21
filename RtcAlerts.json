@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60321,
-    "Timestamp": "2026-10-20 09:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:27 AM, Oct 20 2026 Crash on SB 215 Northern Beltway\u00A0at Aliante Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824076/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 60322,
     "Timestamp": "2026-10-20 09:38",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825677/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 60424,
+    "Timestamp": "2026-10-21 09:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:29 AM, Oct 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825734/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
