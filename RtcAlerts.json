@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60264,
-    "Timestamp": "2026-10-19 17:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Commerce St",
-    "Impact": "",
-    "Notes": "5:41 PM, Oct 19 2026 Crash on EB Craig Rd\u00A0before Commerce St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/19/file_attachments/3823346/attachment_0.jpg",
-    "Latitude": 36.239392827432852,
-    "Longitude": -115.14375686645509
-  },
-  {
     "UniqueId": 60265,
     "Timestamp": "2026-10-19 18:04",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824880/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 60367,
+    "Timestamp": "2026-10-20 17:41",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Center lanes blocked.",
+    "Notes": "5:41 PM, Oct 20 2026 Crash on NB I-15\u00A0at I-11. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824971/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
