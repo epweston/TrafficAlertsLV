@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60355,
-    "Timestamp": "2026-10-20 16:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "4:12 PM, Oct 20 2026 Crash on SB I-11\u00A0from Martin L King Blvd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824746/attachment_0.png",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
-    "UniqueId": 60356,
-    "Timestamp": "2026-10-20 16:14",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:14 PM, Oct 20 2026 Crash on EB 215 Southern Beltway\u00A0after Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824748/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 60357,
-    "Timestamp": "2026-10-20 16:15",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Essex Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:15 PM, Oct 20 2026 Crash on WB Charleston Blvd\u00A0at Essex Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824750/attachment_0.png",
-    "Latitude": 36.1591223,
-    "Longitude": -115.20130090000001
-  },
-  {
-    "UniqueId": 60358,
-    "Timestamp": "2026-10-20 16:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:16 PM, Oct 20 2026 Crash on WB Tropicana Ave\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824712/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 60359,
     "Timestamp": "2026-10-20 16:30",
     "IncidentType": "Crash",
@@ -1286,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826448/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 60452,
+    "Timestamp": "2026-10-21 16:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:20 PM, Oct 21 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826474/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
