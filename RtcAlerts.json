@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60334,
-    "Timestamp": "2026-10-20 11:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 93",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:29 AM, Oct 20 2026 Stalled vehicle on NB I-15\u00A0at Mile 93. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824345/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 60335,
     "Timestamp": "2026-10-20 12:04",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826072/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 60432,
+    "Timestamp": "2026-10-21 11:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:37 AM, Oct 21 2026 Crash on NB I-11\u00A0after Galleria Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826134/attachment_0.png",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
