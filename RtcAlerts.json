@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60392,
-    "Timestamp": "2026-10-20 23:15",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Alta Dr",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:15 PM, Oct 20 2026 Crash on EB Alta Dr\u00A0at Rainbow Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3825017/attachment_0.png",
-    "Latitude": 36.166451199999997,
-    "Longitude": -115.2444019
-  },
-  {
     "UniqueId": 60393,
     "Timestamp": "2026-10-20 23:40",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826596/attachment_0.png",
     "Latitude": 36.070325995097008,
     "Longitude": -115.28861636686682
+  },
+  {
+    "UniqueId": 60493,
+    "Timestamp": "2026-10-21 23:33",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Mountain Vista St",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:33 PM, Oct 21 2026 Crash on NB Mountain Vista St\u00A0at Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826588/attachment_0.png",
+    "Latitude": 36.107594596857723,
+    "Longitude": -115.07350778548742
   }
 ]
