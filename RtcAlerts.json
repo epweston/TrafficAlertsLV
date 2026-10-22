@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60361,
-    "Timestamp": "2026-10-20 17:11",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:11 PM, Oct 20 2026 Crash on WB Russell Rd\u00A0after Durango Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824958/attachment_0.png",
-    "Latitude": 36.085291499999997,
-    "Longitude": -115.27931080000001
-  },
-  {
-    "UniqueId": 60362,
-    "Timestamp": "2026-10-20 17:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:13 PM, Oct 20 2026 Crash on SB Hualapai Way\u00A0at 215 Northern Beltway. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824962/attachment_0.jpg",
-    "Latitude": 36.118875250000002,
-    "Longitude": -115.314973
-  },
-  {
-    "UniqueId": 60363,
-    "Timestamp": "2026-10-20 17:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:16 PM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0to 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824964/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 60364,
-    "Timestamp": "2026-10-20 17:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "5:18 PM, Oct 20 2026 Crash on SB Martin L King Blvd\u00A0at Charleston Blvd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824965/attachment_0.png",
-    "Latitude": 36.159013501913392,
-    "Longitude": -115.16171908572582
-  },
-  {
     "UniqueId": 60365,
     "Timestamp": "2026-10-20 17:24",
     "IncidentType": "Crash",
@@ -1370,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826500/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 60464,
+    "Timestamp": "2026-10-21 17:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:19 PM, Oct 21 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826519/attachment_0.png",
+    "Latitude": 36.115066053957577,
+    "Longitude": -115.30244890820951
   }
 ]
