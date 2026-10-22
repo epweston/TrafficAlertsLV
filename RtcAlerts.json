@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60458,
-    "Timestamp": "2026-10-21 16:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:47 PM, Oct 21 2026 Crash on EB Lake Mead Blvd\u00A0at Tenaya Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826467/attachment_0.png",
-    "Latitude": 36.196142600000002,
-    "Longitude": -115.2512959
-  },
-  {
-    "UniqueId": 60459,
-    "Timestamp": "2026-10-21 16:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:49 PM, Oct 21 2026 Crash on NB Buffalo Dr\u00A0at Lake Mead Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826484/attachment_0.png",
-    "Latitude": 36.196118272847883,
-    "Longitude": -115.26036856461288
-  },
-  {
     "UniqueId": 60460,
     "Timestamp": "2026-10-21 16:50",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828038/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 60550,
+    "Timestamp": "2026-10-22 16:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Meadows Ln",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:46 PM, Oct 22 2026 Crash on NB Decatur Blvd\u00A0after Meadows Ln. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828028/attachment_0.png",
+    "Latitude": 36.1701117,
+    "Longitude": -115.2059091
   }
 ]
