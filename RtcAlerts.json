@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60403,
-    "Timestamp": "2026-10-21 05:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sands Ave",
-    "Relationship": "at",
-    "CrossStreet": "Wynn S Gate",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:54 AM, Oct 21 2026 Crash on EB Sands Ave\u00A0at Wynn S Gate. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825144/attachment_0.jpg",
-    "Latitude": 36.1249289,
-    "Longitude": -115.16712370000001
-  },
-  {
-    "UniqueId": 60404,
-    "Timestamp": "2026-10-21 05:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:57 AM, Oct 21 2026 Stalled vehicle on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825178/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 60405,
-    "Timestamp": "2026-10-21 05:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:57 AM, Oct 21 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825155/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 60406,
-    "Timestamp": "2026-10-21 06:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lane blocked Right lane blocked. Expect Delays",
-    "Notes": "6:06 AM, Oct 21 2026 Crash on NB I-11\u00A0before Eastern Ave. Center lane blocked Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825177/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 60407,
     "Timestamp": "2026-10-21 06:25",
     "IncidentType": "Crash",
@@ -1468,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826819/attachment_0.png",
     "Latitude": 36.136071899999997,
     "Longitude": -115.1548945
+  },
+  {
+    "UniqueId": 60508,
+    "Timestamp": "2026-10-22 06:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:11 AM, Oct 22 2026 Crash on SB I-15\u00A0at Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826810/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
