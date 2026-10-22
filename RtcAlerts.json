@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 60419,
-    "Timestamp": "2026-10-21 08:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:46 AM, Oct 21 2026 Stalled vehicle on SB I-15 \u00A0after Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825561/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 60420,
-    "Timestamp": "2026-10-21 09:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "9:02 AM, Oct 21 2026 Crash on SB Decatur Blvd\u00A0at Pebble Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825685/attachment_0.png",
-    "Latitude": 36.027994100000001,
-    "Longitude": -115.2079159
-  },
-  {
-    "UniqueId": 60421,
-    "Timestamp": "2026-10-21 09:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cabana Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:04 AM, Oct 21 2026 Crash on WB Flamingo Rd\u00A0at Cabana Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825665/attachment_0.png",
-    "Latitude": 36.115088299999996,
-    "Longitude": -115.0558965
-  },
-  {
-    "UniqueId": 60422,
-    "Timestamp": "2026-10-21 09:11",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:11 AM, Oct 21 2026 Crash on NB I-11\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825671/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 60423,
-    "Timestamp": "2026-10-21 09:15",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:15 AM, Oct 21 2026 Crash on SB I-15\u00A0after Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825677/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 60424,
     "Timestamp": "2026-10-21 09:29",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827197/attachment_0.png",
     "Latitude": 36.100972160686119,
     "Longitude": -115.14593481598045
+  },
+  {
+    "UniqueId": 60521,
+    "Timestamp": "2026-10-22 09:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:15 AM, Oct 22 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827292/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
