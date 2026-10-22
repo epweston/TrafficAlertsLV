@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60445,
-    "Timestamp": "2026-10-21 15:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:21 PM, Oct 21 2026 Crash on EB Sahara Ave\u00A0before Nellis Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826391/attachment_0.png",
-    "Latitude": 36.14425161252003,
-    "Longitude": -115.06543636322023
-  },
-  {
-    "UniqueId": 60446,
-    "Timestamp": "2026-10-21 15:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Grand Teton Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:29 PM, Oct 21 2026 Crash on NB Durango Dr\u00A0before Grand Teton Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826417/attachment_0.png",
-    "Latitude": 36.306577799999999,
-    "Longitude": -115.27855580000001
-  },
-  {
     "UniqueId": 60447,
     "Timestamp": "2026-10-21 15:42",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827947/attachment_0.png",
     "Latitude": 36.21922790273323,
     "Longitude": -115.32768125268741
+  },
+  {
+    "UniqueId": 60537,
+    "Timestamp": "2026-10-22 15:25",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:25 PM, Oct 22 2026 Crash on EB 215 Southern Beltway\u00A0at Jones Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827977/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
