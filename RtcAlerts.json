@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60429,
-    "Timestamp": "2026-10-21 10:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:59 AM, Oct 21 2026 Crash on SB Jones Blvd\u00A0before Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826063/attachment_0.png",
-    "Latitude": 36.085379978594936,
-    "Longitude": -115.22534431390299
-  },
-  {
-    "UniqueId": 60430,
-    "Timestamp": "2026-10-21 11:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:08 AM, Oct 21 2026 Crash on SB I-15\u00A0after Washington Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 60431,
     "Timestamp": "2026-10-21 11:12",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827489/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 60525,
+    "Timestamp": "2026-10-22 11:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:06 AM, Oct 22 2026 Crash on SB Jones Blvd\u00A0at Oakey Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827525/attachment_0.png",
+    "Latitude": 36.151719544127992,
+    "Longitude": -115.22561788558961
   }
 ]
