@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60435,
-    "Timestamp": "2026-10-21 12:33",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "12:33 PM, Oct 21 2026 Crash on NB I-15\u00A0before Harmon Ave. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826222/attachment_0.jpg",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 60436,
-    "Timestamp": "2026-10-21 12:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:44 PM, Oct 21 2026 Crash on SB Boulder Hwy\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826228/attachment_0.jpg",
-    "Latitude": 36.114985400000002,
-    "Longitude": -115.06664840000001
-  },
-  {
     "UniqueId": 60437,
     "Timestamp": "2026-10-21 13:13",
     "IncidentType": "Crash",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827727/attachment_0.jpg",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 60530,
+    "Timestamp": "2026-10-22 13:07",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:07 PM, Oct 22 2026 Crash on WB Tropicana Ave\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827788/attachment_0.png",
+    "Latitude": 36.100781423246033,
+    "Longitude": -115.17291721759118
   }
 ]
