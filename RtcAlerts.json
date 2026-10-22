@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60407,
-    "Timestamp": "2026-10-21 06:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:25 AM, Oct 21 2026 Crash on SB I-11\u00A0before Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825184/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 60408,
-    "Timestamp": "2026-10-21 06:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "On-ramp right shoulder blocked.",
-    "Notes": "6:30 AM, Oct 21 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Aliante Pkwy. On-ramp right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825211/attachment_0.jpg",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 60409,
     "Timestamp": "2026-10-21 06:35",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826810/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 60509,
+    "Timestamp": "2026-10-22 06:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:31 AM, Oct 22 2026 Crash on NB I-11\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826850/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
