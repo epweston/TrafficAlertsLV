@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60417,
-    "Timestamp": "2026-10-21 08:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Mcleod Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:24 AM, Oct 21 2026 Crash on WB Flamingo Rd\u00A0before McLeod Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825472/attachment_0.png",
-    "Latitude": 36.1150941,
-    "Longitude": -115.1098504
-  },
-  {
-    "UniqueId": 60418,
-    "Timestamp": "2026-10-21 08:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Industrial Rd",
-    "Relationship": "after",
-    "CrossStreet": "Utah Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:38 AM, Oct 21 2026 Crash on NB Industrial Rd\u00A0after Utah Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.153772099999998,
-    "Longitude": -115.1585238
-  },
-  {
     "UniqueId": 60419,
     "Timestamp": "2026-10-21 08:46",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827123/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 60520,
+    "Timestamp": "2026-10-22 08:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:37 AM, Oct 22 2026 Crash on WB Tropicana Ave\u00A0at University Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827197/attachment_0.png",
+    "Latitude": 36.100972160686119,
+    "Longitude": -115.14593481598045
   }
 ]
