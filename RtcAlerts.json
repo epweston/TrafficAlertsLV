@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60431,
-    "Timestamp": "2026-10-21 11:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:12 AM, Oct 21 2026 Stalled vehicle on SB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826072/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 60432,
     "Timestamp": "2026-10-21 11:37",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827525/attachment_0.png",
     "Latitude": 36.151719544127992,
     "Longitude": -115.22561788558961
+  },
+  {
+    "UniqueId": 60526,
+    "Timestamp": "2026-10-22 11:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:22 AM, Oct 22 2026 Crash on EB Blue Diamond Rd\u00A0at Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827565/attachment_0.png",
+    "Latitude": 36.040631599999998,
+    "Longitude": -115.19019710000001
   }
 ]
