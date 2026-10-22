@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60390,
-    "Timestamp": "2026-10-20 21:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:33 PM, Oct 20 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824911/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 60392,
     "Timestamp": "2026-10-20 23:15",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826570/attachment_0.png",
     "Latitude": 36.277381871493823,
     "Longitude": -115.26709154723478
+  },
+  {
+    "UniqueId": 60489,
+    "Timestamp": "2026-10-21 21:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:38 PM, Oct 21 2026 Crash on NB Saint Rose Pkwy\u00A0before Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826572/attachment_0.jpg",
+    "Latitude": 36.007212170000003,
+    "Longitude": -115.11431157
   }
 ]
