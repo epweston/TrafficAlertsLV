@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60452,
-    "Timestamp": "2026-10-21 16:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:20 PM, Oct 21 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826474/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 60453,
     "Timestamp": "2026-10-21 16:26",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828008/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 60544,
+    "Timestamp": "2026-10-22 16:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Serene Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:20 PM, Oct 22 2026 Crash on WB Saint Rose Pkwy\u00A0at Serene Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828018/attachment_0.png",
+    "Latitude": 36.022084999999997,
+    "Longitude": -115.1007856
   }
 ]
