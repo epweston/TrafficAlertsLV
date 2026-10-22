@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60416,
-    "Timestamp": "2026-10-21 08:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:06 AM, Oct 21 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825423/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 60417,
     "Timestamp": "2026-10-21 08:24",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827078/attachment_0.jpg",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 60518,
+    "Timestamp": "2026-10-22 08:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:08 AM, Oct 22 2026 Crash on SB Las Vegas Blvd\u00A0at Washington Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827137/attachment_0.png",
+    "Latitude": 36.181185829999997,
+    "Longitude": -115.13418675
   }
 ]
