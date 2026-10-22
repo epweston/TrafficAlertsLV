@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60367,
-    "Timestamp": "2026-10-20 17:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Center lanes blocked.",
-    "Notes": "5:41 PM, Oct 20 2026 Crash on NB I-15\u00A0at I-11. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824971/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 60368,
-    "Timestamp": "2026-10-20 17:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:45 PM, Oct 20 2026 Stalled vehicle on NB Pecos Rd\u00A0after Stewart Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824989/attachment_0.png",
-    "Latitude": 36.166186199999999,
-    "Longitude": -115.0982052
-  },
-  {
-    "UniqueId": 60369,
-    "Timestamp": "2026-10-20 17:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:47 PM, Oct 20 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0before Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824990/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
     "UniqueId": 60370,
     "Timestamp": "2026-10-20 18:11",
     "IncidentType": "Crash",
@@ -1328,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826522/attachment_0.png",
     "Latitude": 36.122551399999999,
     "Longitude": -115.2080967
+  },
+  {
+    "UniqueId": 60467,
+    "Timestamp": "2026-10-21 17:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Bermuda Rd",
+    "Relationship": "before",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Left and right lane blocked.",
+    "Notes": "5:44 PM, Oct 21 2026 Crash on SB Bermuda Rd\u00A0before Saint Rose Pkwy. Left and right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826506/attachment_0.png",
+    "Latitude": 35.978025199999998,
+    "Longitude": -115.1551843
+  },
+  {
+    "UniqueId": 60468,
+    "Timestamp": "2026-10-21 17:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:46 PM, Oct 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826507/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
