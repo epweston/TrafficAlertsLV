@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60456,
-    "Timestamp": "2026-10-21 16:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:38 PM, Oct 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826462/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 60457,
     "Timestamp": "2026-10-21 16:43",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828023/attachment_0.png",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 60548,
+    "Timestamp": "2026-10-22 16:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "at",
+    "CrossStreet": "Cc-215",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:34 PM, Oct 22 2026 Crash on SB Hualapai Way\u00A0at CC-215. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828025/attachment_0.jpg",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
   }
 ]
