@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60381,
-    "Timestamp": "2026-10-20 19:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:23 PM, Oct 20 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824898/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
-    "UniqueId": 60382,
-    "Timestamp": "2026-10-20 19:31",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-11 Sb",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:31 PM, Oct 20 2026 Crash on EB Craig Rd\u00A0at I-11 SB onramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3825004/attachment_0.png",
-    "Latitude": 36.2480239,
-    "Longitude": -115.24655850000001
-  },
-  {
-    "UniqueId": 60383,
-    "Timestamp": "2026-10-20 19:35",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Casino Center Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Gass Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "7:35 PM, Oct 20 2026 Police activity on NB Casino Center Blvd\u00A0at Gass Ave to Garces. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824900/attachment_0.png",
-    "Latitude": 36.162577900000002,
-    "Longitude": -115.1494649
-  },
-  {
     "UniqueId": 60384,
     "Timestamp": "2026-10-20 20:06",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826545/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 60484,
+    "Timestamp": "2026-10-21 19:42",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:42 PM, Oct 21 2026 Crash on WB Sahara Ave\u00A0before I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826550/attachment_0.png",
+    "Latitude": 36.144043678496175,
+    "Longitude": -115.17114596721193
   }
 ]
