@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60433,
-    "Timestamp": "2026-10-21 12:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:20 PM, Oct 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826170/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 60434,
-    "Timestamp": "2026-10-21 12:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "12:25 PM, Oct 21 2026 Crash on NB Rainbow Blvd\u00A0at Blue Diamond Rd. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826191/attachment_0.png",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
     "UniqueId": 60435,
     "Timestamp": "2026-10-21 12:33",
     "IncidentType": "Crash",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827681/attachment_0.jpg",
     "Latitude": 36.2335846,
     "Longitude": -115.330828
+  },
+  {
+    "UniqueId": 60528,
+    "Timestamp": "2026-10-22 12:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Owens Ave",
+    "Impact": "Left-turn lane blocked.",
+    "Notes": "12:24 PM, Oct 22 2026 Crash on NB Pecos Rd\u00A0at Owens Ave. Left-turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827735/attachment_0.jpg",
+    "Latitude": 36.188139700000001,
+    "Longitude": -115.0983279
   }
 ]
