@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60415,
-    "Timestamp": "2026-10-21 07:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "7:17 AM, Oct 21 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825290/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 60416,
     "Timestamp": "2026-10-21 08:06",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826967/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 60514,
+    "Timestamp": "2026-10-22 07:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Valley Of Fire Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:32 AM, Oct 22 2026 Crash on NB I-15\u00A0before Valley of Fire Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827037/attachment_0.jpg",
+    "Latitude": 36.502189514814987,
+    "Longitude": -114.76155817508699
   }
 ]
