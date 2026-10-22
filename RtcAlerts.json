@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60378,
-    "Timestamp": "2026-10-20 18:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:57 PM, Oct 20 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824896/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 60379,
-    "Timestamp": "2026-10-20 19:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Elkhorn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:06 PM, Oct 20 2026 Crash on WB Elkhorn Rd\u00A0at Cimarron Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/20/file_attachments/3824999/attachment_0.png",
-    "Latitude": 36.291164799999997,
-    "Longitude": -115.2694709
-  },
-  {
     "UniqueId": 60381,
     "Timestamp": "2026-10-20 19:23",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826558/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 60483,
+    "Timestamp": "2026-10-21 19:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:02 PM, Oct 21 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826545/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
