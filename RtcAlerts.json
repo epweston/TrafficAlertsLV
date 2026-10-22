@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60401,
-    "Timestamp": "2026-10-21 05:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:46 AM, Oct 21 2026 Crash on SB I-11\u00A0at Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825134/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 60402,
     "Timestamp": "2026-10-21 05:51",
     "IncidentType": "Crash",
@@ -1454,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826795/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 60505,
+    "Timestamp": "2026-10-22 05:41",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:41 AM, Oct 22 2026 Police activity on SB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826813/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 60506,
+    "Timestamp": "2026-10-22 05:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:44 AM, Oct 22 2026 Crash on EB Flamingo Rd\u00A0after I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826815/attachment_0.png",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
   }
 ]
