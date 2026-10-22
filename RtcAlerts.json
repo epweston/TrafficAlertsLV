@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60400,
-    "Timestamp": "2026-10-21 05:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Industrial Rd",
-    "Relationship": "after",
-    "CrossStreet": "Utah Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:39 AM, Oct 21 2026 Crash on NB Industrial Rd\u00A0after Utah Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3825116/attachment_0.png",
-    "Latitude": 36.153772099999998,
-    "Longitude": -115.1585238
-  },
-  {
     "UniqueId": 60401,
     "Timestamp": "2026-10-21 05:46",
     "IncidentType": "Crash",
@@ -1440,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826783/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 60503,
+    "Timestamp": "2026-10-22 05:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Bermuda Rd",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:37 AM, Oct 22 2026 Stalled vehicle on SB Bermuda Rd\u00A0at Silverado Ranch Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826770/attachment_0.png",
+    "Latitude": 36.013323399999997,
+    "Longitude": -115.1547623
+  },
+  {
+    "UniqueId": 60504,
+    "Timestamp": "2026-10-22 05:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "5:40 AM, Oct 22 2026 Crash on SB I-15\u00A0at Lake Mead Blvd. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826795/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
