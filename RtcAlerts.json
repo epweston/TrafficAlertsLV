@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60510,
-    "Timestamp": "2026-10-22 06:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sands Ave",
-    "Relationship": "at",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:38 AM, Oct 22 2026 Crash on WB Sands Ave\u00A0at Koval Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826909/attachment_0.jpg",
-    "Latitude": 36.122372221074869,
-    "Longitude": -115.16410411872364
-  },
-  {
-    "UniqueId": 60511,
-    "Timestamp": "2026-10-22 06:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:44 AM, Oct 22 2026 Crash on SB I-15\u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826888/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 60512,
     "Timestamp": "2026-10-22 06:55",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828349/attachment_0.png",
     "Latitude": 35.995500051714465,
     "Longitude": -114.93417936577133
+  },
+  {
+    "UniqueId": 60593,
+    "Timestamp": "2026-10-23 06:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:45 AM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828396/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 60594,
+    "Timestamp": "2026-10-23 06:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:45 AM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828398/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
