@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60547,
-    "Timestamp": "2026-10-22 16:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:32 PM, Oct 22 2026 Crash on NB I-11\u00A0after Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828023/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 60548,
-    "Timestamp": "2026-10-22 16:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Cc-215",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:34 PM, Oct 22 2026 Crash on SB Hualapai Way\u00A0at CC-215. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828025/attachment_0.jpg",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
     "UniqueId": 60549,
     "Timestamp": "2026-10-22 16:39",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829253/attachment_0.png",
     "Latitude": 36.289875459999998,
     "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 60651,
+    "Timestamp": "2026-10-23 16:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:33 PM, Oct 23 2026 Crash on SB I-11\u00A0before Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829255/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 60652,
+    "Timestamp": "2026-10-23 16:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Azure Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:34 PM, Oct 23 2026 Crash on NB Jones Blvd\u00A0at Azure Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829256/attachment_0.jpg",
+    "Latitude": 36.272122299999999,
+    "Longitude": -115.2250801
   }
 ]
