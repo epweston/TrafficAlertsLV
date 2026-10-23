@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60465,
-    "Timestamp": "2026-10-21 17:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:21 PM, Oct 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826503/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 60466,
     "Timestamp": "2026-10-21 17:30",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828048/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 60557,
+    "Timestamp": "2026-10-22 17:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "5:19 PM, Oct 22 2026 Crash on SB Martin L King Blvd\u00A0before Alexander Rd. 2 Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828061/attachment_0.png",
+    "Latitude": 36.2320347,
+    "Longitude": -115.1619213
   }
 ]
