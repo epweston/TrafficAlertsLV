@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60487,
-    "Timestamp": "2026-10-21 20:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mtn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:23 PM, Oct 21 2026 Stalled vehicle on SB I-15\u00A0at Spring Mtn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826576/attachment_0.png",
-    "Latitude": 36.125444299999998,
-    "Longitude": -115.1701368
-  },
-  {
     "UniqueId": 60488,
     "Timestamp": "2026-10-21 21:21",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828117/attachment_0.png",
     "Latitude": 36.301360199999998,
     "Longitude": -115.2826993
+  },
+  {
+    "UniqueId": 60575,
+    "Timestamp": "2026-10-22 21:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:13 PM, Oct 22 2026 Stalled vehicle on NB I-15\u00A0at Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828110/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
   }
 ]
