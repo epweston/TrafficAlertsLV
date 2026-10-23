@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60528,
-    "Timestamp": "2026-10-22 12:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Owens Ave",
-    "Impact": "Left-turn lane blocked.",
-    "Notes": "12:24 PM, Oct 22 2026 Crash on NB Pecos Rd\u00A0at Owens Ave. Left-turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827735/attachment_0.jpg",
-    "Latitude": 36.188139700000001,
-    "Longitude": -115.0983279
-  },
-  {
-    "UniqueId": 60529,
-    "Timestamp": "2026-10-22 12:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:28 PM, Oct 22 2026 Crash on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827727/attachment_0.jpg",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 60530,
     "Timestamp": "2026-10-22 13:07",
     "IncidentType": "Crash",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828960/attachment_0.png",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 60630,
+    "Timestamp": "2026-10-23 12:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mtn Rd",
+    "Relationship": "after",
+    "CrossStreet": "Mel Torme Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:45 PM, Oct 23 2026 Crash on EB Spring Mtn Rd\u00A0after Mel Torme Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829002/attachment_0.jpg",
+    "Latitude": 36.125662800000001,
+    "Longitude": -115.1732894
   }
 ]
