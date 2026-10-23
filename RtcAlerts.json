@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60518,
-    "Timestamp": "2026-10-22 08:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:08 AM, Oct 22 2026 Crash on SB Las Vegas Blvd\u00A0at Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827137/attachment_0.png",
-    "Latitude": 36.181185829999997,
-    "Longitude": -115.13418675
-  },
-  {
     "UniqueId": 60519,
     "Timestamp": "2026-10-22 08:19",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828519/attachment_0.png",
     "Latitude": 36.1885677,
     "Longitude": -115.18592959999999
+  },
+  {
+    "UniqueId": 60603,
+    "Timestamp": "2026-10-23 08:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Kell Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:04 AM, Oct 23 2026 Crash on SB Nellis Blvd\u00A0before Kell Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828524/attachment_0.jpg",
+    "Latitude": 36.192530300000001,
+    "Longitude": -115.0622551
+  },
+  {
+    "UniqueId": 60604,
+    "Timestamp": "2026-10-23 08:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:06 AM, Oct 23 2026 Crash on NB Jones Blvd\u00A0before Warm Springs Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828526/attachment_0.jpg",
+    "Latitude": 36.056385120719149,
+    "Longitude": -115.2249747974483
   }
 ]
