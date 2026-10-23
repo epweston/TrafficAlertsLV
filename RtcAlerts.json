@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60514,
-    "Timestamp": "2026-10-22 07:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Valley Of Fire Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:32 AM, Oct 22 2026 Crash on NB I-15\u00A0before Valley of Fire Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827037/attachment_0.jpg",
-    "Latitude": 36.502189514814987,
-    "Longitude": -114.76155817508699
-  },
-  {
     "UniqueId": 60515,
     "Timestamp": "2026-10-22 07:47",
     "IncidentType": "Crash",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828469/attachment_0.jpg",
     "Latitude": 36.062004399999999,
     "Longitude": -115.2246519
+  },
+  {
+    "UniqueId": 60599,
+    "Timestamp": "2026-10-23 07:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:28 AM, Oct 23 2026 Stalled vehicle on SB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828479/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 60600,
+    "Timestamp": "2026-10-23 07:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Stephanie St 2",
+    "Impact": "",
+    "Notes": "7:30 AM, Oct 23 2026 Crash on EB Russell Rd\u00A0at Stephanie St. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828493/attachment_0.jpg",
+    "Latitude": 36.055369300000002,
+    "Longitude": -115.0468958
   }
 ]
