@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60498,
-    "Timestamp": "2026-10-22 02:25",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:25 AM, Oct 22 2026 Police activity on NB I-11\u00A0to I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826639/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 60499,
     "Timestamp": "2026-10-22 05:11",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828166/attachment_0.png",
     "Latitude": 36.158920100000003,
     "Longitude": -115.14090779999999
+  },
+  {
+    "UniqueId": 60583,
+    "Timestamp": "2026-10-23 02:47",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "5Th St 3",
+    "Impact": "",
+    "Notes": "2:47 AM, Oct 23 2026 Crash on EB Craig Rd\u00A0at 5th St. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828183/attachment_0.png",
+    "Latitude": 36.2397049,
+    "Longitude": -115.13429979999999
   }
 ]
