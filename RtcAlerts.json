@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60484,
-    "Timestamp": "2026-10-21 19:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:42 PM, Oct 21 2026 Crash on WB Sahara Ave\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826550/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 60485,
     "Timestamp": "2026-10-21 19:49",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828102/attachment_0.png",
     "Latitude": 36.274993366998793,
     "Longitude": -115.20657961738746
+  },
+  {
+    "UniqueId": 60571,
+    "Timestamp": "2026-10-22 19:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:40 PM, Oct 22 2026 Crash on SB Durango Dr\u00A0at Sunset Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828092/attachment_0.png",
+    "Latitude": 36.070365750000001,
+    "Longitude": -115.27946056
   }
 ]
