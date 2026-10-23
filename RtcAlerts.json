@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60485,
-    "Timestamp": "2026-10-21 19:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "All lanes are blocked.",
-    "Notes": "7:49 PM, Oct 21 2026 Crash on WB Summerlin Pkwy\u00A0before Durango Dr. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826563/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 60486,
     "Timestamp": "2026-10-21 19:58",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828092/attachment_0.png",
     "Latitude": 36.070365750000001,
     "Longitude": -115.27946056
+  },
+  {
+    "UniqueId": 60572,
+    "Timestamp": "2026-10-22 19:47",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lanes blocked.",
+    "Notes": "7:47 PM, Oct 22 2026 Crash on SB I-15 \u00A0at Sahara Ave. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828114/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
