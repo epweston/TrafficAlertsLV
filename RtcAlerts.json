@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60494,
-    "Timestamp": "2026-10-22 00:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:18 AM, Oct 22 2026 Crash on NB I-11\u00A0to Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826614/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 60495,
-    "Timestamp": "2026-10-22 00:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St 2",
-    "Impact": "",
-    "Notes": "12:23 AM, Oct 22 2026 Crash on EB 215 Southern Beltway\u00A0at Stephanie St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826615/attachment_0.jpg",
-    "Latitude": 36.0622471,
-    "Longitude": -115.0461124
-  },
-  {
-    "UniqueId": 60496,
-    "Timestamp": "2026-10-22 00:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "2 Left lanes blocked Right lane blocked.",
-    "Notes": "12:48 AM, Oct 22 2026 Crash on SB I-15\u00A0before Russell Rd. 2 Left lanes blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826618/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 60497,
     "Timestamp": "2026-10-22 02:15",
     "IncidentType": "Crash",
@@ -1188,5 +1146,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828130/attachment_0.png",
     "Latitude": 36.115160099999997,
     "Longitude": -115.0855985
+  },
+  {
+    "UniqueId": 60579,
+    "Timestamp": "2026-10-23 01:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Center lanes blocked.",
+    "Notes": "1:04 AM, Oct 23 2026 Crash on NB Jones Blvd\u00A0at Tropicana Ave. 2 Center lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.099959300000002,
+    "Longitude": -115.22498229999999
+  },
+  {
+    "UniqueId": 60580,
+    "Timestamp": "2026-10-23 01:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Mile 2",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "1:06 AM, Oct 23 2026 Crash on NB I-11\u00A0at Mile 2. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828160/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
