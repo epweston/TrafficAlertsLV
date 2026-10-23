@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60523,
-    "Timestamp": "2026-10-22 09:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:49 AM, Oct 22 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827355/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 60524,
     "Timestamp": "2026-10-22 10:42",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828690/attachment_0.png",
     "Latitude": 36.298464445139153,
     "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 60614,
+    "Timestamp": "2026-10-23 10:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "10:05 AM, Oct 23 2026 Crash on SB Fort Apache Rd\u00A0at Blue Diamond Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828720/attachment_0.png",
+    "Latitude": 36.020538700000003,
+    "Longitude": -115.29798
+  },
+  {
+    "UniqueId": 60615,
+    "Timestamp": "2026-10-23 10:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:06 AM, Oct 23 2026 Crash on SB St Rose Pkwy\u00A0at Starr Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828724/attachment_0.png",
+    "Latitude": 35.982416399999998,
+    "Longitude": -115.14905880000001
   }
 ]
