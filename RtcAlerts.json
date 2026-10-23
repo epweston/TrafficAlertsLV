@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60533,
-    "Timestamp": "2026-10-22 14:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Middle lane blocked.",
-    "Notes": "2:56 PM, Oct 22 2026 Crash on NB I-11\u00A0at Decatur Blvd. Middle lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827925/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 60534,
-    "Timestamp": "2026-10-22 15:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:03 PM, Oct 22 2026 Crash on EB Summerlin Pkwy\u00A0at I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827926/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
     "UniqueId": 60535,
     "Timestamp": "2026-10-22 15:08",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829128/attachment_0.png",
     "Latitude": 36.158865800000001,
     "Longitude": -115.1586595
+  },
+  {
+    "UniqueId": 60639,
+    "Timestamp": "2026-10-23 15:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:00 PM, Oct 23 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0at Rampart Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829150/attachment_0.png",
+    "Latitude": 36.159022,
+    "Longitude": -115.29140700000001
+  },
+  {
+    "UniqueId": 60640,
+    "Timestamp": "2026-10-23 15:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Buchanan Blvd",
+    "Impact": "Right shoulder.",
+    "Notes": "3:03 PM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0after Buchanan Blvd. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829161/attachment_0.png",
+    "Latitude": 35.934200883777393,
+    "Longitude": -114.84135389747479
   }
 ]
