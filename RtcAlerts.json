@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60530,
-    "Timestamp": "2026-10-22 13:07",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:07 PM, Oct 22 2026 Crash on WB Tropicana Ave\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827788/attachment_0.png",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
     "UniqueId": 60531,
     "Timestamp": "2026-10-22 13:37",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828988/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 60632,
+    "Timestamp": "2026-10-23 13:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:02 PM, Oct 23 2026 Stalled vehicle on WB Sahara Ave\u00A0at Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829023/attachment_0.png",
+    "Latitude": 36.144294932038925,
+    "Longitude": -115.11880155749233
   }
 ]
