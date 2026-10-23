@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60527,
-    "Timestamp": "2026-10-22 12:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cliff Shadows Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:05 PM, Oct 22 2026 Crash on EB Cliff Shadows Pkwy\u00A0before 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827681/attachment_0.jpg",
-    "Latitude": 36.2335846,
-    "Longitude": -115.330828
-  },
-  {
     "UniqueId": 60528,
     "Timestamp": "2026-10-22 12:24",
     "IncidentType": "Crash",
@@ -1370,5 +1356,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828904/attachment_0.png",
     "Latitude": 36.134484899999997,
     "Longitude": -115.17128200000001
+  },
+  {
+    "UniqueId": 60625,
+    "Timestamp": "2026-10-23 11:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:59 AM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828927/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 60626,
+    "Timestamp": "2026-10-23 12:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:04 PM, Oct 23 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0to Decatur Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828930/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
