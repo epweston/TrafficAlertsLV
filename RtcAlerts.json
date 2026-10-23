@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60540,
-    "Timestamp": "2026-10-22 16:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:03 PM, Oct 22 2026 Crash on EB Craig Rd\u00A0before Losee Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827988/attachment_0.jpg",
-    "Latitude": 36.239773575501886,
-    "Longitude": -115.11682743770037
-  },
-  {
-    "UniqueId": 60541,
-    "Timestamp": "2026-10-22 16:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:04 PM, Oct 22 2026 Crash on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828005/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 60542,
-    "Timestamp": "2026-10-22 16:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:08 PM, Oct 22 2026 Crash on NB Tropicana Ave\u00A0at Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827991/attachment_0.png",
-    "Latitude": 36.099959300000002,
-    "Longitude": -115.22498229999999
-  },
-  {
-    "UniqueId": 60543,
-    "Timestamp": "2026-10-22 16:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:12 PM, Oct 22 2026 Crash on SB I-15\u00A0after Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828008/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 60544,
     "Timestamp": "2026-10-22 16:20",
     "IncidentType": "Crash",
@@ -1524,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829224/attachment_0.png",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 60649,
+    "Timestamp": "2026-10-23 16:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Hualapai Way",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:14 PM, Oct 23 2026 Crash on SB Hualapai Way\u00A0at Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829228/attachment_0.png",
+    "Latitude": 36.100265399999998,
+    "Longitude": -115.3151646
   }
 ]
