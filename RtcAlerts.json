@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60497,
-    "Timestamp": "2026-10-22 02:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Dean Martin Dr",
-    "Relationship": "at",
-    "CrossStreet": "Hotel Rio Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:15 AM, Oct 22 2026 Crash on NB Dean Martin Dr\u00A0at Hotel Rio Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826637/attachment_0.png",
-    "Latitude": 36.113611400000003,
-    "Longitude": -115.1835067
-  },
-  {
     "UniqueId": 60498,
     "Timestamp": "2026-10-22 02:25",
     "IncidentType": "Police activity",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828164/attachment_0.png",
     "Latitude": 36.125444299999998,
     "Longitude": -115.1701368
+  },
+  {
+    "UniqueId": 60582,
+    "Timestamp": "2026-10-23 02:17",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Gass Ave",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "2:17 AM, Oct 23 2026 Police activity on EB Charleston Blvd\u00A0at Gass Ave. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828166/attachment_0.png",
+    "Latitude": 36.158920100000003,
+    "Longitude": -115.14090779999999
   }
 ]
