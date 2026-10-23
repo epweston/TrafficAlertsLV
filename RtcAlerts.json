@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60508,
-    "Timestamp": "2026-10-22 06:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:11 AM, Oct 22 2026 Crash on SB I-15\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3826810/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 60509,
     "Timestamp": "2026-10-22 06:31",
     "IncidentType": "Crash",
@@ -1132,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828279/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 60589,
+    "Timestamp": "2026-10-23 06:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Speedway Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Hollywood Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:13 AM, Oct 23 2026 Crash on NB Speedway Blvd\u00A0at Hollywood Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828318/attachment_0.png",
+    "Latitude": 36.280972287941758,
+    "Longitude": -115.02403859335672
   }
 ]
