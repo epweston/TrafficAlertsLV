@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60463,
-    "Timestamp": "2026-10-21 17:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 C/D Road",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:07 PM, Oct 21 2026 Crash on SB I-15 C/D road after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826500/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 60464,
     "Timestamp": "2026-10-21 17:19",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828045/attachment_0.png",
     "Latitude": 36.085379978594936,
     "Longitude": -115.22534431390299
+  },
+  {
+    "UniqueId": 60554,
+    "Timestamp": "2026-10-22 17:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:11 PM, Oct 22 2026 Crash on EB Flamingo Rd\u00A0after Durango Dr. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828055/attachment_0.png",
+    "Latitude": 36.115006600000001,
+    "Longitude": -115.2791146
   }
 ]
