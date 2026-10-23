@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60549,
-    "Timestamp": "2026-10-22 16:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:39 PM, Oct 22 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828038/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 60550,
     "Timestamp": "2026-10-22 16:46",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829256/attachment_0.jpg",
     "Latitude": 36.272122299999999,
     "Longitude": -115.2250801
+  },
+  {
+    "UniqueId": 60653,
+    "Timestamp": "2026-10-23 16:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:39 PM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0after Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829258/attachment_0.jpg",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
