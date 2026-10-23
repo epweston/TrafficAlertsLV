@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60520,
-    "Timestamp": "2026-10-22 08:37",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:37 AM, Oct 22 2026 Crash on WB Tropicana Ave\u00A0at University Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827197/attachment_0.png",
-    "Latitude": 36.100972160686119,
-    "Longitude": -115.14593481598045
-  },
-  {
     "UniqueId": 60521,
     "Timestamp": "2026-10-22 09:15",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,19 @@
     "ImagePath": "",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 60608,
+    "Timestamp": "2026-10-23 08:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:43 AM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828551/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
