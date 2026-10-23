@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60466,
-    "Timestamp": "2026-10-21 17:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Twain Ave",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:30 PM, Oct 21 2026 Crash on EB Twain Ave\u00A0after Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826522/attachment_0.png",
-    "Latitude": 36.122551399999999,
-    "Longitude": -115.2080967
-  },
-  {
-    "UniqueId": 60467,
-    "Timestamp": "2026-10-21 17:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Bermuda Rd",
-    "Relationship": "before",
-    "CrossStreet": "Saint Rose Pkwy",
-    "Impact": "Left and right lane blocked.",
-    "Notes": "5:44 PM, Oct 21 2026 Crash on SB Bermuda Rd\u00A0before Saint Rose Pkwy. Left and right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826506/attachment_0.png",
-    "Latitude": 35.978025199999998,
-    "Longitude": -115.1551843
-  },
-  {
-    "UniqueId": 60468,
-    "Timestamp": "2026-10-21 17:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:46 PM, Oct 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/21/file_attachments/3826507/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 60469,
     "Timestamp": "2026-10-21 17:48",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828061/attachment_0.png",
     "Latitude": 36.2320347,
     "Longitude": -115.1619213
+  },
+  {
+    "UniqueId": 60558,
+    "Timestamp": "2026-10-22 17:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:42 PM, Oct 22 2026 Crash on SB I-11\u00A0before Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828051/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
