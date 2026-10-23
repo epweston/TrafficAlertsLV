@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60535,
-    "Timestamp": "2026-10-22 15:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:08 PM, Oct 22 2026 Stalled vehicle on NB I-15\u00A0before Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3827928/attachment_0.png",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
     "UniqueId": 60536,
     "Timestamp": "2026-10-22 15:10",
     "IncidentType": "Crash",
@@ -1482,5 +1468,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829161/attachment_0.png",
     "Latitude": 35.934200883777393,
     "Longitude": -114.84135389747479
+  },
+  {
+    "UniqueId": 60641,
+    "Timestamp": "2026-10-23 15:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:06 PM, Oct 23 2026 Crash on NB Rainbow Blvd\u00A0at I-11. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829175/attachment_0.png",
+    "Latitude": 36.176751852351089,
+    "Longitude": -115.24383544921876
+  },
+  {
+    "UniqueId": 60642,
+    "Timestamp": "2026-10-23 15:06",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "",
+    "Notes": "3:06 PM, Oct 23 2026 Crash on WB 215 Southern Beltway\u00A0at Las Vegas Blvd on-ramp Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829177/attachment_0.jpg",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 60643,
+    "Timestamp": "2026-10-23 15:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "",
+    "Notes": "3:07 PM, Oct 23 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave off-ramp Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829178/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
