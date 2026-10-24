@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60632,
-    "Timestamp": "2026-10-23 13:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:02 PM, Oct 23 2026 Stalled vehicle on WB Sahara Ave\u00A0at Eastern Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829023/attachment_0.png",
-    "Latitude": 36.144294932038925,
-    "Longitude": -115.11880155749233
-  },
-  {
     "UniqueId": 60633,
     "Timestamp": "2026-10-23 13:29",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829558/attachment_0.png",
     "Latitude": 36.129609100000003,
     "Longitude": -115.1547559
+  },
+  {
+    "UniqueId": 60736,
+    "Timestamp": "2026-10-24 13:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:10 PM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829559/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
