@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60573,
-    "Timestamp": "2026-10-22 20:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:06 PM, Oct 22 2026 Crash on SB I-15\u00A0after Charleston Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828106/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 60574,
-    "Timestamp": "2026-10-22 20:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Farm Rd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "8:13 PM, Oct 22 2026 Crash on WB Farm Rd\u00A0before Durango Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828117/attachment_0.png",
-    "Latitude": 36.301360199999998,
-    "Longitude": -115.2826993
-  },
-  {
     "UniqueId": 60575,
     "Timestamp": "2026-10-22 21:13",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829325/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 60686,
+    "Timestamp": "2026-10-23 20:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:16 PM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829308/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
