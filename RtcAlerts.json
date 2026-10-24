@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 60593,
-    "Timestamp": "2026-10-23 06:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 AM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828396/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 60594,
-    "Timestamp": "2026-10-23 06:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 AM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828398/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 60595,
-    "Timestamp": "2026-10-23 07:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Alta Dr",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:08 AM, Oct 23 2026 Crash on WB Alta Dr\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828428/attachment_0.png",
-    "Latitude": 36.1663596,
-    "Longitude": -115.27794660000001
-  },
-  {
-    "UniqueId": 60596,
-    "Timestamp": "2026-10-23 07:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Valley Of Fire Hwy",
-    "Impact": "",
-    "Notes": "7:18 AM, Oct 23 2026 Crash on SB I-15\u00A0before Valley of Fire Hwy (at Mile 77) All southbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828461/attachment_0.jpg",
-    "Latitude": 36.502189514814987,
-    "Longitude": -114.76155817508699
-  },
-  {
-    "UniqueId": 60597,
-    "Timestamp": "2026-10-23 07:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "5Th St",
-    "Impact": "",
-    "Notes": "7:20 AM, Oct 23 2026 Stalled vehicle on EB Cheyenne Ave\u00A0after 5th St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828463/attachment_0.png",
-    "Latitude": 36.217754999999997,
-    "Longitude": -115.13387350000001
-  },
-  {
     "UniqueId": 60598,
     "Timestamp": "2026-10-23 07:26",
     "IncidentType": "Crash",
@@ -1636,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829444/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 60710,
+    "Timestamp": "2026-10-24 07:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:20 AM, Oct 24 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829449/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
