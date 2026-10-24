@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60648,
-    "Timestamp": "2026-10-23 15:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:59 PM, Oct 23 2026 Stalled vehicle on NB I-15\u00A0after Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829224/attachment_0.png",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
-    "UniqueId": 60649,
-    "Timestamp": "2026-10-23 16:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hualapai Way",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:14 PM, Oct 23 2026 Crash on SB Hualapai Way\u00A0at Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829228/attachment_0.png",
-    "Latitude": 36.100265399999998,
-    "Longitude": -115.3151646
-  },
-  {
     "UniqueId": 60650,
     "Timestamp": "2026-10-23 16:25",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829576/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 60750,
+    "Timestamp": "2026-10-24 16:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:15 PM, Oct 24 2026 Stalled vehicle on SB I-11\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829595/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
