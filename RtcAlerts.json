@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60572,
-    "Timestamp": "2026-10-22 19:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "7:47 PM, Oct 22 2026 Crash on SB I-15 \u00A0at Sahara Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828114/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 60573,
     "Timestamp": "2026-10-22 20:06",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829323/attachment_0.png",
     "Latitude": 36.12558859559698,
     "Longitude": -115.17317023475012
+  },
+  {
+    "UniqueId": 60685,
+    "Timestamp": "2026-10-23 19:42",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:42 PM, Oct 23 2026 Crash on SB I-11\u00A0after Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829325/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
