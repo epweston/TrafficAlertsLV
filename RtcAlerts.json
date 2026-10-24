@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60608,
-    "Timestamp": "2026-10-23 08:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:43 AM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828551/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 60609,
-    "Timestamp": "2026-10-23 08:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Oso Blanca Rd",
-    "Relationship": "before",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:57 AM, Oct 23 2026 Crash on SB Oso Blanca Rd\u00A0before Skye Canyon Park Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828590/attachment_0.jpg",
-    "Latitude": 36.314188533648249,
-    "Longitude": -115.30185481336402
-  },
-  {
     "UniqueId": 60610,
     "Timestamp": "2026-10-23 09:02",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829473/attachment_0.png",
     "Latitude": 35.999066361520875,
     "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 60715,
+    "Timestamp": "2026-10-24 08:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:56 AM, Oct 24 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829474/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 60716,
+    "Timestamp": "2026-10-24 08:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Intersection partially blocked",
+    "Notes": "8:57 AM, Oct 24 2026 Crash on SB Las Vegas Blvd\u00A0at Starr Ave. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829466/attachment_0.jpg",
+    "Latitude": 35.984751500000002,
+    "Longitude": -115.1727827
   }
 ]
