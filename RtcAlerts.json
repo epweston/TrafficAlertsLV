@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60651,
-    "Timestamp": "2026-10-23 16:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:33 PM, Oct 23 2026 Crash on SB I-11\u00A0before Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829255/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 60652,
-    "Timestamp": "2026-10-23 16:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Azure Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:34 PM, Oct 23 2026 Crash on NB Jones Blvd\u00A0at Azure Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829256/attachment_0.jpg",
-    "Latitude": 36.272122299999999,
-    "Longitude": -115.2250801
-  },
-  {
     "UniqueId": 60653,
     "Timestamp": "2026-10-23 16:39",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1398,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829579/attachment_0.png",
     "Latitude": 36.272856280056651,
     "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 60753,
+    "Timestamp": "2026-10-24 16:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Serene Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:35 PM, Oct 24 2026 Crash on SB Rainbow Blvd\u00A0at Serene Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829581/attachment_0.png",
+    "Latitude": 36.020487799999998,
+    "Longitude": -115.2436103
+  },
+  {
+    "UniqueId": 60754,
+    "Timestamp": "2026-10-24 16:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Vegas Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:36 PM, Oct 24 2026 Crash on SB Rainbow Blvd\u00A0after Vegas Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.188600399999999,
+    "Longitude": -115.2423798
   }
 ]
