@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60636,
-    "Timestamp": "2026-10-23 14:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:03 PM, Oct 23 2026 Crash on WB Sahara Ave\u00A0before Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829120/attachment_0.jpg",
-    "Latitude": 36.143649451295026,
-    "Longitude": -115.26096401606286
-  },
-  {
-    "UniqueId": 60637,
-    "Timestamp": "2026-10-23 14:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "2:05 PM, Oct 23 2026 Crash on NB Eastern Ave\u00A0at Warm Springs Rd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829123/attachment_0.jpg",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 60638,
-    "Timestamp": "2026-10-23 14:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Central Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:12 PM, Oct 23 2026 Crash on EB Charleston Blvd\u00A0at Grand Central Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829128/attachment_0.png",
-    "Latitude": 36.158865800000001,
-    "Longitude": -115.1586595
-  },
-  {
     "UniqueId": 60639,
     "Timestamp": "2026-10-23 15:00",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829561/attachment_0.png",
     "Latitude": 36.114650126614762,
     "Longitude": -115.27002434822492
+  },
+  {
+    "UniqueId": 60738,
+    "Timestamp": "2026-10-24 14:12",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Vegas Dr",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Intersection partially blocked",
+    "Notes": "2:12 PM, Oct 24 2026 Crash on EB Vegas Dr\u00A0at Rainbow Blvd. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829545/attachment_0.jpg",
+    "Latitude": 36.188600399999999,
+    "Longitude": -115.2423798
   }
 ]
