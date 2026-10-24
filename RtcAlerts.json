@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60579,
-    "Timestamp": "2026-10-23 01:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "1:04 AM, Oct 23 2026 Crash on NB Jones Blvd\u00A0at Tropicana Ave. 2 Center lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.099959300000002,
-    "Longitude": -115.22498229999999
-  },
-  {
-    "UniqueId": 60580,
-    "Timestamp": "2026-10-23 01:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 2",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "1:06 AM, Oct 23 2026 Crash on NB I-11\u00A0at Mile 2. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828160/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 60581,
-    "Timestamp": "2026-10-23 01:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mtn Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "1:33 AM, Oct 23 2026 Crash on SB I-15\u00A0at Spring Mtn Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828164/attachment_0.png",
-    "Latitude": 36.125444299999998,
-    "Longitude": -115.1701368
-  },
-  {
     "UniqueId": 60582,
     "Timestamp": "2026-10-23 02:17",
     "IncidentType": "Police activity",
@@ -1664,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829376/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 60698,
+    "Timestamp": "2026-10-24 01:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 5",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:41 AM, Oct 24 2026 Stalled vehicle on NB I-15\u00A0after Mile 5. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829398/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
