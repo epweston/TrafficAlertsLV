@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60656,
-    "Timestamp": "2026-10-23 16:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:57 PM, Oct 23 2026 Crash on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829243/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 60657,
-    "Timestamp": "2026-10-23 16:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:57 PM, Oct 23 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829266/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 60658,
     "Timestamp": "2026-10-23 17:00",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829600/attachment_0.png",
     "Latitude": 35.865644400000001,
     "Longitude": -115.2452897
+  },
+  {
+    "UniqueId": 60757,
+    "Timestamp": "2026-10-24 16:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:55 PM, Oct 24 2026 Crash on SB I-15\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829586/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
