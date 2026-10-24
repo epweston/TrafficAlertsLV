@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60624,
-    "Timestamp": "2026-10-23 11:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Sammy Davis Junior Dr",
-    "Relationship": "at",
-    "CrossStreet": "Goh Tong Way",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "11:52 AM, Oct 23 2026 Crash on NB Sammy Davis Junior Dr\u00A0at Goh Tong Way. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828904/attachment_0.png",
-    "Latitude": 36.134484899999997,
-    "Longitude": -115.17128200000001
-  },
-  {
-    "UniqueId": 60625,
-    "Timestamp": "2026-10-23 11:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:59 AM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828927/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 60626,
-    "Timestamp": "2026-10-23 12:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:04 PM, Oct 23 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0to Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828930/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 60627,
     "Timestamp": "2026-10-23 12:08",
     "IncidentType": "Crash",
@@ -1426,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829521/attachment_0.png",
     "Latitude": 36.143450100000003,
     "Longitude": -115.19980200000001
+  },
+  {
+    "UniqueId": 60726,
+    "Timestamp": "2026-10-24 11:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:59 AM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829529/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
