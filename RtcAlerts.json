@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60554,
-    "Timestamp": "2026-10-22 17:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:11 PM, Oct 22 2026 Crash on EB Flamingo Rd\u00A0after Durango Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828055/attachment_0.png",
-    "Latitude": 36.115006600000001,
-    "Longitude": -115.2791146
-  },
-  {
-    "UniqueId": 60555,
-    "Timestamp": "2026-10-22 17:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Dapple Gray Rd",
-    "Relationship": "at",
-    "CrossStreet": "Centennial Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:16 PM, Oct 22 2026 Crash on SB Dapple Gray Rd\u00A0at Centennial Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828057/attachment_0.png",
-    "Latitude": 36.277276700000002,
-    "Longitude": -115.2945446
-  },
-  {
-    "UniqueId": 60556,
-    "Timestamp": "2026-10-22 17:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:16 PM, Oct 22 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828048/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 60557,
     "Timestamp": "2026-10-22 17:19",
     "IncidentType": "Crash",
@@ -1510,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829271/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 60662,
+    "Timestamp": "2026-10-23 17:14",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Gilespie St",
+    "Impact": "",
+    "Notes": "5:14 PM, Oct 23 2026 Crash on EB Silverado Ranch Blvd\u00A0after Gilespie St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829273/attachment_0.png",
+    "Latitude": 36.013572000000003,
+    "Longitude": -115.16344530000001
+  },
+  {
+    "UniqueId": 60663,
+    "Timestamp": "2026-10-23 17:15",
+    "IncidentType": "Other",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:15 PM, Oct 23 2026 Other on NB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829274/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
