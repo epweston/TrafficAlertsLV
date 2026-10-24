@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60603,
-    "Timestamp": "2026-10-23 08:04",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Kell Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:04 AM, Oct 23 2026 Crash on SB Nellis Blvd\u00A0before Kell Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828524/attachment_0.jpg",
-    "Latitude": 36.192530300000001,
-    "Longitude": -115.0622551
-  },
-  {
-    "UniqueId": 60604,
-    "Timestamp": "2026-10-23 08:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:06 AM, Oct 23 2026 Crash on NB Jones Blvd\u00A0before Warm Springs Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828526/attachment_0.jpg",
-    "Latitude": 36.056385120719149,
-    "Longitude": -115.2249747974483
-  },
-  {
-    "UniqueId": 60605,
-    "Timestamp": "2026-10-23 08:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:13 AM, Oct 23 2026 Crash on WB Tropicana Ave\u00A0before Koval Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828532/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 60606,
-    "Timestamp": "2026-10-23 08:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Rafael Rivera Way",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:25 AM, Oct 23 2026 Crash on WB Rafael Rivera Way\u00A0at Buffalo Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828537/attachment_0.jpg",
-    "Latitude": 36.067096599999999,
-    "Longitude": -115.2607843
-  },
-  {
     "UniqueId": 60607,
     "Timestamp": "2026-10-23 08:32",
     "IncidentType": "Crash",
@@ -1524,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829451/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 60712,
+    "Timestamp": "2026-10-24 08:24",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:24 AM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829459/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
