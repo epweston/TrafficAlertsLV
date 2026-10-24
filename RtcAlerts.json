@@ -1496,5 +1496,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829293/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 60665,
+    "Timestamp": "2026-10-23 17:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:29 PM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Jones Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829277/attachment_0.jpg",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 60666,
+    "Timestamp": "2026-10-23 17:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:30 PM, Oct 23 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829278/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 60667,
+    "Timestamp": "2026-10-23 17:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Arville St",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "5:32 PM, Oct 23 2026 Crash on SB Arville St\u00A0at Charleston Blvd. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829280/attachment_0.png",
+    "Latitude": 36.159109600000001,
+    "Longitude": -115.1997406
   }
 ]
