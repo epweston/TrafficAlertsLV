@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60557,
-    "Timestamp": "2026-10-22 17:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "5:19 PM, Oct 22 2026 Crash on SB Martin L King Blvd\u00A0before Alexander Rd. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/22/file_attachments/3828061/attachment_0.png",
-    "Latitude": 36.2320347,
-    "Longitude": -115.1619213
-  },
-  {
     "UniqueId": 60558,
     "Timestamp": "2026-10-22 17:42",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829274/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 60664,
+    "Timestamp": "2026-10-23 17:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:23 PM, Oct 23 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829293/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
