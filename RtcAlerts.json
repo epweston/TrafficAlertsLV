@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60627,
-    "Timestamp": "2026-10-23 12:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Cambridge St",
-    "Impact": "",
-    "Notes": "12:08 PM, Oct 23 2026 Crash on EB Desert Inn Rd\u00A0after Cambridge St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3828953/attachment_0.png",
-    "Latitude": 36.129715999999988,
-    "Longitude": -115.1414218
-  },
-  {
     "UniqueId": 60628,
     "Timestamp": "2026-10-23 12:15",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829529/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 60727,
+    "Timestamp": "2026-10-24 12:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:06 PM, Oct 24 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829509/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 60728,
+    "Timestamp": "2026-10-24 12:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:07 PM, Oct 24 2026 Stalled vehicle on NB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829535/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
