@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60607,
-    "Timestamp": "2026-10-23 08:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "near",
-    "CrossStreet": "Mile Marker 88",
-    "Impact": "All lanes are blocked. Use\u00A0\u00A0Glendale / Moapa \u2014 Exit 91 Expect Delays",
-    "Notes": "8:32 AM, Oct 23 2026 Crash on SB I-15 near Mile Marker 88. All lanes are blocked. Use\u00A0\u00A0Glendale / Moapa \u2014 Exit 91 Expect Delays",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 60608,
     "Timestamp": "2026-10-23 08:43",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829459/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 60713,
+    "Timestamp": "2026-10-24 08:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:32 AM, Oct 24 2026 Crash on SB Eastern Ave\u00A0at Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829461/attachment_0.png",
+    "Latitude": 36.071651799999998,
+    "Longitude": -115.1187552
+  },
+  {
+    "UniqueId": 60714,
+    "Timestamp": "2026-10-24 08:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:37 AM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0after Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829473/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
   }
 ]
