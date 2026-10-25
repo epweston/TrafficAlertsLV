@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60704,
-    "Timestamp": "2026-10-24 04:40",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:40 AM, Oct 24 2026 Police activity on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829410/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 60705,
-    "Timestamp": "2026-10-24 04:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Intersection temporarily closed. Use other routes.",
-    "Notes": "4:51 AM, Oct 24 2026 Crash on NB Rainbow Blvd\u00A0at Desert Inn Rd. Intersection temporarily closed. Use other routes.",
-    "ImagePath": "",
-    "Latitude": 36.12947394310789,
-    "Longitude": -115.24300934562113
-  },
-  {
     "UniqueId": 60706,
     "Timestamp": "2026-10-24 05:34",
     "IncidentType": "Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "",
     "Latitude": 36.2031335,
     "Longitude": -115.15180960000001
+  },
+  {
+    "UniqueId": 60805,
+    "Timestamp": "2026-10-25 05:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:06 AM, Oct 25 2026 Crash on SB I-15\u00A0before Russell Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829688/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
