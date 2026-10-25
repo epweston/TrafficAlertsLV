@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60675,
-    "Timestamp": "2026-10-23 18:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:16 PM, Oct 23 2026 Crash on WB Blue Diamond Rd\u00A0at Grand Canyon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829300/attachment_0.png",
-    "Latitude": 36.021765299999998,
-    "Longitude": -115.3071832
-  },
-  {
-    "UniqueId": 60676,
-    "Timestamp": "2026-10-23 18:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:27 PM, Oct 23 2026 Crash on SB I-11\u00A0before Horizon Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829292/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 60677,
     "Timestamp": "2026-10-23 18:35",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829591/attachment_0.png",
     "Latitude": 36.181332400000002,
     "Longitude": -115.2600266
+  },
+  {
+    "UniqueId": 60762,
+    "Timestamp": "2026-10-24 18:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:23 PM, Oct 24 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829613/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
