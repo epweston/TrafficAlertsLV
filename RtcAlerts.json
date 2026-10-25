@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60716,
-    "Timestamp": "2026-10-24 08:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Intersection partially blocked",
-    "Notes": "8:57 AM, Oct 24 2026 Crash on SB Las Vegas Blvd\u00A0at Starr Ave. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829466/attachment_0.jpg",
-    "Latitude": 35.984751500000002,
-    "Longitude": -115.1727827
-  },
-  {
-    "UniqueId": 60717,
-    "Timestamp": "2026-10-24 09:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:38 AM, Oct 24 2026 Stalled vehicle on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829479/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 60718,
-    "Timestamp": "2026-10-24 09:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 118",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:49 AM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0at Mile 118. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829470/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 60719,
-    "Timestamp": "2026-10-24 09:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Camino Al Norte",
-    "Relationship": "after",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:51 AM, Oct 24 2026 Crash on NB Camino Al Norte\u00A0after Lone Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829482/attachment_0.png",
-    "Latitude": 36.246972800000002,
-    "Longitude": -115.1548658
-  },
-  {
     "UniqueId": 60720,
     "Timestamp": "2026-10-24 10:46",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829716/attachment_0.jpg",
     "Latitude": 36.12947394310789,
     "Longitude": -115.24300934562113
+  },
+  {
+    "UniqueId": 60820,
+    "Timestamp": "2026-10-25 09:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "",
+    "Impact": "",
+    "Notes": "9:48 AM, Oct 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829711/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 60821,
+    "Timestamp": "2026-10-25 09:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:50 AM, Oct 25 2026 Crash on NB I-11\u00A0at Wagon Wheel Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829712/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
