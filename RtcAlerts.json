@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60739,
-    "Timestamp": "2026-10-24 14:17",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:17 PM, Oct 24 2026 Crash on SB Rainbow Blvd\u00A0after Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829547/attachment_0.jpg",
-    "Latitude": 36.188600399999999,
-    "Longitude": -115.2423798
-  },
-  {
     "UniqueId": 60740,
     "Timestamp": "2026-10-24 14:41",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829823/attachment_0.jpg",
     "Latitude": 36.11485816141586,
     "Longitude": -115.06471217727307
+  },
+  {
+    "UniqueId": 60836,
+    "Timestamp": "2026-10-25 14:15",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Palace Ct",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:15 PM, Oct 25 2026 Crash on WB Charleston Blvd\u00A0before Palace Ct. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829824/attachment_0.png",
+    "Latitude": 36.159044100000003,
+    "Longitude": -115.3031232
   }
 ]
