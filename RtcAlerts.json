@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60691,
-    "Timestamp": "2026-10-23 21:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:13 PM, Oct 23 2026 Crash on SB Martin L King Blvd\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829335/attachment_0.png",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
-    "UniqueId": 60692,
-    "Timestamp": "2026-10-23 21:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Mcleod Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:23 PM, Oct 23 2026 Crash on WB Sahara Ave\u00A0after McLeod Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829311/attachment_0.png",
-    "Latitude": 36.144393399999998,
-    "Longitude": -115.1099043
-  },
-  {
     "UniqueId": 60693,
     "Timestamp": "2026-10-23 21:26",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1216,19 @@
     "ImagePath": "",
     "Latitude": 36.185387800000001,
     "Longitude": -115.1826497
+  },
+  {
+    "UniqueId": 60780,
+    "Timestamp": "2026-10-24 21:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "All lanes are blocked.",
+    "Notes": "9:16 PM, Oct 24 2026 Crash on NB Durango Dr\u00A0after 215 Northern Beltway. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829623/attachment_0.jpg",
+    "Latitude": 36.066225699999997,
+    "Longitude": -115.2791549
   }
 ]
