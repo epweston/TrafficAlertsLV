@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60686,
-    "Timestamp": "2026-10-23 20:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:16 PM, Oct 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829308/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 60687,
-    "Timestamp": "2026-10-23 20:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:29 PM, Oct 23 2026 Crash on SB Lamb Blvd\u00A0at Lone Mountain Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829328/attachment_0.png",
-    "Latitude": 36.247336234578057,
-    "Longitude": -115.07996320305016
-  },
-  {
-    "UniqueId": 60688,
-    "Timestamp": "2026-10-23 20:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:30 PM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829330/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 60689,
     "Timestamp": "2026-10-23 20:51",
     "IncidentType": "Crash",
@@ -1244,5 +1202,33 @@
     "ImagePath": "",
     "Latitude": 35.967876500000003,
     "Longitude": -114.8684033
+  },
+  {
+    "UniqueId": 60775,
+    "Timestamp": "2026-10-24 20:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:30 PM, Oct 24 2026 Crash on EB Tropicana Ave\u00A0at Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829607/attachment_0.png",
+    "Latitude": 36.099966560770525,
+    "Longitude": -115.11896249561603
+  },
+  {
+    "UniqueId": 60776,
+    "Timestamp": "2026-10-24 20:32",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jeffreys St 2",
+    "Impact": "Expect Delays",
+    "Notes": "8:32 PM, Oct 24 2026 Crash on EB Tropicana Ave\u00A0at Jeffreys St. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829609/attachment_0.png",
+    "Latitude": 36.100146299999999,
+    "Longitude": -115.1211967
   }
 ]
