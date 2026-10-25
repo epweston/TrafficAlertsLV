@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60701,
-    "Timestamp": "2026-10-24 02:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:40 AM, Oct 24 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829378/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 60702,
-    "Timestamp": "2026-10-24 03:10",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Carey Ave",
-    "Relationship": "at",
-    "CrossStreet": "Hamilton St",
-    "Impact": "",
-    "Notes": "3:10 AM, Oct 24 2026 Crash on WB Carey Ave\u00A0at Hamilton St. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829405/attachment_0.png",
-    "Latitude": 36.039561800000001,
-    "Longitude": -115.2205168
-  },
-  {
     "UniqueId": 60703,
     "Timestamp": "2026-10-24 04:15",
     "IncidentType": "Crash",
@@ -1328,5 +1300,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829657/attachment_0.jpg",
     "Latitude": 36.170928699999997,
     "Longitude": -115.1410223
+  },
+  {
+    "UniqueId": 60796,
+    "Timestamp": "2026-10-25 03:04",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "3:04 AM, Oct 25 2026 Crash on EB Cheyenne Ave\u00A0before Martin L King Blvd. 3 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217751300000003,
+    "Longitude": -115.1611446
+  },
+  {
+    "UniqueId": 60797,
+    "Timestamp": "2026-10-25 03:05",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:05 AM, Oct 25 2026 Crash on WB Twain Ave\u00A0after Decatur Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.122551399999999,
+    "Longitude": -115.2080967
+  },
+  {
+    "UniqueId": 60798,
+    "Timestamp": "2026-10-25 03:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:05 AM, Oct 25 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Alta Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.166804848968461,
+    "Longitude": -115.28802752494813
   }
 ]
