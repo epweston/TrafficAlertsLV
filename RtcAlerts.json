@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60720,
-    "Timestamp": "2026-10-24 10:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:46 AM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0after Harmon Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829499/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 60721,
-    "Timestamp": "2026-10-24 10:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "10:49 AM, Oct 24 2026 Crash on WB Charleston Blvd\u00A0after Jones Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829501/attachment_0.png",
-    "Latitude": 36.159254500000003,
-    "Longitude": -115.2238706
-  },
-  {
-    "UniqueId": 60722,
-    "Timestamp": "2026-10-24 10:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:56 AM, Oct 24 2026 Stalled vehicle on SB Eastern Ave\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829514/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
-    "UniqueId": 60723,
-    "Timestamp": "2026-10-24 10:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:59 AM, Oct 24 2026 Crash on EB Tropicana Ave\u00A0at Dean Martin Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829505/attachment_0.png",
-    "Latitude": 36.1008578,
-    "Longitude": -115.1827169
-  },
-  {
     "UniqueId": 60724,
     "Timestamp": "2026-10-24 11:18",
     "IncidentType": "Crash",
@@ -1356,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829748/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 60825,
+    "Timestamp": "2026-10-25 11:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "11:01 AM, Oct 25 2026 Crash on NB Rainbow Blvd\u00A0after Desert Inn Rd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.12947394310789,
+    "Longitude": -115.24300934562113
   }
 ]
