@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60748,
-    "Timestamp": "2026-10-24 15:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:41 PM, Oct 24 2026 Stalled vehicle on NB I-11\u00A0at Skye Canyon Park Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829593/attachment_0.png",
-    "Latitude": 36.314398977532683,
-    "Longitude": -115.30052669865761
-  },
-  {
     "UniqueId": 60749,
     "Timestamp": "2026-10-24 15:53",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829843/attachment_0.png",
     "Latitude": 36.175245009999998,
     "Longitude": -115.16082640000001
+  },
+  {
+    "UniqueId": 60844,
+    "Timestamp": "2026-10-25 15:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:40 PM, Oct 25 2026 Crash on EB Flamingo Rd\u00A0after Torrey Pines Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829845/attachment_0.jpg",
+    "Latitude": 36.114610499999998,
+    "Longitude": -115.2339222
+  },
+  {
+    "UniqueId": 60845,
+    "Timestamp": "2026-10-25 15:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:43 PM, Oct 25 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Town Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829856/attachment_0.jpg",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
   }
 ]
