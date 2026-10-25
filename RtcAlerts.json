@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60738,
-    "Timestamp": "2026-10-24 14:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Vegas Dr",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "2:12 PM, Oct 24 2026 Crash on EB Vegas Dr\u00A0at Rainbow Blvd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829545/attachment_0.jpg",
-    "Latitude": 36.188600399999999,
-    "Longitude": -115.2423798
-  },
-  {
     "UniqueId": 60739,
     "Timestamp": "2026-10-24 14:17",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829786/attachment_0.jpg",
     "Latitude": 36.2397049,
     "Longitude": -115.13429979999999
+  },
+  {
+    "UniqueId": 60835,
+    "Timestamp": "2026-10-25 14:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "2:08 PM, Oct 25 2026 Crash on SB Nellis Blvd\u00A0before Flamingo Rd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829823/attachment_0.jpg",
+    "Latitude": 36.11485816141586,
+    "Longitude": -115.06471217727307
   }
 ]
