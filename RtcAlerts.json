@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60724,
-    "Timestamp": "2026-10-24 11:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:18 AM, Oct 24 2026 Crash on SB I-11\u00A0at Skye Canyon Park Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829518/attachment_0.png",
-    "Latitude": 36.314398977532683,
-    "Longitude": -115.30052669865761
-  },
-  {
     "UniqueId": 60725,
     "Timestamp": "2026-10-24 11:31",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "",
     "Latitude": 36.12947394310789,
     "Longitude": -115.24300934562113
+  },
+  {
+    "UniqueId": 60826,
+    "Timestamp": "2026-10-25 11:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:20 AM, Oct 25 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
