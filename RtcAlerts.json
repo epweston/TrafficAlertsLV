@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60671,
-    "Timestamp": "2026-10-23 17:56",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:56 PM, Oct 23 2026 Crash on WB Charleston Blvd\u00A0after 215 Western Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829286/attachment_0.png",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
-    "UniqueId": 60672,
-    "Timestamp": "2026-10-23 18:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:02 PM, Oct 23 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829288/attachment_0.png",
-    "Latitude": 36.176691302008486,
-    "Longitude": -115.24369620296332
-  },
-  {
-    "UniqueId": 60673,
-    "Timestamp": "2026-10-23 18:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:07 PM, Oct 23 2026 Crash on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829298/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 60674,
-    "Timestamp": "2026-10-23 18:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:09 PM, Oct 23 2026 Stalled vehicle on NB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829290/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 60675,
     "Timestamp": "2026-10-23 18:16",
     "IncidentType": "Crash",
@@ -1258,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829590/attachment_0.jpg",
     "Latitude": 36.02763991790971,
     "Longitude": -115.1184797391856
+  },
+  {
+    "UniqueId": 60761,
+    "Timestamp": "2026-10-24 18:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:11 PM, Oct 24 2026 Crash on NB Buffalo Dr\u00A0at Washington Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829591/attachment_0.png",
+    "Latitude": 36.181332400000002,
+    "Longitude": -115.2600266
   }
 ]
