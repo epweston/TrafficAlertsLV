@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60696,
-    "Timestamp": "2026-10-24 00:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:06 AM, Oct 24 2026 Crash on NB I-11\u00A0after Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829396/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 60697,
-    "Timestamp": "2026-10-24 00:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:23 AM, Oct 24 2026 Crash on NB I-15\u00A0before Sahara Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829376/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 60698,
-    "Timestamp": "2026-10-24 01:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 5",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:41 AM, Oct 24 2026 Stalled vehicle on NB I-15\u00A0after Mile 5. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829398/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 60699,
     "Timestamp": "2026-10-24 02:03",
     "IncidentType": "Crash",
@@ -1286,5 +1244,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829639/attachment_0.png",
     "Latitude": 36.174083889581247,
     "Longitude": -115.15534412685216
+  },
+  {
+    "UniqueId": 60788,
+    "Timestamp": "2026-10-25 01:41",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:41 AM, Oct 25 2026 Police activity on SB I-11\u00A0before Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829641/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 60789,
+    "Timestamp": "2026-10-25 01:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:43 AM, Oct 25 2026 Crash on WB Twain Ave\u00A0after Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829655/attachment_0.png",
+    "Latitude": 36.122551399999999,
+    "Longitude": -115.2080967
   }
 ]
