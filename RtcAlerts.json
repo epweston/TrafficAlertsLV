@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60699,
-    "Timestamp": "2026-10-24 02:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Mandalay Bay Rd",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:03 AM, Oct 24 2026 Crash on SB Mandalay Bay Rd\u00A0at Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829400/attachment_0.png",
-    "Latitude": 36.093710999999999,
-    "Longitude": -115.1730689
-  },
-  {
     "UniqueId": 60700,
     "Timestamp": "2026-10-24 02:34",
     "IncidentType": "Crash",
@@ -1284,6 +1270,34 @@
     "Impact": "3 Right lanes blocked.",
     "Notes": "1:50 AM, Oct 25 2026 Crash on EB Cheyenne Ave\u00A0before Martin L King Blvd. 3 Right lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829656/attachment_0.png",
+    "Latitude": 36.217751300000003,
+    "Longitude": -115.1611446
+  },
+  {
+    "UniqueId": 60791,
+    "Timestamp": "2026-10-25 02:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:19 AM, Oct 25 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829645/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 60792,
+    "Timestamp": "2026-10-25 02:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "2:23 AM, Oct 25 2026 Crash on EB Cheyenne Ave\u00A0before Martin L King Blvd. 3 Right lanes blocked.",
+    "ImagePath": "",
     "Latitude": 36.217751300000003,
     "Longitude": -115.1611446
   }
