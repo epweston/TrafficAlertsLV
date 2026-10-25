@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60678,
-    "Timestamp": "2026-10-23 18:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:57 PM, Oct 23 2026 Crash on NB I-15\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829305/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 60679,
-    "Timestamp": "2026-10-23 19:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked Center lane blocked.",
-    "Notes": "7:02 PM, Oct 23 2026 Crash on SB Paradise Rd\u00A0before Tropicana Ave. Left lane blocked Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829306/attachment_0.png",
-    "Latitude": 36.101024170590854,
-    "Longitude": -115.14982939081087
-  },
-  {
-    "UniqueId": 60680,
-    "Timestamp": "2026-10-23 19:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "at",
-    "CrossStreet": "Reno Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:04 PM, Oct 23 2026 Crash on NB Frank Sinatra Dr\u00A0at Reno Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829315/attachment_0.jpg",
-    "Latitude": 36.097308900000002,
-    "Longitude": -115.1801316
-  },
-  {
-    "UniqueId": 60681,
-    "Timestamp": "2026-10-23 19:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Christy Lane",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "7:06 PM, Oct 23 2026 Crash on SB Christy Lane\u00A0at Charleston Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829317/attachment_0.jpg",
-    "Latitude": 36.159452299999998,
-    "Longitude": -115.0533544
-  },
-  {
     "UniqueId": 60682,
     "Timestamp": "2026-10-23 19:25",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829616/attachment_0.png",
     "Latitude": 35.967876500000003,
     "Longitude": -114.8684033
+  },
+  {
+    "UniqueId": 60768,
+    "Timestamp": "2026-10-24 19:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "to",
+    "CrossStreet": "I-15",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:02 PM, Oct 24 2026 Crash on EB Cheyenne Ave\u00A0to I-15. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829605/attachment_0.png",
+    "Latitude": 36.217665489308381,
+    "Longitude": -115.12400501844569
   }
 ]
