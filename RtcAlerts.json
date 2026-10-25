@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60689,
-    "Timestamp": "2026-10-23 20:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:51 PM, Oct 23 2026 Crash on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829309/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 60690,
-    "Timestamp": "2026-10-23 21:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "9:01 PM, Oct 23 2026 Stalled vehicle on SB I-11\u00A0before Auto Show Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/23/file_attachments/3829333/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 60691,
     "Timestamp": "2026-10-23 21:13",
     "IncidentType": "Crash",
@@ -1244,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829611/attachment_0.jpg",
     "Latitude": 36.298386639861533,
     "Longitude": -115.28597831726076
+  },
+  {
+    "UniqueId": 60778,
+    "Timestamp": "2026-10-24 20:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:58 PM, Oct 24 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Alta Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.166804848968461,
+    "Longitude": -115.28802752494813
+  },
+  {
+    "UniqueId": 60779,
+    "Timestamp": "2026-10-24 21:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Riverside Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:00 PM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0at Riverside Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.185387800000001,
+    "Longitude": -115.1826497
   }
 ]
