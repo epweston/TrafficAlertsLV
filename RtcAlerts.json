@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60706,
-    "Timestamp": "2026-10-24 05:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Oso Blanca Rd",
-    "Relationship": "after",
-    "CrossStreet": "Farm Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:34 AM, Oct 24 2026 Crash on SB Oso Blanca Rd\u00A0after Farm Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829428/attachment_0.png",
-    "Latitude": 36.299093200000002,
-    "Longitude": -115.2890927
-  },
-  {
     "UniqueId": 60707,
     "Timestamp": "2026-10-24 05:38",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "",
     "Latitude": 36.2031335,
     "Longitude": -115.15180960000001
+  },
+  {
+    "UniqueId": 60808,
+    "Timestamp": "2026-10-25 05:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:32 AM, Oct 25 2026 Crash on NB Pecos Rd\u00A0at Stewart Ave. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829652/attachment_0.png",
+    "Latitude": 36.166186199999999,
+    "Longitude": -115.0982052
   }
 ]
