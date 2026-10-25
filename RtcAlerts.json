@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60735,
-    "Timestamp": "2026-10-24 12:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "12:53 PM, Oct 24 2026 Crash on WB Desert Inn Rd\u00A0before Paradise Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829558/attachment_0.png",
-    "Latitude": 36.129609100000003,
-    "Longitude": -115.1547559
-  },
-  {
-    "UniqueId": 60736,
-    "Timestamp": "2026-10-24 13:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:10 PM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829559/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 60737,
-    "Timestamp": "2026-10-24 13:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:34 PM, Oct 24 2026 Crash on EB Flamingo Rd\u00A0after Cimarron Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829561/attachment_0.png",
-    "Latitude": 36.114650126614762,
-    "Longitude": -115.27002434822492
-  },
-  {
     "UniqueId": 60738,
     "Timestamp": "2026-10-24 14:12",
     "IncidentType": "Crash",
@@ -1258,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829809/attachment_0.png",
     "Latitude": 36.034325041044013,
     "Longitude": -115.0078868949862
+  },
+  {
+    "UniqueId": 60833,
+    "Timestamp": "2026-10-25 13:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:43 PM, Oct 25 2026 Stalled vehicle on NB I-15\u00A0after St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829820/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
