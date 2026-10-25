@@ -1300,5 +1300,33 @@
     "ImagePath": "",
     "Latitude": 36.217751300000003,
     "Longitude": -115.1611446
+  },
+  {
+    "UniqueId": 60793,
+    "Timestamp": "2026-10-25 02:23",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:23 AM, Oct 25 2026 Crash on WB Twain Ave\u00A0after Decatur Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.122551399999999,
+    "Longitude": -115.2080967
+  },
+  {
+    "UniqueId": 60794,
+    "Timestamp": "2026-10-25 02:25",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:25 AM, Oct 25 2026 Police activity on SB I-11\u00A0before Sunset Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
