@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60725,
-    "Timestamp": "2026-10-24 11:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Arville St",
-    "Relationship": "at",
-    "CrossStreet": "San Bernardino Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "11:31 AM, Oct 24 2026 Crash on NB Arville St\u00A0at San Bernardino Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829521/attachment_0.png",
-    "Latitude": 36.143450100000003,
-    "Longitude": -115.19980200000001
-  },
-  {
     "UniqueId": 60726,
     "Timestamp": "2026-10-24 11:59",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,19 @@
     "ImagePath": "",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 60827,
+    "Timestamp": "2026-10-25 11:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:36 AM, Oct 25 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829778/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
