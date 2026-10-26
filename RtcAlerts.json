@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60786,
-    "Timestamp": "2026-10-24 23:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "George Crockett Rd",
-    "Relationship": "at",
-    "CrossStreet": "Gilespie St",
-    "Impact": "",
-    "Notes": "11:50 PM, Oct 24 2026 Crash on EB George Crockett Rd\u00A0at Gilespie St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829632/attachment_0.jpg",
-    "Latitude": 36.062915400000001,
-    "Longitude": -115.1633324
-  },
-  {
     "UniqueId": 60787,
     "Timestamp": "2026-10-24 23:53",
     "IncidentType": "Stalled vehicle",
@@ -894,5 +880,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829894/attachment_0.png",
     "Latitude": 36.175244799226355,
     "Longitude": -115.16081567593977
+  },
+  {
+    "UniqueId": 60858,
+    "Timestamp": "2026-10-25 23:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:46 PM, Oct 25 2026 Stalled vehicle on NB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829896/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
