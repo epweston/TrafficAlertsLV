@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60827,
-    "Timestamp": "2026-10-25 11:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:36 AM, Oct 25 2026 Stalled vehicle on NB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829778/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 60828,
-    "Timestamp": "2026-10-25 11:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:41 AM, Oct 25 2026 Stalled vehicle on SB Rampart Blvd\u00A0before Alta Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.166804848968461,
-    "Longitude": -115.28802752494813
-  },
-  {
     "UniqueId": 60829,
     "Timestamp": "2026-10-25 12:01",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830987/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 60904,
+    "Timestamp": "2026-10-26 11:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Veterans Memorial Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:45 AM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0after Veterans Memorial Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831027/attachment_0.png",
+    "Latitude": 36.329906000000001,
+    "Longitude": -115.31443849999999
   }
 ]
