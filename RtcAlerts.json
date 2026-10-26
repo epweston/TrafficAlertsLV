@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60759,
-    "Timestamp": "2026-10-24 17:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "Tenaya Way",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "5:31 PM, Oct 24 2026 Crash on WB Ann Rd\u00A0at Tenaya Way. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829588/attachment_0.png",
-    "Latitude": 36.263018199999998,
-    "Longitude": -115.25040540000001
-  },
-  {
-    "UniqueId": 60760,
-    "Timestamp": "2026-10-24 17:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "5:50 PM, Oct 24 2026 Crash on SB Eastern Ave\u00A0at Pebble Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829590/attachment_0.jpg",
-    "Latitude": 36.02763991790971,
-    "Longitude": -115.1184797391856
-  },
-  {
     "UniqueId": 60761,
     "Timestamp": "2026-10-24 18:11",
     "IncidentType": "Crash",
@@ -1132,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829851/attachment_0.png",
     "Latitude": 36.110628699999999,
     "Longitude": -115.24309150000001
+  },
+  {
+    "UniqueId": 60848,
+    "Timestamp": "2026-10-25 17:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right lanes blocked.",
+    "Notes": "5:43 PM, Oct 25 2026 Crash on WB Russell Rd\u00A0before I-15. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829863/attachment_0.png",
+    "Latitude": 36.085986896880186,
+    "Longitude": -115.18073380622651
   }
 ]
