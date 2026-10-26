@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60842,
-    "Timestamp": "2026-10-25 15:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:29 PM, Oct 25 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829853/attachment_0.jpg",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 60843,
     "Timestamp": "2026-10-25 15:31",
     "IncidentType": "Crash",
@@ -1076,5 +1062,33 @@
     "ImagePath": "",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 60920,
+    "Timestamp": "2026-10-26 15:23",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:23 PM, Oct 26 2026 Crash on SB Pecos Rd\u00A0at Bonanza Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831346/attachment_0.png",
+    "Latitude": 36.173489500000002,
+    "Longitude": -115.0981745
+  },
+  {
+    "UniqueId": 60921,
+    "Timestamp": "2026-10-26 15:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:26 PM, Oct 26 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831349/attachment_0.png",
+    "Latitude": 36.21922790273323,
+    "Longitude": -115.32768125268741
   }
 ]
