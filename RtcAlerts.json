@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60839,
-    "Timestamp": "2026-10-25 14:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Terminal 3 Exit",
-    "Relationship": "to",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:31 PM, Oct 25 2026 Crash on WB Terminal 3 Exit\u00A0to Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829826/attachment_0.png",
-    "Latitude": 36.145450099999998,
-    "Longitude": -115.1539128
-  },
-  {
-    "UniqueId": 60840,
-    "Timestamp": "2026-10-25 14:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "University Ctr Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:34 PM, Oct 25 2026 Crash on EB Tropicana Ave\u00A0after University Ctr Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829828/attachment_0.png",
-    "Latitude": 36.101074300000001,
-    "Longitude": -115.1459157
-  },
-  {
     "UniqueId": 60841,
     "Timestamp": "2026-10-25 15:17",
     "IncidentType": "Crash",
@@ -1048,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831279/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 60915,
+    "Timestamp": "2026-10-26 14:48",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:48 PM, Oct 26 2026 Crash on NB Valley View Blvd\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831303/attachment_0.jpg",
+    "Latitude": 36.144334299999997,
+    "Longitude": -115.1908894
   }
 ]
