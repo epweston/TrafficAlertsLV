@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60778,
-    "Timestamp": "2026-10-24 20:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:58 PM, Oct 24 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Alta Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.166804848968461,
-    "Longitude": -115.28802752494813
-  },
-  {
-    "UniqueId": 60779,
-    "Timestamp": "2026-10-24 21:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Riverside Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 PM, Oct 24 2026 Stalled vehicle on SB I-15\u00A0at Riverside Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.185387800000001,
-    "Longitude": -115.1826497
-  },
-  {
-    "UniqueId": 60780,
-    "Timestamp": "2026-10-24 21:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "All lanes are blocked.",
-    "Notes": "9:16 PM, Oct 24 2026 Crash on NB Durango Dr\u00A0after 215 Northern Beltway. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829623/attachment_0.jpg",
-    "Latitude": 36.066225699999997,
-    "Longitude": -115.2791549
-  },
-  {
     "UniqueId": 60781,
     "Timestamp": "2026-10-24 21:34",
     "IncidentType": "Crash",
@@ -964,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829881/attachment_0.png",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 60855,
+    "Timestamp": "2026-10-25 21:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "9:21 PM, Oct 25 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829870/attachment_0.png",
+    "Latitude": 36.143662482122316,
+    "Longitude": -115.1573931887723
   }
 ]
