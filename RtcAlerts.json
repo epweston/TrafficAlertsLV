@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60777,
-    "Timestamp": "2026-10-24 20:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:35 PM, Oct 24 2026 Crash on EB 215 Northern Beltway\u00A0at Durango Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/24/file_attachments/3829611/attachment_0.jpg",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 60778,
     "Timestamp": "2026-10-24 20:58",
     "IncidentType": "Stalled vehicle",
@@ -964,5 +950,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829879/attachment_0.png",
     "Latitude": 36.100850795749203,
     "Longitude": -115.17295000315606
+  },
+  {
+    "UniqueId": 60854,
+    "Timestamp": "2026-10-25 20:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:33 PM, Oct 25 2026 Stalled vehicle on NB I-11\u00A0after Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829881/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
