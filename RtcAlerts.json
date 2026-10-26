@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60832,
-    "Timestamp": "2026-10-25 12:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Eastgate Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:40 PM, Oct 25 2026 Crash on EB Lake Mead Pkwy\u00A0before Eastgate Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829809/attachment_0.png",
-    "Latitude": 36.034325041044013,
-    "Longitude": -115.0078868949862
-  },
-  {
     "UniqueId": 60833,
     "Timestamp": "2026-10-25 13:43",
     "IncidentType": "Stalled vehicle",
@@ -1062,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831049/attachment_0.jpg",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 60908,
+    "Timestamp": "2026-10-26 13:13",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:13 PM, Oct 26 2026 Crash on WB Lake Mead Blvd\u00A0before Martin L King Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831147/attachment_0.jpg",
+    "Latitude": 36.195632400000001,
+    "Longitude": -115.1607403
   }
 ]
