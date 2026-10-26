@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60821,
-    "Timestamp": "2026-10-25 09:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:50 AM, Oct 25 2026 Crash on NB I-11\u00A0at Wagon Wheel Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829712/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 60822,
     "Timestamp": "2026-10-25 10:09",
     "IncidentType": "Stalled vehicle",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830776/attachment_0.jpg",
     "Latitude": 36.184442500000003,
     "Longitude": -115.3029622
+  },
+  {
+    "UniqueId": 60893,
+    "Timestamp": "2026-10-26 09:52",
+    "IncidentType": "Hazard",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:52 AM, Oct 26 2026 Hazard on WB 215 Northern Beltway\u00A0before Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830795/attachment_0.png",
+    "Latitude": 36.289875459999998,
+    "Longitude": -115.07998461
   }
 ]
