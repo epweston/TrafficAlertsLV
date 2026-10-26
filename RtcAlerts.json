@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60801,
-    "Timestamp": "2026-10-25 04:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:02 AM, Oct 25 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Alta Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.166804848968461,
-    "Longitude": -115.28802752494813
-  },
-  {
-    "UniqueId": 60802,
-    "Timestamp": "2026-10-25 04:21",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Camino Al Norte",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:21 AM, Oct 25 2026 Crash on WB Craig Rd\u00A0at Camino Al Norte. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829648/attachment_0.jpg",
-    "Latitude": 36.239502199999997,
-    "Longitude": -115.16208640000001
-  },
-  {
-    "UniqueId": 60803,
-    "Timestamp": "2026-10-25 04:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:29 AM, Oct 25 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 60804,
-    "Timestamp": "2026-10-25 04:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Revere St",
-    "Relationship": "at",
-    "CrossStreet": "Carey Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:28 AM, Oct 25 2026 Crash on SB Revere St\u00A0at Carey Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.2031335,
-    "Longitude": -115.15180960000001
-  },
-  {
     "UniqueId": 60805,
     "Timestamp": "2026-10-25 05:06",
     "IncidentType": "Crash",
@@ -780,6 +724,20 @@
     "Impact": "Right lane blocked.",
     "Notes": "3:55 AM, Oct 26 2026 Crash on WB Ann Rd\u00A0at Jones Blvd. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3829944/attachment_0.png",
+    "Latitude": 36.260987399999998,
+    "Longitude": -115.22539430000001
+  },
+  {
+    "UniqueId": 60865,
+    "Timestamp": "2026-10-26 04:36",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:36 AM, Oct 26 2026 Crash on WB Ann Rd\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "",
     "Latitude": 36.260987399999998,
     "Longitude": -115.22539430000001
   }
