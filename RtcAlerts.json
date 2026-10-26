@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60805,
-    "Timestamp": "2026-10-25 05:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:06 AM, Oct 25 2026 Crash on SB I-15\u00A0before Russell Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829688/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 60806,
-    "Timestamp": "2026-10-25 05:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:08 AM, Oct 25 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Alta Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.166804848968461,
-    "Longitude": -115.28802752494813
-  },
-  {
-    "UniqueId": 60807,
-    "Timestamp": "2026-10-25 05:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Revere St",
-    "Relationship": "at",
-    "CrossStreet": "Carey Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:09 AM, Oct 25 2026 Crash on SB Revere St\u00A0at Carey Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.2031335,
-    "Longitude": -115.15180960000001
-  },
-  {
     "UniqueId": 60808,
     "Timestamp": "2026-10-25 05:32",
     "IncidentType": "Crash",
@@ -754,5 +712,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3829998/attachment_0.jpg",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 60867,
+    "Timestamp": "2026-10-26 05:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Sloan Lane",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:09 AM, Oct 26 2026 Crash on NB Sloan Lane\u00A0at Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830018/attachment_0.png",
+    "Latitude": 36.159346999999997,
+    "Longitude": -115.0473999
   }
 ]
