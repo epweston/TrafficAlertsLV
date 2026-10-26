@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60841,
-    "Timestamp": "2026-10-25 15:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Duke Ellington Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:17 PM, Oct 25 2026 Crash on WB Tropicana Ave\u00A0before Duke Ellington Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829838/attachment_0.jpg",
-    "Latitude": 36.100868718168044,
-    "Longitude": -115.16666053089598
-  },
-  {
     "UniqueId": 60842,
     "Timestamp": "2026-10-25 15:29",
     "IncidentType": "Stalled vehicle",
@@ -1062,5 +1048,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831309/attachment_0.jpg",
     "Latitude": 36.114756399999997,
     "Longitude": -115.2610767
+  },
+  {
+    "UniqueId": 60918,
+    "Timestamp": "2026-10-26 15:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Nevada State Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:21 PM, Oct 26 2026 Crash on EB Nevada State Dr\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831344/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 60919,
+    "Timestamp": "2026-10-26 15:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Nevada State Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:21 PM, Oct 26 2026 Crash on EB Nevada State Dr\u00A0at I-11. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
