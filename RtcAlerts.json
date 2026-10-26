@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60820,
-    "Timestamp": "2026-10-25 09:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "",
-    "Impact": "",
-    "Notes": "9:48 AM, Oct 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829711/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 60821,
     "Timestamp": "2026-10-25 09:50",
     "IncidentType": "Crash",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830691/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 60892,
+    "Timestamp": "2026-10-26 09:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Anasazi Dr",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:44 AM, Oct 26 2026 Crash on SB Anasazi Dr\u00A0at Summerlin Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830776/attachment_0.jpg",
+    "Latitude": 36.184442500000003,
+    "Longitude": -115.3029622
   }
 ]
