@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60829,
-    "Timestamp": "2026-10-25 12:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:01 PM, Oct 25 2026 Stalled vehicle on NB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829779/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 60830,
-    "Timestamp": "2026-10-25 12:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:05 PM, Oct 25 2026 Crash on NB I-11\u00A0at Wagon Wheel Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
-    "UniqueId": 60831,
-    "Timestamp": "2026-10-25 12:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:06 PM, Oct 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829780/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 60832,
     "Timestamp": "2026-10-25 12:40",
     "IncidentType": "Crash",
@@ -1076,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831011/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 60906,
+    "Timestamp": "2026-10-26 12:03",
+    "IncidentType": "Update: Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:03 PM, Oct 26 2026 Update: Crash on SB Decatur Blvd\u00A0after Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831042/attachment_0.jpg",
+    "Latitude": 36.115562400000009,
+    "Longitude": -115.208167
   }
 ]
