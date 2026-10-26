@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60811,
-    "Timestamp": "2026-10-25 08:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:52 AM, Oct 25 2026 Crash on NB Rainbow Blvd\u00A0after Desert Inn Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829716/attachment_0.jpg",
-    "Latitude": 36.12947394310789,
-    "Longitude": -115.24300934562113
-  },
-  {
     "UniqueId": 60820,
     "Timestamp": "2026-10-25 09:48",
     "IncidentType": "Stalled vehicle",
@@ -964,5 +950,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830435/attachment_0.png",
     "Latitude": 36.115562400000009,
     "Longitude": -115.208167
+  },
+  {
+    "UniqueId": 60888,
+    "Timestamp": "2026-10-26 09:09",
+    "IncidentType": "Hazard",
+    "Direction": "NB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:09 AM, Oct 26 2026 Hazard on NB Saint Rose Pkwy\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830508/attachment_0.png",
+    "Latitude": 35.961751371359661,
+    "Longitude": -115.18186569213869
   }
 ]
