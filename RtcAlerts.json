@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60822,
-    "Timestamp": "2026-10-25 10:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:09 AM, Oct 25 2026 Stalled vehicle on NB I-15 \u00A0after Charleston Blvd . Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829729/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 60823,
     "Timestamp": "2026-10-25 10:26",
     "IncidentType": "Stalled vehicle",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830795/attachment_0.png",
     "Latitude": 36.289875459999998,
     "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 60894,
+    "Timestamp": "2026-10-26 10:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:05 AM, Oct 26 2026 Crash on EB Tropicana Ave\u00A0at Las Vegas Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830808/attachment_0.png",
+    "Latitude": 36.100781423246033,
+    "Longitude": -115.17291721759118
   }
 ]
