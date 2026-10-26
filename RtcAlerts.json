@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60808,
-    "Timestamp": "2026-10-25 05:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:32 AM, Oct 25 2026 Crash on NB Pecos Rd\u00A0at Stewart Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829652/attachment_0.png",
-    "Latitude": 36.166186199999999,
-    "Longitude": -115.0982052
-  },
-  {
     "UniqueId": 60809,
     "Timestamp": "2026-10-25 05:57",
     "IncidentType": "Crash",
@@ -740,5 +726,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830026/attachment_0.png",
     "Latitude": 36.240223548101632,
     "Longitude": -115.09733314258013
+  },
+  {
+    "UniqueId": 60869,
+    "Timestamp": "2026-10-26 05:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Sloan Lane",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:44 AM, Oct 26 2026 Crash on NB Sloan Lane\u00A0at Charleston Blvd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.159346999999997,
+    "Longitude": -115.0473999
   }
 ]
