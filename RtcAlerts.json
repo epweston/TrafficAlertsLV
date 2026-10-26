@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60774,
-    "Timestamp": "2026-10-24 20:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Boulder City Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Veterans Memorial Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:09 PM, Oct 24 2026 Stalled vehicle on EB Boulder City Pkwy\u00A0at Veterans Memorial Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.967876500000003,
-    "Longitude": -114.8684033
-  },
-  {
     "UniqueId": 60775,
     "Timestamp": "2026-10-24 20:30",
     "IncidentType": "Crash",
@@ -964,5 +950,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829875/attachment_0.png",
     "Latitude": 36.195608999999997,
     "Longitude": -115.1923611
+  },
+  {
+    "UniqueId": 60851,
+    "Timestamp": "2026-10-25 20:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rock Springs Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "8:22 PM, Oct 25 2026 Crash on WB Lake Mead Blvd\u00A0at Rock Springs Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829867/attachment_0.png",
+    "Latitude": 36.196109700000001,
+    "Longitude": -115.2470922
+  },
+  {
+    "UniqueId": 60852,
+    "Timestamp": "2026-10-25 20:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:26 PM, Oct 25 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829877/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
