@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60927,
-    "Timestamp": "2026-10-26 16:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:19 PM, Oct 26 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831399/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 60928,
     "Timestamp": "2026-10-26 16:58",
     "IncidentType": "Crash",
@@ -1160,5 +1146,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833889/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 61013,
+    "Timestamp": "2026-10-27 16:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:24 PM, Oct 27 2026 Crash on NB 215 Western Beltway\u00A0before Town Center Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834130/attachment_0.png",
+    "Latitude": 36.186849129215581,
+    "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 61014,
+    "Timestamp": "2026-10-27 16:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Mile 3",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:26 PM, Oct 27 2026 Stalled vehicle on NB I-11\u00A0after Mile 3. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834131/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
