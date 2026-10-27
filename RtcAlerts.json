@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60915,
-    "Timestamp": "2026-10-26 14:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:48 PM, Oct 26 2026 Crash on NB Valley View Blvd\u00A0before Sahara Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831303/attachment_0.jpg",
-    "Latitude": 36.144334299999997,
-    "Longitude": -115.1908894
-  },
-  {
     "UniqueId": 60916,
     "Timestamp": "2026-10-26 15:01",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833317/attachment_0.png",
     "Latitude": 36.1513335,
     "Longitude": -115.16279400000001
+  },
+  {
+    "UniqueId": 61003,
+    "Timestamp": "2026-10-27 14:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:47 PM, Oct 27 2026 Stalled vehicle on NB I-15 \u00A0at Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833326/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
