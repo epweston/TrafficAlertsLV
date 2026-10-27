@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60895,
-    "Timestamp": "2026-10-26 10:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:12 AM, Oct 26 2026 Crash on NB Fremont St\u00A0at Mojave Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830832/attachment_0.png",
-    "Latitude": 36.149658100000003,
-    "Longitude": -115.1057024
-  },
-  {
-    "UniqueId": 60896,
-    "Timestamp": "2026-10-26 10:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "10:19 AM, Oct 26 2026 Crash on WB Warm Springs Rd\u00A0after Pecos Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830854/attachment_0.png",
-    "Latitude": 36.057119499999999,
-    "Longitude": -115.1002486
-  },
-  {
     "UniqueId": 60897,
     "Timestamp": "2026-10-26 10:58",
     "IncidentType": "Crash",
@@ -1230,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832588/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 60987,
+    "Timestamp": "2026-10-27 10:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:20 AM, Oct 27 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832649/attachment_0.jpg",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 60988,
+    "Timestamp": "2026-10-27 10:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:23 AM, Oct 27 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832688/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
