@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60866,
-    "Timestamp": "2026-10-26 04:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left lanes blocked. Expect Delays",
-    "Notes": "4:50 AM, Oct 26 2026 Crash on SB I-15\u00A0at Harmon Ave. Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3829998/attachment_0.jpg",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
     "UniqueId": 60867,
     "Timestamp": "2026-10-26 05:09",
     "IncidentType": "Crash",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831619/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 60963,
+    "Timestamp": "2026-10-27 04:51",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Main St",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:51 AM, Oct 27 2026 Crash on NB Main St\u00A0at Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831632/attachment_0.jpg",
+    "Latitude": 36.158781900000001,
+    "Longitude": -115.1535739
+  },
+  {
+    "UniqueId": 60964,
+    "Timestamp": "2026-10-27 04:51",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "4:51 AM, Oct 27 2026 Crash on NB Valley View Blvd\u00A0at Harmon Ave. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.110871099999997,
+    "Longitude": -115.18987900000001
   }
 ]
