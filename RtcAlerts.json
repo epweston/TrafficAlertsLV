@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60908,
-    "Timestamp": "2026-10-26 13:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:13 PM, Oct 26 2026 Crash on WB Lake Mead Blvd\u00A0before Martin L King Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831147/attachment_0.jpg",
-    "Latitude": 36.195632400000001,
-    "Longitude": -115.1607403
-  },
-  {
-    "UniqueId": 60909,
-    "Timestamp": "2026-10-26 13:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:28 PM, Oct 26 2026 Crash on NB Las Vegas Blvd\u00A0at Russell Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831164/attachment_0.jpg",
-    "Latitude": 36.086214300000002,
-    "Longitude": -115.1730815
-  },
-  {
-    "UniqueId": 60910,
-    "Timestamp": "2026-10-26 13:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:37 PM, Oct 26 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831181/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 60911,
     "Timestamp": "2026-10-26 14:17",
     "IncidentType": "Crash",
@@ -1216,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833243/attachment_0.jpg",
     "Latitude": 36.166451199999997,
     "Longitude": -115.2444019
+  },
+  {
+    "UniqueId": 60999,
+    "Timestamp": "2026-10-27 13:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:34 PM, Oct 27 2026 Crash on NB I-15\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833279/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
