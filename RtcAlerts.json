@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60892,
-    "Timestamp": "2026-10-26 09:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Anasazi Dr",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:44 AM, Oct 26 2026 Crash on SB Anasazi Dr\u00A0at Summerlin Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830776/attachment_0.jpg",
-    "Latitude": 36.184442500000003,
-    "Longitude": -115.3029622
-  },
-  {
-    "UniqueId": 60893,
-    "Timestamp": "2026-10-26 09:52",
-    "IncidentType": "Hazard",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:52 AM, Oct 26 2026 Hazard on WB 215 Northern Beltway\u00A0before Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830795/attachment_0.png",
-    "Latitude": 36.289875459999998,
-    "Longitude": -115.07998461
-  },
-  {
-    "UniqueId": 60894,
-    "Timestamp": "2026-10-26 10:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:05 AM, Oct 26 2026 Crash on EB Tropicana Ave\u00A0at Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830808/attachment_0.png",
-    "Latitude": 36.100781423246033,
-    "Longitude": -115.17291721759118
-  },
-  {
     "UniqueId": 60895,
     "Timestamp": "2026-10-26 10:12",
     "IncidentType": "Crash",
@@ -1244,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832229/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 60985,
+    "Timestamp": "2026-10-27 10:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:00 AM, Oct 27 2026 Stalled vehicle on NB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832583/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 60986,
+    "Timestamp": "2026-10-27 10:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:00 AM, Oct 27 2026 Crash on SB I-11\u00A0before Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832588/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
