@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60848,
-    "Timestamp": "2026-10-25 17:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:43 PM, Oct 25 2026 Crash on WB Russell Rd\u00A0before I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829863/attachment_0.png",
-    "Latitude": 36.085986896880186,
-    "Longitude": -115.18073380622651
-  },
-  {
     "UniqueId": 60849,
     "Timestamp": "2026-10-25 17:49",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831446/attachment_0.png",
     "Latitude": 36.086420500000003,
     "Longitude": -115.2080169
+  },
+  {
+    "UniqueId": 60933,
+    "Timestamp": "2026-10-26 17:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:42 PM, Oct 26 2026 Crash on NB I-11\u00A0after Decatur Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831448/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 60934,
+    "Timestamp": "2026-10-26 17:42",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "to",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "",
+    "Notes": "5:42 PM, Oct 26 2026 Crash on WB 215 Southern Beltway offramp to Valle Verde Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831450/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
