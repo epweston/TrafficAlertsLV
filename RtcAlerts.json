@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60867,
-    "Timestamp": "2026-10-26 05:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Sloan Lane",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:09 AM, Oct 26 2026 Crash on NB Sloan Lane\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830018/attachment_0.png",
-    "Latitude": 36.159346999999997,
-    "Longitude": -115.0473999
-  },
-  {
-    "UniqueId": 60868,
-    "Timestamp": "2026-10-26 05:14",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:14 AM, Oct 26 2026 Crash on EB Craig Rd\u00A0at Pecos Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830026/attachment_0.png",
-    "Latitude": 36.240223548101632,
-    "Longitude": -115.09733314258013
-  },
-  {
     "UniqueId": 60869,
     "Timestamp": "2026-10-26 05:44",
     "IncidentType": "Crash",
@@ -1342,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831634/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 60966,
+    "Timestamp": "2026-10-27 05:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:27 AM, Oct 27 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831669/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
