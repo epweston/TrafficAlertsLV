@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60926,
-    "Timestamp": "2026-10-26 15:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rome Blvd",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "3:59 PM, Oct 26 2026 Crash on SB Decatur Blvd\u00A0at Rome Blvd. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831375/attachment_0.png",
-    "Latitude": 36.2801373,
-    "Longitude": -115.2066833
-  },
-  {
     "UniqueId": 60927,
     "Timestamp": "2026-10-26 16:19",
     "IncidentType": "Stalled vehicle",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833591/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 61008,
+    "Timestamp": "2026-10-27 15:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Ocean Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:59 PM, Oct 27 2026 Crash on EB Tropicana Ave\u00A0at Ocean Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833578/attachment_0.png",
+    "Latitude": 36.1006675,
+    "Longitude": -115.17802159999999
   }
 ]
