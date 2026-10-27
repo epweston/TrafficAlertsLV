@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60911,
-    "Timestamp": "2026-10-26 14:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:17 PM, Oct 26 2026 Crash on WB Cheyenne Ave\u00A0before Fort Apache Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831276/attachment_0.jpg",
-    "Latitude": 36.218583005373844,
-    "Longitude": -115.297195312215
-  },
-  {
-    "UniqueId": 60912,
-    "Timestamp": "2026-10-26 14:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 78",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:18 PM, Oct 26 2026 Crash on SB I-15\u00A0at Mile 78. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831280/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 60913,
-    "Timestamp": "2026-10-26 14:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:18 PM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0after Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831279/attachment_0.png",
-    "Latitude": 36.26305439011032,
-    "Longitude": -115.25378367086844
-  },
-  {
     "UniqueId": 60915,
     "Timestamp": "2026-10-26 14:48",
     "IncidentType": "Crash",
@@ -1202,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833284/attachment_0.jpg",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 61001,
+    "Timestamp": "2026-10-27 14:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:18 PM, Oct 27 2026 Stalled vehicle on NB I-11\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833203/attachment_0.jpg",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
