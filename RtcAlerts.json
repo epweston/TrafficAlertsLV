@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60897,
-    "Timestamp": "2026-10-26 10:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:58 AM, Oct 26 2026 Crash on NB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830931/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 60898,
-    "Timestamp": "2026-10-26 11:10",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Multiple lanes blocked. Expect Delays",
-    "Notes": "11:10 AM, Oct 26 2026 Crash on WB Warm Springs Rd\u00A0after Pecos Rd. Multiple lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830976/attachment_0.png",
-    "Latitude": 36.057119499999999,
-    "Longitude": -115.1002486
-  },
-  {
-    "UniqueId": 60899,
-    "Timestamp": "2026-10-26 11:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "SB Decatur Blvd is closed after Flamingo Rd. Use other routes",
-    "Notes": "11:13 AM, Oct 26 2026 Crash on SB Decatur Blvd\u00A0after Flamingo Rd. SB Decatur Blvd is closed after Flamingo Rd. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830980/attachment_0.jpg",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
     "UniqueId": 60900,
     "Timestamp": "2026-10-26 11:17",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832794/attachment_0.jpg",
     "Latitude": 36.100956099999998,
     "Longitude": -115.2080821
+  },
+  {
+    "UniqueId": 60990,
+    "Timestamp": "2026-10-27 11:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:11 AM, Oct 27 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832867/attachment_0.jpg",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
