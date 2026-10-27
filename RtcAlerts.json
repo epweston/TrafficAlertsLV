@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60904,
-    "Timestamp": "2026-10-26 11:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Veterans Memorial Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:45 AM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0after Veterans Memorial Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831027/attachment_0.png",
-    "Latitude": 36.329906000000001,
-    "Longitude": -115.31443849999999
-  },
-  {
-    "UniqueId": 60905,
-    "Timestamp": "2026-10-26 11:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:52 AM, Oct 26 2026 Stalled vehicle on NB I-15 Collector Distributor\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831011/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 60906,
     "Timestamp": "2026-10-26 12:03",
     "IncidentType": "Update: Crash",
@@ -1188,5 +1160,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832906/attachment_0.png",
     "Latitude": 36.1127258,
     "Longitude": -115.073671
+  },
+  {
+    "UniqueId": 60993,
+    "Timestamp": "2026-10-27 11:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:51 AM, Oct 27 2026 Stalled vehicle on SB I-11\u00A0after I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832927/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 60994,
+    "Timestamp": "2026-10-27 11:53",
+    "IncidentType": "Hazard",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Lindell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:53 AM, Oct 27 2026 Hazard on WB Tropicana Ave\u00A0at Lindell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832929/attachment_0.png",
+    "Latitude": 36.100459100000002,
+    "Longitude": -115.2165016
+  },
+  {
+    "UniqueId": 60995,
+    "Timestamp": "2026-10-27 11:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:54 AM, Oct 27 2026 Crash on SB I-15\u00A0at Neon Gateway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832920/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
   }
 ]
