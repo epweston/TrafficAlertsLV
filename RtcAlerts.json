@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60888,
-    "Timestamp": "2026-10-26 09:09",
-    "IncidentType": "Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:09 AM, Oct 26 2026 Hazard on NB Saint Rose Pkwy\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830508/attachment_0.png",
-    "Latitude": 35.961751371359661,
-    "Longitude": -115.18186569213869
-  },
-  {
     "UniqueId": 60889,
     "Timestamp": "2026-10-26 09:27",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832077/attachment_0.jpg",
     "Latitude": 35.780638833212116,
     "Longitude": -115.32829409722736
+  },
+  {
+    "UniqueId": 60983,
+    "Timestamp": "2026-10-27 09:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Auto Show Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:20 AM, Oct 27 2026 Crash on WB Auto Show Dr\u00A0at I-11. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832175/attachment_0.png",
+    "Latitude": 36.045173200000001,
+    "Longitude": -115.0290857
   }
 ]
