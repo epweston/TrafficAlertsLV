@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60882,
-    "Timestamp": "2026-10-26 07:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Main St",
-    "Impact": "",
-    "Notes": "7:56 AM, Oct 26 2026 Stalled vehicle on SB I-15\u00A0at Main St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830308/attachment_0.png",
-    "Latitude": 36.175399899145084,
-    "Longitude": -115.14399336646459
-  },
-  {
     "UniqueId": 60883,
     "Timestamp": "2026-10-26 08:03",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831961/attachment_0.png",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 60978,
+    "Timestamp": "2026-10-27 07:53",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:53 AM, Oct 27 2026 Crash on WB Sunset Rd\u00A0at Paradise Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831978/attachment_0.png",
+    "Latitude": 36.071648699999997,
+    "Longitude": -115.14116249999999
   }
 ]
