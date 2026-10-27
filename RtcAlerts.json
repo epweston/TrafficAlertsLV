@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60849,
-    "Timestamp": "2026-10-25 17:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mel Torme Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:49 PM, Oct 25 2026 Stalled vehicle on WB Spring Mountain Rd\u00A0at Mel Torme Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/25/file_attachments/3829865/attachment_0.png",
-    "Latitude": 36.12558859559698,
-    "Longitude": -115.17317023475012
-  },
-  {
     "UniqueId": 60850,
     "Timestamp": "2026-10-25 20:01",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831450/attachment_0.png",
     "Latitude": 36.02740562519562,
     "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 60935,
+    "Timestamp": "2026-10-26 18:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Skye Canyon Park Dr",
+    "Impact": "",
+    "Notes": "6:06 PM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0before Skye Canyon Park Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831481/attachment_0.png",
+    "Latitude": 36.314398977532683,
+    "Longitude": -115.30052669865761
   }
 ]
