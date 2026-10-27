@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60916,
-    "Timestamp": "2026-10-26 15:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:01 PM, Oct 26 2026 Crash on SB I-11\u00A0at Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831307/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 60917,
-    "Timestamp": "2026-10-26 15:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:03 PM, Oct 26 2026 Crash on EB Flamingo Rd\u00A0after Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831309/attachment_0.jpg",
-    "Latitude": 36.114756399999997,
-    "Longitude": -115.2610767
-  },
-  {
     "UniqueId": 60918,
     "Timestamp": "2026-10-26 15:21",
     "IncidentType": "Crash",
@@ -1188,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833326/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 61004,
+    "Timestamp": "2026-10-27 15:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:08 PM, Oct 27 2026 Crash on EB Cheyenne Ave\u00A0before Torrey Pines Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3833333/attachment_0.png",
+    "Latitude": 36.217444759799662,
+    "Longitude": -115.23409366607666
   }
 ]
