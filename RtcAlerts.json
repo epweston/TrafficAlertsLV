@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60865,
-    "Timestamp": "2026-10-26 04:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:36 AM, Oct 26 2026 Crash on WB Ann Rd\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.260987399999998,
-    "Longitude": -115.22539430000001
-  },
-  {
     "UniqueId": 60866,
     "Timestamp": "2026-10-26 04:50",
     "IncidentType": "Crash",
@@ -1286,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831596/attachment_0.jpg",
     "Latitude": 36.110871099999997,
     "Longitude": -115.18987900000001
+  },
+  {
+    "UniqueId": 60960,
+    "Timestamp": "2026-10-27 04:36",
+    "IncidentType": "Other",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "4:36 AM, Oct 27 2026 Other on NB I-11\u00A0to Summerlin Pkwy. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 60961,
+    "Timestamp": "2026-10-27 04:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Mountain Vista St",
+    "Relationship": "from",
+    "CrossStreet": "Russell Rd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:37 AM, Oct 27 2026 Crash on NB Mountain Vista St\u00A0from Russell Rd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.085704799999988,
+    "Longitude": -115.0731581
   }
 ]
