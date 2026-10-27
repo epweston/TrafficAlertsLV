@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 60873,
-    "Timestamp": "2026-10-26 06:07",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Walnut Rd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "6:07 AM, Oct 26 2026 Crash on WB Cheyenne Ave\u00A0at Walnut Rd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830061/attachment_0.png",
-    "Latitude": 36.217682794356257,
-    "Longitude": -115.08932948112489
-  },
-  {
-    "UniqueId": 60874,
-    "Timestamp": "2026-10-26 06:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:12 AM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830065/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 60875,
-    "Timestamp": "2026-10-26 06:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:16 AM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3830069/attachment_0.jpg",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
-    "UniqueId": 60876,
-    "Timestamp": "2026-10-26 06:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Sloan Lane",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:17 AM, Oct 26 2026 Crash on NB Sloan Lane\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.159346999999997,
-    "Longitude": -115.0473999
-  },
-  {
     "UniqueId": 60877,
     "Timestamp": "2026-10-26 06:28",
     "IncidentType": "Crash",
@@ -1286,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831720/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 60968,
+    "Timestamp": "2026-10-27 06:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd North",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "SB Las Vegas Blvd Blocked Use other routes",
+    "Notes": "6:14 AM, Oct 27 2026 Crash on SB Las Vegas Blvd North\u00A0at Lake Mead Blvd. SB Las Vegas Blvd Blocked Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.195865100000013,
+    "Longitude": -115.1288797
+  },
+  {
+    "UniqueId": 60969,
+    "Timestamp": "2026-10-27 06:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd North",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "SB Las Vegas Blvd Blocked Use other routes",
+    "Notes": "6:14 AM, Oct 27 2026 Crash on SB Las Vegas Blvd North\u00A0at Lake Mead Blvd. SB Las Vegas Blvd Blocked Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831731/attachment_0.jpg",
+    "Latitude": 36.195865100000013,
+    "Longitude": -115.1288797
   }
 ]
