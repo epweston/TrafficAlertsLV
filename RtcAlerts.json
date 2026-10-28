@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60929,
-    "Timestamp": "2026-10-26 17:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Casino Center Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Garces Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "5:08 PM, Oct 26 2026 Crash on NB Casino Center Blvd\u00A0at Garces Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831407/attachment_0.jpg",
-    "Latitude": 36.1637457,
-    "Longitude": -115.1487052
-  },
-  {
-    "UniqueId": 60930,
-    "Timestamp": "2026-10-26 17:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:28 PM, Oct 26 2026 Crash on NB I-15\u00A0at Harmon Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831436/attachment_0.jpg",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 60931,
-    "Timestamp": "2026-10-26 17:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:34 PM, Oct 26 2026 Crash on EB Tropicana Ave\u00A0before I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831415/attachment_0.png",
-    "Latitude": 36.10072919730861,
-    "Longitude": -115.18071603717371
-  },
-  {
     "UniqueId": 60932,
     "Timestamp": "2026-10-26 17:36",
     "IncidentType": "Crash",
@@ -1244,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834143/attachment_0.png",
     "Latitude": 36.0353578,
     "Longitude": -115.1724534
+  },
+  {
+    "UniqueId": 61021,
+    "Timestamp": "2026-10-27 17:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:34 PM, Oct 27 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834145/attachment_0.png",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
