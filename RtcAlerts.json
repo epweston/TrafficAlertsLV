@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60932,
-    "Timestamp": "2026-10-26 17:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:36 PM, Oct 26 2026 Crash on WB Russell Rd\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831446/attachment_0.png",
-    "Latitude": 36.086420500000003,
-    "Longitude": -115.2080169
-  },
-  {
     "UniqueId": 60933,
     "Timestamp": "2026-10-26 17:42",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834145/attachment_0.png",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 61023,
+    "Timestamp": "2026-10-27 17:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:39 PM, Oct 27 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834080/attachment_0.png",
+    "Latitude": 36.274993366998793,
+    "Longitude": -115.20657961738746
+  },
+  {
+    "UniqueId": 61024,
+    "Timestamp": "2026-10-27 17:38",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left turn lanes blocked.",
+    "Notes": "5:38 PM, Oct 27 2026 Crash on EB Russell Rd\u00A0at Jones Blvd. Left turn lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834149/attachment_0.png",
+    "Latitude": 36.085451900000002,
+    "Longitude": -115.2254131
   }
 ]
