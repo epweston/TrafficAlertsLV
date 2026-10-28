@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60935,
-    "Timestamp": "2026-10-26 18:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "",
-    "Notes": "6:06 PM, Oct 26 2026 Stalled vehicle on NB I-11\u00A0before Skye Canyon Park Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831481/attachment_0.png",
-    "Latitude": 36.314398977532683,
-    "Longitude": -115.30052669865761
-  },
-  {
     "UniqueId": 60936,
     "Timestamp": "2026-10-26 19:02",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834153/attachment_0.png",
     "Latitude": 36.144195199999999,
     "Longitude": -115.27905680000001
+  },
+  {
+    "UniqueId": 61029,
+    "Timestamp": "2026-10-27 18:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:17 PM, Oct 27 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834157/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
