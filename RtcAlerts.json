@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60997,
-    "Timestamp": "2026-10-27 12:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:18 PM, Oct 27 2026 Stalled vehicle on SB I-11\u00A0before Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832975/attachment_0.jpg",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 60998,
     "Timestamp": "2026-10-27 12:39",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835207/attachment_0.jpg",
     "Latitude": 36.066936900000002,
     "Longitude": -115.2079792
+  },
+  {
+    "UniqueId": 61097,
+    "Timestamp": "2026-10-28 12:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:26 PM, Oct 28 2026 Crash on EB 215 Southern Beltway\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835226/attachment_0.jpg",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
