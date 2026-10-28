@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60971,
-    "Timestamp": "2026-10-27 06:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:31 AM, Oct 27 2026 Stalled vehicle on NB I-11\u00A0before Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831752/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 60972,
     "Timestamp": "2026-10-27 06:54",
     "IncidentType": "Crash",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834392/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 61064,
+    "Timestamp": "2026-10-28 06:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "North Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:29 AM, Oct 28 2026 Stalled vehicle on SB I-11\u00A0after North Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834396/attachment_0.png",
+    "Latitude": 36.254498550000001,
+    "Longitude": -115.2458097
   }
 ]
