@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60957,
-    "Timestamp": "2026-10-27 03:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Mesquite Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:25 AM, Oct 27 2026 Crash on SB Rancho Dr\u00A0at Mesquite Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831565/attachment_0.jpg",
-    "Latitude": 36.173445200000003,
-    "Longitude": -115.17332759999999
-  },
-  {
-    "UniqueId": 60958,
-    "Timestamp": "2026-10-27 03:31",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Mountain Vista St",
-    "Relationship": "from",
-    "CrossStreet": "Russell Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "3:31 AM, Oct 27 2026 Crash on NB Mountain Vista St\u00A0from Russell Rd. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.085704799999988,
-    "Longitude": -115.0731581
-  },
-  {
     "UniqueId": 60959,
     "Timestamp": "2026-10-27 04:08",
     "IncidentType": "Crash",
@@ -1244,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834125/attachment_0.png",
     "Latitude": 36.082723100000003,
     "Longitude": -115.1009601
+  },
+  {
+    "UniqueId": 61049,
+    "Timestamp": "2026-10-28 03:35",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Fort Apache Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:35 AM, Oct 28 2026 Crash on EB Tropicana Ave\u00A0at Fort Apache Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.10003591109745,
+    "Longitude": -115.29730796813966
   }
 ]
