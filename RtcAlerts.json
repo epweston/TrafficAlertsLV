@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60928,
-    "Timestamp": "2026-10-26 16:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:58 PM, Oct 26 2026 Crash on NB I-15\u00A0at 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831423/attachment_0.jpg",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 60929,
     "Timestamp": "2026-10-26 17:08",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834139/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 61020,
+    "Timestamp": "2026-10-27 17:01",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Wigwam Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:01 PM, Oct 27 2026 Crash on NB Las Vegas Blvd\u00A0before Wigwam Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834143/attachment_0.png",
+    "Latitude": 36.0353578,
+    "Longitude": -115.1724534
   }
 ]
