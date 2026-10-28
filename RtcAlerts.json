@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 60979,
-    "Timestamp": "2026-10-27 08:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:25 AM, Oct 27 2026 Crash on SB I-11\u00A0after Charleston Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832054/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 60980,
-    "Timestamp": "2026-10-27 08:26",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:26 AM, Oct 27 2026 Crash on EB Flamingo Rd\u00A0at 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832053/attachment_0.png",
-    "Latitude": 36.115079025217497,
-    "Longitude": -115.30254383728953
-  },
-  {
-    "UniqueId": 60981,
-    "Timestamp": "2026-10-27 08:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Jean",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:29 AM, Oct 27 2026 Stalled vehicle on SB I-15\u00A0after Jean. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832077/attachment_0.jpg",
-    "Latitude": 35.780638833212116,
-    "Longitude": -115.32829409722736
-  },
-  {
     "UniqueId": 60983,
     "Timestamp": "2026-10-27 09:20",
     "IncidentType": "Crash",
@@ -1370,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834599/attachment_0.png",
     "Latitude": 36.029356880000002,
     "Longitude": -115.04715435
+  },
+  {
+    "UniqueId": 61080,
+    "Timestamp": "2026-10-28 08:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 106",
+    "Impact": "Right shoulder.",
+    "Notes": "8:30 AM, Oct 28 2026 Stalled vehicle on SB I-15\u00A0at Mile 106. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834656/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
