@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 60959,
-    "Timestamp": "2026-10-27 04:08",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:08 AM, Oct 27 2026 Crash on NB Valley View Blvd\u00A0at Harmon Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3831596/attachment_0.jpg",
-    "Latitude": 36.110871099999997,
-    "Longitude": -115.18987900000001
-  },
-  {
     "UniqueId": 60960,
     "Timestamp": "2026-10-27 04:36",
     "IncidentType": "Other",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834127/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 61051,
+    "Timestamp": "2026-10-28 04:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:05 AM, Oct 28 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
