@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60983,
-    "Timestamp": "2026-10-27 09:20",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Auto Show Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:20 AM, Oct 27 2026 Crash on WB Auto Show Dr\u00A0at I-11. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832175/attachment_0.png",
-    "Latitude": 36.045173200000001,
-    "Longitude": -115.0290857
-  },
-  {
-    "UniqueId": 60984,
-    "Timestamp": "2026-10-27 09:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:29 AM, Oct 27 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3832229/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 60985,
     "Timestamp": "2026-10-27 10:00",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1356,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834717/attachment_0.png",
     "Latitude": 36.21922790273323,
     "Longitude": -115.32768125268741
+  },
+  {
+    "UniqueId": 61084,
+    "Timestamp": "2026-10-28 09:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Koval Ln",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:40 AM, Oct 28 2026 Crash on EB Tropicana Ave\u00A0before Koval Ln. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834805/attachment_0.png",
+    "Latitude": 36.100859441550384,
+    "Longitude": -115.16388414057163
+  },
+  {
+    "UniqueId": 61085,
+    "Timestamp": "2026-10-28 09:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 106",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:43 AM, Oct 28 2026 Stalled vehicle on SB I-15\u00A0at Mile 106. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 61086,
+    "Timestamp": "2026-10-28 09:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:43 AM, Oct 28 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834830/attachment_0.jpg",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
