@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 60933,
-    "Timestamp": "2026-10-26 17:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:42 PM, Oct 26 2026 Crash on NB I-11\u00A0after Decatur Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831448/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 60934,
-    "Timestamp": "2026-10-26 17:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "",
-    "Notes": "5:42 PM, Oct 26 2026 Crash on WB 215 Southern Beltway offramp to Valle Verde Dr on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/26/file_attachments/3831450/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 60935,
     "Timestamp": "2026-10-26 18:06",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834149/attachment_0.png",
     "Latitude": 36.085451900000002,
     "Longitude": -115.2254131
+  },
+  {
+    "UniqueId": 61025,
+    "Timestamp": "2026-10-27 17:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:42 PM, Oct 27 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834151/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 61026,
+    "Timestamp": "2026-10-27 17:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Aliante Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:44 PM, Oct 27 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0at Aliante Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834084/attachment_0.png",
+    "Latitude": 36.293459499999997,
+    "Longitude": -115.18487740000001
   }
 ]
