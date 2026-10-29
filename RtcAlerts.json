@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61030,
-    "Timestamp": "2026-10-27 18:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:29 PM, Oct 27 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834088/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 61031,
     "Timestamp": "2026-10-27 18:35",
     "IncidentType": "Crash",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835897/attachment_0.png",
     "Latitude": 36.096298599999997,
     "Longitude": -115.2974361
+  },
+  {
+    "UniqueId": 61124,
+    "Timestamp": "2026-10-28 18:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Joe W Brown Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:23 PM, Oct 28 2026 Stalled vehicle on EB Desert Inn Rd\u00A0before Joe W Brown Dr. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.129755558420179,
+    "Longitude": -115.1459967953781
+  },
+  {
+    "UniqueId": 61125,
+    "Timestamp": "2026-10-28 18:24",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Galleria Dr",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:24 PM, Oct 28 2026 Crash on WB Galleria Dr\u00A0after I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835901/attachment_0.png",
+    "Latitude": 36.071592967703758,
+    "Longitude": -115.0366190019961
   }
 ]
