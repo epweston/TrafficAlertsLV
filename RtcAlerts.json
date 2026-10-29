@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61099,
-    "Timestamp": "2026-10-28 12:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:59 PM, Oct 28 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835277/attachment_0.jpg",
-    "Latitude": 36.289875459999998,
-    "Longitude": -115.07998461
-  },
-  {
-    "UniqueId": 61100,
-    "Timestamp": "2026-10-28 13:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:27 PM, Oct 28 2026 Crash on SB Decatur Blvd\u00A0after Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835317/attachment_0.png",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
     "UniqueId": 61101,
     "Timestamp": "2026-10-28 13:38",
     "IncidentType": "Crash",
@@ -1188,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837149/attachment_0.png",
     "Latitude": 36.034232799999998,
     "Longitude": -115.00793109999999
+  },
+  {
+    "UniqueId": 61185,
+    "Timestamp": "2026-10-29 13:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Center lanes blocked.",
+    "Notes": "1:29 PM, Oct 29 2026 Crash on SB I-15 \u00A0at Sahara Ave. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837230/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
