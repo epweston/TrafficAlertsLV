@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61020,
-    "Timestamp": "2026-10-27 17:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Wigwam Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:01 PM, Oct 27 2026 Crash on NB Las Vegas Blvd\u00A0before Wigwam Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834143/attachment_0.png",
-    "Latitude": 36.0353578,
-    "Longitude": -115.1724534
-  },
-  {
     "UniqueId": 61021,
     "Timestamp": "2026-10-27 17:34",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835868/attachment_0.png",
     "Latitude": 36.115612499999997,
     "Longitude": -115.1994991
+  },
+  {
+    "UniqueId": 61113,
+    "Timestamp": "2026-10-28 17:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:00 PM, Oct 28 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835870/attachment_0.png",
+    "Latitude": 36.115066053957577,
+    "Longitude": -115.30244890820951
+  },
+  {
+    "UniqueId": 61114,
+    "Timestamp": "2026-10-28 17:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:00 PM, Oct 28 2026 Crash on WB Centennial Pkwy\u00A0after Hualapai Way. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835872/attachment_0.png",
+    "Latitude": 36.277436100000003,
+    "Longitude": -115.3150806
   }
 ]
