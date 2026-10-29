@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61057,
-    "Timestamp": "2026-10-28 05:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:49 AM, Oct 28 2026 Crash on SB Decatur Blvd\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834313/attachment_0.jpg",
-    "Latitude": 36.269200300000001,
-    "Longitude": -115.2071053
-  },
-  {
-    "UniqueId": 61058,
-    "Timestamp": "2026-10-28 06:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:00 AM, Oct 28 2026 Crash on SB I-11\u00A0before Galleria Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834336/attachment_0.jpg",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 61059,
     "Timestamp": "2026-10-28 06:04",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836101/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 61147,
+    "Timestamp": "2026-10-29 05:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "5:57 AM, Oct 29 2026 Stalled vehicle on SB I-11\u00A0before Lake Mead Blvd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836107/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 61148,
+    "Timestamp": "2026-10-29 06:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder",
+    "Notes": "6:01 AM, Oct 29 2026 Stalled vehicle on SB I-15 \u00A0at Sahara Ave. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836097/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
