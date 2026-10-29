@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61065,
-    "Timestamp": "2026-10-28 06:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:42 AM, Oct 28 2026 Crash on SB I-11\u00A0at Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834387/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 61066,
     "Timestamp": "2026-10-28 07:00",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836182/attachment_0.png",
     "Latitude": 36.186849129215581,
     "Longitude": -115.30670642852785
+  },
+  {
+    "UniqueId": 61152,
+    "Timestamp": "2026-10-29 06:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:55 AM, Oct 29 2026 Crash on NB Paradise Rd\u00A0before Flamingo Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836228/attachment_0.png",
+    "Latitude": 36.114312130000002,
+    "Longitude": -115.15402971
   }
 ]
