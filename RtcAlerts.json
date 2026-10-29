@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61092,
-    "Timestamp": "2026-10-28 10:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:48 AM, Oct 28 2026 Stalled vehicle on NB I-15\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835069/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 61093,
     "Timestamp": "2026-10-28 10:52",
     "IncidentType": "Stalled vehicle",
@@ -1048,5 +1034,19 @@
     "ImagePath": "",
     "Latitude": 36.033552862846953,
     "Longitude": -115.01434604859962
+  },
+  {
+    "UniqueId": 61167,
+    "Timestamp": "2026-10-29 10:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Pioneer Way",
+    "Impact": "Left lanes blocked.",
+    "Notes": "10:48 AM, Oct 29 2026 Crash on WB Sahara Ave\u00A0before Pioneer Way (before Buffalo Dr). Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836823/attachment_0.png",
+    "Latitude": 36.1437046,
+    "Longitude": -115.2564448
   }
 ]
