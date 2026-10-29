@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61083,
-    "Timestamp": "2026-10-28 09:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 AM, Oct 28 2026 Stalled vehicle on SB 215 Western Beltway\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834717/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
     "UniqueId": 61084,
     "Timestamp": "2026-10-28 09:40",
     "IncidentType": "Crash",
@@ -1048,5 +1034,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836413/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61158,
+    "Timestamp": "2026-10-29 09:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:02 AM, Oct 29 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.129981600000001,
+    "Longitude": -115.20814
+  },
+  {
+    "UniqueId": 61159,
+    "Timestamp": "2026-10-29 09:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "9:05 AM, Oct 29 2026 Crash on SB I-11\u00A0after Charleston Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836581/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
