@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61109,
-    "Timestamp": "2026-10-28 15:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:29 PM, Oct 28 2026 Crash on NB Eastern Ave\u00A0after Silverado Ranch Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835756/attachment_0.png",
-    "Latitude": 36.013321931077591,
-    "Longitude": -115.1188606707682
-  },
-  {
     "UniqueId": 61110,
     "Timestamp": "2026-10-28 15:33",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838463/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 61197,
+    "Timestamp": "2026-10-29 15:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Harris Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:28 PM, Oct 29 2026 Crash on NB Pecos Rd\u00A0at Harris Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838481/attachment_0.png",
+    "Latitude": 36.177156099999998,
+    "Longitude": -115.0981852
   }
 ]
