@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61110,
-    "Timestamp": "2026-10-28 15:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "under",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:33 PM, Oct 28 2026 Crash on EB Flamingo Rd\u00A0under I-11. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835760/attachment_0.png",
-    "Latitude": 36.114676128133588,
-    "Longitude": -115.17288565635683
-  },
-  {
     "UniqueId": 61111,
     "Timestamp": "2026-10-28 16:32",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838481/attachment_0.png",
     "Latitude": 36.177156099999998,
     "Longitude": -115.0981852
+  },
+  {
+    "UniqueId": 61198,
+    "Timestamp": "2026-10-29 15:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:59 PM, Oct 29 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838484/attachment_0.png",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
   }
 ]
