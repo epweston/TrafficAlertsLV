@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61112,
-    "Timestamp": "2026-10-28 16:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "4:51 PM, Oct 28 2026 Crash on WB Flamingo Rd\u00A0before Arville St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835868/attachment_0.png",
-    "Latitude": 36.115612499999997,
-    "Longitude": -115.1994991
-  },
-  {
     "UniqueId": 61113,
     "Timestamp": "2026-10-28 17:00",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838520/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 61205,
+    "Timestamp": "2026-10-29 16:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:48 PM, Oct 29 2026 Crash on SB I-11\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838515/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
