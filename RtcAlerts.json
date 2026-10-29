@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61084,
-    "Timestamp": "2026-10-28 09:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Koval Ln",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:40 AM, Oct 28 2026 Crash on EB Tropicana Ave\u00A0before Koval Ln. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834805/attachment_0.png",
-    "Latitude": 36.100859441550384,
-    "Longitude": -115.16388414057163
-  },
-  {
-    "UniqueId": 61085,
-    "Timestamp": "2026-10-28 09:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 106",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:43 AM, Oct 28 2026 Stalled vehicle on SB I-15\u00A0at Mile 106. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 61086,
-    "Timestamp": "2026-10-28 09:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:43 AM, Oct 28 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834830/attachment_0.jpg",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 61087,
     "Timestamp": "2026-10-28 09:45",
     "IncidentType": "Stalled vehicle",
@@ -1090,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836605/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 61162,
+    "Timestamp": "2026-10-29 09:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left shoulder",
+    "Notes": "9:41 AM, Oct 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836694/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
