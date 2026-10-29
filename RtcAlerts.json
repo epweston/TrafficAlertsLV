@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61080,
-    "Timestamp": "2026-10-28 08:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 106",
-    "Impact": "Right shoulder.",
-    "Notes": "8:30 AM, Oct 28 2026 Stalled vehicle on SB I-15\u00A0at Mile 106. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834656/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 61081,
-    "Timestamp": "2026-10-28 08:41",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "at",
-    "CrossStreet": "Eb 215 Southern Beltway",
-    "Impact": "",
-    "Notes": "8:41 AM, Oct 28 2026 Crash on NB Stephanie St\u00A0at EB 215 Southern Beltway ramp Right lanes going NB and EB on-ramp blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834691/attachment_0.png",
-    "Latitude": 36.029356880000002,
-    "Longitude": -115.04715435
-  },
-  {
-    "UniqueId": 61082,
-    "Timestamp": "2026-10-28 08:45",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Stephanie St",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "NB Stephanie St to EB I-215 ramp is open again.",
-    "Notes": "8:45 AM, Oct 28 2026 Update Crash on NB Stephanie St\u00A0at 215 Southern Beltway. NB Stephanie St to EB I-215 ramp is open again.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834680/attachment_0.png",
-    "Latitude": 36.029356880000002,
-    "Longitude": -115.04715435
-  },
-  {
     "UniqueId": 61083,
     "Timestamp": "2026-10-28 09:00",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836336/attachment_0.jpg",
     "Latitude": 36.217665489308381,
     "Longitude": -115.12400501844569
+  },
+  {
+    "UniqueId": 61157,
+    "Timestamp": "2026-10-29 08:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:45 AM, Oct 29 2026 Crash on SB I-11\u00A0at Jones Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836413/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
