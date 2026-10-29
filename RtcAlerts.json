@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61032,
-    "Timestamp": "2026-10-27 18:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 PM, Oct 27 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834161/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 61033,
-    "Timestamp": "2026-10-27 18:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 9",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:50 PM, Oct 27 2026 Stalled vehicle on NB I-15\u00A0at Mile 9. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834092/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 61034,
     "Timestamp": "2026-10-27 19:22",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1314,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835922/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 61128,
+    "Timestamp": "2026-10-28 18:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "Grand Teton Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:52 PM, Oct 28 2026 Crash on NB Durango Dr\u00A0after Grand Teton Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835924/attachment_0.png",
+    "Latitude": 36.306577799999999,
+    "Longitude": -115.27855580000001
+  },
+  {
+    "UniqueId": 61129,
+    "Timestamp": "2026-10-28 18:53",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Antelope Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:53 PM, Oct 28 2026 Crash on WB Charleston Blvd\u00A0after Antelope Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835904/attachment_0.png",
+    "Latitude": 36.159176100000003,
+    "Longitude": -115.2509261
   }
 ]
