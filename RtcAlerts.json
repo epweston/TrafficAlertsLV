@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61104,
-    "Timestamp": "2026-10-28 14:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Center lanes blocked. Expect Delays",
-    "Notes": "2:18 PM, Oct 28 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Center lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835576/attachment_0.jpg",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 61105,
-    "Timestamp": "2026-10-28 14:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:20 PM, Oct 28 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835527/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 61106,
     "Timestamp": "2026-10-28 14:24",
     "IncidentType": "Crash",
@@ -1174,5 +1146,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837654/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61189,
+    "Timestamp": "2026-10-29 14:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Hualapai Wy",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "2:19 PM, Oct 29 2026 Crash on EB Flamingo Rd\u00A0after Hualapai Wy. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837756/attachment_0.jpg",
+    "Latitude": 36.115357500000002,
+    "Longitude": -115.314774
+  },
+  {
+    "UniqueId": 61190,
+    "Timestamp": "2026-10-29 14:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:21 PM, Oct 29 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837835/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
