@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61103,
-    "Timestamp": "2026-10-28 13:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Center lanes blocked.",
-    "Notes": "1:55 PM, Oct 28 2026 Crash on EB Russell Rd\u00A0at Fort Apache Rd. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835420/attachment_0.png",
-    "Latitude": 36.085212599999998,
-    "Longitude": -115.2973982
-  },
-  {
     "UniqueId": 61104,
     "Timestamp": "2026-10-28 14:18",
     "IncidentType": "Crash",
@@ -1160,5 +1146,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837387/attachment_0.png",
     "Latitude": 36.218273000000003,
     "Longitude": -115.265051
+  },
+  {
+    "UniqueId": 61187,
+    "Timestamp": "2026-10-29 13:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:57 PM, Oct 29 2026 Crash on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837588/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 61188,
+    "Timestamp": "2026-10-29 13:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:59 PM, Oct 29 2026 Crash on SB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837654/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
