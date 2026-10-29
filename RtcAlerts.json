@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61049,
-    "Timestamp": "2026-10-28 03:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Fort Apache Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:35 AM, Oct 28 2026 Crash on EB Tropicana Ave\u00A0at Fort Apache Rd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.10003591109745,
-    "Longitude": -115.29730796813966
-  },
-  {
-    "UniqueId": 61050,
-    "Timestamp": "2026-10-28 03:40",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:40 AM, Oct 28 2026 Crash on WB 215 Southern Beltway\u00A0after Jones Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834127/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 61051,
-    "Timestamp": "2026-10-28 04:05",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:05 AM, Oct 28 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 61052,
     "Timestamp": "2026-10-28 05:07",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836002/attachment_0.png",
     "Latitude": 36.326035099999999,
     "Longitude": -115.32416790000001
+  },
+  {
+    "UniqueId": 61141,
+    "Timestamp": "2026-10-29 04:40",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lanes are blocked.",
+    "Notes": "4:40 AM, Oct 29 2026 Crash on SB I-15 at Flamingo Rd. Right lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836020/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
