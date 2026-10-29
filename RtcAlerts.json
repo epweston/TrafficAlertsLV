@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61052,
-    "Timestamp": "2026-10-28 05:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:07 AM, Oct 28 2026 Stalled vehicle on NB I-15\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
-    "UniqueId": 61053,
-    "Timestamp": "2026-10-28 05:17",
-    "IncidentType": "Other",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sammy Davis Junior Dr",
-    "Impact": "All lanes are blocked.",
-    "Notes": "5:17 AM, Oct 28 2026 Other on EB Desert Inn Rd\u00A0at Sammy Davis Junior Dr. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834289/attachment_0.jpg",
-    "Latitude": 36.129505100000003,
-    "Longitude": -115.1745394
-  },
-  {
     "UniqueId": 61054,
     "Timestamp": "2026-10-28 05:30",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836043/attachment_0.png",
     "Latitude": 35.978025199999998,
     "Longitude": -115.1551843
+  },
+  {
+    "UniqueId": 61143,
+    "Timestamp": "2026-10-29 05:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "SB I-15 right lanes and off-ramp to East Flamingo Rd blocked.",
+    "Notes": "5:11 AM, Oct 29 2026 Crash on SB I-15\u00A0to Flamingo Rd. SB I-15 right lanes and off-ramp to East Flamingo Rd blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836064/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
