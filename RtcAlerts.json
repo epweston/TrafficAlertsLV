@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61096,
-    "Timestamp": "2026-10-28 11:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Way",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:59 AM, Oct 28 2026 Crash on EB Roy Horn Way\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835207/attachment_0.jpg",
-    "Latitude": 36.066936900000002,
-    "Longitude": -115.2079792
-  },
-  {
     "UniqueId": 61097,
     "Timestamp": "2026-10-28 12:26",
     "IncidentType": "Crash",
@@ -1090,5 +1076,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836972/attachment_0.png",
     "Latitude": 36.188771000000003,
     "Longitude": -115.2599802
+  },
+  {
+    "UniqueId": 61175,
+    "Timestamp": "2026-10-29 11:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Spencer St",
+    "Impact": "",
+    "Notes": "11:57 AM, Oct 29 2026 Crash on WB Russell Rd\u00A0at Spencer St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837016/attachment_0.png",
+    "Latitude": 36.088034999999998,
+    "Longitude": -115.128404
+  },
+  {
+    "UniqueId": 61176,
+    "Timestamp": "2026-10-29 11:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 20",
+    "Impact": "Right shoulder.",
+    "Notes": "11:59 AM, Oct 29 2026 Stalled vehicle on NB I-15\u00A0at Mile 20. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837034/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
