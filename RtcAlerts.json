@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61074,
-    "Timestamp": "2026-10-28 07:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:43 AM, Oct 28 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834573/attachment_0.jpg",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 61075,
-    "Timestamp": "2026-10-28 07:54",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:54 AM, Oct 28 2026 Crash on SB Fort Apache Rd\u00A0at Alexander Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834580/attachment_0.png",
-    "Latitude": 36.233688299999997,
-    "Longitude": -115.2976158
-  },
-  {
-    "UniqueId": 61076,
-    "Timestamp": "2026-10-28 07:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:57 AM, Oct 28 2026 Crash on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834585/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 61077,
-    "Timestamp": "2026-10-28 07:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "",
-    "Notes": "7:57 AM, Oct 28 2026 Crash on SB I-15\u00A0at Sahara Ave off-ramp Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3834622/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 61078,
     "Timestamp": "2026-10-28 08:08",
     "IncidentType": "Stalled vehicle",
@@ -1132,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836284/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 61155,
+    "Timestamp": "2026-10-29 08:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Vegas Dr",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "8:00 AM, Oct 29 2026 Crash on WB Vegas Dr\u00A0at Buffalo Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836331/attachment_0.png",
+    "Latitude": 36.188771000000003,
+    "Longitude": -115.2599802
   }
 ]
