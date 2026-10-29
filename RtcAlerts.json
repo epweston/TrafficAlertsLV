@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61093,
-    "Timestamp": "2026-10-28 10:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:52 AM, Oct 28 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835094/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 61094,
     "Timestamp": "2026-10-28 11:21",
     "IncidentType": "Debris",
@@ -1048,5 +1034,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836823/attachment_0.png",
     "Latitude": 36.1437046,
     "Longitude": -115.2564448
+  },
+  {
+    "UniqueId": 61168,
+    "Timestamp": "2026-10-29 10:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:50 AM, Oct 29 2026 Crash on WB Desert Inn Rd\u00A0at Lamb Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836842/attachment_0.jpg",
+    "Latitude": 36.131116079999998,
+    "Longitude": -115.08306382000001
+  },
+  {
+    "UniqueId": 61169,
+    "Timestamp": "2026-10-29 10:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Alta Dr",
+    "Relationship": "before",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:52 AM, Oct 29 2026 Crash on WB Alta Dr\u00A0before Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836831/attachment_0.jpg",
+    "Latitude": 36.166238200000002,
+    "Longitude": -115.1925249
   }
 ]
