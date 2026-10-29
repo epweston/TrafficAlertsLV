@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61027,
-    "Timestamp": "2026-10-27 17:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:59 PM, Oct 27 2026 Crash on WB Sahara Ave\u00A0before Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834153/attachment_0.png",
-    "Latitude": 36.144195199999999,
-    "Longitude": -115.27905680000001
-  },
-  {
-    "UniqueId": 61029,
-    "Timestamp": "2026-10-27 18:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:17 PM, Oct 27 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/27/file_attachments/3834157/attachment_0.png",
-    "Latitude": 36.100031538544258,
-    "Longitude": -115.29390153647363
-  },
-  {
     "UniqueId": 61030,
     "Timestamp": "2026-10-27 18:29",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835895/attachment_0.png",
     "Latitude": 36.298464445139153,
     "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 61123,
+    "Timestamp": "2026-10-28 18:14",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Reno Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:14 PM, Oct 28 2026 Vehicle on fire on NB Fort Apache Rd\u00A0after Reno Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835897/attachment_0.png",
+    "Latitude": 36.096298599999997,
+    "Longitude": -115.2974361
   }
 ]
