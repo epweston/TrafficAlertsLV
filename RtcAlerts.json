@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61111,
-    "Timestamp": "2026-10-28 16:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:32 PM, Oct 28 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835860/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 61112,
     "Timestamp": "2026-10-28 16:51",
     "IncidentType": "Crash",
@@ -1230,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838489/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 61201,
+    "Timestamp": "2026-10-29 16:32",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "Windmill Ln",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:32 PM, Oct 29 2026 Vehicle on fire on WB Windmill Ln\u00A0at 215 Southern Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838508/attachment_0.png",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 61202,
+    "Timestamp": "2026-10-29 16:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Red Hills Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:34 PM, Oct 29 2026 Crash on NB Fort Apache Rd\u00A0at Red Hills Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838510/attachment_0.png",
+    "Latitude": 36.151011799999999,
+    "Longitude": -115.295265
   }
 ]
