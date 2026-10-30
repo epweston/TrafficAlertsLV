@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61123,
-    "Timestamp": "2026-10-28 18:14",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "after",
-    "CrossStreet": "Reno Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:14 PM, Oct 28 2026 Vehicle on fire on NB Fort Apache Rd\u00A0after Reno Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835897/attachment_0.png",
-    "Latitude": 36.096298599999997,
-    "Longitude": -115.2974361
-  },
-  {
     "UniqueId": 61124,
     "Timestamp": "2026-10-28 18:23",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838556/attachment_0.png",
     "Latitude": 36.240214888276881,
     "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 61217,
+    "Timestamp": "2026-10-29 18:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:13 PM, Oct 29 2026 Crash on SB I-11\u00A0before Jones Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838559/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
