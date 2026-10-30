@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61158,
-    "Timestamp": "2026-10-29 09:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:02 AM, Oct 29 2026 Crash on WB Desert Inn Rd\u00A0before Decatur Blvd. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.129981600000001,
-    "Longitude": -115.20814
-  },
-  {
-    "UniqueId": 61159,
-    "Timestamp": "2026-10-29 09:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:05 AM, Oct 29 2026 Crash on SB I-11\u00A0after Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836581/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 61160,
     "Timestamp": "2026-10-29 09:18",
     "IncidentType": "Crash",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839104/attachment_0.png",
     "Latitude": 36.078835617458502,
     "Longitude": -115.18136633150022
+  },
+  {
+    "UniqueId": 61256,
+    "Timestamp": "2026-10-30 09:08",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "9:08 AM, Oct 30 2026 Crash on NB I-15\u00A0before Cheyenne Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839113/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
