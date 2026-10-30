@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61133,
-    "Timestamp": "2026-10-28 20:28",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "after",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:28 PM, Oct 28 2026 Crash on WB Badura Ave\u00A0after Cimarron Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835917/attachment_0.png",
-    "Latitude": 36.061117099999997,
-    "Longitude": -115.2700859
-  },
-  {
-    "UniqueId": 61134,
-    "Timestamp": "2026-10-28 20:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:30 PM, Oct 28 2026 Crash on NB Lamb Blvd\u00A0at Lone Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835929/attachment_0.png",
-    "Latitude": 36.247336234578057,
-    "Longitude": -115.07996320305016
-  },
-  {
     "UniqueId": 61135,
     "Timestamp": "2026-10-28 21:46",
     "IncidentType": "Crash",
@@ -1398,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838621/attachment_0.png",
     "Latitude": 36.100972160686119,
     "Longitude": -115.14593481598045
+  },
+  {
+    "UniqueId": 61235,
+    "Timestamp": "2026-10-29 20:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:31 PM, Oct 29 2026 Stalled vehicle on SB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838602/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
