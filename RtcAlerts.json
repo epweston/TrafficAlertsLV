@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61131,
-    "Timestamp": "2026-10-28 19:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:31 PM, Oct 28 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835910/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 61132,
     "Timestamp": "2026-10-28 19:51",
     "IncidentType": "Crash",
@@ -1342,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838571/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 61229,
+    "Timestamp": "2026-10-29 19:27",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tonopah Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:27 PM, Oct 29 2026 Crash on EB Lake Mead Blvd\u00A0at Tonopah Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838572/attachment_0.png",
+    "Latitude": 36.195630700000002,
+    "Longitude": -115.16981850000001
   }
 ]
