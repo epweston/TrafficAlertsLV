@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61118,
-    "Timestamp": "2026-10-28 17:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:27 PM, Oct 28 2026 Crash on NB Rancho Dr\u00A0at Alexander Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835888/attachment_0.png",
-    "Latitude": 36.2312096,
-    "Longitude": -115.2248221
-  },
-  {
     "UniqueId": 61119,
     "Timestamp": "2026-10-28 17:32",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838525/attachment_0.png",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 61209,
+    "Timestamp": "2026-10-29 17:23",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "Mcguire St",
+    "Impact": "",
+    "Notes": "5:23 PM, Oct 29 2026 Crash on WB Craig Rd\u00A0after McGuire St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838545/attachment_0.png",
+    "Latitude": 36.240389299999997,
+    "Longitude": -115.0923105
   }
 ]
