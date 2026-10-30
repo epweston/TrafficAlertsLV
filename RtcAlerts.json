@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61124,
-    "Timestamp": "2026-10-28 18:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Joe W Brown Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:23 PM, Oct 28 2026 Stalled vehicle on EB Desert Inn Rd\u00A0before Joe W Brown Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.129755558420179,
-    "Longitude": -115.1459967953781
-  },
-  {
-    "UniqueId": 61125,
-    "Timestamp": "2026-10-28 18:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Galleria Dr",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:24 PM, Oct 28 2026 Crash on WB Galleria Dr\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835901/attachment_0.png",
-    "Latitude": 36.071592967703758,
-    "Longitude": -115.0366190019961
-  },
-  {
     "UniqueId": 61126,
     "Timestamp": "2026-10-28 18:34",
     "IncidentType": "Crash",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838559/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61218,
+    "Timestamp": "2026-10-29 18:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Arville St",
+    "Impact": "",
+    "Notes": "6:19 PM, Oct 29 2026 Crash on EB Sahara Ave\u00A0before Arville St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838560/attachment_0.png",
+    "Latitude": 36.144388499999998,
+    "Longitude": -115.19990439999999
   }
 ]
