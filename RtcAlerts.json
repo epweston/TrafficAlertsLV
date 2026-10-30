@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61120,
-    "Timestamp": "2026-10-28 17:46",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:46 PM, Oct 28 2026 Crash on EB Windmill Ln\u00A0after 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835900/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
-    "UniqueId": 61121,
-    "Timestamp": "2026-10-28 17:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:50 PM, Oct 28 2026 Crash on SB Valley View Blvd\u00A0at Twain Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835893/attachment_0.png",
-    "Latitude": 36.122773000000002,
-    "Longitude": -115.190242
-  },
-  {
-    "UniqueId": 61122,
-    "Timestamp": "2026-10-28 17:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Off ramp partially blocked.",
-    "Notes": "5:52 PM, Oct 28 2026 Crash on SB I-11 at Durango Dr off ramp. Off ramp partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835895/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
     "UniqueId": 61123,
     "Timestamp": "2026-10-28 18:14",
     "IncidentType": "Vehicle on fire",
@@ -1272,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838531/attachment_0.png",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 61213,
+    "Timestamp": "2026-10-29 17:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:55 PM, Oct 29 2026 Stalled vehicle on SB I-11\u00A0at Flamingo Rd.. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838550/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 61214,
+    "Timestamp": "2026-10-29 17:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:57 PM, Oct 29 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Russell Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838535/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
