@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61128,
-    "Timestamp": "2026-10-28 18:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "Grand Teton Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:52 PM, Oct 28 2026 Crash on NB Durango Dr\u00A0after Grand Teton Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835924/attachment_0.png",
-    "Latitude": 36.306577799999999,
-    "Longitude": -115.27855580000001
-  },
-  {
-    "UniqueId": 61129,
-    "Timestamp": "2026-10-28 18:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Antelope Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:53 PM, Oct 28 2026 Crash on WB Charleston Blvd\u00A0after Antelope Way. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835904/attachment_0.png",
-    "Latitude": 36.159176100000003,
-    "Longitude": -115.2509261
-  },
-  {
-    "UniqueId": 61130,
-    "Timestamp": "2026-10-28 18:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Kell Ln",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:57 PM, Oct 28 2026 Crash on NB Nellis Blvd\u00A0after Kell Ln. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835907/attachment_0.png",
-    "Latitude": 36.192530300000001,
-    "Longitude": -115.0622551
-  },
-  {
     "UniqueId": 61131,
     "Timestamp": "2026-10-28 19:31",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838586/attachment_0.png",
     "Latitude": 36.099959300000002,
     "Longitude": -115.22498229999999
+  },
+  {
+    "UniqueId": 61225,
+    "Timestamp": "2026-10-29 19:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:01 PM, Oct 29 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838569/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 61226,
+    "Timestamp": "2026-10-29 19:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:03 PM, Oct 29 2026 Crash on SB I-15\u00A0at Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838588/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
