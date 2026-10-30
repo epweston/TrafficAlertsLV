@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61203,
-    "Timestamp": "2026-10-29 16:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:41 PM, Oct 29 2026 Crash on EB Summerlin Pkwy\u00A0before Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838511/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
-    "UniqueId": 61204,
-    "Timestamp": "2026-10-29 16:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:43 PM, Oct 29 2026 Crash on SB I-15\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838520/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 61205,
     "Timestamp": "2026-10-29 16:48",
     "IncidentType": "Crash",
@@ -1146,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840645/attachment_0.jpg",
     "Latitude": 36.145842600000002,
     "Longitude": -115.10139150000001
+  },
+  {
+    "UniqueId": 61288,
+    "Timestamp": "2026-10-30 16:41",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:41 PM, Oct 30 2026 Crash on SB I-15\u00A0at 215 Southern Beltway. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840676/attachment_0.jpg",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
