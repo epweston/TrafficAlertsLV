@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61113,
-    "Timestamp": "2026-10-28 17:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:00 PM, Oct 28 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835870/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
-    "UniqueId": 61114,
-    "Timestamp": "2026-10-28 17:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Centennial Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Hualapai Way",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:00 PM, Oct 28 2026 Crash on WB Centennial Pkwy\u00A0after Hualapai Way. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835872/attachment_0.png",
-    "Latitude": 36.277436100000003,
-    "Longitude": -115.3150806
-  },
-  {
-    "UniqueId": 61115,
-    "Timestamp": "2026-10-28 17:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:03 PM, Oct 28 2026 Crash on SB Rancho Dr\u00A0before Washington Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835885/attachment_0.png",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
     "UniqueId": 61116,
     "Timestamp": "2026-10-28 17:14",
     "IncidentType": "Crash",
@@ -1272,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838515/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 61206,
+    "Timestamp": "2026-10-29 17:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:09 PM, Oct 29 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838538/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 61207,
+    "Timestamp": "2026-10-29 17:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:10 PM, Oct 29 2026 Stalled vehicle on SB I-15\u00A0at Speedway Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838540/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
