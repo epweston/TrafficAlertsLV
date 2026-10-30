@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61200,
-    "Timestamp": "2026-10-29 16:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:20 PM, Oct 29 2026 Stalled vehicle on WB 215 Southern Beltway \u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838489/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
-    "UniqueId": 61201,
-    "Timestamp": "2026-10-29 16:32",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "WB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:32 PM, Oct 29 2026 Vehicle on fire on WB Windmill Ln\u00A0at 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838508/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
-    "UniqueId": 61202,
-    "Timestamp": "2026-10-29 16:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Red Hills Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:34 PM, Oct 29 2026 Crash on NB Fort Apache Rd\u00A0at Red Hills Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838510/attachment_0.png",
-    "Latitude": 36.151011799999999,
-    "Longitude": -115.295265
-  },
-  {
     "UniqueId": 61203,
     "Timestamp": "2026-10-29 16:41",
     "IncidentType": "Crash",
@@ -1174,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840669/attachment_0.jpg",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 61286,
+    "Timestamp": "2026-10-30 16:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:29 PM, Oct 30 2026 Crash on EB Sahara Ave\u00A0before Boulder Hwy. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840645/attachment_0.jpg",
+    "Latitude": 36.145842600000002,
+    "Longitude": -115.10139150000001
   }
 ]
