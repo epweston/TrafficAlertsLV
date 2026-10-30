@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61161,
-    "Timestamp": "2026-10-29 09:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Left shoulder.",
-    "Notes": "9:36 AM, Oct 29 2026 Crash on NB 215 Southern Beltway\u00A0at Durango Dr off-ramp. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836605/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
-    "UniqueId": 61162,
-    "Timestamp": "2026-10-29 09:41",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left shoulder",
-    "Notes": "9:41 AM, Oct 29 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836694/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 61163,
-    "Timestamp": "2026-10-29 09:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:43 AM, Oct 29 2026 Crash on NB Durango Dr\u00A0before Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836675/attachment_0.png",
-    "Latitude": 36.085291499999997,
-    "Longitude": -115.27931080000001
-  },
-  {
     "UniqueId": 61164,
     "Timestamp": "2026-10-29 10:04",
     "IncidentType": "Crash",
@@ -1314,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839162/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 61259,
+    "Timestamp": "2026-10-30 09:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:59 AM, Oct 30 2026 Crash on NB Decatur Blvd\u00A0before Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839237/attachment_0.jpg",
+    "Latitude": 36.100956099999998,
+    "Longitude": -115.2080821
   }
 ]
