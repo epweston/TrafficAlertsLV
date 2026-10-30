@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61155,
-    "Timestamp": "2026-10-29 08:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Vegas Dr",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:00 AM, Oct 29 2026 Crash on WB Vegas Dr\u00A0at Buffalo Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836331/attachment_0.png",
-    "Latitude": 36.188771000000003,
-    "Longitude": -115.2599802
-  },
-  {
-    "UniqueId": 61156,
-    "Timestamp": "2026-10-29 08:09",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "8:09 AM, Oct 29 2026 Crash on WB Cheyenne Ave\u00A0after I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836336/attachment_0.jpg",
-    "Latitude": 36.217665489308381,
-    "Longitude": -115.12400501844569
-  },
-  {
-    "UniqueId": 61157,
-    "Timestamp": "2026-10-29 08:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:45 AM, Oct 29 2026 Crash on SB I-11\u00A0at Jones Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836413/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 61158,
     "Timestamp": "2026-10-29 09:02",
     "IncidentType": "Crash",
@@ -1342,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839005/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 61255,
+    "Timestamp": "2026-10-30 08:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:54 AM, Oct 30 2026 Crash on SB I-15 Collector Distributor\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839104/attachment_0.png",
+    "Latitude": 36.078835617458502,
+    "Longitude": -115.18136633150022
   }
 ]
