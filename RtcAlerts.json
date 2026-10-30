@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61119,
-    "Timestamp": "2026-10-28 17:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Cambridge St",
-    "Relationship": "before",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:32 PM, Oct 28 2026 Crash on SB Cambridge St\u00A0before Twain Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835891/attachment_0.png",
-    "Latitude": 36.122179600000003,
-    "Longitude": -115.1417946
-  },
-  {
     "UniqueId": 61120,
     "Timestamp": "2026-10-28 17:46",
     "IncidentType": "Crash",
@@ -1244,5 +1230,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838545/attachment_0.png",
     "Latitude": 36.240389299999997,
     "Longitude": -115.0923105
+  },
+  {
+    "UniqueId": 61210,
+    "Timestamp": "2026-10-29 17:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:34 PM, Oct 29 2026 Crash on SB Nellis Blvd\u00A0after Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838547/attachment_0.png",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
+  },
+  {
+    "UniqueId": 61211,
+    "Timestamp": "2026-10-29 17:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:35 PM, Oct 29 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838529/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 61212,
+    "Timestamp": "2026-10-29 17:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:37 PM, Oct 29 2026 Stalled vehicle on SB I-15\u00A0to Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838531/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
