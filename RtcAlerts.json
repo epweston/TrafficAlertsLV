@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61192,
-    "Timestamp": "2026-10-29 14:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Tenaya Way",
-    "Relationship": "after",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:40 PM, Oct 29 2026 Crash on NB Tenaya Way\u00A0after Cheyenne Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837941/attachment_0.png",
-    "Latitude": 36.218143099999999,
-    "Longitude": -115.2513635
-  },
-  {
     "UniqueId": 61193,
     "Timestamp": "2026-10-29 14:43",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840584/attachment_0.jpg",
     "Latitude": 36.151616300000001,
     "Longitude": -115.24343039999999
+  },
+  {
+    "UniqueId": 61276,
+    "Timestamp": "2026-10-30 14:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:39 PM, Oct 30 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840564/attachment_0.jpg",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
