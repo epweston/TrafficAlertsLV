@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61152,
-    "Timestamp": "2026-10-29 06:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:55 AM, Oct 29 2026 Crash on NB Paradise Rd\u00A0before Flamingo Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836228/attachment_0.png",
-    "Latitude": 36.114312130000002,
-    "Longitude": -115.15402971
-  },
-  {
-    "UniqueId": 61153,
-    "Timestamp": "2026-10-29 07:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Eb Flamingo Rd",
-    "Impact": "SB I-15 right lanes and East Flamingo off-ramp blocked.",
-    "Notes": "7:01 AM, Oct 29 2026 Crash on SB I-15\u00A0to EB Flamingo Rd off-ramp. SB I-15 right lanes and East Flamingo off-ramp blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836210/attachment_0.jpg",
-    "Latitude": 36.114692900000001,
-    "Longitude": -115.25693800000001
-  },
-  {
-    "UniqueId": 61154,
-    "Timestamp": "2026-10-29 07:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "7:27 AM, Oct 29 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3836284/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 61155,
     "Timestamp": "2026-10-29 08:00",
     "IncidentType": "Crash",
@@ -1342,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3838893/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 61252,
+    "Timestamp": "2026-10-30 07:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Koval Ln",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:25 AM, Oct 30 2026 Crash on NB Koval Ln\u00A0at Flamingo Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3838925/attachment_0.jpg",
+    "Latitude": 36.114596900000002,
+    "Longitude": -115.1641267
   }
 ]
