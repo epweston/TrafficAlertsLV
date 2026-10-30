@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61137,
-    "Timestamp": "2026-10-28 22:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:52 PM, Oct 28 2026 Stalled vehicle on NB I-11\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/28/file_attachments/3835939/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
     "UniqueId": 61138,
     "Timestamp": "2026-10-29 02:17",
     "IncidentType": "Police activity",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838633/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 61241,
+    "Timestamp": "2026-10-29 22:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Middle lane blocked.",
+    "Notes": "10:46 PM, Oct 29 2026 Crash on NB 215 Western Beltway\u00A0before Russell Rd. Middle lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838607/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
