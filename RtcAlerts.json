@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61186,
-    "Timestamp": "2026-10-29 13:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:48 PM, Oct 29 2026 Crash on EB Cheyenne Ave\u00A0at Cimarron Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837387/attachment_0.png",
-    "Latitude": 36.218273000000003,
-    "Longitude": -115.265051
-  },
-  {
-    "UniqueId": 61187,
-    "Timestamp": "2026-10-29 13:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:57 PM, Oct 29 2026 Crash on NB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837588/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 61188,
-    "Timestamp": "2026-10-29 13:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:59 PM, Oct 29 2026 Crash on SB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3837654/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 61189,
     "Timestamp": "2026-10-29 14:19",
     "IncidentType": "Crash",
@@ -1132,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840512/attachment_0.png",
     "Latitude": 36.181433900000002,
     "Longitude": -115.0622742
+  },
+  {
+    "UniqueId": 61270,
+    "Timestamp": "2026-10-30 13:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:54 PM, Oct 30 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.21922790273323,
+    "Longitude": -115.32768125268741
   }
 ]
