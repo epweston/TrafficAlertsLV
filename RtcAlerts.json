@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61198,
-    "Timestamp": "2026-10-29 15:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:59 PM, Oct 29 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838484/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
     "UniqueId": 61199,
     "Timestamp": "2026-10-29 16:07",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840631/attachment_0.jpg",
     "Latitude": 36.024537892813889,
     "Longitude": -115.08493065834047
+  },
+  {
+    "UniqueId": 61283,
+    "Timestamp": "2026-10-30 15:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "3:59 PM, Oct 30 2026 Stalled vehicle on SB I-15\u00A0after Washington Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840662/attachment_0.jpg",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
