@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61216,
-    "Timestamp": "2026-10-29 18:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:03 PM, Oct 29 2026 Crash on EB Craig Rd\u00A0before I-15. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838556/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
     "UniqueId": 61217,
     "Timestamp": "2026-10-29 18:13",
     "IncidentType": "Crash",
@@ -1104,5 +1090,19 @@
     "ImagePath": "",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 61299,
+    "Timestamp": "2026-10-30 18:06",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:06 PM, Oct 30 2026 Crash on NB I-15 (CD Rd)\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840697/attachment_0.jpg",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
