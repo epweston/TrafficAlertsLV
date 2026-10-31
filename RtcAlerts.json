@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61242,
-    "Timestamp": "2026-10-29 23:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:08 PM, Oct 29 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838637/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 61243,
-    "Timestamp": "2026-10-29 23:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Aliante Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:28 PM, Oct 29 2026 Crash on NB Aliante Pkwy\u00A0before 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838639/attachment_0.png",
-    "Latitude": 36.283791600000001,
-    "Longitude": -115.17734640000001
-  },
-  {
-    "UniqueId": 61244,
-    "Timestamp": "2026-10-29 23:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Joe W Brown Dr",
-    "Relationship": "after",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:44 PM, Oct 29 2026 Crash on NB Joe W Brown Dr\u00A0after Desert Inn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838640/attachment_0.png",
-    "Latitude": 36.129843100000002,
-    "Longitude": -115.14594150000001
-  },
-  {
-    "UniqueId": 61245,
-    "Timestamp": "2026-10-29 23:53",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:53 PM, Oct 29 2026 Police activity on EB 215 Southern Beltway\u00A0after Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838641/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 61246,
     "Timestamp": "2026-10-30 02:00",
     "IncidentType": "Crash",
@@ -950,5 +894,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840746/attachment_0.jpg",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 61312,
+    "Timestamp": "2026-10-30 23:56",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:56 PM, Oct 30 2026 Crash on SB Martin L King Blvd\u00A0at Alexander Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840737/attachment_0.png",
+    "Latitude": 36.2320347,
+    "Longitude": -115.1619213
   }
 ]
