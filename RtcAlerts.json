@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61279,
-    "Timestamp": "2026-10-30 14:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:53 PM, Oct 30 2026 Stalled vehicle on SB I-11\u00A0at Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840598/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
     "UniqueId": 61280,
     "Timestamp": "2026-10-30 15:01",
     "IncidentType": "Crash",
@@ -936,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841017/attachment_0.jpg",
     "Latitude": 36.01340138174109,
     "Longitude": -115.18049792344952
+  },
+  {
+    "UniqueId": 61349,
+    "Timestamp": "2026-10-31 14:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "2:51 PM, Oct 31 2026 Crash on EB Warm Springs Rd\u00A0after Las Vegas Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841018/attachment_0.jpg",
+    "Latitude": 36.056922882111564,
+    "Longitude": -115.17233848571777
   }
 ]
