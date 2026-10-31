@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61259,
-    "Timestamp": "2026-10-30 09:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:59 AM, Oct 30 2026 Crash on NB Decatur Blvd\u00A0before Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3839237/attachment_0.jpg",
-    "Latitude": 36.100956099999998,
-    "Longitude": -115.2080821
-  },
-  {
     "UniqueId": 61260,
     "Timestamp": "2026-10-30 11:16",
     "IncidentType": "Stalled vehicle",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840818/attachment_0.jpg",
     "Latitude": 36.217444759799662,
     "Longitude": -115.23409366607666
+  },
+  {
+    "UniqueId": 61336,
+    "Timestamp": "2026-10-31 10:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:13 AM, Oct 31 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0before 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840824/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
