@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61246,
-    "Timestamp": "2026-10-30 02:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:00 AM, Oct 30 2026 Crash on EB Cactus Ave\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3838648/attachment_0.jpg",
-    "Latitude": 35.999254200000003,
-    "Longitude": -115.1726451
-  },
-  {
     "UniqueId": 61247,
     "Timestamp": "2026-10-30 05:42",
     "IncidentType": "Crash",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840744/attachment_0.png",
     "Latitude": 36.176219719999999,
     "Longitude": -115.19255696000001
+  },
+  {
+    "UniqueId": 61321,
+    "Timestamp": "2026-10-31 04:21",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:21 AM, Oct 31 2026 Vehicle on fire on NB Martin L King Blvd\u00A0before Cheyenne Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840759/attachment_0.png",
+    "Latitude": 36.217924657099459,
+    "Longitude": -115.16123683006892
   }
 ]
