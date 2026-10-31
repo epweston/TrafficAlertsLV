@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61262,
-    "Timestamp": "2026-10-30 12:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Aliante Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "12:27 PM, Oct 30 2026 Crash on SB Aliante Pkwy\u00A0before 215 Northern Beltway. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840407/attachment_0.jpg",
-    "Latitude": 36.283791600000001,
-    "Longitude": -115.17734640000001
-  },
-  {
-    "UniqueId": 61263,
-    "Timestamp": "2026-10-30 12:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Elkhorn Rd",
-    "Relationship": "over",
-    "CrossStreet": "I-11",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "12:30 PM, Oct 30 2026 Crash on EB Elkhorn Rd\u00A0over I-11. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840408/attachment_0.jpg",
-    "Latitude": 36.292112099999997,
-    "Longitude": -115.317025
-  },
-  {
-    "UniqueId": 61264,
-    "Timestamp": "2026-10-30 13:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "before",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:02 PM, Oct 30 2026 Crash on NB Buffalo Dr\u00A0before Vegas Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840443/attachment_0.jpg",
-    "Latitude": 36.188771000000003,
-    "Longitude": -115.2599802
-  },
-  {
     "UniqueId": 61265,
     "Timestamp": "2026-10-30 13:08",
     "IncidentType": "Crash",
@@ -1076,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840991/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 61342,
+    "Timestamp": "2026-10-31 12:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "12:58 PM, Oct 31 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Windmill Ln. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841003/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
