@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61209,
-    "Timestamp": "2026-10-29 17:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Mcguire St",
-    "Impact": "",
-    "Notes": "5:23 PM, Oct 29 2026 Crash on WB Craig Rd\u00A0after McGuire St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838545/attachment_0.png",
-    "Latitude": 36.240389299999997,
-    "Longitude": -115.0923105
-  },
-  {
     "UniqueId": 61210,
     "Timestamp": "2026-10-29 17:34",
     "IncidentType": "Crash",
@@ -1132,5 +1118,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840681/attachment_0.png",
     "Latitude": 36.21922790273323,
     "Longitude": -115.32768125268741
+  },
+  {
+    "UniqueId": 61294,
+    "Timestamp": "2026-10-30 17:21",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sr170 - Riverside Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:21 PM, Oct 30 2026 Stalled vehicle on SB I-15\u00A0before SR170 - Riverside Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840691/attachment_0.jpg",
+    "Latitude": 36.185387800000001,
+    "Longitude": -115.1826497
+  },
+  {
+    "UniqueId": 61295,
+    "Timestamp": "2026-10-30 17:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "5:24 PM, Oct 30 2026 Crash on SB Rancho Dr\u00A0at Lake Mead Blvd. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840682/attachment_0.jpg",
+    "Latitude": 36.200338999381579,
+    "Longitude": -115.19667148590089
   }
 ]
