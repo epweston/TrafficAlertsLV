@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61281,
-    "Timestamp": "2026-10-30 15:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:15 PM, Oct 30 2026 Stalled vehicle on SB I-11\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840629/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 61282,
-    "Timestamp": "2026-10-30 15:37",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Off Ramp left lane blocked.",
-    "Notes": "3:37 PM, Oct 30 2026 Crash on WB 215 Southern Beltway\u00A0at Green Valley Pkwy. Off Ramp left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840631/attachment_0.jpg",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 61283,
-    "Timestamp": "2026-10-30 15:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:59 PM, Oct 30 2026 Stalled vehicle on SB I-15\u00A0after Washington Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840662/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 61284,
     "Timestamp": "2026-10-30 16:10",
     "IncidentType": "Stalled vehicle",
@@ -978,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841029/attachment_0.jpg",
     "Latitude": 36.056930899999998,
     "Longitude": -115.1275861
+  },
+  {
+    "UniqueId": 61354,
+    "Timestamp": "2026-10-31 16:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:03 PM, Oct 31 2026 Crash on SB I-11\u00A0at Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841030/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
