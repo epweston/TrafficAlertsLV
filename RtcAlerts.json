@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61270,
-    "Timestamp": "2026-10-30 13:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:54 PM, Oct 30 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
-    "UniqueId": 61271,
-    "Timestamp": "2026-10-30 14:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:01 PM, Oct 30 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after I-11. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840522/attachment_0.png",
-    "Latitude": 36.277381871493823,
-    "Longitude": -115.26709154723478
-  },
-  {
-    "UniqueId": 61272,
-    "Timestamp": "2026-10-30 14:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonneville Ave",
-    "Relationship": "before",
-    "CrossStreet": "Grand Central Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:04 PM, Oct 30 2026 Crash on EB Bonneville Ave\u00A0before Grand Central Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840525/attachment_0.png",
-    "Latitude": 36.166670614356832,
-    "Longitude": -115.15533862505639
-  },
-  {
-    "UniqueId": 61273,
-    "Timestamp": "2026-10-30 14:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "2:06 PM, Oct 30 2026 Crash on NB Rancho Dr\u00A0before Rainbow Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840570/attachment_0.jpg",
-    "Latitude": 36.250773600000002,
-    "Longitude": -115.2428853
-  },
-  {
     "UniqueId": 61274,
     "Timestamp": "2026-10-30 14:25",
     "IncidentType": "Stalled vehicle",
@@ -992,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841007/attachment_0.png",
     "Latitude": 36.0889928,
     "Longitude": -115.1369655
+  },
+  {
+    "UniqueId": 61344,
+    "Timestamp": "2026-10-31 14:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:11 PM, Oct 31 2026 Crash on SB Decatur Blvd\u00A0after 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841010/attachment_0.png",
+    "Latitude": 36.269200300000001,
+    "Longitude": -115.2071053
   }
 ]
