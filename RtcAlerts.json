@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61280,
-    "Timestamp": "2026-10-30 15:01",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Tunnel",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lanes blocked. Expect Delays",
-    "Notes": "3:01 PM, Oct 30 2026 Crash on EB Desert Inn Tunnel before Paradise Rd . Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840600/attachment_0.jpg",
-    "Latitude": 36.145450099999998,
-    "Longitude": -115.1539128
-  },
-  {
     "UniqueId": 61281,
     "Timestamp": "2026-10-30 15:15",
     "IncidentType": "Stalled vehicle",
@@ -950,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840985/attachment_0.png",
     "Latitude": 36.085683500000002,
     "Longitude": -115.0867511
+  },
+  {
+    "UniqueId": 61351,
+    "Timestamp": "2026-10-31 15:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rampart Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:00 PM, Oct 31 2026 Crash on WB Lake Mead Blvd\u00A0after Rampart Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841027/attachment_0.png",
+    "Latitude": 36.199951899999988,
+    "Longitude": -115.28239290000001
   }
 ]
