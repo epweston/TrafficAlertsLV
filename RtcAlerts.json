@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61228,
-    "Timestamp": "2026-10-29 19:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:22 PM, Oct 29 2026 Stalled vehicle on SB I-11\u00A0to Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838571/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 61229,
     "Timestamp": "2026-10-29 19:27",
     "IncidentType": "Crash",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840711/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 61304,
+    "Timestamp": "2026-10-30 19:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Off ramp left lane blocked.",
+    "Notes": "7:19 PM, Oct 30 2026 Crash on SB I-15\u00A0at Charleston Blvd. Off ramp left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840713/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
