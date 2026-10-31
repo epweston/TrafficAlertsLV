@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61208,
-    "Timestamp": "2026-10-29 17:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:21 PM, Oct 29 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/29/file_attachments/3838525/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 61209,
     "Timestamp": "2026-10-29 17:23",
     "IncidentType": "Crash",
@@ -1118,5 +1104,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840688/attachment_0.png",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 61292,
+    "Timestamp": "2026-10-30 17:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:16 PM, Oct 30 2026 Crash on NB I-15\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840680/attachment_0.jpg",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 61293,
+    "Timestamp": "2026-10-30 17:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:17 PM, Oct 30 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840681/attachment_0.png",
+    "Latitude": 36.21922790273323,
+    "Longitude": -115.32768125268741
   }
 ]
