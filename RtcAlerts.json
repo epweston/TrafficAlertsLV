@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61314,
-    "Timestamp": "2026-10-31 00:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "from",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:37 AM, Oct 31 2026 Crash on NB I-11\u00A0from Horizon Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840752/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 61315,
     "Timestamp": "2026-10-31 00:43",
     "IncidentType": "Crash",
@@ -838,5 +824,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841086/attachment_0.jpg",
     "Latitude": 36.17462138583204,
     "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 61375,
+    "Timestamp": "2026-11-01 00:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "12:32 AM, Nov 01 2026 Crash on SB I-11\u00A0at Durango Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841079/attachment_0.png",
+    "Latitude": 36.298464445139153,
+    "Longitude": -115.28598403888641
   }
 ]
