@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61305,
-    "Timestamp": "2026-10-30 19:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:31 PM, Oct 30 2026 Crash on WB 215 Southern Beltway\u00A0at Pecos Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840716/attachment_0.jpg",
-    "Latitude": 36.166761536436809,
-    "Longitude": -115.0982451648641
-  },
-  {
     "UniqueId": 61306,
     "Timestamp": "2026-10-30 19:51",
     "IncidentType": "Crash",
@@ -810,5 +796,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841043/attachment_0.png",
     "Latitude": 36.100889813598712,
     "Longitude": -115.050979239851
+  },
+  {
+    "UniqueId": 61364,
+    "Timestamp": "2026-10-31 19:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:32 PM, Oct 31 2026 Crash on NB Jones Blvd\u00A0at 215 Northern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841055/attachment_0.png",
+    "Latitude": 36.1702978,
+    "Longitude": -115.2241887
   }
 ]
