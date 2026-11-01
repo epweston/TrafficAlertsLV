@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61340,
-    "Timestamp": "2026-10-31 11:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:37 AM, Oct 31 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840965/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 61341,
     "Timestamp": "2026-10-31 12:09",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841244/attachment_0.jpg",
     "Latitude": 36.092524900000001,
     "Longitude": -115.23405080000001
+  },
+  {
+    "UniqueId": 61447,
+    "Timestamp": "2026-11-01 11:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:37 AM, Nov 01 2026 Crash on SB I-15\u00A0at Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841267/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
