@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61327,
-    "Timestamp": "2026-10-31 06:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "6:39 AM, Oct 31 2026 Crash on NB Buffalo Dr\u00A0at Blue Diamond Rd. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840827/attachment_0.png",
-    "Latitude": 36.020207000000013,
-    "Longitude": -115.2610983
-  },
-  {
-    "UniqueId": 61328,
-    "Timestamp": "2026-10-31 06:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:43 AM, Oct 31 2026 Crash on SB Boulder Hwy\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840828/attachment_0.png",
-    "Latitude": 36.135517917695289,
-    "Longitude": -115.09028440626055
-  },
-  {
-    "UniqueId": 61329,
-    "Timestamp": "2026-10-31 06:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:51 AM, Oct 31 2026 Stalled vehicle on SB I-11\u00A0before Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840810/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
-    "UniqueId": 61330,
-    "Timestamp": "2026-10-31 07:01",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:01 AM, Oct 31 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840830/attachment_0.jpg",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 61331,
     "Timestamp": "2026-10-31 07:38",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1328,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841187/attachment_0.jpg",
     "Latitude": 35.961795100000003,
     "Longitude": -115.18179547
+  },
+  {
+    "UniqueId": 61426,
+    "Timestamp": "2026-11-01 06:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Intersection partially blocked",
+    "Notes": "6:59 AM, Nov 01 2026 Crash on EB Charleston Blvd\u00A0at Buffalo Dr. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841172/attachment_0.png",
+    "Latitude": 36.159044199999997,
+    "Longitude": -115.2623966
   }
 ]
