@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61295,
-    "Timestamp": "2026-10-30 17:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lanes blocked. Expect Delays",
-    "Notes": "5:24 PM, Oct 30 2026 Crash on SB Rancho Dr\u00A0at Lake Mead Blvd. Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840682/attachment_0.jpg",
-    "Latitude": 36.200338999381579,
-    "Longitude": -115.19667148590089
-  },
-  {
-    "UniqueId": 61296,
-    "Timestamp": "2026-10-30 17:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:26 PM, Oct 30 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840694/attachment_0.jpg",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
     "UniqueId": 61297,
     "Timestamp": "2026-10-30 17:58",
     "IncidentType": "Crash",
@@ -838,5 +810,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841033/attachment_0.png",
     "Latitude": 36.114511499999999,
     "Longitude": -115.2248991
+  },
+  {
+    "UniqueId": 61356,
+    "Timestamp": "2026-10-31 17:24",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Gowan Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:24 PM, Oct 31 2026 Crash on NB Pecos Rd\u00A0at Gowan Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841046/attachment_0.jpg",
+    "Latitude": 36.225083400000003,
+    "Longitude": -115.0986394
   }
 ]
