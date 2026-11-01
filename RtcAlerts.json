@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61300,
-    "Timestamp": "2026-10-30 18:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:17 PM, Oct 30 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840706/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 61301,
-    "Timestamp": "2026-10-30 18:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "after",
-    "CrossStreet": "Searchlight",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:27 PM, Oct 30 2026 Crash on SB US-95\u00A0after Searchlight . Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840708/attachment_0.jpg",
-    "Latitude": 36.167716400000003,
-    "Longitude": -115.04541330000001
-  },
-  {
-    "UniqueId": 61302,
-    "Timestamp": "2026-10-30 18:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "6:34 PM, Oct 30 2026 Crash on SB I-15 \u00A0at Sahara Ave. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/30/file_attachments/3840710/attachment_0.jpg",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 61303,
     "Timestamp": "2026-10-30 19:18",
     "IncidentType": "Crash",
@@ -810,5 +768,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841049/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 61359,
+    "Timestamp": "2026-10-31 18:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:34 PM, Oct 31 2026 Crash on EB Tropicana Ave\u00A0after I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841037/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
