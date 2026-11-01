@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61334,
-    "Timestamp": "2026-10-31 09:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Via Del Nord St",
-    "Impact": "",
-    "Notes": "9:30 AM, Oct 31 2026 Crash on EB Flamingo Rd\u00A0after Via del Nord St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840839/attachment_0.jpg",
-    "Latitude": 36.1148338,
-    "Longitude": -115.17545850000001
-  },
-  {
     "UniqueId": 61335,
     "Timestamp": "2026-10-31 09:46",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 61438,
+    "Timestamp": "2026-11-01 09:36",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "over",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:36 AM, Nov 01 2026 Crash on EB Flamingo Rd\u00A0over I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841203/attachment_0.png",
+    "Latitude": 36.114442114154052,
+    "Longitude": -115.18066236782498
   }
 ]
