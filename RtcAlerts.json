@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61338,
-    "Timestamp": "2026-10-31 11:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Simmons St",
-    "Impact": "",
-    "Notes": "11:11 AM, Oct 31 2026 Crash on EB Craig Rd\u00A0before Simmons St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840958/attachment_0.jpg",
-    "Latitude": 36.239531900000003,
-    "Longitude": -115.18004790000001
-  },
-  {
-    "UniqueId": 61339,
-    "Timestamp": "2026-10-31 11:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "11:16 AM, Oct 31 2026 Crash on EB Bonanza Rd\u00A0before Nellis Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840960/attachment_0.jpg",
-    "Latitude": 36.174032455275999,
-    "Longitude": -115.06216409024444
-  },
-  {
     "UniqueId": 61340,
     "Timestamp": "2026-10-31 11:37",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841222/attachment_0.png",
     "Latitude": 36.1009891,
     "Longitude": -115.1565628
+  },
+  {
+    "UniqueId": 61446,
+    "Timestamp": "2026-11-01 11:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Hacienda Ave",
+    "Relationship": "after",
+    "CrossStreet": "Torrey Pines Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:19 AM, Nov 01 2026 Crash on WB Hacienda Ave\u00A0after Torrey Pines Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841244/attachment_0.jpg",
+    "Latitude": 36.092524900000001,
+    "Longitude": -115.23405080000001
   }
 ]
