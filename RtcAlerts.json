@@ -1104,5 +1104,33 @@
     "ImagePath": "",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 61400,
+    "Timestamp": "2026-11-01 02:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:07 AM, Nov 01 2026 Crash on SB I-11\u00A0at Rancho Dr. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 61401,
+    "Timestamp": "2026-11-01 02:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:08 AM, Nov 01 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Durango Dr. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.066203023950436,
+    "Longitude": -115.27945518493652
   }
 ]
