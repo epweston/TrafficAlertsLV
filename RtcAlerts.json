@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61322,
-    "Timestamp": "2026-10-31 04:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bridger Ave",
-    "Relationship": "at",
-    "CrossStreet": "Casino Ctr Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:39 AM, Oct 31 2026 Crash on EB Bridger Ave\u00A0at Casino Ctr Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840762/attachment_0.jpg",
-    "Latitude": 36.168354899999997,
-    "Longitude": -115.1455577
-  },
-  {
     "UniqueId": 61323,
     "Timestamp": "2026-10-31 04:43",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841130/attachment_0.png",
     "Latitude": 36.235863999999999,
     "Longitude": -115.0622212
+  },
+  {
+    "UniqueId": 61415,
+    "Timestamp": "2026-11-01 04:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:41 AM, Nov 01 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Durango Dr. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.066203023950436,
+    "Longitude": -115.27945518493652
   }
 ]
