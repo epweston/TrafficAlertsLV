@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61343,
-    "Timestamp": "2026-10-31 13:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:41 PM, Oct 31 2026 Crash on WB Russell Rd\u00A0after Maryland Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841007/attachment_0.png",
-    "Latitude": 36.0889928,
-    "Longitude": -115.1369655
-  },
-  {
     "UniqueId": 61344,
     "Timestamp": "2026-10-31 14:11",
     "IncidentType": "Crash",
@@ -1608,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841283/attachment_0.png",
     "Latitude": 36.1703069,
     "Longitude": -115.14395020000001
+  },
+  {
+    "UniqueId": 61458,
+    "Timestamp": "2026-11-01 13:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:47 PM, Nov 01 2026 Crash on NB Durango Dr\u00A0before Sunset Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841284/attachment_0.png",
+    "Latitude": 36.070365750000001,
+    "Longitude": -115.27946056
+  },
+  {
+    "UniqueId": 61459,
+    "Timestamp": "2026-11-01 13:50",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pollock Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "1:50 PM, Nov 01 2026 Crash on EB Silverado Ranch Blvd\u00A0at Pollock Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841296/attachment_0.jpg",
+    "Latitude": 36.013315800000001,
+    "Longitude": -115.1457013
   }
 ]
