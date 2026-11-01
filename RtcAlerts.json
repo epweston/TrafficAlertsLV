@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61331,
-    "Timestamp": "2026-10-31 07:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:38 AM, Oct 31 2026 Stalled vehicle on SB I-11\u00A0after Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840833/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 61332,
     "Timestamp": "2026-10-31 07:49",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841193/attachment_0.jpg",
     "Latitude": 36.196000602251971,
     "Longitude": -115.24454390895161
+  },
+  {
+    "UniqueId": 61430,
+    "Timestamp": "2026-11-01 07:37",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Civic Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "7:37 AM, Nov 01 2026 Crash on NB Civic Center Dr\u00A0at Cheyenne Ave. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841194/attachment_0.png",
+    "Latitude": 36.217594200000001,
+    "Longitude": -115.12107260000001
   }
 ]
