@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61321,
-    "Timestamp": "2026-10-31 04:21",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:21 AM, Oct 31 2026 Vehicle on fire on NB Martin L King Blvd\u00A0before Cheyenne Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840759/attachment_0.png",
-    "Latitude": 36.217924657099459,
-    "Longitude": -115.16123683006892
-  },
-  {
     "UniqueId": 61322,
     "Timestamp": "2026-10-31 04:39",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841128/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 61413,
+    "Timestamp": "2026-11-01 04:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:27 AM, Nov 01 2026 Crash on SB I-11\u00A0at Las Vegas Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841129/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
