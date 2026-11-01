@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61337,
-    "Timestamp": "2026-10-31 10:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:53 AM, Oct 31 2026 Crash on EB Charleston Blvd\u00A0before Lamb Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840952/attachment_0.png",
-    "Latitude": 36.158944221110033,
-    "Longitude": -115.08028507232667
-  },
-  {
     "UniqueId": 61338,
     "Timestamp": "2026-10-31 11:11",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841240/attachment_0.png",
     "Latitude": 36.057356226354429,
     "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 61445,
+    "Timestamp": "2026-11-01 10:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Kelch Dr",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "10:57 AM, Nov 01 2026 Crash on WB Tropicana Ave\u00A0at Kelch Dr. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841222/attachment_0.png",
+    "Latitude": 36.1009891,
+    "Longitude": -115.1565628
   }
 ]
