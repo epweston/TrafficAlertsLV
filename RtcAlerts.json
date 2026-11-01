@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61341,
-    "Timestamp": "2026-10-31 12:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:09 PM, Oct 31 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840991/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 61342,
     "Timestamp": "2026-10-31 12:58",
     "IncidentType": "Stalled vehicle",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841259/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 61454,
+    "Timestamp": "2026-11-01 12:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right blocked.",
+    "Notes": "12:18 PM, Nov 01 2026 Crash on EB Flamingo Rd\u00A0before Decatur Blvd. Right blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841270/attachment_0.png",
+    "Latitude": 36.115562400000009,
+    "Longitude": -115.208167
   }
 ]
