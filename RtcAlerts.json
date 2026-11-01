@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61333,
-    "Timestamp": "2026-10-31 09:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "5Th St All Lanes Are",
-    "Impact": "",
-    "Notes": "9:12 AM, Oct 31 2026 Crash on EB Craig Rd\u00A0at 5th St. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3840836/attachment_0.jpg",
-    "Latitude": 36.2397049,
-    "Longitude": -115.13429979999999
-  },
-  {
     "UniqueId": 61334,
     "Timestamp": "2026-10-31 09:30",
     "IncidentType": "Crash",
@@ -1438,6 +1424,34 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "9:03 AM, Nov 01 2026 Other on SB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841198/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 61436,
+    "Timestamp": "2026-11-01 09:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:16 AM, Nov 01 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841200/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 61437,
+    "Timestamp": "2026-11-01 09:16",
+    "IncidentType": "Other",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:16 AM, Nov 01 2026 Other on SB I-15\u00A0at Tropicana Ave. Right lane blocked.",
+    "ImagePath": "",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
   }
