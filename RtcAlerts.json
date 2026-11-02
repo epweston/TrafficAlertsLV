@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61407,
-    "Timestamp": "2026-11-01 03:14",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Wy",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:14 AM, Nov 01 2026 Crash on EB Roy Horn Wy\u00A0after Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841105/attachment_0.png",
-    "Latitude": 36.0703861,
-    "Longitude": -115.28981450000001
-  },
-  {
-    "UniqueId": 61408,
-    "Timestamp": "2026-11-01 03:15",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "4 Right lanes blocked.",
-    "Notes": "3:15 AM, Nov 01 2026 Crash on WB Flamingo Rd\u00A0at Pecos Rd. 4 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
-    "UniqueId": 61409,
-    "Timestamp": "2026-11-01 03:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:36 AM, Nov 01 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
-    "UniqueId": 61410,
-    "Timestamp": "2026-11-01 03:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "3:43 AM, Nov 01 2026 Crash on SB I-11\u00A0at Rancho Dr. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 61411,
     "Timestamp": "2026-11-01 04:02",
     "IncidentType": "Crash",
@@ -1048,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841562/attachment_0.png",
     "Latitude": 36.159044199999997,
     "Longitude": -115.2623966
+  },
+  {
+    "UniqueId": 61482,
+    "Timestamp": "2026-11-02 03:43",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Mel Torme Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:43 AM, Nov 02 2026 Crash on WB Spring Mountain Rd\u00A0at Mel Torme Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841589/attachment_0.png",
+    "Latitude": 36.12558859559698,
+    "Longitude": -115.17317023475012
   }
 ]
