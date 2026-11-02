@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61446,
-    "Timestamp": "2026-11-01 11:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Hacienda Ave",
-    "Relationship": "after",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:19 AM, Nov 01 2026 Crash on WB Hacienda Ave\u00A0after Torrey Pines Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841244/attachment_0.jpg",
-    "Latitude": 36.092524900000001,
-    "Longitude": -115.23405080000001
-  },
-  {
     "UniqueId": 61447,
     "Timestamp": "2026-11-01 11:37",
     "IncidentType": "Crash",
@@ -1006,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842610/attachment_0.jpg",
     "Latitude": 36.033552862846953,
     "Longitude": -115.01434604859962
+  },
+  {
+    "UniqueId": 61518,
+    "Timestamp": "2026-11-02 11:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Canyon Point Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:13 AM, Nov 02 2026 Stalled vehicle on NB I-11\u00A0at Canyon Point Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842607/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
