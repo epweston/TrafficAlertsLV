@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61460,
-    "Timestamp": "2026-11-01 14:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Bridge Ln",
-    "Relationship": "after",
-    "CrossStreet": "Sammy Davis Jr Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:08 PM, Nov 01 2026 Crash on EB Bridge Ln\u00A0after Sammy Davis Jr Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841307/attachment_0.png",
-    "Latitude": 36.121990500000003,
-    "Longitude": -115.1791944
-  },
-  {
     "UniqueId": 61461,
     "Timestamp": "2026-11-01 14:25",
     "IncidentType": "Stalled vehicle",
@@ -1048,5 +1034,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843019/attachment_0.jpg",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 61536,
+    "Timestamp": "2026-11-02 14:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Intersection partially blocked. Expect Delays",
+    "Notes": "2:05 PM, Nov 02 2026 Crash on EB Washington Ave\u00A0at Martin L King Blvd. Intersection partially blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843056/attachment_0.jpg",
+    "Latitude": 36.180812699999997,
+    "Longitude": -115.1607751
+  },
+  {
+    "UniqueId": 61538,
+    "Timestamp": "2026-11-02 14:09",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "over",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:09 PM, Nov 02 2026 Stalled vehicle on NB I-11\u00A0over Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843080/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
