@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61361,
-    "Timestamp": "2026-10-31 18:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:58 PM, Oct 31 2026 Crash on EB 215 Northern Beltway\u00A0before Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841040/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 61362,
     "Timestamp": "2026-10-31 19:07",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841497/attachment_0.png",
     "Latitude": 36.115074900000003,
     "Longitude": -115.2164839
+  },
+  {
+    "UniqueId": 61474,
+    "Timestamp": "2026-11-01 18:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Horizon Ridge Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:58 PM, Nov 01 2026 Stalled vehicle on NB I-11\u00A0after Horizon Ridge Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841485/attachment_0.png",
+    "Latitude": 36.010619300000002,
+    "Longitude": -114.9938854
   }
 ]
