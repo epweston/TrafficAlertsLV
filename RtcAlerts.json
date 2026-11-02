@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61464,
-    "Timestamp": "2026-11-01 15:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "3:09 PM, Nov 01 2026 Crash on NB Rancho Dr\u00A0before Washington Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841299/attachment_0.png",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
-    "UniqueId": 61465,
-    "Timestamp": "2026-11-01 15:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:17 PM, Nov 01 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841316/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 61466,
-    "Timestamp": "2026-11-01 15:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:24 PM, Nov 01 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841317/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 61467,
     "Timestamp": "2026-11-01 15:54",
     "IncidentType": "Stalled vehicle",
@@ -1076,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843172/attachment_0.jpg",
     "Latitude": 36.144307300000008,
     "Longitude": -115.3318156
+  },
+  {
+    "UniqueId": 61543,
+    "Timestamp": "2026-11-02 15:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Gagnier Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Roy Horn Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:25 PM, Nov 02 2026 Crash on NB Gagnier Blvd\u00A0before Roy Horn Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843184/attachment_0.png",
+    "Latitude": 36.065744899999999,
+    "Longitude": -115.2747431
   }
 ]
