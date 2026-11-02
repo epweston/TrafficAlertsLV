@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61355,
-    "Timestamp": "2026-10-31 17:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:16 PM, Oct 31 2026 Stalled vehicle on WB Flamingo Rd\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841033/attachment_0.png",
-    "Latitude": 36.114511499999999,
-    "Longitude": -115.2248991
-  },
-  {
-    "UniqueId": 61356,
-    "Timestamp": "2026-10-31 17:24",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "at",
-    "CrossStreet": "Gowan Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:24 PM, Oct 31 2026 Crash on NB Pecos Rd\u00A0at Gowan Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841046/attachment_0.jpg",
-    "Latitude": 36.225083400000003,
-    "Longitude": -115.0986394
-  },
-  {
-    "UniqueId": 61357,
-    "Timestamp": "2026-10-31 17:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "5:49 PM, Oct 31 2026 Crash on NB Rainbow Blvd\u00A0at Alexander Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841048/attachment_0.png",
-    "Latitude": 36.233048400000001,
-    "Longitude": -115.242317
-  },
-  {
     "UniqueId": 61358,
     "Timestamp": "2026-10-31 18:02",
     "IncidentType": "Vehicle on fire",
@@ -1622,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841479/attachment_0.png",
     "Latitude": 36.043447336539366,
     "Longitude": -115.18079292179071
+  },
+  {
+    "UniqueId": 61471,
+    "Timestamp": "2026-11-01 17:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:52 PM, Nov 01 2026 Crash on WB Sahara Ave\u00A0at I-15. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841491/attachment_0.png",
+    "Latitude": 36.144043678496175,
+    "Longitude": -115.17114596721193
   }
 ]
