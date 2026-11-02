@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61457,
-    "Timestamp": "2026-11-01 13:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Ctr Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:17 PM, Nov 01 2026 Stalled vehicle on SB I-11\u00A0at Casino Ctr Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841283/attachment_0.png",
-    "Latitude": 36.1703069,
-    "Longitude": -115.14395020000001
-  },
-  {
-    "UniqueId": 61458,
-    "Timestamp": "2026-11-01 13:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:47 PM, Nov 01 2026 Crash on NB Durango Dr\u00A0before Sunset Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841284/attachment_0.png",
-    "Latitude": 36.070365750000001,
-    "Longitude": -115.27946056
-  },
-  {
-    "UniqueId": 61459,
-    "Timestamp": "2026-11-01 13:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pollock Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "1:50 PM, Nov 01 2026 Crash on EB Silverado Ranch Blvd\u00A0at Pollock Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841296/attachment_0.jpg",
-    "Latitude": 36.013315800000001,
-    "Longitude": -115.1457013
-  },
-  {
     "UniqueId": 61460,
     "Timestamp": "2026-11-01 14:08",
     "IncidentType": "Crash",
@@ -1076,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842912/attachment_0.png",
     "Latitude": 36.159044199999997,
     "Longitude": -115.2623966
+  },
+  {
+    "UniqueId": 61535,
+    "Timestamp": "2026-11-02 13:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:47 PM, Nov 02 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843019/attachment_0.jpg",
+    "Latitude": 36.070274645187922,
+    "Longitude": -115.28855877956086
   }
 ]
