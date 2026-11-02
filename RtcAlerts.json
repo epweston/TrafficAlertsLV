@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61461,
-    "Timestamp": "2026-11-01 14:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:25 PM, Nov 01 2026 Stalled vehicle on SB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841309/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 61462,
-    "Timestamp": "2026-11-01 14:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:29 PM, Nov 01 2026 Crash on EB Tropicana Ave\u00A0before 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841297/attachment_0.png",
-    "Latitude": 36.100018540000001,
-    "Longitude": -115.29390152000001
-  },
-  {
     "UniqueId": 61463,
     "Timestamp": "2026-11-01 15:06",
     "IncidentType": "Stalled vehicle",
@@ -1090,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843083/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 61541,
+    "Timestamp": "2026-11-02 14:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 20",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:48 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0at Mile 20. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843131/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
