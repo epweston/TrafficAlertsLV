@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61365,
-    "Timestamp": "2026-10-31 20:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:05 PM, Oct 31 2026 Crash on SB Las Vegas Blvd\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841066/attachment_0.png",
-    "Latitude": 36.114659896847385,
-    "Longitude": -115.17288892246221
-  },
-  {
     "UniqueId": 61366,
     "Timestamp": "2026-10-31 21:19",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841487/attachment_0.png",
     "Latitude": 36.100703197714246,
     "Longitude": -115.18067308407682
+  },
+  {
+    "UniqueId": 61476,
+    "Timestamp": "2026-11-01 20:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:14 PM, Nov 01 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0at Rainbow Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841500/attachment_0.png",
+    "Latitude": 36.022412007316184,
+    "Longitude": -115.24351356526064
   }
 ]
