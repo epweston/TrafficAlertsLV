@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61454,
-    "Timestamp": "2026-11-01 12:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right blocked.",
-    "Notes": "12:18 PM, Nov 01 2026 Crash on EB Flamingo Rd\u00A0before Decatur Blvd. Right blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841270/attachment_0.png",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
     "UniqueId": 61455,
     "Timestamp": "2026-11-01 12:54",
     "IncidentType": "Stalled vehicle",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842761/attachment_0.png",
     "Latitude": 36.217340299999996,
     "Longitude": -115.2073862
+  },
+  {
+    "UniqueId": 61528,
+    "Timestamp": "2026-11-02 12:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:27 PM, Nov 02 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842796/attachment_0.jpg",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
   }
 ]
