@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61432,
-    "Timestamp": "2026-11-01 08:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:28 AM, Nov 01 2026 Crash on EB 215 Northern Beltway\u00A0to I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841195/attachment_0.jpg",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
     "UniqueId": 61433,
     "Timestamp": "2026-11-01 08:35",
     "IncidentType": "Crash",
@@ -1006,5 +992,19 @@
     "ImagePath": "",
     "Latitude": 36.076804000000003,
     "Longitude": -114.9437788
+  },
+  {
+    "UniqueId": 61504,
+    "Timestamp": "2026-11-02 08:26",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:26 AM, Nov 02 2026 Crash on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842172/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
