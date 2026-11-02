@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61362,
-    "Timestamp": "2026-10-31 19:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Spencer St",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:07 PM, Oct 31 2026 Crash on NB Spencer St\u00A0at St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841042/attachment_0.jpg",
-    "Latitude": 35.9989591,
-    "Longitude": -115.126001
-  },
-  {
-    "UniqueId": 61363,
-    "Timestamp": "2026-10-31 19:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:19 PM, Oct 31 2026 Crash on SB Boulder Hwy\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841043/attachment_0.png",
-    "Latitude": 36.100889813598712,
-    "Longitude": -115.050979239851
-  },
-  {
-    "UniqueId": 61364,
-    "Timestamp": "2026-10-31 19:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:32 PM, Oct 31 2026 Crash on NB Jones Blvd\u00A0at 215 Northern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/10/31/file_attachments/3841055/attachment_0.png",
-    "Latitude": 36.1702978,
-    "Longitude": -115.2241887
-  },
-  {
     "UniqueId": 61365,
     "Timestamp": "2026-10-31 20:05",
     "IncidentType": "Crash",
@@ -1580,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841485/attachment_0.png",
     "Latitude": 36.010619300000002,
     "Longitude": -114.9938854
+  },
+  {
+    "UniqueId": 61475,
+    "Timestamp": "2026-11-01 19:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Left lane blocked.",
+    "Notes": "7:43 PM, Nov 01 2026 Crash on EB Tropicana Ave\u00A0after I-15. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841487/attachment_0.png",
+    "Latitude": 36.100703197714246,
+    "Longitude": -115.18067308407682
   }
 ]
