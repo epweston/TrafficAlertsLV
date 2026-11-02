@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61467,
-    "Timestamp": "2026-11-01 15:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:54 PM, Nov 01 2026 Stalled vehicle on NB I-11\u00A0after Las Vegas Blvd . Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841476/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 61468,
     "Timestamp": "2026-11-01 16:09",
     "IncidentType": "Crash",
@@ -1090,5 +1076,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843206/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 61547,
+    "Timestamp": "2026-11-02 15:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:54 PM, Nov 02 2026 Stalled vehicle on SB I-11\u00A0after US-95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843224/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 61548,
+    "Timestamp": "2026-11-02 15:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:56 PM, Nov 02 2026 Stalled vehicle on SB I-15\u00A0before Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843226/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 61549,
+    "Timestamp": "2026-11-02 15:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:57 PM, Nov 02 2026 Crash on SB Durango Dr\u00A0after I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843230/attachment_0.png",
+    "Latitude": 36.298196408901752,
+    "Longitude": -115.28604269027711
   }
 ]
