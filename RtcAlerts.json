@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61423,
-    "Timestamp": "2026-11-01 06:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rush Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:13 AM, Nov 01 2026 Crash on SB Decatur Blvd\u00A0after Rush Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841170/attachment_0.jpg",
-    "Latitude": 36.000481299999997,
-    "Longitude": -115.207543
-  },
-  {
     "UniqueId": 61424,
     "Timestamp": "2026-11-01 06:28",
     "IncidentType": "Crash",
@@ -922,5 +908,19 @@
     "ImagePath": "",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 61489,
+    "Timestamp": "2026-11-02 06:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:13 AM, Nov 02 2026 Crash on SB I-15\u00A0after I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841775/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
