@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61429,
-    "Timestamp": "2026-11-01 07:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "over",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:25 AM, Nov 01 2026 Crash on EB Lake Mead Blvd\u00A0over I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841193/attachment_0.jpg",
-    "Latitude": 36.196000602251971,
-    "Longitude": -115.24454390895161
-  },
-  {
     "UniqueId": 61430,
     "Timestamp": "2026-11-01 07:37",
     "IncidentType": "Crash",
@@ -908,5 +894,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841980/attachment_0.jpg",
     "Latitude": 36.070198599999998,
     "Longitude": -115.3069648
+  },
+  {
+    "UniqueId": 61494,
+    "Timestamp": "2026-11-02 07:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "5Th St",
+    "Impact": "",
+    "Notes": "7:20 AM, Nov 02 2026 Crash on WB Cheyenne Ave\u00A0before 5th St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841999/attachment_0.png",
+    "Latitude": 36.217754999999997,
+    "Longitude": -115.13387350000001
+  },
+  {
+    "UniqueId": 61495,
+    "Timestamp": "2026-11-02 07:21",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "5Th St",
+    "Impact": "",
+    "Notes": "7:21 AM, Nov 02 2026 Crash on WB Cheyenne Ave\u00A0before 5th St. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217754999999997,
+    "Longitude": -115.13387350000001
   }
 ]
