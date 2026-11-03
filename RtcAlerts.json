@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61477,
-    "Timestamp": "2026-11-01 22:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:43 PM, Nov 01 2026 Stalled vehicle on SB I-15\u00A0to Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841503/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 61478,
     "Timestamp": "2026-11-01 23:35",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843359/attachment_0.png",
     "Latitude": 36.171944000000003,
     "Longitude": -115.2240144
+  },
+  {
+    "UniqueId": 61588,
+    "Timestamp": "2026-11-02 22:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "after",
+    "CrossStreet": "Dean Martin Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:43 PM, Nov 02 2026 Crash on EB Blue Diamond Rd\u00A0after Dean Martin Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843360/attachment_0.png",
+    "Latitude": 36.041387180713301,
+    "Longitude": -115.18812059936668
   }
 ]
