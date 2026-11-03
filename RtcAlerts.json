@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61483,
-    "Timestamp": "2026-11-02 04:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:23 AM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841616/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 61484,
     "Timestamp": "2026-11-02 04:31",
     "IncidentType": "Crash",
@@ -1605,6 +1591,48 @@
     "CrossStreet": "Lamb Blvd",
     "Impact": "All lanes are blocked. Expect Delays Use other routes",
     "Notes": "3:44 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 61601,
+    "Timestamp": "2026-11-03 04:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:20 AM, Nov 03 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
+  },
+  {
+    "UniqueId": 61602,
+    "Timestamp": "2026-11-03 04:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:20 AM, Nov 03 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 61603,
+    "Timestamp": "2026-11-03 04:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:20 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
     "ImagePath": "",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
