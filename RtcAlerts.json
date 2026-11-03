@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61473,
-    "Timestamp": "2026-11-01 18:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:49 PM, Nov 01 2026 Crash on EB Flamingo Rd\u00A0before Lindell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841497/attachment_0.png",
-    "Latitude": 36.115074900000003,
-    "Longitude": -115.2164839
-  },
-  {
-    "UniqueId": 61474,
-    "Timestamp": "2026-11-01 18:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:58 PM, Nov 01 2026 Stalled vehicle on NB I-11\u00A0after Horizon Ridge Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841485/attachment_0.png",
-    "Latitude": 36.010619300000002,
-    "Longitude": -114.9938854
-  },
-  {
     "UniqueId": 61475,
     "Timestamp": "2026-11-01 19:43",
     "IncidentType": "Crash",
@@ -1440,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843340/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 61578,
+    "Timestamp": "2026-11-02 19:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Ridge Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "7:28 PM, Nov 02 2026 Crash on NB Eastern Ave\u00A0before Horizon Ridge Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843344/attachment_0.png",
+    "Latitude": 35.999189399999999,
+    "Longitude": -115.1048687
   }
 ]
