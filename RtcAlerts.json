@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61539,
-    "Timestamp": "2026-11-02 14:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Monticello Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:10 PM, Nov 02 2026 Crash on SB Monticello Dr\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843082/attachment_0.png",
-    "Latitude": 36.159125400000001,
-    "Longitude": -115.2255689
-  },
-  {
-    "UniqueId": 61540,
-    "Timestamp": "2026-11-02 14:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:11 PM, Nov 02 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0to Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843083/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
     "UniqueId": 61541,
     "Timestamp": "2026-11-02 14:48",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844574/attachment_0.jpg",
     "Latitude": 36.218273000000003,
     "Longitude": -115.265051
+  },
+  {
+    "UniqueId": 61644,
+    "Timestamp": "2026-11-03 14:08",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "College Dr",
+    "Impact": "Off ramp blocked Expect Delays",
+    "Notes": "2:08 PM, Nov 03 2026 Police activity on SB I-11\u00A0at College Dr. Off ramp blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844617/attachment_0.jpg",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
