@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61500,
-    "Timestamp": "2026-11-02 07:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:46 AM, Nov 02 2026 Crash on WB 215 Southern Beltway\u00A0at Lake Mead Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842078/attachment_0.png",
-    "Latitude": 36.076804000000003,
-    "Longitude": -114.9437788
-  },
-  {
     "UniqueId": 61501,
     "Timestamp": "2026-11-02 07:58",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843694/attachment_0.png",
     "Latitude": 36.225704100000002,
     "Longitude": -115.0622363
+  },
+  {
+    "UniqueId": 61622,
+    "Timestamp": "2026-11-03 07:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:53 AM, Nov 03 2026 Crash on SB I-11\u00A0at Boulder Hwy. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843739/attachment_0.jpg",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
