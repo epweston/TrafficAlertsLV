@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61504,
-    "Timestamp": "2026-11-02 08:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:26 AM, Nov 02 2026 Crash on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842172/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 61505,
     "Timestamp": "2026-11-02 08:46",
     "IncidentType": "Crash",
@@ -1636,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843742/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 61624,
+    "Timestamp": "2026-11-03 08:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave Transiti",
+    "Impact": "Expect Delays",
+    "Notes": "8:37 AM, Nov 03 2026 Crash on SB I-15\u00A0at Sahara Ave transition ramp left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843830/attachment_0.png",
+    "Latitude": 36.143591999999998,
+    "Longitude": -115.15758219999999
+  },
+  {
+    "UniqueId": 61625,
+    "Timestamp": "2026-11-03 08:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:40 AM, Nov 03 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843898/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
