@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 61541,
-    "Timestamp": "2026-11-02 14:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 20",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:48 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0at Mile 20. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843131/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 61542,
-    "Timestamp": "2026-11-02 15:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "after",
-    "CrossStreet": "Pavilion Ctr Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:06 PM, Nov 02 2026 Crash on WB Sahara Ave\u00A0after Pavilion Ctr Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843172/attachment_0.jpg",
-    "Latitude": 36.144307300000008,
-    "Longitude": -115.3318156
-  },
-  {
-    "UniqueId": 61543,
-    "Timestamp": "2026-11-02 15:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Gagnier Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Roy Horn Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:25 PM, Nov 02 2026 Crash on NB Gagnier Blvd\u00A0before Roy Horn Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843184/attachment_0.png",
-    "Latitude": 36.065744899999999,
-    "Longitude": -115.2747431
-  },
-  {
-    "UniqueId": 61544,
-    "Timestamp": "2026-11-02 15:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:31 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843197/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 61545,
-    "Timestamp": "2026-11-02 15:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:33 PM, Nov 02 2026 Stalled vehicle on NB I-11\u00A0after Decatur Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843199/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 61546,
     "Timestamp": "2026-11-02 15:47",
     "IncidentType": "Crash",
@@ -1454,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844822/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 61646,
+    "Timestamp": "2026-11-03 15:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:30 PM, Nov 03 2026 Crash on SB I-15\u00A0before Silverado Ranch Blvd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845193/attachment_0.jpg",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
