@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61476,
-    "Timestamp": "2026-11-01 20:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "8:14 PM, Nov 01 2026 Stalled vehicle on WB Blue Diamond Rd\u00A0at Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841500/attachment_0.png",
-    "Latitude": 36.022412007316184,
-    "Longitude": -115.24351356526064
-  },
-  {
     "UniqueId": 61477,
     "Timestamp": "2026-11-01 22:43",
     "IncidentType": "Stalled vehicle",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843351/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 61584,
+    "Timestamp": "2026-11-02 22:02",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Elton Ave",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "10:02 PM, Nov 02 2026 Crash on SB Jones Blvd\u00A0at Elton Ave. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843325/attachment_0.png",
+    "Latitude": 36.171944000000003,
+    "Longitude": -115.2240144
   }
 ]
