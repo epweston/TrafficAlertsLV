@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61489,
-    "Timestamp": "2026-11-02 06:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:13 AM, Nov 02 2026 Crash on SB I-15\u00A0after I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841775/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 61490,
     "Timestamp": "2026-11-02 06:44",
     "IncidentType": "Stalled vehicle",
@@ -1692,5 +1678,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843543/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 61613,
+    "Timestamp": "2026-11-03 06:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:26 AM, Nov 03 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843581/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 61614,
+    "Timestamp": "2026-11-03 06:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "6:26 AM, Nov 03 2026 Crash on EB Tropicana Ave\u00A0at 215 Western Beltway. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843604/attachment_0.jpg",
+    "Latitude": 36.100018540000001,
+    "Longitude": -115.29390152000001
+  },
+  {
+    "UniqueId": 61615,
+    "Timestamp": "2026-11-03 06:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Riverside Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:29 AM, Nov 03 2026 Stalled vehicle on NB I-15\u00A0before Riverside Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843605/attachment_0.png",
+    "Latitude": 36.162990899999997,
+    "Longitude": -115.1604596
   }
 ]
