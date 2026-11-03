@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61471,
-    "Timestamp": "2026-11-01 17:52",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:52 PM, Nov 01 2026 Crash on WB Sahara Ave\u00A0at I-15. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841491/attachment_0.png",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 61472,
     "Timestamp": "2026-11-01 18:12",
     "IncidentType": "Crash",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843308/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61570,
+    "Timestamp": "2026-11-02 17:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:48 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843309/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 61571,
+    "Timestamp": "2026-11-02 17:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Skye Canyon Park Dr",
+    "Relationship": "at",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "Intersection partially blocked. Expect Delays",
+    "Notes": "5:51 PM, Nov 02 2026 Crash on EB Skye Canyon Park Dr\u00A0at Grand Canyon Dr. Intersection partially blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843329/attachment_0.png",
+    "Latitude": 36.314156599999997,
+    "Longitude": -115.30604580000001
   }
 ]
