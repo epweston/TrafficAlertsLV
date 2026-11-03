@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61490,
-    "Timestamp": "2026-11-02 06:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:44 AM, Nov 02 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841872/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
     "UniqueId": 61491,
     "Timestamp": "2026-11-02 06:59",
     "IncidentType": "Stalled vehicle",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843605/attachment_0.png",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 61616,
+    "Timestamp": "2026-11-03 06:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:40 AM, Nov 03 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843629/attachment_0.jpg",
+    "Latitude": 36.275373984021336,
+    "Longitude": -115.24246214142418
   }
 ]
