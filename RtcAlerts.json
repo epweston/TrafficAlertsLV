@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61470,
-    "Timestamp": "2026-11-01 16:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:49 PM, Nov 01 2026 Crash on EB Blue Diamond Rd\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841479/attachment_0.png",
-    "Latitude": 36.043447336539366,
-    "Longitude": -115.18079292179071
-  },
-  {
     "UniqueId": 61471,
     "Timestamp": "2026-11-01 17:52",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843262/attachment_0.png",
     "Latitude": 36.274993366998793,
     "Longitude": -115.20657961738746
+  },
+  {
+    "UniqueId": 61559,
+    "Timestamp": "2026-11-02 16:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "",
+    "Notes": "4:47 PM, Nov 02 2026 Crash on WB 215 Southern Beltway\u00A0at Las Vegas Blvd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843265/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 61560,
+    "Timestamp": "2026-11-02 16:49",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "after",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:49 PM, Nov 02 2026 Crash on EB Silverado Ranch Blvd\u00A0after I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843266/attachment_0.png",
+    "Latitude": 36.013639499999996,
+    "Longitude": -115.1715914
   }
 ]
