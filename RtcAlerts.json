@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61535,
-    "Timestamp": "2026-11-02 13:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:47 PM, Nov 02 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843019/attachment_0.jpg",
-    "Latitude": 36.070274645187922,
-    "Longitude": -115.28855877956086
-  },
-  {
     "UniqueId": 61536,
     "Timestamp": "2026-11-02 14:05",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844503/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 61642,
+    "Timestamp": "2026-11-03 13:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:53 PM, Nov 03 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844527/attachment_0.jpg",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
