@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61482,
-    "Timestamp": "2026-11-02 03:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mel Torme Way",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:43 AM, Nov 02 2026 Crash on WB Spring Mountain Rd\u00A0at Mel Torme Way. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841589/attachment_0.png",
-    "Latitude": 36.12558859559698,
-    "Longitude": -115.17317023475012
-  },
-  {
     "UniqueId": 61483,
     "Timestamp": "2026-11-02 04:23",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843419/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 61600,
+    "Timestamp": "2026-11-03 03:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "3:44 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
