@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61501,
-    "Timestamp": "2026-11-02 07:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Alto Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:58 AM, Nov 02 2026 Crash on NB Nellis Blvd\u00A0after Alto Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842101/attachment_0.jpg",
-    "Latitude": 36.2109606,
-    "Longitude": -115.0623054
-  },
-  {
-    "UniqueId": 61502,
-    "Timestamp": "2026-11-02 08:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "at",
-    "CrossStreet": "Old Homestead Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:01 AM, Nov 02 2026 Crash on SB US-95\u00A0at Old Homestead Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3842105/attachment_0.png",
-    "Latitude": 36.328445100000003,
-    "Longitude": -115.2830359
-  },
-  {
-    "UniqueId": 61503,
-    "Timestamp": "2026-11-02 08:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:04 AM, Nov 02 2026 Crash on WB 215 Southern Beltway\u00A0at Lake Mead Pkwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.076804000000003,
-    "Longitude": -114.9437788
-  },
-  {
     "UniqueId": 61504,
     "Timestamp": "2026-11-02 08:26",
     "IncidentType": "Crash",
@@ -1664,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843739/attachment_0.jpg",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 61623,
+    "Timestamp": "2026-11-03 08:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "8:06 AM, Nov 03 2026 Crash on SB I-11\u00A0before Las Vegas Blvd. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843742/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
