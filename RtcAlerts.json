@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61481,
-    "Timestamp": "2026-11-02 03:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked Right lane blocked.",
-    "Notes": "3:07 AM, Nov 02 2026 Crash on NB Buffalo Dr\u00A0at Charleston Blvd. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841562/attachment_0.png",
-    "Latitude": 36.159044199999997,
-    "Longitude": -115.2623966
-  },
-  {
     "UniqueId": 61482,
     "Timestamp": "2026-11-02 03:43",
     "IncidentType": "Crash",
@@ -1566,5 +1552,47 @@
     "ImagePath": "",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 61596,
+    "Timestamp": "2026-11-03 03:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:18 AM, Nov 03 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
+  },
+  {
+    "UniqueId": 61597,
+    "Timestamp": "2026-11-03 03:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:19 AM, Nov 03 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 61598,
+    "Timestamp": "2026-11-03 03:21",
+    "IncidentType": "Hazard",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left shoulder blocked Right shoulder blocked. Expect Delays",
+    "Notes": "3:21 AM, Nov 03 2026 Hazard on NB I-11\u00A0at I-15. Left shoulder blocked Right shoulder blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843440/attachment_0.jpg",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
