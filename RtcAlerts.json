@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61484,
-    "Timestamp": "2026-11-02 04:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:31 AM, Nov 02 2026 Crash on WB Spring Mountain Rd\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3841619/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
     "UniqueId": 61485,
     "Timestamp": "2026-11-02 05:42",
     "IncidentType": "Stalled vehicle",
@@ -1636,5 +1622,33 @@
     "ImagePath": "",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 61604,
+    "Timestamp": "2026-11-03 05:01",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "5:01 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 61605,
+    "Timestamp": "2026-11-03 05:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:03 AM, Nov 03 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843499/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
