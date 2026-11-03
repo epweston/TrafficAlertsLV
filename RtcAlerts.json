@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61468,
-    "Timestamp": "2026-11-01 16:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Dean Martin Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:09 PM, Nov 01 2026 Crash on EB Silverado Ranch Blvd\u00A0before Dean Martin Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841458/attachment_0.png",
-    "Latitude": 36.013172500000003,
-    "Longitude": -115.1831871
-  },
-  {
     "UniqueId": 61469,
     "Timestamp": "2026-11-01 16:16",
     "IncidentType": "Stalled vehicle",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843230/attachment_0.png",
     "Latitude": 36.298196408901752,
     "Longitude": -115.28604269027711
+  },
+  {
+    "UniqueId": 61550,
+    "Timestamp": "2026-11-02 16:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "North Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:04 PM, Nov 02 2026 Stalled vehicle on SB I-11\u00A0after North Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843234/attachment_0.png",
+    "Latitude": 36.254498550000001,
+    "Longitude": -115.2458097
   }
 ]
