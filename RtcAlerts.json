@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61475,
-    "Timestamp": "2026-11-01 19:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:43 PM, Nov 01 2026 Crash on EB Tropicana Ave\u00A0after I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/01/file_attachments/3841487/attachment_0.png",
-    "Latitude": 36.100703197714246,
-    "Longitude": -115.18067308407682
-  },
-  {
     "UniqueId": 61476,
     "Timestamp": "2026-11-01 20:14",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843344/attachment_0.png",
     "Latitude": 35.999189399999999,
     "Longitude": -115.1048687
+  },
+  {
+    "UniqueId": 61580,
+    "Timestamp": "2026-11-02 19:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:43 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843323/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
