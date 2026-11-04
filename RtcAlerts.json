@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61600,
-    "Timestamp": "2026-11-03 03:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "3:44 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 61601,
     "Timestamp": "2026-11-03 04:20",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845631/attachment_0.png",
     "Latitude": 36.158996094562028,
     "Longitude": -115.16085736012774
+  },
+  {
+    "UniqueId": 61702,
+    "Timestamp": "2026-11-04 03:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "3:52 AM, Nov 04 2026 Crash on SB I-11\u00A0at Cheyenne Ave. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845649/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
