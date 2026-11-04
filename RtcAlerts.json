@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61570,
-    "Timestamp": "2026-11-02 17:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:48 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843309/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 61571,
-    "Timestamp": "2026-11-02 17:51",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Skye Canyon Park Dr",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "Intersection partially blocked. Expect Delays",
-    "Notes": "5:51 PM, Nov 02 2026 Crash on EB Skye Canyon Park Dr\u00A0at Grand Canyon Dr. Intersection partially blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843329/attachment_0.png",
-    "Latitude": 36.314156599999997,
-    "Longitude": -115.30604580000001
-  },
-  {
     "UniqueId": 61572,
     "Timestamp": "2026-11-02 17:59",
     "IncidentType": "Crash",
@@ -1440,5 +1412,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845480/attachment_0.png",
     "Latitude": 36.209657399999998,
     "Longitude": -115.2053971
+  },
+  {
+    "UniqueId": 61676,
+    "Timestamp": "2026-11-03 17:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:50 PM, Nov 03 2026 Crash on WB Charleston Blvd\u00A0before Lamb Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845527/attachment_0.png",
+    "Latitude": 36.158944221110033,
+    "Longitude": -115.08028507232667
+  },
+  {
+    "UniqueId": 61677,
+    "Timestamp": "2026-11-03 17:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "5:51 PM, Nov 03 2026 Crash on SB I-11\u00A0before Jones Blvd. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845529/attachment_0.jpg",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61678,
+    "Timestamp": "2026-11-03 17:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:53 PM, Nov 03 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845531/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
