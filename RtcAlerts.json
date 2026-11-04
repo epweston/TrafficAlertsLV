@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61557,
-    "Timestamp": "2026-11-02 16:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:38 PM, Nov 02 2026 Crash on SB Jones Blvd\u00A0after Blue Diamond Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843259/attachment_0.png",
-    "Latitude": 36.0256525,
-    "Longitude": -115.2256967
-  },
-  {
     "UniqueId": 61558,
     "Timestamp": "2026-11-02 16:42",
     "IncidentType": "Stalled vehicle",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845445/attachment_0.png",
     "Latitude": 36.066225699999997,
     "Longitude": -115.2791549
+  },
+  {
+    "UniqueId": 61656,
+    "Timestamp": "2026-11-03 16:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:33 PM, Nov 03 2026 Stalled vehicle on NB I-15\u00A0at Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845397/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 61657,
+    "Timestamp": "2026-11-03 16:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:34 PM, Nov 03 2026 Stalled vehicle on NB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845399/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
