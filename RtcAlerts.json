@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61637,
-    "Timestamp": "2026-11-03 12:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:59 PM, Nov 03 2026 Crash on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844463/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
-    "UniqueId": 61638,
-    "Timestamp": "2026-11-03 13:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:00 PM, Nov 03 2026 Crash on NB I-15\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844469/attachment_0.jpg",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 61639,
     "Timestamp": "2026-11-03 13:03",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846870/attachment_0.jpg",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 61751,
+    "Timestamp": "2026-11-04 12:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Basic Rd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "12:59 PM, Nov 04 2026 Crash on EB Lake Mead Pkwy\u00A0after Basic Rd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846952/attachment_0.png",
+    "Latitude": 36.03593447530158,
+    "Longitude": -114.99516249646823
   }
 ]
