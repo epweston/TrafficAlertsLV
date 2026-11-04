@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61623,
-    "Timestamp": "2026-11-03 08:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "8:06 AM, Nov 03 2026 Crash on SB I-11\u00A0before Las Vegas Blvd. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843742/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 61624,
     "Timestamp": "2026-11-03 08:37",
     "IncidentType": "Crash",
@@ -1398,5 +1384,33 @@
     "ImagePath": "",
     "Latitude": 36.181486768045396,
     "Longitude": -115.34132270562058
+  },
+  {
+    "UniqueId": 61727,
+    "Timestamp": "2026-11-04 08:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:02 AM, Nov 04 2026 Crash on NB I-15\u00A0before Craig Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845986/attachment_0.jpg",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 61728,
+    "Timestamp": "2026-11-04 08:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:04 AM, Nov 04 2026 Crash on SB I-11\u00A0at Jones Blvd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845987/attachment_0.jpg",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
