@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61563,
-    "Timestamp": "2026-11-02 17:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:02 PM, Nov 02 2026 Crash on NB Rainbow Blvd\u00A0before Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843294/attachment_0.png",
-    "Latitude": 36.1145158070983,
-    "Longitude": -115.24298784914768
-  },
-  {
     "UniqueId": 61564,
     "Timestamp": "2026-11-02 17:13",
     "IncidentType": "Crash",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845509/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 61663,
+    "Timestamp": "2026-11-03 17:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:06 PM, Nov 03 2026 Stalled vehicle on SB I-15\u00A0after Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845511/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
