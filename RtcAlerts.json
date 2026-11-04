@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61620,
-    "Timestamp": "2026-11-03 07:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:09 AM, Nov 03 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843658/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 61621,
     "Timestamp": "2026-11-03 07:32",
     "IncidentType": "Crash",
@@ -1286,5 +1272,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845856/attachment_0.jpg",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 61716,
+    "Timestamp": "2026-11-04 07:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lanes blocked. Expect Delays",
+    "Notes": "7:04 AM, Nov 04 2026 Crash on NB Decatur Blvd\u00A0before Lake Mead Blvd. Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845866/attachment_0.jpg",
+    "Latitude": 36.195557000000001,
+    "Longitude": -115.2060887
+  },
+  {
+    "UniqueId": 61717,
+    "Timestamp": "2026-11-04 07:05",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:05 AM, Nov 04 2026 Stalled vehicle on SB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845890/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 61718,
+    "Timestamp": "2026-11-04 07:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:08 AM, Nov 04 2026 Crash on SB I-11\u00A0after Rainbow Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845879/attachment_0.jpg",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
