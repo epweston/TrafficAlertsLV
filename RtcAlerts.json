@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 61601,
-    "Timestamp": "2026-11-03 04:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:20 AM, Nov 03 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
-    "UniqueId": 61602,
-    "Timestamp": "2026-11-03 04:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:20 AM, Nov 03 2026 Stalled vehicle on NB I-11\u00A0before Craig Rd . Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 61603,
-    "Timestamp": "2026-11-03 04:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:20 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 61604,
-    "Timestamp": "2026-11-03 05:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "5:01 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 61605,
-    "Timestamp": "2026-11-03 05:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:03 AM, Nov 03 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843499/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 61606,
     "Timestamp": "2026-11-03 05:32",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845649/attachment_0.png",
     "Latitude": 36.218340499999996,
     "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 61703,
+    "Timestamp": "2026-11-04 05:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:18 AM, Nov 04 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0to I-11. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845686/attachment_0.jpg",
+    "Latitude": 36.176691302008486,
+    "Longitude": -115.24369620296332
   }
 ]
