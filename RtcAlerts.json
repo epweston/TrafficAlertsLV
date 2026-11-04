@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61549,
-    "Timestamp": "2026-11-02 15:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:57 PM, Nov 02 2026 Crash on SB Durango Dr\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843230/attachment_0.png",
-    "Latitude": 36.298196408901752,
-    "Longitude": -115.28604269027711
-  },
-  {
-    "UniqueId": 61550,
-    "Timestamp": "2026-11-02 16:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "North Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:04 PM, Nov 02 2026 Stalled vehicle on SB I-11\u00A0after North Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843234/attachment_0.png",
-    "Latitude": 36.254498550000001,
-    "Longitude": -115.2458097
-  },
-  {
     "UniqueId": 61551,
     "Timestamp": "2026-11-02 16:17",
     "IncidentType": "Stalled vehicle",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845206/attachment_0.jpg",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 61649,
+    "Timestamp": "2026-11-03 16:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "4:04 PM, Nov 03 2026 Crash on SB I-15\u00A0to Lamb Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845327/attachment_0.png",
+    "Latitude": 36.258134290000001,
+    "Longitude": -115.07989877
   }
 ]
