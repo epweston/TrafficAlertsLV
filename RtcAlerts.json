@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61573,
-    "Timestamp": "2026-11-02 18:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "6:22 PM, Nov 02 2026 Crash on SB Rainbow Blvd\u00A0at Sunset Rd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843334/attachment_0.png",
-    "Latitude": 36.070543507237815,
-    "Longitude": -115.24253723908187
-  },
-  {
     "UniqueId": 61574,
     "Timestamp": "2026-11-02 18:28",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845485/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 61681,
+    "Timestamp": "2026-11-03 18:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:18 PM, Nov 03 2026 Crash on NB Pecos Rd\u00A0before Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845534/attachment_0.png",
+    "Latitude": 36.100036091395793,
+    "Longitude": -115.10098681541832
+  },
+  {
+    "UniqueId": 61682,
+    "Timestamp": "2026-11-03 18:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:19 PM, Nov 03 2026 Crash on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845535/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
