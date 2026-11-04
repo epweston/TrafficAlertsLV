@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61617,
-    "Timestamp": "2026-11-03 06:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:49 AM, Nov 03 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843637/attachment_0.png",
-    "Latitude": 36.289875459999998,
-    "Longitude": -115.07998461
-  },
-  {
     "UniqueId": 61618,
     "Timestamp": "2026-11-03 07:00",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "",
     "Latitude": 36.121504899999998,
     "Longitude": -115.0769566
+  },
+  {
+    "UniqueId": 61714,
+    "Timestamp": "2026-11-04 06:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "6:57 AM, Nov 04 2026 Crash on SB I-11\u00A0after Rainbow Blvd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845831/attachment_0.jpg",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
