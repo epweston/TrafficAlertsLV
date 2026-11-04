@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61636,
-    "Timestamp": "2026-11-03 12:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "12:03 PM, Nov 03 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Stephanie St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844393/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 61637,
     "Timestamp": "2026-11-03 12:59",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846781/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61745,
+    "Timestamp": "2026-11-04 12:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Windmill Ln",
+    "Relationship": "at",
+    "CrossStreet": "Bermuda Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:03 PM, Nov 04 2026 Crash on WB Windmill Ln\u00A0at Bermuda Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846794/attachment_0.jpg",
+    "Latitude": 36.042297933005074,
+    "Longitude": -115.15442132949831
   }
 ]
