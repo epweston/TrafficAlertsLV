@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61592,
-    "Timestamp": "2026-11-02 23:54",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Elton Ave",
-    "Impact": "All lanes are now open.",
-    "Notes": "11:54 PM, Nov 02 2026 UPDATE: Crash on SB Jones Blvd\u00A0at Elton Ave. All lanes are now open.",
-    "ImagePath": "",
-    "Latitude": 36.171944000000003,
-    "Longitude": -115.2240144
-  },
-  {
-    "UniqueId": 61593,
-    "Timestamp": "2026-11-03 00:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:06 AM, Nov 03 2026 Crash on SB I-11\u00A0at Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843366/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 61594,
-    "Timestamp": "2026-11-03 00:50",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All NB lanes are now open.",
-    "Notes": "12:50 AM, Nov 03 2026 UPDATE: Crash on SB I-15\u00A0before Lamb Blvd. All NB lanes are now open.",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 61595,
     "Timestamp": "2026-11-03 02:57",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845506/attachment_0.png",
     "Latitude": 36.10813214101082,
     "Longitude": -115.18071234226228
+  },
+  {
+    "UniqueId": 61695,
+    "Timestamp": "2026-11-04 01:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:28 AM, Nov 04 2026 Stalled vehicle on SB I-15\u00A0to Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845579/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
