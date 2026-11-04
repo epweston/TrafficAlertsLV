@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61565,
-    "Timestamp": "2026-11-02 17:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:24 PM, Nov 02 2026 Crash on SB Pecos Rd\u00A0after Flamingo Rd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843282/attachment_0.png",
-    "Latitude": 36.115229108250666,
-    "Longitude": -115.1008588881996
-  },
-  {
-    "UniqueId": 61566,
-    "Timestamp": "2026-11-02 17:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Shadow Ln",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:28 PM, Nov 02 2026 Crash on NB Shadow Ln\u00A0at Charleston Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843283/attachment_0.png",
-    "Latitude": 36.158944699999999,
-    "Longitude": -115.16548520000001
-  },
-  {
     "UniqueId": 61567,
     "Timestamp": "2026-11-02 17:32",
     "IncidentType": "Crash",
@@ -1412,5 +1384,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845469/attachment_0.png",
     "Latitude": 36.0558555,
     "Longitude": -115.24294310000001
+  },
+  {
+    "UniqueId": 61669,
+    "Timestamp": "2026-11-03 17:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:22 PM, Nov 03 2026 Stalled vehicle on SB I-11 offramp to Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845520/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 61670,
+    "Timestamp": "2026-11-03 17:26",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "",
+    "Notes": "5:26 PM, Nov 03 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0after I-11 on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845522/attachment_0.png",
+    "Latitude": 36.277752524515982,
+    "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 61671,
+    "Timestamp": "2026-11-03 17:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:27 PM, Nov 03 2026 Crash on NB I-15\u00A0before Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845473/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
