@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61648,
-    "Timestamp": "2026-11-03 15:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "3:54 PM, Nov 03 2026 Crash on NB I-11\u00A0at Galleria Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845206/attachment_0.jpg",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 61649,
     "Timestamp": "2026-11-03 16:04",
     "IncidentType": "Crash",
@@ -1580,5 +1566,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847157/attachment_0.png",
     "Latitude": 36.217665489308381,
     "Longitude": -115.12400501844569
+  },
+  {
+    "UniqueId": 61765,
+    "Timestamp": "2026-11-04 15:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Hualapai Way",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:48 PM, Nov 04 2026 Crash on EB Flamingo Rd\u00A0at Hualapai Way. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847159/attachment_0.png",
+    "Latitude": 36.115357500000002,
+    "Longitude": -115.314774
+  },
+  {
+    "UniqueId": 61766,
+    "Timestamp": "2026-11-04 15:50",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Carey Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:50 PM, Nov 04 2026 Crash on SB Nellis Blvd\u00A0at Carey Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847160/attachment_0.png",
+    "Latitude": 36.203605699999997,
+    "Longitude": -115.06225689999999
+  },
+  {
+    "UniqueId": 61767,
+    "Timestamp": "2026-11-04 15:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:52 PM, Nov 04 2026 Crash on NB I-15\u00A0before Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847161/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 61768,
+    "Timestamp": "2026-11-04 15:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "",
+    "Notes": "3:54 PM, Nov 04 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847171/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
