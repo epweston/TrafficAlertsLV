@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61616,
-    "Timestamp": "2026-11-03 06:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:40 AM, Nov 03 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843629/attachment_0.jpg",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 61617,
     "Timestamp": "2026-11-03 06:49",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845794/attachment_0.png",
     "Latitude": 36.291693742081051,
     "Longitude": -115.2797598374233
+  },
+  {
+    "UniqueId": 61712,
+    "Timestamp": "2026-11-04 06:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Mountain Vista St All Lanes Are",
+    "Impact": "Expect Delays Use other routes",
+    "Notes": "6:40 AM, Nov 04 2026 Crash on EB Flamingo Rd\u00A0at Mountain Vista St. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845787/attachment_0.jpg",
+    "Latitude": 36.114978399999998,
+    "Longitude": -115.0737826
+  },
+  {
+    "UniqueId": 61713,
+    "Timestamp": "2026-11-04 06:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Mountain Vista St 2",
+    "Impact": "Expect Delays",
+    "Notes": "6:41 AM, Nov 04 2026 Crash on EB Flamingo Rd\u00A0at Mountain Vista St. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.121504899999998,
+    "Longitude": -115.0769566
   }
 ]
