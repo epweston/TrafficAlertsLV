@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61628,
-    "Timestamp": "2026-11-03 09:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:12 AM, Nov 03 2026 Crash on SB Pecos Rd\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844033/attachment_0.jpg",
-    "Latitude": 36.289791190000003,
-    "Longitude": -115.09897463999999
-  },
-  {
     "UniqueId": 61629,
     "Timestamp": "2026-11-03 09:20",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 61739,
+    "Timestamp": "2026-11-04 09:11",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:11 AM, Nov 04 2026 Crash on NB Rampart Blvd\u00A0at Lake Mead Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846126/attachment_0.png",
+    "Latitude": 36.199951899999988,
+    "Longitude": -115.28239290000001
   }
 ]
