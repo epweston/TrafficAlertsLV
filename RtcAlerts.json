@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61584,
-    "Timestamp": "2026-11-02 22:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Elton Ave",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "10:02 PM, Nov 02 2026 Crash on SB Jones Blvd\u00A0at Elton Ave. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843325/attachment_0.png",
-    "Latitude": 36.171944000000003,
-    "Longitude": -115.2240144
-  },
-  {
     "UniqueId": 61585,
     "Timestamp": "2026-11-02 22:14",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845501/attachment_0.png",
     "Latitude": 36.078835617458502,
     "Longitude": -115.18136633150022
+  },
+  {
+    "UniqueId": 61692,
+    "Timestamp": "2026-11-03 21:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:59 PM, Nov 03 2026 Crash on NB Nellis Blvd\u00A0at Stewart Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845502/attachment_0.png",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
   }
 ]
