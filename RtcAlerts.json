@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61629,
-    "Timestamp": "2026-11-03 09:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Duneville St 2",
-    "Impact": "",
-    "Notes": "9:20 AM, Nov 03 2026 Crash on EB Spring Mountain Rd\u00A0at Duneville St. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844046/attachment_0.png",
-    "Latitude": 36.125649000000003,
-    "Longitude": -115.2207319
-  },
-  {
-    "UniqueId": 61630,
-    "Timestamp": "2026-11-03 09:33",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:33 AM, Nov 03 2026 Crash on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 61631,
-    "Timestamp": "2026-11-03 09:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 62",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:37 AM, Nov 03 2026 Stalled vehicle on NB I-15\u00A0at Mile 62. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844062/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 61632,
-    "Timestamp": "2026-11-03 09:40",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "9:40 AM, Nov 03 2026 Police activity on EB Tropicana Ave\u00A0at 215 Western Beltway. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3844137/attachment_0.png",
-    "Latitude": 36.100018540000001,
-    "Longitude": -115.29390152000001
-  },
-  {
     "UniqueId": 61633,
     "Timestamp": "2026-11-03 10:02",
     "IncidentType": "Crash",
@@ -1496,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846126/attachment_0.png",
     "Latitude": 36.199951899999988,
     "Longitude": -115.28239290000001
+  },
+  {
+    "UniqueId": 61740,
+    "Timestamp": "2026-11-04 09:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:52 AM, Nov 04 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846331/attachment_0.jpg",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
