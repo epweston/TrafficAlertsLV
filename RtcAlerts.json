@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61624,
-    "Timestamp": "2026-11-03 08:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave Transiti",
-    "Impact": "Expect Delays",
-    "Notes": "8:37 AM, Nov 03 2026 Crash on SB I-15\u00A0at Sahara Ave transition ramp left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843830/attachment_0.png",
-    "Latitude": 36.143591999999998,
-    "Longitude": -115.15758219999999
-  },
-  {
     "UniqueId": 61625,
     "Timestamp": "2026-11-03 08:40",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,33 @@
     "ImagePath": "",
     "Latitude": 36.078835617458502,
     "Longitude": -115.18136633150022
+  },
+  {
+    "UniqueId": 61735,
+    "Timestamp": "2026-11-04 08:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:35 AM, Nov 04 2026 Crash on NB I-11\u00A0after Rainbow Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846044/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 61736,
+    "Timestamp": "2026-11-04 08:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:36 AM, Nov 04 2026 Crash on SB Jones Blvd\u00A0at I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846046/attachment_0.png",
+    "Latitude": 36.174089876760839,
+    "Longitude": -115.22410077507317
   }
 ]
