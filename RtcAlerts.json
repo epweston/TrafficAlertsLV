@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61621,
-    "Timestamp": "2026-11-03 07:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Gowan Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:32 AM, Nov 03 2026 Crash on NB Nellis Blvd\u00A0after Gowan Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3843694/attachment_0.png",
-    "Latitude": 36.225704100000002,
-    "Longitude": -115.0622363
-  },
-  {
     "UniqueId": 61622,
     "Timestamp": "2026-11-03 07:53",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845923/attachment_0.png",
     "Latitude": 36.1217398,
     "Longitude": -115.146192
+  },
+  {
+    "UniqueId": 61720,
+    "Timestamp": "2026-11-04 07:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "before",
+    "CrossStreet": "Alexander Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:36 AM, Nov 04 2026 Crash on SB Rancho Dr\u00A0before Alexander Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845940/attachment_0.jpg",
+    "Latitude": 36.2312096,
+    "Longitude": -115.2248221
   }
 ]
