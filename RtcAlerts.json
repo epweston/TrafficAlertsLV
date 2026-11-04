@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61568,
-    "Timestamp": "2026-11-02 17:40",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:40 PM, Nov 02 2026 Crash on EB Cheyenne Ave\u00A0before Torrey Pines Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843307/attachment_0.png",
-    "Latitude": 36.217444759799662,
-    "Longitude": -115.23409366607666
-  },
-  {
-    "UniqueId": 61569,
-    "Timestamp": "2026-11-02 17:42",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:42 PM, Nov 02 2026 Crash on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843308/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 61570,
     "Timestamp": "2026-11-02 17:48",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845479/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 61675,
+    "Timestamp": "2026-11-03 17:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:38 PM, Nov 03 2026 Crash on NB Rancho Dr\u00A0at Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845480/attachment_0.png",
+    "Latitude": 36.209657399999998,
+    "Longitude": -115.2053971
   }
 ]
