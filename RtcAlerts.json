@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61578,
-    "Timestamp": "2026-11-02 19:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "7:28 PM, Nov 02 2026 Crash on NB Eastern Ave\u00A0before Horizon Ridge Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843344/attachment_0.png",
-    "Latitude": 35.999189399999999,
-    "Longitude": -115.1048687
-  },
-  {
-    "UniqueId": 61580,
-    "Timestamp": "2026-11-02 19:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:43 PM, Nov 02 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/02/file_attachments/3843323/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 61581,
     "Timestamp": "2026-11-02 20:00",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845541/attachment_0.png",
     "Latitude": 36.162990899999997,
     "Longitude": -115.1604596
+  },
+  {
+    "UniqueId": 61688,
+    "Timestamp": "2026-11-03 19:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Wilbur St",
+    "Impact": "",
+    "Notes": "7:48 PM, Nov 03 2026 Crash on WB Tropicana Ave\u00A0at Wilbur St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845543/attachment_0.png",
+    "Latitude": 36.100957899999997,
+    "Longitude": -115.14142750000001
   }
 ]
