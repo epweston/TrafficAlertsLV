@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61595,
-    "Timestamp": "2026-11-03 02:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "2:57 AM, Nov 03 2026 Crash on SB I-15\u00A0before Lamb Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 61596,
     "Timestamp": "2026-11-03 03:18",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845616/attachment_0.png",
     "Latitude": 36.158996094562028,
     "Longitude": -115.16085736012774
+  },
+  {
+    "UniqueId": 61699,
+    "Timestamp": "2026-11-04 02:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:59 AM, Nov 04 2026 Stalled vehicle on WB Flamingo Rd\u00A0at Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845621/attachment_0.png",
+    "Latitude": 36.115652300000001,
+    "Longitude": -115.1899418
   }
 ]
