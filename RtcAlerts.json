@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 61719,
-    "Timestamp": "2026-11-04 07:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:26 AM, Nov 04 2026 Crash on SB University Center Dr\u00A0at Twain Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845923/attachment_0.png",
-    "Latitude": 36.1217398,
-    "Longitude": -115.146192
-  },
-  {
-    "UniqueId": 61720,
-    "Timestamp": "2026-11-04 07:36",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Alexander Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:36 AM, Nov 04 2026 Crash on SB Rancho Dr\u00A0before Alexander Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845940/attachment_0.jpg",
-    "Latitude": 36.2312096,
-    "Longitude": -115.2248221
-  },
-  {
-    "UniqueId": 61721,
-    "Timestamp": "2026-11-04 07:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:47 AM, Nov 04 2026 Crash on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845969/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
-    "UniqueId": 61722,
-    "Timestamp": "2026-11-04 07:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:48 AM, Nov 04 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845962/attachment_0.jpg",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
-    "UniqueId": 61723,
-    "Timestamp": "2026-11-04 07:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mountain Vista St All Lanes Are",
-    "Impact": "Expect Delays Use other routes",
-    "Notes": "7:48 AM, Nov 04 2026 Crash on EB Flamingo Rd\u00A0at Mountain Vista St. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.114978399999998,
-    "Longitude": -115.0737826
-  },
-  {
     "UniqueId": 61724,
     "Timestamp": "2026-11-04 07:50",
     "IncidentType": "Crash",
@@ -1468,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847653/attachment_0.jpg",
     "Latitude": 36.0704159,
     "Longitude": -115.2873374
+  },
+  {
+    "UniqueId": 61827,
+    "Timestamp": "2026-11-05 07:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Wagon Wheel Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:46 AM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0before Wagon Wheel Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847718/attachment_0.png",
+    "Latitude": 35.99545027410926,
+    "Longitude": -114.93416109029313
   }
 ]
