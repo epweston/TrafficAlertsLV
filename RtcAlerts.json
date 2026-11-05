@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61675,
-    "Timestamp": "2026-11-03 17:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:38 PM, Nov 03 2026 Crash on NB Rancho Dr\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845480/attachment_0.png",
-    "Latitude": 36.209657399999998,
-    "Longitude": -115.2053971
-  },
-  {
     "UniqueId": 61676,
     "Timestamp": "2026-11-03 17:50",
     "IncidentType": "Crash",
@@ -1524,5 +1510,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847208/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61787,
+    "Timestamp": "2026-11-04 17:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:37 PM, Nov 04 2026 Crash on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847233/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 61788,
+    "Timestamp": "2026-11-04 17:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:39 PM, Nov 04 2026 Crash on NB I-15\u00A0at Tropicana Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847235/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
