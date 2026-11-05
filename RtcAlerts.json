@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61651,
-    "Timestamp": "2026-11-03 16:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "4 Right lanes blocked.",
-    "Notes": "4:14 PM, Nov 03 2026 Crash on SB I-15\u00A0before Silverado Ranch Blvd. 4 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845215/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 61654,
     "Timestamp": "2026-11-03 16:27",
     "IncidentType": "Crash",
@@ -1636,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847179/attachment_0.png",
     "Latitude": 36.023982587519889,
     "Longitude": -115.23457645845593
+  },
+  {
+    "UniqueId": 61772,
+    "Timestamp": "2026-11-04 16:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Burnham Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:18 PM, Nov 04 2026 Crash on WB Desert Inn Rd\u00A0at Burnham Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847183/attachment_0.png",
+    "Latitude": 36.129852700000001,
+    "Longitude": -115.1221839
+  },
+  {
+    "UniqueId": 61773,
+    "Timestamp": "2026-11-04 16:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:19 PM, Nov 04 2026 Crash on EB Flamingo Rd\u00A0at Pecos Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847185/attachment_0.png",
+    "Latitude": 36.115209200000002,
+    "Longitude": -115.1008898
   }
 ]
