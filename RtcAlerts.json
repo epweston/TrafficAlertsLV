@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61738,
-    "Timestamp": "2026-11-04 09:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:08 AM, Nov 04 2026 Crash on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 61739,
-    "Timestamp": "2026-11-04 09:11",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "9:11 AM, Nov 04 2026 Crash on NB Rampart Blvd\u00A0at Lake Mead Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846126/attachment_0.png",
-    "Latitude": 36.199951899999988,
-    "Longitude": -115.28239290000001
-  },
-  {
     "UniqueId": 61740,
     "Timestamp": "2026-11-04 09:52",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847882/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 61834,
+    "Timestamp": "2026-11-05 09:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Bermuda Rd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "9:23 AM, Nov 05 2026 Crash on EB Warm Springs Rd\u00A0at Bermuda Rd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848051/attachment_0.png",
+    "Latitude": 36.056967700000001,
+    "Longitude": -115.1543886
   }
 ]
