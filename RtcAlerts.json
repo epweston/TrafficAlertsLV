@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61743,
-    "Timestamp": "2026-11-04 11:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:43 AM, Nov 04 2026 Crash on NB Frank Sinatra Dr\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846774/attachment_0.png",
-    "Latitude": 36.102020600000003,
-    "Longitude": -115.17928480000001
-  },
-  {
-    "UniqueId": 61744,
-    "Timestamp": "2026-11-04 11:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder",
-    "Notes": "11:52 AM, Nov 04 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Left shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846781/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 61745,
-    "Timestamp": "2026-11-04 12:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "at",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:03 PM, Nov 04 2026 Crash on WB Windmill Ln\u00A0at Bermuda Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846794/attachment_0.jpg",
-    "Latitude": 36.042297933005074,
-    "Longitude": -115.15442132949831
-  },
-  {
-    "UniqueId": 61746,
-    "Timestamp": "2026-11-04 12:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Westcliff Dr",
-    "Relationship": "at",
-    "CrossStreet": "Underhill Ct",
-    "Impact": "",
-    "Notes": "12:09 PM, Nov 04 2026 Stalled vehicle on WB Westcliff Dr\u00A0at Underhill Ct (before Tenaya Way) Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846800/attachment_0.png",
-    "Latitude": 36.173893900000003,
-    "Longitude": -115.2492341
-  },
-  {
     "UniqueId": 61747,
     "Timestamp": "2026-11-04 12:16",
     "IncidentType": "Crash",
@@ -1342,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848315/attachment_0.jpg",
     "Latitude": 36.125444299999998,
     "Longitude": -115.1701368
+  },
+  {
+    "UniqueId": 61843,
+    "Timestamp": "2026-11-05 12:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "12:06 PM, Nov 05 2026 Crash on EB Cheyenne Ave\u00A0at Jones Blvd. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848339/attachment_0.png",
+    "Latitude": 36.216817199792388,
+    "Longitude": -115.22581636695935
   }
 ]
