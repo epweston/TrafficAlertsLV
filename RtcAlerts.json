@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61663,
-    "Timestamp": "2026-11-03 17:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:06 PM, Nov 03 2026 Stalled vehicle on SB I-15\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845511/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 61664,
-    "Timestamp": "2026-11-03 17:12",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:12 PM, Nov 03 2026 Crash on EB 215 Southern Beltway\u00A0to I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845466/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 61665,
-    "Timestamp": "2026-11-03 17:15",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:15 PM, Nov 03 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845515/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
     "UniqueId": 61666,
     "Timestamp": "2026-11-03 17:17",
     "IncidentType": "Crash",
@@ -1608,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847201/attachment_0.png",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 61781,
+    "Timestamp": "2026-11-04 17:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:11 PM, Nov 04 2026 Stalled vehicle on SB I-15\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847205/attachment_0.png",
+    "Latitude": 36.173668758672179,
+    "Longitude": -115.13793117559058
+  },
+  {
+    "UniqueId": 61782,
+    "Timestamp": "2026-11-04 17:13",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:13 PM, Nov 04 2026 Stalled vehicle on SB I-15\u00A0before I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847223/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
