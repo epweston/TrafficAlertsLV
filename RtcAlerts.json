@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61761,
-    "Timestamp": "2026-11-04 15:30",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:30 PM, Nov 04 2026 Crash on NB I-15\u00A0at Spring Mountain Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847142/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 61762,
     "Timestamp": "2026-11-04 15:38",
     "IncidentType": "Crash",
@@ -1342,5 +1328,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848668/attachment_0.png",
     "Latitude": 36.100036091395793,
     "Longitude": -115.10098681541832
+  },
+  {
+    "UniqueId": 61861,
+    "Timestamp": "2026-11-05 15:30",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Elkhorn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:30 PM, Nov 05 2026 Crash on WB Elkhorn Rd\u00A0at Cimarron Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848683/attachment_0.png",
+    "Latitude": 36.291164799999997,
+    "Longitude": -115.2694709
+  },
+  {
+    "UniqueId": 61862,
+    "Timestamp": "2026-11-05 15:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:30 PM, Nov 05 2026 Crash on EB 215 Southern Beltway\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848685/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
