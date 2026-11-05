@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61749,
-    "Timestamp": "2026-11-04 12:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "to",
-    "CrossStreet": "Flight Path Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:26 PM, Nov 04 2026 Crash on SB Paradise Rd\u00A0to Flight Path Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846844/attachment_0.png",
-    "Latitude": 36.085028807921326,
-    "Longitude": -115.14472782611848
-  },
-  {
-    "UniqueId": 61750,
-    "Timestamp": "2026-11-04 12:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:39 PM, Nov 04 2026 Crash on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846870/attachment_0.jpg",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
     "UniqueId": 61751,
     "Timestamp": "2026-11-04 12:59",
     "IncidentType": "Crash",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848377/attachment_0.jpg",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 61847,
+    "Timestamp": "2026-11-05 12:49",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Us-93",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:49 PM, Nov 05 2026 Crash on SB I-11\u00A0at US-93. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848440/attachment_0.jpg",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
