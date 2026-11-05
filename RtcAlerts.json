@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61724,
-    "Timestamp": "2026-11-04 07:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:50 AM, Nov 04 2026 Crash on WB 215 Southern Beltway\u00A0at Warm Springs Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845973/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
-    "UniqueId": 61725,
-    "Timestamp": "2026-11-04 07:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "7:58 AM, Nov 04 2026 Crash on EB Cheyenne Ave\u00A0at Buffalo Dr. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3845983/attachment_0.jpg",
-    "Latitude": 36.218311499999999,
-    "Longitude": -115.26037169999999
-  },
-  {
     "UniqueId": 61726,
     "Timestamp": "2026-11-04 08:00",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847718/attachment_0.png",
     "Latitude": 35.99545027410926,
     "Longitude": -114.93416109029313
+  },
+  {
+    "UniqueId": 61828,
+    "Timestamp": "2026-11-05 07:57",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:57 AM, Nov 05 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847728/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
