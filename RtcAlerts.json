@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61762,
-    "Timestamp": "2026-11-04 15:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:38 PM, Nov 04 2026 Crash on NB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847152/attachment_0.jpg",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 61763,
     "Timestamp": "2026-11-04 15:47",
     "IncidentType": "Crash",
@@ -1356,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848685/attachment_0.png",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 61863,
+    "Timestamp": "2026-11-05 15:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:42 PM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848712/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 61864,
+    "Timestamp": "2026-11-05 15:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:43 PM, Nov 05 2026 Crash on EB Craig Rd\u00A0before Nellis Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848715/attachment_0.jpg",
+    "Latitude": 36.240478848163598,
+    "Longitude": -115.06215334987286
   }
 ]
