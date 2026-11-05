@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61747,
-    "Timestamp": "2026-11-04 12:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:16 PM, Nov 04 2026 Crash on EB Lake Mead Blvd\u00A0after Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846831/attachment_0.png",
-    "Latitude": 36.195557000000001,
-    "Longitude": -115.2060887
-  },
-  {
-    "UniqueId": 61748,
-    "Timestamp": "2026-11-04 12:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "12:18 PM, Nov 04 2026 Stalled vehicle on NB I-15\u00A0before Cheyenne Ave. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3846826/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 61749,
     "Timestamp": "2026-11-04 12:26",
     "IncidentType": "Crash",
@@ -1314,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848345/attachment_0.jpg",
     "Latitude": 36.158928199999998,
     "Longitude": -115.2958727
+  },
+  {
+    "UniqueId": 61845,
+    "Timestamp": "2026-11-05 12:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "South Rancho Dr",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "12:16 PM, Nov 05 2026 Crash on NB South Rancho Dr\u00A0at I-11. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848368/attachment_0.png",
+    "Latitude": 36.152630899999998,
+    "Longitude": -115.1730148
   }
 ]
