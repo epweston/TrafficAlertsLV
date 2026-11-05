@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 61688,
-    "Timestamp": "2026-11-03 19:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Wilbur St",
-    "Impact": "",
-    "Notes": "7:48 PM, Nov 03 2026 Crash on WB Tropicana Ave\u00A0at Wilbur St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845543/attachment_0.png",
-    "Latitude": 36.100957899999997,
-    "Longitude": -115.14142750000001
-  },
-  {
-    "UniqueId": 61689,
-    "Timestamp": "2026-11-03 20:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:01 PM, Nov 03 2026 Stalled vehicle on NB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845500/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 61691,
-    "Timestamp": "2026-11-03 21:48",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:48 PM, Nov 03 2026 Police activity on SB I-15 Collector Distributor\u00A0after Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845501/attachment_0.png",
-    "Latitude": 36.078835617458502,
-    "Longitude": -115.18136633150022
-  },
-  {
-    "UniqueId": 61692,
-    "Timestamp": "2026-11-03 21:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:59 PM, Nov 03 2026 Crash on NB Nellis Blvd\u00A0at Stewart Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845502/attachment_0.png",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
     "UniqueId": 61693,
     "Timestamp": "2026-11-03 23:17",
     "IncidentType": "Crash",
@@ -1580,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847296/attachment_0.png",
     "Latitude": 36.129843100000002,
     "Longitude": -115.14594150000001
+  },
+  {
+    "UniqueId": 61804,
+    "Timestamp": "2026-11-04 22:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:00 PM, Nov 04 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847285/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
