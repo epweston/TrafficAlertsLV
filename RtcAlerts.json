@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61758,
-    "Timestamp": "2026-11-04 14:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "2:43 PM, Nov 04 2026 Crash on SB Rampart Blvd\u00A0before Charleston Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847110/attachment_0.png",
-    "Latitude": 36.158945099999997,
-    "Longitude": -115.29135580000001
-  },
-  {
     "UniqueId": 61759,
     "Timestamp": "2026-11-04 15:09",
     "IncidentType": "Crash",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848638/attachment_0.jpg",
     "Latitude": 36.2244381,
     "Longitude": -115.21890139999999
+  },
+  {
+    "UniqueId": 61857,
+    "Timestamp": "2026-11-05 14:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mtn Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:43 PM, Nov 05 2026 Stalled vehicle on SB I-15\u00A0at Spring Mtn Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848642/attachment_0.png",
+    "Latitude": 36.125444299999998,
+    "Longitude": -115.1701368
   }
 ]
