@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61681,
-    "Timestamp": "2026-11-03 18:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Pecos Rd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:18 PM, Nov 03 2026 Crash on NB Pecos Rd\u00A0before Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845534/attachment_0.png",
-    "Latitude": 36.100036091395793,
-    "Longitude": -115.10098681541832
-  },
-  {
-    "UniqueId": 61682,
-    "Timestamp": "2026-11-03 18:19",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:19 PM, Nov 03 2026 Crash on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845535/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 61683,
-    "Timestamp": "2026-11-03 18:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:22 PM, Nov 03 2026 Stalled vehicle on NB I-15\u00A0before Cactus Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/03/file_attachments/3845537/attachment_0.png",
-    "Latitude": 35.999066361520875,
-    "Longitude": -115.18071595327889
-  },
-  {
     "UniqueId": 61684,
     "Timestamp": "2026-11-03 18:37",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847248/attachment_0.png",
     "Latitude": 36.115088299999996,
     "Longitude": -115.0558965
+  },
+  {
+    "UniqueId": 61800,
+    "Timestamp": "2026-11-04 18:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:29 PM, Nov 04 2026 Crash on NB I-15\u00A0at Neon Gateway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847273/attachment_0.png",
+    "Latitude": 36.154855519034463,
+    "Longitude": -115.16114824468919
   }
 ]
