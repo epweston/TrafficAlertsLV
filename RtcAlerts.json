@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61827,
-    "Timestamp": "2026-11-05 07:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Wagon Wheel Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:46 AM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0before Wagon Wheel Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847718/attachment_0.png",
-    "Latitude": 35.99545027410926,
-    "Longitude": -114.93416109029313
-  },
-  {
     "UniqueId": 61828,
     "Timestamp": "2026-11-05 07:57",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849293/attachment_0.png",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 61933,
+    "Timestamp": "2026-11-06 07:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:44 AM, Nov 06 2026 Crash on NB I-15 (CD Rd) \u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849302/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 61934,
+    "Timestamp": "2026-11-06 07:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Elkhorn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Durham Springs Ct",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:48 AM, Nov 06 2026 Crash on WB Elkhorn Rd\u00A0at Durham Springs Ct. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849321/attachment_0.png",
+    "Latitude": 36.291037500000002,
+    "Longitude": -115.2672575
   }
 ]
