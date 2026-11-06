@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61825,
-    "Timestamp": "2026-11-05 07:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:16 AM, Nov 05 2026 Stalled vehicle on SB I-11\u00A0to I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847669/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 61826,
-    "Timestamp": "2026-11-05 07:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "before",
-    "CrossStreet": "Brent Thurman Way",
-    "Impact": "Left-turn lane blocked.",
-    "Notes": "7:19 AM, Nov 05 2026 Crash on EB Sunset Rd\u00A0before Brent Thurman Way. Left-turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847653/attachment_0.jpg",
-    "Latitude": 36.0704159,
-    "Longitude": -115.2873374
-  },
-  {
     "UniqueId": 61827,
     "Timestamp": "2026-11-05 07:46",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849210/attachment_0.png",
     "Latitude": 36.085176179133548,
     "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 61932,
+    "Timestamp": "2026-11-06 07:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:33 AM, Nov 06 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849293/attachment_0.png",
+    "Latitude": 36.144563512522332,
+    "Longitude": -115.33671498298646
   }
 ]
