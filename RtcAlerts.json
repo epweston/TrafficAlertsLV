@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61814,
-    "Timestamp": "2026-11-05 02:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:37 AM, Nov 05 2026 Stalled vehicle on NB I-15\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847354/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 61815,
     "Timestamp": "2026-11-05 03:28",
     "IncidentType": "Crash",
@@ -1510,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848908/attachment_0.jpg",
     "Latitude": 36.111131200000003,
     "Longitude": -115.17297687999999
+  },
+  {
+    "UniqueId": 61923,
+    "Timestamp": "2026-11-06 02:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Lower Flat Top Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:34 AM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0after Lower Flat Top Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848915/attachment_0.png",
+    "Latitude": 36.782583331008503,
+    "Longitude": -114.13802574824116
   }
 ]
