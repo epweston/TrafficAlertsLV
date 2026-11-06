@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61840,
-    "Timestamp": "2026-11-05 11:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:15 AM, Nov 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848257/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 61841,
-    "Timestamp": "2026-11-05 11:32",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "11:32 AM, Nov 05 2026 Crash on EB Craig Rd\u00A0at I-15. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848311/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
     "UniqueId": 61842,
     "Timestamp": "2026-11-05 11:38",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849737/attachment_0.jpg",
     "Latitude": 36.158918499999999,
     "Longitude": -115.11649490000001
+  },
+  {
+    "UniqueId": 61958,
+    "Timestamp": "2026-11-06 11:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Bonanza Rd",
+    "Relationship": "at",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "11:27 AM, Nov 06 2026 Crash on WB Bonanza Rd\u00A0at Nellis Blvd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849785/attachment_0.jpg",
+    "Latitude": 36.174032455275999,
+    "Longitude": -115.06216409024444
   }
 ]
