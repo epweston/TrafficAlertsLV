@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61857,
-    "Timestamp": "2026-11-05 14:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mtn Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:43 PM, Nov 05 2026 Stalled vehicle on SB I-15\u00A0at Spring Mtn Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848642/attachment_0.png",
-    "Latitude": 36.125444299999998,
-    "Longitude": -115.1701368
-  },
-  {
     "UniqueId": 61858,
     "Timestamp": "2026-11-05 15:07",
     "IncidentType": "Crash",
@@ -1678,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850110/attachment_0.png",
     "Latitude": 36.298464445139153,
     "Longitude": -115.28598403888641
+  },
+  {
+    "UniqueId": 61977,
+    "Timestamp": "2026-11-06 14:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:39 PM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850130/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 61978,
+    "Timestamp": "2026-11-06 14:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Spring Mtn Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:40 PM, Nov 06 2026 Crash on NB Decatur Blvd\u00A0after Spring Mtn Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850134/attachment_0.jpg",
+    "Latitude": 36.126278200000002,
+    "Longitude": -115.20802190000001
   }
 ]
