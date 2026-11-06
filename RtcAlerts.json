@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61859,
-    "Timestamp": "2026-11-05 15:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:09 PM, Nov 05 2026 Stalled vehicle on SB I-15\u00A0after Russell Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848660/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
     "UniqueId": 61860,
     "Timestamp": "2026-11-05 15:28",
     "IncidentType": "Crash",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850148/attachment_0.jpg",
     "Latitude": 36.027798599999997,
     "Longitude": -115.1004095
+  },
+  {
+    "UniqueId": 61981,
+    "Timestamp": "2026-11-06 15:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "3:10 PM, Nov 06 2026 Crash on NB I-15\u00A0at Tropicana Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850151/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
