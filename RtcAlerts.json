@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61821,
-    "Timestamp": "2026-11-05 06:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:38 AM, Nov 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Gibson Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847565/attachment_0.png",
-    "Latitude": 36.031900195953142,
-    "Longitude": -115.02954303693952
-  },
-  {
-    "UniqueId": 61822,
-    "Timestamp": "2026-11-05 06:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "6:49 AM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Center lane blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 61823,
     "Timestamp": "2026-11-05 07:04",
     "IncidentType": "Crash",
@@ -1510,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849169/attachment_0.jpg",
     "Latitude": 36.1255715,
     "Longitude": -115.1693689
+  },
+  {
+    "UniqueId": 61930,
+    "Timestamp": "2026-11-06 06:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:51 AM, Nov 06 2026 Crash on SB I-11\u00A0at Rancho Dr. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849196/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
