@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61843,
-    "Timestamp": "2026-11-05 12:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "2 Left lanes blocked. Expect Delays",
-    "Notes": "12:06 PM, Nov 05 2026 Crash on EB Cheyenne Ave\u00A0at Jones Blvd. 2 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848339/attachment_0.png",
-    "Latitude": 36.216817199792388,
-    "Longitude": -115.22581636695935
-  },
-  {
-    "UniqueId": 61844,
-    "Timestamp": "2026-11-05 12:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Windemere Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:10 PM, Nov 05 2026 Crash on EB Charleston Blvd\u00A0at Windemere Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848345/attachment_0.jpg",
-    "Latitude": 36.158928199999998,
-    "Longitude": -115.2958727
-  },
-  {
-    "UniqueId": 61845,
-    "Timestamp": "2026-11-05 12:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "South Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "12:16 PM, Nov 05 2026 Crash on NB South Rancho Dr\u00A0at I-11. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848368/attachment_0.png",
-    "Latitude": 36.152630899999998,
-    "Longitude": -115.1730148
-  },
-  {
     "UniqueId": 61846,
     "Timestamp": "2026-11-05 12:20",
     "IncidentType": "Crash",
@@ -1636,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849826/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 61960,
+    "Timestamp": "2026-11-06 12:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Aliante Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Elkhorn Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:17 PM, Nov 06 2026 Crash on NB Aliante Pkwy\u00A0at Elkhorn Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849906/attachment_0.png",
+    "Latitude": 36.292554899999999,
+    "Longitude": -115.1838125
+  },
+  {
+    "UniqueId": 61961,
+    "Timestamp": "2026-11-06 12:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin Luther King Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:18 PM, Nov 06 2026 Crash on SB Martin Luther King Blvd\u00A0before Washington Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849925/attachment_0.png",
+    "Latitude": 36.180861052200697,
+    "Longitude": -115.16088543120182
   }
 ]
