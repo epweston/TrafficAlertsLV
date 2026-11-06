@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61858,
-    "Timestamp": "2026-11-05 15:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:07 PM, Nov 05 2026 Crash on NB I-11\u00A0at Eastern Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848671/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 61859,
     "Timestamp": "2026-11-05 15:09",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850145/attachment_0.png",
     "Latitude": 36.122551399999999,
     "Longitude": -115.2080967
+  },
+  {
+    "UniqueId": 61980,
+    "Timestamp": "2026-11-06 15:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Intersection Partially Blocked.",
+    "Notes": "3:03 PM, Nov 06 2026 Crash on SB Pecos Rd\u00A0at Pebble Rd. Intersection Partially Blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850148/attachment_0.jpg",
+    "Latitude": 36.027798599999997,
+    "Longitude": -115.1004095
   }
 ]
