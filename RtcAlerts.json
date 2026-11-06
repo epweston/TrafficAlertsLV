@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61771,
-    "Timestamp": "2026-11-04 16:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:10 PM, Nov 04 2026 Crash on EB Blue Diamond Rd\u00A0at Torrey Pines Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847179/attachment_0.png",
-    "Latitude": 36.023982587519889,
-    "Longitude": -115.23457645845593
-  },
-  {
-    "UniqueId": 61772,
-    "Timestamp": "2026-11-04 16:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Burnham Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:18 PM, Nov 04 2026 Crash on WB Desert Inn Rd\u00A0at Burnham Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847183/attachment_0.png",
-    "Latitude": 36.129852700000001,
-    "Longitude": -115.1221839
-  },
-  {
-    "UniqueId": 61773,
-    "Timestamp": "2026-11-04 16:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:19 PM, Nov 04 2026 Crash on EB Flamingo Rd\u00A0at Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847185/attachment_0.png",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
     "UniqueId": 61774,
     "Timestamp": "2026-11-04 16:28",
     "IncidentType": "Crash",
@@ -1314,5 +1272,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848730/attachment_0.jpg",
     "Latitude": 36.071651799999998,
     "Longitude": -115.1187552
+  },
+  {
+    "UniqueId": 61869,
+    "Timestamp": "2026-11-05 16:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "EB Craig Rd Blocked\u00A0 Use other routes",
+    "Notes": "4:19 PM, Nov 05 2026 Crash on EB Craig Rd\u00A0before Nellis Blvd. EB Craig Rd Blocked\u00A0 Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848738/attachment_0.jpg",
+    "Latitude": 36.240478848163598,
+    "Longitude": -115.06215334987286
+  },
+  {
+    "UniqueId": 61870,
+    "Timestamp": "2026-11-05 16:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "",
+    "Notes": "4:20 PM, Nov 05 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after St Rose Pkwy on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848739/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
   }
 ]
