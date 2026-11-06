@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61834,
-    "Timestamp": "2026-11-05 09:23",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "9:23 AM, Nov 05 2026 Crash on EB Warm Springs Rd\u00A0at Bermuda Rd. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848051/attachment_0.png",
-    "Latitude": 36.056967700000001,
-    "Longitude": -115.1543886
-  },
-  {
     "UniqueId": 61835,
     "Timestamp": "2026-11-05 09:35",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849513/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 61944,
+    "Timestamp": "2026-11-06 09:29",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Gore blocked.",
+    "Notes": "9:29 AM, Nov 06 2026 Crash on WB 215 Northern Beltway\u00A0after Tropical Pkwy. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849551/attachment_0.png",
+    "Latitude": 36.270162900000003,
+    "Longitude": -115.2811351
   }
 ]
