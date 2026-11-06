@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61815,
-    "Timestamp": "2026-11-05 03:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:28 AM, Nov 05 2026 Crash on SB I-11\u00A0after Elkhorn Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847374/attachment_0.png",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
     "UniqueId": 61816,
     "Timestamp": "2026-11-05 04:41",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848950/attachment_0.png",
     "Latitude": 36.144388499999998,
     "Longitude": -115.19990439999999
+  },
+  {
+    "UniqueId": 61925,
+    "Timestamp": "2026-11-06 03:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:26 AM, Nov 06 2026 Crash on NB Durango Dr\u00A0at 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848938/attachment_0.png",
+    "Latitude": 36.066225699999997,
+    "Longitude": -115.2791549
   }
 ]
