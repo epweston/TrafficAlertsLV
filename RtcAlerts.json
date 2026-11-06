@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61787,
-    "Timestamp": "2026-11-04 17:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:37 PM, Nov 04 2026 Crash on SB I-15\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847233/attachment_0.png",
-    "Latitude": 36.085973850000002,
-    "Longitude": -115.18076596
-  },
-  {
-    "UniqueId": 61788,
-    "Timestamp": "2026-11-04 17:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:39 PM, Nov 04 2026 Crash on NB I-15\u00A0at Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847235/attachment_0.png",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
-    "UniqueId": 61789,
-    "Timestamp": "2026-11-04 17:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:44 PM, Nov 04 2026 Crash on NB I-11\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847236/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 61790,
     "Timestamp": "2026-11-04 17:47",
     "IncidentType": "Crash",
@@ -1300,5 +1258,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848808/attachment_0.png",
     "Latitude": 36.031900195953142,
     "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 61883,
+    "Timestamp": "2026-11-05 17:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "5:41 PM, Nov 05 2026 Crash on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848811/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
+  },
+  {
+    "UniqueId": 61884,
+    "Timestamp": "2026-11-05 17:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Rampart Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Del Webb Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:42 PM, Nov 05 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Del Webb Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848813/attachment_0.jpg",
+    "Latitude": 36.210221300000001,
+    "Longitude": -115.2790174
   }
 ]
