@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61863,
-    "Timestamp": "2026-11-05 15:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:42 PM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848712/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 61864,
-    "Timestamp": "2026-11-05 15:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:43 PM, Nov 05 2026 Crash on EB Craig Rd\u00A0before Nellis Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848715/attachment_0.jpg",
-    "Latitude": 36.240478848163598,
-    "Longitude": -115.06215334987286
-  },
-  {
     "UniqueId": 61865,
     "Timestamp": "2026-11-05 15:51",
     "IncidentType": "Stalled vehicle",
@@ -1706,5 +1678,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850171/attachment_0.png",
     "Latitude": 36.218685299999997,
     "Longitude": -115.2788607
+  },
+  {
+    "UniqueId": 61985,
+    "Timestamp": "2026-11-06 15:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:37 PM, Nov 06 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850161/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 61986,
+    "Timestamp": "2026-11-06 15:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:39 PM, Nov 06 2026 Stalled vehicle on NB I-15\u00A0after Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850162/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 61987,
+    "Timestamp": "2026-11-06 15:40",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Buffalo Dr",
+    "Relationship": "at",
+    "CrossStreet": "Robindale Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:40 PM, Nov 06 2026 Crash on NB Buffalo Dr\u00A0at Robindale Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850175/attachment_0.png",
+    "Latitude": 36.0483251,
+    "Longitude": -115.2610122
+  },
+  {
+    "UniqueId": 61988,
+    "Timestamp": "2026-11-06 15:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:41 PM, Nov 06 2026 Stalled vehicle on SB I-11\u00A0at US-95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850165/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
