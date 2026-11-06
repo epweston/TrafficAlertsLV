@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61784,
-    "Timestamp": "2026-11-04 17:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:19 PM, Nov 04 2026 Stalled vehicle on SB I-11\u00A0before Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847227/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
     "UniqueId": 61785,
     "Timestamp": "2026-11-04 17:26",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848803/attachment_0.jpg",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 61881,
+    "Timestamp": "2026-11-05 17:18",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "before",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Left lanes blocked. Expect Delays",
+    "Notes": "5:18 PM, Nov 05 2026 Crash on EB Desert Inn Rd\u00A0before Paradise Rd. Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848782/attachment_0.jpg",
+    "Latitude": 36.129609100000003,
+    "Longitude": -115.1547559
   }
 ]
