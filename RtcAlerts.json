@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61803,
-    "Timestamp": "2026-11-04 19:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:24 PM, Nov 04 2026 Crash on WB Desert Inn Rd\u00A0before University Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/04/file_attachments/3847296/attachment_0.png",
-    "Latitude": 36.129843100000002,
-    "Longitude": -115.14594150000001
-  },
-  {
     "UniqueId": 61804,
     "Timestamp": "2026-11-04 22:00",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848847/attachment_0.png",
     "Latitude": 36.125535343092892,
     "Longitude": -115.16933459027077
+  },
+  {
+    "UniqueId": 61899,
+    "Timestamp": "2026-11-05 19:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:49 PM, Nov 05 2026 Crash on NB I-11\u00A0after Sunset Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848853/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
