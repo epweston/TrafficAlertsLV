@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61850,
-    "Timestamp": "2026-11-05 13:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Pioneer Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:31 PM, Nov 05 2026 Crash on SB I-15\u00A0before Pioneer Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848511/attachment_0.png",
-    "Latitude": 36.033755200000002,
-    "Longitude": -114.96794370000001
-  },
-  {
-    "UniqueId": 61851,
-    "Timestamp": "2026-11-05 13:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:31 PM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848513/attachment_0.jpg",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 61852,
     "Timestamp": "2026-11-05 13:57",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850024/attachment_0.png",
     "Latitude": 36.174238600000002,
     "Longitude": -115.2060639
+  },
+  {
+    "UniqueId": 61966,
+    "Timestamp": "2026-11-06 13:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:27 PM, Nov 06 2026 Crash on NB I-15\u00A0after Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850027/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 61967,
+    "Timestamp": "2026-11-06 13:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Buchanan Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:28 PM, Nov 06 2026 Stalled vehicle on SB I-11\u00A0at Buchanan Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850049/attachment_0.png",
+    "Latitude": 35.934200883777393,
+    "Longitude": -114.84135389747479
   }
 ]
