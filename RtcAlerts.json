@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61812,
-    "Timestamp": "2026-11-05 00:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:54 AM, Nov 05 2026 Stalled vehicle on SB I-15\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847325/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
-    "UniqueId": 61813,
-    "Timestamp": "2026-11-05 01:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Great Basin Hwy",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:08 AM, Nov 05 2026 Stalled vehicle on NB Great Basin Hwy\u00A0after Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847335/attachment_0.png",
-    "Latitude": 36.383540400000001,
-    "Longitude": -114.8955794
-  },
-  {
     "UniqueId": 61814,
     "Timestamp": "2026-11-05 02:37",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1412,19 @@
     "ImagePath": "",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 61916,
+    "Timestamp": "2026-11-06 01:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:14 AM, Nov 06 2026 Crash on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848900/attachment_0.png",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
