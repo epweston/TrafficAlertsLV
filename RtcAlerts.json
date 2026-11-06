@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61833,
-    "Timestamp": "2026-11-05 09:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "9:00 AM, Nov 05 2026 Crash on SB I-11\u00A0at I-15. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3847882/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 61834,
     "Timestamp": "2026-11-05 09:23",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849403/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 61942,
+    "Timestamp": "2026-11-06 08:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:59 AM, Nov 06 2026 Stalled vehicle on EB Blue Diamond Rd\u00A0before Decatur Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849511/attachment_0.png",
+    "Latitude": 36.032555177363861,
+    "Longitude": -115.2078938274455
   }
 ]
