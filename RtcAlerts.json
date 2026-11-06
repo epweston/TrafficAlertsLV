@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61854,
-    "Timestamp": "2026-11-05 14:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:15 PM, Nov 05 2026 Stalled vehicle on SB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848599/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 61855,
-    "Timestamp": "2026-11-05 14:18",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "",
-    "Notes": "2:18 PM, Nov 05 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848602/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 61856,
     "Timestamp": "2026-11-05 14:39",
     "IncidentType": "Crash",
@@ -1664,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850079/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 61973,
+    "Timestamp": "2026-11-06 14:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Cc-215",
+    "Relationship": "at",
+    "CrossStreet": "Sky Pointe Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:14 PM, Nov 06 2026 Stalled vehicle on WB CC-215\u00A0at Sky Pointe Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850094/attachment_0.png",
+    "Latitude": 36.279313100000003,
+    "Longitude": -115.2648477
+  },
+  {
+    "UniqueId": 61974,
+    "Timestamp": "2026-11-06 14:17",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Starr Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:17 PM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0at Starr Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850096/attachment_0.png",
+    "Latitude": 35.984309228710906,
+    "Longitude": -115.18096446990968
   }
 ]
