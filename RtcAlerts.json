@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61959,
-    "Timestamp": "2026-11-06 11:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:51 AM, Nov 06 2026 Crash on SB 215 Western Beltway\u00A0before Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849826/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 61960,
     "Timestamp": "2026-11-06 12:17",
     "IncidentType": "Crash",
@@ -1480,6 +1466,20 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "11:37 AM, Nov 07 2026 Crash on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850463/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 62065,
+    "Timestamp": "2026-11-07 12:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:00 PM, Nov 07 2026 Stalled vehicle on NB I-11\u00A0after Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850440/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
   }
