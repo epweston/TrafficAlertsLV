@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61881,
-    "Timestamp": "2026-11-05 17:18",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Left lanes blocked. Expect Delays",
-    "Notes": "5:18 PM, Nov 05 2026 Crash on EB Desert Inn Rd\u00A0before Paradise Rd. Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848782/attachment_0.jpg",
-    "Latitude": 36.129609100000003,
-    "Longitude": -115.1547559
-  },
-  {
     "UniqueId": 61882,
     "Timestamp": "2026-11-05 17:24",
     "IncidentType": "Crash",
@@ -1776,5 +1762,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850237/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 62008,
+    "Timestamp": "2026-11-06 17:16",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Stephanie St",
+    "Impact": "Left shoulder",
+    "Notes": "5:16 PM, Nov 06 2026 Crash on NB I-11\u00A0at Stephanie St (past Sunset Rd). Left shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850239/attachment_0.png",
+    "Latitude": 36.088865900000002,
+    "Longitude": -115.04665730000001
+  },
+  {
+    "UniqueId": 62009,
+    "Timestamp": "2026-11-06 17:18",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:18 PM, Nov 06 2026 Crash on SB I-15\u00A0at Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850258/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
