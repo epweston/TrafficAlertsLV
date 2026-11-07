@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61923,
-    "Timestamp": "2026-11-06 02:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lower Flat Top Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:34 AM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0after Lower Flat Top Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848915/attachment_0.png",
-    "Latitude": 36.782583331008503,
-    "Longitude": -114.13802574824116
-  },
-  {
-    "UniqueId": 61924,
-    "Timestamp": "2026-11-06 03:18",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "3:18 AM, Nov 06 2026 Vehicle on fire on EB Sahara Ave\u00A0at Arville St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848950/attachment_0.png",
-    "Latitude": 36.144388499999998,
-    "Longitude": -115.19990439999999
-  },
-  {
     "UniqueId": 61925,
     "Timestamp": "2026-11-06 03:26",
     "IncidentType": "Crash",
@@ -1776,5 +1748,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850329/attachment_0.png",
     "Latitude": 36.04851352,
     "Longitude": -115.24323998
+  },
+  {
+    "UniqueId": 62050,
+    "Timestamp": "2026-11-07 03:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sands Ave",
+    "Relationship": "at",
+    "CrossStreet": "Koval Lane",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:18 AM, Nov 07 2026 Crash on WB Sands Ave\u00A0at Koval Lane. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850323/attachment_0.jpg",
+    "Latitude": 36.122458700000003,
+    "Longitude": -115.1641771
+  },
+  {
+    "UniqueId": 62051,
+    "Timestamp": "2026-11-07 03:20",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropical Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Mount Hood St",
+    "Impact": "",
+    "Notes": "3:20 AM, Nov 07 2026 Crash on WB Tropical Pkwy\u00A0after Mount Hood St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850330/attachment_0.png",
+    "Latitude": 36.269388499999998,
+    "Longitude": -115.03410479999999
   }
 ]
