@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61883,
-    "Timestamp": "2026-11-05 17:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "5:41 PM, Nov 05 2026 Crash on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848811/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 61884,
-    "Timestamp": "2026-11-05 17:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Del Webb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:42 PM, Nov 05 2026 Stalled vehicle on SB Rampart Blvd\u00A0at Del Webb Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848813/attachment_0.jpg",
-    "Latitude": 36.210221300000001,
-    "Longitude": -115.2790174
-  },
-  {
     "UniqueId": 61885,
     "Timestamp": "2026-11-05 17:57",
     "IncidentType": "Crash",
@@ -1860,5 +1832,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850244/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 62016,
+    "Timestamp": "2026-11-06 17:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:43 PM, Nov 06 2026 Crash on NB I-11\u00A0at Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850267/attachment_0.png",
+    "Latitude": 36.176171251817379,
+    "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 62017,
+    "Timestamp": "2026-11-06 17:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "5:43 PM, Nov 06 2026 Crash on SB Jones Blvd\u00A0at Sunset Rd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.070916414970533,
+    "Longitude": -115.22434649754285
+  },
+  {
+    "UniqueId": 62018,
+    "Timestamp": "2026-11-06 17:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "All lanes are blocked.",
+    "Notes": "5:44 PM, Nov 06 2026 Crash on NB Las Vegas Blvd\u00A0after Washington Ave. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.181185829999997,
+    "Longitude": -115.13418675
   }
 ]
