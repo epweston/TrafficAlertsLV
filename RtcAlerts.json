@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61880,
-    "Timestamp": "2026-11-05 17:13",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Expect Delays",
-    "Notes": "5:13 PM, Nov 05 2026 Crash on WB 215 Southern Beltway\u00A0before Stephanie St. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848803/attachment_0.jpg",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 61881,
     "Timestamp": "2026-11-05 17:18",
     "IncidentType": "Crash",
@@ -1762,5 +1748,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850254/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 62006,
+    "Timestamp": "2026-11-06 17:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "5:09 PM, Nov 06 2026 Crash on SB Jones Blvd\u00A0at Sunset Rd. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850256/attachment_0.png",
+    "Latitude": 36.070916414970533,
+    "Longitude": -115.22434649754285
+  },
+  {
+    "UniqueId": 62007,
+    "Timestamp": "2026-11-06 17:12",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder",
+    "Notes": "5:12 PM, Nov 06 2026 Crash on SB I-15\u00A0at Flamingo Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850237/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
