@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61873,
-    "Timestamp": "2026-11-05 16:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:29 PM, Nov 05 2026 Stalled vehicle on SB I-11\u00A0before College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848746/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 61874,
     "Timestamp": "2026-11-05 16:34",
     "IncidentType": "Crash",
@@ -1734,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850210/attachment_0.jpg",
     "Latitude": 36.071484099999999,
     "Longitude": -115.14830000000001
+  },
+  {
+    "UniqueId": 61997,
+    "Timestamp": "2026-11-06 16:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:30 PM, Nov 06 2026 Crash on SB I-11\u00A0at US-95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850214/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
