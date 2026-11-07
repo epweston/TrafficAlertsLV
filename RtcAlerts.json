@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61925,
-    "Timestamp": "2026-11-06 03:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:26 AM, Nov 06 2026 Crash on NB Durango Dr\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3848938/attachment_0.png",
-    "Latitude": 36.066225699999997,
-    "Longitude": -115.2791549
-  },
-  {
     "UniqueId": 61926,
     "Timestamp": "2026-11-06 05:14",
     "IncidentType": "Stalled vehicle",
@@ -1776,5 +1762,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850330/attachment_0.png",
     "Latitude": 36.269388499999998,
     "Longitude": -115.03410479999999
+  },
+  {
+    "UniqueId": 62052,
+    "Timestamp": "2026-11-07 03:36",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sr 169",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:36 AM, Nov 07 2026 Crash on SB I-15\u00A0at SR 169. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850325/attachment_0.png",
+    "Latitude": 48.9952313,
+    "Longitude": -111.95998659999999
+  },
+  {
+    "UniqueId": 62053,
+    "Timestamp": "2026-11-07 03:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:39 AM, Nov 07 2026 Crash on NB I-15\u00A0at Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850326/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
