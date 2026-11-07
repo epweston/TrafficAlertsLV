@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61888,
-    "Timestamp": "2026-11-05 18:09",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "South Rancho Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "6:09 PM, Nov 05 2026 Crash on NB I-11\u00A0at South Rancho Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848832/attachment_0.png",
-    "Latitude": 36.175301233937589,
-    "Longitude": -115.17409268502011
-  },
-  {
     "UniqueId": 61889,
     "Timestamp": "2026-11-05 18:27",
     "IncidentType": "Crash",
@@ -1916,5 +1902,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850273/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 62025,
+    "Timestamp": "2026-11-06 18:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:06 PM, Nov 06 2026 Crash on SB I-11\u00A0at US-95. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 62026,
+    "Timestamp": "2026-11-06 18:07",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "6:07 PM, Nov 06 2026 Crash on NB Las Vegas Blvd\u00A0at Spring Mountain Rd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850276/attachment_0.jpg",
+    "Latitude": 36.1255715,
+    "Longitude": -115.1693689
+  },
+  {
+    "UniqueId": 62027,
+    "Timestamp": "2026-11-06 18:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Stewart Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "6:09 PM, Nov 06 2026 Crash on NB Nellis Blvd\u00A0at Stewart Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850277/attachment_0.png",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
+  },
+  {
+    "UniqueId": 62028,
+    "Timestamp": "2026-11-06 18:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:09 PM, Nov 06 2026 Crash on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850278/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
