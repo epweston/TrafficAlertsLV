@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61871,
-    "Timestamp": "2026-11-05 16:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:23 PM, Nov 05 2026 Crash on SB Decatur Blvd\u00A0before Hacienda Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848742/attachment_0.jpg",
-    "Latitude": 36.093534051830723,
-    "Longitude": -115.20808696746828
-  },
-  {
-    "UniqueId": 61872,
-    "Timestamp": "2026-11-05 16:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:26 PM, Nov 05 2026 Crash on WB Russell Rd\u00A0after Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848762/attachment_0.png",
-    "Latitude": 36.085185000000003,
-    "Longitude": -115.24271880000001
-  },
-  {
     "UniqueId": 61873,
     "Timestamp": "2026-11-05 16:29",
     "IncidentType": "Stalled vehicle",
@@ -1748,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850207/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 61996,
+    "Timestamp": "2026-11-06 16:22",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Grier Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:22 PM, Nov 06 2026 Crash on WB Sunset Rd\u00A0at Grier Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850210/attachment_0.jpg",
+    "Latitude": 36.071484099999999,
+    "Longitude": -115.14830000000001
   }
 ]
