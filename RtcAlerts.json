@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 61960,
-    "Timestamp": "2026-11-06 12:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Aliante Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:17 PM, Nov 06 2026 Crash on NB Aliante Pkwy\u00A0at Elkhorn Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849906/attachment_0.png",
-    "Latitude": 36.292554899999999,
-    "Longitude": -115.1838125
-  },
-  {
-    "UniqueId": 61961,
-    "Timestamp": "2026-11-06 12:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin Luther King Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:18 PM, Nov 06 2026 Crash on SB Martin Luther King Blvd\u00A0before Washington Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849925/attachment_0.png",
-    "Latitude": 36.180861052200697,
-    "Longitude": -115.16088543120182
-  },
-  {
-    "UniqueId": 61962,
-    "Timestamp": "2026-11-06 12:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Vegas Dr",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "12:23 PM, Nov 06 2026 Crash on SB Martin L King Blvd\u00A0at Vegas Dr. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849950/attachment_0.png",
-    "Latitude": 36.1883999,
-    "Longitude": -115.1607734
-  },
-  {
-    "UniqueId": 61963,
-    "Timestamp": "2026-11-06 12:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:28 PM, Nov 06 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849970/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
-    "UniqueId": 61964,
-    "Timestamp": "2026-11-06 12:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:40 PM, Nov 06 2026 Crash on SB Valley View Blvd\u00A0after I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3849965/attachment_0.png",
-    "Latitude": 36.176219719999999,
-    "Longitude": -115.19255696000001
-  },
-  {
     "UniqueId": 61965,
     "Timestamp": "2026-11-06 13:25",
     "IncidentType": "Crash",
@@ -1510,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850470/attachment_0.png",
     "Latitude": 36.041321500000002,
     "Longitude": -115.2433135
+  },
+  {
+    "UniqueId": 62068,
+    "Timestamp": "2026-11-07 12:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:39 PM, Nov 07 2026 Stalled vehicle on SB I-11\u00A0at Horizon Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850444/attachment_0.png",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
   }
 ]
