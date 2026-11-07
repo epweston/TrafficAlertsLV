@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61899,
-    "Timestamp": "2026-11-05 19:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "7:49 PM, Nov 05 2026 Crash on NB I-11\u00A0after Sunset Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848853/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
     "UniqueId": 61900,
     "Timestamp": "2026-11-05 20:17",
     "IncidentType": "Crash",
@@ -1916,5 +1902,19 @@
     "ImagePath": "",
     "Latitude": 35.967876500000003,
     "Longitude": -114.8684033
+  },
+  {
+    "UniqueId": 62036,
+    "Timestamp": "2026-11-06 19:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "7:54 PM, Nov 06 2026 Crash on WB Cactus Ave\u00A0at Decatur Blvd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 35.9986356,
+    "Longitude": -115.2074791
   }
 ]
