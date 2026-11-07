@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 61877,
-    "Timestamp": "2026-11-05 16:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Commerce St",
-    "Impact": "",
-    "Notes": "4:59 PM, Nov 05 2026 Crash on EB Craig Rd\u00A0before Commerce St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848798/attachment_0.jpg",
-    "Latitude": 36.239392827432852,
-    "Longitude": -115.14375686645509
-  },
-  {
-    "UniqueId": 61878,
-    "Timestamp": "2026-11-05 17:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Hoover Dam",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:02 PM, Nov 05 2026 Stalled vehicle on NB I-11\u00A0after Hoover Dam . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848800/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 61879,
     "Timestamp": "2026-11-05 17:04",
     "IncidentType": "Crash",
@@ -1762,5 +1734,19 @@
     "ImagePath": "",
     "Latitude": 36.043447336539366,
     "Longitude": -115.18079292179071
+  },
+  {
+    "UniqueId": 62003,
+    "Timestamp": "2026-11-06 16:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:58 PM, Nov 06 2026 Crash on NB Las Vegas Blvd\u00A0after Washington Ave. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850250/attachment_0.png",
+    "Latitude": 36.181185829999997,
+    "Longitude": -115.13418675
   }
 ]
