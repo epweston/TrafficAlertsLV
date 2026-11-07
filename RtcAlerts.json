@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 61885,
-    "Timestamp": "2026-11-05 17:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Palmer St",
-    "Impact": "",
-    "Notes": "5:57 PM, Nov 05 2026 Crash on EB Lake Mead Blvd\u00A0at Palmer St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848817/attachment_0.jpg",
-    "Latitude": 36.195869199999997,
-    "Longitude": -115.1031933
-  },
-  {
-    "UniqueId": 61886,
-    "Timestamp": "2026-11-05 18:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Mcleod Dr",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:00 PM, Nov 05 2026 Crash on NB McLeod Dr\u00A0at Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848788/attachment_0.jpg",
-    "Latitude": 36.144393399999998,
-    "Longitude": -115.1099043
-  },
-  {
-    "UniqueId": 61887,
-    "Timestamp": "2026-11-05 18:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:05 PM, Nov 05 2026 Crash on NB Martin L King Blvd\u00A0at Bonanza Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/05/file_attachments/3848830/attachment_0.png",
-    "Latitude": 36.177173199999999,
-    "Longitude": -115.1609081
-  },
-  {
     "UniqueId": 61888,
     "Timestamp": "2026-11-05 18:09",
     "IncidentType": "Crash",
@@ -1916,5 +1874,47 @@
     "ImagePath": "",
     "Latitude": 36.171692200000003,
     "Longitude": -115.14637550000001
+  },
+  {
+    "UniqueId": 62022,
+    "Timestamp": "2026-11-06 18:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:01 PM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850248/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 62023,
+    "Timestamp": "2026-11-06 18:03",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Walnut Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:03 PM, Nov 06 2026 Crash on WB Craig Rd\u00A0at Walnut Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850290/attachment_0.png",
+    "Latitude": 36.240426800000002,
+    "Longitude": -115.0892226
+  },
+  {
+    "UniqueId": 62024,
+    "Timestamp": "2026-11-06 18:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:03 PM, Nov 06 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850273/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
