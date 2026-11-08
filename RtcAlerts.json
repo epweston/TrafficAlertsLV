@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62016,
-    "Timestamp": "2026-11-06 17:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:43 PM, Nov 06 2026 Crash on NB I-11\u00A0at Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850267/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 62017,
-    "Timestamp": "2026-11-06 17:43",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:43 PM, Nov 06 2026 Crash on SB Jones Blvd\u00A0at Sunset Rd. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.070916414970533,
-    "Longitude": -115.22434649754285
-  },
-  {
-    "UniqueId": 62018,
-    "Timestamp": "2026-11-06 17:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "5:44 PM, Nov 06 2026 Crash on NB Las Vegas Blvd\u00A0after Washington Ave. All lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.181185829999997,
-    "Longitude": -115.13418675
-  },
-  {
-    "UniqueId": 62019,
-    "Timestamp": "2026-11-06 17:45",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Van Patten St",
-    "Impact": "",
-    "Notes": "5:45 PM, Nov 06 2026 Crash on WB Sahara Ave\u00A0at Van Patten St. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850270/attachment_0.png",
-    "Latitude": 36.143737700000003,
-    "Longitude": -115.1486499
-  },
-  {
     "UniqueId": 62020,
     "Timestamp": "2026-11-06 17:49",
     "IncidentType": "Crash",
@@ -1132,5 +1076,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850537/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 62097,
+    "Timestamp": "2026-11-07 17:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Elm Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:44 PM, Nov 07 2026 Crash on NB Paradise Rd\u00A0at Elm Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850538/attachment_0.png",
+    "Latitude": 36.122971900000003,
+    "Longitude": -115.1548603
+  },
+  {
+    "UniqueId": 62098,
+    "Timestamp": "2026-11-07 17:45",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:45 PM, Nov 07 2026 Stalled vehicle on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850554/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
