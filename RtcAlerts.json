@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62055,
-    "Timestamp": "2026-11-07 04:05",
-    "IncidentType": "EMS",
-    "Direction": "NB",
-    "PrimaryRoad": "13Th St",
-    "Relationship": "at",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:05 AM, Nov 07 2026 EMS on NB 13th St\u00A0at Stewart Ave. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850335/attachment_0.png",
-    "Latitude": 36.167660300000001,
-    "Longitude": -115.1300196
-  },
-  {
     "UniqueId": 62056,
     "Timestamp": "2026-11-07 04:55",
     "IncidentType": "Crash",
@@ -1116,6 +1102,34 @@
     "Impact": "Right lane blocked.",
     "Notes": "4:00 AM, Nov 08 2026 Crash on WB 215 Southern Beltway\u00A0at Jones Blvd. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850607/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
+  },
+  {
+    "UniqueId": 62135,
+    "Timestamp": "2026-11-08 04:31",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mm 7",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:31 AM, Nov 08 2026 Vehicle on fire on SB I-15\u00A0at MM 7. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850629/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 62136,
+    "Timestamp": "2026-11-08 04:33",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:33 AM, Nov 08 2026 Crash on WB 215 Southern Beltway\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "",
     "Latitude": 36.173872897631313,
     "Longitude": -115.2240943740902
   }
