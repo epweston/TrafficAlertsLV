@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62022,
-    "Timestamp": "2026-11-06 18:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:01 PM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850248/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 62023,
     "Timestamp": "2026-11-06 18:03",
     "IncidentType": "Crash",
@@ -1104,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850540/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 62101,
+    "Timestamp": "2026-11-07 17:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Fremont St",
+    "Impact": "",
+    "Notes": "5:59 PM, Nov 07 2026 Crash on SB Las Vegas Blvd\u00A0at Fremont St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850541/attachment_0.jpg",
+    "Latitude": 36.1692362,
+    "Longitude": -115.14061959999999
   }
 ]
