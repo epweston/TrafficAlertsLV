@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62023,
-    "Timestamp": "2026-11-06 18:03",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Walnut Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:03 PM, Nov 06 2026 Crash on WB Craig Rd\u00A0at Walnut Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850290/attachment_0.png",
-    "Latitude": 36.240426800000002,
-    "Longitude": -115.0892226
-  },
-  {
-    "UniqueId": 62024,
-    "Timestamp": "2026-11-06 18:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:03 PM, Nov 06 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850273/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 62025,
-    "Timestamp": "2026-11-06 18:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Us-95",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:06 PM, Nov 06 2026 Crash on SB I-11\u00A0at US-95. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
-    "UniqueId": 62026,
-    "Timestamp": "2026-11-06 18:07",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Center lanes blocked.",
-    "Notes": "6:07 PM, Nov 06 2026 Crash on NB Las Vegas Blvd\u00A0at Spring Mountain Rd. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850276/attachment_0.jpg",
-    "Latitude": 36.1255715,
-    "Longitude": -115.1693689
-  },
-  {
     "UniqueId": 62027,
     "Timestamp": "2026-11-06 18:09",
     "IncidentType": "Crash",
@@ -1104,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850541/attachment_0.jpg",
     "Latitude": 36.1692362,
     "Longitude": -115.14061959999999
+  },
+  {
+    "UniqueId": 62102,
+    "Timestamp": "2026-11-07 18:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:04 PM, Nov 07 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Decatur Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850542/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
