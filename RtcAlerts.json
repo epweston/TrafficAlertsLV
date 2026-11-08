@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62062,
-    "Timestamp": "2026-11-07 10:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "El Capitan Way",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:49 AM, Nov 07 2026 Crash on WB Cheyenne Ave\u00A0before El Capitan Way. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850454/attachment_0.png",
-    "Latitude": 36.218656199999998,
-    "Longitude": -115.2879958
-  },
-  {
     "UniqueId": 62063,
     "Timestamp": "2026-11-07 11:31",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850789/attachment_0.png",
     "Latitude": 36.121397100000003,
     "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 62148,
+    "Timestamp": "2026-11-08 10:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:54 AM, Nov 08 2026 Stalled vehicle on SB I-15\u00A0after Washington Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850820/attachment_0.jpg",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
