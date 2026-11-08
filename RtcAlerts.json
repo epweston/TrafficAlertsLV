@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62082,
-    "Timestamp": "2026-11-07 15:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:27 PM, Nov 07 2026 Stalled vehicle on NB I-11\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850518/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 62083,
-    "Timestamp": "2026-11-07 15:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Torrey Pines Dr",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:29 PM, Nov 07 2026 Crash on SB Torrey Pines Dr\u00A0at Warm Springs Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850501/attachment_0.png",
-    "Latitude": 36.056121300000001,
-    "Longitude": -115.23399740000001
-  },
-  {
-    "UniqueId": 62084,
-    "Timestamp": "2026-11-07 15:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:30 PM, Nov 07 2026 Crash on EB Cheyenne Ave\u00A0before Losee Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850520/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12740612030031
-  },
-  {
     "UniqueId": 62085,
     "Timestamp": "2026-11-07 15:50",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1132,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850890/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 62166,
+    "Timestamp": "2026-11-08 15:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:32 PM, Nov 08 2026 Stalled vehicle on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850878/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 62167,
+    "Timestamp": "2026-11-08 15:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Gore blocked.",
+    "Notes": "3:34 PM, Nov 08 2026 Stalled vehicle on SB I-11\u00A0before Jones Blvd. Gore blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850892/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
