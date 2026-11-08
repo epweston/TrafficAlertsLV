@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62077,
-    "Timestamp": "2026-11-07 14:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Carey Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:24 PM, Nov 07 2026 Crash on SB Nellis Blvd\u00A0before Carey Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850510/attachment_0.png",
-    "Latitude": 36.203605699999997,
-    "Longitude": -115.06225689999999
-  },
-  {
     "UniqueId": 62078,
     "Timestamp": "2026-11-07 14:38",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850848/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 62162,
+    "Timestamp": "2026-11-08 14:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 10",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:20 PM, Nov 08 2026 Stalled vehicle on SB I-15\u00A0at Mile 10. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850866/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
