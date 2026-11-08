@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62035,
-    "Timestamp": "2026-11-06 19:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder City Parkway",
-    "Relationship": "at",
-    "CrossStreet": "Veterans Memorial Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:29 PM, Nov 06 2026 Crash on NB Boulder City Parkway\u00A0at Veterans Memorial Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 35.967876500000003,
-    "Longitude": -114.8684033
-  },
-  {
     "UniqueId": 62036,
     "Timestamp": "2026-11-06 19:54",
     "IncidentType": "Crash",
@@ -1048,5 +1034,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850566/attachment_0.png",
     "Latitude": 36.158985100000002,
     "Longitude": -115.2802104
+  },
+  {
+    "UniqueId": 62110,
+    "Timestamp": "2026-11-07 19:45",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:45 PM, Nov 07 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850571/attachment_0.jpg",
+    "Latitude": 36.071546221107518,
+    "Longitude": -115.14626596347613
   }
 ]
