@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62066,
-    "Timestamp": "2026-11-07 12:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "before",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:04 PM, Nov 07 2026 Crash on NB Boulder Hwy\u00A0before Desert Inn Rd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.130076181521673,
-    "Longitude": -115.08395114089632
-  },
-  {
-    "UniqueId": 62067,
-    "Timestamp": "2026-11-07 12:12",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Lane",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "12:12 PM, Nov 07 2026 Crash on SB Rainbow Blvd\u00A0at Windmill Lane. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850470/attachment_0.png",
-    "Latitude": 36.041321500000002,
-    "Longitude": -115.2433135
-  },
-  {
     "UniqueId": 62068,
     "Timestamp": "2026-11-07 12:39",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850837/attachment_0.png",
     "Latitude": 36.217645999999988,
     "Longitude": -115.0801499
+  },
+  {
+    "UniqueId": 62153,
+    "Timestamp": "2026-11-08 12:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:07 PM, Nov 08 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850827/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
