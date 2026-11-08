@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62061,
-    "Timestamp": "2026-11-07 09:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Palace Station",
-    "Impact": "Left lanes blocked Right lanes blocked.",
-    "Notes": "9:59 AM, Nov 07 2026 Crash on EB Sahara Ave\u00A0at Palace Station. Left lanes blocked Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850407/attachment_0.jpg",
-    "Latitude": 36.1429464,
-    "Longitude": -115.17493589999999
-  },
-  {
     "UniqueId": 62062,
     "Timestamp": "2026-11-07 10:49",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850645/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 62146,
+    "Timestamp": "2026-11-08 10:02",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Symphony Park Ave",
+    "Relationship": "after",
+    "CrossStreet": "Grand Central Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:02 AM, Nov 08 2026 Crash on WB Symphony Park Ave\u00A0after Grand Central Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850770/attachment_0.jpg",
+    "Latitude": 36.170363100000003,
+    "Longitude": -115.15348950000001
   }
 ]
