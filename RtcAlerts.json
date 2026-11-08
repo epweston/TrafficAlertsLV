@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62079,
-    "Timestamp": "2026-11-07 14:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:53 PM, Nov 07 2026 Crash on WB 215 Western Beltway\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850498/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
     "UniqueId": 62080,
     "Timestamp": "2026-11-07 15:02",
     "IncidentType": "Stalled vehicle",
@@ -1186,6 +1172,20 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "2:47 PM, Nov 08 2026 Stalled vehicle on NB I-15\u00A0at Mile 119. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850867/attachment_0.jpg",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 62164,
+    "Timestamp": "2026-11-08 14:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:51 PM, Nov 08 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850868/attachment_0.png",
     "Latitude": null,
     "Longitude": null
   }
