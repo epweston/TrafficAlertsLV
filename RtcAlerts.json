@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62058,
-    "Timestamp": "2026-11-07 07:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "7:54 AM, Nov 07 2026 Crash on NB Boulder Hwy\u00A0at Karen Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850383/attachment_0.png",
-    "Latitude": 36.141584799999997,
-    "Longitude": -115.09660940000001
-  },
-  {
-    "UniqueId": 62059,
-    "Timestamp": "2026-11-07 08:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Karen Ave",
-    "Impact": "Multiple lanes blocked. Use other routes",
-    "Notes": "8:02 AM, Nov 07 2026 Crash on NB Boulder Hwy\u00A0at Karen Ave. Multiple lanes blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.141584799999997,
-    "Longitude": -115.09660940000001
-  },
-  {
-    "UniqueId": 62060,
-    "Timestamp": "2026-11-07 08:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "2 Center lanes blocked.",
-    "Notes": "8:15 AM, Nov 07 2026 Crash on NB Las Vegas Blvd\u00A0at I-11. 2 Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850386/attachment_0.png",
-    "Latitude": 36.17364268,
-    "Longitude": -115.13789891
-  },
-  {
     "UniqueId": 62061,
     "Timestamp": "2026-11-07 09:59",
     "IncidentType": "Crash",
@@ -1216,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850687/attachment_0.jpg",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 62145,
+    "Timestamp": "2026-11-08 08:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:51 AM, Nov 08 2026 Crash on SB I-11\u00A0to Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850645/attachment_0.png",
+    "Latitude": 36.158801293307732,
+    "Longitude": -115.09162008762361
   }
 ]
