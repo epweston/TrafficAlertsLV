@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62033,
-    "Timestamp": "2026-11-06 18:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 PM, Nov 06 2026 Stalled vehicle on SB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850283/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 62034,
     "Timestamp": "2026-11-06 19:01",
     "IncidentType": "Crash",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850547/attachment_0.png",
     "Latitude": 36.129250999999996,
     "Longitude": -115.2610777
+  },
+  {
+    "UniqueId": 62107,
+    "Timestamp": "2026-11-07 18:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Russell",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:55 PM, Nov 07 2026 Crash on SB 215 Western Beltway\u00A0at Russell. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850564/attachment_0.png",
+    "Latitude": 36.229032400000001,
+    "Longitude": -115.32209159999999
   }
 ]
