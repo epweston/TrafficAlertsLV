@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62049,
-    "Timestamp": "2026-11-07 01:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:56 AM, Nov 07 2026 Crash on SB Rainbow Blvd\u00A0before Robindale Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850329/attachment_0.png",
-    "Latitude": 36.04851352,
-    "Longitude": -115.24323998
-  },
-  {
     "UniqueId": 62050,
     "Timestamp": "2026-11-07 03:18",
     "IncidentType": "Crash",
@@ -1076,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850596/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 62126,
+    "Timestamp": "2026-11-08 02:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Western Ave",
+    "Relationship": "at",
+    "CrossStreet": "Neon Gateway",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:14 AM, Nov 08 2026 Crash on NB Western Ave\u00A0at Neon Gateway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850616/attachment_0.jpg",
+    "Latitude": 36.154844799999999,
+    "Longitude": -115.159863
   }
 ]
