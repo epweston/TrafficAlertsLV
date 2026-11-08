@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62034,
-    "Timestamp": "2026-11-06 19:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Shadow Ln",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:01 PM, Nov 06 2026 Crash on WB Charleston Blvd\u00A0at Shadow Ln. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850298/attachment_0.png",
-    "Latitude": 36.158870610189418,
-    "Longitude": -115.16547203273701
-  },
-  {
     "UniqueId": 62035,
     "Timestamp": "2026-11-06 19:29",
     "IncidentType": "Crash",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850564/attachment_0.png",
     "Latitude": 36.229032400000001,
     "Longitude": -115.32209159999999
+  },
+  {
+    "UniqueId": 62108,
+    "Timestamp": "2026-11-07 19:11",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:11 PM, Nov 07 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850548/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
