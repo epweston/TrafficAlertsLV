@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62075,
-    "Timestamp": "2026-11-07 13:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Intersection Partially Blocked.",
-    "Notes": "1:50 PM, Nov 07 2026 Crash on SB Rainbow Blvd\u00A0at Windmill Ln. Intersection Partially Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850489/attachment_0.png",
-    "Latitude": 36.041321500000002,
-    "Longitude": -115.2433135
-  },
-  {
     "UniqueId": 62076,
     "Timestamp": "2026-11-07 14:13",
     "IncidentType": "Stalled vehicle",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850857/attachment_0.png",
     "Latitude": 36.043451719876728,
     "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 62157,
+    "Timestamp": "2026-11-08 14:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:03 PM, Nov 08 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850859/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
