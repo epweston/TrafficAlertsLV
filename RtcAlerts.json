@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62042,
-    "Timestamp": "2026-11-06 21:22",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:22 PM, Nov 06 2026 Crash on NB Flamingo Rd\u00A0at University Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850300/attachment_0.png",
-    "Latitude": 36.114693462474712,
-    "Longitude": -115.14635429434829
-  },
-  {
-    "UniqueId": 62043,
-    "Timestamp": "2026-11-06 21:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "9:35 PM, Nov 06 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850313/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 62044,
-    "Timestamp": "2026-11-06 21:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "9:53 PM, Nov 06 2026 Crash on NB University Center Dr\u00A0at Flamingo Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850314/attachment_0.png",
-    "Latitude": 36.114769000000003,
-    "Longitude": -115.1463734
-  },
-  {
-    "UniqueId": 62045,
-    "Timestamp": "2026-11-06 22:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:02 PM, Nov 06 2026 Crash on NB I-11\u00A0at 215 Northern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850303/attachment_0.png",
-    "Latitude": 36.033552862846953,
-    "Longitude": -115.01434604859962
-  },
-  {
     "UniqueId": 62046,
     "Timestamp": "2026-11-06 22:12",
     "IncidentType": "Stalled vehicle",
@@ -1048,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850581/attachment_0.png",
     "Latitude": 36.177653931557593,
     "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 62117,
+    "Timestamp": "2026-11-07 21:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Center lane blocked Right lane blocked.",
+    "Notes": "9:58 PM, Nov 07 2026 Crash on SB I-15\u00A0before Washington Ave. Center lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850583/attachment_0.png",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
