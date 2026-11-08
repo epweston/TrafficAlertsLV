@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 61994,
-    "Timestamp": "2026-11-06 15:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd North",
-    "Relationship": "at",
-    "CrossStreet": "Owens Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:58 PM, Nov 06 2026 Crash on NB Las Vegas Blvd North\u00A0at Owens Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850200/attachment_0.png",
-    "Latitude": 36.188501600000002,
-    "Longitude": -115.1341261
-  },
-  {
     "UniqueId": 61995,
     "Timestamp": "2026-11-06 16:16",
     "IncidentType": "Crash",
@@ -1300,5 +1286,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850522/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 62087,
+    "Timestamp": "2026-11-07 16:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:01 PM, Nov 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850506/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 62088,
+    "Timestamp": "2026-11-07 16:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:02 PM, Nov 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Warm Springs Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850508/attachment_0.png",
+    "Latitude": 36.057356226354429,
+    "Longitude": -115.14068558631651
+  },
+  {
+    "UniqueId": 62089,
+    "Timestamp": "2026-11-07 16:04",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:04 PM, Nov 07 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850524/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
