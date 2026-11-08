@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62063,
-    "Timestamp": "2026-11-07 11:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:31 AM, Nov 07 2026 Crash on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850438/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 62064,
     "Timestamp": "2026-11-07 11:37",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850832/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 62151,
+    "Timestamp": "2026-11-08 11:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:27 AM, Nov 08 2026 Stalled vehicle on SB I-11\u00A0before Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850824/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
