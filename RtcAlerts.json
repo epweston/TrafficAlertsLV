@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62029,
-    "Timestamp": "2026-11-06 18:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:21 PM, Nov 06 2026 Crash on SB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850279/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
-    "UniqueId": 62030,
-    "Timestamp": "2026-11-06 18:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Main St Lanes Are Back Open",
-    "Impact": "Use Caution.",
-    "Notes": "6:25 PM, Nov 06 2026 Crash on SB I-15\u00A0at Main St. Lanes are back open. Use Caution.",
-    "ImagePath": "",
-    "Latitude": 36.171692200000003,
-    "Longitude": -115.14637550000001
-  },
-  {
-    "UniqueId": 62031,
-    "Timestamp": "2026-11-06 18:25",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "6:25 PM, Nov 06 2026 Crash on WB Cactus Ave\u00A0at Decatur Blvd. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850294/attachment_0.jpg",
-    "Latitude": 35.9986356,
-    "Longitude": -115.2074791
-  },
-  {
-    "UniqueId": 62032,
-    "Timestamp": "2026-11-06 18:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:30 PM, Nov 06 2026 Crash on SB Paradise Rd\u00A0at Desert Inn Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/06/file_attachments/3850296/attachment_0.png",
-    "Latitude": 36.12951294782809,
-    "Longitude": -115.15485582743371
-  },
-  {
     "UniqueId": 62033,
     "Timestamp": "2026-11-06 18:45",
     "IncidentType": "Stalled vehicle",
@@ -1048,5 +992,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850559/attachment_0.png",
     "Latitude": 36.2033214,
     "Longitude": -115.24223550000001
+  },
+  {
+    "UniqueId": 62104,
+    "Timestamp": "2026-11-07 18:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Hacienda",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:27 PM, Nov 07 2026 Crash on NB Eastern Ave\u00A0before Hacienda. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850561/attachment_0.png",
+    "Latitude": 36.093054000000002,
+    "Longitude": -115.1188923
   }
 ]
