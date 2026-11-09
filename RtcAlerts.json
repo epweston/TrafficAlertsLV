@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62125,
-    "Timestamp": "2026-11-08 01:12",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:12 AM, Nov 08 2026 Other on NB I-15\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850596/attachment_0.png",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 62126,
     "Timestamp": "2026-11-08 02:14",
     "IncidentType": "Crash",
@@ -950,5 +936,19 @@
     "ImagePath": "",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 62199,
+    "Timestamp": "2026-11-09 01:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:51 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
