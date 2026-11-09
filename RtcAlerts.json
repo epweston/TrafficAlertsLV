@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62132,
-    "Timestamp": "2026-11-08 03:32",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Eastgate Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "3:32 AM, Nov 08 2026 Police activity on EB Lake Mead Pkwy\u00A0at Eastgate Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850605/attachment_0.png",
-    "Latitude": 36.034325041044013,
-    "Longitude": -115.0078868949862
-  },
-  {
-    "UniqueId": 62133,
-    "Timestamp": "2026-11-08 03:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Multiple lanes blocked. Expect Delays",
-    "Notes": "3:48 AM, Nov 08 2026 Crash on SB I-15\u00A0at Cheyenne Ave. Multiple lanes blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
-    "UniqueId": 62134,
-    "Timestamp": "2026-11-08 04:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:00 AM, Nov 08 2026 Crash on WB 215 Southern Beltway\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850607/attachment_0.png",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 62135,
     "Timestamp": "2026-11-08 04:31",
     "IncidentType": "Vehicle on fire",
@@ -934,6 +892,34 @@
     "Impact": "All lanes are blocked. Expect Delays Use other routes",
     "Notes": "3:23 AM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0at Oakey Blvd. All lanes are blocked. Expect Delays Use other routes",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851017/attachment_0.jpg",
+    "Latitude": 36.151245299999999,
+    "Longitude": -115.1525166
+  },
+  {
+    "UniqueId": 62205,
+    "Timestamp": "2026-11-09 04:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:02 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 62206,
+    "Timestamp": "2026-11-09 04:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:02 AM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0at Oakey Blvd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
     "Latitude": 36.151245299999999,
     "Longitude": -115.1525166
   }
