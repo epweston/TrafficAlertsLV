@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62123,
-    "Timestamp": "2026-11-08 00:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:03 AM, Nov 08 2026 Crash on EB Desert Inn Rd\u00A0at Eastern Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850592/attachment_0.png",
-    "Latitude": 36.12983354794379,
-    "Longitude": -115.11856560125827
-  },
-  {
-    "UniqueId": 62124,
-    "Timestamp": "2026-11-08 00:18",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:18 AM, Nov 08 2026 Crash on NB I-11\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850594/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 62125,
     "Timestamp": "2026-11-08 01:12",
     "IncidentType": "Other",
@@ -950,5 +922,19 @@
     "ImagePath": "",
     "Latitude": 36.126278200000002,
     "Longitude": -115.20802190000001
+  },
+  {
+    "UniqueId": 62197,
+    "Timestamp": "2026-11-09 00:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 56",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:41 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
