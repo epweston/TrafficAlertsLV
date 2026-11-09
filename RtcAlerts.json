@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62137,
-    "Timestamp": "2026-11-08 04:44",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:44 AM, Nov 08 2026 Crash on SB Rancho Dr\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850650/attachment_0.png",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
-    "UniqueId": 62138,
-    "Timestamp": "2026-11-08 05:05",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:05 AM, Nov 08 2026 Crash on WB 215 Southern Beltway\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173872897631313,
-    "Longitude": -115.2240943740902
-  },
-  {
     "UniqueId": 62139,
     "Timestamp": "2026-11-08 05:11",
     "IncidentType": "Crash",
@@ -908,5 +880,19 @@
     "ImagePath": "",
     "Latitude": 36.151245299999999,
     "Longitude": -115.1525166
+  },
+  {
+    "UniqueId": 62208,
+    "Timestamp": "2026-11-09 05:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:03 AM, Nov 09 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851127/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
