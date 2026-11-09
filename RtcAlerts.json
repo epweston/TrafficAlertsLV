@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62141,
-    "Timestamp": "2026-11-08 05:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:23 AM, Nov 08 2026 Crash on SB Rancho Dr\u00A0at Charleston Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
     "UniqueId": 62142,
     "Timestamp": "2026-11-08 06:14",
     "IncidentType": "Crash",
@@ -908,5 +894,19 @@
     "ImagePath": "",
     "Latitude": 36.151245299999999,
     "Longitude": -115.1525166
+  },
+  {
+    "UniqueId": 62212,
+    "Timestamp": "2026-11-09 05:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Mile 21",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:39 AM, Nov 09 2026 Stalled vehicle on SB I-15\u00A0after Mile 21. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851159/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
