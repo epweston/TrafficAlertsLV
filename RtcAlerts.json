@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62148,
-    "Timestamp": "2026-11-08 10:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:54 AM, Nov 08 2026 Stalled vehicle on SB I-15\u00A0after Washington Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850820/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 62149,
     "Timestamp": "2026-11-08 11:03",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851748/attachment_0.png",
     "Latitude": 36.144411300000002,
     "Longitude": -115.1441166
+  },
+  {
+    "UniqueId": 62247,
+    "Timestamp": "2026-11-09 10:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:52 AM, Nov 09 2026 Crash on NB Fort Apache Rd\u00A0after Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851871/attachment_0.png",
+    "Latitude": 36.070283500000002,
+    "Longitude": -115.2977282
   }
 ]
