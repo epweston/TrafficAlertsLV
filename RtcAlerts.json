@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62152,
-    "Timestamp": "2026-11-08 11:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "11:57 AM, Nov 08 2026 Crash on EB Cheyenne Ave\u00A0at Lamb Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850837/attachment_0.png",
-    "Latitude": 36.217645999999988,
-    "Longitude": -115.0801499
-  },
-  {
-    "UniqueId": 62153,
-    "Timestamp": "2026-11-08 12:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:07 PM, Nov 08 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850827/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 62154,
     "Timestamp": "2026-11-08 12:25",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1328,19 @@
     "ImagePath": "",
     "Latitude": 36.111131200000003,
     "Longitude": -115.17297687999999
+  },
+  {
+    "UniqueId": 62255,
+    "Timestamp": "2026-11-09 12:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:09 PM, Nov 09 2026 Crash on SB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852004/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
