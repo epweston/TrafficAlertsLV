@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62164,
-    "Timestamp": "2026-11-08 14:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 56",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:51 PM, Nov 08 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850868/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 62165,
     "Timestamp": "2026-11-08 15:16",
     "IncidentType": "Crash",
@@ -1384,5 +1370,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852269/attachment_0.jpg",
     "Latitude": 36.292112099999997,
     "Longitude": -115.317025
+  },
+  {
+    "UniqueId": 62269,
+    "Timestamp": "2026-11-09 14:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "2:50 PM, Nov 09 2026 Crash on WB 215 Southern Beltway\u00A0at Gibson Rd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852270/attachment_0.jpg",
+    "Latitude": 36.031900195953142,
+    "Longitude": -115.02954303693952
+  },
+  {
+    "UniqueId": 62270,
+    "Timestamp": "2026-11-09 14:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:52 PM, Nov 09 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852268/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
