@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62090,
-    "Timestamp": "2026-11-07 16:11",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Bruce Woodbury Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:11 PM, Nov 07 2026 Stalled vehicle on NB Bruce Woodbury Beltway\u00A0at Russell Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850530/attachment_0.png",
-    "Latitude": 36.085086099999998,
-    "Longitude": -115.2466233
-  },
-  {
     "UniqueId": 62091,
     "Timestamp": "2026-11-07 17:01",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850884/attachment_0.png",
     "Latitude": 36.196014353999097,
     "Longitude": -115.24451135959842
+  },
+  {
+    "UniqueId": 62173,
+    "Timestamp": "2026-11-08 16:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:53 PM, Nov 08 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850909/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
