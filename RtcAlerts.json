@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62151,
-    "Timestamp": "2026-11-08 11:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:27 AM, Nov 08 2026 Stalled vehicle on SB I-11\u00A0before Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850824/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 62152,
     "Timestamp": "2026-11-08 11:57",
     "IncidentType": "Crash",
@@ -1298,6 +1284,20 @@
     "Impact": "All lanes are blocked. Expect Delays Use other routes",
     "Notes": "11:21 AM, Nov 09 2026 Crash on WB Ann Rd\u00A0at Jones Blvd. All lanes are blocked. Expect Delays Use other routes",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851907/attachment_0.png",
+    "Latitude": 36.260987399999998,
+    "Longitude": -115.22539430000001
+  },
+  {
+    "UniqueId": 62250,
+    "Timestamp": "2026-11-09 11:28",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Ann Rd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "11:28 AM, Nov 09 2026 Crash on SB Jones Blvd\u00A0at Ann Rd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851936/attachment_0.png",
     "Latitude": 36.260987399999998,
     "Longitude": -115.22539430000001
   }
