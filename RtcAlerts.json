@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62147,
-    "Timestamp": "2026-11-08 10:05",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:05 AM, Nov 08 2026 Police activity on NB US-95\u00A0at I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850789/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 62148,
     "Timestamp": "2026-11-08 10:54",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851641/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 62244,
+    "Timestamp": "2026-11-09 10:14",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "10:14 AM, Nov 09 2026 Crash on SB Eastern Ave\u00A0after St Rose Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851673/attachment_0.png",
+    "Latitude": 36.007212199999998,
+    "Longitude": -115.11429010000001
   }
 ]
