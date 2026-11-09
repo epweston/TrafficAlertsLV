@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62088,
-    "Timestamp": "2026-11-07 16:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:02 PM, Nov 07 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Warm Springs Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850508/attachment_0.png",
-    "Latitude": 36.057356226354429,
-    "Longitude": -115.14068558631651
-  },
-  {
-    "UniqueId": 62089,
-    "Timestamp": "2026-11-07 16:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:04 PM, Nov 07 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/07/file_attachments/3850524/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 62090,
     "Timestamp": "2026-11-07 16:11",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850896/attachment_0.png",
     "Latitude": 36.2176069,
     "Longitude": -115.0933543
+  },
+  {
+    "UniqueId": 62171,
+    "Timestamp": "2026-11-08 16:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Wb Lake Mead Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:02 PM, Nov 08 2026 Crash on NB I-11 ramp to WB Lake Mead Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850884/attachment_0.png",
+    "Latitude": 36.196014353999097,
+    "Longitude": -115.24451135959842
   }
 ]
