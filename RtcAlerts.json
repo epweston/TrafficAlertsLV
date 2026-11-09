@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62146,
-    "Timestamp": "2026-11-08 10:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Symphony Park Ave",
-    "Relationship": "after",
-    "CrossStreet": "Grand Central Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:02 AM, Nov 08 2026 Crash on WB Symphony Park Ave\u00A0after Grand Central Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850770/attachment_0.jpg",
-    "Latitude": 36.170363100000003,
-    "Longitude": -115.15348950000001
-  },
-  {
     "UniqueId": 62147,
     "Timestamp": "2026-11-08 10:05",
     "IncidentType": "Police activity",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851607/attachment_0.jpg",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 62243,
+    "Timestamp": "2026-11-09 09:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 25",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:59 AM, Nov 09 2026 Stalled vehicle on SB I-15\u00A0at Mile 25. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851641/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
