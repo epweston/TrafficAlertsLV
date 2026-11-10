@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62237,
-    "Timestamp": "2026-11-09 09:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "9:06 AM, Nov 09 2026 Crash on NB Rainbow Blvd\u00A0after Blue Diamond Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851521/attachment_0.jpg",
-    "Latitude": 36.022550799999998,
-    "Longitude": -115.2434145
-  },
-  {
     "UniqueId": 62238,
     "Timestamp": "2026-11-09 09:23",
     "IncidentType": "Crash",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852998/attachment_0.png",
     "Latitude": 36.293459499999997,
     "Longitude": -115.18487740000001
+  },
+  {
+    "UniqueId": 62339,
+    "Timestamp": "2026-11-10 09:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:03 AM, Nov 10 2026 Crash on SB I-11\u00A0at Rainbow Blvd off ramp. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853003/attachment_0.png",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 62340,
+    "Timestamp": "2026-11-10 09:07",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sirius Ave",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:07 AM, Nov 10 2026 Crash on EB Sirius Ave\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853027/attachment_0.png",
+    "Latitude": 36.133601800000001,
+    "Longitude": -115.2080168
   }
 ]
