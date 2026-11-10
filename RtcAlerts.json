@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62176,
-    "Timestamp": "2026-11-08 17:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "5:38 PM, Nov 08 2026 Crash on NB Las Vegas Blvd\u00A0at Robindale Rd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850901/attachment_0.png",
-    "Latitude": 36.0496348,
-    "Longitude": -115.172269
-  },
-  {
     "UniqueId": 62177,
     "Timestamp": "2026-11-08 18:28",
     "IncidentType": "Crash",
@@ -1482,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852414/attachment_0.png",
     "Latitude": 36.013321931077591,
     "Longitude": -115.1188606707682
+  },
+  {
+    "UniqueId": 62287,
+    "Timestamp": "2026-11-09 17:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:35 PM, Nov 09 2026 Crash on NB Martin L King Blvd\u00A0after Bonanza Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852416/attachment_0.jpg",
+    "Latitude": 36.177173199999999,
+    "Longitude": -115.1609081
+  },
+  {
+    "UniqueId": 62288,
+    "Timestamp": "2026-11-09 17:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Auto Show Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:36 PM, Nov 09 2026 Stalled vehicle on SB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852395/attachment_0.png",
+    "Latitude": 36.04604550983511,
+    "Longitude": -115.02263862305127
   }
 ]
