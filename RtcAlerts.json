@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62170,
-    "Timestamp": "2026-11-08 16:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:00 PM, Nov 08 2026 Crash on SB Las Vegas Blvd\u00A0at Cheyenne Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850896/attachment_0.png",
-    "Latitude": 36.2176069,
-    "Longitude": -115.0933543
-  },
-  {
-    "UniqueId": 62171,
-    "Timestamp": "2026-11-08 16:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Wb Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:02 PM, Nov 08 2026 Crash on NB I-11 ramp to WB Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850884/attachment_0.png",
-    "Latitude": 36.196014353999097,
-    "Longitude": -115.24451135959842
-  },
-  {
     "UniqueId": 62173,
     "Timestamp": "2026-11-08 16:53",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852338/attachment_0.png",
     "Latitude": 36.0193279,
     "Longitude": -115.29798990000001
+  },
+  {
+    "UniqueId": 62274,
+    "Timestamp": "2026-11-09 15:56",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:56 PM, Nov 09 2026 Crash on SB I-11\u00A0before Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852323/attachment_0.jpg",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
