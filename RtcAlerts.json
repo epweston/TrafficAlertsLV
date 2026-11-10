@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62252,
-    "Timestamp": "2026-11-09 11:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:48 AM, Nov 09 2026 Stalled vehicle on SB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851982/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
-    "UniqueId": 62253,
-    "Timestamp": "2026-11-09 11:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Valley View Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:50 AM, Nov 09 2026 Crash on SB Valley View Blvd\u00A0at Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851961/attachment_0.jpg",
-    "Latitude": 36.122773000000002,
-    "Longitude": -115.190242
-  },
-  {
-    "UniqueId": 62254,
-    "Timestamp": "2026-11-09 11:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bellagio Dr",
-    "Impact": "Las Vegas Blvd Blocked\u00A0 Expect Delays",
-    "Notes": "11:49 AM, Nov 09 2026 Crash on SB Las Vegas Blvd\u00A0at Bellagio Dr. Las Vegas Blvd Blocked\u00A0 Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.111131200000003,
-    "Longitude": -115.17297687999999
-  },
-  {
     "UniqueId": 62255,
     "Timestamp": "2026-11-09 12:09",
     "IncidentType": "Crash",
@@ -1398,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853440/attachment_0.png",
     "Latitude": 36.059868799999997,
     "Longitude": -115.05871930000001
+  },
+  {
+    "UniqueId": 62354,
+    "Timestamp": "2026-11-10 11:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Green Valley Pkwy",
+    "Impact": "Right lanes blocked. Expect Delays",
+    "Notes": "11:57 AM, Nov 10 2026 Crash on WB 215 Southern Beltway\u00A0at Green Valley Pkwy. Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853461/attachment_0.jpg",
+    "Latitude": 36.024537892813889,
+    "Longitude": -115.08493065834047
   }
 ]
