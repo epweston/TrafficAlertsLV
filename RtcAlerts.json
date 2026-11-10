@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62266,
-    "Timestamp": "2026-11-09 13:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Craig Rd",
-    "Impact": "",
-    "Notes": "1:57 PM, Nov 09 2026 Stalled vehicle on NB I-15 onramp from Craig Rd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852226/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 62267,
     "Timestamp": "2026-11-09 14:42",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853673/attachment_0.jpg",
     "Latitude": 35.607103427439853,
     "Longitude": -115.39133563837639
+  },
+  {
+    "UniqueId": 62367,
+    "Timestamp": "2026-11-10 13:56",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "1:56 PM, Nov 10 2026 Crash on EB Washington Ave\u00A0at Nellis Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853682/attachment_0.png",
+    "Latitude": 36.181433900000002,
+    "Longitude": -115.0622742
   }
 ]
