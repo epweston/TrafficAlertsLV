@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62208,
-    "Timestamp": "2026-11-09 05:03",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:03 AM, Nov 09 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851127/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
-    "UniqueId": 62209,
-    "Timestamp": "2026-11-09 05:06",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:06 AM, Nov 09 2026 Stalled vehicle on SB Eastern Ave\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851128/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
-    "UniqueId": 62210,
-    "Timestamp": "2026-11-09 05:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "5:10 AM, Nov 09 2026 Stalled vehicle on SB Eastern Ave\u00A0at 215 Southern Beltway. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
-    "UniqueId": 62211,
-    "Timestamp": "2026-11-09 05:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "5:12 AM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0at Oakey Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.151245299999999,
-    "Longitude": -115.1525166
-  },
-  {
     "UniqueId": 62212,
     "Timestamp": "2026-11-09 05:39",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852578/attachment_0.png",
     "Latitude": 36.14435557932525,
     "Longitude": -115.19085645675661
+  },
+  {
+    "UniqueId": 62317,
+    "Timestamp": "2026-11-10 05:13",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:13 AM, Nov 10 2026 Crash on WB Blue Diamond Rd\u00A0at Buffalo Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852606/attachment_0.png",
+    "Latitude": 36.020121142298088,
+    "Longitude": -115.26119468708681
   }
 ]
