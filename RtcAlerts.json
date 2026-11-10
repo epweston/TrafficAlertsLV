@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62247,
-    "Timestamp": "2026-11-09 10:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:52 AM, Nov 09 2026 Crash on NB Fort Apache Rd\u00A0after Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851871/attachment_0.png",
-    "Latitude": 36.070283500000002,
-    "Longitude": -115.2977282
-  },
-  {
     "UniqueId": 62248,
     "Timestamp": "2026-11-09 11:17",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853273/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 62347,
+    "Timestamp": "2026-11-10 10:51",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "10:51 AM, Nov 10 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
   }
 ]
