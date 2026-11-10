@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62271,
-    "Timestamp": "2026-11-09 15:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:15 PM, Nov 09 2026 Stalled vehicle on NB I-11\u00A0to Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852300/attachment_0.jpg",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
     "UniqueId": 62272,
     "Timestamp": "2026-11-09 15:43",
     "IncidentType": "Crash",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853769/attachment_0.jpg",
     "Latitude": 36.159016100000002,
     "Longitude": -115.31398280000001
+  },
+  {
+    "UniqueId": 62377,
+    "Timestamp": "2026-11-10 15:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "after",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:14 PM, Nov 10 2026 Crash on NB Pecos Rd\u00A0after Stewart Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853778/attachment_0.png",
+    "Latitude": 36.166186199999999,
+    "Longitude": -115.0982052
   }
 ]
