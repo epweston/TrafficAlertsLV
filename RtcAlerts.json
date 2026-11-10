@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62230,
-    "Timestamp": "2026-11-09 08:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Pebble Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "WB Pebble Rd Blocked\u00A0 Use other routes",
-    "Notes": "8:17 AM, Nov 09 2026 Crash on WB Pebble Rd\u00A0at Pecos Rd. WB Pebble Rd Blocked\u00A0 Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851451/attachment_0.jpg",
-    "Latitude": 36.027798599999997,
-    "Longitude": -115.1004095
-  },
-  {
-    "UniqueId": 62231,
-    "Timestamp": "2026-11-09 08:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "All SB lanes are blocked. Use other routes",
-    "Notes": "8:18 AM, Nov 09 2026 Crash on SB Paradise Rd\u00A0at Harmon Ave. All SB lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851454/attachment_0.png",
-    "Latitude": 36.108041800000002,
-    "Longitude": -115.15202669999999
-  },
-  {
-    "UniqueId": 62232,
-    "Timestamp": "2026-11-09 08:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "All SB lanes are blocked. Use other routes",
-    "Notes": "8:18 AM, Nov 09 2026 Crash on SB Paradise Rd\u00A0at Harmon Ave. All SB lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.108041800000002,
-    "Longitude": -115.15202669999999
-  },
-  {
-    "UniqueId": 62233,
-    "Timestamp": "2026-11-09 08:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:19 AM, Nov 09 2026 Stalled vehicle on SB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851440/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 62234,
     "Timestamp": "2026-11-09 08:20",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852888/attachment_0.jpg",
     "Latitude": 36.289875459999998,
     "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 62332,
+    "Timestamp": "2026-11-10 08:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Cambridge St",
+    "Relationship": "after",
+    "CrossStreet": "Twain Ave",
+    "Impact": "NB Cambridge St Blocked",
+    "Notes": "8:15 AM, Nov 10 2026 Crash on NB Cambridge St\u00A0after Twain Ave. NB Cambridge St Blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852912/attachment_0.jpg",
+    "Latitude": 36.122179600000003,
+    "Longitude": -115.1417946
   }
 ]
