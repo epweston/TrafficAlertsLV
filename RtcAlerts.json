@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62175,
-    "Timestamp": "2026-11-08 17:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Hoover Dam",
-    "Impact": "",
-    "Notes": "5:35 PM, Nov 08 2026 Stalled vehicle on NB I-11\u00A0after Hoover Dam on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850899/attachment_0.png",
-    "Latitude": 36.121397100000003,
-    "Longitude": -115.0831993
-  },
-  {
     "UniqueId": 62176,
     "Timestamp": "2026-11-08 17:38",
     "IncidentType": "Crash",
@@ -1468,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852392/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 62285,
+    "Timestamp": "2026-11-09 17:30",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:30 PM, Nov 09 2026 Crash on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852412/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 62286,
+    "Timestamp": "2026-11-09 17:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "5:32 PM, Nov 09 2026 Crash on NB Eastern Ave\u00A0after Silverado Ranch Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852414/attachment_0.png",
+    "Latitude": 36.013321931077591,
+    "Longitude": -115.1188606707682
   }
 ]
