@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62195,
-    "Timestamp": "2026-11-08 23:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Bay Dr",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "11:56 PM, Nov 08 2026 Crash on EB Warm Springs Rd\u00A0at Paradise Bay Dr. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.057453899999999,
-    "Longitude": -115.125277
-  },
-  {
-    "UniqueId": 62196,
-    "Timestamp": "2026-11-08 23:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:57 PM, Nov 08 2026 Crash on WB Spring Mountain Rd\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.126278200000002,
-    "Longitude": -115.20802190000001
-  },
-  {
     "UniqueId": 62197,
     "Timestamp": "2026-11-09 00:41",
     "IncidentType": "Stalled vehicle",
@@ -1608,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852447/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 62311,
+    "Timestamp": "2026-11-10 00:03",
+    "IncidentType": "Stalled Vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:03 AM, Nov 10 2026 Stalled Vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852464/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
