@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62236,
-    "Timestamp": "2026-11-09 08:56",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:56 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851512/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 62237,
     "Timestamp": "2026-11-09 09:06",
     "IncidentType": "Crash",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852969/attachment_0.jpg",
     "Latitude": 36.086320693233468,
     "Longitude": -115.20789380375679
+  },
+  {
+    "UniqueId": 62336,
+    "Timestamp": "2026-11-10 08:53",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Torrey Pines Dr",
+    "Relationship": "at",
+    "CrossStreet": "Alta Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:53 AM, Nov 10 2026 Crash on NB Torrey Pines Dr\u00A0at Alta Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852995/attachment_0.png",
+    "Latitude": 36.166412899999997,
+    "Longitude": -115.2330317
   }
 ]
