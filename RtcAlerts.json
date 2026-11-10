@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62234,
-    "Timestamp": "2026-11-09 08:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:20 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851441/attachment_0.jpg",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 62235,
     "Timestamp": "2026-11-09 08:39",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852912/attachment_0.jpg",
     "Latitude": 36.122179600000003,
     "Longitude": -115.1417946
+  },
+  {
+    "UniqueId": 62333,
+    "Timestamp": "2026-11-10 08:26",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:26 AM, Nov 10 2026 Crash on NB Eastern Ave\u00A0before 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852933/attachment_0.png",
+    "Latitude": 36.023704889999998,
+    "Longitude": -115.11844739
   }
 ]
