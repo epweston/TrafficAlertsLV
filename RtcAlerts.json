@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62250,
-    "Timestamp": "2026-11-09 11:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Ann Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "11:28 AM, Nov 09 2026 Crash on SB Jones Blvd\u00A0at Ann Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851936/attachment_0.png",
-    "Latitude": 36.260987399999998,
-    "Longitude": -115.22539430000001
-  },
-  {
-    "UniqueId": 62251,
-    "Timestamp": "2026-11-09 11:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:35 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851947/attachment_0.jpg",
-    "Latitude": 36.100677398719725,
-    "Longitude": -115.1805353164673
-  },
-  {
     "UniqueId": 62252,
     "Timestamp": "2026-11-09 11:48",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853385/attachment_0.jpg",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 62353,
+    "Timestamp": "2026-11-10 11:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Arroyo Grande Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Whitney Ranch Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:34 AM, Nov 10 2026 Crash on NB Arroyo Grande Blvd\u00A0at Whitney Ranch Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853440/attachment_0.png",
+    "Latitude": 36.059868799999997,
+    "Longitude": -115.05871930000001
   }
 ]
