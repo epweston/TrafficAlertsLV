@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62239,
-    "Timestamp": "2026-11-09 09:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Gore blocked.",
-    "Notes": "9:37 AM, Nov 09 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Windmill Ln. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851591/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 62240,
-    "Timestamp": "2026-11-09 09:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:37 AM, Nov 09 2026 Crash on SB Nellis Blvd\u00A0at Sahara Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851593/attachment_0.png",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
     "UniqueId": 62241,
     "Timestamp": "2026-11-09 09:43",
     "IncidentType": "Crash",
@@ -1412,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853037/attachment_0.png",
     "Latitude": 36.100781423246033,
     "Longitude": -115.17291721759118
+  },
+  {
+    "UniqueId": 62342,
+    "Timestamp": "2026-11-10 09:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Bruce Woodbury Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:34 AM, Nov 10 2026 Crash on NB Bruce Woodbury Beltway\u00A0before Russell Rd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853042/attachment_0.jpg",
+    "Latitude": 36.085086099999998,
+    "Longitude": -115.2466233
   }
 ]
