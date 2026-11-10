@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62223,
-    "Timestamp": "2026-11-09 07:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:16 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0to Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851357/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
-    "UniqueId": 62224,
-    "Timestamp": "2026-11-09 07:34",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "before",
-    "CrossStreet": "14Th St All Eb Lanes Are",
-    "Impact": "",
-    "Notes": "7:34 AM, Nov 09 2026 Police activity on EB Fremont St\u00A0before 14th St. All EB lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.164832599999997,
-    "Longitude": -115.13041029999999
-  },
-  {
-    "UniqueId": 62225,
-    "Timestamp": "2026-11-09 07:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pennwood Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:36 AM, Nov 09 2026 Crash on NB Decatur Blvd\u00A0at Pennwood Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851367/attachment_0.jpg",
-    "Latitude": 36.137275899999999,
-    "Longitude": -115.20801539999999
-  },
-  {
     "UniqueId": 62226,
     "Timestamp": "2026-11-09 07:51",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1412,19 @@
     "ImagePath": "",
     "Latitude": 36.025615794939291,
     "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 62329,
+    "Timestamp": "2026-11-10 07:44",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:44 AM, Nov 10 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852844/attachment_0.jpg",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
