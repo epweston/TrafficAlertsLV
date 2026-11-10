@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62217,
-    "Timestamp": "2026-11-09 06:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:44 AM, Nov 09 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851248/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
     "UniqueId": 62218,
     "Timestamp": "2026-11-09 06:53",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852734/attachment_0.jpg",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 62323,
+    "Timestamp": "2026-11-10 06:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:48 AM, Nov 10 2026 Stalled vehicle on EB Spring Mountain Rd\u00A0at Valley View Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852754/attachment_0.png",
+    "Latitude": 36.126514613715024,
+    "Longitude": -115.19022883138266
   }
 ]
