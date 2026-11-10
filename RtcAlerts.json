@@ -1370,5 +1370,33 @@
     "ImagePath": "",
     "Latitude": 36.025615794939291,
     "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 62348,
+    "Timestamp": "2026-11-10 11:00",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:00 AM, Nov 10 2026 Crash on NB Jones Blvd\u00A0before Windmill Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853297/attachment_0.png",
+    "Latitude": 36.042195999999997,
+    "Longitude": -115.22576100000001
+  },
+  {
+    "UniqueId": 62349,
+    "Timestamp": "2026-11-10 11:02",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pebble Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:02 AM, Nov 10 2026 Crash on NB Las Vegas Blvd\u00A0at Pebble Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853284/attachment_0.png",
+    "Latitude": 36.028329718997981,
+    "Longitude": -115.17234919987229
   }
 ]
