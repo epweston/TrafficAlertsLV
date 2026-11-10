@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62207,
-    "Timestamp": "2026-11-09 04:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:36 AM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0at Oakey Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.151245299999999,
-    "Longitude": -115.1525166
-  },
-  {
     "UniqueId": 62208,
     "Timestamp": "2026-11-09 05:03",
     "IncidentType": "Stalled vehicle",
@@ -1510,5 +1496,19 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 62316,
+    "Timestamp": "2026-11-10 04:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "4:34 AM, Nov 10 2026 Crash on SB Valley View Blvd\u00A0at Charleston Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852578/attachment_0.png",
+    "Latitude": 36.14435557932525,
+    "Longitude": -115.19085645675661
   }
 ]
