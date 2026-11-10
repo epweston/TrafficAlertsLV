@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62188,
-    "Timestamp": "2026-11-08 21:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "9:05 PM, Nov 08 2026 Crash on SB Eastern Ave\u00A0at Silverado Ranch Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850927/attachment_0.png",
-    "Latitude": 36.013321931077591,
-    "Longitude": -115.1188606707682
-  },
-  {
-    "UniqueId": 62192,
-    "Timestamp": "2026-11-08 23:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Bay Dr",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "11:20 PM, Nov 08 2026 Crash on EB Warm Springs Rd\u00A0at Paradise Bay Dr. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.057453899999999,
-    "Longitude": -115.125277
-  },
-  {
-    "UniqueId": 62193,
-    "Timestamp": "2026-11-08 23:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:26 PM, Nov 08 2026 Crash on WB Spring Mountain Rd\u00A0at Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850950/attachment_0.jpg",
-    "Latitude": 36.126278200000002,
-    "Longitude": -115.20802190000001
-  },
-  {
-    "UniqueId": 62194,
-    "Timestamp": "2026-11-08 23:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 56",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:45 PM, Nov 08 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 62195,
     "Timestamp": "2026-11-08 23:56",
     "IncidentType": "Crash",
@@ -1636,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852440/attachment_0.png",
     "Latitude": 36.140701499999999,
     "Longitude": -115.11871669999999
+  },
+  {
+    "UniqueId": 62309,
+    "Timestamp": "2026-11-09 23:40",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Campbell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:40 PM, Nov 09 2026 Crash on EB Centennial Pkwy\u00A0at Campbell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852446/attachment_0.png",
+    "Latitude": 36.277314300000008,
+    "Longitude": -115.2923814
   }
 ]
