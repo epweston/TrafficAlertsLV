@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62204,
-    "Timestamp": "2026-11-09 03:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "3:23 AM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0at Oakey Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851017/attachment_0.jpg",
-    "Latitude": 36.151245299999999,
-    "Longitude": -115.1525166
-  },
-  {
-    "UniqueId": 62205,
-    "Timestamp": "2026-11-09 04:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 56",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:02 AM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0before Mile 56. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 62206,
-    "Timestamp": "2026-11-09 04:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:02 AM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0at Oakey Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.151245299999999,
-    "Longitude": -115.1525166
-  },
-  {
     "UniqueId": 62207,
     "Timestamp": "2026-11-09 04:36",
     "IncidentType": "Crash",
@@ -1524,5 +1482,19 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 62314,
+    "Timestamp": "2026-11-10 04:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Canyon Point Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:14 AM, Nov 10 2026 Crash on NB I-11\u00A0before Canyon Point Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852550/attachment_0.png",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
