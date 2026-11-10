@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62173,
-    "Timestamp": "2026-11-08 16:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:53 PM, Nov 08 2026 Stalled vehicle on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850909/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 62174,
     "Timestamp": "2026-11-08 17:14",
     "IncidentType": "Crash",
@@ -1398,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852376/attachment_0.png",
     "Latitude": 35.991315399999998,
     "Longitude": -115.2258381
+  },
+  {
+    "UniqueId": 62278,
+    "Timestamp": "2026-11-09 16:48",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:48 PM, Nov 09 2026 Crash on WB Warm Springs Rd\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852378/attachment_0.png",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
+  },
+  {
+    "UniqueId": 62279,
+    "Timestamp": "2026-11-09 16:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:50 PM, Nov 09 2026 Crash on WB Sahara Ave\u00A0before Decatur Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852381/attachment_0.png",
+    "Latitude": 36.144533188965404,
+    "Longitude": -115.20814061164857
   }
 ]
