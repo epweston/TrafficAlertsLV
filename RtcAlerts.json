@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62177,
-    "Timestamp": "2026-11-08 18:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "D St",
-    "Relationship": "at",
-    "CrossStreet": "I-15 Nb",
-    "Impact": "All lanes are blocked.",
-    "Notes": "6:28 PM, Nov 08 2026 Crash on NB D St\u00A0at I-15 NB onramp. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850915/attachment_0.png",
-    "Latitude": 36.185989499999998,
-    "Longitude": -115.14714119999999
-  },
-  {
-    "UniqueId": 62178,
-    "Timestamp": "2026-11-08 18:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Westcliff Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:32 PM, Nov 08 2026 Crash on SB Durango Dr\u00A0at Westcliff Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/08/file_attachments/3850906/attachment_0.png",
-    "Latitude": 36.1736577,
-    "Longitude": -115.2778943
-  },
-  {
     "UniqueId": 62179,
     "Timestamp": "2026-11-08 18:52",
     "IncidentType": "Crash",
@@ -1622,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852402/attachment_0.png",
     "Latitude": 36.174089876760839,
     "Longitude": -115.22410077507317
+  },
+  {
+    "UniqueId": 62298,
+    "Timestamp": "2026-11-09 18:45",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "6:45 PM, Nov 09 2026 Crash on NB Las Vegas Blvd\u00A0after Flamingo Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852405/attachment_0.jpg",
+    "Latitude": 36.114659896847385,
+    "Longitude": -115.17288892246221
+  },
+  {
+    "UniqueId": 62299,
+    "Timestamp": "2026-11-09 18:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd On Left",
+    "Impact": "",
+    "Notes": "6:46 PM, Nov 09 2026 Stalled vehicle on NB I-15\u00A0before Flamingo Rd on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852431/attachment_0.png",
+    "Latitude": 36.114432299999997,
+    "Longitude": -115.1720294
   }
 ]
