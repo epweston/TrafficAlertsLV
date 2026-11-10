@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62245,
-    "Timestamp": "2026-11-09 10:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:20 AM, Nov 09 2026 Crash on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851714/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 62246,
     "Timestamp": "2026-11-09 10:44",
     "IncidentType": "Stalled vehicle",
@@ -1356,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853156/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 62344,
+    "Timestamp": "2026-11-10 10:16",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "All lanes WB EB are blocked. Expect Delays Use other routes",
+    "Notes": "10:16 AM, Nov 10 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. All lanes WB EB are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853165/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
   }
 ]
