@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62261,
-    "Timestamp": "2026-11-09 13:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:20 PM, Nov 09 2026 Stalled vehicle on SB I-15\u00A0to 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852138/attachment_0.jpg",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 62262,
-    "Timestamp": "2026-11-09 13:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Gore blocked.",
-    "Notes": "1:24 PM, Nov 09 2026 Crash on SB I-11\u00A0after Jones Blvd. Gore blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852144/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 62263,
     "Timestamp": "2026-11-09 13:28",
     "IncidentType": "Crash",
@@ -1384,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853603/attachment_0.jpg",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 62362,
+    "Timestamp": "2026-11-10 13:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Gilmore Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:19 PM, Nov 10 2026 Crash on SB Durango Dr\u00A0at Gilmore Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853586/attachment_0.jpg",
+    "Latitude": 36.2305785,
+    "Longitude": -115.2791402
   }
 ]
