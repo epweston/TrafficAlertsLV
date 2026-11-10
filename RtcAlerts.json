@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62238,
-    "Timestamp": "2026-11-09 09:23",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "4Th St",
-    "Impact": "",
-    "Notes": "9:23 AM, Nov 09 2026 Crash on WB Charleston Blvd\u00A0before 4th St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851566/attachment_0.jpg",
-    "Latitude": 36.158919699999998,
-    "Longitude": -115.14887659999999
-  },
-  {
     "UniqueId": 62239,
     "Timestamp": "2026-11-09 09:37",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853027/attachment_0.png",
     "Latitude": 36.133601800000001,
     "Longitude": -115.2080168
+  },
+  {
+    "UniqueId": 62341,
+    "Timestamp": "2026-11-10 09:23",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "9:23 AM, Nov 10 2026 Crash on EB Tropicana Ave\u00A0before Las Vegas Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853037/attachment_0.png",
+    "Latitude": 36.100781423246033,
+    "Longitude": -115.17291721759118
   }
 ]
