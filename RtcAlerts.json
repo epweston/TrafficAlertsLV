@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62241,
-    "Timestamp": "2026-11-09 09:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Ocean Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:43 AM, Nov 09 2026 Crash on EB Tropicana Ave\u00A0before Ocean Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851604/attachment_0.jpg",
-    "Latitude": 36.1006675,
-    "Longitude": -115.17802159999999
-  },
-  {
-    "UniqueId": 62242,
-    "Timestamp": "2026-11-09 09:47",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:47 AM, Nov 09 2026 Vehicle on fire on NB I-11\u00A0at Charleston Blvd Off Ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851607/attachment_0.jpg",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 62243,
-    "Timestamp": "2026-11-09 09:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 25",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:59 AM, Nov 09 2026 Stalled vehicle on SB I-15\u00A0at Mile 25. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851641/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 62244,
-    "Timestamp": "2026-11-09 10:14",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "10:14 AM, Nov 09 2026 Crash on SB Eastern Ave\u00A0after St Rose Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3851673/attachment_0.png",
-    "Latitude": 36.007212199999998,
-    "Longitude": -115.11429010000001
-  },
-  {
     "UniqueId": 62245,
     "Timestamp": "2026-11-09 10:20",
     "IncidentType": "Crash",
@@ -1398,5 +1342,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853042/attachment_0.jpg",
     "Latitude": 36.085086099999998,
     "Longitude": -115.2466233
+  },
+  {
+    "UniqueId": 62343,
+    "Timestamp": "2026-11-10 10:10",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:10 AM, Nov 10 2026 Crash on SB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853156/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
