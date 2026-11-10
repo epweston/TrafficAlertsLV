@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62273,
-    "Timestamp": "2026-11-09 15:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "after",
-    "CrossStreet": "Serene Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:54 PM, Nov 09 2026 Crash on NB Fort Apache Rd\u00A0after Serene Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852338/attachment_0.png",
-    "Latitude": 36.0193279,
-    "Longitude": -115.29798990000001
-  },
-  {
-    "UniqueId": 62274,
-    "Timestamp": "2026-11-09 15:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:56 PM, Nov 09 2026 Crash on SB I-11\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852323/attachment_0.jpg",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 62275,
     "Timestamp": "2026-11-09 16:13",
     "IncidentType": "Crash",
@@ -1468,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853805/attachment_0.png",
     "Latitude": 36.023410016643204,
     "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 62380,
+    "Timestamp": "2026-11-10 15:55",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Riverside Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:55 PM, Nov 10 2026 Stalled vehicle on NB I-15\u00A0after Riverside Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853831/attachment_0.png",
+    "Latitude": 36.185387800000001,
+    "Longitude": -115.1826497
   }
 ]
