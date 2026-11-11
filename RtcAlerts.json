@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62379,
-    "Timestamp": "2026-11-10 15:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:47 PM, Nov 10 2026 Crash on EB 215 Southern Beltway\u00A0before St Rose Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853805/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
     "UniqueId": 62380,
     "Timestamp": "2026-11-10 15:55",
     "IncidentType": "Stalled vehicle",
@@ -1034,5 +1020,19 @@
     "ImagePath": "",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 62463,
+    "Timestamp": "2026-11-11 15:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Walnut Ave",
+    "Relationship": "at",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "3:44 PM, Nov 11 2026 Crash on NB Walnut Ave\u00A0at Nellis Blvd. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854617/attachment_0.jpg",
+    "Latitude": 36.172162100000001,
+    "Longitude": -115.06225019999999
   }
 ]
