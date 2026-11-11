@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62291,
-    "Timestamp": "2026-11-09 18:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Off-ramp Right shoulder blocked.",
-    "Notes": "6:04 PM, Nov 09 2026 Crash on WB 215 Southern Beltway\u00A0at Buffalo Dr. Off-ramp Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852398/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
-    "UniqueId": 62292,
-    "Timestamp": "2026-11-09 18:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:07 PM, Nov 09 2026 Crash on SB Fort Apache Rd\u00A0before Blue Diamond Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852423/attachment_0.png",
-    "Latitude": 36.020538700000003,
-    "Longitude": -115.29798
-  },
-  {
     "UniqueId": 62293,
     "Timestamp": "2026-11-09 18:08",
     "IncidentType": "Crash",
@@ -1482,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853867/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 62399,
+    "Timestamp": "2026-11-10 18:03",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "6:03 PM, Nov 10 2026 Crash on EB 215 Southern Beltway\u00A0before Eastern Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853890/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 62400,
+    "Timestamp": "2026-11-10 18:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "6:05 PM, Nov 10 2026 Crash on SB Durango Dr\u00A0before Sunset Rd. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853891/attachment_0.png",
+    "Latitude": 36.070365750000001,
+    "Longitude": -115.27946056
   }
 ]
