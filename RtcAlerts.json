@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62286,
-    "Timestamp": "2026-11-09 17:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "5:32 PM, Nov 09 2026 Crash on NB Eastern Ave\u00A0after Silverado Ranch Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852414/attachment_0.png",
-    "Latitude": 36.013321931077591,
-    "Longitude": -115.1188606707682
-  },
-  {
-    "UniqueId": 62287,
-    "Timestamp": "2026-11-09 17:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:35 PM, Nov 09 2026 Crash on NB Martin L King Blvd\u00A0after Bonanza Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852416/attachment_0.jpg",
-    "Latitude": 36.177173199999999,
-    "Longitude": -115.1609081
-  },
-  {
     "UniqueId": 62288,
     "Timestamp": "2026-11-09 17:36",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853863/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 62395,
+    "Timestamp": "2026-11-10 17:30",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Stephanie St",
+    "Impact": "Expect Delays",
+    "Notes": "5:30 PM, Nov 10 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853881/attachment_0.png",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
   }
 ]
