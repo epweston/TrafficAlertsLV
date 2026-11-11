@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62277,
-    "Timestamp": "2026-11-09 16:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Erie Ave",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:40 PM, Nov 09 2026 Crash on SB Jones Blvd\u00A0at Erie Ave. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852376/attachment_0.png",
-    "Latitude": 35.991315399999998,
-    "Longitude": -115.2258381
-  },
-  {
     "UniqueId": 62278,
     "Timestamp": "2026-11-09 16:48",
     "IncidentType": "Crash",
@@ -1468,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853825/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 62384,
+    "Timestamp": "2026-11-10 16:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:41 PM, Nov 10 2026 Stalled vehicle on NB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853839/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
