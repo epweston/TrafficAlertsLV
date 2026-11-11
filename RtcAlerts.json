@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62349,
-    "Timestamp": "2026-11-10 11:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Pebble Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:02 AM, Nov 10 2026 Crash on NB Las Vegas Blvd\u00A0at Pebble Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853284/attachment_0.png",
-    "Latitude": 36.028329718997981,
-    "Longitude": -115.17234919987229
-  },
-  {
-    "UniqueId": 62350,
-    "Timestamp": "2026-11-10 11:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Laughlin-Bullhead City Bridge",
-    "Relationship": "at",
-    "CrossStreet": "Casino Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:05 AM, Nov 10 2026 Crash on EB Laughlin-Bullhead City Bridge\u00A0at Casino Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853350/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
     "UniqueId": 62351,
     "Timestamp": "2026-11-10 11:08",
     "IncidentType": "Crash",
@@ -1202,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854515/attachment_0.jpg",
     "Latitude": 36.114985400000002,
     "Longitude": -115.06664840000001
+  },
+  {
+    "UniqueId": 62445,
+    "Timestamp": "2026-11-11 11:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:00 AM, Nov 11 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854502/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
