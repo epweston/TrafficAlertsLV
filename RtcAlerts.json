@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62345,
-    "Timestamp": "2026-11-10 10:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Green Valley Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "10:34 AM, Nov 10 2026 Crash on SB Green Valley Pkwy\u00A0at Warm Springs Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853242/attachment_0.jpg",
-    "Latitude": 36.056545700000001,
-    "Longitude": -115.0843165
-  },
-  {
     "UniqueId": 62346,
     "Timestamp": "2026-11-10 10:45",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854481/attachment_0.jpg",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 62443,
+    "Timestamp": "2026-11-11 10:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:32 AM, Nov 11 2026 Stalled vehicle on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854466/attachment_0.jpg",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
