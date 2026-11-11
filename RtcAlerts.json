@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62362,
-    "Timestamp": "2026-11-10 13:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Gilmore Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:19 PM, Nov 10 2026 Crash on SB Durango Dr\u00A0at Gilmore Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853586/attachment_0.jpg",
-    "Latitude": 36.2305785,
-    "Longitude": -115.2791402
-  },
-  {
-    "UniqueId": 62363,
-    "Timestamp": "2026-11-10 13:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "1:38 PM, Nov 10 2026 Crash on WB Sahara Ave\u00A0at Jones Blvd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853622/attachment_0.jpg",
-    "Latitude": 36.14420827554261,
-    "Longitude": -115.22528530949943
-  },
-  {
-    "UniqueId": 62364,
-    "Timestamp": "2026-11-10 13:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Left lanes blocked.",
-    "Notes": "1:39 PM, Nov 10 2026 Crash on NB Decatur Blvd\u00A0after Cactus Ave. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853651/attachment_0.png",
-    "Latitude": 35.9986356,
-    "Longitude": -115.2074791
-  },
-  {
-    "UniqueId": 62365,
-    "Timestamp": "2026-11-10 13:41",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "1:41 PM, Nov 10 2026 Crash on SB Durango Dr\u00A0at Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853653/attachment_0.jpg",
-    "Latitude": 36.158985100000002,
-    "Longitude": -115.2802104
-  },
-  {
     "UniqueId": 62366,
     "Timestamp": "2026-11-10 13:45",
     "IncidentType": "Crash",
@@ -1118,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854565/attachment_0.jpg",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 62452,
+    "Timestamp": "2026-11-11 13:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:40 PM, Nov 11 2026 Stalled vehicle on NB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854569/attachment_0.jpg",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
