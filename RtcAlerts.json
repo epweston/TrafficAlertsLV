@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62288,
-    "Timestamp": "2026-11-09 17:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:36 PM, Nov 09 2026 Stalled vehicle on SB I-11\u00A0at Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852395/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 62289,
     "Timestamp": "2026-11-09 17:48",
     "IncidentType": "Crash",
@@ -1482,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853881/attachment_0.png",
     "Latitude": 36.029344864632797,
     "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 62396,
+    "Timestamp": "2026-11-10 17:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:35 PM, Nov 10 2026 Crash on NB Decatur Blvd\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.144511529274723,
+    "Longitude": -115.2082051186522
+  },
+  {
+    "UniqueId": 62397,
+    "Timestamp": "2026-11-10 17:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:35 PM, Nov 10 2026 Crash on NB Decatur Blvd\u00A0before Sahara Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853883/attachment_0.png",
+    "Latitude": 36.144511529274723,
+    "Longitude": -115.2082051186522
   }
 ]
