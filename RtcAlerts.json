@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62336,
-    "Timestamp": "2026-11-10 08:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Torrey Pines Dr",
-    "Relationship": "at",
-    "CrossStreet": "Alta Dr",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:53 AM, Nov 10 2026 Crash on NB Torrey Pines Dr\u00A0at Alta Dr. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852995/attachment_0.png",
-    "Latitude": 36.166412899999997,
-    "Longitude": -115.2330317
-  },
-  {
-    "UniqueId": 62337,
-    "Timestamp": "2026-11-10 09:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "",
-    "Notes": "9:00 AM, Nov 10 2026 Stalled vehicle on SB I-11\u00A0at Rainbow Blvd on-ramp Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853017/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 62338,
-    "Timestamp": "2026-11-10 09:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 AM, Nov 10 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0at Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852998/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
-    "UniqueId": 62339,
-    "Timestamp": "2026-11-10 09:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:03 AM, Nov 10 2026 Crash on SB I-11\u00A0at Rainbow Blvd off ramp. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853003/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 62340,
     "Timestamp": "2026-11-10 09:07",
     "IncidentType": "Crash",
@@ -1286,5 +1230,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854309/attachment_0.jpg",
     "Latitude": 36.144246600000002,
     "Longitude": -115.0655266
+  },
+  {
+    "UniqueId": 62438,
+    "Timestamp": "2026-11-11 08:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rancho Dr",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:59 AM, Nov 11 2026 Crash on NB Rancho Dr\u00A0to I-11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854445/attachment_0.jpg",
+    "Latitude": 36.25565434,
+    "Longitude": -115.2465177
+  },
+  {
+    "UniqueId": 62439,
+    "Timestamp": "2026-11-11 09:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:00 AM, Nov 11 2026 Stalled vehicle on SB I-15\u00A0after 215 Northern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854427/attachment_0.jpg",
+    "Latitude": 36.174083889581247,
+    "Longitude": -115.15534412685216
   }
 ]
