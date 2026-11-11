@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62343,
-    "Timestamp": "2026-11-10 10:10",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:10 AM, Nov 10 2026 Crash on SB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853156/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 62344,
-    "Timestamp": "2026-11-10 10:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "All lanes WB EB are blocked. Expect Delays Use other routes",
-    "Notes": "10:16 AM, Nov 10 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. All lanes WB EB are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853165/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
     "UniqueId": 62345,
     "Timestamp": "2026-11-10 10:34",
     "IncidentType": "Crash",
@@ -1244,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854431/attachment_0.jpg",
     "Latitude": 36.007212199999998,
     "Longitude": -115.11429010000001
+  },
+  {
+    "UniqueId": 62442,
+    "Timestamp": "2026-11-11 10:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:18 AM, Nov 11 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854481/attachment_0.jpg",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
