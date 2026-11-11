@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62278,
-    "Timestamp": "2026-11-09 16:48",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:48 PM, Nov 09 2026 Crash on WB Warm Springs Rd\u00A0at Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852378/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 62279,
-    "Timestamp": "2026-11-09 16:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:50 PM, Nov 09 2026 Crash on WB Sahara Ave\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852381/attachment_0.png",
-    "Latitude": 36.144533188965404,
-    "Longitude": -115.20814061164857
-  },
-  {
     "UniqueId": 62280,
     "Timestamp": "2026-11-09 17:13",
     "IncidentType": "Crash",
@@ -1468,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853839/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 62385,
+    "Timestamp": "2026-11-10 16:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd Wb",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "4:52 PM, Nov 10 2026 Crash on NB I-15\u00A0at Spring Mountain Rd WB on ramp. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853854/attachment_0.png",
+    "Latitude": 36.125444299999998,
+    "Longitude": -115.1701368
+  },
+  {
+    "UniqueId": 62386,
+    "Timestamp": "2026-11-10 16:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "from",
+    "CrossStreet": "South Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:54 PM, Nov 10 2026 Crash on SB I-11 onramp from South Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853844/attachment_0.png",
+    "Latitude": 36.175301233937589,
+    "Longitude": -115.17409268502011
   }
 ]
