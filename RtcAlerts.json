@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62380,
-    "Timestamp": "2026-11-10 15:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Riverside Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:55 PM, Nov 10 2026 Stalled vehicle on NB I-15\u00A0after Riverside Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853831/attachment_0.png",
-    "Latitude": 36.185387800000001,
-    "Longitude": -115.1826497
-  },
-  {
     "UniqueId": 62381,
     "Timestamp": "2026-11-10 15:58",
     "IncidentType": "Stalled vehicle",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854617/attachment_0.jpg",
     "Latitude": 36.172162100000001,
     "Longitude": -115.06225019999999
+  },
+  {
+    "UniqueId": 62464,
+    "Timestamp": "2026-11-11 15:49",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:49 PM, Nov 11 2026 Crash on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854619/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
