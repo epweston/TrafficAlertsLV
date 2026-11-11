@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62293,
-    "Timestamp": "2026-11-09 18:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:08 PM, Nov 09 2026 Crash on WB Warm Springs Rd\u00A0before Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852399/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 62294,
-    "Timestamp": "2026-11-09 18:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "from",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "",
-    "Notes": "6:13 PM, Nov 09 2026 Crash on NB I-15 onramp from Speedway Blvd on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/09/file_attachments/3852427/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 62295,
     "Timestamp": "2026-11-09 18:15",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853891/attachment_0.png",
     "Latitude": 36.070365750000001,
     "Longitude": -115.27946056
+  },
+  {
+    "UniqueId": 62401,
+    "Timestamp": "2026-11-10 18:08",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Windemere Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:08 PM, Nov 10 2026 Crash on WB Charleston Blvd\u00A0at Windemere Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853893/attachment_0.png",
+    "Latitude": 36.158928199999998,
+    "Longitude": -115.2958727
+  },
+  {
+    "UniqueId": 62402,
+    "Timestamp": "2026-11-10 18:09",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked Right lane blocked. Expect Delays",
+    "Notes": "6:09 PM, Nov 10 2026 Crash on WB Russell Rd\u00A0at Las Vegas Blvd. Left lane blocked Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853911/attachment_0.png",
+    "Latitude": 36.086214300000002,
+    "Longitude": -115.1730815
   }
 ]
