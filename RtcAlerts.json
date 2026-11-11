@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62333,
-    "Timestamp": "2026-11-10 08:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:26 AM, Nov 10 2026 Crash on NB Eastern Ave\u00A0before 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852933/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
-    "UniqueId": 62334,
-    "Timestamp": "2026-11-10 08:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:32 AM, Nov 10 2026 Stalled vehicle on SB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852928/attachment_0.jpg",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
-    "UniqueId": 62335,
-    "Timestamp": "2026-11-10 08:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:39 AM, Nov 10 2026 Crash on SB Decatur Blvd\u00A0before Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3852969/attachment_0.jpg",
-    "Latitude": 36.086320693233468,
-    "Longitude": -115.20789380375679
-  },
-  {
     "UniqueId": 62336,
     "Timestamp": "2026-11-10 08:53",
     "IncidentType": "Crash",
@@ -1314,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854176/attachment_0.jpg",
     "Latitude": 36.1885677,
     "Longitude": -115.18592959999999
+  },
+  {
+    "UniqueId": 62437,
+    "Timestamp": "2026-11-11 08:39",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left-turn lane blocked.",
+    "Notes": "8:39 AM, Nov 11 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. Left-turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854309/attachment_0.jpg",
+    "Latitude": 36.144246600000002,
+    "Longitude": -115.0655266
   }
 ]
