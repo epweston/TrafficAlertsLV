@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62394,
-    "Timestamp": "2026-11-10 17:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:24 PM, Nov 10 2026 Stalled vehicle on SB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853863/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 62395,
-    "Timestamp": "2026-11-10 17:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "Expect Delays",
-    "Notes": "5:30 PM, Nov 10 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853881/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 62396,
-    "Timestamp": "2026-11-10 17:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:35 PM, Nov 10 2026 Crash on NB Decatur Blvd\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
-    "UniqueId": 62397,
-    "Timestamp": "2026-11-10 17:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:35 PM, Nov 10 2026 Crash on NB Decatur Blvd\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853883/attachment_0.png",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
     "UniqueId": 62398,
     "Timestamp": "2026-11-10 17:53",
     "IncidentType": "Crash",
@@ -978,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854630/attachment_0.png",
     "Latitude": 36.063556878517637,
     "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 62474,
+    "Timestamp": "2026-11-11 17:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:33 PM, Nov 11 2026 Crash on SB I-15\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
