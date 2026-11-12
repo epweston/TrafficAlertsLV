@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62435,
-    "Timestamp": "2026-11-11 07:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "7:34 AM, Nov 11 2026 Crash on NB I-11\u00A0before Rancho Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854141/attachment_0.jpg",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 62436,
     "Timestamp": "2026-11-11 08:14",
     "IncidentType": "Crash",
@@ -1090,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855039/attachment_0.png",
     "Latitude": 36.144174199999988,
     "Longitude": -115.1731231
+  },
+  {
+    "UniqueId": 62513,
+    "Timestamp": "2026-11-12 07:32",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Alta Dr",
+    "Relationship": "at",
+    "CrossStreet": "Monticello Dr",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "7:32 AM, Nov 12 2026 Crash on EB Alta Dr\u00A0at Monticello Dr. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855011/attachment_0.png",
+    "Latitude": 36.166386699999997,
+    "Longitude": -115.2253834
   }
 ]
