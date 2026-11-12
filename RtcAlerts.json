@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62415,
-    "Timestamp": "2026-11-10 20:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:35 PM, Nov 10 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853926/attachment_0.png",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 62416,
-    "Timestamp": "2026-11-10 20:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Spencer St",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "8:50 PM, Nov 10 2026 Crash on NB Spencer St\u00A0after Flamingo Rd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853939/attachment_0.png",
-    "Latitude": 36.114709099999999,
-    "Longitude": -115.1285419
-  },
-  {
-    "UniqueId": 62417,
-    "Timestamp": "2026-11-10 20:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:51 PM, Nov 10 2026 Crash on NB I-15\u00A0at Washington Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853951/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 62418,
-    "Timestamp": "2026-11-10 20:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:55 PM, Nov 10 2026 Stalled vehicle on NB I-11\u00A0after Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853953/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 62419,
     "Timestamp": "2026-11-10 21:26",
     "IncidentType": "Crash",
@@ -964,5 +908,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854675/attachment_0.jpg",
     "Latitude": 36.092429699999997,
     "Longitude": -115.24293179999999
+  },
+  {
+    "UniqueId": 62490,
+    "Timestamp": "2026-11-11 21:07",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Wynn Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:07 PM, Nov 11 2026 Crash on EB Flamingo Rd\u00A0at Wynn Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854666/attachment_0.png",
+    "Latitude": 36.115615300000002,
+    "Longitude": -115.1947418
+  },
+  {
+    "UniqueId": 62491,
+    "Timestamp": "2026-11-11 21:10",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "D St",
+    "Impact": "",
+    "Notes": "9:10 PM, Nov 11 2026 Police activity on NB I-15\u00A0at D St. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.179689688635449,
+    "Longitude": -115.14679155640415
   }
 ]
