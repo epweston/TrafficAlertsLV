@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62450,
-    "Timestamp": "2026-11-11 13:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:06 PM, Nov 11 2026 Crash on WB St Rose Pkwy\u00A0after Maryland Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854543/attachment_0.jpg",
-    "Latitude": 35.991393000000002,
-    "Longitude": -115.1365311
-  },
-  {
-    "UniqueId": 62451,
-    "Timestamp": "2026-11-11 13:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "1:16 PM, Nov 11 2026 Stalled vehicle on SB I-11\u00A0at College Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854565/attachment_0.jpg",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 62452,
     "Timestamp": "2026-11-11 13:40",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855624/attachment_0.jpg",
     "Latitude": 36.239531900000003,
     "Longitude": -115.18004790000001
+  },
+  {
+    "UniqueId": 62541,
+    "Timestamp": "2026-11-12 13:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:31 PM, Nov 12 2026 Crash on WB Sunset Rd\u00A0at Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855735/attachment_0.jpg",
+    "Latitude": 36.070575699999999,
+    "Longitude": -115.24242940000001
   }
 ]
