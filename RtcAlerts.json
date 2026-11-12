@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62381,
-    "Timestamp": "2026-11-10 15:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "",
-    "Notes": "3:58 PM, Nov 10 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-11 on right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853833/attachment_0.png",
-    "Latitude": 36.277752524515982,
-    "Longitude": -115.26709556579591
-  },
-  {
     "UniqueId": 62382,
     "Timestamp": "2026-11-10 16:28",
     "IncidentType": "Crash",
@@ -1034,5 +1020,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854619/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 62465,
+    "Timestamp": "2026-11-11 16:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:00 PM, Nov 11 2026 Crash on SB I-15\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854606/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
