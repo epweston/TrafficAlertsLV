@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62419,
-    "Timestamp": "2026-11-10 21:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "9:26 PM, Nov 10 2026 Crash on WB Blue Diamond Rd\u00A0after Jones Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853955/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
-    "UniqueId": 62420,
-    "Timestamp": "2026-11-10 21:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "And Wb Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Alper Center Dr",
-    "Impact": "2 Left lanes blocked. Expect Delays",
-    "Notes": "9:34 PM, Nov 10 2026 Crash on EB and WB Saint Rose Pkwy\u00A0at Alper Center Dr. 2 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853958/attachment_0.png",
-    "Latitude": 35.994473599999999,
-    "Longitude": -115.1314177
-  },
-  {
     "UniqueId": 62421,
     "Timestamp": "2026-11-10 21:50",
     "IncidentType": "Stalled vehicle",
@@ -964,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854667/attachment_0.png",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 62494,
+    "Timestamp": "2026-11-11 21:35",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "9:35 PM, Nov 11 2026 Abandoned vehicle on NB I-15\u00A0before Lake Mead Blvd. Left shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
