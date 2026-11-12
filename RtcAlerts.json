@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62411,
-    "Timestamp": "2026-11-10 19:50",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Left lanes blocked. Expect Delays",
-    "Notes": "7:50 PM, Nov 10 2026 Crash on WB Tropicana Ave\u00A0at Durango Dr. 2 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853932/attachment_0.png",
-    "Latitude": 36.100141600000001,
-    "Longitude": -115.2793594
-  },
-  {
     "UniqueId": 62412,
     "Timestamp": "2026-11-10 19:53",
     "IncidentType": "Stalled vehicle",
@@ -936,5 +922,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854662/attachment_0.png",
     "Latitude": 36.102548300000002,
     "Longitude": -115.15036379999999
+  },
+  {
+    "UniqueId": 62485,
+    "Timestamp": "2026-11-11 19:46",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "3 Left lanes blocked.",
+    "Notes": "7:46 PM, Nov 11 2026 Crash on WB Craig Rd\u00A0at I-15. 3 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854672/attachment_0.png",
+    "Latitude": 36.240214888276881,
+    "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 62486,
+    "Timestamp": "2026-11-11 19:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Maryland Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "7:46 PM, Nov 11 2026 Crash on SB Maryland Pkwy\u00A0at Silverado Ranch Blvd. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.013342299999998,
+    "Longitude": -115.13679740000001
   }
 ]
