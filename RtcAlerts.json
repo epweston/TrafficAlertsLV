@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62459,
-    "Timestamp": "2026-11-11 14:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Losee Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:35 PM, Nov 11 2026 Crash on WB Craig Rd\u00A0at Losee Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854601/attachment_0.png",
-    "Latitude": 36.239773575501886,
-    "Longitude": -115.11682743770037
-  },
-  {
     "UniqueId": 62460,
     "Timestamp": "2026-11-11 15:00",
     "IncidentType": "Crash",
@@ -1202,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855795/attachment_0.png",
     "Latitude": 36.10088883854003,
     "Longitude": -115.18986425062583
+  },
+  {
+    "UniqueId": 62546,
+    "Timestamp": "2026-11-12 14:49",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:49 PM, Nov 12 2026 Crash on SB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855804/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
