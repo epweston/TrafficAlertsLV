@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62398,
-    "Timestamp": "2026-11-10 17:53",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:53 PM, Nov 10 2026 Crash on NB I-11\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853867/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 62399,
     "Timestamp": "2026-11-10 18:03",
     "IncidentType": "Crash",
@@ -950,5 +936,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854631/attachment_0.png",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 62476,
+    "Timestamp": "2026-11-11 17:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:52 PM, Nov 11 2026 Crash on EB 215 Southern Beltway\u00A0at Decatur Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854634/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
