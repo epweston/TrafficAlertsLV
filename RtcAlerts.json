@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62437,
-    "Timestamp": "2026-11-11 08:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left-turn lane blocked.",
-    "Notes": "8:39 AM, Nov 11 2026 Crash on NB Nellis Blvd\u00A0at Sahara Ave. Left-turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854309/attachment_0.jpg",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
     "UniqueId": 62438,
     "Timestamp": "2026-11-11 08:59",
     "IncidentType": "Crash",
@@ -1146,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855153/attachment_0.jpg",
     "Latitude": 36.177293900000002,
     "Longitude": -115.1468277
+  },
+  {
+    "UniqueId": 62519,
+    "Timestamp": "2026-11-12 08:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "8:52 AM, Nov 12 2026 Crash on SB Durango Dr\u00A0before Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855184/attachment_0.png",
+    "Latitude": 36.020259986978459,
+    "Longitude": -115.27924598836366
   }
 ]
