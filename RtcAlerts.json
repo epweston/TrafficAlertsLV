@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62412,
-    "Timestamp": "2026-11-10 19:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:53 PM, Nov 10 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853934/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 62414,
     "Timestamp": "2026-11-10 20:22",
     "IncidentType": "Crash",
@@ -950,5 +936,19 @@
     "ImagePath": "",
     "Latitude": 36.013342299999998,
     "Longitude": -115.13679740000001
+  },
+  {
+    "UniqueId": 62487,
+    "Timestamp": "2026-11-11 20:00",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "D St",
+    "Impact": "",
+    "Notes": "8:00 PM, Nov 11 2026 Police activity on NB I-15\u00A0at D St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854663/attachment_0.png",
+    "Latitude": 36.179689688635449,
+    "Longitude": -115.14679155640415
   }
 ]
