@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62414,
-    "Timestamp": "2026-11-10 20:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:22 PM, Nov 10 2026 Crash on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853937/attachment_0.png",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
     "UniqueId": 62415,
     "Timestamp": "2026-11-10 20:35",
     "IncidentType": "Stalled vehicle",
@@ -964,5 +950,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854674/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 62489,
+    "Timestamp": "2026-11-11 20:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:21 PM, Nov 11 2026 Crash on NB Rainbow Blvd\u00A0at Hacienda Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854675/attachment_0.jpg",
+    "Latitude": 36.092429699999997,
+    "Longitude": -115.24293179999999
   }
 ]
