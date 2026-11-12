@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62424,
-    "Timestamp": "2026-11-10 23:47",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "11:47 PM, Nov 10 2026 Crash on NB I-15\u00A0at St Rose Pkwy off ramp. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/10/file_attachments/3853963/attachment_0.png",
-    "Latitude": 35.962029259465844,
-    "Longitude": -115.18155555355972
-  },
-  {
     "UniqueId": 62430,
     "Timestamp": "2026-11-11 05:06",
     "IncidentType": "Crash",
@@ -992,5 +978,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854697/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62500,
+    "Timestamp": "2026-11-12 02:01",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Fashion Show Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:01 AM, Nov 12 2026 Crash on SB Las Vegas Blvd\u00A0after Fashion Show Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854706/attachment_0.png",
+    "Latitude": 36.127662839999999,
+    "Longitude": -115.16785921
   }
 ]
