@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62438,
-    "Timestamp": "2026-11-11 08:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "to",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:59 AM, Nov 11 2026 Crash on NB Rancho Dr\u00A0to I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854445/attachment_0.jpg",
-    "Latitude": 36.25565434,
-    "Longitude": -115.2465177
-  },
-  {
-    "UniqueId": 62439,
-    "Timestamp": "2026-11-11 09:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:00 AM, Nov 11 2026 Stalled vehicle on SB I-15\u00A0after 215 Northern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854427/attachment_0.jpg",
-    "Latitude": 36.174083889581247,
-    "Longitude": -115.15534412685216
-  },
-  {
     "UniqueId": 62440,
     "Timestamp": "2026-11-11 09:34",
     "IncidentType": "Crash",
@@ -1146,5 +1118,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855184/attachment_0.png",
     "Latitude": 36.020259986978459,
     "Longitude": -115.27924598836366
+  },
+  {
+    "UniqueId": 62520,
+    "Timestamp": "2026-11-12 09:07",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Annie Oakley Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:07 AM, Nov 12 2026 Crash on EB Flamingo Rd\u00A0at Annie Oakley Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855231/attachment_0.png",
+    "Latitude": 36.115069499999997,
+    "Longitude": -115.0874232
+  },
+  {
+    "UniqueId": 62521,
+    "Timestamp": "2026-11-12 09:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:12 AM, Nov 12 2026 Stalled vehicle on WB 215 Southern Beltway Off Ramp\u00A0at Buffalo Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855233/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
