@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62430,
-    "Timestamp": "2026-11-11 05:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Ione Rd",
-    "Impact": "Right lanes blocked. Expect Delays",
-    "Notes": "5:06 AM, Nov 11 2026 Crash on NB Eastern Ave\u00A0at Ione Rd. Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854075/attachment_0.jpg",
-    "Latitude": 36.009616180087541,
-    "Longitude": -115.11710109004405
-  },
-  {
-    "UniqueId": 62431,
-    "Timestamp": "2026-11-11 05:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:52 AM, Nov 11 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854088/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 62432,
     "Timestamp": "2026-11-11 06:39",
     "IncidentType": "Stalled vehicle",
@@ -1006,5 +978,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854722/attachment_0.png",
     "Latitude": 36.045686600000003,
     "Longitude": -115.0720955
+  },
+  {
+    "UniqueId": 62502,
+    "Timestamp": "2026-11-12 04:41",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "4:41 AM, Nov 12 2026 Crash on WB Tropicana Ave\u00A0at Rainbow Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854784/attachment_0.png",
+    "Latitude": 36.099861799999999,
+    "Longitude": -115.2429985
+  },
+  {
+    "UniqueId": 62503,
+    "Timestamp": "2026-11-12 05:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Sloan",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:32 AM, Nov 12 2026 Crash on SB I-15\u00A0after Sloan. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854854/attachment_0.jpg",
+    "Latitude": 35.930465342305197,
+    "Longitude": -115.19313097000124
+  },
+  {
+    "UniqueId": 62504,
+    "Timestamp": "2026-11-12 05:53",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Left lane blocked Right lane blocked.",
+    "Notes": "5:53 AM, Nov 12 2026 Crash on EB Cheyenne Ave\u00A0at Cimarron Rd. Left lane blocked Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854864/attachment_0.png",
+    "Latitude": 36.218273000000003,
+    "Longitude": -115.265051
   }
 ]
