@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62433,
-    "Timestamp": "2026-11-11 07:15",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:15 AM, Nov 11 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854125/attachment_0.png",
-    "Latitude": 36.100031538544258,
-    "Longitude": -115.29390153647363
-  },
-  {
-    "UniqueId": 62434,
-    "Timestamp": "2026-11-11 07:21",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:21 AM, Nov 11 2026 Crash on SB I-11\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854128/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 62435,
     "Timestamp": "2026-11-11 07:34",
     "IncidentType": "Crash",
@@ -1090,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854989/attachment_0.png",
     "Latitude": 36.239959399999996,
     "Longitude": -115.11190980000001
+  },
+  {
+    "UniqueId": 62511,
+    "Timestamp": "2026-11-12 07:18",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Lamb Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:18 AM, Nov 12 2026 Crash on WB Centennial Pkwy\u00A0after Lamb Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855031/attachment_0.png",
+    "Latitude": 36.276662725515628,
+    "Longitude": -115.07994192543102
   }
 ]
