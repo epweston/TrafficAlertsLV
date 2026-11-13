@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62495,
-    "Timestamp": "2026-11-11 21:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Starr Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:47 PM, Nov 11 2026 Stalled vehicle on SB I-15\u00A0after Starr Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854692/attachment_0.png",
-    "Latitude": 35.984309228710906,
-    "Longitude": -115.18096446990968
-  },
-  {
-    "UniqueId": 62496,
-    "Timestamp": "2026-11-11 22:17",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:17 PM, Nov 11 2026 Stalled vehicle on NB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854694/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 62497,
-    "Timestamp": "2026-11-11 22:26",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bruce Woodbury Beltway",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "10:26 PM, Nov 11 2026 Crash on WB Lake Mead Blvd\u00A0at Bruce Woodbury Beltway. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854687/attachment_0.png",
-    "Latitude": 36.196151,
-    "Longitude": -115.25246420000001
-  },
-  {
     "UniqueId": 62498,
     "Timestamp": "2026-11-11 22:47",
     "IncidentType": "Crash",
@@ -1384,5 +1342,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856003/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 62596,
+    "Timestamp": "2026-11-12 22:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "at",
+    "CrossStreet": "Town Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:34 PM, Nov 12 2026 Crash on EB Flamingo Rd\u00A0at Town Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856009/attachment_0.png",
+    "Latitude": 36.1157301,
+    "Longitude": -115.3293917
+  },
+  {
+    "UniqueId": 62597,
+    "Timestamp": "2026-11-12 22:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:34 PM, Nov 12 2026 Crash on NB Lamb Blvd\u00A0at Washington Ave. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856018/attachment_0.jpg",
+    "Latitude": 36.180839414525735,
+    "Longitude": -115.08039100406639
   }
 ]
