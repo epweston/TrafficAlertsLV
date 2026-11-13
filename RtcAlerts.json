@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62548,
-    "Timestamp": "2026-11-12 15:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Arville Rd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:05 PM, Nov 12 2026 Crash on SB Arville Rd\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855832/attachment_0.png",
-    "Latitude": 36.159109600000001,
-    "Longitude": -115.1997406
-  },
-  {
     "UniqueId": 62549,
     "Timestamp": "2026-11-12 15:07",
     "IncidentType": "Crash",
@@ -1734,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857200/attachment_0.jpg",
     "Latitude": 36.036602999999999,
     "Longitude": -114.97894049999999
+  },
+  {
+    "UniqueId": 62673,
+    "Timestamp": "2026-11-13 15:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "3:00 PM, Nov 13 2026 Crash on SB 215 Northern Beltway\u00A0before Ann Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857202/attachment_0.png",
+    "Latitude": 36.261508127735802,
+    "Longitude": -115.32678022210708
+  },
+  {
+    "UniqueId": 62674,
+    "Timestamp": "2026-11-13 15:01",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder",
+    "Notes": "3:01 PM, Nov 13 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Ann Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857215/attachment_0.png",
+    "Latitude": 36.261637469999997,
+    "Longitude": -115.32673715999999
   }
 ]
