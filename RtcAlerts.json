@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62477,
-    "Timestamp": "2026-11-11 18:02",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "3 Left lanes blocked. Expect Delays",
-    "Notes": "6:02 PM, Nov 11 2026 Crash on WB Craig Rd\u00A0at I-15. 3 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854652/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
     "UniqueId": 62478,
     "Timestamp": "2026-11-11 18:06",
     "IncidentType": "Crash",
@@ -1384,5 +1370,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855958/attachment_0.png",
     "Latitude": 36.066203023950436,
     "Longitude": -115.27945518493652
+  },
+  {
+    "UniqueId": 62578,
+    "Timestamp": "2026-11-12 17:55",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Reno Ave",
+    "Relationship": "at",
+    "CrossStreet": "Cameron St Intersection",
+    "Impact": "",
+    "Notes": "5:55 PM, Nov 12 2026 Crash on EB Reno Ave\u00A0at Cameron St. Intersection Partially Blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855960/attachment_0.jpg",
+    "Latitude": 36.097257700000007,
+    "Longitude": -115.2038955
+  },
+  {
+    "UniqueId": 62579,
+    "Timestamp": "2026-11-12 17:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:57 PM, Nov 12 2026 Crash on NB Eastern Ave\u00A0after Silverado Ranch Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855961/attachment_0.png",
+    "Latitude": 36.013321931077591,
+    "Longitude": -115.1188606707682
+  },
+  {
+    "UniqueId": 62580,
+    "Timestamp": "2026-11-12 17:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:59 PM, Nov 12 2026 Crash on SB I-11\u00A0before Flamingo Rd.. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855981/attachment_0.png",
+    "Latitude": 36.11502744006151,
+    "Longitude": -115.08282365906119
   }
 ]
