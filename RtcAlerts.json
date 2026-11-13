@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62542,
-    "Timestamp": "2026-11-12 14:01",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:01 PM, Nov 12 2026 Crash on NB Durango Dr\u00A0at Summerlin Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855755/attachment_0.jpg",
-    "Latitude": 36.177843044475892,
-    "Longitude": -115.27827511346042
-  },
-  {
     "UniqueId": 62543,
     "Timestamp": "2026-11-12 14:08",
     "IncidentType": "Crash",
@@ -1692,5 +1678,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857089/attachment_0.jpg",
     "Latitude": 36.029806600000001,
     "Longitude": -114.97129870000001
+  },
+  {
+    "UniqueId": 62664,
+    "Timestamp": "2026-11-13 13:56",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "1:56 PM, Nov 13 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857110/attachment_0.jpg",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
   }
 ]
