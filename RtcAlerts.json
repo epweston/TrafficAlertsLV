@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62541,
-    "Timestamp": "2026-11-12 13:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:31 PM, Nov 12 2026 Crash on WB Sunset Rd\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855735/attachment_0.jpg",
-    "Latitude": 36.070575699999999,
-    "Longitude": -115.24242940000001
-  },
-  {
     "UniqueId": 62542,
     "Timestamp": "2026-11-12 14:01",
     "IncidentType": "Crash",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857063/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62662,
+    "Timestamp": "2026-11-13 13:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:37 PM, Nov 13 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0before Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857096/attachment_0.jpg",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
