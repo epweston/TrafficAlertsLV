@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62536,
-    "Timestamp": "2026-11-12 12:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Tropical Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:24 PM, Nov 12 2026 Stalled vehicle on SB I-15\u00A0at Tropical Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855578/attachment_0.png",
-    "Latitude": 36.272856280056651,
-    "Longitude": -115.26267889281597
-  },
-  {
     "UniqueId": 62537,
     "Timestamp": "2026-11-12 12:42",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856960/attachment_0.png",
     "Latitude": 36.052757799999988,
     "Longitude": -115.0287706
+  },
+  {
+    "UniqueId": 62655,
+    "Timestamp": "2026-11-13 12:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "before",
+    "CrossStreet": "Bruce St",
+    "Impact": "",
+    "Notes": "12:21 PM, Nov 13 2026 Crash on NB Fremont St\u00A0before Bruce St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856966/attachment_0.png",
+    "Latitude": 36.162531899999998,
+    "Longitude": -115.1250707
   }
 ]
