@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62471,
-    "Timestamp": "2026-11-11 16:42",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:42 PM, Nov 11 2026 Crash on WB 215 Southern Beltway\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
     "UniqueId": 62472,
     "Timestamp": "2026-11-11 16:50",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855914/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 62564,
+    "Timestamp": "2026-11-12 16:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Us-95",
+    "Relationship": "from",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:42 PM, Nov 12 2026 Crash on NB US-95 onramp from Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855918/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
