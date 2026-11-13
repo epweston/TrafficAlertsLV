@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62485,
-    "Timestamp": "2026-11-11 19:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "7:46 PM, Nov 11 2026 Crash on WB Craig Rd\u00A0at I-15. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854672/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
-    "UniqueId": 62486,
-    "Timestamp": "2026-11-11 19:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "7:46 PM, Nov 11 2026 Crash on SB Maryland Pkwy\u00A0at Silverado Ranch Blvd. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.013342299999998,
-    "Longitude": -115.13679740000001
-  },
-  {
     "UniqueId": 62487,
     "Timestamp": "2026-11-11 20:00",
     "IncidentType": "Police activity",
@@ -1454,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855997/attachment_0.png",
     "Latitude": 36.100960200000003,
     "Longitude": -115.2039193
+  },
+  {
+    "UniqueId": 62591,
+    "Timestamp": "2026-11-12 19:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:45 PM, Nov 12 2026 Crash on SB I-15\u00A0before Washington Ave. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
