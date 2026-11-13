@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62519,
-    "Timestamp": "2026-11-12 08:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:52 AM, Nov 12 2026 Crash on SB Durango Dr\u00A0before Blue Diamond Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855184/attachment_0.png",
-    "Latitude": 36.020259986978459,
-    "Longitude": -115.27924598836366
-  },
-  {
     "UniqueId": 62520,
     "Timestamp": "2026-11-12 09:07",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856561/attachment_0.png",
     "Latitude": 36.071512268486451,
     "Longitude": -115.03666022156237
+  },
+  {
+    "UniqueId": 62638,
+    "Timestamp": "2026-11-13 08:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:58 AM, Nov 13 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856587/attachment_0.jpg",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
