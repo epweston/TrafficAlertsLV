@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62529,
-    "Timestamp": "2026-11-12 10:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:10 AM, Nov 12 2026 Crash on EB Sahara Ave\u00A0at Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855363/attachment_0.jpg",
-    "Latitude": 36.143606130000002,
-    "Longitude": -115.15479685
-  },
-  {
     "UniqueId": 62530,
     "Timestamp": "2026-11-12 10:13",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856670/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 62649,
+    "Timestamp": "2026-11-13 10:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Smoke Ranch Rd",
+    "Relationship": "at",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:05 AM, Nov 13 2026 Crash on EB Smoke Ranch Rd\u00A0at Tenaya Way. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856712/attachment_0.png",
+    "Latitude": 36.203438299999988,
+    "Longitude": -115.2514556
   }
 ]
