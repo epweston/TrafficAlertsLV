@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62537,
-    "Timestamp": "2026-11-12 12:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:42 PM, Nov 12 2026 Stalled vehicle on NB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855595/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 62538,
     "Timestamp": "2026-11-12 12:58",
     "IncidentType": "Stalled vehicle",
@@ -1678,5 +1664,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856995/attachment_0.png",
     "Latitude": 36.151616300000001,
     "Longitude": -115.24343039999999
+  },
+  {
+    "UniqueId": 62658,
+    "Timestamp": "2026-11-13 12:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "12:38 PM, Nov 13 2026 Crash on SB I-11\u00A0after Eastern Ave. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857003/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
