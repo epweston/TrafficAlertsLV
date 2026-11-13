@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62520,
-    "Timestamp": "2026-11-12 09:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Annie Oakley Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:07 AM, Nov 12 2026 Crash on EB Flamingo Rd\u00A0at Annie Oakley Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855231/attachment_0.png",
-    "Latitude": 36.115069499999997,
-    "Longitude": -115.0874232
-  },
-  {
-    "UniqueId": 62521,
-    "Timestamp": "2026-11-12 09:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:12 AM, Nov 12 2026 Stalled vehicle on WB 215 Southern Beltway Off Ramp\u00A0at Buffalo Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855233/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
-    "UniqueId": 62522,
-    "Timestamp": "2026-11-12 09:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:14 AM, Nov 12 2026 Crash on WB Flamingo Rd\u00A0at Cimarron Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855254/attachment_0.png",
-    "Latitude": 36.114650126614762,
-    "Longitude": -115.27002434822492
-  },
-  {
     "UniqueId": 62523,
     "Timestamp": "2026-11-12 09:31",
     "IncidentType": "Crash",
@@ -1636,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856587/attachment_0.jpg",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 62639,
+    "Timestamp": "2026-11-13 09:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:08 AM, Nov 13 2026 Crash on SB Fort Apache Rd\u00A0after Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856616/attachment_0.jpg",
+    "Latitude": 36.100018597507436,
+    "Longitude": -115.29730798072389
   }
 ]
