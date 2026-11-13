@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62535,
-    "Timestamp": "2026-11-12 12:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Stewart Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:05 PM, Nov 12 2026 Crash on SB Nellis Blvd\u00A0after Stewart Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855572/attachment_0.jpg",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
     "UniqueId": 62536,
     "Timestamp": "2026-11-12 12:24",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856908/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 62654,
+    "Timestamp": "2026-11-13 12:09",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Kelso Dunes Ave",
+    "Relationship": "at",
+    "CrossStreet": "Gibson Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:09 PM, Nov 13 2026 Crash on WB Kelso Dunes Ave\u00A0at Gibson Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856960/attachment_0.png",
+    "Latitude": 36.052757799999988,
+    "Longitude": -115.0287706
   }
 ]
