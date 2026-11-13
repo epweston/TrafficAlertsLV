@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62515,
-    "Timestamp": "2026-11-12 08:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cc-215",
-    "Relationship": "at",
-    "CrossStreet": "Sky Pointe Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:16 AM, Nov 12 2026 Crash on WB CC-215\u00A0at Sky Pointe Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855102/attachment_0.png",
-    "Latitude": 36.279313100000003,
-    "Longitude": -115.2648477
-  },
-  {
-    "UniqueId": 62516,
-    "Timestamp": "2026-11-12 08:26",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:26 AM, Nov 12 2026 Crash on SB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855108/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 62517,
-    "Timestamp": "2026-11-12 08:30",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Centennial Parkway",
-    "Relationship": "at",
-    "CrossStreet": "Shaumber Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:30 AM, Nov 12 2026 Crash on WB Centennial Parkway\u00A0at Shaumber Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855111/attachment_0.png",
-    "Latitude": 36.277208700000003,
-    "Longitude": -115.32898059999999
-  },
-  {
-    "UniqueId": 62518,
-    "Timestamp": "2026-11-12 08:31",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "D St",
-    "Impact": "",
-    "Notes": "8:31 AM, Nov 12 2026 Crash on WB Bonanza Rd\u00A0at D St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855153/attachment_0.jpg",
-    "Latitude": 36.177293900000002,
-    "Longitude": -115.1468277
-  },
-  {
     "UniqueId": 62519,
     "Timestamp": "2026-11-12 08:52",
     "IncidentType": "Crash",
@@ -1650,5 +1594,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856477/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 62635,
+    "Timestamp": "2026-11-13 08:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:34 AM, Nov 13 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856528/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 62636,
+    "Timestamp": "2026-11-13 08:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:34 AM, Nov 13 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856529/attachment_0.png",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
   }
 ]
