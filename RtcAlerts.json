@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62488,
-    "Timestamp": "2026-11-11 20:06",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:06 PM, Nov 11 2026 Crash on EB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854674/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 62489,
     "Timestamp": "2026-11-11 20:21",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856013/attachment_0.png",
     "Latitude": 36.057119499999999,
     "Longitude": -115.1002486
+  },
+  {
+    "UniqueId": 62593,
+    "Timestamp": "2026-11-12 20:08",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "after",
+    "CrossStreet": "Cameron St",
+    "Impact": "",
+    "Notes": "8:08 PM, Nov 12 2026 Crash on WB Tropicana Ave\u00A0after Cameron St. Left lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.100960200000003,
+    "Longitude": -115.2039193
   }
 ]
