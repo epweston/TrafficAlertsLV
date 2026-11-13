@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62502,
-    "Timestamp": "2026-11-12 04:41",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "4:41 AM, Nov 12 2026 Crash on WB Tropicana Ave\u00A0at Rainbow Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854784/attachment_0.png",
-    "Latitude": 36.099861799999999,
-    "Longitude": -115.2429985
-  },
-  {
     "UniqueId": 62503,
     "Timestamp": "2026-11-12 05:32",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856056/attachment_0.png",
     "Latitude": 36.195823874771833,
     "Longitude": -115.13858020305635
+  },
+  {
+    "UniqueId": 62620,
+    "Timestamp": "2026-11-13 04:48",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:48 AM, Nov 13 2026 Crash on NB Eastern Ave\u00A0before Warm Springs Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856088/attachment_0.png",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
   }
 ]
