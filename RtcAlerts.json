@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62487,
-    "Timestamp": "2026-11-11 20:00",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "D St",
-    "Impact": "",
-    "Notes": "8:00 PM, Nov 11 2026 Police activity on NB I-15\u00A0at D St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/11/file_attachments/3854663/attachment_0.png",
-    "Latitude": 36.179689688635449,
-    "Longitude": -115.14679155640415
-  },
-  {
     "UniqueId": 62488,
     "Timestamp": "2026-11-11 20:06",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 62592,
+    "Timestamp": "2026-11-12 20:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Multiple lanes blocked. Expect Delays",
+    "Notes": "8:02 PM, Nov 12 2026 Crash on EB Warm Springs Rd\u00A0at Pecos Rd. Multiple lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856013/attachment_0.png",
+    "Latitude": 36.057119499999999,
+    "Longitude": -115.1002486
   }
 ]
