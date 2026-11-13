@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62546,
-    "Timestamp": "2026-11-12 14:49",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:49 PM, Nov 12 2026 Crash on SB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855804/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 62547,
-    "Timestamp": "2026-11-12 14:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:53 PM, Nov 12 2026 Crash on SB Lamb Blvd\u00A0at Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855822/attachment_0.png",
-    "Latitude": 36.180839414525735,
-    "Longitude": -115.08039100406639
-  },
-  {
     "UniqueId": 62548,
     "Timestamp": "2026-11-12 15:05",
     "IncidentType": "Crash",
@@ -1720,5 +1692,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857183/attachment_0.png",
     "Latitude": 36.10813214101082,
     "Longitude": -115.18071234226228
+  },
+  {
+    "UniqueId": 62670,
+    "Timestamp": "2026-11-13 14:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:49 PM, Nov 13 2026 Stalled vehicle on SB I-11\u00A0before Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857197/attachment_0.png",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
