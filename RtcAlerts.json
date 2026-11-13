@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62528,
-    "Timestamp": "2026-11-12 10:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "10:04 AM, Nov 12 2026 Crash on EB Charleston Blvd\u00A0after Arville St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855336/attachment_0.jpg",
-    "Latitude": 36.159109600000001,
-    "Longitude": -115.1997406
-  },
-  {
     "UniqueId": 62529,
     "Timestamp": "2026-11-12 10:10",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856667/attachment_0.png",
     "Latitude": 36.172842000000003,
     "Longitude": -115.1456922
+  },
+  {
+    "UniqueId": 62648,
+    "Timestamp": "2026-11-13 10:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:02 AM, Nov 13 2026 Stalled vehicle on SB I-15\u00A0after Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856670/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
