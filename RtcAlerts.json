@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62549,
-    "Timestamp": "2026-11-12 15:07",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:07 PM, Nov 12 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855834/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 62550,
-    "Timestamp": "2026-11-12 15:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Bonanza Rd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "WB Right lanes blocked. NB Left Lanes Blocked.",
-    "Notes": "3:08 PM, Nov 12 2026 Crash on WB Bonanza Rd\u00A0at Nellis Blvd. WB Right lanes blocked. NB Left Lanes Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855811/attachment_0.jpg",
-    "Latitude": 36.174032455275999,
-    "Longitude": -115.06216409024444
-  },
-  {
     "UniqueId": 62551,
     "Timestamp": "2026-11-12 15:13",
     "IncidentType": "Stalled vehicle",
@@ -1748,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857215/attachment_0.png",
     "Latitude": 36.261637469999997,
     "Longitude": -115.32673715999999
+  },
+  {
+    "UniqueId": 62675,
+    "Timestamp": "2026-11-13 15:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Main St",
+    "Relationship": "before",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:06 PM, Nov 13 2026 Crash on SB Main St\u00A0before Washington Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857218/attachment_0.png",
+    "Latitude": 36.181250200000001,
+    "Longitude": -115.1401274
   }
 ]
