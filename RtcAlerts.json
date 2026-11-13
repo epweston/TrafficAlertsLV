@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62500,
-    "Timestamp": "2026-11-12 02:01",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Fashion Show Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:01 AM, Nov 12 2026 Crash on SB Las Vegas Blvd\u00A0after Fashion Show Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854706/attachment_0.png",
-    "Latitude": 36.127662839999999,
-    "Longitude": -115.16785921
-  },
-  {
-    "UniqueId": 62501,
-    "Timestamp": "2026-11-12 02:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sr-168 / Moapa Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:08 AM, Nov 12 2026 Crash on EB SR-168 / Moapa Rd\u00A0before I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3854722/attachment_0.png",
-    "Latitude": 36.045686600000003,
-    "Longitude": -115.0720955
-  },
-  {
     "UniqueId": 62502,
     "Timestamp": "2026-11-12 04:41",
     "IncidentType": "Crash",
@@ -1622,5 +1594,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856043/attachment_0.png",
     "Latitude": 36.158866284490934,
     "Longitude": -115.16999423713615
+  },
+  {
+    "UniqueId": 62618,
+    "Timestamp": "2026-11-13 03:04",
+    "IncidentType": "EMS",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bellagio Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:04 AM, Nov 13 2026 EMS on SB Las Vegas Blvd\u00A0at Bellagio Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856048/attachment_0.jpg",
+    "Latitude": 36.111131200000003,
+    "Longitude": -115.17297687999999
   }
 ]
