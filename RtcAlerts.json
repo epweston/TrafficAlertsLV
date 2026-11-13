@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62533,
-    "Timestamp": "2026-11-12 10:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:40 AM, Nov 12 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855410/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 62534,
-    "Timestamp": "2026-11-12 10:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "10:49 AM, Nov 12 2026 Crash on EB 215 Southern Beltway\u00A0at Stephanie St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855453/attachment_0.png",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 62535,
     "Timestamp": "2026-11-12 12:05",
     "IncidentType": "Crash",
@@ -1636,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856761/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 62651,
+    "Timestamp": "2026-11-13 10:55",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Bruce St",
+    "Impact": "",
+    "Notes": "10:55 AM, Nov 13 2026 Crash on WB Charleston Blvd\u00A0after Bruce St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856820/attachment_0.png",
+    "Latitude": 36.158894099999998,
+    "Longitude": -115.1250332
   }
 ]
