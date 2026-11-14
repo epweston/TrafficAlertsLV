@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62618,
-    "Timestamp": "2026-11-13 03:04",
-    "IncidentType": "EMS",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bellagio Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:04 AM, Nov 13 2026 EMS on SB Las Vegas Blvd\u00A0at Bellagio Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856048/attachment_0.jpg",
-    "Latitude": 36.111131200000003,
-    "Longitude": -115.17297687999999
-  },
-  {
-    "UniqueId": 62619,
-    "Timestamp": "2026-11-13 03:11",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:11 AM, Nov 13 2026 Vehicle on fire on SB I-15\u00A0at Lake Mead Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856056/attachment_0.png",
-    "Latitude": 36.195823874771833,
-    "Longitude": -115.13858020305635
-  },
-  {
     "UniqueId": 62620,
     "Timestamp": "2026-11-13 04:48",
     "IncidentType": "Crash",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857388/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62731,
+    "Timestamp": "2026-11-14 03:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:06 AM, Nov 14 2026 Stalled vehicle on SB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857390/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
