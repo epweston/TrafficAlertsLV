@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62668,
-    "Timestamp": "2026-11-13 14:40",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "",
-    "Notes": "2:40 PM, Nov 13 2026 Crash on SB Las Vegas Blvd\u00A0at Fremont St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857195/attachment_0.jpg",
-    "Latitude": 36.1692362,
-    "Longitude": -115.14061959999999
-  },
-  {
-    "UniqueId": 62669,
-    "Timestamp": "2026-11-13 14:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Harmon Ave",
-    "Relationship": "over",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:45 PM, Nov 13 2026 Crash on EB Harmon Ave\u00A0over I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857183/attachment_0.png",
-    "Latitude": 36.10813214101082,
-    "Longitude": -115.18071234226228
-  },
-  {
-    "UniqueId": 62670,
-    "Timestamp": "2026-11-13 14:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:49 PM, Nov 13 2026 Stalled vehicle on SB I-11\u00A0before Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857197/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 62671,
     "Timestamp": "2026-11-13 14:53",
     "IncidentType": "Crash",
@@ -1580,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857589/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 62781,
+    "Timestamp": "2026-11-14 14:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "after",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "2:45 PM, Nov 14 2026 Crash on EB Craig Rd\u00A0after Losee Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857591/attachment_0.png",
+    "Latitude": 36.239773575501886,
+    "Longitude": -115.11682743770037
   }
 ]
