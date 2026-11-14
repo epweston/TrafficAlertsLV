@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62630,
-    "Timestamp": "2026-11-13 07:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "to",
-    "CrossStreet": "Sky Pointe Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:51 AM, Nov 13 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0to Sky Pointe Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856415/attachment_0.png",
-    "Latitude": 36.279313100000003,
-    "Longitude": -115.2648477
-  },
-  {
-    "UniqueId": 62631,
-    "Timestamp": "2026-11-13 07:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:54 AM, Nov 13 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856441/attachment_0.png",
-    "Latitude": 36.205568079996773,
-    "Longitude": -115.34099578857423
-  },
-  {
-    "UniqueId": 62632,
-    "Timestamp": "2026-11-13 07:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Carey Ave",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:59 AM, Nov 13 2026 Crash on EB Carey Ave\u00A0at Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856447/attachment_0.png",
-    "Latitude": 36.203005534379123,
-    "Longitude": -115.16080498695374
-  },
-  {
-    "UniqueId": 62633,
-    "Timestamp": "2026-11-13 07:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Carey Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:59 AM, Nov 13 2026 Crash on NB Martin L King Blvd\u00A0after Carey Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856425/attachment_0.jpg",
-    "Latitude": 36.202935600000004,
-    "Longitude": -115.1608971
-  },
-  {
     "UniqueId": 62634,
     "Timestamp": "2026-11-13 08:03",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857464/attachment_0.jpg",
     "Latitude": 36.023789000000001,
     "Longitude": -115.0622602
+  },
+  {
+    "UniqueId": 62742,
+    "Timestamp": "2026-11-14 07:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:57 AM, Nov 14 2026 Stalled vehicle on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857475/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
