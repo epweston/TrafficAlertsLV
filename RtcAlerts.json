@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62663,
-    "Timestamp": "2026-11-13 13:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "after",
-    "CrossStreet": "Major Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:44 PM, Nov 13 2026 Crash on NB Boulder Hwy\u00A0after Major Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857089/attachment_0.jpg",
-    "Latitude": 36.029806600000001,
-    "Longitude": -114.97129870000001
-  },
-  {
-    "UniqueId": 62664,
-    "Timestamp": "2026-11-13 13:56",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "1:56 PM, Nov 13 2026 Crash on EB 215 Southern Beltway\u00A0before Stephanie St. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857110/attachment_0.jpg",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
-    "UniqueId": 62665,
-    "Timestamp": "2026-11-13 14:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:02 PM, Nov 13 2026 Crash on SB I-15\u00A0to 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857132/attachment_0.jpg",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 62666,
-    "Timestamp": "2026-11-13 14:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:05 PM, Nov 13 2026 Crash on EB Summerlin Pkwy\u00A0at Rampart Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857139/attachment_0.png",
-    "Latitude": 36.159022,
-    "Longitude": -115.29140700000001
-  },
-  {
     "UniqueId": 62667,
     "Timestamp": "2026-11-13 14:28",
     "IncidentType": "Crash",
@@ -1566,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857581/attachment_0.png",
     "Latitude": 36.1665402,
     "Longitude": -115.2061514
+  },
+  {
+    "UniqueId": 62775,
+    "Timestamp": "2026-11-14 13:59",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "before",
+    "CrossStreet": "Bruce St",
+    "Impact": "",
+    "Notes": "1:59 PM, Nov 14 2026 Crash on WB Fremont St\u00A0before Bruce St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857593/attachment_0.jpg",
+    "Latitude": 36.162531899999998,
+    "Longitude": -115.1250707
   }
 ]
