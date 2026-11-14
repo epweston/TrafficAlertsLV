@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62637,
-    "Timestamp": "2026-11-13 08:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:44 AM, Nov 13 2026 Stalled vehicle on SB I-11\u00A0at Galleria Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856561/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 62638,
     "Timestamp": "2026-11-13 08:58",
     "IncidentType": "Stalled vehicle",
@@ -1524,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857478/attachment_0.jpg",
     "Latitude": 36.181185829999997,
     "Longitude": -115.13418675
+  },
+  {
+    "UniqueId": 62746,
+    "Timestamp": "2026-11-14 08:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:54 AM, Nov 14 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0before Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857470/attachment_0.png",
+    "Latitude": 36.261508127735802,
+    "Longitude": -115.32678022210708
   }
 ]
