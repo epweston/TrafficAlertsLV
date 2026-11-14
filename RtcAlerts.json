@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62650,
-    "Timestamp": "2026-11-13 10:28",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:28 AM, Nov 13 2026 Stalled vehicle on SB I-11\u00A0before Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856761/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 62651,
     "Timestamp": "2026-11-13 10:55",
     "IncidentType": "Crash",
@@ -1482,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857522/attachment_0.png",
     "Latitude": 36.114655800000001,
     "Longitude": -115.1379192
+  },
+  {
+    "UniqueId": 62756,
+    "Timestamp": "2026-11-14 10:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Windmill Ln",
+    "Relationship": "at",
+    "CrossStreet": "Maryland Parkway",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:28 AM, Nov 14 2026 Crash on EB Windmill Ln\u00A0at Maryland Parkway. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857502/attachment_0.png",
+    "Latitude": 36.0426316,
+    "Longitude": -115.1362153
   }
 ]
