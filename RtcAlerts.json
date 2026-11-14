@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62588,
-    "Timestamp": "2026-11-12 19:05",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Skye Village Rd",
-    "Relationship": "at",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:05 PM, Nov 12 2026 Crash on SB Skye Village Rd\u00A0at Skye Canyon Park Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855990/attachment_0.png",
-    "Latitude": 36.3142584,
-    "Longitude": -115.3147937
-  },
-  {
     "UniqueId": 62589,
     "Timestamp": "2026-11-12 19:20",
     "IncidentType": "Crash",
@@ -1720,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857329/attachment_0.jpg",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62711,
+    "Timestamp": "2026-11-13 19:03",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "before",
+    "CrossStreet": "Airport Tunnel",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "7:03 PM, Nov 13 2026 Crash on NB Airport Connector\u00A0before Airport Tunnel . Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857331/attachment_0.jpg",
+    "Latitude": 36.070912589999999,
+    "Longitude": -115.14622432
   }
 ]
