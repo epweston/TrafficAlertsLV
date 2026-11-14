@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62561,
-    "Timestamp": "2026-11-12 16:28",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:28 PM, Nov 12 2026 Crash on SB I-11\u00A0after Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855912/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 62562,
-    "Timestamp": "2026-11-12 16:34",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:34 PM, Nov 12 2026 Crash on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855932/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 62563,
     "Timestamp": "2026-11-12 16:38",
     "IncidentType": "Police activity",
@@ -1762,5 +1734,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857271/attachment_0.png",
     "Latitude": 36.065144099999998,
     "Longitude": -115.260508
+  },
+  {
+    "UniqueId": 62688,
+    "Timestamp": "2026-11-13 16:29",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Grand Canyon Dr",
+    "Relationship": "at",
+    "CrossStreet": "Skye Canyon Park Dr",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:29 PM, Nov 13 2026 Crash on SB Grand Canyon Dr\u00A0at Skye Canyon Park Dr. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857278/attachment_0.png",
+    "Latitude": 36.314035900895121,
+    "Longitude": -115.30595542783134
+  },
+  {
+    "UniqueId": 62689,
+    "Timestamp": "2026-11-13 16:32",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Miller Ln",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:32 PM, Nov 13 2026 Crash on SB Miller Ln\u00A0after Flamingo Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857249/attachment_0.png",
+    "Latitude": 36.114743300000001,
+    "Longitude": -115.2632687
   }
 ]
