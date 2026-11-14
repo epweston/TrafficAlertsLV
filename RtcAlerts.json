@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62671,
-    "Timestamp": "2026-11-13 14:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:53 PM, Nov 13 2026 Crash on SB Las Vegas Blvd\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857199/attachment_0.png",
-    "Latitude": 36.158766900000003,
-    "Longitude": -115.1474163
-  },
-  {
     "UniqueId": 62672,
     "Timestamp": "2026-11-13 14:56",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857591/attachment_0.png",
     "Latitude": 36.239773575501886,
     "Longitude": -115.11682743770037
+  },
+  {
+    "UniqueId": 62782,
+    "Timestamp": "2026-11-14 14:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "2:52 PM, Nov 14 2026 Crash on SB Ft Apache Rd\u00A0before Flamingo Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857612/attachment_0.png",
+    "Latitude": 36.115025099999997,
+    "Longitude": -115.2969282
   }
 ]
