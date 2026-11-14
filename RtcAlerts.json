@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62638,
-    "Timestamp": "2026-11-13 08:58",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:58 AM, Nov 13 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856587/attachment_0.jpg",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 62639,
-    "Timestamp": "2026-11-13 09:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:08 AM, Nov 13 2026 Crash on SB Fort Apache Rd\u00A0after Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856616/attachment_0.jpg",
-    "Latitude": 36.100018597507436,
-    "Longitude": -115.29730798072389
-  },
-  {
     "UniqueId": 62640,
     "Timestamp": "2026-11-13 09:17",
     "IncidentType": "Crash",
@@ -1524,5 +1496,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857470/attachment_0.png",
     "Latitude": 36.261508127735802,
     "Longitude": -115.32678022210708
+  },
+  {
+    "UniqueId": 62747,
+    "Timestamp": "2026-11-14 09:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:12 AM, Nov 14 2026 Stalled vehicle on SB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857492/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
