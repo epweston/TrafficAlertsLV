@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62610,
-    "Timestamp": "2026-11-13 00:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:21 AM, Nov 13 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
-    "UniqueId": 62611,
-    "Timestamp": "2026-11-13 01:00",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "1:00 AM, Nov 13 2026 Crash on WB Summerlin Pkwy\u00A0at Durango Dr. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856029/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 62612,
     "Timestamp": "2026-11-13 01:06",
     "IncidentType": "Stalled vehicle",
@@ -1664,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857385/attachment_0.jpg",
     "Latitude": 36.156117199999997,
     "Longitude": -115.1537788
+  },
+  {
+    "UniqueId": 62729,
+    "Timestamp": "2026-11-14 00:56",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "after",
+    "CrossStreet": "University Center Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:56 AM, Nov 14 2026 Crash on WB Desert Inn Rd\u00A0after University Center Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857401/attachment_0.png",
+    "Latitude": 36.129843100000002,
+    "Longitude": -115.14594150000001
   }
 ]
