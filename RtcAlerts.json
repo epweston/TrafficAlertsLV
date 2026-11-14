@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62591,
-    "Timestamp": "2026-11-12 19:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:45 PM, Nov 12 2026 Crash on SB I-15\u00A0before Washington Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 62592,
     "Timestamp": "2026-11-12 20:02",
     "IncidentType": "Crash",
@@ -1748,5 +1734,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857359/attachment_0.png",
     "Latitude": 36.240426800000002,
     "Longitude": -115.0892226
+  },
+  {
+    "UniqueId": 62716,
+    "Timestamp": "2026-11-13 19:51",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "7:51 PM, Nov 13 2026 Crash on SB Rainbow Blvd\u00A0at Tropicana Ave. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857361/attachment_0.jpg",
+    "Latitude": 36.099861799999999,
+    "Longitude": -115.2429985
   }
 ]
