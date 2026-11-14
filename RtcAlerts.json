@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62621,
-    "Timestamp": "2026-11-13 05:47",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:47 AM, Nov 13 2026 Police activity on NB Rancho Dr\u00A0at Oakey Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856141/attachment_0.png",
-    "Latitude": 36.151576599999999,
-    "Longitude": -115.1730408
-  },
-  {
-    "UniqueId": 62622,
-    "Timestamp": "2026-11-13 05:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:48 AM, Nov 13 2026 Stalled vehicle on NB I-11\u00A0before Las Vegas Blvd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856154/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 62623,
-    "Timestamp": "2026-11-13 05:49",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Las Palmas Entrada Ave",
-    "Relationship": "at",
-    "CrossStreet": "Gibson Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:49 AM, Nov 13 2026 Crash on WB Las Palmas Entrada Ave\u00A0at Gibson Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856145/attachment_0.png",
-    "Latitude": 36.029314100000001,
-    "Longitude": -115.02942539999999
-  },
-  {
     "UniqueId": 62624,
     "Timestamp": "2026-11-13 05:54",
     "IncidentType": "Crash",
@@ -1650,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857453/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 62739,
+    "Timestamp": "2026-11-14 05:44",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Bonneville Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:44 AM, Nov 14 2026 Crash on NB I-15\u00A0to Bonneville Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.166254742634237,
+    "Longitude": -115.16049184981694
   }
 ]
