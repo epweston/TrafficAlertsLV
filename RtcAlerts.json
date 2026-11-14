@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62564,
-    "Timestamp": "2026-11-12 16:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Us-95",
-    "Relationship": "from",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:42 PM, Nov 12 2026 Crash on NB US-95 onramp from Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855918/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
-    "UniqueId": 62565,
-    "Timestamp": "2026-11-12 16:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:44 PM, Nov 12 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855922/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 62566,
-    "Timestamp": "2026-11-12 16:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:44 PM, Nov 12 2026 Stalled vehicle on SB I-11\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855925/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
     "UniqueId": 62567,
     "Timestamp": "2026-11-12 16:59",
     "IncidentType": "Crash",
@@ -1762,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857280/attachment_0.png",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 62691,
+    "Timestamp": "2026-11-13 16:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Stewart Ave",
+    "Relationship": "before",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:47 PM, Nov 13 2026 Crash on WB Stewart Ave\u00A0before Nellis Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857294/attachment_0.png",
+    "Latitude": 36.166587100000001,
+    "Longitude": -115.0621689
+  },
+  {
+    "UniqueId": 62692,
+    "Timestamp": "2026-11-13 16:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Robindale Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:49 PM, Nov 13 2026 Crash on NB Decatur Blvd\u00A0at Robindale Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857296/attachment_0.png",
+    "Latitude": 36.049756199999997,
+    "Longitude": -115.20787060000001
   }
 ]
