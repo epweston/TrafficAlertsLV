@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62676,
-    "Timestamp": "2026-11-13 15:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder",
-    "Notes": "3:31 PM, Nov 13 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0after I-15. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857225/attachment_0.png",
-    "Latitude": 36.271455539999998,
-    "Longitude": -115.05661742
-  },
-  {
-    "UniqueId": 62677,
-    "Timestamp": "2026-11-13 15:35",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:35 PM, Nov 13 2026 Crash on NB I-11\u00A0before Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857233/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 62678,
-    "Timestamp": "2026-11-13 15:38",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "3:38 PM, Nov 13 2026 Crash on SB I-11\u00A0after S Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857229/attachment_0.png",
-    "Latitude": 36.175254133971912,
-    "Longitude": -115.17418362739356
-  },
-  {
     "UniqueId": 62679,
     "Timestamp": "2026-11-13 15:40",
     "IncidentType": "Stalled vehicle",
@@ -1566,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857617/attachment_0.png",
     "Latitude": 36.178497,
     "Longitude": -115.2783268
+  },
+  {
+    "UniqueId": 62788,
+    "Timestamp": "2026-11-14 15:33",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:33 PM, Nov 14 2026 Crash on EB 215 Southern Beltway\u00A0after Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857610/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
   }
 ]
