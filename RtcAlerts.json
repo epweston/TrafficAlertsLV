@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62655,
-    "Timestamp": "2026-11-13 12:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "before",
-    "CrossStreet": "Bruce St",
-    "Impact": "",
-    "Notes": "12:21 PM, Nov 13 2026 Crash on NB Fremont St\u00A0before Bruce St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3856966/attachment_0.png",
-    "Latitude": 36.162531899999998,
-    "Longitude": -115.1250707
-  },
-  {
     "UniqueId": 62656,
     "Timestamp": "2026-11-13 12:28",
     "IncidentType": "Crash",
@@ -1552,5 +1538,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857543/attachment_0.png",
     "Latitude": 36.1145158070983,
     "Longitude": -115.24298784914768
+  },
+  {
+    "UniqueId": 62766,
+    "Timestamp": "2026-11-14 12:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:25 PM, Nov 14 2026 Stalled vehicle on NB I-15\u00A0at St Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857545/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
