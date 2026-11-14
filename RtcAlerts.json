@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62599,
-    "Timestamp": "2026-11-12 23:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:05 PM, Nov 12 2026 Crash on EB Flamingo Rd\u00A0at Town Center Dr. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.1157301,
-    "Longitude": -115.3293917
-  },
-  {
-    "UniqueId": 62600,
-    "Timestamp": "2026-11-12 23:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "11:05 PM, Nov 12 2026 Crash on NB Lamb Blvd\u00A0at Washington Ave. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.180839414525735,
-    "Longitude": -115.08039100406639
-  },
-  {
-    "UniqueId": 62601,
-    "Timestamp": "2026-11-12 23:18",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "at",
-    "CrossStreet": "Pollock Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:18 PM, Nov 12 2026 Police activity on WB Warm Springs Rd\u00A0at Pollock Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856021/attachment_0.png",
-    "Latitude": 36.057239699999997,
-    "Longitude": -115.14543569999999
-  },
-  {
-    "UniqueId": 62602,
-    "Timestamp": "2026-11-12 23:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:22 PM, Nov 12 2026 Stalled vehicle on NB I-15\u00A0after Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3856034/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 62603,
     "Timestamp": "2026-11-12 23:41",
     "IncidentType": "Crash",
@@ -1776,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857381/attachment_0.png",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62726,
+    "Timestamp": "2026-11-13 23:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:19 PM, Nov 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857396/attachment_0.jpg",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
