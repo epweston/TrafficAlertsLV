@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62585,
-    "Timestamp": "2026-11-12 18:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:52 PM, Nov 12 2026 Crash on NB Eastern Ave\u00A0at Russell Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855987/attachment_0.png",
-    "Latitude": 36.086265099999999,
-    "Longitude": -115.11888639999999
-  },
-  {
-    "UniqueId": 62586,
-    "Timestamp": "2026-11-12 18:54",
-    "IncidentType": "Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:54 PM, Nov 12 2026 Hazard on NB I-11\u00A0at Casino Center Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855988/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
-    "UniqueId": 62587,
-    "Timestamp": "2026-11-12 18:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:57 PM, Nov 12 2026 Crash on SB 215 Southern Beltway\u00A0at Airport Connector. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855993/attachment_0.jpg",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
     "UniqueId": 62588,
     "Timestamp": "2026-11-12 19:05",
     "IncidentType": "Crash",
@@ -1748,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857328/attachment_0.png",
     "Latitude": 36.196863700000002,
     "Longitude": -115.2647209
+  },
+  {
+    "UniqueId": 62710,
+    "Timestamp": "2026-11-13 18:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:54 PM, Nov 13 2026 Stalled vehicle on NB I-15\u00A0to 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857329/attachment_0.jpg",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
