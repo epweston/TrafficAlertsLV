@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62577,
-    "Timestamp": "2026-11-12 17:52",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:52 PM, Nov 12 2026 Crash on EB 215 Southern Beltway\u00A0after Durango Dr. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855958/attachment_0.png",
-    "Latitude": 36.066203023950436,
-    "Longitude": -115.27945518493652
-  },
-  {
-    "UniqueId": 62578,
-    "Timestamp": "2026-11-12 17:55",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Reno Ave",
-    "Relationship": "at",
-    "CrossStreet": "Cameron St Intersection",
-    "Impact": "",
-    "Notes": "5:55 PM, Nov 12 2026 Crash on EB Reno Ave\u00A0at Cameron St. Intersection Partially Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855960/attachment_0.jpg",
-    "Latitude": 36.097257700000007,
-    "Longitude": -115.2038955
-  },
-  {
-    "UniqueId": 62579,
-    "Timestamp": "2026-11-12 17:57",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:57 PM, Nov 12 2026 Crash on NB Eastern Ave\u00A0after Silverado Ranch Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855961/attachment_0.png",
-    "Latitude": 36.013321931077591,
-    "Longitude": -115.1188606707682
-  },
-  {
-    "UniqueId": 62580,
-    "Timestamp": "2026-11-12 17:59",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:59 PM, Nov 12 2026 Crash on SB I-11\u00A0before Flamingo Rd.. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855981/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 62581,
     "Timestamp": "2026-11-12 18:09",
     "IncidentType": "Crash",
@@ -1720,5 +1664,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857312/attachment_0.jpg",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62700,
+    "Timestamp": "2026-11-13 18:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:00 PM, Nov 13 2026 Crash on WB 215 Northern Beltway\u00A0at Tropical Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857308/attachment_0.jpg",
+    "Latitude": 36.270162900000003,
+    "Longitude": -115.2811351
+  },
+  {
+    "UniqueId": 62701,
+    "Timestamp": "2026-11-13 18:01",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "after",
+    "CrossStreet": "Mel Torme Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:01 PM, Nov 13 2026 Crash on WB Spring Mountain Rd\u00A0after Mel Torme Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857315/attachment_0.jpg",
+    "Latitude": 36.12558859559698,
+    "Longitude": -115.17317023475012
   }
 ]
