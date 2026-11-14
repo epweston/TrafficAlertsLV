@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62589,
-    "Timestamp": "2026-11-12 19:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "Intersection Partially blocked.",
-    "Notes": "7:20 PM, Nov 12 2026 Crash on NB Las Vegas Blvd\u00A0at Civic Center Dr. Intersection Partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855994/attachment_0.png",
-    "Latitude": 36.201990700000003,
-    "Longitude": -115.1203793
-  },
-  {
-    "UniqueId": 62590,
-    "Timestamp": "2026-11-12 19:36",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Cameron St",
-    "Impact": "",
-    "Notes": "7:36 PM, Nov 12 2026 Crash on WB Tropicana Ave\u00A0after Cameron St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/12/file_attachments/3855997/attachment_0.png",
-    "Latitude": 36.100960200000003,
-    "Longitude": -115.2039193
-  },
-  {
     "UniqueId": 62591,
     "Timestamp": "2026-11-12 19:45",
     "IncidentType": "Crash",
@@ -1748,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857345/attachment_0.jpg",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 62714,
+    "Timestamp": "2026-11-13 19:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:32 PM, Nov 13 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857356/attachment_0.jpg",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
