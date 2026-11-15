@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62727,
-    "Timestamp": "2026-11-14 00:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:10 AM, Nov 14 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857383/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
-    "UniqueId": 62728,
-    "Timestamp": "2026-11-14 00:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "at",
-    "CrossStreet": "Colorado Ave",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "12:14 AM, Nov 14 2026 Crash on NB Main St\u00A0at Colorado Ave. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857385/attachment_0.jpg",
-    "Latitude": 36.156117199999997,
-    "Longitude": -115.1537788
-  },
-  {
     "UniqueId": 62729,
     "Timestamp": "2026-11-14 00:56",
     "IncidentType": "Crash",
@@ -1440,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857703/attachment_0.jpg",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 62830,
+    "Timestamp": "2026-11-15 00:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:38 AM, Nov 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857704/attachment_0.jpg",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
