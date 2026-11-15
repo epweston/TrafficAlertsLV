@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62789,
-    "Timestamp": "2026-11-14 15:43",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Intersection Partially Blocked.",
-    "Notes": "3:43 PM, Nov 14 2026 Crash on EB Lake Mead Blvd\u00A0at I-15. Intersection Partially Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857611/attachment_0.png",
-    "Latitude": 36.195751199999997,
-    "Longitude": -115.1382376
-  },
-  {
-    "UniqueId": 62790,
-    "Timestamp": "2026-11-14 15:52",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:52 PM, Nov 14 2026 Stalled vehicle on SB I-11\u00A0after I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857633/attachment_0.jpg",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 62791,
-    "Timestamp": "2026-11-14 15:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "under",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:55 PM, Nov 14 2026 Crash on NB Martin L King Blvd\u00A0under I-11. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857620/attachment_0.png",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
     "UniqueId": 62792,
     "Timestamp": "2026-11-14 16:06",
     "IncidentType": "Crash",
@@ -1424,6 +1382,20 @@
     "Impact": "Right shoulder blocked.",
     "Notes": "3:35 PM, Nov 15 2026 Vehicle on fire on NB I-15\u00A0before Mile 14. Right shoulder blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857990/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "UniqueId": 62899,
+    "Timestamp": "2026-11-15 15:53",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 14",
+    "Impact": "Right lanes blocked.",
+    "Notes": "3:53 PM, Nov 15 2026 Vehicle on fire on NB I-15\u00A0before Mile 14. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857993/attachment_0.png",
     "Latitude": null,
     "Longitude": null
   }
