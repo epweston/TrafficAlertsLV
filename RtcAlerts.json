@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62739,
-    "Timestamp": "2026-11-14 05:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Bonneville Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:44 AM, Nov 14 2026 Crash on NB I-15\u00A0to Bonneville Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.166254742634237,
-    "Longitude": -115.16049184981694
-  },
-  {
     "UniqueId": 62740,
     "Timestamp": "2026-11-14 06:35",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 62851,
+    "Timestamp": "2026-11-15 05:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "5:42 AM, Nov 15 2026 Crash on NB Flamingo Rd\u00A0before Durango Dr. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857741/attachment_0.png",
+    "Latitude": 36.115006600000001,
+    "Longitude": -115.2791146
   }
 ]
