@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62760,
-    "Timestamp": "2026-11-14 11:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:13 AM, Nov 14 2026 Stalled vehicle on SB I-11\u00A0after Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857562/attachment_0.png",
-    "Latitude": 36.196054784798598,
-    "Longitude": -115.24447712475862
-  },
-  {
     "UniqueId": 62761,
     "Timestamp": "2026-11-14 11:53",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857924/attachment_0.jpg",
     "Latitude": 36.065891399999998,
     "Longitude": -115.24823170000001
+  },
+  {
+    "UniqueId": 62882,
+    "Timestamp": "2026-11-15 11:11",
+    "IncidentType": "Hazard",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:11 AM, Nov 15 2026 Hazard on SB Decatur Blvd\u00A0at Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857925/attachment_0.jpg",
+    "Latitude": 36.209657399999998,
+    "Longitude": -115.2053971
   }
 ]
