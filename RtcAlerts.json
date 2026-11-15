@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62684,
-    "Timestamp": "2026-11-13 16:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "Intersection partially blocked.",
-    "Notes": "4:03 PM, Nov 13 2026 Crash on EB Flamingo Rd\u00A0at Lindell Rd. Intersection partially blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857264/attachment_0.png",
-    "Latitude": 36.115074900000003,
-    "Longitude": -115.2164839
-  },
-  {
-    "UniqueId": 62685,
-    "Timestamp": "2026-11-13 16:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:05 PM, Nov 13 2026 Crash on EB Starr Ave\u00A0at I-15. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857245/attachment_0.png",
-    "Latitude": 35.984187687094021,
-    "Longitude": -115.18096446990968
-  },
-  {
     "UniqueId": 62686,
     "Timestamp": "2026-11-13 16:16",
     "IncidentType": "Crash",
@@ -1510,5 +1482,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857620/attachment_0.png",
     "Latitude": 36.175245009999998,
     "Longitude": -115.16082640000001
+  },
+  {
+    "UniqueId": 62792,
+    "Timestamp": "2026-11-14 16:06",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:06 PM, Nov 14 2026 Crash on WB Spring Mountain Rd\u00A0at Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857623/attachment_0.png",
+    "Latitude": 36.126514613715024,
+    "Longitude": -115.19022883138266
+  },
+  {
+    "UniqueId": 62793,
+    "Timestamp": "2026-11-14 16:06",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:06 PM, Nov 14 2026 Crash on EB Flamingo Rd\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857622/attachment_0.png",
+    "Latitude": 36.114680487880882,
+    "Longitude": -115.1728856710384
   }
 ]
