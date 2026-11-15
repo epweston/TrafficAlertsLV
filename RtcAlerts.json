@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62775,
-    "Timestamp": "2026-11-14 13:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "before",
-    "CrossStreet": "Bruce St",
-    "Impact": "",
-    "Notes": "1:59 PM, Nov 14 2026 Crash on WB Fremont St\u00A0before Bruce St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857593/attachment_0.jpg",
-    "Latitude": 36.162531899999998,
-    "Longitude": -115.1250707
-  },
-  {
-    "UniqueId": 62776,
-    "Timestamp": "2026-11-14 14:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:04 PM, Nov 14 2026 Stalled vehicle on NB I-11\u00A0after Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857595/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 62777,
     "Timestamp": "2026-11-14 14:16",
     "IncidentType": "Stalled vehicle",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857973/attachment_0.png",
     "Latitude": 36.071546221107518,
     "Longitude": -115.14626596347613
+  },
+  {
+    "UniqueId": 62893,
+    "Timestamp": "2026-11-15 14:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Casino Ctr Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Stewart Ave",
+    "Impact": "All lanes are blocked.",
+    "Notes": "2:04 PM, Nov 15 2026 Crash on NB Casino Ctr Blvd\u00A0before Stewart Ave. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857975/attachment_0.png",
+    "Latitude": 36.173040700000001,
+    "Longitude": -115.1425684
   }
 ]
