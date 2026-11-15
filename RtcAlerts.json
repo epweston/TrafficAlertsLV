@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62691,
-    "Timestamp": "2026-11-13 16:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "before",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:47 PM, Nov 13 2026 Crash on WB Stewart Ave\u00A0before Nellis Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857294/attachment_0.png",
-    "Latitude": 36.166587100000001,
-    "Longitude": -115.0621689
-  },
-  {
-    "UniqueId": 62692,
-    "Timestamp": "2026-11-13 16:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:49 PM, Nov 13 2026 Crash on NB Decatur Blvd\u00A0at Robindale Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857296/attachment_0.png",
-    "Latitude": 36.049756199999997,
-    "Longitude": -115.20787060000001
-  },
-  {
     "UniqueId": 62693,
     "Timestamp": "2026-11-13 16:59",
     "IncidentType": "Crash",
@@ -1496,5 +1468,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857640/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 62798,
+    "Timestamp": "2026-11-14 16:54",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Quarterhorse Lane",
+    "Impact": "WB Left lane blocked. EB Right lane blocked.",
+    "Notes": "4:54 PM, Nov 14 2026 Crash on WB Warm Springs Rd\u00A0at Quarterhorse Lane. \u00A0WB Left lane blocked. EB Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857627/attachment_0.png",
+    "Latitude": 36.055533799999999,
+    "Longitude": -115.2930971
   }
 ]
