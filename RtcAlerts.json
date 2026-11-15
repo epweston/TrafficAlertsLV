@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62740,
-    "Timestamp": "2026-11-14 06:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Sky Pointe Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:35 AM, Nov 14 2026 Crash on WB 215 Northern Beltway\u00A0after Sky Pointe Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857458/attachment_0.jpg",
-    "Latitude": 36.279313100000003,
-    "Longitude": -115.2648477
-  },
-  {
     "UniqueId": 62741,
     "Timestamp": "2026-11-14 07:34",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857776/attachment_0.png",
     "Latitude": 36.158801293307732,
     "Longitude": -115.09162008762361
+  },
+  {
+    "UniqueId": 62854,
+    "Timestamp": "2026-11-15 06:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "6:31 AM, Nov 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857778/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
