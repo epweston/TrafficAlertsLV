@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62745,
-    "Timestamp": "2026-11-14 08:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:32 AM, Nov 14 2026 Stalled vehicle on SB Las Vegas Blvd\u00A0before Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857478/attachment_0.jpg",
-    "Latitude": 36.181185829999997,
-    "Longitude": -115.13418675
-  },
-  {
     "UniqueId": 62746,
     "Timestamp": "2026-11-14 08:54",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857750/attachment_0.png",
     "Latitude": 36.16654933682149,
     "Longitude": -115.11579751968384
+  },
+  {
+    "UniqueId": 62859,
+    "Timestamp": "2026-11-15 08:45",
+    "IncidentType": "Abandoned vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:45 AM, Nov 15 2026 Abandoned vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
