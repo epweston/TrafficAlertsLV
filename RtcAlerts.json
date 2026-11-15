@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62697,
-    "Timestamp": "2026-11-13 17:13",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Windmill Ln",
-    "Relationship": "before",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:13 PM, Nov 13 2026 Crash on EB Windmill Ln\u00A0before Maryland Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857305/attachment_0.jpg",
-    "Latitude": 36.0426316,
-    "Longitude": -115.1362153
-  },
-  {
-    "UniqueId": 62698,
-    "Timestamp": "2026-11-13 17:16",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:16 PM, Nov 13 2026 Crash on EB Flamingo Rd\u00A0at I-15. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857306/attachment_0.jpg",
-    "Latitude": 36.114442114154052,
-    "Longitude": -115.18066236782498
-  },
-  {
     "UniqueId": 62699,
     "Timestamp": "2026-11-13 17:41",
     "IncidentType": "Crash",
@@ -1454,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857645/attachment_0.jpg",
     "Latitude": 36.121990500000003,
     "Longitude": -115.1791944
+  },
+  {
+    "UniqueId": 62801,
+    "Timestamp": "2026-11-14 17:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:11 PM, Nov 14 2026 Crash on SB Martin L King Blvd\u00A0at Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857646/attachment_0.jpg",
+    "Latitude": 36.159013501913392,
+    "Longitude": -115.16171908572582
+  },
+  {
+    "UniqueId": 62802,
+    "Timestamp": "2026-11-14 17:15",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "before",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:15 PM, Nov 14 2026 Crash on EB Craig Rd\u00A0before Martin L King Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857647/attachment_0.png",
+    "Latitude": 36.239405831454576,
+    "Longitude": -115.16201199569203
   }
 ]
