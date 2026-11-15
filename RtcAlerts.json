@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62735,
-    "Timestamp": "2026-11-14 05:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:37 AM, Nov 14 2026 Crash on NB I-11\u00A0before Rainbow Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857429/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
     "UniqueId": 62736,
     "Timestamp": "2026-11-14 05:39",
     "IncidentType": "Crash",
@@ -1592,6 +1578,20 @@
     "Impact": "All lanes are blocked.",
     "Notes": "5:27 AM, Nov 15 2026 Crash on NB Flamingo Rd\u00A0before Durango Dr. All lanes are blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857738/attachment_0.png",
+    "Latitude": 36.115006600000001,
+    "Longitude": -115.2791146
+  },
+  {
+    "UniqueId": 62849,
+    "Timestamp": "2026-11-15 05:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Multiple lanes blocked. Expect Delays",
+    "Notes": "5:32 AM, Nov 15 2026 Crash on NB Flamingo Rd\u00A0before Durango Dr. Multiple lanes blocked. Expect Delays",
+    "ImagePath": "",
     "Latitude": 36.115006600000001,
     "Longitude": -115.2791146
   }
