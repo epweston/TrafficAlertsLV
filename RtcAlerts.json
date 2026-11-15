@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62724,
-    "Timestamp": "2026-11-13 22:58",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:58 PM, Nov 13 2026 Crash on EB Desert Inn Rd\u00A0after Valley View Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857393/attachment_0.jpg",
-    "Latitude": 36.130102165943548,
-    "Longitude": -115.19025029115214
-  },
-  {
-    "UniqueId": 62725,
-    "Timestamp": "2026-11-13 23:00",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:00 PM, Nov 13 2026 Abandoned vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857381/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
     "UniqueId": 62726,
     "Timestamp": "2026-11-13 23:19",
     "IncidentType": "Stalled vehicle",
@@ -1438,6 +1410,20 @@
     "Impact": "Right lane blocked.",
     "Notes": "10:46 PM, Nov 14 2026 Crash on NB I-15\u00A0to I-11. Right lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857697/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 62827,
+    "Timestamp": "2026-11-14 23:04",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "I-11",
+    "Impact": "Center lane blocked.",
+    "Notes": "11:04 PM, Nov 14 2026 Crash on NB I-15 \u00A0before I-11. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857699/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
   }
