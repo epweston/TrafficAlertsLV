@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62693,
-    "Timestamp": "2026-11-13 16:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Stewart Ave",
-    "Relationship": "after",
-    "CrossStreet": "21St St",
-    "Impact": "",
-    "Notes": "4:59 PM, Nov 13 2026 Crash on WB Stewart Ave\u00A0after 21st St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857298/attachment_0.png",
-    "Latitude": 36.166529500000003,
-    "Longitude": -115.12036550000001
-  },
-  {
-    "UniqueId": 62694,
-    "Timestamp": "2026-11-13 17:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "I-11",
-    "Impact": "Right shoulder.",
-    "Notes": "5:05 PM, Nov 13 2026 Crash on NB I-15 \u00A0before I-11. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857299/attachment_0.png",
-    "Latitude": 36.17415371469631,
-    "Longitude": -115.15506505966188
-  },
-  {
     "UniqueId": 62695,
     "Timestamp": "2026-11-13 17:08",
     "IncidentType": "Stalled vehicle",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857627/attachment_0.png",
     "Latitude": 36.055533799999999,
     "Longitude": -115.2930971
+  },
+  {
+    "UniqueId": 62799,
+    "Timestamp": "2026-11-14 17:05",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Center lanes blocked.",
+    "Notes": "5:05 PM, Nov 14 2026 Crash on SB I-11\u00A0before Jones Blvd. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857629/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
