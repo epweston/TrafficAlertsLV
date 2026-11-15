@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62723,
-    "Timestamp": "2026-11-13 22:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:43 PM, Nov 13 2026 Crash on NB I-15\u00A0after Spring Mountain Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857379/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 62724,
     "Timestamp": "2026-11-13 22:58",
     "IncidentType": "Crash",
@@ -1440,5 +1426,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857714/attachment_0.jpg",
     "Latitude": 36.158766900000003,
     "Longitude": -115.1474163
+  },
+  {
+    "UniqueId": 62826,
+    "Timestamp": "2026-11-14 22:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:46 PM, Nov 14 2026 Crash on NB I-15\u00A0to I-11. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857697/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
