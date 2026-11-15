@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62707,
-    "Timestamp": "2026-11-13 18:20",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:20 PM, Nov 13 2026 Crash on WB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857332/attachment_0.jpg",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 62708,
-    "Timestamp": "2026-11-13 18:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:37 PM, Nov 13 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857327/attachment_0.jpg",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 62709,
     "Timestamp": "2026-11-13 18:45",
     "IncidentType": "Crash",
@@ -1482,5 +1454,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857679/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 62813,
+    "Timestamp": "2026-11-14 18:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd North",
+    "Relationship": "after",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "All NB lanes are blocked.",
+    "Notes": "6:34 PM, Nov 14 2026 Crash on NB Las Vegas Blvd North\u00A0after Nellis Blvd. All NB lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857681/attachment_0.jpg",
+    "Latitude": 36.235863999999999,
+    "Longitude": -115.0622212
+  },
+  {
+    "UniqueId": 62814,
+    "Timestamp": "2026-11-14 18:38",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Stephanie St",
+    "Relationship": "after",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:38 PM, Nov 14 2026 Crash on SB Stephanie St\u00A0after 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857662/attachment_0.png",
+    "Latitude": 36.029356880000002,
+    "Longitude": -115.04715435
   }
 ]
