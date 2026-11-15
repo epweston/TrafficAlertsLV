@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62773,
-    "Timestamp": "2026-11-14 13:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Elvis Presley Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "1:12 PM, Nov 14 2026 Crash on NB Las Vegas Blvd\u00A0at Elvis Presley Blvd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857579/attachment_0.png",
-    "Latitude": 36.136265999999999,
-    "Longitude": -115.1621219
-  },
-  {
-    "UniqueId": 62774,
-    "Timestamp": "2026-11-14 13:36",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Alta Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:36 PM, Nov 14 2026 Crash on SB Decatur Blvd\u00A0before Alta Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857581/attachment_0.png",
-    "Latitude": 36.1665402,
-    "Longitude": -115.2061514
-  },
-  {
     "UniqueId": 62775,
     "Timestamp": "2026-11-14 13:59",
     "IncidentType": "Crash",
@@ -1538,5 +1510,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857960/attachment_0.png",
     "Latitude": 36.071844499999997,
     "Longitude": -115.1900349
+  },
+  {
+    "UniqueId": 62891,
+    "Timestamp": "2026-11-15 13:47",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "over",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Intersection partially blocked",
+    "Notes": "1:47 PM, Nov 15 2026 Crash on WB Charleston Blvd\u00A0over 215 Western Beltway. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857951/attachment_0.jpg",
+    "Latitude": 36.159048129218675,
+    "Longitude": -115.160685082124
   }
 ]
