@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62688,
-    "Timestamp": "2026-11-13 16:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Grand Canyon Dr",
-    "Relationship": "at",
-    "CrossStreet": "Skye Canyon Park Dr",
-    "Impact": "Right lanes blocked.",
-    "Notes": "4:29 PM, Nov 13 2026 Crash on SB Grand Canyon Dr\u00A0at Skye Canyon Park Dr. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857278/attachment_0.png",
-    "Latitude": 36.314035900895121,
-    "Longitude": -115.30595542783134
-  },
-  {
-    "UniqueId": 62689,
-    "Timestamp": "2026-11-13 16:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Miller Ln",
-    "Relationship": "after",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:32 PM, Nov 13 2026 Crash on SB Miller Ln\u00A0after Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857249/attachment_0.png",
-    "Latitude": 36.114743300000001,
-    "Longitude": -115.2632687
-  },
-  {
     "UniqueId": 62690,
     "Timestamp": "2026-11-13 16:35",
     "IncidentType": "Crash",
@@ -1496,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857636/attachment_0.png",
     "Latitude": 36.177835743591984,
     "Longitude": -115.28722561818798
+  },
+  {
+    "UniqueId": 62795,
+    "Timestamp": "2026-11-14 16:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:30 PM, Nov 14 2026 Crash on SB Jones Blvd\u00A0at Hacienda Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857625/attachment_0.jpg",
+    "Latitude": 36.092563061347661,
+    "Longitude": -115.22510286237913
+  },
+  {
+    "UniqueId": 62796,
+    "Timestamp": "2026-11-14 16:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:31 PM, Nov 14 2026 Stalled vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857638/attachment_0.png",
+    "Latitude": 36.173486845471338,
+    "Longitude": -115.20597436933767
   }
 ]
