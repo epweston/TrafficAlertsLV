@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62732,
-    "Timestamp": "2026-11-14 03:39",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:39 AM, Nov 14 2026 Crash on NB I-15\u00A0at Craig Rd Offramp. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857405/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 62733,
     "Timestamp": "2026-11-14 04:48",
     "IncidentType": "Crash",
@@ -1524,5 +1510,19 @@
     "ImagePath": "",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 62841,
+    "Timestamp": "2026-11-15 03:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:43 AM, Nov 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
   }
 ]
