@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62788,
-    "Timestamp": "2026-11-14 15:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Airport Connector",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:33 PM, Nov 14 2026 Crash on EB 215 Southern Beltway\u00A0after Airport Connector. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857610/attachment_0.png",
-    "Latitude": 36.062760057022381,
-    "Longitude": -115.14973283652975
-  },
-  {
     "UniqueId": 62789,
     "Timestamp": "2026-11-14 15:43",
     "IncidentType": "Crash",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857968/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 62898,
+    "Timestamp": "2026-11-15 15:35",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Mile 14",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:35 PM, Nov 15 2026 Vehicle on fire on NB I-15\u00A0before Mile 14. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857990/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
