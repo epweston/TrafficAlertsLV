@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62746,
-    "Timestamp": "2026-11-14 08:54",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Ann Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:54 AM, Nov 14 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0before Ann Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857470/attachment_0.png",
-    "Latitude": 36.261508127735802,
-    "Longitude": -115.32678022210708
-  },
-  {
     "UniqueId": 62747,
     "Timestamp": "2026-11-14 09:12",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,19 @@
     "ImagePath": "",
     "Latitude": 36.173486845471338,
     "Longitude": -115.20597436933767
+  },
+  {
+    "UniqueId": 62860,
+    "Timestamp": "2026-11-15 09:00",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Convention Ctr Dr",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lanes blocked.",
+    "Notes": "9:00 AM, Nov 15 2026 Crash on EB Convention Ctr Dr\u00A0after Las Vegas Blvd. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857783/attachment_0.png",
+    "Latitude": 36.132570899999997,
+    "Longitude": -115.1648012
   }
 ]
