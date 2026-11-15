@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62726,
-    "Timestamp": "2026-11-13 23:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:19 PM, Nov 13 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/13/file_attachments/3857396/attachment_0.jpg",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 62727,
     "Timestamp": "2026-11-14 00:10",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857699/attachment_0.png",
     "Latitude": 36.17415371469631,
     "Longitude": -115.15506505966188
+  },
+  {
+    "UniqueId": 62828,
+    "Timestamp": "2026-11-14 23:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "215 Western Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:23 PM, Nov 14 2026 Stalled vehicle on NB I-11\u00A0at 215 Western Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857701/attachment_0.jpg",
+    "Latitude": 36.277700469999999,
+    "Longitude": -115.2671063
   }
 ]
