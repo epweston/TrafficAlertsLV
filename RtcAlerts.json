@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62734,
-    "Timestamp": "2026-11-14 05:30",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Center lanes blocked.",
-    "Notes": "5:30 AM, Nov 14 2026 Crash on EB Tropicana Ave\u00A0after I-11. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857441/attachment_0.png",
-    "Latitude": 36.10072919730861,
-    "Longitude": -115.18071603717371
-  },
-  {
     "UniqueId": 62735,
     "Timestamp": "2026-11-14 05:37",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857756/attachment_0.png",
     "Latitude": 35.999066361520875,
     "Longitude": -115.18071595327889
+  },
+  {
+    "UniqueId": 62848,
+    "Timestamp": "2026-11-15 05:27",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "All lanes are blocked.",
+    "Notes": "5:27 AM, Nov 15 2026 Crash on NB Flamingo Rd\u00A0before Durango Dr. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857738/attachment_0.png",
+    "Latitude": 36.115006600000001,
+    "Longitude": -115.2791146
   }
 ]
