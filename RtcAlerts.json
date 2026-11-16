@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62805,
-    "Timestamp": "2026-11-14 17:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:34 PM, Nov 14 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857654/attachment_0.jpg",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 62806,
-    "Timestamp": "2026-11-14 17:34",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Vista Center Dr",
-    "Impact": "Multiple Right lanes are blocked.",
-    "Notes": "5:34 PM, Nov 14 2026 Crash on EB Charleston Blvd\u00A0at Vista Center Dr. Multiple Right lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857655/attachment_0.png",
-    "Latitude": 36.159067899999997,
-    "Longitude": -115.3444738
-  },
-  {
-    "UniqueId": 62807,
-    "Timestamp": "2026-11-14 17:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Sammy Davis Junior Dr",
-    "Relationship": "at",
-    "CrossStreet": "Circus Circus Dr",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "5:45 PM, Nov 14 2026 Crash on SB Sammy Davis Junior Dr\u00A0at Circus Circus Dr. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857657/attachment_0.jpg",
-    "Latitude": 36.139387200000002,
-    "Longitude": -115.1677499
-  },
-  {
     "UniqueId": 62808,
     "Timestamp": "2026-11-14 17:49",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858017/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 62904,
+    "Timestamp": "2026-11-15 17:42",
+    "IncidentType": "UPDATE: Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "And Wb Vegas Valley Dr",
+    "Relationship": "after",
+    "CrossStreet": "Nellis Blvd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "5:42 PM, Nov 15 2026 UPDATE: Crash on EB and WB Vegas Valley Dr\u00A0after Nellis Blvd. All lanes are blocked. Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.136966899999997,
+    "Longitude": -115.0656101
   }
 ]
