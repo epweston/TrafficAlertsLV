@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62841,
-    "Timestamp": "2026-11-15 03:43",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:43 AM, Nov 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
-    "UniqueId": 62842,
-    "Timestamp": "2026-11-15 03:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:58 AM, Nov 15 2026 Crash on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857728/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 62843,
-    "Timestamp": "2026-11-15 03:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:59 AM, Nov 15 2026 Crash on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
     "UniqueId": 62844,
     "Timestamp": "2026-11-15 04:30",
     "IncidentType": "Abandoned vehicle",
@@ -1230,5 +1188,19 @@
     "ImagePath": "",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 62937,
+    "Timestamp": "2026-11-16 04:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:00 AM, Nov 16 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
