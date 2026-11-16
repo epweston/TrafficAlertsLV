@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 62849,
-    "Timestamp": "2026-11-15 05:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Multiple lanes blocked. Expect Delays",
-    "Notes": "5:32 AM, Nov 15 2026 Crash on NB Flamingo Rd\u00A0before Durango Dr. Multiple lanes blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.115006600000001,
-    "Longitude": -115.2791146
-  },
-  {
-    "UniqueId": 62850,
-    "Timestamp": "2026-11-15 05:38",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:38 AM, Nov 15 2026 Abandoned vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 62851,
-    "Timestamp": "2026-11-15 05:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "5:42 AM, Nov 15 2026 Crash on NB Flamingo Rd\u00A0before Durango Dr. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857741/attachment_0.png",
-    "Latitude": 36.115006600000001,
-    "Longitude": -115.2791146
-  },
-  {
     "UniqueId": 62852,
     "Timestamp": "2026-11-15 06:08",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1146,33 @@
     "ImagePath": "",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 62942,
+    "Timestamp": "2026-11-16 05:40",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:40 AM, Nov 16 2026 Stalled vehicle on NB I-11\u00A0after Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858284/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 62943,
+    "Timestamp": "2026-11-16 05:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:46 AM, Nov 16 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858288/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
