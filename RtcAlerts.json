@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62816,
-    "Timestamp": "2026-11-14 18:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:50 PM, Nov 14 2026 Crash on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857684/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
-    "UniqueId": 62817,
-    "Timestamp": "2026-11-14 19:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:03 PM, Nov 14 2026 Crash on EB Starr Ave\u00A0before Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857666/attachment_0.png",
-    "Latitude": 35.984751500000002,
-    "Longitude": -115.1727827
-  },
-  {
     "UniqueId": 62818,
     "Timestamp": "2026-11-14 19:32",
     "IncidentType": "Crash",
@@ -1242,6 +1214,20 @@
     "Impact": "Left lane blocked. Expect Delays",
     "Notes": "6:41 PM, Nov 15 2026 Crash on SB I-15\u00A0before Sloan Rd. Left lane blocked. Expect Delays",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858006/attachment_0.png",
+    "Latitude": 35.930534841935703,
+    "Longitude": -115.193088054657
+  },
+  {
+    "UniqueId": 62913,
+    "Timestamp": "2026-11-15 19:03",
+    "IncidentType": "UPDATE: Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sloan Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "7:03 PM, Nov 15 2026 UPDATE: Crash on SB I-15\u00A0before Sloan Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858033/attachment_0.png",
     "Latitude": 35.930534841935703,
     "Longitude": -115.193088054657
   }
