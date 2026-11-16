@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62860,
-    "Timestamp": "2026-11-15 09:00",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Convention Ctr Dr",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "9:00 AM, Nov 15 2026 Crash on EB Convention Ctr Dr\u00A0after Las Vegas Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857783/attachment_0.png",
-    "Latitude": 36.132570899999997,
-    "Longitude": -115.1648012
-  },
-  {
-    "UniqueId": 62868,
-    "Timestamp": "2026-11-15 09:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:27 AM, Nov 15 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857791/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 62870,
-    "Timestamp": "2026-11-15 09:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:38 AM, Nov 15 2026 Stalled vehicle on SB I-11\u00A0before Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857877/attachment_0.png",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
-    "UniqueId": 62871,
-    "Timestamp": "2026-11-15 09:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:39 AM, Nov 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Rainbow Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857894/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
     "UniqueId": 62872,
     "Timestamp": "2026-11-15 09:45",
     "IncidentType": "Crash",
@@ -1328,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858814/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 62964,
+    "Timestamp": "2026-11-16 09:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Buchanan Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:39 AM, Nov 16 2026 Stalled vehicle on SB I-11\u00A0after Buchanan Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858991/attachment_0.jpg",
+    "Latitude": 35.934200883777393,
+    "Longitude": -114.84135389747479
   }
 ]
