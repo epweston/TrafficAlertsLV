@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62855,
-    "Timestamp": "2026-11-15 07:14",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:14 AM, Nov 15 2026 Abandoned vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 62856,
     "Timestamp": "2026-11-15 07:23",
     "IncidentType": "Crash",
@@ -1230,5 +1216,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858449/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 62951,
+    "Timestamp": "2026-11-16 07:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Craig Rd",
+    "Relationship": "at",
+    "CrossStreet": "Salmon Dr",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "7:10 AM, Nov 16 2026 Crash on WB Craig Rd\u00A0at Salmon Dr. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858500/attachment_0.jpg",
+    "Latitude": 36.240503699999998,
+    "Longitude": -115.06802260000001
+  },
+  {
+    "UniqueId": 62952,
+    "Timestamp": "2026-11-16 07:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:14 AM, Nov 16 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0at Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858516/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
