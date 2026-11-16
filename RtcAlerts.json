@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62852,
-    "Timestamp": "2026-11-15 06:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "over",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:08 AM, Nov 15 2026 Stalled vehicle on WB Sunset Rd\u00A0over 215 Western Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857774/attachment_0.png",
-    "Latitude": 36.070283269266724,
-    "Longitude": -115.28855873027267
-  },
-  {
     "UniqueId": 62853,
     "Timestamp": "2026-11-15 06:21",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858288/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 62944,
+    "Timestamp": "2026-11-16 06:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:07 AM, Nov 16 2026 Crash on SB Eastern Ave\u00A0after Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858321/attachment_0.png",
+    "Latitude": 36.1589229,
+    "Longitude": -115.1189426
   }
 ]
