@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62893,
-    "Timestamp": "2026-11-15 14:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Casino Ctr Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Stewart Ave",
-    "Impact": "All lanes are blocked.",
-    "Notes": "2:04 PM, Nov 15 2026 Crash on NB Casino Ctr Blvd\u00A0before Stewart Ave. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857975/attachment_0.png",
-    "Latitude": 36.173040700000001,
-    "Longitude": -115.1425684
-  },
-  {
     "UniqueId": 62894,
     "Timestamp": "2026-11-15 14:48",
     "IncidentType": "Crash",
@@ -1132,5 +1118,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859667/attachment_0.png",
     "Latitude": 36.000027078919814,
     "Longitude": -114.96325289321217
+  },
+  {
+    "UniqueId": 62975,
+    "Timestamp": "2026-11-16 14:26",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:26 PM, Nov 16 2026 Crash on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859689/attachment_0.png",
+    "Latitude": 36.023410016643204,
+    "Longitude": -115.10067737781434
+  },
+  {
+    "UniqueId": 62976,
+    "Timestamp": "2026-11-16 14:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:29 PM, Nov 16 2026 Crash on NB I-15\u00A0to Cheyenne Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859690/attachment_0.png",
+    "Latitude": 36.217617875912651,
+    "Longitude": -115.12388861409171
   }
 ]
