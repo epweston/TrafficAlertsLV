@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62803,
-    "Timestamp": "2026-11-14 17:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Intersection Partially Blocked.",
-    "Notes": "5:21 PM, Nov 14 2026 Crash on EB Blue Diamond Rd\u00A0at Jones Blvd. Intersection Partially Blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857648/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
-    "UniqueId": 62804,
-    "Timestamp": "2026-11-14 17:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:25 PM, Nov 14 2026 Crash on SB I-15 Collector Distributor\u00A0at 215 Southern Beltway. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857649/attachment_0.jpg",
-    "Latitude": 41.127296600000001,
-    "Longitude": -112.0255346
-  },
-  {
     "UniqueId": 62805,
     "Timestamp": "2026-11-14 17:34",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857997/attachment_0.png",
     "Latitude": 36.136966899999997,
     "Longitude": -115.0656101
+  },
+  {
+    "UniqueId": 62903,
+    "Timestamp": "2026-11-15 17:25",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:25 PM, Nov 15 2026 Crash on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858017/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
