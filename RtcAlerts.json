@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62890,
-    "Timestamp": "2026-11-15 13:09",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:09 PM, Nov 15 2026 Crash on EB Sunset Rd\u00A0after Valley View Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857960/attachment_0.png",
-    "Latitude": 36.071844499999997,
-    "Longitude": -115.1900349
-  },
-  {
     "UniqueId": 62891,
     "Timestamp": "2026-11-15 13:47",
     "IncidentType": "Crash",
@@ -1118,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859529/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 62971,
+    "Timestamp": "2026-11-16 13:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:22 PM, Nov 16 2026 Stalled vehicle on SB I-15\u00A0before Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859580/attachment_0.jpg",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
   }
 ]
