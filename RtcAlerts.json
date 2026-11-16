@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62835,
-    "Timestamp": "2026-11-15 02:52",
-    "IncidentType": "Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:52 AM, Nov 15 2026 Hazard on NB 215 Western Beltway\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857724/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 62836,
     "Timestamp": "2026-11-15 03:15",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858106/attachment_0.png",
     "Latitude": 35.962029259465844,
     "Longitude": -115.18155555355972
+  },
+  {
+    "UniqueId": 62935,
+    "Timestamp": "2026-11-16 02:56",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:56 AM, Nov 16 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
