@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62830,
-    "Timestamp": "2026-11-15 00:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:38 AM, Nov 15 2026 Stalled vehicle on NB 215 Western Beltway\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857704/attachment_0.jpg",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
-    "UniqueId": 62831,
-    "Timestamp": "2026-11-15 00:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Arville St",
-    "Impact": "",
-    "Notes": "12:44 AM, Nov 15 2026 Stalled vehicle on EB Tropicana Ave\u00A0after Arville St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857718/attachment_0.png",
-    "Latitude": 36.100971100000002,
-    "Longitude": -115.199292
-  },
-  {
     "UniqueId": 62832,
     "Timestamp": "2026-11-15 01:21",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1258,19 @@
     "ImagePath": "",
     "Latitude": 36.136966899999997,
     "Longitude": -115.0656101
+  },
+  {
+    "UniqueId": 62930,
+    "Timestamp": "2026-11-16 00:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "12:47 AM, Nov 16 2026 Crash on NB I-11\u00A0after Russell Rd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858078/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
   }
 ]
