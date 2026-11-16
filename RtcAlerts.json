@@ -1286,5 +1286,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858751/attachment_0.png",
     "Latitude": 36.11502744006151,
     "Longitude": -115.08282365906119
+  },
+  {
+    "UniqueId": 62961,
+    "Timestamp": "2026-11-16 08:45",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "under",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "8:45 AM, Nov 16 2026 Crash on WB 215 Southern Beltway\u00A0under Stephanie St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858792/attachment_0.jpg",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 62962,
+    "Timestamp": "2026-11-16 08:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:48 AM, Nov 16 2026 Crash on SB I-11\u00A0after Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858789/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 62963,
+    "Timestamp": "2026-11-16 08:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Mile 11",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:49 AM, Nov 16 2026 Stalled vehicle on NB I-11\u00A0before Mile 11. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858814/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
