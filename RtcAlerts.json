@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62891,
-    "Timestamp": "2026-11-15 13:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "over",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Intersection partially blocked",
-    "Notes": "1:47 PM, Nov 15 2026 Crash on WB Charleston Blvd\u00A0over 215 Western Beltway. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857951/attachment_0.jpg",
-    "Latitude": 36.159048129218675,
-    "Longitude": -115.160685082124
-  },
-  {
-    "UniqueId": 62892,
-    "Timestamp": "2026-11-15 13:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Airport Connector",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:56 PM, Nov 15 2026 Crash on NB Airport Connector\u00A0before Sunset Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857973/attachment_0.png",
-    "Latitude": 36.071546221107518,
-    "Longitude": -115.14626596347613
-  },
-  {
     "UniqueId": 62893,
     "Timestamp": "2026-11-15 14:04",
     "IncidentType": "Crash",
@@ -1132,5 +1104,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859625/attachment_0.png",
     "Latitude": 36.033763127706131,
     "Longitude": -115.01569752958496
+  },
+  {
+    "UniqueId": 62973,
+    "Timestamp": "2026-11-16 13:57",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:57 PM, Nov 16 2026 Crash on EB Flamingo Rd\u00A0after Las Vegas Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859644/attachment_0.png",
+    "Latitude": 36.114680487880882,
+    "Longitude": -115.1728856710384
+  },
+  {
+    "UniqueId": 62974,
+    "Timestamp": "2026-11-16 13:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "College Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:59 PM, Nov 16 2026 Stalled vehicle on SB I-11\u00A0before College Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859667/attachment_0.png",
+    "Latitude": 36.000027078919814,
+    "Longitude": -114.96325289321217
   }
 ]
