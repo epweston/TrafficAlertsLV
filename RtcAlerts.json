@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62794,
-    "Timestamp": "2026-11-14 16:16",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rampart Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:16 PM, Nov 14 2026 Crash on NB Rampart Blvd\u00A0at Summerlin Pkwy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857636/attachment_0.png",
-    "Latitude": 36.177835743591984,
-    "Longitude": -115.28722561818798
-  },
-  {
     "UniqueId": 62795,
     "Timestamp": "2026-11-14 16:30",
     "IncidentType": "Crash",
@@ -1384,5 +1370,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857971/attachment_0.png",
     "Latitude": 36.158985100000002,
     "Longitude": -115.2802104
+  },
+  {
+    "UniqueId": 62901,
+    "Timestamp": "2026-11-15 16:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:23 PM, Nov 15 2026 Stalled vehicle on NB I-11\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858012/attachment_0.png",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
