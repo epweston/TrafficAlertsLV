@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 62885,
-    "Timestamp": "2026-11-15 11:25",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:25 AM, Nov 15 2026 Abandoned vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 62886,
-    "Timestamp": "2026-11-15 11:25",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "before",
-    "CrossStreet": "Polaris Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:25 AM, Nov 15 2026 Crash on EB Tropicana Ave\u00A0before Polaris Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857947/attachment_0.jpg",
-    "Latitude": 36.100907138989598,
-    "Longitude": -115.18559932079532
-  },
-  {
-    "UniqueId": 62887,
-    "Timestamp": "2026-11-15 11:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "11:33 AM, Nov 15 2026 Stalled vehicle on SB I-15\u00A0before 215 Southern Beltway. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857953/attachment_0.png",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 62888,
-    "Timestamp": "2026-11-15 11:42",
-    "IncidentType": "Hazard",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:42 AM, Nov 15 2026 Hazard on SB Decatur Blvd\u00A0at Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.209657399999998,
-    "Longitude": -115.2053971
-  },
-  {
-    "UniqueId": 62889,
-    "Timestamp": "2026-11-15 12:04",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:04 PM, Nov 15 2026 Crash on NB I-15 (CD Rd)\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
     "UniqueId": 62890,
     "Timestamp": "2026-11-15 13:09",
     "IncidentType": "Crash",
@@ -1160,5 +1090,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859385/attachment_0.png",
     "Latitude": 36.100972160686119,
     "Longitude": -115.14593481598045
+  },
+  {
+    "UniqueId": 62969,
+    "Timestamp": "2026-11-16 12:12",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "I-11",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "12:12 PM, Nov 16 2026 Stalled vehicle on NB I-15 \u00A0at I-11. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859457/attachment_0.png",
+    "Latitude": 36.17415371469631,
+    "Longitude": -115.15506505966188
   }
 ]
