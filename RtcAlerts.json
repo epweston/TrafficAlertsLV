@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62824,
-    "Timestamp": "2026-11-14 20:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Westcliff Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:35 PM, Nov 14 2026 Stalled vehicle on NB Buffalo Dr\u00A0at Westcliff Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/14/file_attachments/3857713/attachment_0.png",
-    "Latitude": 36.174088699999999,
-    "Longitude": -115.25966940000001
-  },
-  {
     "UniqueId": 62825,
     "Timestamp": "2026-11-14 21:56",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858038/attachment_0.png",
     "Latitude": 36.176699158494841,
     "Longitude": -115.24366395563143
+  },
+  {
+    "UniqueId": 62921,
+    "Timestamp": "2026-11-15 20:35",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Saint Rose Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:35 PM, Nov 15 2026 Crash on EB Saint Rose Pkwy\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858040/attachment_0.png",
+    "Latitude": 35.966113100000001,
+    "Longitude": -115.1727174
   }
 ]
