@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62844,
-    "Timestamp": "2026-11-15 04:30",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:30 AM, Nov 15 2026 Abandoned vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.063705299035611,
-    "Longitude": -115.18077135086061
-  },
-  {
-    "UniqueId": 62845,
-    "Timestamp": "2026-11-15 04:31",
-    "IncidentType": "Abandoned vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:31 AM, Nov 15 2026 Abandoned vehicle on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 62846,
     "Timestamp": "2026-11-15 04:43",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1174,19 @@
     "ImagePath": "",
     "Latitude": 36.063705299035611,
     "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 62938,
+    "Timestamp": "2026-11-16 04:27",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Saint Rose Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:27 AM, Nov 16 2026 Stalled vehicle on SB I-15\u00A0at Saint Rose Pkwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
