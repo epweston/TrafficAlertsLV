@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62971,
-    "Timestamp": "2026-11-16 13:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:22 PM, Nov 16 2026 Stalled vehicle on SB I-15\u00A0before Harmon Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859580/attachment_0.jpg",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 62972,
-    "Timestamp": "2026-11-16 13:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:35 PM, Nov 16 2026 Stalled vehicle on SB I-11\u00A0after 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859625/attachment_0.png",
-    "Latitude": 36.033763127706131,
-    "Longitude": -115.01569752958496
-  },
-  {
     "UniqueId": 62973,
     "Timestamp": "2026-11-16 13:57",
     "IncidentType": "Crash",
@@ -1482,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861522/attachment_0.png",
     "Latitude": 36.100141600000001,
     "Longitude": -115.2793594
+  },
+  {
+    "UniqueId": 63077,
+    "Timestamp": "2026-11-17 13:46",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Patrick Ln",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "1:46 PM, Nov 17 2026 Crash on SB Fort Apache Rd\u00A0after Patrick Ln. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861546/attachment_0.png",
+    "Latitude": 36.077682699999997,
+    "Longitude": -115.29756260000001
+  },
+  {
+    "UniqueId": 63078,
+    "Timestamp": "2026-11-17 13:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:48 PM, Nov 17 2026 Crash on EB Sahara Ave\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861562/attachment_0.png",
+    "Latitude": 36.144294932038925,
+    "Longitude": -115.11880155749233
+  },
+  {
+    "UniqueId": 63079,
+    "Timestamp": "2026-11-17 13:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Centennial Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Losee Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:50 PM, Nov 17 2026 Crash on WB Centennial Pkwy\u00A0at Losee Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.2764442,
+    "Longitude": -115.1170632
   }
 ]
