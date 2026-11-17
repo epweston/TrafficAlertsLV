@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62904,
-    "Timestamp": "2026-11-15 17:42",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "And Wb Vegas Valley Dr",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "5:42 PM, Nov 15 2026 UPDATE: Crash on EB and WB Vegas Valley Dr\u00A0after Nellis Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.136966899999997,
-    "Longitude": -115.0656101
-  },
-  {
     "UniqueId": 62905,
     "Timestamp": "2026-11-15 17:47",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859833/attachment_0.png",
     "Latitude": 36.159015099999998,
     "Longitude": -115.2711575
+  },
+  {
+    "UniqueId": 62994,
+    "Timestamp": "2026-11-16 17:43",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "over",
+    "CrossStreet": "I-15",
+    "Impact": "left turn lane blocked.",
+    "Notes": "5:43 PM, Nov 16 2026 Crash on EB Cheyenne Ave\u00A0over I-15. left turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859818/attachment_0.png",
+    "Latitude": 36.217665489308381,
+    "Longitude": -115.12400501844569
   }
 ]
