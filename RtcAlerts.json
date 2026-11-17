@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62902,
-    "Timestamp": "2026-11-15 17:14",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Vegas Valley Dr",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "3 Left lanes blocked. Expect Delays",
-    "Notes": "5:14 PM, Nov 15 2026 Crash on EB Vegas Valley Dr\u00A0after Nellis Blvd. 3 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857997/attachment_0.png",
-    "Latitude": 36.136966899999997,
-    "Longitude": -115.0656101
-  },
-  {
     "UniqueId": 62903,
     "Timestamp": "2026-11-15 17:25",
     "IncidentType": "Crash",
@@ -1174,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859809/attachment_0.png",
     "Latitude": 36.277450399999999,
     "Longitude": -115.0166152
+  },
+  {
+    "UniqueId": 62987,
+    "Timestamp": "2026-11-16 17:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Vegas Valley Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:13 PM, Nov 16 2026 Crash on SB Nellis Blvd\u00A0before Vegas Valley Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859813/attachment_0.jpg",
+    "Latitude": 36.13697359374855,
+    "Longitude": -115.06562949343491
+  },
+  {
+    "UniqueId": 62988,
+    "Timestamp": "2026-11-16 17:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "El Capitan Way",
+    "Relationship": "at",
+    "CrossStreet": "Chapman Pt",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "5:14 PM, Nov 16 2026 Crash on NB El Capitan Way\u00A0at Chapman Pt. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859825/attachment_0.png",
+    "Latitude": 36.224567899999997,
+    "Longitude": -115.28816380000001
   }
 ]
