@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62948,
-    "Timestamp": "2026-11-16 06:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:37 AM, Nov 16 2026 Crash on NB I-15\u00A0after Lamb Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858435/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
     "UniqueId": 62949,
     "Timestamp": "2026-11-16 06:46",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860134/attachment_0.png",
     "Latitude": 36.25565434,
     "Longitude": -115.2465177
+  },
+  {
+    "UniqueId": 63037,
+    "Timestamp": "2026-11-17 06:36",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:36 AM, Nov 17 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.100573374055692,
+    "Longitude": -115.18049240112306
   }
 ]
