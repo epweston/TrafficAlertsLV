@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62916,
-    "Timestamp": "2026-11-15 19:22",
-    "IncidentType": "UPDATE: Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Stephanie St",
-    "Impact": "",
-    "Notes": "7:22 PM, Nov 15 2026 UPDATE: Crash on EB 215 Southern Beltway\u00A0at Stephanie St. Off ramp now open.",
-    "ImagePath": "",
-    "Latitude": 36.029344864632797,
-    "Longitude": -115.04717588424684
-  },
-  {
     "UniqueId": 62917,
     "Timestamp": "2026-11-15 19:37",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859871/attachment_0.png",
     "Latitude": 35.986053099999999,
     "Longitude": -115.10108219999999
+  },
+  {
+    "UniqueId": 63005,
+    "Timestamp": "2026-11-16 19:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Bonanza Rd",
+    "Impact": "Intersection partially blocked. Use other routes",
+    "Notes": "7:24 PM, Nov 16 2026 Crash on SB Las Vegas Blvd\u00A0at Bonanza Rd. Intersection partially blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859872/attachment_0.jpg",
+    "Latitude": 36.174945000000001,
+    "Longitude": -115.1371793
   }
 ]
