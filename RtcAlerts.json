@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62958,
-    "Timestamp": "2026-11-16 08:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:30 AM, Nov 16 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858738/attachment_0.png",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
     "UniqueId": 62959,
     "Timestamp": "2026-11-16 08:40",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860819/attachment_0.png",
     "Latitude": 36.144507300000001,
     "Longitude": -115.29779379999999
+  },
+  {
+    "UniqueId": 63047,
+    "Timestamp": "2026-11-17 08:35",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:35 AM, Nov 17 2026 Crash on NB I-15 (CD Rd) to 215 Southern Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860713/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
   }
 ]
