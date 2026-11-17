@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62907,
-    "Timestamp": "2026-11-15 18:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:00 PM, Nov 15 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858000/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 62908,
     "Timestamp": "2026-11-15 18:16",
     "IncidentType": "Crash",
@@ -1258,5 +1244,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859839/attachment_0.jpg",
     "Latitude": 36.086265099999999,
     "Longitude": -115.11888639999999
+  },
+  {
+    "UniqueId": 62998,
+    "Timestamp": "2026-11-16 18:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Airport Connector",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:07 PM, Nov 16 2026 Crash on SB 215 Southern Beltway\u00A0at Airport Connector. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859824/attachment_0.png",
+    "Latitude": 36.062760057022381,
+    "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 62999,
+    "Timestamp": "2026-11-16 18:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:08 PM, Nov 16 2026 Crash on EB 215 Southern Beltway\u00A0at I-15 ramp. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859846/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 63000,
+    "Timestamp": "2026-11-16 18:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Valley View Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:09 PM, Nov 16 2026 Crash on NB Valley View Blvd\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859847/attachment_0.png",
+    "Latitude": 36.144334299999997,
+    "Longitude": -115.1908894
   }
 ]
