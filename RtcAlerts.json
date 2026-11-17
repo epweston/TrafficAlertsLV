@@ -1454,5 +1454,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861657/attachment_0.png",
     "Latitude": 36.159022,
     "Longitude": -115.29140700000001
+  },
+  {
+    "UniqueId": 63085,
+    "Timestamp": "2026-11-17 15:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Stephanie St",
+    "Impact": "",
+    "Notes": "3:30 PM, Nov 17 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Stephanie St. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861636/attachment_0.png",
+    "Latitude": 36.029344864632797,
+    "Longitude": -115.04717588424684
+  },
+  {
+    "UniqueId": 63086,
+    "Timestamp": "2026-11-17 15:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:31 PM, Nov 17 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861660/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 63087,
+    "Timestamp": "2026-11-17 15:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Alta Dr",
+    "Impact": "Left lanes blocked.",
+    "Notes": "3:34 PM, Nov 17 2026 Crash on SB Jones Blvd\u00A0at Alta Dr. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861680/attachment_0.png",
+    "Latitude": 36.1663827,
+    "Longitude": -115.2237853
   }
 ]
