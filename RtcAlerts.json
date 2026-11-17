@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62965,
-    "Timestamp": "2026-11-16 10:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:00 AM, Nov 16 2026 Crash on NB Eastern Ave\u00A0before 215 Southern Beltway. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859007/attachment_0.png",
-    "Latitude": 36.023704889999998,
-    "Longitude": -115.11844739
-  },
-  {
     "UniqueId": 62966,
     "Timestamp": "2026-11-16 10:56",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,47 @@
     "ImagePath": "",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 63056,
+    "Timestamp": "2026-11-17 09:59",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Horizon Dr",
+    "Impact": "Left shoulder blocked Right shoulder blocked.",
+    "Notes": "9:59 AM, Nov 17 2026 Crash on NB I-11\u00A0before Horizon Dr. Left shoulder blocked Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.011871323210563,
+    "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 63057,
+    "Timestamp": "2026-11-17 09:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:59 AM, Nov 17 2026 Stalled vehicle on SB I-11\u00A0at Cheyenne Ave. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
+  },
+  {
+    "UniqueId": 63058,
+    "Timestamp": "2026-11-17 09:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:59 AM, Nov 17 2026 Crash on SB Rainbow Blvd\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861076/attachment_0.png",
+    "Latitude": 36.159173199999998,
+    "Longitude": -115.24359750000001
   }
 ]
