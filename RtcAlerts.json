@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62944,
-    "Timestamp": "2026-11-16 06:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:07 AM, Nov 16 2026 Crash on SB Eastern Ave\u00A0after Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858321/attachment_0.png",
-    "Latitude": 36.1589229,
-    "Longitude": -115.1189426
-  },
-  {
     "UniqueId": 62945,
     "Timestamp": "2026-11-16 06:24",
     "IncidentType": "Stalled vehicle",
@@ -1258,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860091/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 63035,
+    "Timestamp": "2026-11-17 06:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:18 AM, Nov 17 2026 Stalled vehicle on NB I-15\u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860125/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
