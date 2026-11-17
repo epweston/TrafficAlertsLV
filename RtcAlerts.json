@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62970,
-    "Timestamp": "2026-11-16 12:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:49 PM, Nov 16 2026 Crash on EB Spring Mountain Rd\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859529/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
     "UniqueId": 62971,
     "Timestamp": "2026-11-16 13:22",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861482/attachment_0.png",
     "Latitude": 36.2764442,
     "Longitude": -115.1170632
+  },
+  {
+    "UniqueId": 63071,
+    "Timestamp": "2026-11-17 12:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:52 PM, Nov 17 2026 Crash on SB I-11\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861467/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
