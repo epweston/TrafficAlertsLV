@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62905,
-    "Timestamp": "2026-11-15 17:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Newton Dr",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "5:47 PM, Nov 15 2026 Crash on SB Nellis Blvd\u00A0at Newton Dr. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858020/attachment_0.png",
-    "Latitude": 36.103397899999997,
-    "Longitude": -115.0641163
-  },
-  {
-    "UniqueId": 62906,
-    "Timestamp": "2026-11-15 17:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "5:50 PM, Nov 15 2026 Crash on EB Russell Rd\u00A0before Las Vegas Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858022/attachment_0.png",
-    "Latitude": 36.086214300000002,
-    "Longitude": -115.1730815
-  },
-  {
     "UniqueId": 62907,
     "Timestamp": "2026-11-15 18:00",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859818/attachment_0.png",
     "Latitude": 36.217665489308381,
     "Longitude": -115.12400501844569
+  },
+  {
+    "UniqueId": 62995,
+    "Timestamp": "2026-11-16 17:46",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mtn Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:46 PM, Nov 16 2026 Crash on NB I-15\u00A0at Spring Mtn Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859837/attachment_0.png",
+    "Latitude": 36.125444299999998,
+    "Longitude": -115.1701368
   }
 ]
