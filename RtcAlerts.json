@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62949,
-    "Timestamp": "2026-11-16 06:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:46 AM, Nov 16 2026 Stalled vehicle on NB I-15\u00A0before Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858445/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 62950,
-    "Timestamp": "2026-11-16 06:46",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:46 AM, Nov 16 2026 Stalled vehicle on SB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858449/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 62951,
     "Timestamp": "2026-11-16 07:10",
     "IncidentType": "Crash",
@@ -1230,5 +1202,19 @@
     "ImagePath": "",
     "Latitude": 36.100573374055692,
     "Longitude": -115.18049240112306
+  },
+  {
+    "UniqueId": 63038,
+    "Timestamp": "2026-11-17 06:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:49 AM, Nov 17 2026 Stalled vehicle on SB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860167/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
