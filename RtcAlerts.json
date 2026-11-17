@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62957,
-    "Timestamp": "2026-11-16 08:06",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Torrey Pines Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:06 AM, Nov 16 2026 Crash on WB Lake Mead Blvd\u00A0after Torrey Pines Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858644/attachment_0.png",
-    "Latitude": 36.195802299999997,
-    "Longitude": -115.23308539999999
-  },
-  {
     "UniqueId": 62958,
     "Timestamp": "2026-11-16 08:30",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1202,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860435/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 63044,
+    "Timestamp": "2026-11-17 08:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:00 AM, Nov 17 2026 Stalled vehicle on NB I-11\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860599/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
   }
 ]
