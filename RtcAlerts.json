@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62964,
-    "Timestamp": "2026-11-16 09:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Buchanan Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:39 AM, Nov 16 2026 Stalled vehicle on SB I-11\u00A0after Buchanan Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3858991/attachment_0.jpg",
-    "Latitude": 35.934200883777393,
-    "Longitude": -114.84135389747479
-  },
-  {
     "UniqueId": 62965,
     "Timestamp": "2026-11-16 10:00",
     "IncidentType": "Crash",
@@ -1216,5 +1202,19 @@
     "ImagePath": "",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 63051,
+    "Timestamp": "2026-11-17 09:44",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "9:44 AM, Nov 17 2026 Crash on WB Tropicana Ave\u00A0at Eastern Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860990/attachment_0.png",
+    "Latitude": 36.099966560770525,
+    "Longitude": -115.11896249561603
   }
 ]
