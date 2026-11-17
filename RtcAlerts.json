@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 62896,
-    "Timestamp": "2026-11-15 15:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Christy Ln",
-    "Impact": "Intersection partially blocked",
-    "Notes": "3:17 PM, Nov 15 2026 Crash on WB Charleston Blvd\u00A0at Christy Ln. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857967/attachment_0.jpg",
-    "Latitude": 36.159452299999998,
-    "Longitude": -115.0533544
-  },
-  {
-    "UniqueId": 62897,
-    "Timestamp": "2026-11-15 15:20",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:20 PM, Nov 15 2026 Stalled vehicle on NB I-11\u00A0after Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857968/attachment_0.png",
-    "Latitude": 36.083251347122911,
-    "Longitude": -115.04975616931917
-  },
-  {
-    "UniqueId": 62898,
-    "Timestamp": "2026-11-15 15:35",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 14",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:35 PM, Nov 15 2026 Vehicle on fire on NB I-15\u00A0before Mile 14. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857990/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 62899,
-    "Timestamp": "2026-11-15 15:53",
-    "IncidentType": "Vehicle on fire",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Mile 14",
-    "Impact": "Right lanes blocked.",
-    "Notes": "3:53 PM, Nov 15 2026 Vehicle on fire on NB I-15\u00A0before Mile 14. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857993/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 62900,
     "Timestamp": "2026-11-15 16:08",
     "IncidentType": "Crash",
@@ -1174,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859719/attachment_0.png",
     "Latitude": 36.122773000000002,
     "Longitude": -115.190242
+  },
+  {
+    "UniqueId": 62981,
+    "Timestamp": "2026-11-16 15:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:58 PM, Nov 16 2026 Crash on SB Fremont St\u00A0at Oakey Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859757/attachment_0.png",
+    "Latitude": 36.152101799999997,
+    "Longitude": -115.1088706
   }
 ]
