@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62968,
-    "Timestamp": "2026-11-16 11:22",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "University Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:22 AM, Nov 16 2026 Crash on WB Tropicana Ave\u00A0at University Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859385/attachment_0.png",
-    "Latitude": 36.100972160686119,
-    "Longitude": -115.14593481598045
-  },
-  {
     "UniqueId": 62969,
     "Timestamp": "2026-11-16 12:12",
     "IncidentType": "Stalled vehicle",
@@ -1398,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861326/attachment_0.png",
     "Latitude": 36.159452299999998,
     "Longitude": -115.0533544
+  },
+  {
+    "UniqueId": 63068,
+    "Timestamp": "2026-11-17 11:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:42 AM, Nov 17 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
