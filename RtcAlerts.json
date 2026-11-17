@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62973,
-    "Timestamp": "2026-11-16 13:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:57 PM, Nov 16 2026 Crash on EB Flamingo Rd\u00A0after Las Vegas Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859644/attachment_0.png",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
-    "UniqueId": 62974,
-    "Timestamp": "2026-11-16 13:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:59 PM, Nov 16 2026 Stalled vehicle on SB I-11\u00A0before College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859667/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
     "UniqueId": 62975,
     "Timestamp": "2026-11-16 14:26",
     "IncidentType": "Crash",
@@ -1496,5 +1468,19 @@
     "ImagePath": "",
     "Latitude": 36.2764442,
     "Longitude": -115.1170632
+  },
+  {
+    "UniqueId": 63080,
+    "Timestamp": "2026-11-17 14:07",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "2:07 PM, Nov 17 2026 Crash on EB 215 Southern Beltway Off Ramp\u00A0at Buffalo Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861584/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
