@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62900,
-    "Timestamp": "2026-11-15 16:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "2 Right lanes blocked. Expect Delays",
-    "Notes": "4:08 PM, Nov 15 2026 Crash on SB Durango Dr\u00A0at Charleston Blvd. 2 Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3857971/attachment_0.png",
-    "Latitude": 36.158985100000002,
-    "Longitude": -115.2802104
-  },
-  {
     "UniqueId": 62901,
     "Timestamp": "2026-11-15 16:23",
     "IncidentType": "Stalled vehicle",
@@ -1132,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859757/attachment_0.png",
     "Latitude": 36.152101799999997,
     "Longitude": -115.1088706
+  },
+  {
+    "UniqueId": 62982,
+    "Timestamp": "2026-11-16 16:10",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "before",
+    "CrossStreet": "15Th St",
+    "Impact": "Expect Delays",
+    "Notes": "4:10 PM, Nov 16 2026 Crash on WB Fremont St\u00A0before 15th St. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859774/attachment_0.png",
+    "Latitude": 36.164328699999999,
+    "Longitude": -115.12925180000001
   }
 ]
