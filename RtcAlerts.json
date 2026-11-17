@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62920,
-    "Timestamp": "2026-11-15 20:27",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "8:27 PM, Nov 15 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd off ramp. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858038/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 62921,
-    "Timestamp": "2026-11-15 20:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:35 PM, Nov 15 2026 Crash on EB Saint Rose Pkwy\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858040/attachment_0.png",
-    "Latitude": 35.966113100000001,
-    "Longitude": -115.1727174
-  },
-  {
     "UniqueId": 62922,
     "Timestamp": "2026-11-15 20:45",
     "IncidentType": "Crash",
@@ -1258,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859877/attachment_0.png",
     "Latitude": 36.170727100000001,
     "Longitude": -115.14413140000001
+  },
+  {
+    "UniqueId": 63011,
+    "Timestamp": "2026-11-16 20:33",
+    "IncidentType": "Police activity",
+    "Direction": "WB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "8:33 PM, Nov 16 2026 Police activity on WB Desert Inn Rd\u00A0at Eastern Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859863/attachment_0.png",
+    "Latitude": 36.12983354794379,
+    "Longitude": -115.11856560125827
   }
 ]
