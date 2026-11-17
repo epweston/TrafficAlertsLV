@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62903,
-    "Timestamp": "2026-11-15 17:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:25 PM, Nov 15 2026 Crash on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/15/file_attachments/3858017/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 62904,
     "Timestamp": "2026-11-15 17:42",
     "IncidentType": "UPDATE: Crash",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859825/attachment_0.png",
     "Latitude": 36.224567899999997,
     "Longitude": -115.28816380000001
+  },
+  {
+    "UniqueId": 62989,
+    "Timestamp": "2026-11-16 17:19",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Hacienda Ave",
+    "Relationship": "at",
+    "CrossStreet": "Edmond St All Lanes Are",
+    "Impact": "Use other routes",
+    "Notes": "5:19 PM, Nov 16 2026 Crash on WB Hacienda Ave\u00A0at Edmond St. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859815/attachment_0.jpg",
+    "Latitude": 36.0933742,
+    "Longitude": -115.2122569
+  },
+  {
+    "UniqueId": 62990,
+    "Timestamp": "2026-11-16 17:23",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Symphony Park Ave",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "5:23 PM, Nov 16 2026 Crash on NB Martin L King Blvd\u00A0at Symphony Park Ave. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859829/attachment_0.png",
+    "Latitude": 36.171713699999998,
+    "Longitude": -115.16090939999999
   }
 ]
