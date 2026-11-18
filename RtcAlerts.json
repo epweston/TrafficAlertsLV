@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63073,
-    "Timestamp": "2026-11-17 13:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:07 PM, Nov 17 2026 Crash on SB Paradise Rd\u00A0before Tropicana Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861492/attachment_0.png",
-    "Latitude": 36.101024170590854,
-    "Longitude": -115.14982939081087
-  },
-  {
-    "UniqueId": 63074,
-    "Timestamp": "2026-11-17 13:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:08 PM, Nov 17 2026 Crash on WB 215 Northern Beltway\u00A0after Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861503/attachment_0.png",
-    "Latitude": 36.298386639861533,
-    "Longitude": -115.28597831726076
-  },
-  {
-    "UniqueId": 63075,
-    "Timestamp": "2026-11-17 13:16",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:16 PM, Nov 17 2026 Crash on WB Summerlin Pkwy\u00A0at Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861508/attachment_0.png",
-    "Latitude": 36.183238600000003,
-    "Longitude": -115.30132519999999
-  },
-  {
-    "UniqueId": 63076,
-    "Timestamp": "2026-11-17 13:19",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:19 PM, Nov 17 2026 Crash on WB Tropicana Ave\u00A0at Durango Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861522/attachment_0.png",
-    "Latitude": 36.100141600000001,
-    "Longitude": -115.2793594
-  },
-  {
     "UniqueId": 63077,
     "Timestamp": "2026-11-17 13:46",
     "IncidentType": "Crash",
@@ -1622,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863686/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 63193,
+    "Timestamp": "2026-11-18 13:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Karen Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "1:23 PM, Nov 18 2026 Stalled vehicle on SB Eastern Ave\u00A0at Karen Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863710/attachment_0.jpg",
+    "Latitude": 36.140701499999999,
+    "Longitude": -115.11871669999999
   }
 ]
