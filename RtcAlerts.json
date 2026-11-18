@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63036,
-    "Timestamp": "2026-11-17 06:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:32 AM, Nov 17 2026 Crash on NB Rancho Dr\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860134/attachment_0.png",
-    "Latitude": 36.25565434,
-    "Longitude": -115.2465177
-  },
-  {
-    "UniqueId": 63037,
-    "Timestamp": "2026-11-17 06:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:36 AM, Nov 17 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 63038,
     "Timestamp": "2026-11-17 06:49",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1426,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862059/attachment_0.png",
     "Latitude": 35.991393000000002,
     "Longitude": -115.1365311
+  },
+  {
+    "UniqueId": 63144,
+    "Timestamp": "2026-11-18 06:37",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:37 AM, Nov 18 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862056/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 63145,
+    "Timestamp": "2026-11-18 06:37",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "SB Eastern Ave Blocked Use other routes",
+    "Notes": "6:37 AM, Nov 18 2026 Crash on SB Eastern Ave\u00A0after Warm Springs Rd. SB Eastern Ave Blocked Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
   }
 ]
