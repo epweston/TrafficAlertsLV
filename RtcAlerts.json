@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 62984,
-    "Timestamp": "2026-11-16 16:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:23 PM, Nov 16 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859780/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
     "UniqueId": 62985,
     "Timestamp": "2026-11-16 16:51",
     "IncidentType": "Crash",
@@ -1552,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861708/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 63095,
+    "Timestamp": "2026-11-17 16:34",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "Left lanes blocked.",
+    "Notes": "4:34 PM, Nov 17 2026 Crash on NB Las Vegas Blvd\u00A0after St Rose Pkwy. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861727/attachment_0.jpg",
+    "Latitude": 35.965910958046543,
+    "Longitude": -115.17285344363151
+  },
+  {
+    "UniqueId": 63096,
+    "Timestamp": "2026-11-17 16:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Washington Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:35 PM, Nov 17 2026 Stalled vehicle on NB I-15\u00A0at Washington Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861715/attachment_0.jpg",
+    "Latitude": 36.18108189032673,
+    "Longitude": -115.14517307281496
   }
 ]
