@@ -1580,5 +1580,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861741/attachment_0.png",
     "Latitude": 35.998667191475242,
     "Longitude": -115.22549452599732
+  },
+  {
+    "UniqueId": 63100,
+    "Timestamp": "2026-11-17 16:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Warm Springs Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:52 PM, Nov 17 2026 Crash on SB Eastern Ave\u00A0before Warm Springs Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861736/attachment_0.png",
+    "Latitude": 36.056949000000003,
+    "Longitude": -115.1184136
+  },
+  {
+    "UniqueId": 63101,
+    "Timestamp": "2026-11-17 16:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "WB left lane blocked. NB right lane blocked.",
+    "Notes": "4:52 PM, Nov 17 2026 Crash on NB Nellis Blvd\u00A0at Lake Mead Blvd. WB left lane blocked. NB right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861758/attachment_0.jpg",
+    "Latitude": 36.196209164023024,
+    "Longitude": -115.06218552589418
+  },
+  {
+    "UniqueId": 63102,
+    "Timestamp": "2026-11-17 16:57",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:57 PM, Nov 17 2026 Crash on WB Washington Ave\u00A0after Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861743/attachment_0.png",
+    "Latitude": 36.181090300000008,
+    "Longitude": -115.1791041
   }
 ]
