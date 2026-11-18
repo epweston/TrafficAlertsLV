@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63007,
-    "Timestamp": "2026-11-16 19:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "3 Left lanes blocked. Expect Delays",
-    "Notes": "7:41 PM, Nov 16 2026 Crash on EB 215 Southern Beltway\u00A0before I-15. 3 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859873/attachment_0.png",
-    "Latitude": 36.063556878517637,
-    "Longitude": -115.18083173887375
-  },
-  {
-    "UniqueId": 63008,
-    "Timestamp": "2026-11-16 19:53",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:53 PM, Nov 16 2026 Crash on EB Sahara Ave\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859860/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
-    "UniqueId": 63009,
-    "Timestamp": "2026-11-16 20:09",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Town Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:09 PM, Nov 16 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Town Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859876/attachment_0.png",
-    "Latitude": 36.186849129215581,
-    "Longitude": -115.30670642852785
-  },
-  {
     "UniqueId": 63010,
     "Timestamp": "2026-11-16 20:18",
     "IncidentType": "Crash",
@@ -1566,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861805/attachment_0.png",
     "Latitude": 36.294506599999998,
     "Longitude": -115.198295
+  },
+  {
+    "UniqueId": 63119,
+    "Timestamp": "2026-11-17 20:10",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:10 PM, Nov 17 2026 Crash on NB Jones Blvd\u00A0at 215 Northern Beltway. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861793/attachment_0.png",
+    "Latitude": 36.1702978,
+    "Longitude": -115.2241887
   }
 ]
