@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63039,
-    "Timestamp": "2026-11-17 07:06",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "S Rancho Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:06 AM, Nov 17 2026 Crash on SB I-11\u00A0at S Rancho Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860192/attachment_0.png",
-    "Latitude": 36.175254133971912,
-    "Longitude": -115.17418362739356
-  },
-  {
-    "UniqueId": 63040,
-    "Timestamp": "2026-11-17 07:23",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:23 AM, Nov 17 2026 Crash on SB I-11\u00A0after Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860203/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 63041,
     "Timestamp": "2026-11-17 07:31",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1468,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862149/attachment_0.png",
     "Latitude": 36.144563512522332,
     "Longitude": -115.33671498298646
+  },
+  {
+    "UniqueId": 63150,
+    "Timestamp": "2026-11-18 07:18",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:18 AM, Nov 18 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862186/attachment_0.png",
+    "Latitude": 36.205568079996773,
+    "Longitude": -115.34099578857423
+  },
+  {
+    "UniqueId": 63151,
+    "Timestamp": "2026-11-18 07:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:20 AM, Nov 18 2026 Stalled vehicle on SB I-11\u00A0before Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862175/attachment_0.png",
+    "Latitude": 36.17515833813831,
+    "Longitude": -115.17439842224121
   }
 ]
