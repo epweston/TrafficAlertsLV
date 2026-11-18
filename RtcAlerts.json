@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63069,
-    "Timestamp": "2026-11-17 12:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Hidden Valley Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:35 PM, Nov 17 2026 Stalled vehicle on SB I-15\u00A0at Hidden Valley Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861454/attachment_0.png",
-    "Latitude": 36.011036799999999,
-    "Longitude": -114.9700881
-  },
-  {
     "UniqueId": 63070,
     "Timestamp": "2026-11-17 12:43",
     "IncidentType": "Crash",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863445/attachment_0.png",
     "Latitude": 36.040631599999998,
     "Longitude": -115.19019710000001
+  },
+  {
+    "UniqueId": 63190,
+    "Timestamp": "2026-11-18 12:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "12:32 PM, Nov 18 2026 Crash on NB I-11\u00A0at Rainbow Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863465/attachment_0.jpg",
+    "Latitude": 36.176699158494841,
+    "Longitude": -115.24366395563143
   }
 ]
