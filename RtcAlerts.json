@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62996,
-    "Timestamp": "2026-11-16 17:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:51 PM, Nov 16 2026 Crash on SB I-11\u00A0before I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859821/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 62997,
-    "Timestamp": "2026-11-16 17:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Russell Rd",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:54 PM, Nov 16 2026 Crash on EB Russell Rd\u00A0at Eastern Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859839/attachment_0.jpg",
-    "Latitude": 36.086265099999999,
-    "Longitude": -115.11888639999999
-  },
-  {
     "UniqueId": 62998,
     "Timestamp": "2026-11-16 18:07",
     "IncidentType": "Crash",
@@ -1566,5 +1538,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861755/attachment_0.png",
     "Latitude": 36.26305439011032,
     "Longitude": -115.25378367086844
+  },
+  {
+    "UniqueId": 63108,
+    "Timestamp": "2026-11-17 17:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:49 PM, Nov 17 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861777/attachment_0.png",
+    "Latitude": 36.085176179133548,
+    "Longitude": -115.28905992484975
+  },
+  {
+    "UniqueId": 63109,
+    "Timestamp": "2026-11-17 17:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Michael Way",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "5:53 PM, Nov 17 2026 Crash on SB Michael Way\u00A0at Lake Mead Blvd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861770/attachment_0.png",
+    "Latitude": 36.195664000000001,
+    "Longitude": -115.2149727
   }
 ]
