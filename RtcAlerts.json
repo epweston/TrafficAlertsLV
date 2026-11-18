@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62982,
-    "Timestamp": "2026-11-16 16:10",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "before",
-    "CrossStreet": "15Th St",
-    "Impact": "Expect Delays",
-    "Notes": "4:10 PM, Nov 16 2026 Crash on WB Fremont St\u00A0before 15th St. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859774/attachment_0.png",
-    "Latitude": 36.164328699999999,
-    "Longitude": -115.12925180000001
-  },
-  {
-    "UniqueId": 62983,
-    "Timestamp": "2026-11-16 16:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Saint Rose Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Jeffreys St",
-    "Impact": "",
-    "Notes": "4:12 PM, Nov 16 2026 Stalled vehicle on EB Saint Rose Pkwy\u00A0after Jeffreys St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859777/attachment_0.png",
-    "Latitude": 36.002886799999999,
-    "Longitude": -115.12051820000001
-  },
-  {
     "UniqueId": 62984,
     "Timestamp": "2026-11-16 16:23",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861695/attachment_0.jpg",
     "Latitude": 36.153324400000002,
     "Longitude": -115.33338929999999
+  },
+  {
+    "UniqueId": 63093,
+    "Timestamp": "2026-11-17 16:07",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:07 PM, Nov 17 2026 Crash on SB Rainbow Blvd\u00A0after Sunset Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861707/attachment_0.png",
+    "Latitude": 36.070543507237815,
+    "Longitude": -115.24253723908187
   }
 ]
