@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63065,
-    "Timestamp": "2026-11-17 10:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:49 AM, Nov 17 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861283/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 63066,
     "Timestamp": "2026-11-17 10:58",
     "IncidentType": "Stalled vehicle",
@@ -1496,5 +1482,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862684/attachment_0.png",
     "Latitude": 36.21922790273323,
     "Longitude": -115.32768125268741
+  },
+  {
+    "UniqueId": 63176,
+    "Timestamp": "2026-11-18 10:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:44 AM, Nov 18 2026 Crash on SB I-15\u00A0at Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862713/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 63177,
+    "Timestamp": "2026-11-18 10:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "at",
+    "CrossStreet": "Saint Louis Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:45 AM, Nov 18 2026 Crash on SB Fremont St\u00A0at Saint Louis Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862714/attachment_0.png",
+    "Latitude": 36.148524100000003,
+    "Longitude": -115.1048411
+  },
+  {
+    "UniqueId": 63178,
+    "Timestamp": "2026-11-18 10:47",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Paddlewheel Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:47 AM, Nov 18 2026 Crash on NB Durango Dr\u00A0at Paddlewheel Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862690/attachment_0.png",
+    "Latitude": 36.134861999999998,
+    "Longitude": -115.27896680000001
   }
 ]
