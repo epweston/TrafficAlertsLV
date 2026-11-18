@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63082,
-    "Timestamp": "2026-11-17 14:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "George Crockett Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:32 PM, Nov 17 2026 Crash on SB Las Vegas Blvd\u00A0at George Crockett Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861618/attachment_0.png",
-    "Latitude": 36.062553299999998,
-    "Longitude": -115.1724744
-  },
-  {
     "UniqueId": 63083,
     "Timestamp": "2026-11-17 15:08",
     "IncidentType": "Crash",
@@ -1622,5 +1608,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863856/attachment_0.png",
     "Latitude": 36.020121142298088,
     "Longitude": -115.26119468708681
+  },
+  {
+    "UniqueId": 63202,
+    "Timestamp": "2026-11-18 14:30",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:30 PM, Nov 18 2026 Stalled vehicle on NB I-15\u00A0after Primm Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863858/attachment_0.png",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 63203,
+    "Timestamp": "2026-11-18 14:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Warm Springs Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cypress Gardens Lane",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "2:31 PM, Nov 18 2026 Crash on EB Warm Springs Rd\u00A0at Cypress Gardens Lane. 2 Left lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.057576099999999,
+    "Longitude": -115.1302393
+  },
+  {
+    "UniqueId": 63204,
+    "Timestamp": "2026-11-18 14:31",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sierra Vista Dr",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "2:31 PM, Nov 18 2026 Crash on WB Sierra Vista Dr\u00A0at Paradise Rd. Right lane blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.126834100000004,
+    "Longitude": -115.15505899999999
   }
 ]
