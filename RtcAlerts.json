@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63029,
-    "Timestamp": "2026-11-17 05:01",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:01 AM, Nov 17 2026 Crash on WB Flamingo Rd\u00A0at Nellis Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.114871200000003,
-    "Longitude": -115.0647175
-  },
-  {
     "UniqueId": 63030,
     "Timestamp": "2026-11-17 05:14",
     "IncidentType": "Stalled vehicle",
@@ -1426,5 +1412,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3861959/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 63135,
+    "Timestamp": "2026-11-18 05:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Left lane blocked.",
+    "Notes": "5:03 AM, Nov 18 2026 Stalled vehicle on NB I-11\u00A0to Summerlin Pkwy. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3861981/attachment_0.png",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
   }
 ]
