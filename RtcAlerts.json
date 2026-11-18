@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63017,
-    "Timestamp": "2026-11-16 22:37",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Wilbur Clark D.I. Rd",
-    "Relationship": "after",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "10:37 PM, Nov 16 2026 Crash on EB Wilbur Clark D.I. Rd\u00A0after Valley View Blvd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859892/attachment_0.png",
-    "Latitude": 36.1529296,
-    "Longitude": -115.19082450000001
-  },
-  {
     "UniqueId": 63018,
     "Timestamp": "2026-11-16 23:02",
     "IncidentType": "Crash",
@@ -1454,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861808/attachment_0.png",
     "Latitude": 36.240214888276881,
     "Longitude": -115.10188763197212
+  },
+  {
+    "UniqueId": 63121,
+    "Timestamp": "2026-11-17 22:56",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:56 PM, Nov 17 2026 Crash on SB Las Vegas Blvd\u00A0at Harmon Ave. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861810/attachment_0.jpg",
+    "Latitude": 36.108816901628572,
+    "Longitude": -115.17299294471742
+  },
+  {
+    "UniqueId": 63122,
+    "Timestamp": "2026-11-17 22:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:58 PM, Nov 17 2026 Crash on NB I-11\u00A0to Durango Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861821/attachment_0.png",
+    "Latitude": 36.298464445139153,
+    "Longitude": -115.28598403888641
   }
 ]
