@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 62985,
-    "Timestamp": "2026-11-16 16:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "4:51 PM, Nov 16 2026 Crash on NB I-11\u00A0at Charleston Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859797/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
-    "UniqueId": 62986,
-    "Timestamp": "2026-11-16 16:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Speedway Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:53 PM, Nov 16 2026 Crash on WB Speedway Blvd\u00A0at I-15. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/16/file_attachments/3859809/attachment_0.png",
-    "Latitude": 36.277450399999999,
-    "Longitude": -115.0166152
-  },
-  {
     "UniqueId": 62987,
     "Timestamp": "2026-11-16 17:13",
     "IncidentType": "Crash",
@@ -1580,5 +1552,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861730/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 63098,
+    "Timestamp": "2026-11-17 16:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Primm Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:48 PM, Nov 17 2026 Crash on SB I-15\u00A0at Primm Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861740/attachment_0.png",
+    "Latitude": 35.607225398050609,
+    "Longitude": -115.39131394316021
+  },
+  {
+    "UniqueId": 63099,
+    "Timestamp": "2026-11-17 16:50",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cactus Ave",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "4:50 PM, Nov 17 2026 Crash on EB Cactus Ave\u00A0at Jones Blvd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861741/attachment_0.png",
+    "Latitude": 35.998667191475242,
+    "Longitude": -115.22549452599732
   }
 ]
