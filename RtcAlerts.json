@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63041,
-    "Timestamp": "2026-11-17 07:31",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder",
-    "Notes": "7:31 AM, Nov 17 2026 Stalled vehicle on NB I-11\u00A0at Boulder Hwy. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3860227/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 63042,
     "Timestamp": "2026-11-17 07:44",
     "IncidentType": "Crash",
@@ -1496,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862175/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 63152,
+    "Timestamp": "2026-11-18 07:36",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Elkhorn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:36 AM, Nov 18 2026 Crash on EB Elkhorn Rd\u00A0at Cimarron Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862221/attachment_0.png",
+    "Latitude": 36.291164799999997,
+    "Longitude": -115.2694709
   }
 ]
