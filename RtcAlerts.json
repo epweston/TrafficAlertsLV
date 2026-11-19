@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63110,
-    "Timestamp": "2026-11-17 17:54",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:54 PM, Nov 17 2026 Crash on NB Decatur Blvd\u00A0before Sahara Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861779/attachment_0.png",
-    "Latitude": 36.144511529274723,
-    "Longitude": -115.2082051186522
-  },
-  {
-    "UniqueId": 63111,
-    "Timestamp": "2026-11-17 18:02",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Auto Show Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:02 PM, Nov 17 2026 Stalled vehicle on SB I-11\u00A0before Auto Show Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861782/attachment_0.png",
-    "Latitude": 36.04604550983511,
-    "Longitude": -115.02263862305127
-  },
-  {
     "UniqueId": 63112,
     "Timestamp": "2026-11-17 18:24",
     "IncidentType": "Crash",
@@ -1748,5 +1720,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864014/attachment_0.png",
     "Latitude": 36.159071500000003,
     "Longitude": -115.3307282
+  },
+  {
+    "UniqueId": 63239,
+    "Timestamp": "2026-11-18 18:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:12 PM, Nov 18 2026 Crash on NB I-15\u00A0before Sahara Ave. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864016/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
