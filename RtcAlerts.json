@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63121,
-    "Timestamp": "2026-11-17 22:56",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:56 PM, Nov 17 2026 Crash on SB Las Vegas Blvd\u00A0at Harmon Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861810/attachment_0.jpg",
-    "Latitude": 36.108816901628572,
-    "Longitude": -115.17299294471742
-  },
-  {
-    "UniqueId": 63122,
-    "Timestamp": "2026-11-17 22:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:58 PM, Nov 17 2026 Crash on NB I-11\u00A0to Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861821/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
     "UniqueId": 63123,
     "Timestamp": "2026-11-17 23:57",
     "IncidentType": "Crash",
@@ -1846,5 +1818,19 @@
     "ImagePath": "",
     "Latitude": 36.225338465005997,
     "Longitude": -115.08024188900795
+  },
+  {
+    "UniqueId": 63261,
+    "Timestamp": "2026-11-18 23:31",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "11:31 PM, Nov 18 2026 Crash on NB Decatur Blvd\u00A0at Charleston Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864081/attachment_0.png",
+    "Latitude": 36.159069000000002,
+    "Longitude": -115.2059539
   }
 ]
