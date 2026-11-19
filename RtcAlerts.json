@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 63157,
-    "Timestamp": "2026-11-18 08:08",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Starr Ave",
-    "Relationship": "at",
-    "CrossStreet": "Placid St",
-    "Impact": "",
-    "Notes": "8:08 AM, Nov 18 2026 Crash on WB Starr Ave\u00A0at Placid St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862286/attachment_0.png",
-    "Latitude": 35.984849599999997,
-    "Longitude": -115.1592397
-  },
-  {
-    "UniqueId": 63158,
-    "Timestamp": "2026-11-18 08:15",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:15 AM, Nov 18 2026 Crash on NB Jones Blvd\u00A0at Robindale Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862314/attachment_0.jpg",
-    "Latitude": 36.049264299999997,
-    "Longitude": -115.2253971
-  },
-  {
-    "UniqueId": 63159,
-    "Timestamp": "2026-11-18 08:23",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:23 AM, Nov 18 2026 Crash on NB Decatur Blvd\u00A0at Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862338/attachment_0.png",
-    "Latitude": 36.100956099999998,
-    "Longitude": -115.2080821
-  },
-  {
-    "UniqueId": 63160,
-    "Timestamp": "2026-11-18 08:32",
-    "IncidentType": "Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Farm Rd",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:32 AM, Nov 18 2026 Police activity on EB Farm Rd\u00A0at Buffalo Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862345/attachment_0.png",
-    "Latitude": 36.297873500000001,
-    "Longitude": -115.2602354
-  },
-  {
-    "UniqueId": 63161,
-    "Timestamp": "2026-11-18 08:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:36 AM, Nov 18 2026 Stalled vehicle on SB I-11\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862364/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 63162,
     "Timestamp": "2026-11-18 08:40",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864564/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 63292,
+    "Timestamp": "2026-11-19 08:30",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Center lane blocked.",
+    "Notes": "8:30 AM, Nov 19 2026 Crash on NB I-11\u00A0at Cheyenne Ave. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864876/attachment_0.png",
+    "Latitude": 36.218340499999996,
+    "Longitude": -115.2466541
   }
 ]
