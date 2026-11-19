@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63196,
-    "Timestamp": "2026-11-18 13:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sierra Vista Dr",
-    "Relationship": "at",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:51 PM, Nov 18 2026 Crash on WB Sierra Vista Dr\u00A0at Paradise Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863753/attachment_0.png",
-    "Latitude": 36.126834100000004,
-    "Longitude": -115.15505899999999
-  },
-  {
-    "UniqueId": 63197,
-    "Timestamp": "2026-11-18 13:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Fremont St",
-    "Relationship": "at",
-    "CrossStreet": "Maryland Pkwy",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "1:55 PM, Nov 18 2026 Crash on SB Fremont St\u00A0at Maryland Pkwy. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863755/attachment_0.jpg",
-    "Latitude": 36.165804199999997,
-    "Longitude": -115.13266900000001
-  },
-  {
     "UniqueId": 63198,
     "Timestamp": "2026-11-18 14:00",
     "IncidentType": "Crash",
@@ -1678,5 +1650,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865527/attachment_0.jpg",
     "Latitude": 36.108017699999998,
     "Longitude": -115.1504278
+  },
+  {
+    "UniqueId": 63325,
+    "Timestamp": "2026-11-19 13:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Twain Ave",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:50 PM, Nov 19 2026 Crash on WB Twain Ave\u00A0after Valley View Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865530/attachment_0.png",
+    "Latitude": 36.122773000000002,
+    "Longitude": -115.190242
+  },
+  {
+    "UniqueId": 63326,
+    "Timestamp": "2026-11-19 13:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:52 PM, Nov 19 2026 Crash on WB Sahara Ave\u00A0before Rancho Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865541/attachment_0.png",
+    "Latitude": 36.144174199999988,
+    "Longitude": -115.1731231
   }
 ]
