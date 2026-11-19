@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63163,
-    "Timestamp": "2026-11-18 08:45",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Windmill Ln",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:45 AM, Nov 18 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at Windmill Ln. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862374/attachment_0.jpg",
-    "Latitude": 36.042627600123957,
-    "Longitude": -115.13402582473329
-  },
-  {
-    "UniqueId": 63164,
-    "Timestamp": "2026-11-18 08:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:47 AM, Nov 18 2026 Stalled vehicle on SB Decatur Blvd\u00A0at Washington Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862380/attachment_0.png",
-    "Latitude": 36.180953799999998,
-    "Longitude": -115.2062164
-  },
-  {
-    "UniqueId": 63165,
-    "Timestamp": "2026-11-18 08:47",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Desert Inn Rd",
-    "Relationship": "before",
-    "CrossStreet": "Cambridge St",
-    "Impact": "",
-    "Notes": "8:47 AM, Nov 18 2026 Crash on WB Desert Inn Rd\u00A0before Cambridge St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862356/attachment_0.jpg",
-    "Latitude": 36.129715999999988,
-    "Longitude": -115.1414218
-  },
-  {
-    "UniqueId": 63166,
-    "Timestamp": "2026-11-18 08:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:50 AM, Nov 18 2026 Stalled vehicle on NB I-15\u00A0after Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862400/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
     "UniqueId": 63167,
     "Timestamp": "2026-11-18 09:07",
     "IncidentType": "Crash",
@@ -1776,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864754/attachment_0.png",
     "Latitude": 36.062760057022381,
     "Longitude": -115.14973283652975
+  },
+  {
+    "UniqueId": 63294,
+    "Timestamp": "2026-11-19 08:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:48 AM, Nov 19 2026 Stalled vehicle on NB I-15\u00A0before Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864762/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 63295,
+    "Timestamp": "2026-11-19 08:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:50 AM, Nov 19 2026 Crash on NB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864893/attachment_0.png",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
