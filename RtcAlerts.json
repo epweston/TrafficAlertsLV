@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63120,
-    "Timestamp": "2026-11-17 22:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:22 PM, Nov 17 2026 Crash on EB Craig Rd\u00A0at I-15. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861808/attachment_0.png",
-    "Latitude": 36.240214888276881,
-    "Longitude": -115.10188763197212
-  },
-  {
     "UniqueId": 63121,
     "Timestamp": "2026-11-17 22:56",
     "IncidentType": "Crash",
@@ -1832,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864059/attachment_0.png",
     "Latitude": 36.225338465005997,
     "Longitude": -115.08024188900795
+  },
+  {
+    "UniqueId": 63259,
+    "Timestamp": "2026-11-18 22:19",
+    "IncidentType": "Update Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Incident clear.",
+    "Notes": "10:19 PM, Nov 18 2026 Update Police activity on SB I-11\u00A0to Eastern Ave off-ramp. Incident clear.",
+    "ImagePath": "",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
