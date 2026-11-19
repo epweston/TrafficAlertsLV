@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63112,
-    "Timestamp": "2026-11-17 18:24",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "at",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:24 PM, Nov 17 2026 Crash on WB Badura Ave\u00A0at Buffalo Dr. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861775/attachment_0.png",
-    "Latitude": 36.061163299999997,
-    "Longitude": -115.2607964
-  },
-  {
     "UniqueId": 63113,
     "Timestamp": "2026-11-17 18:34",
     "IncidentType": "Stalled vehicle",
@@ -1734,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864016/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 63240,
+    "Timestamp": "2026-11-18 18:23",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder",
+    "Notes": "6:23 PM, Nov 18 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864027/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 63241,
+    "Timestamp": "2026-11-18 18:24",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "All southbound lanes are blocked.",
+    "Notes": "6:24 PM, Nov 18 2026 Crash on SB Lamb Blvd\u00A0at Charleston Blvd. All southbound lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864038/attachment_0.png",
+    "Latitude": 36.158866499999988,
+    "Longitude": -115.08010710000001
   }
 ]
