@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63108,
-    "Timestamp": "2026-11-17 17:49",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:49 PM, Nov 17 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861777/attachment_0.png",
-    "Latitude": 36.085176179133548,
-    "Longitude": -115.28905992484975
-  },
-  {
-    "UniqueId": 63109,
-    "Timestamp": "2026-11-17 17:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Michael Way",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "5:53 PM, Nov 17 2026 Crash on SB Michael Way\u00A0at Lake Mead Blvd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861770/attachment_0.png",
-    "Latitude": 36.195664000000001,
-    "Longitude": -115.2149727
-  },
-  {
     "UniqueId": 63110,
     "Timestamp": "2026-11-17 17:54",
     "IncidentType": "Crash",
@@ -1748,5 +1720,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864024/attachment_0.png",
     "Latitude": 36.277752524515982,
     "Longitude": -115.26709556579591
+  },
+  {
+    "UniqueId": 63237,
+    "Timestamp": "2026-11-18 17:50",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Summerlin Pkwy",
+    "Impact": "Left shoulder.",
+    "Notes": "5:50 PM, Nov 18 2026 Stalled vehicle on NB I-11\u00A0at Summerlin Pkwy. Left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864012/attachment_0.png",
+    "Latitude": 36.177653931557593,
+    "Longitude": -115.24496227194625
+  },
+  {
+    "UniqueId": 63238,
+    "Timestamp": "2026-11-18 17:51",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Pavilion Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:51 PM, Nov 18 2026 Crash on WB Charleston Blvd\u00A0before Pavilion Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864014/attachment_0.png",
+    "Latitude": 36.159071500000003,
+    "Longitude": -115.3307282
   }
 ]
