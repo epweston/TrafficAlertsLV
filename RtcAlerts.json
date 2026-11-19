@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63167,
-    "Timestamp": "2026-11-18 09:07",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rancho Dr",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "3 Right lanes blocked.",
-    "Notes": "9:07 AM, Nov 18 2026 Crash on SB Rancho Dr\u00A0before Charleston Blvd. 3 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862447/attachment_0.jpg",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
-    "UniqueId": 63168,
-    "Timestamp": "2026-11-18 09:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "9:11 AM, Nov 18 2026 Crash on SB Eastern Ave\u00A0at Harmon Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862453/attachment_0.png",
-    "Latitude": 36.107308699999997,
-    "Longitude": -115.11909540000001
-  },
-  {
-    "UniqueId": 63169,
-    "Timestamp": "2026-11-18 09:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "9:38 AM, Nov 18 2026 Crash on WB Flamingo Rd\u00A0before Las Vegas Blvd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862540/attachment_0.png",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
-    "UniqueId": 63170,
-    "Timestamp": "2026-11-18 09:43",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:43 AM, Nov 18 2026 Police activity on WB Cheyenne Ave\u00A0at Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862563/attachment_0.jpg",
-    "Latitude": 36.217751300000003,
-    "Longitude": -115.1611446
-  },
-  {
     "UniqueId": 63171,
     "Timestamp": "2026-11-18 10:22",
     "IncidentType": "Police activity",
@@ -1762,5 +1706,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864895/attachment_0.png",
     "Latitude": 36.167891848962327,
     "Longitude": -115.11588871479036
+  },
+  {
+    "UniqueId": 63297,
+    "Timestamp": "2026-11-19 10:09",
+    "IncidentType": "Vehicle on fire",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "10:09 AM, Nov 19 2026 Vehicle on fire on WB 215 Southern Beltway\u00A0at Decatur Blvd Offramp. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865049/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
