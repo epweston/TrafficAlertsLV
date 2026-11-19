@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63147,
-    "Timestamp": "2026-11-18 06:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Center lane blocked.",
-    "Notes": "6:52 AM, Nov 18 2026 Crash on SB I-11\u00A0before Summerlin Pkwy. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862140/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
     "UniqueId": 63148,
     "Timestamp": "2026-11-18 06:57",
     "IncidentType": "Stalled vehicle",
@@ -1902,5 +1888,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864388/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 63287,
+    "Timestamp": "2026-11-19 06:53",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "Commerce St",
+    "Impact": "",
+    "Notes": "6:53 AM, Nov 19 2026 Crash on WB Cheyenne Ave\u00A0at Commerce St. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864411/attachment_0.png",
+    "Latitude": 36.217951139681212,
+    "Longitude": -115.14308631629875
   }
 ]
