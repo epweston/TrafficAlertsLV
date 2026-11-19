@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63124,
-    "Timestamp": "2026-11-18 00:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Robindale Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:02 AM, Nov 18 2026 Crash on SB Rainbow Blvd\u00A0at Robindale Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3861814/attachment_0.png",
-    "Latitude": 36.04851352,
-    "Longitude": -115.24323998
-  },
-  {
     "UniqueId": 63129,
     "Timestamp": "2026-11-18 01:20",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864066/attachment_0.png",
     "Latitude": 36.225338465005997,
     "Longitude": -115.08024188900795
+  },
+  {
+    "UniqueId": 63263,
+    "Timestamp": "2026-11-19 00:49",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "12:49 AM, Nov 19 2026 Crash on NB Paradise Rd\u00A0at Flamingo Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864088/attachment_0.png",
+    "Latitude": 36.114312130000002,
+    "Longitude": -115.15402971
   }
 ]
