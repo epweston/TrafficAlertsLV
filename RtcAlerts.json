@@ -1748,5 +1748,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864038/attachment_0.png",
     "Latitude": 36.158866499999988,
     "Longitude": -115.08010710000001
+  },
+  {
+    "UniqueId": 63242,
+    "Timestamp": "2026-11-18 18:27",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:27 PM, Nov 18 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864039/attachment_0.png",
+    "Latitude": 36.025615794939291,
+    "Longitude": -115.22575744025848
+  },
+  {
+    "UniqueId": 63243,
+    "Timestamp": "2026-11-18 18:28",
+    "IncidentType": "Update Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "All lanes are open.",
+    "Notes": "6:28 PM, Nov 18 2026 Update Crash on NB I-15\u00A0before Sahara Ave. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 63244,
+    "Timestamp": "2026-11-18 18:29",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "All lanes are open.",
+    "Notes": "6:29 PM, Nov 18 2026 Update Crash on SB 215 Western Beltway\u00A0before Sunset Rd. All lanes are open.",
+    "ImagePath": "",
+    "Latitude": 36.070274645187922,
+    "Longitude": -115.28855877956086
   }
 ]
