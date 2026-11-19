@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63192,
-    "Timestamp": "2026-11-18 12:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 6",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:59 PM, Nov 18 2026 Stalled vehicle on SB I-15\u00A0at Mile 6. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863686/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 63193,
     "Timestamp": "2026-11-18 13:23",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865437/attachment_0.png",
     "Latitude": 36.111674800000003,
     "Longitude": -115.1731119
+  },
+  {
+    "UniqueId": 63318,
+    "Timestamp": "2026-11-19 12:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Patrick Lane",
+    "Impact": "Intersection partially blocked Expect Delays",
+    "Notes": "12:53 PM, Nov 19 2026 Crash on SB Durango Dr\u00A0at Patrick Lane. Intersection partially blocked Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865446/attachment_0.jpg",
+    "Latitude": 36.077816599999998,
+    "Longitude": -115.2793569
+  },
+  {
+    "UniqueId": 63320,
+    "Timestamp": "2026-11-19 12:56",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Maryland Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "Oakey Blvd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "12:56 PM, Nov 19 2026 Crash on NB Maryland Pkwy\u00A0at Oakey Blvd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865449/attachment_0.jpg",
+    "Latitude": 36.151564899999997,
+    "Longitude": -115.13692880000001
   }
 ]
