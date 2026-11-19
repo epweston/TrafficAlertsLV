@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63106,
-    "Timestamp": "2026-11-17 17:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:34 PM, Nov 17 2026 Crash on NB I-15\u00A0before Charleston Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861751/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
     "UniqueId": 63107,
     "Timestamp": "2026-11-17 17:46",
     "IncidentType": "Crash",
@@ -1706,5 +1692,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863917/attachment_0.png",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 63232,
+    "Timestamp": "2026-11-18 17:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Maule Ave",
+    "Relationship": "after",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Multiple lanes blocked.",
+    "Notes": "5:31 PM, Nov 18 2026 Crash on EB Maule Ave\u00A0after Durango Dr. Multiple lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864005/attachment_0.png",
+    "Latitude": 36.061145799999998,
+    "Longitude": -115.27935549999999
+  },
+  {
+    "UniqueId": 63233,
+    "Timestamp": "2026-11-18 17:33",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Left shoulder.",
+    "Notes": "5:33 PM, Nov 18 2026 Crash on WB 215 Southern Beltway\u00A0at I-15. Left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864007/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
+  },
+  {
+    "UniqueId": 63234,
+    "Timestamp": "2026-11-18 17:34",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder.",
+    "Notes": "5:34 PM, Nov 18 2026 Crash on EB 215 Southern Beltway\u00A0at I-15. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864021/attachment_0.png",
+    "Latitude": 36.063556878517637,
+    "Longitude": -115.18083173887375
   }
 ]
