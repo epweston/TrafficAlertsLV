@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63098,
-    "Timestamp": "2026-11-17 16:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Primm Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:48 PM, Nov 17 2026 Crash on SB I-15\u00A0at Primm Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861740/attachment_0.png",
-    "Latitude": 35.607225398050609,
-    "Longitude": -115.39131394316021
-  },
-  {
     "UniqueId": 63099,
     "Timestamp": "2026-11-17 16:50",
     "IncidentType": "Crash",
@@ -1664,5 +1650,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863988/attachment_0.png",
     "Latitude": 36.158978791794347,
     "Longitude": -115.33726757257516
+  },
+  {
+    "UniqueId": 63221,
+    "Timestamp": "2026-11-18 16:42",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "before",
+    "CrossStreet": "Mojave Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "4:42 PM, Nov 18 2026 Crash on EB Sahara Ave\u00A0before Mojave Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863905/attachment_0.png",
+    "Latitude": 36.144273800000001,
+    "Longitude": -115.1054261
   }
 ]
