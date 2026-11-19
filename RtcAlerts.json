@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63099,
-    "Timestamp": "2026-11-17 16:50",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cactus Ave",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "4:50 PM, Nov 17 2026 Crash on EB Cactus Ave\u00A0at Jones Blvd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861741/attachment_0.png",
-    "Latitude": 35.998667191475242,
-    "Longitude": -115.22549452599732
-  },
-  {
-    "UniqueId": 63100,
-    "Timestamp": "2026-11-17 16:52",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "before",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:52 PM, Nov 17 2026 Crash on SB Eastern Ave\u00A0before Warm Springs Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861736/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
-    "UniqueId": 63101,
-    "Timestamp": "2026-11-17 16:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "WB left lane blocked. NB right lane blocked.",
-    "Notes": "4:52 PM, Nov 17 2026 Crash on NB Nellis Blvd\u00A0at Lake Mead Blvd. WB left lane blocked. NB right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861758/attachment_0.jpg",
-    "Latitude": 36.196209164023024,
-    "Longitude": -115.06218552589418
-  },
-  {
-    "UniqueId": 63102,
-    "Timestamp": "2026-11-17 16:57",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:57 PM, Nov 17 2026 Crash on WB Washington Ave\u00A0after Rancho Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861743/attachment_0.png",
-    "Latitude": 36.181090300000008,
-    "Longitude": -115.1791041
-  },
-  {
     "UniqueId": 63103,
     "Timestamp": "2026-11-17 17:04",
     "IncidentType": "Crash",
@@ -1662,6 +1606,20 @@
     "Impact": "2 Left lanes blocked.",
     "Notes": "4:42 PM, Nov 18 2026 Crash on EB Sahara Ave\u00A0before Mojave Rd. 2 Left lanes blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863905/attachment_0.png",
+    "Latitude": 36.144273800000001,
+    "Longitude": -115.1054261
+  },
+  {
+    "UniqueId": 63222,
+    "Timestamp": "2026-11-18 16:54",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "at",
+    "CrossStreet": "Mojave Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:54 PM, Nov 18 2026 Crash on EB Sahara Ave\u00A0at Mojave Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863907/attachment_0.png",
     "Latitude": 36.144273800000001,
     "Longitude": -115.1054261
   }
