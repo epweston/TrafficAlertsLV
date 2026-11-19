@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63187,
-    "Timestamp": "2026-11-18 12:14",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "El Capitan Way",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "12:14 PM, Nov 18 2026 Crash on WB El Capitan Way\u00A0at Tropicana Ave. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863220/attachment_0.png",
-    "Latitude": 36.100044199999999,
-    "Longitude": -115.28829070000001
-  },
-  {
-    "UniqueId": 63188,
-    "Timestamp": "2026-11-18 12:22",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "at",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:22 PM, Nov 18 2026 Crash on SB Boulder Hwy\u00A0at Warm Springs Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863436/attachment_0.png",
-    "Latitude": 36.050488209999997,
-    "Longitude": -114.99459184
-  },
-  {
     "UniqueId": 63189,
     "Timestamp": "2026-11-18 12:26",
     "IncidentType": "Crash",
@@ -1636,5 +1608,61 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865285/attachment_0.png",
     "Latitude": 36.177835743591984,
     "Longitude": -115.28722561818798
+  },
+  {
+    "UniqueId": 63308,
+    "Timestamp": "2026-11-19 12:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:18 PM, Nov 19 2026 Crash on NB Lamb Blvd\u00A0at Charleston Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865336/attachment_0.png",
+    "Latitude": 36.158866499999988,
+    "Longitude": -115.08010710000001
+  },
+  {
+    "UniqueId": 63309,
+    "Timestamp": "2026-11-19 12:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Joe W Brown Dr",
+    "Relationship": "at",
+    "CrossStreet": "Liberace Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:18 PM, Nov 19 2026 Crash on NB Joe W Brown Dr\u00A0at Liberace Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865304/attachment_0.jpg",
+    "Latitude": 36.1402894,
+    "Longitude": -115.1518124
+  },
+  {
+    "UniqueId": 63310,
+    "Timestamp": "2026-11-19 12:20",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:20 PM, Nov 19 2026 Stalled vehicle on SB I-11\u00A0at Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865306/attachment_0.png",
+    "Latitude": 36.083251347122911,
+    "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 63311,
+    "Timestamp": "2026-11-19 12:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "St Rose Pkwy",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "12:20 PM, Nov 19 2026 Crash on SB I-15\u00A0before St Rose Pkwy. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865308/attachment_0.png",
+    "Latitude": 35.962029259465844,
+    "Longitude": -115.18155555355972
   }
 ]
