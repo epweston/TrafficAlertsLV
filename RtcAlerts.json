@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63094,
-    "Timestamp": "2026-11-17 16:20",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:20 PM, Nov 17 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861708/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
-    "UniqueId": 63095,
-    "Timestamp": "2026-11-17 16:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left lanes blocked.",
-    "Notes": "4:34 PM, Nov 17 2026 Crash on NB Las Vegas Blvd\u00A0after St Rose Pkwy. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861727/attachment_0.jpg",
-    "Latitude": 35.965910958046543,
-    "Longitude": -115.17285344363151
-  },
-  {
-    "UniqueId": 63096,
-    "Timestamp": "2026-11-17 16:35",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:35 PM, Nov 17 2026 Stalled vehicle on NB I-15\u00A0at Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861715/attachment_0.jpg",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 63097,
-    "Timestamp": "2026-11-17 16:37",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:37 PM, Nov 17 2026 Crash on WB Summerlin Pkwy\u00A0before Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861730/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 63098,
     "Timestamp": "2026-11-17 16:48",
     "IncidentType": "Crash",
@@ -1678,5 +1622,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863897/attachment_0.png",
     "Latitude": 36.1147414,
     "Longitude": -115.1238652
+  },
+  {
+    "UniqueId": 63218,
+    "Timestamp": "2026-11-18 16:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Audrie St",
+    "Relationship": "at",
+    "CrossStreet": "Paris Dr",
+    "Impact": "Center lane blocked.",
+    "Notes": "4:33 PM, Nov 18 2026 Crash on SB Audrie St\u00A0at Paris Dr. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863984/attachment_0.png",
+    "Latitude": 36.111336299999998,
+    "Longitude": -115.16761010000001
+  },
+  {
+    "UniqueId": 63219,
+    "Timestamp": "2026-11-18 16:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fremont St",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:35 PM, Nov 18 2026 Crash on SB Fremont St\u00A0at Charleston Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863904/attachment_0.png",
+    "Latitude": 36.158918499999999,
+    "Longitude": -115.11649490000001
   }
 ]
