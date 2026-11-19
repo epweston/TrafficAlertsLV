@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63153,
-    "Timestamp": "2026-11-18 07:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:42 AM, Nov 18 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave Offramp. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862229/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 63154,
-    "Timestamp": "2026-11-18 07:47",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:47 AM, Nov 18 2026 Police activity on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862239/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 63155,
     "Timestamp": "2026-11-18 07:57",
     "IncidentType": "Crash",
@@ -1846,5 +1818,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864517/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 63289,
+    "Timestamp": "2026-11-19 07:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Badura Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:42 AM, Nov 19 2026 Crash on NB Durango Dr\u00A0at Badura Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864549/attachment_0.png",
+    "Latitude": 36.061145799999998,
+    "Longitude": -115.27935549999999
+  },
+  {
+    "UniqueId": 63290,
+    "Timestamp": "2026-11-19 07:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Buffalo Dr",
+    "Impact": "Center lane blocked. Expect Delays",
+    "Notes": "7:44 AM, Nov 19 2026 Crash on EB 215 Southern Beltway\u00A0after Buffalo Dr. Center lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864552/attachment_0.png",
+    "Latitude": 36.066255059042923,
+    "Longitude": -115.26065826416017
   }
 ]
