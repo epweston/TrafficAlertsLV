@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63144,
-    "Timestamp": "2026-11-18 06:37",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:37 AM, Nov 18 2026 Stalled vehicle on SB I-15\u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3862056/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 63145,
-    "Timestamp": "2026-11-18 06:37",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Warm Springs Rd",
-    "Impact": "SB Eastern Ave Blocked Use other routes",
-    "Notes": "6:37 AM, Nov 18 2026 Crash on SB Eastern Ave\u00A0after Warm Springs Rd. SB Eastern Ave Blocked Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 63146,
     "Timestamp": "2026-11-18 06:47",
     "IncidentType": "Stalled vehicle",
@@ -1902,5 +1874,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864332/attachment_0.jpg",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 63284,
+    "Timestamp": "2026-11-19 06:37",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Desert Inn Rd",
+    "Relationship": "at",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Intersection partially blocked. Expect Delays",
+    "Notes": "6:37 AM, Nov 19 2026 Crash on EB Desert Inn Rd\u00A0at Paradise Rd. Intersection partially blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864346/attachment_0.png",
+    "Latitude": 36.129609100000003,
+    "Longitude": -115.1547559
   }
 ]
