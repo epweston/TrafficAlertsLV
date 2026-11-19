@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63104,
-    "Timestamp": "2026-11-17 17:07",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:07 PM, Nov 17 2026 Crash on WB Charleston Blvd\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861747/attachment_0.png",
-    "Latitude": 36.159173199999998,
-    "Longitude": -115.24359750000001
-  },
-  {
     "UniqueId": 63105,
     "Timestamp": "2026-11-17 17:28",
     "IncidentType": "Stalled vehicle",
@@ -1622,5 +1608,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863996/attachment_0.png",
     "Latitude": 36.083251347122911,
     "Longitude": -115.04975616931917
+  },
+  {
+    "UniqueId": 63224,
+    "Timestamp": "2026-11-18 17:04",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "before",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left shoulder blocked.",
+    "Notes": "5:04 PM, Nov 18 2026 Crash on WB Flamingo Rd\u00A0before Rainbow Blvd. Left shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863910/attachment_0.png",
+    "Latitude": 36.114502810673706,
+    "Longitude": -115.24298784809898
+  },
+  {
+    "UniqueId": 63225,
+    "Timestamp": "2026-11-18 17:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:06 PM, Nov 18 2026 Crash on SB Paradise Rd\u00A0at Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863912/attachment_0.png",
+    "Latitude": 36.108041800000002,
+    "Longitude": -115.15202669999999
+  },
+  {
+    "UniqueId": 63226,
+    "Timestamp": "2026-11-18 17:08",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "3 Right lanes blocked.",
+    "Notes": "5:08 PM, Nov 18 2026 Crash on WB Lake Mead Blvd\u00A0at Rainbow Blvd. 3 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863915/attachment_0.png",
+    "Latitude": 36.196001385231483,
+    "Longitude": -115.24201153240706
   }
 ]
