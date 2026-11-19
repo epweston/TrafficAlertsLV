@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63119,
-    "Timestamp": "2026-11-17 20:10",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Northern Beltway",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "8:10 PM, Nov 17 2026 Crash on NB Jones Blvd\u00A0at 215 Northern Beltway. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861793/attachment_0.png",
-    "Latitude": 36.1702978,
-    "Longitude": -115.2241887
-  },
-  {
     "UniqueId": 63120,
     "Timestamp": "2026-11-17 22:22",
     "IncidentType": "Crash",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864048/attachment_0.png",
     "Latitude": 36.029831199999997,
     "Longitude": -115.27875
+  },
+  {
+    "UniqueId": 63254,
+    "Timestamp": "2026-11-18 20:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "",
+    "Notes": "8:54 PM, Nov 18 2026 Stalled vehicle on NB I-15\u00A0to Flamingo Rd off-ramp Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864035/attachment_0.jpg",
+    "Latitude": 36.114494117320874,
+    "Longitude": -115.18065333366396
   }
 ]
