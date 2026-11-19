@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63191,
-    "Timestamp": "2026-11-18 12:43",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:43 PM, Nov 18 2026 Crash on WB Sahara Ave\u00A0before I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863608/attachment_0.jpg",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 63192,
     "Timestamp": "2026-11-18 12:59",
     "IncidentType": "Stalled vehicle",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865374/attachment_0.png",
     "Latitude": 36.100859441550384,
     "Longitude": -115.16388414057163
+  },
+  {
+    "UniqueId": 63313,
+    "Timestamp": "2026-11-19 12:43",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Paris Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:43 PM, Nov 19 2026 Crash on NB Las Vegas Blvd\u00A0at Paris Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865437/attachment_0.png",
+    "Latitude": 36.111674800000003,
+    "Longitude": -115.1731119
   }
 ]
