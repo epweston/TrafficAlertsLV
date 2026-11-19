@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63116,
-    "Timestamp": "2026-11-17 18:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:45 PM, Nov 17 2026 Crash on NB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861802/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 63117,
-    "Timestamp": "2026-11-17 19:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:11 PM, Nov 17 2026 Crash on EB Lake Mead Pkwy\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861804/attachment_0.png",
-    "Latitude": 36.033625694401444,
-    "Longitude": -115.0147810107534
-  },
-  {
-    "UniqueId": 63118,
-    "Timestamp": "2026-11-17 19:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Aviary Way",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:24 PM, Nov 17 2026 Stalled vehicle on SB 215 Northern Beltway\u00A0at Aviary Way. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/17/file_attachments/3861805/attachment_0.png",
-    "Latitude": 36.294506599999998,
-    "Longitude": -115.198295
-  },
-  {
     "UniqueId": 63119,
     "Timestamp": "2026-11-17 20:10",
     "IncidentType": "Crash",
@@ -1790,5 +1748,19 @@
     "ImagePath": "",
     "Latitude": 36.158866499999988,
     "Longitude": -115.08010710000001
+  },
+  {
+    "UniqueId": 63252,
+    "Timestamp": "2026-11-18 19:59",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:59 PM, Nov 18 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864034/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
