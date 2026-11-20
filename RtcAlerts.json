@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63265,
-    "Timestamp": "2026-11-19 02:17",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "2:17 AM, Nov 19 2026 Crash on EB Craig Rd\u00A0at Lamb Blvd. 3 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864120/attachment_0.png",
-    "Latitude": 36.240452876389568,
-    "Longitude": -115.08002755928754
-  },
-  {
-    "UniqueId": 63266,
-    "Timestamp": "2026-11-19 02:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:34 AM, Nov 19 2026 Crash on NB I-15\u00A0at Washington Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864108/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 63267,
-    "Timestamp": "2026-11-19 02:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "2:36 AM, Nov 19 2026 Crash on NB 15\u00A0at Sahara Ave. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864110/attachment_0.png",
-    "Latitude": 36.143591999999998,
-    "Longitude": -115.15758219999999
-  },
-  {
     "UniqueId": 63268,
     "Timestamp": "2026-11-19 02:58",
     "IncidentType": "Update Police activity",
@@ -1650,5 +1608,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865812/attachment_0.png",
     "Latitude": 41.127296600000001,
     "Longitude": -112.0255346
+  },
+  {
+    "UniqueId": 63392,
+    "Timestamp": "2026-11-20 02:52",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder",
+    "Notes": "2:52 AM, Nov 20 2026 Crash on WB 215 Southern Beltway\u00A0at Decatur Blvd off-ramp. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865845/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 63393,
+    "Timestamp": "2026-11-20 02:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "2:52 AM, Nov 20 2026 Crash on EB Sahara Ave\u00A0after Valley View Blvd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865867/attachment_0.jpg",
+    "Latitude": 36.144334299999997,
+    "Longitude": -115.1908894
   }
 ]
