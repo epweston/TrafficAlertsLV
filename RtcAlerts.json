@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63313,
-    "Timestamp": "2026-11-19 12:43",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Paris Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:43 PM, Nov 19 2026 Crash on NB Las Vegas Blvd\u00A0at Paris Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865437/attachment_0.png",
-    "Latitude": 36.111674800000003,
-    "Longitude": -115.1731119
-  },
-  {
     "UniqueId": 63318,
     "Timestamp": "2026-11-19 12:53",
     "IncidentType": "Crash",
@@ -1748,5 +1734,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866829/attachment_0.png",
     "Latitude": 36.171562999999999,
     "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 63449,
+    "Timestamp": "2026-11-20 12:42",
+    "IncidentType": "EMS",
+    "Direction": "WB",
+    "PrimaryRoad": "Charleston Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:42 PM, Nov 20 2026 EMS on WB Charleston Blvd\u00A0after Rancho Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866838/attachment_0.png",
+    "Latitude": 36.158829400000002,
+    "Longitude": -115.1728904
   }
 ]
