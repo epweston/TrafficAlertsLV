@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63260,
-    "Timestamp": "2026-11-18 22:38",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Incident clear.",
-    "Notes": "10:38 PM, Nov 18 2026 Update Crash on SB Las Vegas Blvd \u00A0before Lamb Blvd. Incident clear.",
-    "ImagePath": "",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
     "UniqueId": 63261,
     "Timestamp": "2026-11-18 23:31",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "",
     "Latitude": 36.013379,
     "Longitude": -115.15684640000001
+  },
+  {
+    "UniqueId": 63378,
+    "Timestamp": "2026-11-19 22:38",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "10:38 PM, Nov 19 2026 Crash on NB 215 Western Beltway\u00A0at Charleston Blvd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865802/attachment_0.png",
+    "Latitude": 36.158978791794347,
+    "Longitude": -115.33726757257516
   }
 ]
