@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63227,
-    "Timestamp": "2026-11-18 17:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:13 PM, Nov 18 2026 Crash on NB I-11\u00A0to Charleston Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863916/attachment_0.png",
-    "Latitude": 36.158801293307732,
-    "Longitude": -115.09162008762361
-  },
-  {
     "UniqueId": 63228,
     "Timestamp": "2026-11-18 17:16",
     "IncidentType": "Crash",
@@ -1580,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865737/attachment_0.png",
     "Latitude": 36.071319643332721,
     "Longitude": -115.15460371971132
+  },
+  {
+    "UniqueId": 63349,
+    "Timestamp": "2026-11-19 17:11",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:11 PM, Nov 19 2026 Crash on SB Las Vegas Blvd\u00A0before Craig Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865728/attachment_0.png",
+    "Latitude": 36.240517099999998,
+    "Longitude": -115.05455809999999
   }
 ]
