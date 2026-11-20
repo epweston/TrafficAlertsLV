@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63286,
-    "Timestamp": "2026-11-19 06:48",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Washington Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:48 AM, Nov 19 2026 Police activity on NB I-15\u00A0before Washington Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864388/attachment_0.png",
-    "Latitude": 36.18108189032673,
-    "Longitude": -115.14517307281496
-  },
-  {
-    "UniqueId": 63287,
-    "Timestamp": "2026-11-19 06:53",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "at",
-    "CrossStreet": "Commerce St",
-    "Impact": "",
-    "Notes": "6:53 AM, Nov 19 2026 Crash on WB Cheyenne Ave\u00A0at Commerce St. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864411/attachment_0.png",
-    "Latitude": 36.217951139681212,
-    "Longitude": -115.14308631629875
-  },
-  {
     "UniqueId": 63288,
     "Timestamp": "2026-11-19 07:34",
     "IncidentType": "Stalled vehicle",
@@ -1552,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866098/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 63406,
+    "Timestamp": "2026-11-20 06:48",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "Polaris Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:48 AM, Nov 20 2026 Crash on EB Spring Mountain Rd\u00A0at Polaris Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866091/attachment_0.png",
+    "Latitude": 36.126371617007422,
+    "Longitude": -115.18552422104025
   }
 ]
