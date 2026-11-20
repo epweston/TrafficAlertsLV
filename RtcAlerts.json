@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63320,
-    "Timestamp": "2026-11-19 12:56",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Oakey Blvd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "12:56 PM, Nov 19 2026 Crash on NB Maryland Pkwy\u00A0at Oakey Blvd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865449/attachment_0.jpg",
-    "Latitude": 36.151564899999997,
-    "Longitude": -115.13692880000001
-  },
-  {
-    "UniqueId": 63321,
-    "Timestamp": "2026-11-19 12:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "12:58 PM, Nov 19 2026 Crash on WB Craig Rd\u00A0before Decatur Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865467/attachment_0.jpg",
-    "Latitude": 36.238838299999998,
-    "Longitude": -115.2077288
-  },
-  {
     "UniqueId": 63322,
     "Timestamp": "2026-11-19 13:26",
     "IncidentType": "Crash",
@@ -1762,5 +1734,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866864/attachment_0.png",
     "Latitude": 36.258176810000002,
     "Longitude": -115.07981305
+  },
+  {
+    "UniqueId": 63454,
+    "Timestamp": "2026-11-20 12:52",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Audrie St",
+    "Impact": "",
+    "Notes": "12:52 PM, Nov 20 2026 Crash on NB Las Vegas Blvd\u00A0before Audrie St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866848/attachment_0.png",
+    "Latitude": 36.113137600000002,
+    "Longitude": -115.1727995
+  },
+  {
+    "UniqueId": 63456,
+    "Timestamp": "2026-11-20 12:55",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "before",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:55 PM, Nov 20 2026 Crash on NB Boulder Hwy\u00A0before Twain Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866849/attachment_0.png",
+    "Latitude": 36.123068099999998,
+    "Longitude": -115.07616419999999
   }
 ]
