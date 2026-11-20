@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 63268,
-    "Timestamp": "2026-11-19 02:58",
-    "IncidentType": "Update Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "",
-    "Notes": "2:58 AM, Nov 19 2026 Update Police activity on NB I-15\u00A0to Harmon Ave off-ramp Ramp is open again.",
-    "ImagePath": "",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
-    "UniqueId": 63269,
-    "Timestamp": "2026-11-19 02:59",
-    "IncidentType": "Update Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Eb Flamingo Rd",
-    "Impact": "Ramp is open again.",
-    "Notes": "2:59 AM, Nov 19 2026 Update Police activity on SB I-15\u00A0to EB Flamingo Rd off-ramp. Ramp is open again.",
-    "ImagePath": "",
-    "Latitude": 36.114692900000001,
-    "Longitude": -115.25693800000001
-  },
-  {
-    "UniqueId": 63270,
-    "Timestamp": "2026-11-19 02:59",
-    "IncidentType": "Update Police activity",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Mel Torme Way",
-    "Impact": "All lanes are open.",
-    "Notes": "2:59 AM, Nov 19 2026 Update Police activity on EB Spring Mountain Rd\u00A0at Mel Torme Way. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.12558859559698,
-    "Longitude": -115.17317023475012
-  },
-  {
-    "UniqueId": 63271,
-    "Timestamp": "2026-11-19 03:21",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:21 AM, Nov 19 2026 Stalled vehicle on NB I-15\u00A0at Charleston Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864139/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 63272,
-    "Timestamp": "2026-11-19 03:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Left shoulder blocked Right shoulder blocked.",
-    "Notes": "3:29 AM, Nov 19 2026 Crash on SB I-11\u00A0before Valley View Blvd. Left shoulder blocked Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864159/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
     "UniqueId": 63273,
     "Timestamp": "2026-11-19 05:07",
     "IncidentType": "Crash",
@@ -1636,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865867/attachment_0.jpg",
     "Latitude": 36.144334299999997,
     "Longitude": -115.1908894
+  },
+  {
+    "UniqueId": 63394,
+    "Timestamp": "2026-11-20 04:15",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "4:15 AM, Nov 20 2026 Crash on NB Pecos Rd\u00A0at Flamingo Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865879/attachment_0.png",
+    "Latitude": 36.115229108250666,
+    "Longitude": -115.1008588881996
   }
 ]
