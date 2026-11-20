@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63237,
-    "Timestamp": "2026-11-18 17:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Left shoulder.",
-    "Notes": "5:50 PM, Nov 18 2026 Stalled vehicle on NB I-11\u00A0at Summerlin Pkwy. Left shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864012/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
-    "UniqueId": 63238,
-    "Timestamp": "2026-11-18 17:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Pavilion Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:51 PM, Nov 18 2026 Crash on WB Charleston Blvd\u00A0before Pavilion Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864014/attachment_0.png",
-    "Latitude": 36.159071500000003,
-    "Longitude": -115.3307282
-  },
-  {
     "UniqueId": 63239,
     "Timestamp": "2026-11-18 18:12",
     "IncidentType": "Crash",
@@ -1482,5 +1454,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865743/attachment_0.jpg",
     "Latitude": 36.176691302008486,
     "Longitude": -115.24369620296332
+  },
+  {
+    "UniqueId": 63352,
+    "Timestamp": "2026-11-19 17:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "5:44 PM, Nov 19 2026 Crash on SB I-11\u00A0at I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865744/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
