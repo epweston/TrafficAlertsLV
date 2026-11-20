@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63289,
-    "Timestamp": "2026-11-19 07:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Badura Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:42 AM, Nov 19 2026 Crash on NB Durango Dr\u00A0at Badura Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864549/attachment_0.png",
-    "Latitude": 36.061145799999998,
-    "Longitude": -115.27935549999999
-  },
-  {
-    "UniqueId": 63290,
-    "Timestamp": "2026-11-19 07:44",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Center lane blocked. Expect Delays",
-    "Notes": "7:44 AM, Nov 19 2026 Crash on EB 215 Southern Beltway\u00A0after Buffalo Dr. Center lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864552/attachment_0.png",
-    "Latitude": 36.066255059042923,
-    "Longitude": -115.26065826416017
-  },
-  {
     "UniqueId": 63291,
     "Timestamp": "2026-11-19 07:54",
     "IncidentType": "Crash",
@@ -1594,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866152/attachment_0.jpg",
     "Latitude": 36.283791600000001,
     "Longitude": -115.17734640000001
+  },
+  {
+    "UniqueId": 63412,
+    "Timestamp": "2026-11-20 07:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Spring Mountain Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:48 AM, Nov 20 2026 Stalled vehicle on NB I-15\u00A0before Spring Mountain Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866199/attachment_0.png",
+    "Latitude": 36.126141958848514,
+    "Longitude": -115.18059230343664
   }
 ]
