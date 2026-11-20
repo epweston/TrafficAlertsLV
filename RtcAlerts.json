@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63257,
-    "Timestamp": "2026-11-18 22:13",
-    "IncidentType": "Police activity",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "10:13 PM, Nov 18 2026 Police activity on WB Flamingo Rd\u00A0before Paradise Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864054/attachment_0.jpg",
-    "Latitude": 36.114320797279156,
-    "Longitude": -115.15402971020316
-  },
-  {
-    "UniqueId": 63258,
-    "Timestamp": "2026-11-18 22:16",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lanes blocked.",
-    "Notes": "10:16 PM, Nov 18 2026 Crash on SB Las Vegas Blvd \u00A0before Lamb Blvd. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864059/attachment_0.png",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
-    "UniqueId": 63259,
-    "Timestamp": "2026-11-18 22:19",
-    "IncidentType": "Update Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Incident clear.",
-    "Notes": "10:19 PM, Nov 18 2026 Update Police activity on SB I-11\u00A0to Eastern Ave off-ramp. Incident clear.",
-    "ImagePath": "",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 63260,
     "Timestamp": "2026-11-18 22:38",
     "IncidentType": "Update Crash",
@@ -1608,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865800/attachment_0.png",
     "Latitude": 36.17462138583204,
     "Longitude": -115.1416003704071
+  },
+  {
+    "UniqueId": 63377,
+    "Timestamp": "2026-11-19 22:19",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Silverado Ranch Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Fairfield Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:19 PM, Nov 19 2026 Crash on EB Silverado Ranch Blvd\u00A0at Fairfield Ave. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.013379,
+    "Longitude": -115.15684640000001
   }
 ]
