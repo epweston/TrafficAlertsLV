@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63328,
-    "Timestamp": "2026-11-19 14:58",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Hacienda Ave",
-    "Relationship": "after",
-    "CrossStreet": "Lindell Rd",
-    "Impact": "All EB and WB lanes are blocked.",
-    "Notes": "2:58 PM, Nov 19 2026 Crash on WB Hacienda Ave\u00A0after Lindell Rd. All EB and WB lanes are blocked.",
-    "ImagePath": "",
-    "Latitude": 36.093176300000003,
-    "Longitude": -115.2165763
-  },
-  {
-    "UniqueId": 63329,
-    "Timestamp": "2026-11-19 15:01",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:01 PM, Nov 19 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865620/attachment_0.png",
-    "Latitude": 36.174080704632161,
-    "Longitude": -115.22413728104496
-  },
-  {
-    "UniqueId": 63330,
-    "Timestamp": "2026-11-19 15:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Linn Ln",
-    "Impact": "Right lanes blocked. Expect Delays",
-    "Notes": "3:11 PM, Nov 19 2026 Crash on EB Lake Mead Blvd\u00A0at Linn Ln. Right lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865653/attachment_0.jpg",
-    "Latitude": 36.196227499999999,
-    "Longitude": -115.04824069999999
-  },
-  {
     "UniqueId": 63331,
     "Timestamp": "2026-11-19 15:48",
     "IncidentType": "Crash",
@@ -1832,5 +1790,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867012/attachment_0.png",
     "Latitude": 36.196054784798598,
     "Longitude": -115.24447712475862
+  },
+  {
+    "UniqueId": 63468,
+    "Timestamp": "2026-11-20 15:33",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "I-15",
+    "Impact": "Center lane blocked.",
+    "Notes": "3:33 PM, Nov 20 2026 Crash on SB I-11\u00A0before I-15. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867056/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 63469,
+    "Timestamp": "2026-11-20 15:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Far Hills Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:34 PM, Nov 20 2026 Crash on SB 215 Western Beltway\u00A0at Far Hills Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867058/attachment_0.png",
+    "Latitude": 36.181486768045396,
+    "Longitude": -115.34132270562058
   }
 ]
