@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63255,
-    "Timestamp": "2026-11-18 21:35",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:35 PM, Nov 18 2026 Police activity on SB I-11\u00A0to Eastern Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864036/attachment_0.png",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 63256,
     "Timestamp": "2026-11-18 21:59",
     "IncidentType": "Update Crash",
@@ -1566,5 +1552,33 @@
     "ImagePath": "",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 63372,
+    "Timestamp": "2026-11-19 21:31",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:31 PM, Nov 19 2026 Stalled vehicle on SB I-15\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865788/attachment_0.png",
+    "Latitude": 36.063705299035611,
+    "Longitude": -115.18077135086061
+  },
+  {
+    "UniqueId": 63373,
+    "Timestamp": "2026-11-19 21:33",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:33 PM, Nov 19 2026 Crash on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865774/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
