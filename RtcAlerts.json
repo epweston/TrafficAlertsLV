@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63288,
-    "Timestamp": "2026-11-19 07:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Horizon Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:34 AM, Nov 19 2026 Stalled vehicle on SB I-11\u00A0before Horizon Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864517/attachment_0.png",
-    "Latitude": 36.011871323210563,
-    "Longitude": -114.99005374546798
-  },
-  {
     "UniqueId": 63289,
     "Timestamp": "2026-11-19 07:42",
     "IncidentType": "Crash",
@@ -1594,5 +1580,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866145/attachment_0.png",
     "Latitude": 36.158593400000001,
     "Longitude": -115.15435890000001
+  },
+  {
+    "UniqueId": 63411,
+    "Timestamp": "2026-11-20 07:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Aliante Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Center lane blocked.",
+    "Notes": "7:28 AM, Nov 20 2026 Stalled vehicle on SB Aliante Pkwy\u00A0at 215 Northern Beltway. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866152/attachment_0.jpg",
+    "Latitude": 36.283791600000001,
+    "Longitude": -115.17734640000001
   }
 ]
