@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63324,
-    "Timestamp": "2026-11-19 13:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "University Center Dr",
-    "Relationship": "before",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "1:44 PM, Nov 19 2026 Crash on NB University Center Dr\u00A0before Harmon Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865527/attachment_0.jpg",
-    "Latitude": 36.108017699999998,
-    "Longitude": -115.1504278
-  },
-  {
     "UniqueId": 63325,
     "Timestamp": "2026-11-19 13:50",
     "IncidentType": "Crash",
@@ -1790,5 +1776,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866936/attachment_0.png",
     "Latitude": 36.167848542478005,
     "Longitude": -115.11594772338869
+  },
+  {
+    "UniqueId": 63461,
+    "Timestamp": "2026-11-20 13:45",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Civic Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:45 PM, Nov 20 2026 Crash on EB Lake Mead Blvd\u00A0before Civic Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866931/attachment_0.png",
+    "Latitude": 36.195946300000003,
+    "Longitude": -115.11643030000001
   }
 ]
