@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63220,
-    "Timestamp": "2026-11-18 16:40",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:40 PM, Nov 18 2026 Crash on NB 215 Western Beltway\u00A0after Charleston Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863988/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
-    "UniqueId": 63221,
-    "Timestamp": "2026-11-18 16:42",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "4:42 PM, Nov 18 2026 Crash on EB Sahara Ave\u00A0before Mojave Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863905/attachment_0.png",
-    "Latitude": 36.144273800000001,
-    "Longitude": -115.1054261
-  },
-  {
     "UniqueId": 63222,
     "Timestamp": "2026-11-18 16:54",
     "IncidentType": "Crash",
@@ -1580,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865717/attachment_0.png",
     "Latitude": 36.100994,
     "Longitude": -115.1639284
+  },
+  {
+    "UniqueId": 63342,
+    "Timestamp": "2026-11-19 16:41",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:41 PM, Nov 19 2026 Crash on EB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865720/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
