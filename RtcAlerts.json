@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63263,
-    "Timestamp": "2026-11-19 00:49",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:49 AM, Nov 19 2026 Crash on NB Paradise Rd\u00A0at Flamingo Rd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864088/attachment_0.png",
-    "Latitude": 36.114312130000002,
-    "Longitude": -115.15402971
-  },
-  {
     "UniqueId": 63264,
     "Timestamp": "2026-11-19 01:09",
     "IncidentType": "Crash",
@@ -1622,5 +1608,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865807/attachment_0.jpg",
     "Latitude": 36.119828607813716,
     "Longitude": -115.18136144208732
+  },
+  {
+    "UniqueId": 63388,
+    "Timestamp": "2026-11-20 00:51",
+    "IncidentType": "Update Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Incident clear.",
+    "Notes": "12:51 AM, Nov 20 2026 Update Police activity on SB Frank Sinatra Dr\u00A0at Russell Rd. Incident clear.",
+    "ImagePath": "",
+    "Latitude": 36.086073599999999,
+    "Longitude": -115.1757181
+  },
+  {
+    "UniqueId": 63389,
+    "Timestamp": "2026-11-20 00:51",
+    "IncidentType": "Update Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "after",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Incident clear.",
+    "Notes": "12:51 AM, Nov 20 2026 Update Crash on SB Dean Martin Dr\u00A0after Twain Ave. Incident clear.",
+    "ImagePath": "",
+    "Latitude": 36.119828607813716,
+    "Longitude": -115.18136144208732
+  },
+  {
+    "UniqueId": 63390,
+    "Timestamp": "2026-11-20 00:52",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sahara Ave",
+    "Relationship": "after",
+    "CrossStreet": "Valley View Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:52 AM, Nov 20 2026 Crash on EB Sahara Ave\u00A0after Valley View Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865810/attachment_0.png",
+    "Latitude": 36.144334299999997,
+    "Longitude": -115.1908894
   }
 ]
