@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63318,
-    "Timestamp": "2026-11-19 12:53",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Patrick Lane",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "12:53 PM, Nov 19 2026 Crash on SB Durango Dr\u00A0at Patrick Lane. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865446/attachment_0.jpg",
-    "Latitude": 36.077816599999998,
-    "Longitude": -115.2793569
-  },
-  {
     "UniqueId": 63320,
     "Timestamp": "2026-11-19 12:56",
     "IncidentType": "Crash",
@@ -1748,5 +1734,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866838/attachment_0.png",
     "Latitude": 36.158829400000002,
     "Longitude": -115.1728904
+  },
+  {
+    "UniqueId": 63451,
+    "Timestamp": "2026-11-20 12:49",
+    "IncidentType": "EMS",
+    "Direction": "NB",
+    "PrimaryRoad": "University Center Dr",
+    "Relationship": "at",
+    "CrossStreet": "Sierra Vista Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:49 PM, Nov 20 2026 EMS on NB University Center Dr\u00A0at Sierra Vista Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866863/attachment_0.png",
+    "Latitude": 36.1269274,
+    "Longitude": -115.1460917
+  },
+  {
+    "UniqueId": 63453,
+    "Timestamp": "2026-11-20 12:50",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Lamb Blvd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:50 PM, Nov 20 2026 Crash on SB Lamb Blvd\u00A0at I-15. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866864/attachment_0.png",
+    "Latitude": 36.258176810000002,
+    "Longitude": -115.07981305
   }
 ]
