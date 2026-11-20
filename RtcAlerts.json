@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63239,
-    "Timestamp": "2026-11-18 18:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:12 PM, Nov 18 2026 Crash on NB I-15\u00A0before Sahara Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864016/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 63240,
-    "Timestamp": "2026-11-18 18:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder",
-    "Notes": "6:23 PM, Nov 18 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864027/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 63241,
-    "Timestamp": "2026-11-18 18:24",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "All southbound lanes are blocked.",
-    "Notes": "6:24 PM, Nov 18 2026 Crash on SB Lamb Blvd\u00A0at Charleston Blvd. All southbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864038/attachment_0.png",
-    "Latitude": 36.158866499999988,
-    "Longitude": -115.08010710000001
-  },
-  {
     "UniqueId": 63242,
     "Timestamp": "2026-11-18 18:27",
     "IncidentType": "Crash",
@@ -1482,5 +1440,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865746/attachment_0.jpg",
     "Latitude": 36.089409500000002,
     "Longitude": -115.1461541
+  },
+  {
+    "UniqueId": 63354,
+    "Timestamp": "2026-11-19 18:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:20 PM, Nov 19 2026 Crash on SB I-11\u00A0to I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865747/attachment_0.png",
+    "Latitude": 36.174201411171254,
+    "Longitude": -115.1549688891995
   }
 ]
