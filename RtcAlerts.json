@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 63242,
-    "Timestamp": "2026-11-18 18:27",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:27 PM, Nov 18 2026 Crash on WB Blue Diamond Rd\u00A0at Jones Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864039/attachment_0.png",
-    "Latitude": 36.025615794939291,
-    "Longitude": -115.22575744025848
-  },
-  {
-    "UniqueId": 63243,
-    "Timestamp": "2026-11-18 18:28",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "All lanes are open.",
-    "Notes": "6:28 PM, Nov 18 2026 Update Crash on NB I-15\u00A0before Sahara Ave. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 63244,
-    "Timestamp": "2026-11-18 18:29",
-    "IncidentType": "Update Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "All lanes are open.",
-    "Notes": "6:29 PM, Nov 18 2026 Update Crash on SB 215 Western Beltway\u00A0before Sunset Rd. All lanes are open.",
-    "ImagePath": "",
-    "Latitude": 36.070274645187922,
-    "Longitude": -115.28855877956086
-  },
-  {
-    "UniqueId": 63245,
-    "Timestamp": "2026-11-18 18:31",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Incident clear.",
-    "Notes": "6:31 PM, Nov 18 2026 Update Crash on NB Flamingo Rd\u00A0after Nellis Blvd. Incident clear.",
-    "ImagePath": "",
-    "Latitude": 36.114871200000003,
-    "Longitude": -115.0647175
-  },
-  {
-    "UniqueId": 63246,
-    "Timestamp": "2026-11-18 18:31",
-    "IncidentType": "Update Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Nellis Blvd",
-    "Impact": "Incident clear.",
-    "Notes": "6:31 PM, Nov 18 2026 Update Crash on NB Flamingo Rd\u00A0after Nellis Blvd. Incident clear.",
-    "ImagePath": "",
-    "Latitude": 36.114871200000003,
-    "Longitude": -115.0647175
-  },
-  {
     "UniqueId": 63247,
     "Timestamp": "2026-11-18 18:39",
     "IncidentType": "Update Crash",
@@ -1454,5 +1384,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865747/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 63355,
+    "Timestamp": "2026-11-19 18:25",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "On-ramp Right lane blocked.",
+    "Notes": "6:25 PM, Nov 19 2026 Crash on SB I-11\u00A0at Sunset Rd. On-ramp Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865762/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
