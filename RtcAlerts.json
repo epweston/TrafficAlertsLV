@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63264,
-    "Timestamp": "2026-11-19 01:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Hotel Rio Dr",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:09 AM, Nov 19 2026 Crash on SB Hotel Rio Dr\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864090/attachment_0.png",
-    "Latitude": 36.115285299999996,
-    "Longitude": -115.18716740000001
-  },
-  {
     "UniqueId": 63265,
     "Timestamp": "2026-11-19 02:17",
     "IncidentType": "Crash",
@@ -1650,5 +1636,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865810/attachment_0.png",
     "Latitude": 36.144334299999997,
     "Longitude": -115.1908894
+  },
+  {
+    "UniqueId": 63391,
+    "Timestamp": "2026-11-20 01:02",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15 Collector Distributor",
+    "Relationship": "before",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Left lane blocked.",
+    "Notes": "1:02 AM, Nov 20 2026 Stalled vehicle on SB I-15 Collector Distributor\u00A0before 215 Southern Beltway. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865812/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
