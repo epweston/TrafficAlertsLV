@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63222,
-    "Timestamp": "2026-11-18 16:54",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Mojave Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:54 PM, Nov 18 2026 Crash on EB Sahara Ave\u00A0at Mojave Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3863907/attachment_0.png",
-    "Latitude": 36.144273800000001,
-    "Longitude": -115.1054261
-  },
-  {
     "UniqueId": 63223,
     "Timestamp": "2026-11-18 17:01",
     "IncidentType": "Stalled vehicle",
@@ -1594,5 +1580,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865708/attachment_0.jpg",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 63345,
+    "Timestamp": "2026-11-19 16:53",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Arville St",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:53 PM, Nov 19 2026 Crash on SB Arville St\u00A0at Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865710/attachment_0.png",
+    "Latitude": 36.108379100000001,
+    "Longitude": -115.1993289
+  },
+  {
+    "UniqueId": 63346,
+    "Timestamp": "2026-11-19 16:54",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "4:54 PM, Nov 19 2026 Stalled vehicle on SB Paradise Rd\u00A0at Russell Rd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865712/attachment_0.jpg",
+    "Latitude": 36.089409500000002,
+    "Longitude": -115.1461541
   }
 ]
