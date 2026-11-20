@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63262,
-    "Timestamp": "2026-11-18 23:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:55 PM, Nov 18 2026 Crash on NB Las Vegas Blvd\u00A0after Lamb Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/18/file_attachments/3864066/attachment_0.png",
-    "Latitude": 36.225338465005997,
-    "Longitude": -115.08024188900795
-  },
-  {
     "UniqueId": 63263,
     "Timestamp": "2026-11-19 00:49",
     "IncidentType": "Crash",
@@ -1622,5 +1608,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865820/attachment_0.png",
     "Latitude": 36.240197551211345,
     "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 63383,
+    "Timestamp": "2026-11-20 00:13",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "after",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:13 AM, Nov 20 2026 Crash on SB Dean Martin Dr\u00A0after Twain Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3865807/attachment_0.jpg",
+    "Latitude": 36.119828607813716,
+    "Longitude": -115.18136144208732
   }
 ]
