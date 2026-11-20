@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63291,
-    "Timestamp": "2026-11-19 07:54",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:54 AM, Nov 19 2026 Crash on WB 215 Southern Beltway\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3864564/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 63292,
     "Timestamp": "2026-11-19 08:30",
     "IncidentType": "Crash",
@@ -1580,5 +1566,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866199/attachment_0.png",
     "Latitude": 36.126141958848514,
     "Longitude": -115.18059230343664
+  },
+  {
+    "UniqueId": 63413,
+    "Timestamp": "2026-11-20 07:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:57 AM, Nov 20 2026 Crash on SB I-11\u00A0at Jones Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866216/attachment_0.png",
+    "Latitude": 36.173306500000002,
+    "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 63414,
+    "Timestamp": "2026-11-20 07:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "James Bilbray Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:59 AM, Nov 20 2026 Crash on EB Lake Mead Blvd\u00A0at James Bilbray Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866208/attachment_0.png",
+    "Latitude": 36.195994300000002,
+    "Longitude": -115.23769
   }
 ]
