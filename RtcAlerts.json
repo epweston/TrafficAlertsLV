@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63364,
-    "Timestamp": "2026-11-19 19:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Bermuda Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:38 PM, Nov 19 2026 Crash on WB Silverado Ranch Blvd\u00A0after Bermuda Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865779/attachment_0.png",
-    "Latitude": 35.977797807041192,
-    "Longitude": -115.15525817871095
-  },
-  {
-    "UniqueId": 63365,
-    "Timestamp": "2026-11-19 19:45",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Southern Highlands Parkway",
-    "Relationship": "at",
-    "CrossStreet": "Cactus Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:45 PM, Nov 19 2026 Crash on NB Southern Highlands Parkway\u00A0at Cactus Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865780/attachment_0.png",
-    "Latitude": 35.9986356,
-    "Longitude": -115.2074791
-  },
-  {
     "UniqueId": 63366,
     "Timestamp": "2026-11-19 19:49",
     "IncidentType": "Stalled vehicle",
@@ -1832,5 +1804,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867137/attachment_0.png",
     "Latitude": 36.232990800000003,
     "Longitude": -115.22647120000001
+  },
+  {
+    "UniqueId": 63504,
+    "Timestamp": "2026-11-20 19:46",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Gomer Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:46 PM, Nov 20 2026 Stalled vehicle on SB Durango Dr\u00A0at Gomer Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867156/attachment_0.png",
+    "Latitude": 36.012250600000002,
+    "Longitude": -115.2798445
   }
 ]
