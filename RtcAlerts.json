@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63357,
-    "Timestamp": "2026-11-19 18:37",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:37 PM, Nov 19 2026 Crash on NB 215 Western Beltway\u00A0at Charleston Blvd on ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865751/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 63358,
     "Timestamp": "2026-11-19 18:44",
     "IncidentType": "Crash",
@@ -1874,5 +1860,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867109/attachment_0.jpg",
     "Latitude": 36.135517917695289,
     "Longitude": -115.09028440626055
+  },
+  {
+    "UniqueId": 63500,
+    "Timestamp": "2026-11-20 18:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Galleria Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:34 PM, Nov 20 2026 Stalled vehicle on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867111/attachment_0.png",
+    "Latitude": 36.071512268486451,
+    "Longitude": -115.03666022156237
   }
 ]
