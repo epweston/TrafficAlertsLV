@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63399,
-    "Timestamp": "2026-11-20 05:36",
-    "IncidentType": "Update Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Incident clear.",
-    "Notes": "5:36 AM, Nov 20 2026 Update Crash on WB Sahara Ave\u00A0at I-15. Incident clear.",
-    "ImagePath": "",
-    "Latitude": 36.144043678496175,
-    "Longitude": -115.17114596721193
-  },
-  {
     "UniqueId": 63400,
     "Timestamp": "2026-11-20 05:42",
     "IncidentType": "Police activity",
@@ -1636,5 +1622,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867216/attachment_0.png",
     "Latitude": 36.143974367032428,
     "Longitude": -115.1712317755692
+  },
+  {
+    "UniqueId": 63522,
+    "Timestamp": "2026-11-21 05:35",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Flamingo Rd",
+    "Relationship": "after",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "5:35 AM, Nov 21 2026 Crash on EB Flamingo Rd\u00A0after Pecos Rd. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867218/attachment_0.png",
+    "Latitude": 36.115209200000002,
+    "Longitude": -115.1008898
   }
 ]
