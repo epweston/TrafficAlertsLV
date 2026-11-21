@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63356,
-    "Timestamp": "2026-11-19 18:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:31 PM, Nov 19 2026 Crash on SB I-15\u00A0at Flamingo Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865749/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 63357,
     "Timestamp": "2026-11-19 18:37",
     "IncidentType": "Crash",
@@ -1860,5 +1846,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867130/attachment_0.png",
     "Latitude": 36.15899619479174,
     "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 63498,
+    "Timestamp": "2026-11-20 18:30",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Decatur Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Edna Ave-Pennwood Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "6:30 PM, Nov 20 2026 Crash on SB Decatur Blvd\u00A0after Edna Ave-Pennwood Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867132/attachment_0.png",
+    "Latitude": 36.137273100000002,
+    "Longitude": -115.2082186
+  },
+  {
+    "UniqueId": 63499,
+    "Timestamp": "2026-11-20 18:32",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "after",
+    "CrossStreet": "I-11",
+    "Impact": "Left lanes blocked.",
+    "Notes": "6:32 PM, Nov 20 2026 Crash on NB Boulder Hwy\u00A0after I-11. Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867109/attachment_0.jpg",
+    "Latitude": 36.135517917695289,
+    "Longitude": -115.09028440626055
   }
 ]
