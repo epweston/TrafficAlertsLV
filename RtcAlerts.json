@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63446,
-    "Timestamp": "2026-11-20 12:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "15",
-    "Relationship": "before",
-    "CrossStreet": "215",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "12:33 PM, Nov 20 2026 Stalled vehicle on SB 15\u00A0before 215. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866829/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
-    "UniqueId": 63449,
-    "Timestamp": "2026-11-20 12:42",
-    "IncidentType": "EMS",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:42 PM, Nov 20 2026 EMS on WB Charleston Blvd\u00A0after Rancho Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866838/attachment_0.png",
-    "Latitude": 36.158829400000002,
-    "Longitude": -115.1728904
-  },
-  {
     "UniqueId": 63451,
     "Timestamp": "2026-11-20 12:49",
     "IncidentType": "EMS",
@@ -1426,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867333/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 63554,
+    "Timestamp": "2026-11-21 12:38",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "to",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Ramp is blocked.",
+    "Notes": "12:38 PM, Nov 21 2026 Police activity on NB I-15\u00A0to Harmon Ave off-ramp. Ramp is blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867338/attachment_0.jpg",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
   }
 ]
