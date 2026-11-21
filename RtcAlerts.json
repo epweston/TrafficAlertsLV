@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63375,
-    "Timestamp": "2026-11-19 21:45",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fairfield Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "9:45 PM, Nov 19 2026 Crash on EB Silverado Ranch Blvd\u00A0at Fairfield Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865798/attachment_0.png",
-    "Latitude": 36.013379,
-    "Longitude": -115.15684640000001
-  },
-  {
-    "UniqueId": 63376,
-    "Timestamp": "2026-11-19 21:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Casino Center Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:58 PM, Nov 19 2026 Crash on NB I-11\u00A0after Casino Center Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865800/attachment_0.png",
-    "Latitude": 36.17462138583204,
-    "Longitude": -115.1416003704071
-  },
-  {
     "UniqueId": 63377,
     "Timestamp": "2026-11-19 22:19",
     "IncidentType": "Crash",
@@ -1790,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867165/attachment_0.png",
     "Latitude": 36.21922790273323,
     "Longitude": -115.32768125268741
+  },
+  {
+    "UniqueId": 63513,
+    "Timestamp": "2026-11-20 22:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "Summerlin Pkwy",
+    "Relationship": "to",
+    "CrossStreet": "Durango Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:08 PM, Nov 20 2026 Stalled vehicle on WB Summerlin Pkwy\u00A0to Durango Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867147/attachment_0.png",
+    "Latitude": 36.177830221918377,
+    "Longitude": -115.27826429671812
   }
 ]
