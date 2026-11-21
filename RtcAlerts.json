@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 63359,
-    "Timestamp": "2026-11-19 18:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "at",
-    "CrossStreet": "Koval La",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:57 PM, Nov 19 2026 Crash on EB Tropicana Ave\u00A0at Koval La. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865754/attachment_0.png",
-    "Latitude": 36.100994,
-    "Longitude": -115.1639284
-  },
-  {
-    "UniqueId": 63360,
-    "Timestamp": "2026-11-19 19:04",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:04 PM, Nov 19 2026 Crash on EB 215 Southern Beltway\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865776/attachment_0.png",
-    "Latitude": 36.275373984021336,
-    "Longitude": -115.24246214142418
-  },
-  {
-    "UniqueId": 63361,
-    "Timestamp": "2026-11-19 19:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:13 PM, Nov 19 2026 Crash on SB I-11\u00A0at Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865765/attachment_0.png",
-    "Latitude": 36.218340499999996,
-    "Longitude": -115.2466541
-  },
-  {
-    "UniqueId": 63362,
-    "Timestamp": "2026-11-19 19:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "7:23 PM, Nov 19 2026 Stalled vehicle on SB Las Vegas Blvd\u00A0at Sahara Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865767/attachment_0.png",
-    "Latitude": 36.14359315288705,
-    "Longitude": -115.15748977661134
-  },
-  {
-    "UniqueId": 63363,
-    "Timestamp": "2026-11-19 19:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Arville St",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:25 PM, Nov 19 2026 Crash on SB Arville St\u00A0at Harmon Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.108379100000001,
-    "Longitude": -115.1993289
-  },
-  {
     "UniqueId": 63364,
     "Timestamp": "2026-11-19 19:38",
     "IncidentType": "Crash",
@@ -1888,5 +1818,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867114/attachment_0.png",
     "Latitude": 36.258134290000001,
     "Longitude": -115.07989877
+  },
+  {
+    "UniqueId": 63503,
+    "Timestamp": "2026-11-20 19:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Rancho Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:28 PM, Nov 20 2026 Crash on NB Jones Blvd\u00A0after Rancho Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867137/attachment_0.png",
+    "Latitude": 36.232990800000003,
+    "Longitude": -115.22647120000001
   }
 ]
