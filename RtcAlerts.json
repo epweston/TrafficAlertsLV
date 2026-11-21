@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63453,
-    "Timestamp": "2026-11-20 12:50",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:50 PM, Nov 20 2026 Crash on SB Lamb Blvd\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866864/attachment_0.png",
-    "Latitude": 36.258176810000002,
-    "Longitude": -115.07981305
-  },
-  {
-    "UniqueId": 63454,
-    "Timestamp": "2026-11-20 12:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Audrie St",
-    "Impact": "",
-    "Notes": "12:52 PM, Nov 20 2026 Crash on NB Las Vegas Blvd\u00A0before Audrie St. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866848/attachment_0.png",
-    "Latitude": 36.113137600000002,
-    "Longitude": -115.1727995
-  },
-  {
-    "UniqueId": 63456,
-    "Timestamp": "2026-11-20 12:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "before",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:55 PM, Nov 20 2026 Crash on NB Boulder Hwy\u00A0before Twain Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866849/attachment_0.png",
-    "Latitude": 36.123068099999998,
-    "Longitude": -115.07616419999999
-  },
-  {
     "UniqueId": 63457,
     "Timestamp": "2026-11-20 13:27",
     "IncidentType": "Police activity",
@@ -1426,5 +1384,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867357/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 63560,
+    "Timestamp": "2026-11-21 12:49",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Mountain Vista St",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lanes blocked.",
+    "Notes": "12:49 PM, Nov 21 2026 Crash on SB Mountain Vista St\u00A0after Flamingo Rd. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867359/attachment_0.jpg",
+    "Latitude": 36.114978399999998,
+    "Longitude": -115.0737826
+  },
+  {
+    "UniqueId": 63562,
+    "Timestamp": "2026-11-21 12:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "after",
+    "CrossStreet": "Cimarron Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:51 PM, Nov 21 2026 Crash on EB Cheyenne Ave\u00A0after Cimarron Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867348/attachment_0.jpg",
+    "Latitude": 36.218273000000003,
+    "Longitude": -115.265051
   }
 ]
