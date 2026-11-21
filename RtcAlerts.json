@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63339,
-    "Timestamp": "2026-11-19 16:12",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Liset Way",
-    "Impact": "Intersection partially blocked Expect Delays",
-    "Notes": "4:12 PM, Nov 19 2026 Crash on NB Las Vegas Blvd\u00A0at Liset Way. Intersection partially blocked Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865701/attachment_0.jpg",
-    "Latitude": 36.141505600000002,
-    "Longitude": -115.15869739999999
-  },
-  {
     "UniqueId": 63340,
     "Timestamp": "2026-11-19 16:26",
     "IncidentType": "Crash",
@@ -1776,5 +1762,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867064/attachment_0.png",
     "Latitude": 36.085973850000002,
     "Longitude": -115.18076596
+  },
+  {
+    "UniqueId": 63475,
+    "Timestamp": "2026-11-20 16:12",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:12 PM, Nov 20 2026 Crash on NB Eastern Ave\u00A0before Desert Inn Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867066/attachment_0.png",
+    "Latitude": 36.129897799999988,
+    "Longitude": -115.1186276
+  },
+  {
+    "UniqueId": 63476,
+    "Timestamp": "2026-11-20 16:13",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Smoke Ranch Rd",
+    "Relationship": "after",
+    "CrossStreet": "Tenaya Way",
+    "Impact": "Right lanes blocked.",
+    "Notes": "4:13 PM, Nov 20 2026 Crash on EB Smoke Ranch Rd\u00A0after Tenaya Way. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867068/attachment_0.jpg",
+    "Latitude": 36.203438299999988,
+    "Longitude": -115.2514556
   }
 ]
