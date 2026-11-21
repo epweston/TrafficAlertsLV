@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63436,
-    "Timestamp": "2026-11-20 11:27",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "11:27 AM, Nov 20 2026 Crash on NB Rainbow Blvd\u00A0at Flamingo Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866669/attachment_0.png",
-    "Latitude": 36.1145158070983,
-    "Longitude": -115.24298784914768
-  },
-  {
     "UniqueId": 63437,
     "Timestamp": "2026-11-20 11:33",
     "IncidentType": "Stalled vehicle",
@@ -1454,5 +1440,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867302/attachment_0.png",
     "Latitude": 35.999014299999999,
     "Longitude": -115.18064087000001
+  },
+  {
+    "UniqueId": 63546,
+    "Timestamp": "2026-11-21 11:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Pecos Rd",
+    "Relationship": "before",
+    "CrossStreet": "Marlborough Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:28 AM, Nov 21 2026 Crash on NB Pecos Rd\u00A0before Marlborough Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867304/attachment_0.jpg",
+    "Latitude": 36.1840197,
+    "Longitude": -115.09831180000001
+  },
+  {
+    "UniqueId": 63547,
+    "Timestamp": "2026-11-21 11:28",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Skye Canyon Park Dr",
+    "Relationship": "at",
+    "CrossStreet": "Brent Ln",
+    "Impact": "Left lane blocked.",
+    "Notes": "11:28 AM, Nov 21 2026 Crash on NB Skye Canyon Park Dr\u00A0at Brent Ln. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867325/attachment_0.jpg",
+    "Latitude": 36.3176287,
+    "Longitude": -115.29671620000001
   }
 ]
