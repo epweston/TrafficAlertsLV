@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63336,
-    "Timestamp": "2026-11-19 16:06",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Oso Blanca Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:06 PM, Nov 19 2026 Crash on NB Durango Dr\u00A0at Oso Blanca Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865696/attachment_0.png",
-    "Latitude": 36.295123400000001,
-    "Longitude": -115.2881131
-  },
-  {
-    "UniqueId": 63337,
-    "Timestamp": "2026-11-19 16:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:08 PM, Nov 19 2026 Crash on SB I-11\u00A0before Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865697/attachment_0.jpg",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 63338,
-    "Timestamp": "2026-11-19 16:10",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Hualapai Wy",
-    "Impact": "Left lane blocked.",
-    "Notes": "4:10 PM, Nov 19 2026 Crash on EB Sahara Ave\u00A0before Hualapai Wy. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865691/attachment_0.png",
-    "Latitude": 36.144326800000002,
-    "Longitude": -115.3155704
-  },
-  {
     "UniqueId": 63339,
     "Timestamp": "2026-11-19 16:12",
     "IncidentType": "Crash",
@@ -1804,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867080/attachment_0.png",
     "Latitude": 35.982208268696091,
     "Longitude": -115.14903533097477
+  },
+  {
+    "UniqueId": 63474,
+    "Timestamp": "2026-11-20 16:07",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:07 PM, Nov 20 2026 Stalled vehicle on NB I-15\u00A0before Russell Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867064/attachment_0.png",
+    "Latitude": 36.085973850000002,
+    "Longitude": -115.18076596
   }
 ]
