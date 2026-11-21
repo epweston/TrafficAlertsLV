@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63403,
-    "Timestamp": "2026-11-20 06:29",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Bermuda Rd",
-    "Relationship": "at",
-    "CrossStreet": "George Crockett Rd",
-    "Impact": "Multiple lanes blocked.",
-    "Notes": "6:29 AM, Nov 20 2026 Crash on SB Bermuda Rd\u00A0at George Crockett Rd. Multiple lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866068/attachment_0.png",
-    "Latitude": 36.061321300000003,
-    "Longitude": -115.15466379999999
-  },
-  {
-    "UniqueId": 63404,
-    "Timestamp": "2026-11-20 06:32",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:32 AM, Nov 20 2026 Crash on SB I-15 \u00A0at Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866071/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
-    "UniqueId": 63405,
-    "Timestamp": "2026-11-20 06:39",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:39 AM, Nov 20 2026 Stalled vehicle on SB I-15\u00A0at Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866098/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 63406,
-    "Timestamp": "2026-11-20 06:48",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "Polaris Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:48 AM, Nov 20 2026 Crash on EB Spring Mountain Rd\u00A0at Polaris Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866091/attachment_0.png",
-    "Latitude": 36.126371617007422,
-    "Longitude": -115.18552422104025
-  },
-  {
     "UniqueId": 63407,
     "Timestamp": "2026-11-20 07:08",
     "IncidentType": "Crash",
@@ -1622,5 +1566,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867223/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 63525,
+    "Timestamp": "2026-11-21 06:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:42 AM, Nov 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867224/attachment_0.png",
+    "Latitude": 36.167891848962327,
+    "Longitude": -115.11588871479036
   }
 ]
