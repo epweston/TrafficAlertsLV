@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63412,
-    "Timestamp": "2026-11-20 07:48",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Spring Mountain Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:48 AM, Nov 20 2026 Stalled vehicle on NB I-15\u00A0before Spring Mountain Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866199/attachment_0.png",
-    "Latitude": 36.126141958848514,
-    "Longitude": -115.18059230343664
-  },
-  {
     "UniqueId": 63413,
     "Timestamp": "2026-11-20 07:57",
     "IncidentType": "Crash",
@@ -1566,5 +1552,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867231/attachment_0.png",
     "Latitude": 36.158944221110033,
     "Longitude": -115.08028507232667
+  },
+  {
+    "UniqueId": 63530,
+    "Timestamp": "2026-11-21 07:50",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "under",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:50 AM, Nov 21 2026 Crash on SB Eastern Ave\u00A0under 215 Southern Beltway. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867245/attachment_0.png",
+    "Latitude": 36.023704889999998,
+    "Longitude": -115.11844739
   }
 ]
