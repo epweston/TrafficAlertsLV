@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63413,
-    "Timestamp": "2026-11-20 07:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:57 AM, Nov 20 2026 Crash on SB I-11\u00A0at Jones Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866216/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 63414,
-    "Timestamp": "2026-11-20 07:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "at",
-    "CrossStreet": "James Bilbray Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:59 AM, Nov 20 2026 Crash on EB Lake Mead Blvd\u00A0at James Bilbray Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866208/attachment_0.png",
-    "Latitude": 36.195994300000002,
-    "Longitude": -115.23769
-  },
-  {
-    "UniqueId": 63415,
-    "Timestamp": "2026-11-20 08:02",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:02 AM, Nov 20 2026 Crash on SB Nellis Blvd\u00A0before Cheyenne Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866224/attachment_0.jpg",
-    "Latitude": 36.218383299999999,
-    "Longitude": -115.06225929999999
-  },
-  {
     "UniqueId": 63416,
     "Timestamp": "2026-11-20 08:07",
     "IncidentType": "Crash",
@@ -1566,5 +1524,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867245/attachment_0.png",
     "Latitude": 36.023704889999998,
     "Longitude": -115.11844739
+  },
+  {
+    "UniqueId": 63531,
+    "Timestamp": "2026-11-21 07:58",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:58 AM, Nov 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0before Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867248/attachment_0.png",
+    "Latitude": 36.173872897631313,
+    "Longitude": -115.2240943740902
   }
 ]
