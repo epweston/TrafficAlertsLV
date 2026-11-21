@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63378,
-    "Timestamp": "2026-11-19 22:38",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "10:38 PM, Nov 19 2026 Crash on NB 215 Western Beltway\u00A0at Charleston Blvd. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865802/attachment_0.png",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 63379,
     "Timestamp": "2026-11-19 23:26",
     "IncidentType": "Stalled vehicle",
@@ -1790,5 +1776,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867150/attachment_0.png",
     "Latitude": 36.108041800000002,
     "Longitude": -115.15202669999999
+  },
+  {
+    "UniqueId": 63516,
+    "Timestamp": "2026-11-20 23:06",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Cameron St",
+    "Relationship": "before",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:06 PM, Nov 20 2026 Crash on SB Cameron St\u00A0before Tropicana Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867151/attachment_0.png",
+    "Latitude": 36.100889799425346,
+    "Longitude": -115.20392417802847
+  },
+  {
+    "UniqueId": 63517,
+    "Timestamp": "2026-11-20 23:08",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Boulder Hwy",
+    "Relationship": "before",
+    "CrossStreet": "Desert Inn Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "11:08 PM, Nov 20 2026 Police activity on NB Boulder Hwy\u00A0before Desert Inn Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867152/attachment_0.png",
+    "Latitude": 36.130076181521673,
+    "Longitude": -115.08395114089632
   }
 ]
