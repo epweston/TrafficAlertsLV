@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63419,
-    "Timestamp": "2026-11-20 08:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Tuscany Casino Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:40 AM, Nov 20 2026 Stalled vehicle on EB Flamingo Rd\u00A0before Tuscany Casino Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866288/attachment_0.jpg",
-    "Latitude": 36.114469900000003,
-    "Longitude": -115.158985
-  },
-  {
-    "UniqueId": 63420,
-    "Timestamp": "2026-11-20 08:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder",
-    "Notes": "8:44 AM, Nov 20 2026 Stalled vehicle on NB I-11\u00A0before Sunset Rd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866292/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
-    "UniqueId": 63421,
-    "Timestamp": "2026-11-20 08:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:55 AM, Nov 20 2026 Stalled vehicle on NB I-11\u00A0at Durango Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3866299/attachment_0.png",
-    "Latitude": 36.298464445139153,
-    "Longitude": -115.28598403888641
-  },
-  {
     "UniqueId": 63422,
     "Timestamp": "2026-11-20 09:06",
     "IncidentType": "Crash",
@@ -1524,5 +1482,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867252/attachment_0.png",
     "Latitude": 36.126505926051713,
     "Longitude": -115.17623305320741
+  },
+  {
+    "UniqueId": 63534,
+    "Timestamp": "2026-11-21 08:54",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:54 AM, Nov 21 2026 Crash on SB Rainbow Blvd\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867254/attachment_0.png",
+    "Latitude": 36.066602240000002,
+    "Longitude": -115.24247282
   }
 ]
