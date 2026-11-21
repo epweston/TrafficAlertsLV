@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63349,
-    "Timestamp": "2026-11-19 17:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:11 PM, Nov 19 2026 Crash on SB Las Vegas Blvd\u00A0before Craig Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/19/file_attachments/3865728/attachment_0.png",
-    "Latitude": 36.240517099999998,
-    "Longitude": -115.05455809999999
-  },
-  {
     "UniqueId": 63350,
     "Timestamp": "2026-11-19 17:14",
     "IncidentType": "Crash",
@@ -1762,5 +1748,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867092/attachment_0.png",
     "Latitude": 36.071651899999999,
     "Longitude": -115.1009116
+  },
+  {
+    "UniqueId": 63484,
+    "Timestamp": "2026-11-20 17:08",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Martin L King Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:08 PM, Nov 20 2026 Crash on SB I-11\u00A0at Martin L King Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867095/attachment_0.png",
+    "Latitude": 36.175244799226355,
+    "Longitude": -115.16081567593977
   }
 ]
