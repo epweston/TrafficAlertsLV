@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63377,
-    "Timestamp": "2026-11-19 22:19",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Silverado Ranch Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Fairfield Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:19 PM, Nov 19 2026 Crash on EB Silverado Ranch Blvd\u00A0at Fairfield Ave. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.013379,
-    "Longitude": -115.15684640000001
-  },
-  {
     "UniqueId": 63378,
     "Timestamp": "2026-11-19 22:38",
     "IncidentType": "Crash",
@@ -1776,5 +1762,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867147/attachment_0.png",
     "Latitude": 36.177830221918377,
     "Longitude": -115.27826429671812
+  },
+  {
+    "UniqueId": 63514,
+    "Timestamp": "2026-11-20 22:18",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:18 PM, Nov 20 2026 Crash on NB Rainbow Blvd\u00A0after Blue Diamond Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867149/attachment_0.png",
+    "Latitude": 36.022550799999998,
+    "Longitude": -115.2434145
   }
 ]
