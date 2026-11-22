@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63501,
-    "Timestamp": "2026-11-20 18:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "215 Southern Beltway",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:39 PM, Nov 20 2026 Crash on SB Jones Blvd\u00A0at 215 Southern Beltway. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867133/attachment_0.png",
-    "Latitude": 36.174100794708579,
-    "Longitude": -115.22413731670025
-  },
-  {
-    "UniqueId": 63502,
-    "Timestamp": "2026-11-20 18:48",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "to",
-    "CrossStreet": "Lamb Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "6:48 PM, Nov 20 2026 Crash on NB I-15\u00A0to Lamb Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867114/attachment_0.png",
-    "Latitude": 36.258134290000001,
-    "Longitude": -115.07989877
-  },
-  {
-    "UniqueId": 63503,
-    "Timestamp": "2026-11-20 19:28",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:28 PM, Nov 20 2026 Crash on NB Jones Blvd\u00A0after Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867137/attachment_0.png",
-    "Latitude": 36.232990800000003,
-    "Longitude": -115.22647120000001
-  },
-  {
     "UniqueId": 63504,
     "Timestamp": "2026-11-20 19:46",
     "IncidentType": "Stalled vehicle",
@@ -1118,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867418/attachment_0.jpg",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 63587,
+    "Timestamp": "2026-11-21 19:37",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Lake Mead Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Left lane blocked Right lane blocked. Expect Delays",
+    "Notes": "7:37 PM, Nov 21 2026 Crash on WB Lake Mead Blvd\u00A0at Rainbow Blvd. Left lane blocked Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867436/attachment_0.jpg",
+    "Latitude": 36.196001385231483,
+    "Longitude": -115.24201153240706
   }
 ]
