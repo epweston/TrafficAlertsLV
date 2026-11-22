@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63566,
-    "Timestamp": "2026-11-21 13:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Roy Horn Way",
-    "Relationship": "after",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:41 PM, Nov 21 2026 Crash on EB Roy Horn Way\u00A0after Buffalo Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867367/attachment_0.png",
-    "Latitude": 36.065144099999998,
-    "Longitude": -115.260508
-  },
-  {
-    "UniqueId": 63567,
-    "Timestamp": "2026-11-21 13:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Mile 10",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:44 PM, Nov 21 2026 Stalled vehicle on NB I-15\u00A0after Mile 10. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867381/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 63568,
-    "Timestamp": "2026-11-21 13:47",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Harris Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:47 PM, Nov 21 2026 Crash on SB Nellis Blvd\u00A0after Harris Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867370/attachment_0.jpg",
-    "Latitude": 36.1777491,
-    "Longitude": -115.06226340000001
-  },
-  {
     "UniqueId": 63569,
     "Timestamp": "2026-11-21 13:54",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867758/attachment_0.png",
     "Latitude": 36.114610499999998,
     "Longitude": -115.2339222
+  },
+  {
+    "UniqueId": 63667,
+    "Timestamp": "2026-11-22 13:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "1:44 PM, Nov 22 2026 Crash on EB Russell Rd\u00A0at Durango Dr. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867761/attachment_0.jpg",
+    "Latitude": 36.085291499999997,
+    "Longitude": -115.27931080000001
   }
 ]
