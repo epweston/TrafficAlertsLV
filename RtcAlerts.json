@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63520,
-    "Timestamp": "2026-11-21 05:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:29 AM, Nov 21 2026 Crash on EB Flamingo Rd\u00A0after Pecos Rd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867215/attachment_0.png",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
-    "UniqueId": 63521,
-    "Timestamp": "2026-11-21 05:30",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:30 AM, Nov 21 2026 Stalled vehicle on SB I-15\u00A0after Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867216/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
-    "UniqueId": 63522,
-    "Timestamp": "2026-11-21 05:35",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "5:35 AM, Nov 21 2026 Crash on EB Flamingo Rd\u00A0after Pecos Rd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867218/attachment_0.png",
-    "Latitude": 36.115209200000002,
-    "Longitude": -115.1008898
-  },
-  {
     "UniqueId": 63523,
     "Timestamp": "2026-11-21 05:50",
     "IncidentType": "Stalled vehicle",
@@ -1440,5 +1398,19 @@
     "ImagePath": "",
     "Latitude": 36.115191799999998,
     "Longitude": -115.30705279999999
+  },
+  {
+    "UniqueId": 63633,
+    "Timestamp": "2026-11-22 05:34",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "at",
+    "CrossStreet": "Hacienda Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:34 AM, Nov 22 2026 Stalled vehicle on SB Frank Sinatra Dr\u00A0at Hacienda Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867561/attachment_0.png",
+    "Latitude": 36.093341600000002,
+    "Longitude": -115.0956735
   }
 ]
