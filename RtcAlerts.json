@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63498,
-    "Timestamp": "2026-11-20 18:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Edna Ave-Pennwood Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:30 PM, Nov 20 2026 Crash on SB Decatur Blvd\u00A0after Edna Ave-Pennwood Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867132/attachment_0.png",
-    "Latitude": 36.137273100000002,
-    "Longitude": -115.2082186
-  },
-  {
-    "UniqueId": 63499,
-    "Timestamp": "2026-11-20 18:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Boulder Hwy",
-    "Relationship": "after",
-    "CrossStreet": "I-11",
-    "Impact": "Left lanes blocked.",
-    "Notes": "6:32 PM, Nov 20 2026 Crash on NB Boulder Hwy\u00A0after I-11. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867109/attachment_0.jpg",
-    "Latitude": 36.135517917695289,
-    "Longitude": -115.09028440626055
-  },
-  {
-    "UniqueId": 63500,
-    "Timestamp": "2026-11-20 18:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Galleria Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:34 PM, Nov 20 2026 Stalled vehicle on SB I-11\u00A0at Galleria Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867111/attachment_0.png",
-    "Latitude": 36.071512268486451,
-    "Longitude": -115.03666022156237
-  },
-  {
     "UniqueId": 63501,
     "Timestamp": "2026-11-20 18:39",
     "IncidentType": "Crash",
@@ -1146,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867414/attachment_0.jpg",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 63586,
+    "Timestamp": "2026-11-21 18:30",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "6:30 PM, Nov 21 2026 Crash on NB I-15\u00A0at Tropicana Ave. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867418/attachment_0.jpg",
+    "Latitude": 36.100677398719725,
+    "Longitude": -115.1805353164673
   }
 ]
