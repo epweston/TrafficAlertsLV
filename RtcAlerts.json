@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63523,
-    "Timestamp": "2026-11-21 05:50",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "5:50 AM, Nov 21 2026 Stalled vehicle on NB I-15\u00A0at Cheyenne Ave Offramp. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867221/attachment_0.png",
-    "Latitude": 36.217617875912651,
-    "Longitude": -115.12388861409171
-  },
-  {
     "UniqueId": 63524,
     "Timestamp": "2026-11-21 06:10",
     "IncidentType": "Stalled vehicle",
@@ -1412,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867561/attachment_0.png",
     "Latitude": 36.093341600000002,
     "Longitude": -115.0956735
+  },
+  {
+    "UniqueId": 63634,
+    "Timestamp": "2026-11-22 05:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "after",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:59 AM, Nov 22 2026 Crash on SB Ft Apache Rd\u00A0after Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867564/attachment_0.png",
+    "Latitude": 36.020538700000003,
+    "Longitude": -115.29798
   }
 ]
