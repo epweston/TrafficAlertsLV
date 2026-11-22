@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63506,
-    "Timestamp": "2026-11-20 20:07",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "8:07 PM, Nov 20 2026 Stalled vehicle on NB 215 Western Beltway\u00A0at Cheyenne Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867158/attachment_0.png",
-    "Latitude": 36.21922790273323,
-    "Longitude": -115.32768125268741
-  },
-  {
     "UniqueId": 63507,
     "Timestamp": "2026-11-20 20:27",
     "IncidentType": "Stalled vehicle",
@@ -1090,5 +1076,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867422/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 63589,
+    "Timestamp": "2026-11-21 20:04",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:04 PM, Nov 21 2026 Crash on SB I-11\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867438/attachment_0.jpg",
+    "Latitude": 36.033763127706131,
+    "Longitude": -115.01569752958496
   }
 ]
