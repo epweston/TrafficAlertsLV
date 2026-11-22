@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63572,
-    "Timestamp": "2026-11-21 14:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "2:22 PM, Nov 21 2026 Crash on EB Craig Rd\u00A0after Jones Blvd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867395/attachment_0.jpg",
-    "Latitude": 36.238928299999998,
-    "Longitude": -115.2256034
-  },
-  {
-    "UniqueId": 63573,
-    "Timestamp": "2026-11-21 14:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Carey Ave",
-    "Relationship": "after",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:28 PM, Nov 21 2026 Crash on EB Carey Ave\u00A0after Rancho Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867385/attachment_0.jpg",
-    "Latitude": 36.202855100000001,
-    "Longitude": -115.1989426
-  },
-  {
     "UniqueId": 63574,
     "Timestamp": "2026-11-21 15:06",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867748/attachment_0.png",
     "Latitude": 36.18108189032673,
     "Longitude": -115.14517307281496
+  },
+  {
+    "UniqueId": 63669,
+    "Timestamp": "2026-11-22 14:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "after",
+    "CrossStreet": "Horizon Ridge Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "2:22 PM, Nov 22 2026 Stalled vehicle on NB Eastern Ave\u00A0after Horizon Ridge Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867770/attachment_0.png",
+    "Latitude": 35.999189399999999,
+    "Longitude": -115.1048687
   }
 ]
