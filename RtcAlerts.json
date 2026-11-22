@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63578,
-    "Timestamp": "2026-11-21 15:44",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "at",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder.",
-    "Notes": "3:44 PM, Nov 21 2026 Stalled vehicle on EB 215 Southern Beltway\u00A0at St Rose Pkwy. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867388/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
-    "UniqueId": 63579,
-    "Timestamp": "2026-11-21 15:44",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "215 Western Beltway",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:44 PM, Nov 21 2026 Crash on WB Tropicana Ave\u00A0after 215 Western Beltway. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867407/attachment_0.jpg",
-    "Latitude": 36.100018540000001,
-    "Longitude": -115.29390152000001
-  },
-  {
-    "UniqueId": 63580,
-    "Timestamp": "2026-11-21 15:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "over",
-    "CrossStreet": "Rampart Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:46 PM, Nov 21 2026 Crash on WB Summerlin Pkwy\u00A0over Rampart Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867391/attachment_0.jpg",
-    "Latitude": 36.159022,
-    "Longitude": -115.29140700000001
-  },
-  {
     "UniqueId": 63581,
     "Timestamp": "2026-11-21 16:53",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867804/attachment_0.png",
     "Latitude": 36.070274645187922,
     "Longitude": -115.28855877956086
+  },
+  {
+    "UniqueId": 63681,
+    "Timestamp": "2026-11-22 15:45",
+    "IncidentType": "UPDATE: Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Russell Rd",
+    "Relationship": "at",
+    "CrossStreet": "Durango Dr",
+    "Impact": "All lanes are now open",
+    "Notes": "3:45 PM, Nov 22 2026 UPDATE: Crash on EB Russell Rd\u00A0at Durango Dr. All lanes are now open",
+    "ImagePath": "",
+    "Latitude": 36.085291499999997,
+    "Longitude": -115.27931080000001
+  },
+  {
+    "UniqueId": 63682,
+    "Timestamp": "2026-11-22 15:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:49 PM, Nov 22 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0after Windmill Ln. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867783/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
