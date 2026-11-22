@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63483,
-    "Timestamp": "2026-11-20 17:03",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:03 PM, Nov 20 2026 Crash on EB Sunset Rd\u00A0after Pecos Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867092/attachment_0.png",
-    "Latitude": 36.071651899999999,
-    "Longitude": -115.1009116
-  },
-  {
-    "UniqueId": 63484,
-    "Timestamp": "2026-11-20 17:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Martin L King Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:08 PM, Nov 20 2026 Crash on SB I-11\u00A0at Martin L King Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867095/attachment_0.png",
-    "Latitude": 36.175244799226355,
-    "Longitude": -115.16081567593977
-  },
-  {
     "UniqueId": 63485,
     "Timestamp": "2026-11-20 17:12",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867410/attachment_0.png",
     "Latitude": 36.143662482122316,
     "Longitude": -115.1573931887723
+  },
+  {
+    "UniqueId": 63582,
+    "Timestamp": "2026-11-21 17:03",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder",
+    "Notes": "5:03 PM, Nov 21 2026 Stalled vehicle on SB I-15\u00A0after Craig Rd. Right shoulder",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867411/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
