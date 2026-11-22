@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63524,
-    "Timestamp": "2026-11-21 06:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Speedway Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:10 AM, Nov 21 2026 Stalled vehicle on NB I-15\u00A0before Speedway Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867223/attachment_0.png",
-    "Latitude": 36.282633238759672,
-    "Longitude": -115.02613173440233
-  },
-  {
     "UniqueId": 63525,
     "Timestamp": "2026-11-21 06:42",
     "IncidentType": "Stalled vehicle",
@@ -1424,6 +1410,20 @@
     "Impact": "Left lane blocked.",
     "Notes": "6:04 AM, Nov 22 2026 Crash on WB Spring Mountain Rd\u00A0at I-15. Left lane blocked.",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867543/attachment_0.png",
+    "Latitude": 36.126198294845885,
+    "Longitude": -115.1806533378587
+  },
+  {
+    "UniqueId": 63636,
+    "Timestamp": "2026-11-22 06:05",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Spring Mountain Rd",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "6:05 AM, Nov 22 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867545/attachment_0.png",
     "Latitude": 36.126198294845885,
     "Longitude": -115.1806533378587
   }
