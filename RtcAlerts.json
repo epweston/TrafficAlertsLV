@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63552,
-    "Timestamp": "2026-11-21 11:59",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:59 AM, Nov 21 2026 Crash on NB 215 Western Beltway\u00A0at Flamingo Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867312/attachment_0.png",
-    "Latitude": 36.115066053957577,
-    "Longitude": -115.30244890820951
-  },
-  {
     "UniqueId": 63553,
     "Timestamp": "2026-11-21 12:29",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867730/attachment_0.png",
     "Latitude": 36.1185039,
     "Longitude": -115.1190604
+  },
+  {
+    "UniqueId": 63657,
+    "Timestamp": "2026-11-22 11:57",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Dean Martin Dr",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "11:57 AM, Nov 22 2026 Crash on SB Dean Martin Dr\u00A0at Blue Diamond Rd. Left lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867732/attachment_0.png",
+    "Latitude": 36.041959400000003,
+    "Longitude": -115.1881041
+  },
+  {
+    "UniqueId": 63658,
+    "Timestamp": "2026-11-22 12:00",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Dean Martin Dr",
+    "Impact": "2 Right lanes blocked. Expect Delays",
+    "Notes": "12:00 PM, Nov 22 2026 Crash on WB Blue Diamond Rd\u00A0at Dean Martin Dr. 2 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867705/attachment_0.png",
+    "Latitude": 36.041387180713301,
+    "Longitude": -115.18812059936668
   }
 ]
