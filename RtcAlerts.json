@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63487,
-    "Timestamp": "2026-11-20 17:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder",
-    "Notes": "5:29 PM, Nov 20 2026 Crash on EB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867099/attachment_0.jpg",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
-    "UniqueId": 63488,
-    "Timestamp": "2026-11-20 17:33",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Reno Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "5:33 PM, Nov 20 2026 Crash on WB Reno Ave\u00A0before Las Vegas Blvd. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867118/attachment_0.jpg",
-    "Latitude": 36.0973884,
-    "Longitude": -115.17282059999999
-  },
-  {
-    "UniqueId": 63489,
-    "Timestamp": "2026-11-20 17:37",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:37 PM, Nov 20 2026 Crash on WB Lake Mead Pkwy\u00A0at I-11. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867119/attachment_0.png",
-    "Latitude": 36.033625694401444,
-    "Longitude": -115.0147810107534
-  },
-  {
     "UniqueId": 63490,
     "Timestamp": "2026-11-20 17:56",
     "IncidentType": "Crash",
@@ -1272,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867413/attachment_0.jpg",
     "Latitude": 36.085185000000003,
     "Longitude": -115.24271880000001
+  },
+  {
+    "UniqueId": 63584,
+    "Timestamp": "2026-11-21 17:50",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "",
+    "Notes": "5:50 PM, Nov 21 2026 Crash on NB I-15\u00A0at Sahara Ave Off Ramp Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867416/attachment_0.jpg",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
