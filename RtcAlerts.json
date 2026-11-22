@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63550,
-    "Timestamp": "2026-11-21 11:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Raiders Way",
-    "Relationship": "after",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:46 AM, Nov 21 2026 Crash on SB Raiders Way\u00A0after St Rose Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867306/attachment_0.png",
-    "Latitude": 35.982416399999998,
-    "Longitude": -115.14905880000001
-  },
-  {
     "UniqueId": 63551,
     "Timestamp": "2026-11-21 11:55",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867727/attachment_0.jpg",
     "Latitude": 36.065249041155141,
     "Longitude": -115.27935326099397
+  },
+  {
+    "UniqueId": 63655,
+    "Timestamp": "2026-11-22 11:43",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:43 AM, Nov 22 2026 Stalled vehicle on NB I-15\u00A0at Mile 95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867728/attachment_0.png",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
