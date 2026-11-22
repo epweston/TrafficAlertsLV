@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63551,
-    "Timestamp": "2026-11-21 11:55",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Green Valley Pkwy",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:55 AM, Nov 21 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Green Valley Pkwy. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867331/attachment_0.png",
-    "Latitude": 36.024537892813889,
-    "Longitude": -115.08493065834047
-  },
-  {
     "UniqueId": 63552,
     "Timestamp": "2026-11-21 11:59",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867728/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 63656,
+    "Timestamp": "2026-11-22 11:52",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "at",
+    "CrossStreet": "Viking Rd",
+    "Impact": "3 Right lanes blocked. Expect Delays",
+    "Notes": "11:52 AM, Nov 22 2026 Crash on SB Eastern Ave\u00A0at Viking Rd. 3 Right lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867730/attachment_0.png",
+    "Latitude": 36.1185039,
+    "Longitude": -115.1190604
   }
 ]
