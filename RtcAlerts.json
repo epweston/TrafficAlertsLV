@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63564,
-    "Timestamp": "2026-11-21 12:57",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "before",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:57 PM, Nov 21 2026 Crash on SB Flamingo Rd\u00A0before Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867353/attachment_0.jpg",
-    "Latitude": 36.114502810673706,
-    "Longitude": -115.24298784809898
-  },
-  {
     "UniqueId": 63565,
     "Timestamp": "2026-11-21 13:13",
     "IncidentType": "Crash",
@@ -1286,5 +1272,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867743/attachment_0.png",
     "Latitude": 36.011871323210563,
     "Longitude": -114.99005374546798
+  },
+  {
+    "UniqueId": 63664,
+    "Timestamp": "2026-11-22 12:58",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "under",
+    "CrossStreet": "I-11",
+    "Impact": "Right lane blocked.",
+    "Notes": "12:58 PM, Nov 22 2026 Crash on SB Martin L King Blvd\u00A0under I-11. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.175245009999998,
+    "Longitude": -115.16082640000001
   }
 ]
