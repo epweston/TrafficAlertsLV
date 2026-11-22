@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63509,
-    "Timestamp": "2026-11-20 21:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:13 PM, Nov 20 2026 Stalled vehicle on NB St Rose Pkwy\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/20/file_attachments/3867143/attachment_0.png",
-    "Latitude": 35.966113100000001,
-    "Longitude": -115.1727174
-  },
-  {
     "UniqueId": 63510,
     "Timestamp": "2026-11-20 21:15",
     "IncidentType": "Crash",
@@ -1076,5 +1062,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867440/attachment_0.png",
     "Latitude": 36.176171251817379,
     "Longitude": -115.19257306423404
+  },
+  {
+    "UniqueId": 63591,
+    "Timestamp": "2026-11-21 21:09",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "9:09 PM, Nov 21 2026 Crash on SB I-15\u00A0at Charleston Blvd off-ramp. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867424/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
