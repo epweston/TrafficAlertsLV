@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63519,
-    "Timestamp": "2026-11-21 05:16",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Northern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Aliante Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:16 AM, Nov 21 2026 Stalled vehicle on EB 215 Northern Beltway\u00A0before Aliante Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867211/attachment_0.png",
-    "Latitude": 36.293459499999997,
-    "Longitude": -115.18487740000001
-  },
-  {
     "UniqueId": 63520,
     "Timestamp": "2026-11-21 05:29",
     "IncidentType": "Crash",
@@ -1426,5 +1412,33 @@
     "ImagePath": "",
     "Latitude": 36.162657000000003,
     "Longitude": -115.105473
+  },
+  {
+    "UniqueId": 63631,
+    "Timestamp": "2026-11-22 05:18",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Frank Sinatra Dr",
+    "Relationship": "at",
+    "CrossStreet": "Russell Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:18 AM, Nov 22 2026 Police activity on NB Frank Sinatra Dr\u00A0at Russell Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867538/attachment_0.png",
+    "Latitude": 36.086073599999999,
+    "Longitude": -115.1757181
+  },
+  {
+    "UniqueId": 63632,
+    "Timestamp": "2026-11-22 05:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Grand Canyon Dr",
+    "Relationship": "at",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "5:19 AM, Nov 22 2026 Crash on SB Grand Canyon Dr\u00A0at Flamingo Rd. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.115191799999998,
+    "Longitude": -115.30705279999999
   }
 ]
