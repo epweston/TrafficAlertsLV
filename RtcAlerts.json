@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 63590,
-    "Timestamp": "2026-11-21 20:57",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Valley View Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "8:57 PM, Nov 21 2026 Police activity on SB I-11\u00A0at Valley View Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867440/attachment_0.png",
-    "Latitude": 36.176171251817379,
-    "Longitude": -115.19257306423404
-  },
-  {
-    "UniqueId": 63591,
-    "Timestamp": "2026-11-21 21:09",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "9:09 PM, Nov 21 2026 Crash on SB I-15\u00A0at Charleston Blvd off-ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867424/attachment_0.png",
-    "Latitude": 36.15899619479174,
-    "Longitude": -115.16101956367494
-  },
-  {
-    "UniqueId": 63592,
-    "Timestamp": "2026-11-21 23:46",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "WB Flamingo Rd blocked Use other routes",
-    "Notes": "11:46 PM, Nov 21 2026 Crash on WB Flamingo Rd\u00A0at Decatur Blvd. WB Flamingo Rd blocked Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867475/attachment_0.jpg",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
-    "UniqueId": 63593,
-    "Timestamp": "2026-11-21 23:56",
-    "IncidentType": "Correction: Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "NB Decatur Blvd is blocked at Flamingo Rd\u00A0 Use other routes",
-    "Notes": "11:56 PM, Nov 21 2026 Correction: Crash on NB Decatur Blvd\u00A0at Decatur Blvd. NB Decatur Blvd is blocked at Flamingo Rd\u00A0 Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.254595299999998,
-    "Longitude": -115.20742869999999
-  },
-  {
-    "UniqueId": 63594,
-    "Timestamp": "2026-11-22 00:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "All northbound lanes are blocked.",
-    "Notes": "12:00 AM, Nov 22 2026 Crash on NB Decatur Blvd\u00A0at Flamingo Rd. All northbound lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867459/attachment_0.png",
-    "Latitude": 36.115562400000009,
-    "Longitude": -115.208167
-  },
-  {
     "UniqueId": 63595,
     "Timestamp": "2026-11-22 00:16",
     "IncidentType": "Police activity",
@@ -1468,5 +1398,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867833/attachment_0.png",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 63704,
+    "Timestamp": "2026-11-23 00:08",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Viking Ave",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "All lanes are blocked. Use other routes",
+    "Notes": "12:08 AM, Nov 23 2026 Crash on EB Viking Ave\u00A0at Eastern Ave. All lanes are blocked. Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867856/attachment_0.png",
+    "Latitude": 36.1185039,
+    "Longitude": -115.1190604
   }
 ]
