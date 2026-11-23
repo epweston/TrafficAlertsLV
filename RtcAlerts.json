@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63643,
-    "Timestamp": "2026-11-22 09:04",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:04 AM, Nov 22 2026 Stalled vehicle on SB I-11\u00A0before College Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867595/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 63644,
-    "Timestamp": "2026-11-22 09:08",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:08 AM, Nov 22 2026 Crash on SB Las Vegas Blvd\u00A0after Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867578/attachment_0.jpg",
-    "Latitude": 36.071189599999997,
-    "Longitude": -115.17228350000001
-  },
-  {
     "UniqueId": 63645,
     "Timestamp": "2026-11-22 09:28",
     "IncidentType": "Stalled vehicle",
@@ -1286,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868446/attachment_0.jpg",
     "Latitude": 36.082644400085449,
     "Longitude": -115.2078938484192
+  },
+  {
+    "UniqueId": 63750,
+    "Timestamp": "2026-11-23 09:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Sands Ave",
+    "Impact": "Center lanes blocked.",
+    "Notes": "9:13 AM, Nov 23 2026 Crash on NB Las Vegas Blvd\u00A0before Sands Ave. Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868519/attachment_0.jpg",
+    "Latitude": 36.125536599999997,
+    "Longitude": -115.16914730000001
   }
 ]
