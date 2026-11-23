@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63647,
-    "Timestamp": "2026-11-22 09:59",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Mile 8",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:59 AM, Nov 22 2026 Stalled vehicle on SB I-11\u00A0at Mile 8. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867599/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 63648,
     "Timestamp": "2026-11-22 10:22",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868588/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 63755,
+    "Timestamp": "2026-11-23 10:02",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "before",
+    "CrossStreet": "Walnut Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:02 AM, Nov 23 2026 Crash on EB Cheyenne Ave\u00A0before Walnut Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868636/attachment_0.png",
+    "Latitude": 36.217682794356257,
+    "Longitude": -115.08932948112489
   }
 ]
