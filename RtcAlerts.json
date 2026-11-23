@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63605,
-    "Timestamp": "2026-11-22 01:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "6Th St",
-    "Relationship": "at",
-    "CrossStreet": "Carson Ave",
-    "Impact": "Intersection blocked Use other routes",
-    "Notes": "1:46 AM, Nov 22 2026 Crash on SB 6th St\u00A0at Carson Ave. Intersection blocked Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867490/attachment_0.jpg",
-    "Latitude": 36.167593400000001,
-    "Longitude": -115.1402985
-  },
-  {
     "UniqueId": 63606,
     "Timestamp": "2026-11-22 01:51",
     "IncidentType": "Stalled vehicle",
@@ -1300,5 +1286,19 @@
     "ImagePath": "",
     "Latitude": 36.1185039,
     "Longitude": -115.1190604
+  },
+  {
+    "UniqueId": 63707,
+    "Timestamp": "2026-11-23 01:44",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Sunset Rd",
+    "Relationship": "after",
+    "CrossStreet": "Paradise Rd",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "1:44 AM, Nov 23 2026 Crash on EB Sunset Rd\u00A0after Paradise Rd. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867866/attachment_0.png",
+    "Latitude": 36.071648699999997,
+    "Longitude": -115.14116249999999
   }
 ]
