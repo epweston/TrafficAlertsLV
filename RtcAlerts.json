@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63669,
-    "Timestamp": "2026-11-22 14:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "after",
-    "CrossStreet": "Horizon Ridge Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:22 PM, Nov 22 2026 Stalled vehicle on NB Eastern Ave\u00A0after Horizon Ridge Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867770/attachment_0.png",
-    "Latitude": 35.999189399999999,
-    "Longitude": -115.1048687
-  },
-  {
     "UniqueId": 63670,
     "Timestamp": "2026-11-22 14:32",
     "IncidentType": "Stalled vehicle",
@@ -1328,5 +1314,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869188/attachment_0.jpg",
     "Latitude": 36.289875459999998,
     "Longitude": -115.07998461
+  },
+  {
+    "UniqueId": 63779,
+    "Timestamp": "2026-11-23 14:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:19 PM, Nov 23 2026 Crash on SB Las Vegas Blvd\u00A0at Craig Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869203/attachment_0.jpg",
+    "Latitude": 36.240517099999998,
+    "Longitude": -115.05455809999999
   }
 ]
