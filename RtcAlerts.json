@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63659,
-    "Timestamp": "2026-11-22 12:05",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "St Rose Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Coronado Center Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:05 PM, Nov 22 2026 Crash on NB St Rose Pkwy\u00A0before Coronado Center Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867734/attachment_0.png",
-    "Latitude": 36.015730400000002,
-    "Longitude": -115.1020003
-  },
-  {
     "UniqueId": 63660,
     "Timestamp": "2026-11-22 12:13",
     "IncidentType": "Crash",
@@ -1300,5 +1286,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868863/attachment_0.png",
     "Latitude": 36.144174199999988,
     "Longitude": -115.1731231
+  },
+  {
+    "UniqueId": 63768,
+    "Timestamp": "2026-11-23 12:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Us-95",
+    "Relationship": "at",
+    "CrossStreet": "Spring Canyon Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:06 PM, Nov 23 2026 Stalled vehicle on NB US-95\u00A0at Spring Canyon Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868868/attachment_0.png",
+    "Latitude": 35.925327899999999,
+    "Longitude": -114.9251941
   }
 ]
