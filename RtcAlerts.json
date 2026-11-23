@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63613,
-    "Timestamp": "2026-11-22 02:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "2:13 AM, Nov 22 2026 Crash on NB I-15\u00A0after Craig Rd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867497/attachment_0.png",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
-    "UniqueId": 63615,
-    "Timestamp": "2026-11-22 02:26",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Hollywood Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "2:26 AM, Nov 22 2026 Crash on NB Hollywood Blvd\u00A0before Charleston Blvd. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867470/attachment_0.jpg",
-    "Latitude": 36.159219399999998,
-    "Longitude": -115.025909
-  },
-  {
-    "UniqueId": 63616,
-    "Timestamp": "2026-11-22 02:55",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Hollywood Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "Notes": "2:55 AM, Nov 22 2026 Crash on NB Hollywood Blvd\u00A0before Charleston Blvd. All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867498/attachment_0.jpg",
-    "Latitude": 36.159219399999998,
-    "Longitude": -115.025909
-  },
-  {
     "UniqueId": 63617,
     "Timestamp": "2026-11-22 03:21",
     "IncidentType": "Crash",
@@ -1272,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867869/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 63709,
+    "Timestamp": "2026-11-23 03:14",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Silverado Ranch Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:14 AM, Nov 23 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867895/attachment_0.png",
+    "Latitude": 36.01340138174109,
+    "Longitude": -115.18049792344952
   }
 ]
