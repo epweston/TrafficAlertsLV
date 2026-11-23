@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63628,
-    "Timestamp": "2026-11-22 04:50",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:50 AM, Nov 22 2026 Crash on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
     "UniqueId": 63629,
     "Timestamp": "2026-11-22 05:06",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1146,19 @@
     "ImagePath": "",
     "Latitude": 36.061302898524517,
     "Longitude": -115.24256938515291
+  },
+  {
+    "UniqueId": 63715,
+    "Timestamp": "2026-11-23 04:58",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Spanish Gold Ave",
+    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:58 AM, Nov 23 2026 Crash on NB Fort Apache Rd\u00A0at Spanish Gold Ave. All NB and SB lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.1873918,
+    "Longitude": -115.1580759
   }
 ]
