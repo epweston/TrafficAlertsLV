@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63652,
-    "Timestamp": "2026-11-22 11:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Lower Flat Top Dr",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:12 AM, Nov 22 2026 Stalled vehicle on NB I-15\u00A0at Lower Flat Top Dr. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867720/attachment_0.png",
-    "Latitude": 36.782583331008503,
-    "Longitude": -114.13802574824116
-  },
-  {
-    "UniqueId": 63653,
-    "Timestamp": "2026-11-22 11:31",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "after",
-    "CrossStreet": "Roy Horn Way",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:31 AM, Nov 22 2026 Crash on SB Durango Dr\u00A0after Roy Horn Way. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867727/attachment_0.jpg",
-    "Latitude": 36.065249041155141,
-    "Longitude": -115.27935326099397
-  },
-  {
     "UniqueId": 63655,
     "Timestamp": "2026-11-22 11:43",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1286,19 @@
     "ImagePath": "",
     "Latitude": 36.217682794356257,
     "Longitude": -115.08932948112489
+  },
+  {
+    "UniqueId": 63763,
+    "Timestamp": "2026-11-23 11:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Paradise Rd",
+    "Relationship": "after",
+    "CrossStreet": "Convention Center Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "11:34 AM, Nov 23 2026 Crash on SB Paradise Rd\u00A0after Convention Center Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868793/attachment_0.jpg",
+    "Latitude": 36.132214300000001,
+    "Longitude": -115.1548964
   }
 ]
