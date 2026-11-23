@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63620,
-    "Timestamp": "2026-11-22 04:13",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "4:13 AM, Nov 22 2026 Crash on SB Rainbow Blvd\u00A0at Desert Inn Rd. 2 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.12947394310789,
-    "Longitude": -115.24300934562113
-  },
-  {
-    "UniqueId": 63621,
-    "Timestamp": "2026-11-22 04:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Hollywood Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:13 AM, Nov 22 2026 Crash on NB Hollywood Blvd\u00A0before Charleston Blvd. All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.159219399999998,
-    "Longitude": -115.025909
-  },
-  {
-    "UniqueId": 63622,
-    "Timestamp": "2026-11-22 04:20",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:20 AM, Nov 22 2026 Crash on NB I-11\u00A0at Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173486845471338,
-    "Longitude": -115.20597436933767
-  },
-  {
-    "UniqueId": 63623,
-    "Timestamp": "2026-11-22 04:25",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Mojave Rd",
-    "Relationship": "at",
-    "CrossStreet": "Sunrise Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:25 AM, Nov 22 2026 Crash on NB Mojave Rd\u00A0at Sunrise Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867502/attachment_0.png",
-    "Latitude": 36.162657000000003,
-    "Longitude": -115.105473
-  },
-  {
     "UniqueId": 63624,
     "Timestamp": "2026-11-22 04:32",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867930/attachment_0.png",
     "Latitude": 36.061302898524517,
     "Longitude": -115.24256938515291
+  },
+  {
+    "UniqueId": 63712,
+    "Timestamp": "2026-11-23 04:21",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Spanish Gold Ave",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "4:21 AM, Nov 23 2026 Crash on NB Fort Apache Rd\u00A0at Spanish Gold Ave. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867971/attachment_0.png",
+    "Latitude": 36.1873918,
+    "Longitude": -115.1580759
   }
 ]
