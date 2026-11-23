@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63635,
-    "Timestamp": "2026-11-22 06:04",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:04 AM, Nov 22 2026 Crash on WB Spring Mountain Rd\u00A0at I-15. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867543/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
-    "UniqueId": 63636,
-    "Timestamp": "2026-11-22 06:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Spring Mountain Rd",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:05 AM, Nov 22 2026 Crash on EB Spring Mountain Rd\u00A0at I-15. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867545/attachment_0.png",
-    "Latitude": 36.126198294845885,
-    "Longitude": -115.1806533378587
-  },
-  {
     "UniqueId": 63637,
     "Timestamp": "2026-11-22 06:13",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868120/attachment_0.png",
     "Latitude": 36.272856280056651,
     "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 63726,
+    "Timestamp": "2026-11-23 06:03",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Gilespie St",
+    "Relationship": "before",
+    "CrossStreet": "Hidden Well Rd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "6:03 AM, Nov 23 2026 Crash on SB Gilespie St\u00A0before Hidden Well Rd. All lanes are blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868127/attachment_0.png",
+    "Latitude": 36.064328600000003,
+    "Longitude": -115.1634931
   }
 ]
