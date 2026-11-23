@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63641,
-    "Timestamp": "2026-11-22 07:15",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15 Collector Distributor",
-    "Relationship": "under",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:15 AM, Nov 22 2026 Crash on SB I-15 Collector Distributor \u00A0under Russell Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867554/attachment_0.jpg",
-    "Latitude": 36.078835617458502,
-    "Longitude": -115.18136633150022
-  },
-  {
     "UniqueId": 63642,
     "Timestamp": "2026-11-22 07:36",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868248/attachment_0.png",
     "Latitude": 36.065881500000003,
     "Longitude": -115.2244378
+  },
+  {
+    "UniqueId": 63737,
+    "Timestamp": "2026-11-23 07:28",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropical Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:28 AM, Nov 23 2026 Crash on EB Tropical Pkwy\u00A0at I-15. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868325/attachment_0.png",
+    "Latitude": 36.271334600290096,
+    "Longitude": -115.05659580230714
   }
 ]
