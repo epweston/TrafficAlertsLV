@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63638,
-    "Timestamp": "2026-11-22 06:23",
-    "IncidentType": "Police activity",
-    "Direction": "SB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "before",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:23 AM, Nov 22 2026 Police activity on SB Frank Sinatra Dr\u00A0before Russell Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.086073599999999,
-    "Longitude": -115.1757181
-  },
-  {
-    "UniqueId": 63639,
-    "Timestamp": "2026-11-22 06:25",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "2 Left lanes blocked.",
-    "Notes": "6:25 AM, Nov 22 2026 Crash on SB I-11\u00A0before Flamingo Rd. 2 Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867550/attachment_0.png",
-    "Latitude": 36.11502744006151,
-    "Longitude": -115.08282365906119
-  },
-  {
     "UniqueId": 63640,
     "Timestamp": "2026-11-22 06:35",
     "IncidentType": "Crash",
@@ -1188,5 +1160,19 @@
     "ImagePath": "",
     "Latitude": 36.248164099999997,
     "Longitude": -115.2974019
+  },
+  {
+    "UniqueId": 63729,
+    "Timestamp": "2026-11-23 06:19",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:19 AM, Nov 23 2026 Stalled vehicle on SB I-11\u00A0after Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868173/attachment_0.png",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
