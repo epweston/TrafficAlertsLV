@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63637,
-    "Timestamp": "2026-11-22 06:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:13 AM, Nov 22 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867567/attachment_0.png",
-    "Latitude": 36.100031538544258,
-    "Longitude": -115.29390153647363
-  },
-  {
     "UniqueId": 63638,
     "Timestamp": "2026-11-22 06:23",
     "IncidentType": "Police activity",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868127/attachment_0.png",
     "Latitude": 36.064328600000003,
     "Longitude": -115.1634931
+  },
+  {
+    "UniqueId": 63727,
+    "Timestamp": "2026-11-23 06:14",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Ft Apache Rd",
+    "Relationship": "before",
+    "CrossStreet": "Lone Mountain Rd",
+    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
+    "Notes": "6:14 AM, Nov 23 2026 Crash on NB Ft Apache Rd\u00A0before Lone Mountain Rd. All NB and SB lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.248164099999997,
+    "Longitude": -115.2974019
   }
 ]
