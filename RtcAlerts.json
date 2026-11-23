@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63640,
-    "Timestamp": "2026-11-22 06:35",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Charleston Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Sloan Ln",
-    "Impact": "Intersection partially blocked",
-    "Notes": "6:35 AM, Nov 22 2026 Crash on WB Charleston Blvd\u00A0at Sloan Ln. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867570/attachment_0.jpg",
-    "Latitude": 36.159346999999997,
-    "Longitude": -115.0473999
-  },
-  {
     "UniqueId": 63641,
     "Timestamp": "2026-11-22 07:15",
     "IncidentType": "Crash",
@@ -1188,5 +1174,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868184/attachment_0.png",
     "Latitude": 36.173755550244252,
     "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 63736,
+    "Timestamp": "2026-11-23 06:55",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Roy Horn Way",
+    "Impact": "Left lane blocked.",
+    "Notes": "6:55 AM, Nov 23 2026 Crash on SB Jones Blvd\u00A0after Roy Horn Way. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868248/attachment_0.png",
+    "Latitude": 36.065881500000003,
+    "Longitude": -115.2244378
   }
 ]
