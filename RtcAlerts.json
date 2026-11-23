@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63581,
-    "Timestamp": "2026-11-21 16:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Center lane blocked.",
-    "Notes": "4:53 PM, Nov 21 2026 Stalled vehicle on EB Sahara Ave\u00A0before Las Vegas Blvd. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/21/file_attachments/3867410/attachment_0.png",
-    "Latitude": 36.143662482122316,
-    "Longitude": -115.1573931887723
-  },
-  {
     "UniqueId": 63582,
     "Timestamp": "2026-11-21 17:03",
     "IncidentType": "Stalled vehicle",
@@ -1370,5 +1356,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867792/attachment_0.jpg",
     "Latitude": 36.24008509526989,
     "Longitude": -115.10174274444582
+  },
+  {
+    "UniqueId": 63688,
+    "Timestamp": "2026-11-22 16:48",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Twain Ave",
+    "Impact": "Right lane blocked. Expect Delays",
+    "Notes": "4:48 PM, Nov 22 2026 Crash on SB Nellis Blvd\u00A0after Twain Ave. Right lane blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867793/attachment_0.png",
+    "Latitude": 36.122523919999999,
+    "Longitude": -115.06509306
   }
 ]
