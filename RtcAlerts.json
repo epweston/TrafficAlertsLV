@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63648,
-    "Timestamp": "2026-11-22 10:22",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Warm Springs Rd",
-    "Relationship": "before",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Center lanes blocked.",
-    "Notes": "10:22 AM, Nov 22 2026 Crash on EB Warm Springs Rd\u00A0before Eastern Ave. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867609/attachment_0.png",
-    "Latitude": 36.056949000000003,
-    "Longitude": -115.1184136
-  },
-  {
     "UniqueId": 63649,
     "Timestamp": "2026-11-22 10:36",
     "IncidentType": "Stalled vehicle",
@@ -1314,5 +1300,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868643/attachment_0.png",
     "Latitude": 36.159109600000001,
     "Longitude": -115.1997406
+  },
+  {
+    "UniqueId": 63757,
+    "Timestamp": "2026-11-23 10:17",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Ann Rd",
+    "Relationship": "after",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:17 AM, Nov 23 2026 Crash on WB Ann Rd\u00A0after Rainbow Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868672/attachment_0.jpg",
+    "Latitude": 36.263265599999997,
+    "Longitude": -115.2424312
+  },
+  {
+    "UniqueId": 63758,
+    "Timestamp": "2026-11-23 10:19",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Cheyenne Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "10:19 AM, Nov 23 2026 Crash on SB Rainbow Blvd\u00A0at Cheyenne Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868684/attachment_0.jpg",
+    "Latitude": 36.218206485249539,
+    "Longitude": -115.24233341636517
   }
 ]
