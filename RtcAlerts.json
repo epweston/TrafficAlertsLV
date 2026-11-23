@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63642,
-    "Timestamp": "2026-11-22 07:36",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:36 AM, Nov 22 2026 Stalled vehicle on SB I-15\u00A0at Flamingo Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867573/attachment_0.png",
-    "Latitude": 36.114494117320874,
-    "Longitude": -115.18065333366396
-  },
-  {
     "UniqueId": 63643,
     "Timestamp": "2026-11-22 09:04",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1202,19 @@
     "ImagePath": "",
     "Latitude": 36.248164099999997,
     "Longitude": -115.2974019
+  },
+  {
+    "UniqueId": 63740,
+    "Timestamp": "2026-11-23 07:42",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "Right lanes blocked.",
+    "Notes": "7:42 AM, Nov 23 2026 Crash on NB I-11\u00A0before Boulder Hwy. Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868356/attachment_0.png",
+    "Latitude": 36.135899162360708,
+    "Longitude": -115.09041309356691
   }
 ]
