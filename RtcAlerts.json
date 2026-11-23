@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63606,
-    "Timestamp": "2026-11-22 01:51",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:51 AM, Nov 22 2026 Stalled vehicle on NB I-11\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867492/attachment_0.png",
-    "Latitude": 36.176699158494841,
-    "Longitude": -115.24366395563143
-  },
-  {
-    "UniqueId": 63607,
-    "Timestamp": "2026-11-22 01:55",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Desert Inn Rd",
-    "Impact": "Intersection partially blocked\u00A0 Expect Delays",
-    "Notes": "1:55 AM, Nov 22 2026 Crash on SB Rainbow Blvd\u00A0at Desert Inn Rd. Intersection partially blocked\u00A0 Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867494/attachment_0.jpg",
-    "Latitude": 36.12947394310789,
-    "Longitude": -115.24300934562113
-  },
-  {
-    "UniqueId": 63612,
-    "Timestamp": "2026-11-22 02:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Charleston Blvd",
-    "Impact": "Left lane blocked.",
-    "Notes": "2:10 AM, Nov 22 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Charleston Blvd Off Ramp. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867495/attachment_0.jpg",
-    "Latitude": 36.158978791794347,
-    "Longitude": -115.33726757257516
-  },
-  {
     "UniqueId": 63613,
     "Timestamp": "2026-11-22 02:13",
     "IncidentType": "Crash",
@@ -1300,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867866/attachment_0.png",
     "Latitude": 36.071648699999997,
     "Longitude": -115.14116249999999
+  },
+  {
+    "UniqueId": 63708,
+    "Timestamp": "2026-11-23 02:08",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:08 AM, Nov 23 2026 Stalled vehicle on NB I-15\u00A0at Harmon Ave. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867869/attachment_0.png",
+    "Latitude": 36.107993454589142,
+    "Longitude": -115.18050356672701
   }
 ]
