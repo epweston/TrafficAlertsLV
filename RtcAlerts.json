@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63633,
-    "Timestamp": "2026-11-22 05:34",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "at",
-    "CrossStreet": "Hacienda Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:34 AM, Nov 22 2026 Stalled vehicle on SB Frank Sinatra Dr\u00A0at Hacienda Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867561/attachment_0.png",
-    "Latitude": 36.093341600000002,
-    "Longitude": -115.0956735
-  },
-  {
     "UniqueId": 63634,
     "Timestamp": "2026-11-22 05:59",
     "IncidentType": "Crash",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868079/attachment_0.jpg",
     "Latitude": 36.239468799999997,
     "Longitude": -115.1571304
+  },
+  {
+    "UniqueId": 63721,
+    "Timestamp": "2026-11-23 05:29",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Spanish Gold Ave",
+    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
+    "Notes": "5:29 AM, Nov 23 2026 Crash on NB Fort Apache Rd\u00A0at Spanish Gold Ave. All NB and SB lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "",
+    "Latitude": 36.1873918,
+    "Longitude": -115.1580759
   }
 ]
