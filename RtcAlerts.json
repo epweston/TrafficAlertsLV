@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63664,
-    "Timestamp": "2026-11-22 12:58",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Martin L King Blvd",
-    "Relationship": "under",
-    "CrossStreet": "I-11",
-    "Impact": "Right lane blocked.",
-    "Notes": "12:58 PM, Nov 22 2026 Crash on SB Martin L King Blvd\u00A0under I-11. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.175245009999998,
-    "Longitude": -115.16082640000001
-  },
-  {
     "UniqueId": 63665,
     "Timestamp": "2026-11-22 13:13",
     "IncidentType": "Crash",
@@ -1314,5 +1300,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869083/attachment_0.png",
     "Latitude": 36.274993366998793,
     "Longitude": -115.20657961738746
+  },
+  {
+    "UniqueId": 63773,
+    "Timestamp": "2026-11-23 12:57",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Rainbow Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Badura Ave",
+    "Impact": "Left and Center lanes blocked.",
+    "Notes": "12:57 PM, Nov 23 2026 Crash on NB Rainbow Blvd\u00A0at Badura Ave. Left and Center lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869093/attachment_0.png",
+    "Latitude": 36.061311589035434,
+    "Longitude": -115.24259087906742
   }
 ]
