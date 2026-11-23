@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63631,
-    "Timestamp": "2026-11-22 05:18",
-    "IncidentType": "Police activity",
-    "Direction": "NB",
-    "PrimaryRoad": "Frank Sinatra Dr",
-    "Relationship": "at",
-    "CrossStreet": "Russell Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:18 AM, Nov 22 2026 Police activity on NB Frank Sinatra Dr\u00A0at Russell Rd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867538/attachment_0.png",
-    "Latitude": 36.086073599999999,
-    "Longitude": -115.1757181
-  },
-  {
-    "UniqueId": 63632,
-    "Timestamp": "2026-11-22 05:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Grand Canyon Dr",
-    "Relationship": "at",
-    "CrossStreet": "Flamingo Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "5:19 AM, Nov 22 2026 Crash on SB Grand Canyon Dr\u00A0at Flamingo Rd. 2 Right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.115191799999998,
-    "Longitude": -115.30705279999999
-  },
-  {
     "UniqueId": 63633,
     "Timestamp": "2026-11-22 05:34",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868059/attachment_0.png",
     "Latitude": 36.233048400000001,
     "Longitude": -115.242317
+  },
+  {
+    "UniqueId": 63718,
+    "Timestamp": "2026-11-23 05:17",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Badura Ave",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "All lanes are blocked.",
+    "Notes": "5:17 AM, Nov 23 2026 Crash on EB Badura Ave\u00A0at Rainbow Blvd. All lanes are blocked.",
+    "ImagePath": "",
+    "Latitude": 36.061302898524517,
+    "Longitude": -115.24256938515291
   }
 ]
