@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63685,
-    "Timestamp": "2026-11-22 16:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Main St",
-    "Relationship": "at",
-    "CrossStreet": "Fremont St",
-    "Impact": "Expect Delays",
-    "Notes": "4:02 PM, Nov 22 2026 Crash on NB Main St\u00A0at Fremont St. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867786/attachment_0.png",
-    "Latitude": 36.171681200000002,
-    "Longitude": -115.1463823
-  },
-  {
     "UniqueId": 63686,
     "Timestamp": "2026-11-22 16:21",
     "IncidentType": "Crash",
@@ -1216,5 +1202,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869651/attachment_0.png",
     "Latitude": 36.114655800000001,
     "Longitude": -115.1379192
+  },
+  {
+    "UniqueId": 63786,
+    "Timestamp": "2026-11-23 16:08",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Karen Ave",
+    "Relationship": "before",
+    "CrossStreet": "Joe W Brown Dr",
+    "Impact": "Left lane blocked.",
+    "Notes": "4:08 PM, Nov 23 2026 Crash on WB Karen Ave\u00A0before Joe W Brown Dr. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869665/attachment_0.png",
+    "Latitude": 36.1402894,
+    "Longitude": -115.1518124
+  },
+  {
+    "UniqueId": 63787,
+    "Timestamp": "2026-11-23 16:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Jones Blvd On Left",
+    "Impact": "",
+    "Notes": "4:10 PM, Nov 23 2026 Stalled vehicle on SB I-11\u00A0before Jones Blvd on left shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869667/attachment_0.png",
+    "Latitude": 36.2480239,
+    "Longitude": -115.24655850000001
   }
 ]
