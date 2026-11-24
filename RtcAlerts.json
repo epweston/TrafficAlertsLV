@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63689,
-    "Timestamp": "2026-11-22 17:24",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:24 PM, Nov 22 2026 Stalled vehicle on SB 215 Western Beltway\u00A0at Lake Mead Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867807/attachment_0.png",
-    "Latitude": 36.205568079996773,
-    "Longitude": -115.34099578857423
-  },
-  {
-    "UniqueId": 63690,
-    "Timestamp": "2026-11-22 17:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Far Hills Ave",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "5:25 PM, Nov 22 2026 Stalled vehicle on NB 215 Western Beltway\u00A0before Far Hills Ave. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867808/attachment_0.png",
-    "Latitude": 36.181486768045396,
-    "Longitude": -115.34132270562058
-  },
-  {
     "UniqueId": 63691,
     "Timestamp": "2026-11-22 17:33",
     "IncidentType": "Crash",
@@ -1272,5 +1244,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869703/attachment_0.png",
     "Latitude": 36.1645672,
     "Longitude": -115.1436787
+  },
+  {
+    "UniqueId": 63794,
+    "Timestamp": "2026-11-23 17:22",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "after",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:22 PM, Nov 23 2026 Crash on EB 215 Southern Beltway\u00A0after Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869704/attachment_0.png",
+    "Latitude": 36.063514658779816,
+    "Longitude": -115.1723385276652
   }
 ]
