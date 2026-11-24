@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63750,
-    "Timestamp": "2026-11-23 09:13",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Sands Ave",
-    "Impact": "Center lanes blocked.",
-    "Notes": "9:13 AM, Nov 23 2026 Crash on NB Las Vegas Blvd\u00A0before Sands Ave. Center lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868519/attachment_0.jpg",
-    "Latitude": 36.125536599999997,
-    "Longitude": -115.16914730000001
-  },
-  {
     "UniqueId": 63751,
     "Timestamp": "2026-11-23 09:17",
     "IncidentType": "Crash",
@@ -1174,5 +1160,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870334/attachment_0.jpg",
     "Latitude": 36.129360200000001,
     "Longitude": -115.269982
+  },
+  {
+    "UniqueId": 63837,
+    "Timestamp": "2026-11-24 09:09",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:09 AM, Nov 24 2026 Crash on NB I-15 (CD Rd) \u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870337/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
+  },
+  {
+    "UniqueId": 63838,
+    "Timestamp": "2026-11-24 09:10",
+    "IncidentType": "Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder.",
+    "Notes": "9:10 AM, Nov 24 2026 Police activity on SB Las Vegas Blvd\u00A0at 215 Southern Beltway. Right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870353/attachment_0.png",
+    "Latitude": 36.063540607409585,
+    "Longitude": -115.17238147551866
   }
 ]
