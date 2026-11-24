@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63757,
-    "Timestamp": "2026-11-23 10:17",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Ann Rd",
-    "Relationship": "after",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:17 AM, Nov 23 2026 Crash on WB Ann Rd\u00A0after Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868672/attachment_0.jpg",
-    "Latitude": 36.263265599999997,
-    "Longitude": -115.2424312
-  },
-  {
-    "UniqueId": 63758,
-    "Timestamp": "2026-11-23 10:19",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Cheyenne Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:19 AM, Nov 23 2026 Crash on SB Rainbow Blvd\u00A0at Cheyenne Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868684/attachment_0.jpg",
-    "Latitude": 36.218206485249539,
-    "Longitude": -115.24233341636517
-  },
-  {
-    "UniqueId": 63759,
-    "Timestamp": "2026-11-23 10:33",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "before",
-    "CrossStreet": "Walnut Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "10:33 AM, Nov 23 2026 Crash on EB Cheyenne Ave\u00A0before Walnut Rd. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.217682794356257,
-    "Longitude": -115.08932948112489
-  },
-  {
     "UniqueId": 63763,
     "Timestamp": "2026-11-23 11:34",
     "IncidentType": "Crash",
@@ -1188,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870478/attachment_0.png",
     "Latitude": 36.114312130000002,
     "Longitude": -115.15402971
+  },
+  {
+    "UniqueId": 63845,
+    "Timestamp": "2026-11-24 10:29",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Airport Connector",
+    "Relationship": "at",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:29 AM, Nov 24 2026 Stalled vehicle on NB Airport Connector\u00A0at Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870542/attachment_0.png",
+    "Latitude": 36.071546221107518,
+    "Longitude": -115.14626596347613
   }
 ]
