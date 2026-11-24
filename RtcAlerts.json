@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63763,
-    "Timestamp": "2026-11-23 11:34",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Paradise Rd",
-    "Relationship": "after",
-    "CrossStreet": "Convention Center Dr",
-    "Impact": "Right lane blocked.",
-    "Notes": "11:34 AM, Nov 23 2026 Crash on SB Paradise Rd\u00A0after Convention Center Dr. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868793/attachment_0.jpg",
-    "Latitude": 36.132214300000001,
-    "Longitude": -115.1548964
-  },
-  {
     "UniqueId": 63764,
     "Timestamp": "2026-11-23 11:40",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870636/attachment_0.png",
     "Latitude": 36.2978448,
     "Longitude": -115.2512158
+  },
+  {
+    "UniqueId": 63854,
+    "Timestamp": "2026-11-24 11:31",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Jones Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:31 AM, Nov 24 2026 Crash on EB 215 Northern Beltway\u00A0at Jones Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870638/attachment_0.png",
+    "Latitude": 36.174080704632161,
+    "Longitude": -115.22413728104496
   }
 ]
