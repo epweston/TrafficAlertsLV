@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63765,
-    "Timestamp": "2026-11-23 11:53",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Summerlin Pkwy",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:53 AM, Nov 23 2026 Stalled vehicle on WB I-11\u00A0to Summerlin Pkwy. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868810/attachment_0.png",
-    "Latitude": 36.177653931557593,
-    "Longitude": -115.24496227194625
-  },
-  {
-    "UniqueId": 63766,
-    "Timestamp": "2026-11-23 11:57",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sahara Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Intersection partially blocked",
-    "Notes": "11:57 AM, Nov 23 2026 Crash on EB Sahara Ave\u00A0at Rancho Dr. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868843/attachment_0.png",
-    "Latitude": 36.144174199999988,
-    "Longitude": -115.1731231
-  },
-  {
     "UniqueId": 63767,
     "Timestamp": "2026-11-23 11:59",
     "IncidentType": "Crash",
@@ -1300,5 +1272,19 @@
     "ImagePath": "",
     "Latitude": 36.020259986978459,
     "Longitude": -115.27924598836366
+  },
+  {
+    "UniqueId": 63858,
+    "Timestamp": "2026-11-24 11:53",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Us-95",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:53 AM, Nov 24 2026 Stalled vehicle on NB I-11\u00A0before US-95. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870790/attachment_0.jpg",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
