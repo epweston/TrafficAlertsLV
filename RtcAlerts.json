@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63737,
-    "Timestamp": "2026-11-23 07:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Tropical Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:28 AM, Nov 23 2026 Crash on EB Tropical Pkwy\u00A0at I-15. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868325/attachment_0.png",
-    "Latitude": 36.271334600290096,
-    "Longitude": -115.05659580230714
-  },
-  {
-    "UniqueId": 63738,
-    "Timestamp": "2026-11-23 07:30",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Roy Horn Way",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:30 AM, Nov 23 2026 Crash on SB Jones Blvd\u00A0after Roy Horn Way. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.065881500000003,
-    "Longitude": -115.2244378
-  },
-  {
-    "UniqueId": 63739,
-    "Timestamp": "2026-11-23 07:32",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "Left lane blocked.",
-    "Notes": "7:32 AM, Nov 23 2026 Crash on NB Ft Apache Rd\u00A0before Lone Mountain Rd. Left lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.248164099999997,
-    "Longitude": -115.2974019
-  },
-  {
     "UniqueId": 63740,
     "Timestamp": "2026-11-23 07:42",
     "IncidentType": "Crash",
@@ -1160,5 +1118,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870090/attachment_0.jpg",
     "Latitude": 36.04604550983511,
     "Longitude": -115.02263862305127
+  },
+  {
+    "UniqueId": 63827,
+    "Timestamp": "2026-11-24 07:26",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Eastern Ave",
+    "Relationship": "before",
+    "CrossStreet": "Siena Heights Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:26 AM, Nov 24 2026 Crash on SB Eastern Ave\u00A0before Siena Heights Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870074/attachment_0.jpg",
+    "Latitude": 36.004484599999998,
+    "Longitude": -115.111282
+  },
+  {
+    "UniqueId": 63828,
+    "Timestamp": "2026-11-24 07:28",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "7:28 AM, Nov 24 2026 Crash on SB Jones Blvd\u00A0at Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870096/attachment_0.png",
+    "Latitude": 36.0256525,
+    "Longitude": -115.2256967
   }
 ]
