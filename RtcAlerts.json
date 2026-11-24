@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63707,
-    "Timestamp": "2026-11-23 01:44",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Sunset Rd",
-    "Relationship": "after",
-    "CrossStreet": "Paradise Rd",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "1:44 AM, Nov 23 2026 Crash on EB Sunset Rd\u00A0after Paradise Rd. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867866/attachment_0.png",
-    "Latitude": 36.071648699999997,
-    "Longitude": -115.14116249999999
-  },
-  {
-    "UniqueId": 63708,
-    "Timestamp": "2026-11-23 02:08",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "2:08 AM, Nov 23 2026 Stalled vehicle on NB I-15\u00A0at Harmon Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867869/attachment_0.png",
-    "Latitude": 36.107993454589142,
-    "Longitude": -115.18050356672701
-  },
-  {
     "UniqueId": 63709,
     "Timestamp": "2026-11-23 03:14",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1244,19 @@
     "ImagePath": "",
     "Latitude": 36.114680487880882,
     "Longitude": -115.1728856710384
+  },
+  {
+    "UniqueId": 63812,
+    "Timestamp": "2026-11-24 02:24",
+    "IncidentType": "Police activity",
+    "Direction": "EB",
+    "PrimaryRoad": "Tropicana Ave",
+    "Relationship": "at",
+    "CrossStreet": "Mcleod Dr",
+    "Impact": "Right lane blocked.",
+    "Notes": "2:24 AM, Nov 24 2026 Police activity on EB Tropicana Ave\u00A0at McLeod Dr. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869763/attachment_0.png",
+    "Latitude": 36.100067600000003,
+    "Longitude": -115.10999150000001
   }
 ]
