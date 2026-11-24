@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63704,
-    "Timestamp": "2026-11-23 00:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Viking Ave",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "12:08 AM, Nov 23 2026 Crash on EB Viking Ave\u00A0at Eastern Ave. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867856/attachment_0.png",
-    "Latitude": 36.1185039,
-    "Longitude": -115.1190604
-  },
-  {
     "UniqueId": 63705,
     "Timestamp": "2026-11-23 01:16",
     "IncidentType": "Crash",
@@ -1244,5 +1230,19 @@
     "ImagePath": "",
     "Latitude": 36.108088801530357,
     "Longitude": -115.05910634994508
+  },
+  {
+    "UniqueId": 63807,
+    "Timestamp": "2026-11-24 00:10",
+    "IncidentType": "Update Police activity",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Right lanes and one left turn lane blocked.",
+    "Notes": "12:10 AM, Nov 24 2026 Update Police activity on SB Las Vegas Blvd\u00A0before Flamingo Rd. Right lanes and one left turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869778/attachment_0.jpg",
+    "Latitude": 36.114659896847385,
+    "Longitude": -115.17288892246221
   }
 ]
