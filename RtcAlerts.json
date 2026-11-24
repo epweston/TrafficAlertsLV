@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63696,
-    "Timestamp": "2026-11-22 18:42",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Centennial Pkwy",
-    "Relationship": "at",
-    "CrossStreet": "Shaumber Rd",
-    "Impact": "Intersection partially blocked. Expect Delays",
-    "Notes": "6:42 PM, Nov 22 2026 Crash on EB Centennial Pkwy\u00A0at Shaumber Rd. Intersection partially blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867820/attachment_0.png",
-    "Latitude": 36.277208700000003,
-    "Longitude": -115.32898059999999
-  },
-  {
     "UniqueId": 63697,
     "Timestamp": "2026-11-22 18:47",
     "IncidentType": "Stalled vehicle",
@@ -1244,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869731/attachment_0.png",
     "Latitude": 36.217617875912651,
     "Longitude": -115.12388861409171
+  },
+  {
+    "UniqueId": 63799,
+    "Timestamp": "2026-11-23 18:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Northern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Durango Dr",
+    "Impact": "",
+    "Notes": "6:38 PM, Nov 23 2026 Stalled vehicle on WB 215 Northern Beltway\u00A0before Durango Dr on right shoulder.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869733/attachment_0.png",
+    "Latitude": 36.298386639861533,
+    "Longitude": -115.28597831726076
   }
 ]
