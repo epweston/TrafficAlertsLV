@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63741,
-    "Timestamp": "2026-11-23 07:52",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Rainbow Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Maule Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "7:52 AM, Nov 23 2026 Crash on NB Rainbow Blvd\u00A0before Maule Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868363/attachment_0.jpg",
-    "Latitude": 36.063199999999988,
-    "Longitude": -115.24233289999999
-  },
-  {
     "UniqueId": 63742,
     "Timestamp": "2026-11-23 08:05",
     "IncidentType": "Crash",
@@ -1160,5 +1146,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870118/attachment_0.png",
     "Latitude": 36.275066093673964,
     "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 63831,
+    "Timestamp": "2026-11-24 07:47",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Tropical Pkwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:47 AM, Nov 24 2026 Stalled vehicle on SB I-15\u00A0at Tropical Pkwy. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870149/attachment_0.jpg",
+    "Latitude": 36.272856280056651,
+    "Longitude": -115.26267889281597
+  },
+  {
+    "UniqueId": 63832,
+    "Timestamp": "2026-11-24 07:49",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "before",
+    "CrossStreet": "Range Rd",
+    "Impact": "Right-turn lane blocked.",
+    "Notes": "7:49 AM, Nov 24 2026 Stalled vehicle on SB Las Vegas Blvd \u00A0before Range Rd. Right-turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870151/attachment_0.png",
+    "Latitude": 36.246219400000001,
+    "Longitude": -115.0445976
   }
 ]
