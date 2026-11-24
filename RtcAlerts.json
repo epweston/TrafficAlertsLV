@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63709,
-    "Timestamp": "2026-11-23 03:14",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "3:14 AM, Nov 23 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867895/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
-    "UniqueId": 63710,
-    "Timestamp": "2026-11-23 03:49",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "3:49 AM, Nov 23 2026 Crash on EB Badura Ave\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867906/attachment_0.png",
-    "Latitude": 36.061302898524517,
-    "Longitude": -115.24256938515291
-  },
-  {
     "UniqueId": 63711,
     "Timestamp": "2026-11-23 04:08",
     "IncidentType": "Crash",
@@ -1286,5 +1258,19 @@
     "ImagePath": "",
     "Latitude": 36.100067600000003,
     "Longitude": -115.10999150000001
+  },
+  {
+    "UniqueId": 63815,
+    "Timestamp": "2026-11-24 03:57",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "Us-95",
+    "Relationship": "after",
+    "CrossStreet": "Colorado River Hwy",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "3:57 AM, Nov 24 2026 Stalled vehicle on NB US-95\u00A0after Colorado River Hwy. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.121397100000003,
+    "Longitude": -115.0831993
   }
 ]
