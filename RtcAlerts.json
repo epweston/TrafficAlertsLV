@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63752,
-    "Timestamp": "2026-11-23 09:32",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Smoke Ranch Rd",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "9:32 AM, Nov 23 2026 Stalled vehicle on WB Smoke Ranch Rd\u00A0before Buffalo Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868564/attachment_0.jpg",
-    "Latitude": 36.203503900000001,
-    "Longitude": -115.2607019
-  },
-  {
-    "UniqueId": 63753,
-    "Timestamp": "2026-11-23 09:33",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "Boulder City Parkway",
-    "Relationship": "at",
-    "CrossStreet": "Hoover Dam Access Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "9:33 AM, Nov 23 2026 Stalled vehicle on WB Boulder City Parkway\u00A0at Hoover Dam Access Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868544/attachment_0.png",
-    "Latitude": 36.171562999999999,
-    "Longitude": -115.1391009
-  },
-  {
     "UniqueId": 63754,
     "Timestamp": "2026-11-23 09:49",
     "IncidentType": "Stalled vehicle",
@@ -1216,5 +1188,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870381/attachment_0.png",
     "Latitude": 36.196928200000002,
     "Longitude": -115.1337309
+  },
+  {
+    "UniqueId": 63842,
+    "Timestamp": "2026-11-24 09:32",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Moapa Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:32 AM, Nov 24 2026 Stalled vehicle on SB I-15\u00A0after Moapa Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.045907399999997,
+    "Longitude": -115.07242720000001
   }
 ]
