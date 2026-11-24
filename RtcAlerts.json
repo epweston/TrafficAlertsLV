@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63687,
-    "Timestamp": "2026-11-22 16:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:26 PM, Nov 22 2026 Stalled vehicle on NB I-11\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867792/attachment_0.jpg",
-    "Latitude": 36.24008509526989,
-    "Longitude": -115.10174274444582
-  },
-  {
     "UniqueId": 63688,
     "Timestamp": "2026-11-22 16:48",
     "IncidentType": "Crash",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869672/attachment_0.png",
     "Latitude": 36.042627600123957,
     "Longitude": -115.13402582473329
+  },
+  {
+    "UniqueId": 63789,
+    "Timestamp": "2026-11-23 16:25",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Cactus Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:25 PM, Nov 23 2026 Stalled vehicle on SB I-15\u00A0before Cactus Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869694/attachment_0.png",
+    "Latitude": 35.999066361520875,
+    "Longitude": -115.18071595327889
   }
 ]
