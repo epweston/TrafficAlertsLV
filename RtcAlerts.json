@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63711,
-    "Timestamp": "2026-11-23 04:08",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "All lanes are blocked. Use other routes",
-    "Notes": "4:08 AM, Nov 23 2026 Crash on EB Badura Ave\u00A0at Rainbow Blvd. All lanes are blocked. Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867930/attachment_0.png",
-    "Latitude": 36.061302898524517,
-    "Longitude": -115.24256938515291
-  },
-  {
-    "UniqueId": 63712,
-    "Timestamp": "2026-11-23 04:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Spanish Gold Ave",
-    "Impact": "All lanes are blocked. Expect Delays Use other routes",
-    "Notes": "4:21 AM, Nov 23 2026 Crash on NB Fort Apache Rd\u00A0at Spanish Gold Ave. All lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3867971/attachment_0.png",
-    "Latitude": 36.1873918,
-    "Longitude": -115.1580759
-  },
-  {
-    "UniqueId": 63713,
-    "Timestamp": "2026-11-23 04:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "after",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "4:40 AM, Nov 23 2026 Stalled vehicle on NB 215 Southern Beltway\u00A0after Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868001/attachment_0.png",
-    "Latitude": 36.167891848962327,
-    "Longitude": -115.11588871479036
-  },
-  {
     "UniqueId": 63714,
     "Timestamp": "2026-11-23 04:41",
     "IncidentType": "Crash",
@@ -1272,5 +1230,19 @@
     "ImagePath": "",
     "Latitude": 36.121397100000003,
     "Longitude": -115.0831993
+  },
+  {
+    "UniqueId": 63816,
+    "Timestamp": "2026-11-24 04:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mm 7",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:39 AM, Nov 24 2026 Stalled vehicle on SB I-15\u00A0at MM 7. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869839/attachment_0.png",
+    "Latitude": 41.127296600000001,
+    "Longitude": -112.0255346
   }
 ]
