@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63722,
-    "Timestamp": "2026-11-23 05:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Silverado Ranch Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "5:42 AM, Nov 23 2026 Stalled vehicle on SB I-15\u00A0before Silverado Ranch Rd . Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868089/attachment_0.jpg",
-    "Latitude": 36.013639499999996,
-    "Longitude": -115.1715914
-  },
-  {
     "UniqueId": 63724,
     "Timestamp": "2026-11-23 05:53",
     "IncidentType": "Stalled vehicle",
@@ -1174,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869906/attachment_0.png",
     "Latitude": 36.282633238759672,
     "Longitude": -115.02613173440233
+  },
+  {
+    "UniqueId": 63820,
+    "Timestamp": "2026-11-24 05:39",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Jean",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:39 AM, Nov 24 2026 Stalled vehicle on NB I-15\u00A0at Jean. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869884/attachment_0.jpg",
+    "Latitude": 35.780638833212116,
+    "Longitude": -115.32829409722736
   }
 ]
