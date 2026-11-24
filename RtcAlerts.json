@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63751,
-    "Timestamp": "2026-11-23 09:17",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Buffalo Dr",
-    "Relationship": "at",
-    "CrossStreet": "Lake Mead Blvd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "9:17 AM, Nov 23 2026 Crash on NB Buffalo Dr\u00A0at Lake Mead Blvd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868522/attachment_0.png",
-    "Latitude": 36.196118272847883,
-    "Longitude": -115.26036856461288
-  },
-  {
     "UniqueId": 63752,
     "Timestamp": "2026-11-23 09:32",
     "IncidentType": "Stalled vehicle",
@@ -1188,5 +1174,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870353/attachment_0.png",
     "Latitude": 36.063540607409585,
     "Longitude": -115.17238147551866
+  },
+  {
+    "UniqueId": 63839,
+    "Timestamp": "2026-11-24 09:15",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "after",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:15 AM, Nov 24 2026 Stalled vehicle on SB I-15\u00A0after Charleston Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870363/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
+  },
+  {
+    "UniqueId": 63840,
+    "Timestamp": "2026-11-24 09:17",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Jones Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Rafael Rivera Way",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "9:17 AM, Nov 24 2026 Crash on NB Jones Blvd\u00A0at Rafael Rivera Way. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870369/attachment_0.jpg",
+    "Latitude": 36.067833440492173,
+    "Longitude": -115.22450208663942
   }
 ]
