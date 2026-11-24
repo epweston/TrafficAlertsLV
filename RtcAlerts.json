@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63686,
-    "Timestamp": "2026-11-22 16:21",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Flamingo Rd",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "4:21 PM, Nov 22 2026 Crash on EB Flamingo Rd\u00A0after Las Vegas Blvd. Left lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/22/file_attachments/3867790/attachment_0.png",
-    "Latitude": 36.114680487880882,
-    "Longitude": -115.1728856710384
-  },
-  {
     "UniqueId": 63687,
     "Timestamp": "2026-11-22 16:26",
     "IncidentType": "Stalled vehicle",
@@ -1230,5 +1216,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869667/attachment_0.png",
     "Latitude": 36.2480239,
     "Longitude": -115.24655850000001
+  },
+  {
+    "UniqueId": 63788,
+    "Timestamp": "2026-11-23 16:21",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Windmill Ln",
+    "Impact": "Right lane blocked.",
+    "Notes": "4:21 PM, Nov 23 2026 Crash on EB 215 Southern Beltway\u00A0at Windmill Ln. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3869672/attachment_0.png",
+    "Latitude": 36.042627600123957,
+    "Longitude": -115.13402582473329
   }
 ]
