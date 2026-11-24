@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63742,
-    "Timestamp": "2026-11-23 08:05",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Gowan Rd",
-    "Relationship": "at",
-    "CrossStreet": "Cimarron Rd",
-    "Impact": "Left lane blocked. Expect Delays",
-    "Notes": "8:05 AM, Nov 23 2026 Crash on EB Gowan Rd\u00A0at Cimarron Rd. Left lane blocked. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.225940399999999,
-    "Longitude": -115.2697739
-  },
-  {
-    "UniqueId": 63747,
-    "Timestamp": "2026-11-23 08:26",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:26 AM, Nov 23 2026 Stalled vehicle on NB I-11\u00A0after Jones Blvd. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868412/attachment_0.png",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
-    "UniqueId": 63748,
-    "Timestamp": "2026-11-23 08:27",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Center lane blocked.",
-    "Notes": "8:27 AM, Nov 23 2026 Crash on SB Las Vegas Blvd\u00A0before Tropicana Ave. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868436/attachment_0.jpg",
-    "Latitude": 36.100850795749203,
-    "Longitude": -115.17295000315606
-  },
-  {
-    "UniqueId": 63749,
-    "Timestamp": "2026-11-23 08:36",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Decatur Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Oquendo Rd",
-    "Impact": "Left lanes blocked.",
-    "Notes": "8:36 AM, Nov 23 2026 Crash on NB Decatur Blvd\u00A0before Oquendo Rd. Left lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868446/attachment_0.jpg",
-    "Latitude": 36.082644400085449,
-    "Longitude": -115.2078938484192
-  },
-  {
     "UniqueId": 63750,
     "Timestamp": "2026-11-23 09:13",
     "IncidentType": "Crash",
@@ -1174,5 +1118,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870151/attachment_0.png",
     "Latitude": 36.246219400000001,
     "Longitude": -115.0445976
+  },
+  {
+    "UniqueId": 63833,
+    "Timestamp": "2026-11-24 08:34",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Nellis Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "8:34 AM, Nov 24 2026 Crash on SB Nellis Blvd\u00A0at Lake Mead Blvd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870269/attachment_0.png",
+    "Latitude": 36.196209164023024,
+    "Longitude": -115.06218552589418
   }
 ]
