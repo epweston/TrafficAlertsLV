@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63719,
-    "Timestamp": "2026-11-23 05:24",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Badura Ave",
-    "Relationship": "at",
-    "CrossStreet": "Rainbow Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:24 AM, Nov 23 2026 Crash on EB Badura Ave\u00A0at Rainbow Blvd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.061302898524517,
-    "Longitude": -115.24256938515291
-  },
-  {
-    "UniqueId": 63720,
-    "Timestamp": "2026-11-23 05:28",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "at",
-    "CrossStreet": "Craig Ranch View Ct",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:28 AM, Nov 23 2026 Crash on EB Craig Rd\u00A0at Craig Ranch View Ct. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868079/attachment_0.jpg",
-    "Latitude": 36.239468799999997,
-    "Longitude": -115.1571304
-  },
-  {
-    "UniqueId": 63721,
-    "Timestamp": "2026-11-23 05:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Fort Apache Rd",
-    "Relationship": "at",
-    "CrossStreet": "Spanish Gold Ave",
-    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "Notes": "5:29 AM, Nov 23 2026 Crash on NB Fort Apache Rd\u00A0at Spanish Gold Ave. All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.1873918,
-    "Longitude": -115.1580759
-  },
-  {
     "UniqueId": 63722,
     "Timestamp": "2026-11-23 05:42",
     "IncidentType": "Stalled vehicle",
@@ -1202,5 +1160,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869874/attachment_0.png",
     "Latitude": 36.063514658779816,
     "Longitude": -115.1723385276652
+  },
+  {
+    "UniqueId": 63819,
+    "Timestamp": "2026-11-24 05:28",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Speedway Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:28 AM, Nov 24 2026 Stalled vehicle on NB I-15\u00A0at Speedway Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869906/attachment_0.png",
+    "Latitude": 36.282633238759672,
+    "Longitude": -115.02613173440233
   }
 ]
