@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63740,
-    "Timestamp": "2026-11-23 07:42",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right lanes blocked.",
-    "Notes": "7:42 AM, Nov 23 2026 Crash on NB I-11\u00A0before Boulder Hwy. Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868356/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 63741,
     "Timestamp": "2026-11-23 07:52",
     "IncidentType": "Crash",
@@ -1160,5 +1146,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870112/attachment_0.png",
     "Latitude": 36.195871494894334,
     "Longitude": -115.24199008941652
+  },
+  {
+    "UniqueId": 63830,
+    "Timestamp": "2026-11-24 07:41",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:41 AM, Nov 24 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870118/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
   }
 ]
