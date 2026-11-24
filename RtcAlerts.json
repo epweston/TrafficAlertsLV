@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63764,
-    "Timestamp": "2026-11-23 11:40",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:40 AM, Nov 23 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868797/attachment_0.png",
-    "Latitude": 36.063514658779816,
-    "Longitude": -115.1723385276652
-  },
-  {
     "UniqueId": 63765,
     "Timestamp": "2026-11-23 11:53",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1258,47 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3870638/attachment_0.png",
     "Latitude": 36.174080704632161,
     "Longitude": -115.22413728104496
+  },
+  {
+    "UniqueId": 63855,
+    "Timestamp": "2026-11-24 11:43",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Left lane blocked. Expect Delays",
+    "Notes": "11:43 AM, Nov 24 2026 Crash on SB I-11\u00A0before Las Vegas Blvd. Left lane blocked. Expect Delays",
+    "ImagePath": "",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
+  },
+  {
+    "UniqueId": 63856,
+    "Timestamp": "2026-11-24 11:44",
+    "IncidentType": "Police activity",
+    "Direction": "NB",
+    "PrimaryRoad": "Green Valley Pkwy",
+    "Relationship": "at",
+    "CrossStreet": "215 Southern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:44 AM, Nov 24 2026 Police activity on NB Green Valley Pkwy\u00A0at 215 Southern Beltway. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.171562999999999,
+    "Longitude": -115.1391009
+  },
+  {
+    "UniqueId": 63857,
+    "Timestamp": "2026-11-24 11:45",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Durango Dr",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:45 AM, Nov 24 2026 Crash on SB Durango Dr\u00A0at Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.020259986978459,
+    "Longitude": -115.27924598836366
   }
 ]
