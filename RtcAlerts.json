@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 63726,
-    "Timestamp": "2026-11-23 06:03",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Gilespie St",
-    "Relationship": "before",
-    "CrossStreet": "Hidden Well Rd",
-    "Impact": "All lanes are blocked.",
-    "Notes": "6:03 AM, Nov 23 2026 Crash on SB Gilespie St\u00A0before Hidden Well Rd. All lanes are blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868127/attachment_0.png",
-    "Latitude": 36.064328600000003,
-    "Longitude": -115.1634931
-  },
-  {
-    "UniqueId": 63727,
-    "Timestamp": "2026-11-23 06:14",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Ft Apache Rd",
-    "Relationship": "before",
-    "CrossStreet": "Lone Mountain Rd",
-    "Impact": "All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "Notes": "6:14 AM, Nov 23 2026 Crash on NB Ft Apache Rd\u00A0before Lone Mountain Rd. All NB and SB lanes are blocked. Expect Delays Use other routes",
-    "ImagePath": "",
-    "Latitude": 36.248164099999997,
-    "Longitude": -115.2974019
-  },
-  {
-    "UniqueId": 63729,
-    "Timestamp": "2026-11-23 06:19",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:19 AM, Nov 23 2026 Stalled vehicle on SB I-11\u00A0after Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868173/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
-    "UniqueId": 63730,
-    "Timestamp": "2026-11-23 06:23",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:23 AM, Nov 23 2026 Stalled vehicle on NB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/23/file_attachments/3868184/attachment_0.png",
-    "Latitude": 36.173755550244252,
-    "Longitude": -115.13794856955228
-  },
-  {
     "UniqueId": 63736,
     "Timestamp": "2026-11-23 06:55",
     "IncidentType": "Crash",
@@ -1160,5 +1104,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869934/attachment_0.png",
     "Latitude": 36.135899162360708,
     "Longitude": -115.09041309356691
+  },
+  {
+    "UniqueId": 63822,
+    "Timestamp": "2026-11-24 06:35",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:35 AM, Nov 24 2026 Stalled vehicle on NB I-15\u00A0before Blue Diamond Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/24/file_attachments/3869992/attachment_0.png",
+    "Latitude": 36.043451719876728,
+    "Longitude": -115.18080353736879
   }
 ]
