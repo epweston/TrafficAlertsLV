@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63934,
-    "Timestamp": "2026-11-25 15:35",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Eastern Ave",
-    "Relationship": "at",
-    "CrossStreet": "Twain Ave",
-    "Impact": "Multiple lanes blocked. Left shoulder only open. Expect Delays.",
-    "Notes": "3:35 PM, Nov 25 2026 Crash on SB Eastern Ave\u00A0at Twain Ave. Multiple lanes blocked. Left shoulder only open. Expect Delays.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872911/attachment_0.png",
-    "Latitude": 36.122253299999997,
-    "Longitude": -115.1188655
-  },
-  {
-    "UniqueId": 63935,
-    "Timestamp": "2026-11-25 15:38",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Cheyenne Ave",
-    "Relationship": "after",
-    "CrossStreet": "Civic Center Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "3:38 PM, Nov 25 2026 Crash on WB Cheyenne Ave\u00A0after Civic Center Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872919/attachment_0.png",
-    "Latitude": 36.217594200000001,
-    "Longitude": -115.12107260000001
-  },
-  {
     "UniqueId": 63936,
     "Timestamp": "2026-11-25 15:41",
     "IncidentType": "Stalled vehicle",
@@ -1160,5 +1132,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873343/attachment_0.png",
     "Latitude": 36.107976135121646,
     "Longitude": -115.15202879905702
+  },
+  {
+    "UniqueId": 64017,
+    "Timestamp": "2026-11-26 15:35",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Craig Rd",
+    "Impact": "2 Left lanes blocked.",
+    "Notes": "3:35 PM, Nov 26 2026 Crash on SB I-11\u00A0after Craig Rd. 2 Left lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873331/attachment_0.png",
+    "Latitude": 36.24008509526989,
+    "Longitude": -115.10174274444582
   }
 ]
