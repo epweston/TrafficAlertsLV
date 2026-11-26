@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63910,
-    "Timestamp": "2026-11-25 12:39",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Valle Verde Dr",
-    "Impact": "Center lane blocked.",
-    "Notes": "12:39 PM, Nov 25 2026 Crash on EB 215 Southern Beltway\u00A0before Valle Verde Dr. Center lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872780/attachment_0.jpg",
-    "Latitude": 36.02740562519562,
-    "Longitude": -115.06272733211519
-  },
-  {
-    "UniqueId": 63911,
-    "Timestamp": "2026-11-25 12:41",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Abbeyfield Rose Dr",
-    "Relationship": "at",
-    "CrossStreet": "Amigo St",
-    "Impact": "",
-    "Notes": "12:41 PM, Nov 25 2026 Crash on EB Abbeyfield Rose Dr\u00A0at Amigo St. Left lane blocked Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872783/attachment_0.png",
-    "Latitude": 35.989100800000003,
-    "Longitude": -115.1423612
-  },
-  {
-    "UniqueId": 63912,
-    "Timestamp": "2026-11-25 12:42",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Durango Dr",
-    "Impact": "Right shoulder.",
-    "Notes": "12:42 PM, Nov 25 2026 Stalled vehicle on EB Summerlin Pkwy\u00A0after Durango Dr. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872785/attachment_0.png",
-    "Latitude": 36.177830221918377,
-    "Longitude": -115.27826429671812
-  },
-  {
     "UniqueId": 63913,
     "Timestamp": "2026-11-25 12:57",
     "IncidentType": "Stalled vehicle",
@@ -1272,5 +1230,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873316/attachment_0.jpg",
     "Latitude": 36.180838799999997,
     "Longitude": -115.09837640000001
+  },
+  {
+    "UniqueId": 64001,
+    "Timestamp": "2026-11-26 12:39",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Blue Diamond Rd",
+    "Relationship": "at",
+    "CrossStreet": "Grand Canyon Dr",
+    "Impact": "2 Left lanes blocked. Expect Delays",
+    "Notes": "12:39 PM, Nov 26 2026 Crash on WB Blue Diamond Rd\u00A0at Grand Canyon Dr. 2 Left lanes blocked. Expect Delays",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873318/attachment_0.png",
+    "Latitude": 36.021765299999998,
+    "Longitude": -115.3071832
   }
 ]
