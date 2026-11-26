@@ -1,75 +1,5 @@
 [
   {
-    "UniqueId": 63913,
-    "Timestamp": "2026-11-25 12:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "College Dr",
-    "Impact": "Right shoulder",
-    "Notes": "12:57 PM, Nov 25 2026 Stalled vehicle on NB I-11\u00A0at College Dr. Right shoulder",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872807/attachment_0.png",
-    "Latitude": 36.000027078919814,
-    "Longitude": -114.96325289321217
-  },
-  {
-    "UniqueId": 63914,
-    "Timestamp": "2026-11-25 12:59",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "El Capitan Way",
-    "Impact": "Left turn lane blocked.",
-    "Notes": "12:59 PM, Nov 25 2026 Crash on WB Blue Diamond Rd\u00A0at El Capitan Way. Left turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872796/attachment_0.png",
-    "Latitude": 36.020405099999998,
-    "Longitude": -115.288556
-  },
-  {
-    "UniqueId": 63915,
-    "Timestamp": "2026-11-25 13:00",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "215 Western Beltway",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder.",
-    "Notes": "1:00 PM, Nov 25 2026 Crash on NB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872797/attachment_0.png",
-    "Latitude": 36.100031538544258,
-    "Longitude": -115.29390153647363
-  },
-  {
-    "UniqueId": 63916,
-    "Timestamp": "2026-11-25 13:10",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "Decatur Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:10 PM, Nov 25 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872813/attachment_0.png",
-    "Latitude": 36.275066093673964,
-    "Longitude": -115.20667091211907
-  },
-  {
-    "UniqueId": 63917,
-    "Timestamp": "2026-11-25 13:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:13 PM, Nov 25 2026 Stalled vehicle on SB I-11\u00A0after Tropicana Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872815/attachment_0.png",
-    "Latitude": 36.100573374055692,
-    "Longitude": -115.18049240112306
-  },
-  {
     "UniqueId": 63918,
     "Timestamp": "2026-11-25 13:17",
     "IncidentType": "Crash",
@@ -1258,5 +1188,19 @@
     "ImagePath": "",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 64003,
+    "Timestamp": "2026-11-26 13:11",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:11 PM, Nov 26 2026 Crash on EB Washington Ave\u00A0at Pecos Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.180838799999997,
+    "Longitude": -115.09837640000001
   }
 ]
