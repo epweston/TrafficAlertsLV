@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63907,
-    "Timestamp": "2026-11-25 11:47",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Craig Rd",
-    "Relationship": "before",
-    "CrossStreet": "Simmons St",
-    "Impact": "",
-    "Notes": "11:47 AM, Nov 25 2026 Crash on EB Craig Rd\u00A0before Simmons St. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872717/attachment_0.png",
-    "Latitude": 36.239531900000003,
-    "Longitude": -115.18004790000001
-  },
-  {
     "UniqueId": 63908,
     "Timestamp": "2026-11-25 11:59",
     "IncidentType": "Crash",
@@ -1272,5 +1258,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873292/attachment_0.png",
     "Latitude": 36.1003519,
     "Longitude": -115.0733187
+  },
+  {
+    "UniqueId": 63998,
+    "Timestamp": "2026-11-26 11:48",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:48 AM, Nov 26 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
   }
 ]
