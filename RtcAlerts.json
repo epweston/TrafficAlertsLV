@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63908,
-    "Timestamp": "2026-11-25 11:59",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Summerlin Pkwy",
-    "Relationship": "before",
-    "CrossStreet": "Buffalo Dr",
-    "Impact": "Left lane blocked.",
-    "Notes": "11:59 AM, Nov 25 2026 Crash on EB Summerlin Pkwy\u00A0before Buffalo Dr. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872726/attachment_0.png",
-    "Latitude": 36.178483896259188,
-    "Longitude": -115.25997161865236
-  },
-  {
-    "UniqueId": 63909,
-    "Timestamp": "2026-11-25 12:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "Right shoulder.",
-    "Notes": "12:25 PM, Nov 25 2026 Stalled vehicle on SB I-11\u00A0at Boulder Hwy. Right shoulder.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872734/attachment_0.png",
-    "Latitude": 36.135899162360708,
-    "Longitude": -115.09041309356691
-  },
-  {
     "UniqueId": 63910,
     "Timestamp": "2026-11-25 12:39",
     "IncidentType": "Crash",
@@ -1286,5 +1258,19 @@
     "ImagePath": "",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 64000,
+    "Timestamp": "2026-11-26 12:29",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Washington Ave",
+    "Relationship": "at",
+    "CrossStreet": "Pecos Rd",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "12:29 PM, Nov 26 2026 Crash on EB Washington Ave\u00A0at Pecos Rd. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873316/attachment_0.jpg",
+    "Latitude": 36.180838799999997,
+    "Longitude": -115.09837640000001
   }
 ]
