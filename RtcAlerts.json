@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 64003,
-    "Timestamp": "2026-11-26 13:11",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "Right lane blocked.",
-    "Notes": "1:11 PM, Nov 26 2026 Crash on EB Washington Ave\u00A0at Pecos Rd. Right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.180838799999997,
-    "Longitude": -115.09837640000001
-  },
-  {
     "UniqueId": 64004,
     "Timestamp": "2026-11-26 13:39",
     "IncidentType": "Crash",
@@ -838,5 +824,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873800/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 64066,
+    "Timestamp": "2026-11-27 13:10",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "1:10 PM, Nov 27 2026 Stalled vehicle on NB I-15\u00A0before Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873822/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
