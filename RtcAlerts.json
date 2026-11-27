@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63980,
-    "Timestamp": "2026-11-26 08:21",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Nellis Blvd",
-    "Relationship": "after",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "",
-    "Notes": "8:21 AM, Nov 26 2026 Crash on NB Nellis Blvd after Sahara Ave, right lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.144246600000002,
-    "Longitude": -115.0655266
-  },
-  {
     "UniqueId": 63981,
     "Timestamp": "2026-11-26 08:31",
     "IncidentType": "Crash",
@@ -936,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873596/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 64050,
+    "Timestamp": "2026-11-27 08:20",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "to",
+    "CrossStreet": "Harmon Ave",
+    "Impact": "Right turn lane blocked.",
+    "Notes": "8:20 AM, Nov 27 2026 Crash on SB Las Vegas Blvd\u00A0to Harmon Ave. Right turn lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873604/attachment_0.jpg",
+    "Latitude": 36.108816901628572,
+    "Longitude": -115.17299294471742
   }
 ]
