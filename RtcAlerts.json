@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 64000,
-    "Timestamp": "2026-11-26 12:29",
-    "IncidentType": "Crash",
-    "Direction": "EB",
-    "PrimaryRoad": "Washington Ave",
-    "Relationship": "at",
-    "CrossStreet": "Pecos Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "12:29 PM, Nov 26 2026 Crash on EB Washington Ave\u00A0at Pecos Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873316/attachment_0.jpg",
-    "Latitude": 36.180838799999997,
-    "Longitude": -115.09837640000001
-  },
-  {
-    "UniqueId": 64001,
-    "Timestamp": "2026-11-26 12:39",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Blue Diamond Rd",
-    "Relationship": "at",
-    "CrossStreet": "Grand Canyon Dr",
-    "Impact": "2 Left lanes blocked. Expect Delays",
-    "Notes": "12:39 PM, Nov 26 2026 Crash on WB Blue Diamond Rd\u00A0at Grand Canyon Dr. 2 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873318/attachment_0.png",
-    "Latitude": 36.021765299999998,
-    "Longitude": -115.3071832
-  },
-  {
-    "UniqueId": 64002,
-    "Timestamp": "2026-11-26 12:46",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "12:46 PM, Nov 26 2026 Crash on SB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 64003,
     "Timestamp": "2026-11-26 13:11",
     "IncidentType": "Crash",
@@ -852,5 +810,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873774/attachment_0.jpg",
     "Latitude": 35.978025199999998,
     "Longitude": -115.1551843
+  },
+  {
+    "UniqueId": 64064,
+    "Timestamp": "2026-11-27 12:51",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "after",
+    "CrossStreet": "Ann Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "12:51 PM, Nov 27 2026 Stalled vehicle on SB I-11\u00A0after Ann Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873778/attachment_0.jpg",
+    "Latitude": 36.26305439011032,
+    "Longitude": -115.25378367086844
   }
 ]
