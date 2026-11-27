@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 64005,
-    "Timestamp": "2026-11-26 14:11",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:11 PM, Nov 26 2026 Crash on SB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 64006,
-    "Timestamp": "2026-11-26 14:11",
-    "IncidentType": "Other",
-    "Direction": "NB",
-    "PrimaryRoad": "Mountain Vista St",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Traffic signal dark. Expect Delays",
-    "Notes": "2:11 PM, Nov 26 2026 Other on NB Mountain Vista St\u00A0at Tropicana Ave. Traffic signal dark. Expect Delays",
-    "ImagePath": "",
-    "Latitude": 36.1003519,
-    "Longitude": -115.0733187
-  },
-  {
-    "UniqueId": 64007,
-    "Timestamp": "2026-11-26 14:12",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 4",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:12 PM, Nov 26 2026 Stalled vehicle on NB I-15\u00A0at Mile 4. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 64008,
-    "Timestamp": "2026-11-26 14:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Craig Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:13 PM, Nov 26 2026 Stalled vehicle on NB I-15\u00A0at Craig Rd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.240197551211345,
-    "Longitude": -115.10190368118145
-  },
-  {
     "UniqueId": 64009,
     "Timestamp": "2026-11-26 14:18",
     "IncidentType": "Crash",
@@ -894,5 +838,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873831/attachment_0.png",
     "Latitude": 36.020561899999997,
     "Longitude": -115.1187199
+  },
+  {
+    "UniqueId": 64072,
+    "Timestamp": "2026-11-27 14:13",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Martin L King Blvd",
+    "Relationship": "at",
+    "CrossStreet": "Pinto Ln",
+    "Impact": "Intersection partially blocked",
+    "Notes": "2:13 PM, Nov 27 2026 Crash on NB Martin L King Blvd\u00A0at Pinto Ln. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873811/attachment_0.png",
+    "Latitude": 36.164267018855462,
+    "Longitude": -115.16179202204357
   }
 ]
