@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 64004,
-    "Timestamp": "2026-11-26 13:39",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "1:39 PM, Nov 26 2026 Crash on SB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
     "UniqueId": 64005,
     "Timestamp": "2026-11-26 14:11",
     "IncidentType": "Crash",
@@ -880,5 +866,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873828/attachment_0.png",
     "Latitude": 36.145850600000003,
     "Longitude": -115.34074099999999
+  },
+  {
+    "UniqueId": 64070,
+    "Timestamp": "2026-11-27 13:51",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "St Rose Pkwy",
+    "Relationship": "after",
+    "CrossStreet": "Maryland Pkwy",
+    "Impact": "Right lane blocked.",
+    "Notes": "1:51 PM, Nov 27 2026 Crash on EB St Rose Pkwy\u00A0after Maryland Pkwy. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873830/attachment_0.jpg",
+    "Latitude": 35.991393000000002,
+    "Longitude": -115.1365311
   }
 ]
