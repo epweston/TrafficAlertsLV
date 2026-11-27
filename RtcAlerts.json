@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 63959,
-    "Timestamp": "2026-11-25 18:47",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "after",
-    "CrossStreet": "Blue Diamond Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "6:47 PM, Nov 25 2026 Stalled vehicle on NB I-15\u00A0after Blue Diamond Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3873019/attachment_0.png",
-    "Latitude": 36.043451719876728,
-    "Longitude": -115.18080353736879
-  },
-  {
-    "UniqueId": 63960,
-    "Timestamp": "2026-11-25 18:51",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Maryland Pkwy",
-    "Relationship": "after",
-    "CrossStreet": "Katie Ave",
-    "Impact": "Left lane blocked.",
-    "Notes": "6:51 PM, Nov 25 2026 Crash on NB Maryland Pkwy\u00A0after Katie Ave. Left lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3873020/attachment_0.png",
-    "Latitude": 36.120278800000001,
-    "Longitude": -115.1374553
-  },
-  {
     "UniqueId": 63961,
     "Timestamp": "2026-11-25 19:05",
     "IncidentType": "Crash",
@@ -1146,5 +1118,19 @@
     "ImagePath": "",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 64041,
+    "Timestamp": "2026-11-26 18:50",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "Cheyenne Ave",
+    "Relationship": "at",
+    "CrossStreet": "I-15",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "6:50 PM, Nov 26 2026 Crash on WB Cheyenne Ave\u00A0at I-15. 2 Right lanes blocked.",
+    "ImagePath": "",
+    "Latitude": 36.217665489308381,
+    "Longitude": -115.12400501844569
   }
 ]
