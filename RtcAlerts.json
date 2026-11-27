@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63979,
-    "Timestamp": "2026-11-26 07:34",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Use other routes.",
-    "Notes": "7:34 AM, Nov 26 2026 Crash on NB I-11 to Elkhorn Rd, off ramp blocked. Use other routes.",
-    "ImagePath": "",
-    "Latitude": 36.291693742081051,
-    "Longitude": -115.2797598374233
-  },
-  {
     "UniqueId": 63980,
     "Timestamp": "2026-11-26 08:21",
     "IncidentType": "Crash",
@@ -936,5 +922,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873591/attachment_0.png",
     "Latitude": 36.174201411171254,
     "Longitude": -115.1549688891995
+  },
+  {
+    "UniqueId": 64049,
+    "Timestamp": "2026-11-27 07:38",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "to",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:38 AM, Nov 27 2026 Stalled vehicle on NB I-11\u00A0to Sunset Rd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873596/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
   }
 ]
