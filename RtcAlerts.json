@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63978,
-    "Timestamp": "2026-11-26 06:51",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Tropicana Ave",
-    "Relationship": "after",
-    "CrossStreet": "Boulder Hwy",
-    "Impact": "",
-    "Notes": "6:51 AM, Nov 26 2026 Crash on WB Tropicana Ave after Boulder Hwy, right lane blocked.",
-    "ImagePath": "",
-    "Latitude": 36.101014900000003,
-    "Longitude": -115.0508935
-  },
-  {
     "UniqueId": 63979,
     "Timestamp": "2026-11-26 07:34",
     "IncidentType": "Crash",
@@ -922,5 +908,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873489/attachment_0.png",
     "Latitude": 36.195865100000013,
     "Longitude": -115.1288797
+  },
+  {
+    "UniqueId": 64047,
+    "Timestamp": "2026-11-27 07:22",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Sahara Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:22 AM, Nov 27 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873570/attachment_0.png",
+    "Latitude": 36.143974367032428,
+    "Longitude": -115.1712317755692
   }
 ]
