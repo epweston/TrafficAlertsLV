@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 63990,
-    "Timestamp": "2026-11-26 10:13",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 106",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:13 AM, Nov 26 2026 Stalled vehicle on NB I-15\u00A0at Mile 106. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873256/attachment_0.png",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
-    "UniqueId": 63991,
-    "Timestamp": "2026-11-26 10:18",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:18 AM, Nov 26 2026 Crash on SB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873262/attachment_0.png",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 63992,
-    "Timestamp": "2026-11-26 10:29",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Jones Blvd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "10:29 AM, Nov 26 2026 Crash on NB I-11\u00A0after Jones Blvd. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173306500000002,
-    "Longitude": -115.2242504
-  },
-  {
     "UniqueId": 63993,
     "Timestamp": "2026-11-26 10:48",
     "IncidentType": "Crash",
@@ -866,5 +824,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873665/attachment_0.png",
     "Latitude": 36.291855300000002,
     "Longitude": -115.28772979999999
+  },
+  {
+    "UniqueId": 64055,
+    "Timestamp": "2026-11-27 10:25",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "over",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:25 AM, Nov 27 2026 Crash on NB I-15\u00A0over Lake Mead Blvd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873673/attachment_0.png",
+    "Latitude": 36.195823874771833,
+    "Longitude": -115.13858020305635
   }
 ]
