@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63993,
-    "Timestamp": "2026-11-26 10:48",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Koval Ln",
-    "Relationship": "at",
-    "CrossStreet": "Winnick Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "10:48 AM, Nov 26 2026 Crash on SB Koval Ln\u00A0at Winnick Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873270/attachment_0.png",
-    "Latitude": 36.117297100000002,
-    "Longitude": -115.1641261
-  },
-  {
     "UniqueId": 63994,
     "Timestamp": "2026-11-26 10:51",
     "IncidentType": "Crash",
@@ -852,5 +838,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873677/attachment_0.jpg",
     "Latitude": 36.167915800000003,
     "Longitude": -115.11588380000001
+  },
+  {
+    "UniqueId": 64057,
+    "Timestamp": "2026-11-27 10:44",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "Flamingo Rd",
+    "Impact": "Left lane blocked.",
+    "Notes": "10:44 AM, Nov 27 2026 Crash on SB Las Vegas Blvd\u00A0after Flamingo Rd. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873711/attachment_0.png",
+    "Latitude": 36.114659896847385,
+    "Longitude": -115.17288892246221
   }
 ]
