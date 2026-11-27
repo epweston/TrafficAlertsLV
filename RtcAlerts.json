@@ -1104,5 +1104,33 @@
     "ImagePath": "",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 64038,
+    "Timestamp": "2026-11-26 18:32",
+    "IncidentType": "Crash",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "before",
+    "CrossStreet": "Decatur Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:32 PM, Nov 26 2026 Crash on WB 215 Southern Beltway\u00A0before Decatur Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873368/attachment_0.png",
+    "Latitude": 36.275066093673964,
+    "Longitude": -115.20667091211907
+  },
+  {
+    "UniqueId": 64039,
+    "Timestamp": "2026-11-26 18:33",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Las Vegas Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "6:33 PM, Nov 26 2026 Stalled vehicle on SB I-11\u00A0at Las Vegas Blvd. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": 36.173755550244252,
+    "Longitude": -115.13794856955228
   }
 ]
