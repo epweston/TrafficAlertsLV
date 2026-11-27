@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63955,
-    "Timestamp": "2026-11-25 18:00",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Jones Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Tropicana Ave",
-    "Impact": "Right lane blocked.",
-    "Notes": "6:00 PM, Nov 25 2026 Crash on SB Jones Blvd\u00A0at Tropicana Ave. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872972/attachment_0.png",
-    "Latitude": 36.099959300000002,
-    "Longitude": -115.22498229999999
-  },
-  {
     "UniqueId": 63956,
     "Timestamp": "2026-11-25 18:08",
     "IncidentType": "Crash",
@@ -1088,6 +1074,20 @@
     "Impact": "Left lane blocked. Expect Delays Use other routes",
     "Notes": "5:46 PM, Nov 26 2026 Crash on SB I-11\u00A0before Sunset Rd. Left lane blocked. Expect Delays Use other routes",
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873352/attachment_0.png",
+    "Latitude": 36.063788769857624,
+    "Longitude": -115.03192757450051
+  },
+  {
+    "UniqueId": 64033,
+    "Timestamp": "2026-11-26 18:00",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "before",
+    "CrossStreet": "Sunset Rd",
+    "Impact": "All lanes are blocked. Expect Delays Use other routes",
+    "Notes": "6:00 PM, Nov 26 2026 Crash on SB I-11\u00A0before Sunset Rd. All lanes are blocked. Expect Delays Use other routes",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873353/attachment_0.png",
     "Latitude": 36.063788769857624,
     "Longitude": -115.03192757450051
   }
