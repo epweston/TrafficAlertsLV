@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63995,
-    "Timestamp": "2026-11-26 11:01",
-    "IncidentType": "Hazard",
-    "Direction": "NB",
-    "PrimaryRoad": "Rancho Lane",
-    "Relationship": "at",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Right lane blocked. Expect Delays",
-    "Notes": "11:01 AM, Nov 26 2026 Hazard on NB Rancho Lane\u00A0at Rancho Dr. Right lane blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873274/attachment_0.jpg",
-    "Latitude": 36.1617654,
-    "Longitude": -115.17264950000001
-  },
-  {
     "UniqueId": 63996,
     "Timestamp": "2026-11-26 11:24",
     "IncidentType": "Crash",
@@ -852,5 +838,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873732/attachment_0.png",
     "Latitude": 36.17515833813831,
     "Longitude": -115.17439842224121
+  },
+  {
+    "UniqueId": 64059,
+    "Timestamp": "2026-11-27 11:00",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Eastern Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "11:00 AM, Nov 27 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873736/attachment_0.jpg",
+    "Latitude": 36.167848542478005,
+    "Longitude": -115.11594772338869
   }
 ]
