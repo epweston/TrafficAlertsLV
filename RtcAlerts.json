@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63943,
-    "Timestamp": "2026-11-25 16:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Mile 21",
-    "Impact": "Right lane blocked.",
-    "Notes": "4:51 PM, Nov 25 2026 Crash on SB I-15\u00A0at Mile 21. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872935/attachment_0.jpg",
-    "Latitude": null,
-    "Longitude": null
-  },
-  {
     "UniqueId": 63944,
     "Timestamp": "2026-11-25 16:56",
     "IncidentType": "Stalled vehicle",
@@ -1132,5 +1118,19 @@
     "ImagePath": "",
     "Latitude": 36.1003519,
     "Longitude": -115.0733187
+  },
+  {
+    "UniqueId": 64024,
+    "Timestamp": "2026-11-26 16:52",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Mile 4",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "4:52 PM, Nov 26 2026 Stalled vehicle on NB I-15\u00A0at Mile 4. Right shoulder blocked.",
+    "ImagePath": "",
+    "Latitude": null,
+    "Longitude": null
   }
 ]
