@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 63953,
-    "Timestamp": "2026-11-25 17:29",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "at",
-    "CrossStreet": "Silverado Ranch Blvd",
-    "Impact": "Right lane blocked.",
-    "Notes": "5:29 PM, Nov 25 2026 Stalled vehicle on SB I-15\u00A0at Silverado Ranch Blvd. Right lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/25/file_attachments/3872989/attachment_0.png",
-    "Latitude": 36.01340138174109,
-    "Longitude": -115.18049792344952
-  },
-  {
     "UniqueId": 63954,
     "Timestamp": "2026-11-25 17:47",
     "IncidentType": "Crash",
@@ -1062,5 +1048,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873350/attachment_0.png",
     "Latitude": 36.107993454589142,
     "Longitude": -115.18050356672701
+  },
+  {
+    "UniqueId": 64029,
+    "Timestamp": "2026-11-26 17:27",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "Fort Apache Rd",
+    "Relationship": "at",
+    "CrossStreet": "Blue Diamond Rd",
+    "Impact": "Right lane blocked.",
+    "Notes": "5:27 PM, Nov 26 2026 Crash on SB Fort Apache Rd\u00A0at Blue Diamond Rd. Right lane blocked.",
+    "ImagePath": "",
+    "Latitude": 36.020538700000003,
+    "Longitude": -115.29798
   }
 ]
