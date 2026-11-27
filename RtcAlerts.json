@@ -1,61 +1,5 @@
 [
   {
-    "UniqueId": 64012,
-    "Timestamp": "2026-11-26 14:44",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Commerce St",
-    "Relationship": "after",
-    "CrossStreet": "Gowan Rd",
-    "Impact": "2 Right lanes blocked.",
-    "Notes": "2:44 PM, Nov 26 2026 Crash on NB Commerce St\u00A0after Gowan Rd. 2 Right lanes blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873328/attachment_0.png",
-    "Latitude": 36.2249336,
-    "Longitude": -115.1432708
-  },
-  {
-    "UniqueId": 64013,
-    "Timestamp": "2026-11-26 14:45",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "I-15",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "2:45 PM, Nov 26 2026 Crash on SB I-11\u00A0at I-15. Right shoulder blocked.",
-    "ImagePath": "",
-    "Latitude": 36.174201411171254,
-    "Longitude": -115.1549688891995
-  },
-  {
-    "UniqueId": 64014,
-    "Timestamp": "2026-11-26 14:46",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Lamb Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bonanza Rd",
-    "Impact": "3 Left lanes blocked.",
-    "Notes": "2:46 PM, Nov 26 2026 Crash on NB Lamb Blvd\u00A0at Bonanza Rd. 3 Left lanes blocked.",
-    "ImagePath": "",
-    "Latitude": 36.173543799999997,
-    "Longitude": -115.08043429999999
-  },
-  {
-    "UniqueId": 64015,
-    "Timestamp": "2026-11-26 14:51",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "after",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "3 Left lanes blocked. Expect Delays",
-    "Notes": "2:51 PM, Nov 26 2026 Crash on SB I-11\u00A0after Sunset Rd. 3 Left lanes blocked. Expect Delays",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/26/file_attachments/3873341/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
     "UniqueId": 64016,
     "Timestamp": "2026-11-26 15:29",
     "IncidentType": "Crash",
@@ -824,5 +768,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873835/attachment_0.png",
     "Latitude": 36.070266099999998,
     "Longitude": -115.26077119999999
+  },
+  {
+    "UniqueId": 64075,
+    "Timestamp": "2026-11-27 15:16",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "before",
+    "CrossStreet": "Charleston Blvd",
+    "Impact": "Right lane blocked.",
+    "Notes": "3:16 PM, Nov 27 2026 Stalled vehicle on SB I-15\u00A0before Charleston Blvd. Right lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873838/attachment_0.png",
+    "Latitude": 36.15899619479174,
+    "Longitude": -115.16101956367494
   }
 ]
