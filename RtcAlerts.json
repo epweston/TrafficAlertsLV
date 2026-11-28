@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 64049,
-    "Timestamp": "2026-11-27 07:38",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "to",
-    "CrossStreet": "Sunset Rd",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:38 AM, Nov 27 2026 Stalled vehicle on NB I-11\u00A0to Sunset Rd. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873596/attachment_0.png",
-    "Latitude": 36.063788769857624,
-    "Longitude": -115.03192757450051
-  },
-  {
     "UniqueId": 64050,
     "Timestamp": "2026-11-27 08:20",
     "IncidentType": "Crash",
@@ -600,5 +586,19 @@
     "ImagePath": "",
     "Latitude": 36.100677398719725,
     "Longitude": -115.1805353164673
+  },
+  {
+    "UniqueId": 64097,
+    "Timestamp": "2026-11-28 07:42",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "WB",
+    "PrimaryRoad": "215 Southern Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Valle Verde Dr",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "7:42 AM, Nov 28 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0at Valle Verde Dr. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873925/attachment_0.png",
+    "Latitude": 36.02740562519562,
+    "Longitude": -115.06272733211519
   }
 ]
