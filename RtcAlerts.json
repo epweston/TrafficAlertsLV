@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 64047,
-    "Timestamp": "2026-11-27 07:22",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "SB",
-    "PrimaryRoad": "I-15",
-    "Relationship": "before",
-    "CrossStreet": "Sahara Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "7:22 AM, Nov 27 2026 Stalled vehicle on SB I-15\u00A0before Sahara Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873570/attachment_0.png",
-    "Latitude": 36.143974367032428,
-    "Longitude": -115.1712317755692
-  },
-  {
     "UniqueId": 64048,
     "Timestamp": "2026-11-27 07:26",
     "IncidentType": "Crash",
@@ -600,5 +586,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873940/attachment_0.png",
     "Latitude": 36.063540607409585,
     "Longitude": -115.17238147551866
+  },
+  {
+    "UniqueId": 64095,
+    "Timestamp": "2026-11-28 07:19",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "Las Vegas Blvd",
+    "Relationship": "after",
+    "CrossStreet": "4Th St",
+    "Impact": "",
+    "Notes": "7:19 AM, Nov 28 2026 Crash on NB Las Vegas Blvd\u00A0after 4th St. Left lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873922/attachment_0.jpg",
+    "Latitude": 36.153303700000002,
+    "Longitude": -115.1510431
   }
 ]
