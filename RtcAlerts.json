@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 64054,
-    "Timestamp": "2026-11-27 09:58",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Durango Dr",
-    "Relationship": "at",
-    "CrossStreet": "Elkhorn Rd",
-    "Impact": "Intersection partially blocked",
-    "Notes": "9:58 AM, Nov 27 2026 Crash on NB Durango Dr\u00A0at Elkhorn Rd. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873665/attachment_0.png",
-    "Latitude": 36.291855300000002,
-    "Longitude": -115.28772979999999
-  },
-  {
     "UniqueId": 64055,
     "Timestamp": "2026-11-27 10:25",
     "IncidentType": "Crash",
@@ -684,5 +670,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873961/attachment_0.png",
     "Latitude": 36.114494117320874,
     "Longitude": -115.18065333366396
+  },
+  {
+    "UniqueId": 64108,
+    "Timestamp": "2026-11-28 10:05",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-15",
+    "Relationship": "at",
+    "CrossStreet": "Craig Rd",
+    "Impact": "Center lane blocked.",
+    "Notes": "10:05 AM, Nov 28 2026 Crash on NB I-15\u00A0at Craig Rd. Center lane blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873979/attachment_0.png",
+    "Latitude": 36.240197551211345,
+    "Longitude": -115.10190368118145
+  },
+  {
+    "UniqueId": 64109,
+    "Timestamp": "2026-11-28 10:06",
+    "IncidentType": "Stalled vehicle",
+    "Direction": "SB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "Lake Mead Blvd",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "10:06 AM, Nov 28 2026 Stalled vehicle on SB I-11\u00A0at Lake Mead Blvd. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873965/attachment_0.png",
+    "Latitude": 36.196054784798598,
+    "Longitude": -115.24447712475862
   }
 ]
