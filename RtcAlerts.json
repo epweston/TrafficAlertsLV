@@ -1,19 +1,5 @@
 [
   {
-    "UniqueId": 64046,
-    "Timestamp": "2026-11-27 05:18",
-    "IncidentType": "Crash",
-    "Direction": "WB",
-    "PrimaryRoad": "Lake Mead Blvd",
-    "Relationship": "before",
-    "CrossStreet": "Las Vegas Blvd",
-    "Impact": "Multiple lanes blocked",
-    "Notes": "5:18 AM, Nov 27 2026 Crash on WB Lake Mead Blvd\u00A0before Las Vegas Blvd. Multiple lanes blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873489/attachment_0.png",
-    "Latitude": 36.195865100000013,
-    "Longitude": -115.1288797
-  },
-  {
     "UniqueId": 64047,
     "Timestamp": "2026-11-27 07:22",
     "IncidentType": "Stalled vehicle",
@@ -530,5 +516,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873907/attachment_0.png",
     "Latitude": null,
     "Longitude": null
+  },
+  {
+    "UniqueId": 64089,
+    "Timestamp": "2026-11-28 05:20",
+    "IncidentType": "Crash",
+    "Direction": "NB",
+    "PrimaryRoad": "I-11",
+    "Relationship": "at",
+    "CrossStreet": "215 Northern Beltway",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "5:20 AM, Nov 28 2026 Crash on NB I-11\u00A0at 215 Northern Beltway. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873908/attachment_0.png",
+    "Latitude": 36.033552862846953,
+    "Longitude": -115.01434604859962
   }
 ]
