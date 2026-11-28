@@ -1,33 +1,5 @@
 [
   {
-    "UniqueId": 64058,
-    "Timestamp": "2026-11-27 10:57",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "before",
-    "CrossStreet": "Rancho Dr",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "10:57 AM, Nov 27 2026 Stalled vehicle on NB I-11\u00A0before Rancho Dr. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873732/attachment_0.png",
-    "Latitude": 36.17515833813831,
-    "Longitude": -115.17439842224121
-  },
-  {
-    "UniqueId": 64059,
-    "Timestamp": "2026-11-27 11:00",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "NB",
-    "PrimaryRoad": "I-11",
-    "Relationship": "at",
-    "CrossStreet": "Eastern Ave",
-    "Impact": "Right shoulder blocked.",
-    "Notes": "11:00 AM, Nov 27 2026 Stalled vehicle on NB I-11\u00A0at Eastern Ave. Right shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873736/attachment_0.jpg",
-    "Latitude": 36.167848542478005,
-    "Longitude": -115.11594772338869
-  },
-  {
     "UniqueId": 64060,
     "Timestamp": "2026-11-27 11:17",
     "IncidentType": "Stalled vehicle",
@@ -670,5 +642,33 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873971/attachment_0.png",
     "Latitude": 36.033625694401444,
     "Longitude": -115.0147810107534
+  },
+  {
+    "UniqueId": 64111,
+    "Timestamp": "2026-11-28 10:58",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Farm Rd",
+    "Relationship": "at",
+    "CrossStreet": "Rainbow Blvd",
+    "Impact": "Intersection partially blocked",
+    "Notes": "10:58 AM, Nov 28 2026 Crash on EB Farm Rd\u00A0at Rainbow Blvd. Intersection partially blocked",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873998/attachment_0.png",
+    "Latitude": 36.297810800000001,
+    "Longitude": -115.24223859999999
+  },
+  {
+    "UniqueId": 64112,
+    "Timestamp": "2026-11-28 10:59",
+    "IncidentType": "Crash",
+    "Direction": "EB",
+    "PrimaryRoad": "Horizon Dr",
+    "Relationship": "at",
+    "CrossStreet": "Boulder Hwy",
+    "Impact": "2 Right lanes blocked.",
+    "Notes": "10:59 AM, Nov 28 2026 Crash on EB Horizon Dr\u00A0at Boulder Hwy. 2 Right lanes blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873975/attachment_0.png",
+    "Latitude": 36.014086499999998,
+    "Longitude": -114.9536061
   }
 ]
