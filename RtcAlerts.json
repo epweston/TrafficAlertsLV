@@ -1,47 +1,5 @@
 [
   {
-    "UniqueId": 64050,
-    "Timestamp": "2026-11-27 08:20",
-    "IncidentType": "Crash",
-    "Direction": "SB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "to",
-    "CrossStreet": "Harmon Ave",
-    "Impact": "Right turn lane blocked.",
-    "Notes": "8:20 AM, Nov 27 2026 Crash on SB Las Vegas Blvd\u00A0to Harmon Ave. Right turn lane blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873604/attachment_0.jpg",
-    "Latitude": 36.108816901628572,
-    "Longitude": -115.17299294471742
-  },
-  {
-    "UniqueId": 64051,
-    "Timestamp": "2026-11-27 08:25",
-    "IncidentType": "Stalled vehicle",
-    "Direction": "WB",
-    "PrimaryRoad": "215 Southern Beltway",
-    "Relationship": "before",
-    "CrossStreet": "St Rose Pkwy",
-    "Impact": "Left shoulder blocked.",
-    "Notes": "8:25 AM, Nov 27 2026 Stalled vehicle on WB 215 Southern Beltway\u00A0before St Rose Pkwy. Left shoulder blocked.",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873608/attachment_0.png",
-    "Latitude": 36.023410016643204,
-    "Longitude": -115.10067737781434
-  },
-  {
-    "UniqueId": 64052,
-    "Timestamp": "2026-11-27 09:02",
-    "IncidentType": "Crash",
-    "Direction": "NB",
-    "PrimaryRoad": "Las Vegas Blvd",
-    "Relationship": "at",
-    "CrossStreet": "Bridger Ave",
-    "Impact": "Intersection partially blocked",
-    "Notes": "9:02 AM, Nov 27 2026 Crash on NB Las Vegas Blvd\u00A0at Bridger Ave. Intersection partially blocked",
-    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/27/file_attachments/3873613/attachment_0.jpg",
-    "Latitude": 36.166891999999997,
-    "Longitude": -115.1421349
-  },
-  {
     "UniqueId": 64053,
     "Timestamp": "2026-11-27 09:55",
     "IncidentType": "Stalled vehicle",
@@ -628,5 +586,19 @@
     "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873944/attachment_0.png",
     "Latitude": 36.173306500000002,
     "Longitude": -115.2242504
+  },
+  {
+    "UniqueId": 64100,
+    "Timestamp": "2026-11-28 08:59",
+    "IncidentType": "Crash",
+    "Direction": "SB",
+    "PrimaryRoad": "215 Western Beltway",
+    "Relationship": "at",
+    "CrossStreet": "Tropicana Ave",
+    "Impact": "Right shoulder blocked.",
+    "Notes": "8:59 AM, Nov 28 2026 Crash on SB 215 Western Beltway\u00A0at Tropicana Ave. Right shoulder blocked.",
+    "ImagePath": "https://content.govdelivery.com/attachments/NVRTC/2026/11/28/file_attachments/3873948/attachment_0.png",
+    "Latitude": 36.100031538544258,
+    "Longitude": -115.29390153647363
   }
 ]
